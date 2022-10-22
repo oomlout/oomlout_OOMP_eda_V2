@@ -1,0 +1,30 @@
+
+
+
+  
+NO IMAGE  
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XUF1V63DC4U163DC15525 > CAPC-0402-X-UF10-V63D-C4U1063D-C15525
+
+- ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-UF10-V63D-C4U1063D-C15525
+- Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XUF1V63DC4U163DC15525
+- Name: CAPC-0402-X-UF10-V63D-C4U1063D-C15525
+- Description: CAPC-0402-X-UF10-V63D-C4U1063D-C15525
+- Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-UF10-V63D-C4U1063D-C15525](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-UF10-V63D-C4U1063D-C15525)
+- Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XUF1V63DC4U163DC15525](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XUF1V63DC4U163DC15525)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|SYMBOL|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|oomlout_OOMP_kicad|
+|OOMP Description|oompDesc|oomlout_OOMP_JLCC_Basic|
+|OOMP Index|oompIndex|CAPC-0402-X-UF10-V63D-C4U1063D-C15525|
+|Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-UF10-V63D-C4U1063D-C15525|
+|Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XUF1V63DC4U163DC15525|
+|Name|name|CAPC-0402-X-UF10-V63D-C4U1063D-C15525|
+|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0402-X-UF10-V63D-C4U1063D-C15525', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0402-X-UF10-V63D-C4U1063D-C15525', 'kicadSymbolDatasheet': 'oom.lt/C4U1063D', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C4U1063D;PARTL C-JLCC;C15525;MANUF C-XXXX;CL05A106MQ5NUNC;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
+||||

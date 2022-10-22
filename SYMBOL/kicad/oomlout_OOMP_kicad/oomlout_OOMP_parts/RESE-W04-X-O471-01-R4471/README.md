@@ -1,0 +1,30 @@
+
+
+
+  
+NO IMAGE  
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESEW4XO4711R4471 > RESE-W04-X-O471-01-R4471
+
+- ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O471-01-R4471
+- Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESEW4XO4711R4471
+- Name: RESE-W04-X-O471-01-R4471
+- Description: RESE-W04-X-O471-01-R4471
+- Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O471-01-R4471](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O471-01-R4471)
+- Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESEW4XO4711R4471](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESEW4XO4711R4471)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|SYMBOL|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|oomlout_OOMP_kicad|
+|OOMP Description|oompDesc|oomlout_OOMP_parts|
+|OOMP Index|oompIndex|RESE-W04-X-O471-01-R4471|
+|Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O471-01-R4471|
+|Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESEW4XO4711R4471|
+|Name|name|RESE-W04-X-O471-01-R4471|
+|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-W04-X-O471-01-R4471', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-W04-X-O471-01-R4471', 'kicadSymbolDatasheet': 'oom.lt/R4471', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R4471;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
+||||

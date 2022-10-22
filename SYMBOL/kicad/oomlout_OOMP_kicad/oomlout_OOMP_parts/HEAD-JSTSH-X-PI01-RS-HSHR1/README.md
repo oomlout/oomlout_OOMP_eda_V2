@@ -1,0 +1,30 @@
+
+
+
+  
+NO IMAGE  
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI1RSHSHR1 > HEAD-JSTSH-X-PI01-RS-HSHR1
+
+- ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI01-RS-HSHR1
+- Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI1RSHSHR1
+- Name: HEAD-JSTSH-X-PI01-RS-HSHR1
+- Description: HEAD-JSTSH-X-PI01-RS-HSHR1
+- Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI01-RS-HSHR1](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI01-RS-HSHR1)
+- Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI1RSHSHR1](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI1RSHSHR1)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|SYMBOL|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|oomlout_OOMP_kicad|
+|OOMP Description|oompDesc|oomlout_OOMP_parts|
+|OOMP Index|oompIndex|HEAD-JSTSH-X-PI01-RS-HSHR1|
+|Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI01-RS-HSHR1|
+|Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI1RSHSHR1|
+|Name|name|HEAD-JSTSH-X-PI01-RS-HSHR1|
+|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HEAD-JSTSH-X-PI01-RS-HSHR1', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:HEAD-JSTSH-X-PI01-RS-HSHR1', 'kicadSymbolDatasheet': 'oom.lt/HSHR1', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'hexID: HSHR1;Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*'}]|
+||||

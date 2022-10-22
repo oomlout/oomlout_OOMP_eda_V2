@@ -1,0 +1,30 @@
+
+
+
+  
+NO IMAGE  
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC126XNF1V2C12N12C9196 > CAPC-1206-X-NF1-V2000-C12N12000-C9196
+
+- ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-1206-X-NF1-V2000-C12N12000-C9196
+- Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC126XNF1V2C12N12C9196
+- Name: CAPC-1206-X-NF1-V2000-C12N12000-C9196
+- Description: CAPC-1206-X-NF1-V2000-C12N12000-C9196
+- Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-1206-X-NF1-V2000-C12N12000-C9196](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-1206-X-NF1-V2000-C12N12000-C9196)
+- Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC126XNF1V2C12N12C9196](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC126XNF1V2C12N12C9196)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|SYMBOL|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|oomlout_OOMP_kicad|
+|OOMP Description|oompDesc|oomlout_OOMP_JLCC_Basic|
+|OOMP Index|oompIndex|CAPC-1206-X-NF1-V2000-C12N12000-C9196|
+|Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-1206-X-NF1-V2000-C12N12000-C9196|
+|Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC126XNF1V2C12N12C9196|
+|Name|name|CAPC-1206-X-NF1-V2000-C12N12000-C9196|
+|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-1206-X-NF1-V2000-C12N12000-C9196', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-1206-X-NF1-V2000-C12N12000-C9196', 'kicadSymbolDatasheet': 'oom.lt/C12N12000', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C12N12000;PARTL C-JLCC;C9196;MANUF C-XXXX;1206B102K202NT;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
+||||

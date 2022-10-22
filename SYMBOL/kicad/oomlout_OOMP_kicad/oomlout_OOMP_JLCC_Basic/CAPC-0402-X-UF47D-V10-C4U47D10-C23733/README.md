@@ -1,0 +1,30 @@
+
+
+
+  
+NO IMAGE  
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XUF47DV1C4U47D1C23733 > CAPC-0402-X-UF47D-V10-C4U47D10-C23733
+
+- ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-UF47D-V10-C4U47D10-C23733
+- Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XUF47DV1C4U47D1C23733
+- Name: CAPC-0402-X-UF47D-V10-C4U47D10-C23733
+- Description: CAPC-0402-X-UF47D-V10-C4U47D10-C23733
+- Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-UF47D-V10-C4U47D10-C23733](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-UF47D-V10-C4U47D10-C23733)
+- Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XUF47DV1C4U47D1C23733](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XUF47DV1C4U47D1C23733)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|SYMBOL|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|oomlout_OOMP_kicad|
+|OOMP Description|oompDesc|oomlout_OOMP_JLCC_Basic|
+|OOMP Index|oompIndex|CAPC-0402-X-UF47D-V10-C4U47D10-C23733|
+|Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-UF47D-V10-C4U47D10-C23733|
+|Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XUF47DV1C4U47D1C23733|
+|Name|name|CAPC-0402-X-UF47D-V10-C4U47D10-C23733|
+|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0402-X-UF47D-V10-C4U47D10-C23733', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0402-X-UF47D-V10-C4U47D10-C23733', 'kicadSymbolDatasheet': 'oom.lt/C4U47D10', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C4U47D10;PARTL C-JLCC;C23733;MANUF C-XXXX;CL05A475MP5NRNC;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
+||||
