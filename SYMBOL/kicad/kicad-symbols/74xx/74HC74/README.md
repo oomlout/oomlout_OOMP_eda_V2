@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# SZK74XX74HC74 > 74HC74
+
+- ID: SYMBOL-kicad-kicad-symbols-74xx-74HC74
+- Hex ID: SZK74XX74HC74
+- Name: 74HC74
+- Description: 74HC74
+- Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74HC74](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74HC74)
+- Short Link: [http://oom.lt/SZK74XX74HC74](http://oom.lt/SZK74XX74HC74)
+  
+
+|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx/74HC74/image.png||||
+| :---: | :---: | :---: | :---: |
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|SYMBOL|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-symbols|
+|OOMP Description|oompDesc|74xx|
+|OOMP Index|oompIndex|74HC74|
+|Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74HC74|
+|Hex ID (short code)|hexID|SZK74XX74HC74|
+|Name|name|74HC74|
+|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LS74', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74HC74', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '74xx/74hc_hct74.pdf', 'kicadSymbolki_keywords': 'TTL DFF', 'kicadSymbolki_description': 'Dual D Flip-flop, Set & Reset', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+||||

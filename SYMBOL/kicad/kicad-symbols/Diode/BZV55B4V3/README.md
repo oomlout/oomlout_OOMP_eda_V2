@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# SZKDIODEBZV55B4V3 > BZV55B4V3
+
+- ID: SYMBOL-kicad-kicad-symbols-Diode-BZV55B4V3
+- Hex ID: SZKDIODEBZV55B4V3
+- Name: BZV55B4V3
+- Description: BZV55B4V3
+- Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZV55B4V3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZV55B4V3)
+- Short Link: [http://oom.lt/SZKDIODEBZV55B4V3](http://oom.lt/SZKDIODEBZV55B4V3)
+  
+
+|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BZV55B4V3/image.png||||
+| :---: | :---: | :---: | :---: |
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|SYMBOL|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-symbols|
+|OOMP Description|oompDesc|Diode|
+|OOMP Index|oompIndex|BZV55B4V3|
+|Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BZV55B4V3|
+|Hex ID (short code)|hexID|SZKDIODEBZV55B4V3|
+|Name|name|BZV55B4V3|
+|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZPYxx', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BZV55B4V3', 'kicadSymbolFootprint': 'Diode_SMD:D_MiniMELF', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf', 'kicadSymbolki_keywords': 'zener diode', 'kicadSymbolki_description': '4.3V, 500mW, 2%, Zener diode, MiniMELF', 'kicadSymbolki_fp_filters': 'D*MiniMELF*'}]|
+||||

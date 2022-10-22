@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# SZKDIODEBAV3 > BAV300
+
+- ID: SYMBOL-kicad-kicad-symbols-Diode-BAV300
+- Hex ID: SZKDIODEBAV3
+- Name: BAV300
+- Description: BAV300
+- Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV300](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV300)
+- Short Link: [http://oom.lt/SZKDIODEBAV3](http://oom.lt/SZKDIODEBAV3)
+  
+
+|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/BAV300/image.png||||
+| :---: | :---: | :---: | :---: |
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|SYMBOL|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-symbols|
+|OOMP Description|oompDesc|Diode|
+|OOMP Index|oompIndex|BAV300|
+|Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAV300|
+|Hex ID (short code)|hexID|SZKDIODEBAV3|
+|Name|name|BAV300|
+|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCL4148', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAV300', 'kicadSymbolFootprint': 'Diode_SMD:D_MicroMELF', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/85545/bav300.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '50V 0.25A Switching Diode, High Voltage, MicroMELF', 'kicadSymbolki_fp_filters': 'D*MicroMELF*'}]|
+||||

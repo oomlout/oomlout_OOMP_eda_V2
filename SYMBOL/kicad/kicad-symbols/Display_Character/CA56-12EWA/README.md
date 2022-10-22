@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# SZKDICHARACTERCA5612EWA > CA56-12EWA
+
+- ID: SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12EWA
+- Hex ID: SZKDICHARACTERCA5612EWA
+- Name: CA56-12EWA
+- Description: CA56-12EWA
+- Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12EWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12EWA)
+- Short Link: [http://oom.lt/SZKDICHARACTERCA5612EWA](http://oom.lt/SZKDICHARACTERCA5612EWA)
+  
+
+|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/CA56-12EWA/image.png||||
+| :---: | :---: | :---: | :---: |
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|SYMBOL|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-symbols|
+|OOMP Description|oompDesc|Display_Character|
+|OOMP Index|oompIndex|CA56-12EWA|
+|Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12EWA|
+|Hex ID (short code)|hexID|SZKDICHARACTERCA5612EWA|
+|Name|name|CA56-12EWA|
+|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CA56-12EWA', 'kicadSymbolFootprint': 'Display_7Segment:CA56-12EWA', 'kicadSymbolDatasheet': 'http://www.kingbrightusa.com/images/catalog/SPEC/CA56-12EWA.pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': '4 digit 7 segment high efficiency red LED, common anode', 'kicadSymbolki_fp_filters': '*CA56*12EWA*'}]|
+||||
