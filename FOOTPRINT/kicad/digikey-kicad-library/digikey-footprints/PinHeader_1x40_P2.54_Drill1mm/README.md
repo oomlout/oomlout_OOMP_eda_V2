@@ -1,0 +1,38 @@
+
+
+
+  
+![][im]
+# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER1X4P254DRILL1 > digikey-footprints : PinHeader_1x40_P2.54_Drill1mm
+
+- ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_1x40_P2.54_Drill1mm
+- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER1X4P254DRILL1
+- Name: digikey-footprints : PinHeader_1x40_P2.54_Drill1mm
+- Description: digikey-footprints : PinHeader_1x40_P2.54_Drill1mm
+- Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_1x40_P2.54_Drill1mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_1x40_P2.54_Drill1mm)
+- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER1X4P254DRILL1](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER1X4P254DRILL1)
+  
+
+|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_1x40_P2.54_Drill1mm/image.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_1x40_P2.54_Drill1mm/kicadPcb3dFront.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_1x40_P2.54_Drill1mm/kicadPcb3dBack.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_1x40_P2.54_Drill1mm/kicadPcb3d.png|
+| :---: | :---: | :---: | :---: |
+|||||
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|digikey-kicad-library|
+|OOMP Description|oompDesc|digikey-footprints|
+|OOMP Index|oompIndex|PinHeader_1x40_P2.54_Drill1mm|
+|Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_1x40_P2.54_Drill1mm|
+|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER1X4P254DRILL1|
+|Name|name|digikey-footprints : PinHeader_1x40_P2.54_Drill1mm|
+|Footprint Kicad|footprintKicadDetails|{'name': 'PinHeader_1x40_P2.54_Drill1mm', 'description': 'https://media.digikey.com/PDF/Data%20Sheets/Sullins%20PDFs/xRxCzzzSxxN-RC_ST_11635-B.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+||||
+
+
+
+[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_1x40_P2.54_Drill1mm/kicadPcb3d_450.png

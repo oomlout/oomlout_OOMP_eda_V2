@@ -1,0 +1,38 @@
+
+
+
+  
+![][im]
+# FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPOWERSOIC8W39 > digikey-footprints : PowerSOIC-8_W3.9mm
+
+- ID: FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PowerSOIC-8_W3.9mm
+- Hex ID: FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPOWERSOIC8W39
+- Name: digikey-footprints : PowerSOIC-8_W3.9mm
+- Description: digikey-footprints : PowerSOIC-8_W3.9mm
+- Long Link: [http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PowerSOIC-8_W3.9mm](http://oom.lt/FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PowerSOIC-8_W3.9mm)
+- Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPOWERSOIC8W39](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPOWERSOIC8W39)
+  
+
+|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PowerSOIC-8_W3.9mm/image.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PowerSOIC-8_W3.9mm/kicadPcb3dFront.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PowerSOIC-8_W3.9mm/kicadPcb3dBack.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PowerSOIC-8_W3.9mm/kicadPcb3d.png|
+| :---: | :---: | :---: | :---: |
+|||||
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|digikey-kicad-library|
+|OOMP Description|oompDesc|digikey-footprints|
+|OOMP Index|oompIndex|PowerSOIC-8_W3.9mm|
+|Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PowerSOIC-8_W3.9mm|
+|Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPOWERSOIC8W39|
+|Name|name|digikey-footprints : PowerSOIC-8_W3.9mm|
+|Footprint Kicad|footprintKicadDetails|{'name': 'PowerSOIC-8_W3.9mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+||||
+
+
+
+[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PowerSOIC-8_W3.9mm/kicadPcb3d_450.png
