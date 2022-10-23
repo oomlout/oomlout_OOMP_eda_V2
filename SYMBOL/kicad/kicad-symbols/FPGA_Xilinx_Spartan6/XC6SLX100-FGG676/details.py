@@ -1,0 +1,31 @@
+
+######  Auto translated oomp file
+
+def load(newPart):
+    oType = "SYMBOL"
+    oSize = "kicad"
+    oColor = "kicad-symbols"
+    oDesc = "FPGA_Xilinx_Spartan6"
+    oIndex = "XC6SLX100-FGG676"
+    hexID = "SZKFPGAXILINXSPARTAN6XC6SLX1FGG676"
+
+    newPart['oompType'].append(oType)
+    newPart['oompSize'].append(oSize)
+    newPart['oompColor'].append(oColor)
+    newPart['oompDesc'].append(oDesc)
+    newPart['oompIndex'].append(oIndex)
+    oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
+    newPart['oompID'].append(oompID)
+
+    newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC6SLX100-FGG676', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Spartan 6 LX 100 XC6SLX100-FGG676'}])
+    newPart['name'].append('XC6SLX100-FGG676')
+
+
+    ######  Common
+    newPart['hexID'].append(hexID)
+
+    ######  Housekeeping
+    #OOMPtags.addTags(newPart,oompId)
+
+    return newPart
+

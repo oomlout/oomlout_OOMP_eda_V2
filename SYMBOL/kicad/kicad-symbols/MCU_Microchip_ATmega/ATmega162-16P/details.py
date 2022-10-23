@@ -1,0 +1,31 @@
+
+######  Auto translated oomp file
+
+def load(newPart):
+    oType = "SYMBOL"
+    oSize = "kicad"
+    oColor = "kicad-symbols"
+    oDesc = "MCU_Microchip_ATmega"
+    oIndex = "ATmega162-16P"
+    hexID = "SZKMCUMCHIPATMEGAATMEGA16216P"
+
+    newPart['oompType'].append(oType)
+    newPart['oompSize'].append(oSize)
+    newPart['oompColor'].append(oColor)
+    newPart['oompDesc'].append(oDesc)
+    newPart['oompIndex'].append(oIndex)
+    oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
+    newPart['oompID'].append(oompID)
+
+    newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'ATmega162V-8P', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega162-16P', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2513-8-bit-AVR-Microntroller-ATmega162_Datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR', 'kicadSymbolki_description': '16MHz, 16kB Flash, 1kB SRAM, 512B EEPROM, JTAG, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}])
+    newPart['name'].append('ATmega162-16P')
+
+
+    ######  Common
+    newPart['hexID'].append(hexID)
+
+    ######  Housekeeping
+    #OOMPtags.addTags(newPart,oompId)
+
+    return newPart
+

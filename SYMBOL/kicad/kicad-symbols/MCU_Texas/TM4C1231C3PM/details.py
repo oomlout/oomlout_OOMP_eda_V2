@@ -1,0 +1,31 @@
+
+######  Auto translated oomp file
+
+def load(newPart):
+    oType = "SYMBOL"
+    oSize = "kicad"
+    oColor = "kicad-symbols"
+    oDesc = "MCU_Texas"
+    oIndex = "TM4C1231C3PM"
+    hexID = "SZKMCUTEXASTM4C1231C3PM"
+
+    newPart['oompType'].append(oType)
+    newPart['oompSize'].append(oSize)
+    newPart['oompColor'].append(oColor)
+    newPart['oompDesc'].append(oDesc)
+    newPart['oompIndex'].append(oIndex)
+    oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
+    newPart['oompID'].append(oompID)
+
+    newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TM4C1231C3PM', 'kicadSymbolFootprint': 'Package_QFP:LQFP-64_10x10mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tm4c1231c3pm.pdf', 'kicadSymbolki_keywords': 'ARM Tiva Cortex M4 MCU', 'kicadSymbolki_description': 'Tiva ARM 32bit CortexM4 Microcotroller, 80MHz, 32kB Flash, 12kB SRAM, 2k EEPROM, LQFP64', 'kicadSymbolki_fp_filters': 'LQFP*10x10mm*P0.5*'}])
+    newPart['name'].append('TM4C1231C3PM')
+
+
+    ######  Common
+    newPart['hexID'].append(hexID)
+
+    ######  Housekeeping
+    #OOMPtags.addTags(newPart,oompId)
+
+    return newPart
+

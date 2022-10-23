@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# SZKFPGALATTICELFE5U85F8BG756X > LFE5U-85F-8BG756x
+
+- ID: SYMBOL-kicad-kicad-symbols-FPGA_Lattice-LFE5U-85F-8BG756x
+- Hex ID: SZKFPGALATTICELFE5U85F8BG756X
+- Name: LFE5U-85F-8BG756x
+- Description: LFE5U-85F-8BG756x
+- Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Lattice-LFE5U-85F-8BG756x](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Lattice-LFE5U-85F-8BG756x)
+- Short Link: [http://oom.lt/SZKFPGALATTICELFE5U85F8BG756X](http://oom.lt/SZKFPGALATTICELFE5U85F8BG756X)
+  
+
+|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/LFE5U-85F-8BG756x/image.png||||
+| :---: | :---: | :---: | :---: |
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|SYMBOL|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-symbols|
+|OOMP Description|oompDesc|FPGA_Lattice|
+|OOMP Index|oompIndex|LFE5U-85F-8BG756x|
+|Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Lattice-LFE5U-85F-8BG756x|
+|Hex ID (short code)|hexID|SZKFPGALATTICELFE5U85F8BG756X|
+|Name|name|LFE5U-85F-8BG756x|
+|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LFE5U-85F-8BG756x', 'kicadSymbolFootprint': 'Package_BGA:Lattice_caBGA-756_27.0x27.0mm_Layout32x32_P0.8mm', 'kicadSymbolDatasheet': 'https://www.latticesemi.com/view_document?document_id=50461', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA programmable logic', 'kicadSymbolki_description': 'ECP5 FPGA, 84K LUTs, 1.2V, BGA-756', 'kicadSymbolki_fp_filters': 'Lattice*caBGA*27.0x27.0mm*Layout32x32*P0.8mm*'}]|
+||||

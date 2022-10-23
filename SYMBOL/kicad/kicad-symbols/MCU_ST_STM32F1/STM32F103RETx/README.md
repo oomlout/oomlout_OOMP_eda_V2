@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# SZKMCUSTSTM32F1STM32F13RETX > STM32F103RETx
+
+- ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F103RETx
+- Hex ID: SZKMCUSTSTM32F1STM32F13RETX
+- Name: STM32F103RETx
+- Description: STM32F103RETx
+- Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F103RETx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F103RETx)
+- Short Link: [http://oom.lt/SZKMCUSTSTM32F1STM32F13RETX](http://oom.lt/SZKMCUSTSTM32F1STM32F13RETX)
+  
+
+|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F1/STM32F103RETx/image.png||||
+| :---: | :---: | :---: | :---: |
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|SYMBOL|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-symbols|
+|OOMP Description|oompDesc|MCU_ST_STM32F1|
+|OOMP Index|oompIndex|STM32F103RETx|
+|Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F103RETx|
+|Hex ID (short code)|hexID|SZKMCUSTSTM32F1STM32F13RETX|
+|Name|name|STM32F103RETx|
+|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STM32F103RCTx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F103RETx', 'kicadSymbolFootprint': 'Package_QFP:LQFP-64_10x10mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00191185.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M3 STM32F1 STM32F103', 'kicadSymbolki_description': 'ARM Cortex-M3 MCU, 512KB flash, 64KB RAM, 72MHz, 2-3.6V, 51 GPIO, LQFP-64', 'kicadSymbolki_fp_filters': 'LQFP*10x10mm*P0.5mm*'}]|
+||||

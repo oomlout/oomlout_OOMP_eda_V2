@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# SZKMCUSTSTM32F1STM32F13ZGHX > STM32F103ZGHx
+
+- ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F103ZGHx
+- Hex ID: SZKMCUSTSTM32F1STM32F13ZGHX
+- Name: STM32F103ZGHx
+- Description: STM32F103ZGHx
+- Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F103ZGHx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F103ZGHx)
+- Short Link: [http://oom.lt/SZKMCUSTSTM32F1STM32F13ZGHX](http://oom.lt/SZKMCUSTSTM32F1STM32F13ZGHX)
+  
+
+|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F1/STM32F103ZGHx/image.png||||
+| :---: | :---: | :---: | :---: |
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|SYMBOL|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-symbols|
+|OOMP Description|oompDesc|MCU_ST_STM32F1|
+|OOMP Index|oompIndex|STM32F103ZGHx|
+|Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F103ZGHx|
+|Hex ID (short code)|hexID|SZKMCUSTSTM32F1STM32F13ZGHX|
+|Name|name|STM32F103ZGHx|
+|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STM32F103ZFHx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F103ZGHx', 'kicadSymbolFootprint': 'Package_BGA:LFBGA-144_10x10mm_Layout12x12_P0.8mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00253742.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M3 STM32F1 STM32F103', 'kicadSymbolki_description': 'ARM Cortex-M3 MCU, 1024KB flash, 96KB RAM, 72MHz, 2-3.6V, 114 GPIO, LFBGA-144', 'kicadSymbolki_fp_filters': 'LFBGA*10x10mm*Layout12x12*P0.8mm*'}]|
+||||
