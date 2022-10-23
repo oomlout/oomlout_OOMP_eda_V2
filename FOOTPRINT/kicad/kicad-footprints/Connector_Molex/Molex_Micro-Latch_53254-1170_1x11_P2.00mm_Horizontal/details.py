@@ -1,0 +1,31 @@
+
+######  Auto translated oomp file
+
+def load(newPart):
+    oType = "FOOTPRINT"
+    oSize = "kicad"
+    oColor = "kicad-footprints"
+    oDesc = "Connector_Molex"
+    oIndex = "Molex_Micro-Latch_53254-1170_1x11_P2.00mm_Horizontal"
+    hexID = "FZKCNMXMXMLATCH532541171X11P2HORIZONTAL"
+
+    newPart['oompType'].append(oType)
+    newPart['oompSize'].append(oSize)
+    newPart['oompColor'].append(oColor)
+    newPart['oompDesc'].append(oDesc)
+    newPart['oompIndex'].append(oIndex)
+    oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
+    newPart['oompID'].append(oompID)
+
+    newPart['footprintKicadDetails'].append({'name': 'Molex_Micro-Latch_53254-1170_1x11_P2.00mm_Horizontal', 'description': 'Molex Micro-Latch Wire-to-Board Connector System, 53254-1170 (compatible alternatives: 53254-1150), 11 Pins per row (http://www.molex.com/pdm_docs/sd/532530770_sd.pdf), generated with kicad-footprint-generator', 'tags': 'connector Molex Micro-Latch top entry', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Micro-Latch_53254-1170_1x11_P2.00mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}})
+    newPart['name'].append('Connector_Molex : Molex_Micro-Latch_53254-1170_1x11_P2.00mm_Horizontal')
+
+
+    ######  Common
+    newPart['hexID'].append(hexID)
+
+    ######  Housekeeping
+    #OOMPtags.addTags(newPart,oompId)
+
+    return newPart
+

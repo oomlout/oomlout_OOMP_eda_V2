@@ -1,0 +1,38 @@
+
+
+
+  
+![][im]
+# FZKCNMXMXPICOCLASP513311271X121MPP1VERTICAL > Connector_Molex : Molex_Pico-Clasp_501331-1207_1x12-1MP_P1.00mm_Vertical
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-Clasp_501331-1207_1x12-1MP_P1.00mm_Vertical
+- Hex ID: FZKCNMXMXPICOCLASP513311271X121MPP1VERTICAL
+- Name: Connector_Molex : Molex_Pico-Clasp_501331-1207_1x12-1MP_P1.00mm_Vertical
+- Description: Connector_Molex : Molex_Pico-Clasp_501331-1207_1x12-1MP_P1.00mm_Vertical
+- Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-Clasp_501331-1207_1x12-1MP_P1.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-Clasp_501331-1207_1x12-1MP_P1.00mm_Vertical)
+- Short Link: [http://oom.lt/FZKCNMXMXPICOCLASP513311271X121MPP1VERTICAL](http://oom.lt/FZKCNMXMXPICOCLASP513311271X121MPP1VERTICAL)
+  
+
+|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-Clasp_501331-1207_1x12-1MP_P1.00mm_Vertical/image.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-Clasp_501331-1207_1x12-1MP_P1.00mm_Vertical/kicadPcb3dFront.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-Clasp_501331-1207_1x12-1MP_P1.00mm_Vertical/kicadPcb3dBack.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-Clasp_501331-1207_1x12-1MP_P1.00mm_Vertical/kicadPcb3d.png|
+| :---: | :---: | :---: | :---: |
+|||||
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-footprints|
+|OOMP Description|oompDesc|Connector_Molex|
+|OOMP Index|oompIndex|Molex_Pico-Clasp_501331-1207_1x12-1MP_P1.00mm_Vertical|
+|Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-Clasp_501331-1207_1x12-1MP_P1.00mm_Vertical|
+|Hex ID (short code)|hexID|FZKCNMXMXPICOCLASP513311271X121MPP1VERTICAL|
+|Name|name|Connector_Molex : Molex_Pico-Clasp_501331-1207_1x12-1MP_P1.00mm_Vertical|
+|Footprint Kicad|footprintKicadDetails|{'name': 'Molex_Pico-Clasp_501331-1207_1x12-1MP_P1.00mm_Vertical', 'description': 'Molex Pico-Clasp series connector, 501331-1207 (http://www.molex.com/pdm_docs/sd/5013310207_sd.pdf), generated with kicad-footprint-generator', 'tags': 'connector Molex Pico-Clasp side entry', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Pico-Clasp_501331-1207_1x12-1MP_P1.00mm_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+||||
+
+
+
+[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-Clasp_501331-1207_1x12-1MP_P1.00mm_Vertical/kicadPcb3d_450.png
