@@ -1,0 +1,38 @@
+
+
+
+  
+![][im]
+# FZKINDUCTORSMLWUERTHMAPI31 > Inductor_SMD : L_Wuerth_MAPI-3010
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_MAPI-3010
+- Hex ID: FZKINDUCTORSMLWUERTHMAPI31
+- Name: Inductor_SMD : L_Wuerth_MAPI-3010
+- Description: Inductor_SMD : L_Wuerth_MAPI-3010
+- Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_MAPI-3010](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_MAPI-3010)
+- Short Link: [http://oom.lt/FZKINDUCTORSMLWUERTHMAPI31](http://oom.lt/FZKINDUCTORSMLWUERTHMAPI31)
+  
+
+|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_MAPI-3010/image.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_MAPI-3010/kicadPcb3dFront.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_MAPI-3010/kicadPcb3dBack.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_MAPI-3010/kicadPcb3d.png|
+| :---: | :---: | :---: | :---: |
+|||||
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-footprints|
+|OOMP Description|oompDesc|Inductor_SMD|
+|OOMP Index|oompIndex|L_Wuerth_MAPI-3010|
+|Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_MAPI-3010|
+|Hex ID (short code)|hexID|FZKINDUCTORSMLWUERTHMAPI31|
+|Name|name|Inductor_SMD : L_Wuerth_MAPI-3010|
+|Footprint Kicad|footprintKicadDetails|{'name': 'L_Wuerth_MAPI-3010', 'description': 'Inductor, Wuerth Elektronik, Wuerth_MAPI-3010, 3.0mmx3.0mm', 'tags': 'inductor Wuerth smd', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_MAPI-3010.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+||||
+
+
+
+[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_MAPI-3010/kicadPcb3d_450.png

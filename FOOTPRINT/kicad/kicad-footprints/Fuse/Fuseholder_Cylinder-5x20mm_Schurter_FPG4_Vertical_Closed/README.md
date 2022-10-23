@@ -1,0 +1,38 @@
+
+
+
+  
+![][im]
+# FZKFUFUHOLDERCYLINDER5X2SCHURTERFPG4VERTICALCLOSED > Fuse : Fuseholder_Cylinder-5x20mm_Schurter_FPG4_Vertical_Closed
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-5x20mm_Schurter_FPG4_Vertical_Closed
+- Hex ID: FZKFUFUHOLDERCYLINDER5X2SCHURTERFPG4VERTICALCLOSED
+- Name: Fuse : Fuseholder_Cylinder-5x20mm_Schurter_FPG4_Vertical_Closed
+- Description: Fuse : Fuseholder_Cylinder-5x20mm_Schurter_FPG4_Vertical_Closed
+- Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-5x20mm_Schurter_FPG4_Vertical_Closed](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-5x20mm_Schurter_FPG4_Vertical_Closed)
+- Short Link: [http://oom.lt/FZKFUFUHOLDERCYLINDER5X2SCHURTERFPG4VERTICALCLOSED](http://oom.lt/FZKFUFUHOLDERCYLINDER5X2SCHURTERFPG4VERTICALCLOSED)
+  
+
+|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Cylinder-5x20mm_Schurter_FPG4_Vertical_Closed/image.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Cylinder-5x20mm_Schurter_FPG4_Vertical_Closed/kicadPcb3dFront.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Cylinder-5x20mm_Schurter_FPG4_Vertical_Closed/kicadPcb3dBack.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Cylinder-5x20mm_Schurter_FPG4_Vertical_Closed/kicadPcb3d.png|
+| :---: | :---: | :---: | :---: |
+|||||
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-footprints|
+|OOMP Description|oompDesc|Fuse|
+|OOMP Index|oompIndex|Fuseholder_Cylinder-5x20mm_Schurter_FPG4_Vertical_Closed|
+|Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-5x20mm_Schurter_FPG4_Vertical_Closed|
+|Hex ID (short code)|hexID|FZKFUFUHOLDERCYLINDER5X2SCHURTERFPG4VERTICALCLOSED|
+|Name|name|Fuse : Fuseholder_Cylinder-5x20mm_Schurter_FPG4_Vertical_Closed|
+|Footprint Kicad|footprintKicadDetails|{'name': 'Fuseholder_Cylinder-5x20mm_Schurter_FPG4_Vertical_Closed', 'description': 'Shock-Safe Fuseholder, 5 x 20 mm, Slotted Cap/Fingergrip, vertical, IEC 60335-1; 250VAC/10A VDE; 500V/16A UL/CSA (https://us.schurter.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_FPG4.pdf)', 'tags': 'fuse holder vertical 5x20mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Schurter_FPG4_Vertical_Closed.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+||||
+
+
+
+[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Cylinder-5x20mm_Schurter_FPG4_Vertical_Closed/kicadPcb3d_450.png
