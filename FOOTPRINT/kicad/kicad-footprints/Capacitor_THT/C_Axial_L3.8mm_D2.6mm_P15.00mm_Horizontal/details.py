@@ -1,0 +1,31 @@
+
+######  Auto translated oomp file
+
+def load(newPart):
+    oType = "FOOTPRINT"
+    oSize = "kicad"
+    oColor = "kicad-footprints"
+    oDesc = "Capacitor_THT"
+    oIndex = "C_Axial_L3.8mm_D2.6mm_P15.00mm_Horizontal"
+    hexID = "FZKCCAXIALL38D26P15HORIZONTAL"
+
+    newPart['oompType'].append(oType)
+    newPart['oompSize'].append(oSize)
+    newPart['oompColor'].append(oColor)
+    newPart['oompDesc'].append(oDesc)
+    newPart['oompIndex'].append(oIndex)
+    oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
+    newPart['oompID'].append(oompID)
+
+    newPart['footprintKicadDetails'].append({'name': 'C_Axial_L3.8mm_D2.6mm_P15.00mm_Horizontal', 'description': 'C, Axial series, Axial, Horizontal, pin pitch=15mm, , length*diameter=3.8*2.6mm^2, http://www.vishay.com/docs/45231/arseries.pdf', 'tags': 'C Axial series Axial Horizontal pin pitch 15mm  length 3.8mm diameter 2.6mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Axial_L3.8mm_D2.6mm_P15.00mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}})
+    newPart['name'].append('Capacitor_THT : C_Axial_L3.8mm_D2.6mm_P15.00mm_Horizontal')
+
+
+    ######  Common
+    newPart['hexID'].append(hexID)
+
+    ######  Housekeeping
+    #OOMPtags.addTags(newPart,oompId)
+
+    return newPart
+

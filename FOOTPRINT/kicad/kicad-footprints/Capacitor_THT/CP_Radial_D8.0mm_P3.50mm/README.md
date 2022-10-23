@@ -1,0 +1,38 @@
+
+
+
+  
+![][im]
+# FZKCCPRD8P35 > Capacitor_THT : CP_Radial_D8.0mm_P3.50mm
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_D8.0mm_P3.50mm
+- Hex ID: FZKCCPRD8P35
+- Name: Capacitor_THT : CP_Radial_D8.0mm_P3.50mm
+- Description: Capacitor_THT : CP_Radial_D8.0mm_P3.50mm
+- Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_D8.0mm_P3.50mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_D8.0mm_P3.50mm)
+- Short Link: [http://oom.lt/FZKCCPRD8P35](http://oom.lt/FZKCCPRD8P35)
+  
+
+|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Radial_D8.0mm_P3.50mm/image.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Radial_D8.0mm_P3.50mm/kicadPcb3dFront.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Radial_D8.0mm_P3.50mm/kicadPcb3dBack.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Radial_D8.0mm_P3.50mm/kicadPcb3d.png|
+| :---: | :---: | :---: | :---: |
+|||||
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-footprints|
+|OOMP Description|oompDesc|Capacitor_THT|
+|OOMP Index|oompIndex|CP_Radial_D8.0mm_P3.50mm|
+|Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_D8.0mm_P3.50mm|
+|Hex ID (short code)|hexID|FZKCCPRD8P35|
+|Name|name|Capacitor_THT : CP_Radial_D8.0mm_P3.50mm|
+|Footprint Kicad|footprintKicadDetails|{'name': 'CP_Radial_D8.0mm_P3.50mm', 'description': 'CP, Radial series, Radial, pin pitch=3.50mm, , diameter=8mm, Electrolytic Capacitor', 'tags': 'CP Radial series Radial pin pitch 3.50mm  diameter 8mm Electrolytic Capacitor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D8.0mm_P3.50mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+||||
+
+
+
+[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Radial_D8.0mm_P3.50mm/kicadPcb3d_450.png
