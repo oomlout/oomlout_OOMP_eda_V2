@@ -1,0 +1,31 @@
+
+######  Auto translated oomp file
+
+def load(newPart):
+    oType = "FOOTPRINT"
+    oSize = "kicad"
+    oColor = "kicad-footprints"
+    oDesc = "Connector_TE-Connectivity"
+    oIndex = "TE_2-826576-0_1x20_P3.96mm_Vertical"
+    hexID = "FZKCNTECONNECTIVITYTE28265761X2P396VERTICAL"
+
+    newPart['oompType'].append(oType)
+    newPart['oompSize'].append(oSize)
+    newPart['oompColor'].append(oColor)
+    newPart['oompDesc'].append(oDesc)
+    newPart['oompIndex'].append(oIndex)
+    oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
+    newPart['oompID'].append(oompID)
+
+    newPart['footprintKicadDetails'].append({'name': 'TE_2-826576-0_1x20_P3.96mm_Vertical', 'description': 'TE, 2-826576-0, 20 Pins (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=826576&DocType=Customer+Drawing&DocLang=English), generated with kicad-footprint-generator', 'tags': 'connector TE 826576 vertical', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_TE-Connectivity.3dshapes/TE_2-826576-0_1x20_P3.96mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}})
+    newPart['name'].append('Connector_TE-Connectivity : TE_2-826576-0_1x20_P3.96mm_Vertical')
+
+
+    ######  Common
+    newPart['hexID'].append(hexID)
+
+    ######  Housekeeping
+    #OOMPtags.addTags(newPart,oompId)
+
+    return newPart
+
