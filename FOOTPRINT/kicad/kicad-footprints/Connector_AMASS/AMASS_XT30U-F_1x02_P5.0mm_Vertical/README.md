@@ -1,0 +1,38 @@
+
+
+
+  
+![][im]
+# FZKCNAMASSAMASSXT3UF1X2P5VERTICAL > Connector_AMASS : AMASS_XT30U-F_1x02_P5.0mm_Vertical
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_XT30U-F_1x02_P5.0mm_Vertical
+- Hex ID: FZKCNAMASSAMASSXT3UF1X2P5VERTICAL
+- Name: Connector_AMASS : AMASS_XT30U-F_1x02_P5.0mm_Vertical
+- Description: Connector_AMASS : AMASS_XT30U-F_1x02_P5.0mm_Vertical
+- Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_XT30U-F_1x02_P5.0mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_XT30U-F_1x02_P5.0mm_Vertical)
+- Short Link: [http://oom.lt/FZKCNAMASSAMASSXT3UF1X2P5VERTICAL](http://oom.lt/FZKCNAMASSAMASSXT3UF1X2P5VERTICAL)
+  
+
+|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30U-F_1x02_P5.0mm_Vertical/image.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30U-F_1x02_P5.0mm_Vertical/kicadPcb3dFront.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30U-F_1x02_P5.0mm_Vertical/kicadPcb3dBack.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30U-F_1x02_P5.0mm_Vertical/kicadPcb3d.png|
+| :---: | :---: | :---: | :---: |
+|||||
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-footprints|
+|OOMP Description|oompDesc|Connector_AMASS|
+|OOMP Index|oompIndex|AMASS_XT30U-F_1x02_P5.0mm_Vertical|
+|Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_XT30U-F_1x02_P5.0mm_Vertical|
+|Hex ID (short code)|hexID|FZKCNAMASSAMASSXT3UF1X2P5VERTICAL|
+|Name|name|Connector_AMASS : AMASS_XT30U-F_1x02_P5.0mm_Vertical|
+|Footprint Kicad|footprintKicadDetails|{'name': 'AMASS_XT30U-F_1x02_P5.0mm_Vertical', 'description': 'Connector XT30 Vertical Cable Female, https://www.tme.eu/en/Document/3cbfa5cfa544d79584972dd5234a409e/XT30U%20SPEC.pdf', 'tags': 'RC Connector XT30', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_AMASS.3dshapes/AMASS_XT30U-F_1x02_P5.0mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+||||
+
+
+
+[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30U-F_1x02_P5.0mm_Vertical/kicadPcb3d_450.png
