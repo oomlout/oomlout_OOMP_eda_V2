@@ -1,0 +1,38 @@
+
+
+
+  
+![][im]
+# FZKCNIDCIDCHEADER2X17P254LATCH95VERTICAL > Connector_IDC : IDC-Header_2x17_P2.54mm_Latch9.5mm_Vertical
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x17_P2.54mm_Latch9.5mm_Vertical
+- Hex ID: FZKCNIDCIDCHEADER2X17P254LATCH95VERTICAL
+- Name: Connector_IDC : IDC-Header_2x17_P2.54mm_Latch9.5mm_Vertical
+- Description: Connector_IDC : IDC-Header_2x17_P2.54mm_Latch9.5mm_Vertical
+- Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x17_P2.54mm_Latch9.5mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x17_P2.54mm_Latch9.5mm_Vertical)
+- Short Link: [http://oom.lt/FZKCNIDCIDCHEADER2X17P254LATCH95VERTICAL](http://oom.lt/FZKCNIDCIDCHEADER2X17P254LATCH95VERTICAL)
+  
+
+|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x17_P2.54mm_Latch9.5mm_Vertical/image.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x17_P2.54mm_Latch9.5mm_Vertical/kicadPcb3dFront.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x17_P2.54mm_Latch9.5mm_Vertical/kicadPcb3dBack.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x17_P2.54mm_Latch9.5mm_Vertical/kicadPcb3d.png|
+| :---: | :---: | :---: | :---: |
+|||||
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-footprints|
+|OOMP Description|oompDesc|Connector_IDC|
+|OOMP Index|oompIndex|IDC-Header_2x17_P2.54mm_Latch9.5mm_Vertical|
+|Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x17_P2.54mm_Latch9.5mm_Vertical|
+|Hex ID (short code)|hexID|FZKCNIDCIDCHEADER2X17P254LATCH95VERTICAL|
+|Name|name|Connector_IDC : IDC-Header_2x17_P2.54mm_Latch9.5mm_Vertical|
+|Footprint Kicad|footprintKicadDetails|{'name': 'IDC-Header_2x17_P2.54mm_Latch9.5mm_Vertical', 'description': 'Through hole IDC header, 2x17, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 9.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0', 'tags': 'Through hole vertical IDC header THT 2x17 2.54mm double row', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_IDC.3dshapes/IDC-Header_2x17_P2.54mm_Latch9.5mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+||||
+
+
+
+[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x17_P2.54mm_Latch9.5mm_Vertical/kicadPcb3d_450.png
