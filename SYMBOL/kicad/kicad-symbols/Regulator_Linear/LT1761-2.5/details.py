@@ -1,0 +1,31 @@
+
+######  Auto translated oomp file
+
+def load(newPart):
+    oType = "SYMBOL"
+    oSize = "kicad"
+    oColor = "kicad-symbols"
+    oDesc = "Regulator_Linear"
+    oIndex = "LT1761-2.5"
+    hexID = "SZKREGULATORLINEARLT176125"
+
+    newPart['oompType'].append(oType)
+    newPart['oompSize'].append(oSize)
+    newPart['oompColor'].append(oColor)
+    newPart['oompDesc'].append(oDesc)
+    newPart['oompIndex'].append(oIndex)
+    oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
+    newPart['oompID'].append(oompID)
+
+    newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'LT1761-5', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1761-2.5', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-5', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1761sff.pdf', 'kicadSymbolki_keywords': 'REGULATOR POSITIVE POWER LDO', 'kicadSymbolki_description': 'MICROPOWER Low Noise 2.5V 100mA LDO regulator, TSOT-23-5', 'kicadSymbolki_fp_filters': 'TSOT?23*'}])
+    newPart['name'].append('LT1761-2.5')
+
+
+    ######  Common
+    newPart['hexID'].append(hexID)
+
+    ######  Housekeeping
+    #OOMPtags.addTags(newPart,oompId)
+
+    return newPart
+

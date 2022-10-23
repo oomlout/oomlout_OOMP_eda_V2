@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# SZKTIMERRTCRV185C3 > RV-1805-C3
+
+- ID: SYMBOL-kicad-kicad-symbols-Timer_RTC-RV-1805-C3
+- Hex ID: SZKTIMERRTCRV185C3
+- Name: RV-1805-C3
+- Description: RV-1805-C3
+- Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-RV-1805-C3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-RV-1805-C3)
+- Short Link: [http://oom.lt/SZKTIMERRTCRV185C3](http://oom.lt/SZKTIMERRTCRV185C3)
+  
+
+|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_RTC/RV-1805-C3/image.png||||
+| :---: | :---: | :---: | :---: |
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|SYMBOL|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-symbols|
+|OOMP Description|oompDesc|Timer_RTC|
+|OOMP Index|oompIndex|RV-1805-C3|
+|Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer_RTC-RV-1805-C3|
+|Hex ID (short code)|hexID|SZKTIMERRTCRV185C3|
+|Name|name|RV-1805-C3|
+|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'RV-1805-C3', 'kicadSymbolFootprint': 'Package_SON:RTC_SMD_MicroCrystal_C3_2.5x3.7mm', 'kicadSymbolDatasheet': 'https://www.microcrystal.com/fileadmin/Media/Products/RTC/Datasheet/RV-1805-C3.pdf', 'kicadSymbolki_keywords': 'Low Power RTC I2C', 'kicadSymbolki_description': 'Realtime Clock/Calendar I2C Interface, Extreme Low Power, MicroCrystal C3', 'kicadSymbolki_fp_filters': 'RTC*SMD*MicroCrystal*C3*2.5x3.7mm*'}]|
+||||

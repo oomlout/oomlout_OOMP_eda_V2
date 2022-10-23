@@ -1,0 +1,30 @@
+
+
+
+  
+NO IMAGE  
+# SZKRFAMPLIFIERGVA81 > GVA-81
+
+- ID: SYMBOL-kicad-kicad-symbols-RF_Amplifier-GVA-81
+- Hex ID: SZKRFAMPLIFIERGVA81
+- Name: GVA-81
+- Description: GVA-81
+- Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-GVA-81](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-GVA-81)
+- Short Link: [http://oom.lt/SZKRFAMPLIFIERGVA81](http://oom.lt/SZKRFAMPLIFIERGVA81)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|SYMBOL|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-symbols|
+|OOMP Description|oompDesc|RF_Amplifier|
+|OOMP Index|oompIndex|GVA-81|
+|Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Amplifier-GVA-81|
+|Hex ID (short code)|hexID|SZKRFAMPLIFIERGVA81|
+|Name|name|GVA-81|
+|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SPF5189Z', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'GVA-81', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-89-3', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/GVA-81+.pdf', 'kicadSymbolki_keywords': 'RF amplifier', 'kicadSymbolki_description': 'DC-6000MHz +10dB Gain Block, SOT-89', 'kicadSymbolki_fp_filters': 'SOT?89*'}]|
+||||

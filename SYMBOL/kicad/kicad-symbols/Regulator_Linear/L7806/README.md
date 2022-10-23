@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# SZKREGULATORLINEARL786 > L7806
+
+- ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7806
+- Hex ID: SZKREGULATORLINEARL786
+- Name: L7806
+- Description: L7806
+- Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7806](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7806)
+- Short Link: [http://oom.lt/SZKREGULATORLINEARL786](http://oom.lt/SZKREGULATORLINEARL786)
+  
+
+|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/L7806/image.png||||
+| :---: | :---: | :---: | :---: |
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|SYMBOL|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-symbols|
+|OOMP Description|oompDesc|Regulator_Linear|
+|OOMP Index|oompIndex|L7806|
+|Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7806|
+|Hex ID (short code)|hexID|SZKREGULATORLINEARL786|
+|Name|name|L7806|
+|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'L7805', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'L7806', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf', 'kicadSymbolki_keywords': 'Voltage Regulator 1.5A Positive', 'kicadSymbolki_description': 'Positive 1.5A 35V Linear Regulator, Fixed Output 6V, TO-220/TO-263/TO-252', 'kicadSymbolki_fp_filters': 'TO?252* TO?263* TO?220*'}]|
+||||

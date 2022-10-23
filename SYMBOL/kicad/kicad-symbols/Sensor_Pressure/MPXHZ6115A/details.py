@@ -1,0 +1,31 @@
+
+######  Auto translated oomp file
+
+def load(newPart):
+    oType = "SYMBOL"
+    oSize = "kicad"
+    oColor = "kicad-symbols"
+    oDesc = "Sensor_Pressure"
+    oIndex = "MPXHZ6115A"
+    hexID = "SZKSENPRESSUREMPXHZ6115A"
+
+    newPart['oompType'].append(oType)
+    newPart['oompSize'].append(oSize)
+    newPart['oompColor'].append(oColor)
+    newPart['oompDesc'].append(oDesc)
+    newPart['oompIndex'].append(oIndex)
+    oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
+    newPart['oompID'].append(oompID)
+
+    newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'MPXA6115A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MPXHZ6115A', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.nxp.com/files/sensors/doc/data_sheet/MPXA6115A.pdf', 'kicadSymbolki_keywords': 'absolute pressure sensor', 'kicadSymbolki_description': 'Absolute pressure sensor, 15 to 115kPa, analog output, integrated signal conditioning, temperature compensated, media resistant gel, SSO package'}])
+    newPart['name'].append('MPXHZ6115A')
+
+
+    ######  Common
+    newPart['hexID'].append(hexID)
+
+    ######  Housekeeping
+    #OOMPtags.addTags(newPart,oompId)
+
+    return newPart
+

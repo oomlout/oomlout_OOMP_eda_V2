@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# SZKREGULATORLINEARL795 > L7905
+
+- ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7905
+- Hex ID: SZKREGULATORLINEARL795
+- Name: L7905
+- Description: L7905
+- Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7905](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7905)
+- Short Link: [http://oom.lt/SZKREGULATORLINEARL795](http://oom.lt/SZKREGULATORLINEARL795)
+  
+
+|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/L7905/image.png||||
+| :---: | :---: | :---: | :---: |
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|SYMBOL|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-symbols|
+|OOMP Description|oompDesc|Regulator_Linear|
+|OOMP Index|oompIndex|L7905|
+|Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7905|
+|Hex ID (short code)|hexID|SZKREGULATORLINEARL795|
+|Name|name|L7905|
+|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'L7905', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.st.com/content/ccc/resource/technical/document/datasheet/c9/16/86/41/c7/2b/45/f2/CD00000450.pdf/files/CD00000450.pdf/jcr:content/translations/en.CD00000450.pdf', 'kicadSymbolki_keywords': 'Voltage Regulator 1.5A Negative', 'kicadSymbolki_description': 'Negative 1.5A 35V Linear Regulator, Fixed Output -5V, TO-220/TO-263', 'kicadSymbolki_fp_filters': 'TO?220* TO?263*'}]|
+||||

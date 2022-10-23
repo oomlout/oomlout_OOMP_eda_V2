@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# SZKRELAYEE212TNUH > EE2-12TNUH
+
+- ID: SYMBOL-kicad-kicad-symbols-Relay-EE2-12TNUH
+- Hex ID: SZKRELAYEE212TNUH
+- Name: EE2-12TNUH
+- Description: EE2-12TNUH
+- Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EE2-12TNUH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EE2-12TNUH)
+- Short Link: [http://oom.lt/SZKRELAYEE212TNUH](http://oom.lt/SZKRELAYEE212TNUH)
+  
+
+|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/EE2-12TNUH/image.png||||
+| :---: | :---: | :---: | :---: |
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|SYMBOL|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-symbols|
+|OOMP Description|oompDesc|Relay|
+|OOMP Index|oompIndex|EE2-12TNUH|
+|Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-EE2-12TNUH|
+|Hex ID (short code)|hexID|SZKRELAYEE212TNUH|
+|Name|name|EE2-12TNUH|
+|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'EE2-3TNUH', 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'EE2-12TNUH', 'kicadSymbolFootprint': 'Relay_SMD:Relay_DPDT_Kemet_EE2_NUH_DoubleCoil', 'kicadSymbolDatasheet': 'https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf', 'kicadSymbolki_keywords': 'signal relay double pole double throw DPDT DC coil double dual coil latching', 'kicadSymbolki_description': 'General purpose signal relay, Kemet EE2 Series, DPDT (2 Form C), double coil latching, small footprint SMD, 60W/125VA, 220VDC/250VAC, 2A, 12V DC coil', 'kicadSymbolki_fp_filters': 'Relay*DPDT*Kemet*EE2*NUH*DoubleCoil*'}]|
+||||

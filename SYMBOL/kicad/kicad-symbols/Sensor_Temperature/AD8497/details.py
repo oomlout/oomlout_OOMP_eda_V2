@@ -1,0 +1,31 @@
+
+######  Auto translated oomp file
+
+def load(newPart):
+    oType = "SYMBOL"
+    oSize = "kicad"
+    oColor = "kicad-symbols"
+    oDesc = "Sensor_Temperature"
+    oIndex = "AD8497"
+    hexID = "SZKSENTEMPERATUREAD8497"
+
+    newPart['oompType'].append(oType)
+    newPart['oompSize'].append(oSize)
+    newPart['oompColor'].append(oColor)
+    newPart['oompDesc'].append(oDesc)
+    newPart['oompIndex'].append(oIndex)
+    oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
+    newPart['oompID'].append(oompID)
+
+    newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'AD8494', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD8497', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ad8494_8495_8496_8497.pdf', 'kicadSymbolki_keywords': 'Thermocouple Amp', 'kicadSymbolki_description': 'Precision Thermocouple Amplifiers with Cold Junction Compensation, K-Type Thermocouple, 25 to 100C, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*8*'}])
+    newPart['name'].append('AD8497')
+
+
+    ######  Common
+    newPart['hexID'].append(hexID)
+
+    ######  Housekeeping
+    #OOMPtags.addTags(newPart,oompId)
+
+    return newPart
+

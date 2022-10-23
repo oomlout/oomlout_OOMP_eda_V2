@@ -1,0 +1,31 @@
+
+######  Auto translated oomp file
+
+def load(newPart):
+    oType = "SYMBOL"
+    oSize = "kicad"
+    oColor = "kicad-symbols"
+    oDesc = "Power_Protection"
+    oIndex = "NCP349MN"
+    hexID = "SZKPOWERPROTECTIONNCP349MN"
+
+    newPart['oompType'].append(oType)
+    newPart['oompSize'].append(oSize)
+    newPart['oompColor'].append(oColor)
+    newPart['oompDesc'].append(oDesc)
+    newPart['oompIndex'].append(oIndex)
+    oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
+    newPart['oompID'].append(oompID)
+
+    newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCP349MN', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-6-1EP_2x1.6mm_P0.5mm_EP1.15x1.3mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pdf/datasheet/ncp349-d.pdf', 'kicadSymbolki_keywords': 'overvoltage protection', 'kicadSymbolki_description': '28V Positive Overvoltage Protection Controller, DFN-6', 'kicadSymbolki_fp_filters': 'DFN*1EP*2x1.6mm*P0.5mm*'}])
+    newPart['name'].append('NCP349MN')
+
+
+    ######  Common
+    newPart['hexID'].append(hexID)
+
+    ######  Housekeeping
+    #OOMPtags.addTags(newPart,oompId)
+
+    return newPart
+

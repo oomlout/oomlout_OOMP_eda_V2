@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# SZKREGULATORLINEARTLV73333PDBV > TLV73333PDBV
+
+- ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV73333PDBV
+- Hex ID: SZKREGULATORLINEARTLV73333PDBV
+- Name: TLV73333PDBV
+- Description: TLV73333PDBV
+- Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV73333PDBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV73333PDBV)
+- Short Link: [http://oom.lt/SZKREGULATORLINEARTLV73333PDBV](http://oom.lt/SZKREGULATORLINEARTLV73333PDBV)
+  
+
+|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TLV73333PDBV/image.png||||
+| :---: | :---: | :---: | :---: |
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|SYMBOL|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-symbols|
+|OOMP Description|oompDesc|Regulator_Linear|
+|OOMP Index|oompIndex|TLV73333PDBV|
+|Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV73333PDBV|
+|Hex ID (short code)|hexID|SZKREGULATORLINEARTLV73333PDBV|
+|Name|name|TLV73333PDBV|
+|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LD39015M08R', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV73333PDBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tlv733p.pdf', 'kicadSymbolki_keywords': '300mA LDO Regulator Fixed Positive Capacitor-Free', 'kicadSymbolki_description': '300mA Capacitor-Free Low Dropout Voltage Regulator, Fixed Output 3.3V, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+||||

@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# SZKREGULATORSWITCHINGLMR3363ADDA > LMR33630ADDA
+
+- ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR33630ADDA
+- Hex ID: SZKREGULATORSWITCHINGLMR3363ADDA
+- Name: LMR33630ADDA
+- Description: LMR33630ADDA
+- Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR33630ADDA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR33630ADDA)
+- Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLMR3363ADDA](http://oom.lt/SZKREGULATORSWITCHINGLMR3363ADDA)
+  
+
+|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMR33630ADDA/image.png||||
+| :---: | :---: | :---: | :---: |
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|SYMBOL|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-symbols|
+|OOMP Description|oompDesc|Regulator_Switching|
+|OOMP Index|oompIndex|LMR33630ADDA|
+|Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR33630ADDA|
+|Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLMR3363ADDA|
+|Name|name|LMR33630ADDA|
+|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LMR33640ADDA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LMR33630ADDA', 'kicadSymbolFootprint': 'Package_SO:Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lmr33630.pdf', 'kicadSymbolki_keywords': 'simple-switcher synchronous buck step-down voltage-regulator', 'kicadSymbolki_description': 'Simple Switcher Synchronous Buck Regulator, Vin=3.8-36V, Iout=3A, F=400kHz, Adjustable output voltage, HSOP-8', 'kicadSymbolki_fp_filters': 'Texas*HSOP*1EP*'}]|
+||||

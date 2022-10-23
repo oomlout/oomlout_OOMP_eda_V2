@@ -1,0 +1,31 @@
+
+######  Auto translated oomp file
+
+def load(newPart):
+    oType = "SYMBOL"
+    oSize = "kicad"
+    oColor = "kicad-symbols"
+    oDesc = "Regulator_Switching"
+    oIndex = "TPS82140"
+    hexID = "SZKREGULATORSWITCHINGTPS8214"
+
+    newPart['oompType'].append(oType)
+    newPart['oompSize'].append(oSize)
+    newPart['oompColor'].append(oColor)
+    newPart['oompDesc'].append(oDesc)
+    newPart['oompIndex'].append(oIndex)
+    oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
+    newPart['oompID'].append(oompID)
+
+    newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'TPS82130', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS82140', 'kicadSymbolFootprint': 'Package_LGA:Texas_MicroSiP-8-1EP_2.8x3.0mm_P0.65mm_EP1.1x1.9mm_SMD_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps82140.pdf', 'kicadSymbolki_keywords': '17V 2A Step-down Buck Module', 'kicadSymbolki_description': '17V Input 2A Step-Down Converter MicroSiP Module with Integrated Inductor, μSiL-8', 'kicadSymbolki_fp_filters': 'Texas*MicroSiP*1EP*2.8x3.0mm*P0.65mm*'}])
+    newPart['name'].append('TPS82140')
+
+
+    ######  Common
+    newPart['hexID'].append(hexID)
+
+    ######  Housekeeping
+    #OOMPtags.addTags(newPart,oompId)
+
+    return newPart
+
