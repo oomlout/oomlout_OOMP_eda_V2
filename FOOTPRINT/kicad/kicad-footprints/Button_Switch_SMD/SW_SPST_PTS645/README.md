@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_SPST_PTS645|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_PTS645|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWSPSTPTS645|
-|Name|name|Button_Switch_SMD : SW_SPST_PTS645|
+|name|name|Button_Switch_SMD : SW_SPST_PTS645|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_SPST_PTS645', 'description': 'C&K Components SPST SMD PTS645 Series 6mm Tact Switch', 'tags': 'SPST Button Switch', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_PTS645.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_PTS645/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_PTS645/kicadPcb3d_450.png

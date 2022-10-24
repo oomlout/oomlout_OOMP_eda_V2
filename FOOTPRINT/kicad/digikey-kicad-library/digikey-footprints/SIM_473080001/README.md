@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SIM_473080001|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SIM_473080001|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSIM47381|
-|Name|name|digikey-footprints : SIM_473080001|
+|name|name|digikey-footprints : SIM_473080001|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SIM_473080001', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIM_473080001/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIM_473080001/kicadPcb3d_450.png

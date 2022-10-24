@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PushButton_Round_D12mm_THT_KS-01Q-01|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PushButton_Round_D12mm_THT_KS-01Q-01|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPBROUNDD12THTKS1Q1|
-|Name|name|digikey-footprints : PushButton_Round_D12mm_THT_KS-01Q-01|
+|name|name|digikey-footprints : PushButton_Round_D12mm_THT_KS-01Q-01|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PushButton_Round_D12mm_THT_KS-01Q-01', 'description': 'http://spec_sheets.e-switch.com/specs/29-KS01Q01.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PushButton_Round_D12mm_THT_KS-01Q-01/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PushButton_Round_D12mm_THT_KS-01Q-01/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|1206|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-1206|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS126|
-|Name|name|digikey-footprints : 1206|
+|name|name|digikey-footprints : 1206|
 |Footprint Kicad|footprintKicadDetails|{'name': '1206', 'description': 'http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C230KFKT_5-24-06.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/1206/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/1206/kicadPcb3d_450.png

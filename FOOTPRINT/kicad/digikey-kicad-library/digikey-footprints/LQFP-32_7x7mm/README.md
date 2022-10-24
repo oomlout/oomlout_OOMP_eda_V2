@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LQFP-32_7x7mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LQFP-32_7x7mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLQFP327X7|
-|Name|name|digikey-footprints : LQFP-32_7x7mm|
+|name|name|digikey-footprints : LQFP-32_7x7mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LQFP-32_7x7mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LQFP-32_7x7mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LQFP-32_7x7mm/kicadPcb3d_450.png

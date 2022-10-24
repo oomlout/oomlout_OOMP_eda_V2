@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_E-Switch_EG1271_DPDT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_E-Switch_EG1271_DPDT|
 |Hex ID (short code)|hexID|FZKBSWESWITCHEG1271DPDT|
-|Name|name|Button_Switch_THT : SW_E-Switch_EG1271_DPDT|
+|name|name|Button_Switch_THT : SW_E-Switch_EG1271_DPDT|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_E-Switch_EG1271_DPDT', 'description': 'E-Switch sub miniature slide switch, EG series, DPDT, http://spec_sheets.e-switch.com/specs/P040047.pdf', 'tags': 'switch DPDT', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_E-Switch_EG1271_DPDT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_E-Switch_EG1271_DPDT/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_E-Switch_EG1271_DPDT/kicadPcb3d_450.png

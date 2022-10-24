@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Molex_502244-2430_1x24-1MP_P0.5mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Molex_502244-2430_1x24-1MP_P0.5mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNFFCFPCMX522442431X241MPP5HORIZONTAL|
-|Name|name|Connector_FFC-FPC : Molex_502244-2430_1x24-1MP_P0.5mm_Horizontal|
+|name|name|Connector_FFC-FPC : Molex_502244-2430_1x24-1MP_P0.5mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Molex_502244-2430_1x24-1MP_P0.5mm_Horizontal', 'description': 'Molex 0.50mm Pitch Easy-On Type FFC/FPC Connector, For LVDS, 2.33mm Height, Right Angle, Surface Mount, ZIF, Bottom Contact Style, 24 Circuits (http://www.molex.com/pdm_docs/sd/5022441530_sd.pdf)', 'tags': 'molex FFC/FPC connector Pitch 0.5mm right angle', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Molex_502244-2430_1x24-1MP_P0.5mm_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Molex_502244-2430_1x24-1MP_P0.5mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Molex_502244-2430_1x24-1MP_P0.5mm_Horizontal/kicadPcb3d_450.png

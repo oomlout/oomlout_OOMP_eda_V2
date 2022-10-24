@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|GSM_Module_17.8x16.5mm_A2235-H|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-GSM_Module_17.8x16.5mm_A2235-H|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSGSMMO178X165A2235H|
-|Name|name|digikey-footprints : GSM_Module_17.8x16.5mm_A2235-H|
+|name|name|digikey-footprints : GSM_Module_17.8x16.5mm_A2235-H|
 |Footprint Kicad|footprintKicadDetails|{'name': 'GSM_Module_17.8x16.5mm_A2235-H', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/GSM_Module_17.8x16.5mm_A2235-H/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/GSM_Module_17.8x16.5mm_A2235-H/kicadPcb3d_450.png

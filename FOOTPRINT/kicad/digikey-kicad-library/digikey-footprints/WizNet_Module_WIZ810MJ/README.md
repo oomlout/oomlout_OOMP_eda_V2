@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|WizNet_Module_WIZ810MJ|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WizNet_Module_WIZ810MJ|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIZNETMOWIZ81MJ|
-|Name|name|digikey-footprints : WizNet_Module_WIZ810MJ|
+|name|name|digikey-footprints : WizNet_Module_WIZ810MJ|
 |Footprint Kicad|footprintKicadDetails|{'name': 'WizNet_Module_WIZ810MJ', 'description': 'http://wiznethome.cafe24.com/wp-content/uploads/wiznethome/Network%20Module/WIZ8XXMJ/Document/WIZ810MJ_DS_V130E.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WizNet_Module_WIZ810MJ/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WizNet_Module_WIZ810MJ/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|C_Rect_L4.0mm_W2.5mm_P2.50mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L4.0mm_W2.5mm_P2.50mm|
 |Hex ID (short code)|hexID|FZKCCRECTL4W25P25|
-|Name|name|Capacitor_THT : C_Rect_L4.0mm_W2.5mm_P2.50mm|
+|name|name|Capacitor_THT : C_Rect_L4.0mm_W2.5mm_P2.50mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'C_Rect_L4.0mm_W2.5mm_P2.50mm', 'description': 'C, Rect series, Radial, pin pitch=2.50mm, , length*width=4*2.5mm^2, Capacitor', 'tags': 'C Rect series Radial pin pitch 2.50mm  length 4mm width 2.5mm Capacitor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L4.0mm_W2.5mm_P2.50mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L4.0mm_W2.5mm_P2.50mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L4.0mm_W2.5mm_P2.50mm/kicadPcb3d_450.png

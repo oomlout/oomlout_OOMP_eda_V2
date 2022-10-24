@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Rotary_Encoder_Switched_PEC11R|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Rotary_Encoder_Switched_PEC11R|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRESWITCHEDPEC11R|
-|Name|name|digikey-footprints : Rotary_Encoder_Switched_PEC11R|
+|name|name|digikey-footprints : Rotary_Encoder_Switched_PEC11R|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Rotary_Encoder_Switched_PEC11R', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Rotary_Encoder_Switched_PEC11R/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Rotary_Encoder_Switched_PEC11R/kicadPcb3d_450.png

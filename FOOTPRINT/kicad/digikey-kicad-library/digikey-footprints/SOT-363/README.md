@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOT-363|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-363|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT363|
-|Name|name|digikey-footprints : SOT-363|
+|name|name|digikey-footprints : SOT-363|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOT-363', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOT-363/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOT-363/kicadPcb3d_450.png

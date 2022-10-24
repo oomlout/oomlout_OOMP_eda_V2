@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SMD-8_7x5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-8_7x5mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSM87X5|
-|Name|name|digikey-footprints : SMD-8_7x5mm|
+|name|name|digikey-footprints : SMD-8_7x5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SMD-8_7x5mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SMD-8_7x5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SMD-8_7x5mm/kicadPcb3d_450.png

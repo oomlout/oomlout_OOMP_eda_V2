@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|JST_VH_B8PS-VH_1x08_P3.96mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_VH_B8PS-VH_1x08_P3.96mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNJSTJSTVHB8PSVH1X8P396HORIZONTAL|
-|Name|name|Connector_JST : JST_VH_B8PS-VH_1x08_P3.96mm_Horizontal|
+|name|name|Connector_JST : JST_VH_B8PS-VH_1x08_P3.96mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'JST_VH_B8PS-VH_1x08_P3.96mm_Horizontal', 'description': 'JST VH series connector, B8PS-VH (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST VH top entry', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_VH_B8PS-VH_1x08_P3.96mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_VH_B8PS-VH_1x08_P3.96mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_VH_B8PS-VH_1x08_P3.96mm_Horizontal/kicadPcb3d_450.png

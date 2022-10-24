@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|IHI_B6A-PCB-45_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector-IHI_B6A-PCB-45_Vertical|
 |Hex ID (short code)|hexID|FZKCNIHIB6APCB45VERTICAL|
-|Name|name|Connector : IHI_B6A-PCB-45_Vertical|
+|name|name|Connector : IHI_B6A-PCB-45_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'IHI_B6A-PCB-45_Vertical', 'description': 'https://lugsdirect.com/PDF_Webprint/B6A-PCB-45-XX(-X).pdf', 'tags': 'connector IHI B6A-PCB-45', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector.3dshapes/IHI_B6A-PCB-45_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector/IHI_B6A-PCB-45_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector/IHI_B6A-PCB-45_Vertical/kicadPcb3d_450.png

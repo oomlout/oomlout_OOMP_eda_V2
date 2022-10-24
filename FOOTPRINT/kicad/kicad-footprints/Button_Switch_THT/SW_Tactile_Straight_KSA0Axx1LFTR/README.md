@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_Tactile_Straight_KSA0Axx1LFTR|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Tactile_Straight_KSA0Axx1LFTR|
 |Hex ID (short code)|hexID|FZKBSWTACTILESKSAAXX1LFTR|
-|Name|name|Button_Switch_THT : SW_Tactile_Straight_KSA0Axx1LFTR|
+|name|name|Button_Switch_THT : SW_Tactile_Straight_KSA0Axx1LFTR|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_Tactile_Straight_KSA0Axx1LFTR', 'description': 'SW PUSH SMALL http://www.ckswitches.com/media/1457/ksa_ksl.pdf', 'tags': 'SW PUSH SMALL Tactile C&K', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_Tactile_Straight_KSA0Axx1LFTR.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_Straight_KSA0Axx1LFTR/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_Straight_KSA0Axx1LFTR/kicadPcb3d_450.png

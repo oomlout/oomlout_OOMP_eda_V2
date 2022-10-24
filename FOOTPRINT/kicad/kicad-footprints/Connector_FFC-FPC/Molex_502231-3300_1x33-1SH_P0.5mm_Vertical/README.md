@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Molex_502231-3300_1x33-1SH_P0.5mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Molex_502231-3300_1x33-1SH_P0.5mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNFFCFPCMX52231331X331SHP5VERTICAL|
-|Name|name|Connector_FFC-FPC : Molex_502231-3300_1x33-1SH_P0.5mm_Vertical|
+|name|name|Connector_FFC-FPC : Molex_502231-3300_1x33-1SH_P0.5mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Molex_502231-3300_1x33-1SH_P0.5mm_Vertical', 'description': 'Molex 0.50mm Pitch Easy-On Type FFC/FPC Connector, For LVDS, 6.05mm Height, Vertical, Surface Mount, ZIF, 33 Circuits (https://www.molex.com/pdm_docs/sd/5022313300_sd.pdf)', 'tags': 'molex FFC/FPC connector Pitch 0.5mm vertical', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Molex_502231-3300_1x33-1SH_P0.5mm_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Molex_502231-3300_1x33-1SH_P0.5mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Molex_502231-3300_1x33-1SH_P0.5mm_Vertical/kicadPcb3d_450.png

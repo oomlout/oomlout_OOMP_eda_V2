@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PinHeader_1x2_P2.54mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_1x2_P2.54mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER1X2P254|
-|Name|name|digikey-footprints : PinHeader_1x2_P2.54mm|
+|name|name|digikey-footprints : PinHeader_1x2_P2.54mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PinHeader_1x2_P2.54mm', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_1x2_P2.54mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_1x2_P2.54mm/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|JST_VH_B4P-VH-B_1x04_P3.96mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_VH_B4P-VH-B_1x04_P3.96mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNJSTJSTVHB4PVHB1X4P396VERTICAL|
-|Name|name|Connector_JST : JST_VH_B4P-VH-B_1x04_P3.96mm_Vertical|
+|name|name|Connector_JST : JST_VH_B4P-VH-B_1x04_P3.96mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'JST_VH_B4P-VH-B_1x04_P3.96mm_Vertical', 'description': 'JST VH PBT series connector, B4P-VH-B (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST VH vertical', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_VH_B4P-VH-B_1x04_P3.96mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_VH_B4P-VH-B_1x04_P3.96mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_VH_B4P-VH-B_1x04_P3.96mm_Vertical/kicadPcb3d_450.png

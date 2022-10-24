@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|VFLGA-12_2x2mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VFLGA-12_2x2mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVFLGA122X2|
-|Name|name|digikey-footprints : VFLGA-12_2x2mm|
+|name|name|digikey-footprints : VFLGA-12_2x2mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'VFLGA-12_2x2mm', 'description': 'http://www.st.com/content/ccc/resource/technical/document/datasheet/54/2a/85/76/e3/97/42/18/DM00075867.pdf/files/DM00075867.pdf/jcr:content/translations/en.DM00075867.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VFLGA-12_2x2mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VFLGA-12_2x2mm/kicadPcb3d_450.png

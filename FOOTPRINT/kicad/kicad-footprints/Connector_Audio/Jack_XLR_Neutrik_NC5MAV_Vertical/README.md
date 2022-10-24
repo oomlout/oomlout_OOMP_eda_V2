@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Jack_XLR_Neutrik_NC5MAV_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC5MAV_Vertical|
 |Hex ID (short code)|hexID|FZKCNAUDIOJXLRNEUTRIKNC5MAVVERTICAL|
-|Name|name|Connector_Audio : Jack_XLR_Neutrik_NC5MAV_Vertical|
+|name|name|Connector_Audio : Jack_XLR_Neutrik_NC5MAV_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Jack_XLR_Neutrik_NC5MAV_Vertical', 'description': 'A Series, 5 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc5mav', 'tags': 'neutrik xlr a', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC5MAV_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC5MAV_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC5MAV_Vertical/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|JST_XH_B7B-XH-AM_1x07_P2.50mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B7B-XH-AM_1x07_P2.50mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNJSTJSTXHB7BXHAM1X7P25VERTICAL|
-|Name|name|Connector_JST : JST_XH_B7B-XH-AM_1x07_P2.50mm_Vertical|
+|name|name|Connector_JST : JST_XH_B7B-XH-AM_1x07_P2.50mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'JST_XH_B7B-XH-AM_1x07_P2.50mm_Vertical', 'description': 'JST XH series connector, B7B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST XH vertical boss', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XH_B7B-XH-AM_1x07_P2.50mm_Vertical.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XH_B7B-XH-AM_1x07_P2.50mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XH_B7B-XH-AM_1x07_P2.50mm_Vertical/kicadPcb3d_450.png

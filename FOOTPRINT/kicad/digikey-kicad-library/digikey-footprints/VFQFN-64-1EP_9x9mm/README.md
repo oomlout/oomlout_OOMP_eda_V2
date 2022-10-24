@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|VFQFN-64-1EP_9x9mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VFQFN-64-1EP_9x9mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVFQFN641EP9X9|
-|Name|name|digikey-footprints : VFQFN-64-1EP_9x9mm|
+|name|name|digikey-footprints : VFQFN-64-1EP_9x9mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'VFQFN-64-1EP_9x9mm', 'description': 'http://www.ti.com/lit/ds/symlink/cc3200.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VFQFN-64-1EP_9x9mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VFQFN-64-1EP_9x9mm/kicadPcb3d_450.png

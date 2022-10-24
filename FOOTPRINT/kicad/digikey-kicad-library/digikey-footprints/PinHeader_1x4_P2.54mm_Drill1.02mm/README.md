@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PinHeader_1x4_P2.54mm_Drill1.02mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_1x4_P2.54mm_Drill1.02mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER1X4P254DRILL12|
-|Name|name|digikey-footprints : PinHeader_1x4_P2.54mm_Drill1.02mm|
+|name|name|digikey-footprints : PinHeader_1x4_P2.54mm_Drill1.02mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PinHeader_1x4_P2.54mm_Drill1.02mm', 'description': 'http://www.molex.com/pdm_docs/sd/022232031_sd.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_1x4_P2.54mm_Drill1.02mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_1x4_P2.54mm_Drill1.02mm/kicadPcb3d_450.png

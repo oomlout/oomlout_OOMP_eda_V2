@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MSOP-8-1EP_W3mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-MSOP-8-1EP_W3mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMS81EPW3|
-|Name|name|digikey-footprints : MSOP-8-1EP_W3mm|
+|name|name|digikey-footprints : MSOP-8-1EP_W3mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MSOP-8-1EP_W3mm', 'description': 'http://www.ti.com/lit/ds/symlink/tpa2005d1-q1.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/MSOP-8-1EP_W3mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/MSOP-8-1EP_W3mm/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Phototransistor_SMD_4x2mm_TEMT6000X01|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Phototransistor_SMD_4x2mm_TEMT6000X01|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPHOTOTRANSISTORSM4X2TEMT6X1|
-|Name|name|digikey-footprints : Phototransistor_SMD_4x2mm_TEMT6000X01|
+|name|name|digikey-footprints : Phototransistor_SMD_4x2mm_TEMT6000X01|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Phototransistor_SMD_4x2mm_TEMT6000X01', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Phototransistor_SMD_4x2mm_TEMT6000X01/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Phototransistor_SMD_4x2mm_TEMT6000X01/kicadPcb3d_450.png

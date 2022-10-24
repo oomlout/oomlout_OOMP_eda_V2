@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|BatteryHolder_MPD_BC12AAPC_2xAA|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_MPD_BC12AAPC_2xAA|
 |Hex ID (short code)|hexID|FZKBATBATHOLDERMPDBC12AAPC2XAA|
-|Name|name|Battery : BatteryHolder_MPD_BC12AAPC_2xAA|
+|name|name|Battery : BatteryHolder_MPD_BC12AAPC_2xAA|
 |Footprint Kicad|footprintKicadDetails|{'name': 'BatteryHolder_MPD_BC12AAPC_2xAA', 'description': '2xAA cell battery holder, Memory Protection Devices P/N BC12AAPC, http://www.memoryprotectiondevices.com/datasheets/BC12AAPC-datasheet.pdf', 'tags': 'AA battery cell holder', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_MPD_BC12AAPC_2xAA.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BC12AAPC_2xAA/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BC12AAPC_2xAA/kicadPcb3d_450.png

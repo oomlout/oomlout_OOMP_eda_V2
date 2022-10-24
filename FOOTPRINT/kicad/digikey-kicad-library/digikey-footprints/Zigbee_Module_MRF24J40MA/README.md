@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Zigbee_Module_MRF24J40MA|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Zigbee_Module_MRF24J40MA|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSZIGBEEMOMRF24J4MA|
-|Name|name|digikey-footprints : Zigbee_Module_MRF24J40MA|
+|name|name|digikey-footprints : Zigbee_Module_MRF24J40MA|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Zigbee_Module_MRF24J40MA', 'description': 'http://ww1.microchip.com/downloads/en/DeviceDoc/70329b.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Zigbee_Module_MRF24J40MA/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Zigbee_Module_MRF24J40MA/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|IDC-Header_2x15-1MP_P2.54mm_Latch_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x15-1MP_P2.54mm_Latch_Horizontal|
 |Hex ID (short code)|hexID|FZKCNIDCIDCHEADER2X151MPP254LATCHHORIZONTAL|
-|Name|name|Connector_IDC : IDC-Header_2x15-1MP_P2.54mm_Latch_Horizontal|
+|name|name|Connector_IDC : IDC-Header_2x15-1MP_P2.54mm_Latch_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'IDC-Header_2x15-1MP_P2.54mm_Latch_Horizontal', 'description': 'Through hole IDC header, 2x15, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0', 'tags': 'Through hole horizontal IDC header THT 2x15 2.54mm double row', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_IDC.3dshapes/IDC-Header_2x15-1MP_P2.54mm_Latch_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x15-1MP_P2.54mm_Latch_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x15-1MP_P2.54mm_Latch_Horizontal/kicadPcb3d_450.png

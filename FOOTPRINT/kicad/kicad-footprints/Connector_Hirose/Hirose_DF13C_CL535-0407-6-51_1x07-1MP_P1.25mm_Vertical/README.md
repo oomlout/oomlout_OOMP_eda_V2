@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Hirose_DF13C_CL535-0407-6-51_1x07-1MP_P1.25mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF13C_CL535-0407-6-51_1x07-1MP_P1.25mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNHIROSEHIROSEDF13CCL535476511X71MPP125VERTICAL|
-|Name|name|Connector_Hirose : Hirose_DF13C_CL535-0407-6-51_1x07-1MP_P1.25mm_Vertical|
+|name|name|Connector_Hirose : Hirose_DF13C_CL535-0407-6-51_1x07-1MP_P1.25mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Hirose_DF13C_CL535-0407-6-51_1x07-1MP_P1.25mm_Vertical', 'description': 'Hirose DF13C SMD, CL535-0407-6-51, 7 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator', 'tags': 'connector Hirose DF13C vertical', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Hirose.3dshapes/Hirose_DF13C_CL535-0407-6-51_1x07-1MP_P1.25mm_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13C_CL535-0407-6-51_1x07-1MP_P1.25mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13C_CL535-0407-6-51_1x07-1MP_P1.25mm_Vertical/kicadPcb3d_450.png

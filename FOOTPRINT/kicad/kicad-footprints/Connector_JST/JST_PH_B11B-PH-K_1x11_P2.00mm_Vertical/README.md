@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|JST_PH_B11B-PH-K_1x11_P2.00mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PH_B11B-PH-K_1x11_P2.00mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNJSTJSTPHB11BPHK1X11P2VERTICAL|
-|Name|name|Connector_JST : JST_PH_B11B-PH-K_1x11_P2.00mm_Vertical|
+|name|name|Connector_JST : JST_PH_B11B-PH-K_1x11_P2.00mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'JST_PH_B11B-PH-K_1x11_P2.00mm_Vertical', 'description': 'JST PH series connector, B11B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST PH side entry', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_PH_B11B-PH-K_1x11_P2.00mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PH_B11B-PH-K_1x11_P2.00mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PH_B11B-PH-K_1x11_P2.00mm_Vertical/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DSBGA-8_1.6x1.6mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DSBGA-8_1.6x1.6mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDSBGA816X16|
-|Name|name|digikey-footprints : DSBGA-8_1.6x1.6mm|
+|name|name|digikey-footprints : DSBGA-8_1.6x1.6mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DSBGA-8_1.6x1.6mm', 'description': 'http://www.ti.com/lit/ds/symlink/tmp006.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DSBGA-8_1.6x1.6mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DSBGA-8_1.6x1.6mm/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SMD-4_4.4x3.85mm_P2.54mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-4_4.4x3.85mm_P2.54mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSM444X385P254|
-|Name|name|digikey-footprints : SMD-4_4.4x3.85mm_P2.54mm|
+|name|name|digikey-footprints : SMD-4_4.4x3.85mm_P2.54mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SMD-4_4.4x3.85mm_P2.54mm', 'description': 'http://optoelectronics.liteon.com/upload/download/DS70-2001-010/LTV-356T%20series%20201610.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SMD-4_4.4x3.85mm_P2.54mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SMD-4_4.4x3.85mm_P2.54mm/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Molex_CLIK-Mate_502443-0770_1x07-1MP_P2.00mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502443-0770_1x07-1MP_P2.00mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNMXMXCLIKMATE52443771X71MPP2VERTICAL|
-|Name|name|Connector_Molex : Molex_CLIK-Mate_502443-0770_1x07-1MP_P2.00mm_Vertical|
+|name|name|Connector_Molex : Molex_CLIK-Mate_502443-0770_1x07-1MP_P2.00mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Molex_CLIK-Mate_502443-0770_1x07-1MP_P2.00mm_Vertical', 'description': 'Molex CLIK-Mate series connector, 502443-0770 (http://www.molex.com/pdm_docs/sd/5024430270_sd.pdf), generated with kicad-footprint-generator', 'tags': 'connector Molex CLIK-Mate side entry', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_CLIK-Mate_502443-0770_1x07-1MP_P2.00mm_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_CLIK-Mate_502443-0770_1x07-1MP_P2.00mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_CLIK-Mate_502443-0770_1x07-1MP_P2.00mm_Vertical/kicadPcb3d_450.png

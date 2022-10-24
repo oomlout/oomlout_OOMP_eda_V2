@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|C_Rect_L41.5mm_W31.0mm_P37.50mm_MKS4|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L41.5mm_W31.0mm_P37.50mm_MKS4|
 |Hex ID (short code)|hexID|FZKCCRECTL415W31P375MKS4|
-|Name|name|Capacitor_THT : C_Rect_L41.5mm_W31.0mm_P37.50mm_MKS4|
+|name|name|Capacitor_THT : C_Rect_L41.5mm_W31.0mm_P37.50mm_MKS4|
 |Footprint Kicad|footprintKicadDetails|{'name': 'C_Rect_L41.5mm_W31.0mm_P37.50mm_MKS4', 'description': 'C, Rect series, Radial, pin pitch=37.50mm, , length*width=41.5*31mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf', 'tags': 'C Rect series Radial pin pitch 37.50mm  length 41.5mm width 31mm Capacitor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L41.5mm_W31.0mm_P37.50mm_MKS4.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L41.5mm_W31.0mm_P37.50mm_MKS4/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L41.5mm_W31.0mm_P37.50mm_MKS4/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_SPST_B3S-1100|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_B3S-1100|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWSPSTB3S11|
-|Name|name|Button_Switch_SMD : SW_SPST_B3S-1100|
+|name|name|Button_Switch_SMD : SW_SPST_B3S-1100|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_SPST_B3S-1100', 'description': 'Surface Mount Tactile Switch for High-Density Packaging with Ground Terminal', 'tags': 'Tactile Switch', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_B3S-1100.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_B3S-1100/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_B3S-1100/kicadPcb3d_450.png

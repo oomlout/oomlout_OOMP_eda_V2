@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TFLGA-16_3x3.25mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TFLGA-16_3x3.25mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTFLGA163X325|
-|Name|name|digikey-footprints : TFLGA-16_3x3.25mm|
+|name|name|digikey-footprints : TFLGA-16_3x3.25mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TFLGA-16_3x3.25mm', 'description': 'http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL362.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TFLGA-16_3x3.25mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TFLGA-16_3x3.25mm/kicadPcb3d_450.png

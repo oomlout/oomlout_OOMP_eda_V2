@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Switch_Tactile_THT_6x6mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_THT_6x6mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSWITCHTACTILETHT6X6|
-|Name|name|digikey-footprints : Switch_Tactile_THT_6x6mm|
+|name|name|digikey-footprints : Switch_Tactile_THT_6x6mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Switch_Tactile_THT_6x6mm', 'description': 'http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Tactile_THT_6x6mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Tactile_THT_6x6mm/kicadPcb3d_450.png

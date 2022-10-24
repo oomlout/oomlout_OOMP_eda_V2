@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Jack_XLR_Neutrik_NC3FBV1-0_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3FBV1-0_Vertical|
 |Hex ID (short code)|hexID|FZKCNAUDIOJXLRNEUTRIKNC3FBV1VERTICAL|
-|Name|name|Connector_Audio : Jack_XLR_Neutrik_NC3FBV1-0_Vertical|
+|name|name|Connector_Audio : Jack_XLR_Neutrik_NC3FBV1-0_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Jack_XLR_Neutrik_NC3FBV1-0_Vertical', 'description': 'B Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, retention spring, no latch, https://www.neutrik.com/en/product/nc3fbv1-0', 'tags': 'neutrik xlr b', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC3FBV1-0_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC3FBV1-0_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC3FBV1-0_Vertical/kicadPcb3d_450.png

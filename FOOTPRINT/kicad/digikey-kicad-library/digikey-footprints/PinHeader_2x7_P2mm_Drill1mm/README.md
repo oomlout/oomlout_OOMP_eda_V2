@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PinHeader_2x7_P2mm_Drill1mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_2x7_P2mm_Drill1mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER2X7P2DRILL1|
-|Name|name|digikey-footprints : PinHeader_2x7_P2mm_Drill1mm|
+|name|name|digikey-footprints : PinHeader_2x7_P2mm_Drill1mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PinHeader_2x7_P2mm_Drill1mm', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_2x7_P2mm_Drill1mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_2x7_P2mm_Drill1mm/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PC_Test_Point_Mini_3.8x2.03mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PC_Test_Point_Mini_3.8x2.03mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPCTESTPOINTM38X23|
-|Name|name|digikey-footprints : PC_Test_Point_Mini_3.8x2.03mm|
+|name|name|digikey-footprints : PC_Test_Point_Mini_3.8x2.03mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PC_Test_Point_Mini_3.8x2.03mm', 'description': 'file:///C:/Users/chad_rosencrans/Downloads/5029.PDF', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PC_Test_Point_Mini_3.8x2.03mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PC_Test_Point_Mini_3.8x2.03mm/kicadPcb3d_450.png

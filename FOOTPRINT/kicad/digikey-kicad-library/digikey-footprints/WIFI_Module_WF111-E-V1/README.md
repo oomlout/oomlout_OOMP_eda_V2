@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|WIFI_Module_WF111-E-V1|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WIFI_Module_WF111-E-V1|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIFIMOWF111EV1|
-|Name|name|digikey-footprints : WIFI_Module_WF111-E-V1|
+|name|name|digikey-footprints : WIFI_Module_WF111-E-V1|
 |Footprint Kicad|footprintKicadDetails|{'name': 'WIFI_Module_WF111-E-V1', 'description': 'http://media.digikey.com/pdf/Data%20Sheets/BlueGiga%20PDFs/WF111.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WIFI_Module_WF111-E-V1/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WIFI_Module_WF111-E-V1/kicadPcb3d_450.png

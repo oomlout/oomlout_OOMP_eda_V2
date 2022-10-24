@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|BatteryHolder_Seiko_MS621F|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Seiko_MS621F|
 |Hex ID (short code)|hexID|FZKBATBATHOLDERSEIKOMS621F|
-|Name|name|Battery : BatteryHolder_Seiko_MS621F|
+|name|name|Battery : BatteryHolder_Seiko_MS621F|
 |Footprint Kicad|footprintKicadDetails|{'name': 'BatteryHolder_Seiko_MS621F', 'description': 'Seiko MS621F, https://www.sii.co.jp/en/me/files/2014/02/file_EXTENDED_PRDCT_SPEC_75_FILE_11.jpg', 'tags': 'Seiko MS621F', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Seiko_MS621F.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Seiko_MS621F/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Seiko_MS621F/kicadPcb3d_450.png

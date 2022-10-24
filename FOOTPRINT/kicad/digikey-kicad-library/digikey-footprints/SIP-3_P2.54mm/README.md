@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SIP-3_P2.54mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SIP-3_P2.54mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSIP3P254|
-|Name|name|digikey-footprints : SIP-3_P2.54mm|
+|name|name|digikey-footprints : SIP-3_P2.54mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SIP-3_P2.54mm', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIP-3_P2.54mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIP-3_P2.54mm/kicadPcb3d_450.png

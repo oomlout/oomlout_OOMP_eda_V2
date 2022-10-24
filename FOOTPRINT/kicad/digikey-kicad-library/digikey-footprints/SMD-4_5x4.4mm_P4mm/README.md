@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SMD-4_5x4.4mm_P4mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-4_5x4.4mm_P4mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSM45X44P4|
-|Name|name|digikey-footprints : SMD-4_5x4.4mm_P4mm|
+|name|name|digikey-footprints : SMD-4_5x4.4mm_P4mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SMD-4_5x4.4mm_P4mm', 'description': 'https://www.fairchildsemi.com/datasheets/MD/MDB10S.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SMD-4_5x4.4mm_P4mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SMD-4_5x4.4mm_P4mm/kicadPcb3d_450.png

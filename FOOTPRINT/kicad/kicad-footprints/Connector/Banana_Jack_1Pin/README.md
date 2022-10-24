@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Banana_Jack_1Pin|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector-Banana_Jack_1Pin|
 |Hex ID (short code)|hexID|FZKCNBANANAJ1PIN|
-|Name|name|Connector : Banana_Jack_1Pin|
+|name|name|Connector : Banana_Jack_1Pin|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Banana_Jack_1Pin', 'description': 'Single banana socket, footprint - 6mm drill', 'tags': 'banana socket', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector.3dshapes/Banana_Jack_1Pin.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector/Banana_Jack_1Pin/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector/Banana_Jack_1Pin/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|1210|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-1210|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS121|
-|Name|name|digikey-footprints : 1210|
+|name|name|digikey-footprints : 1210|
 |Footprint Kicad|footprintKicadDetails|{'name': '1210', 'description': 'http://www.murata-ps.com/data/magnetics/kmp_8200c.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/1210/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/1210/kicadPcb3d_450.png

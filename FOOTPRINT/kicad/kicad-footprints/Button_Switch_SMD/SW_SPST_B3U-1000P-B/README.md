@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_SPST_B3U-1000P-B|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_B3U-1000P-B|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWSPSTB3U1PB|
-|Name|name|Button_Switch_SMD : SW_SPST_B3U-1000P-B|
+|name|name|Button_Switch_SMD : SW_SPST_B3U-1000P-B|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_SPST_B3U-1000P-B', 'description': 'Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, with Boss', 'tags': 'Tactile Switch', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_B3U-1000P-B.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_B3U-1000P-B/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_B3U-1000P-B/kicadPcb3d_450.png

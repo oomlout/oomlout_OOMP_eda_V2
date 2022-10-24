@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_7Seg_VAOS-C402S9-BW_50|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_7Seg_VAOS-C402S9-BW_50|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSL7SEGVAOSC42S9BW5|
-|Name|name|digikey-footprints : LED_7Seg_VAOS-C402S9-BW_50|
+|name|name|digikey-footprints : LED_7Seg_VAOS-C402S9-BW_50|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_7Seg_VAOS-C402S9-BW_50', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_7Seg_VAOS-C402S9-BW_50/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_7Seg_VAOS-C402S9-BW_50/kicadPcb3d_450.png

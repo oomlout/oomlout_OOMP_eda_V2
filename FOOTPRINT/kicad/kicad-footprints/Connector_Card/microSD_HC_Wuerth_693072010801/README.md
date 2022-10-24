@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|microSD_HC_Wuerth_693072010801|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSD_HC_Wuerth_693072010801|
 |Hex ID (short code)|hexID|FZKCNCARDMSDHCWUERTH69372181|
-|Name|name|Connector_Card : microSD_HC_Wuerth_693072010801|
+|name|name|Connector_Card : microSD_HC_Wuerth_693072010801|
 |Footprint Kicad|footprintKicadDetails|{'name': 'microSD_HC_Wuerth_693072010801', 'description': 'http://katalog.we-online.de/em/datasheet/693072010801.pdf', 'tags': 'Micro SD Wuerth Wurth Würth', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Card.3dshapes/microSD_HC_Wuerth_693072010801.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Wuerth_693072010801/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Wuerth_693072010801/kicadPcb3d_450.png

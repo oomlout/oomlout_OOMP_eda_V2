@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SPH0645LM4H-B|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SPH0645LM4H-B|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSPH645LM4HB|
-|Name|name|digikey-footprints : SPH0645LM4H-B|
+|name|name|digikey-footprints : SPH0645LM4H-B|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SPH0645LM4H-B', 'description': 'http://www.digikey.com/products/en?keywords=423-1405-1-ND', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SPH0645LM4H-B/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SPH0645LM4H-B/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-92-3_Formed_Leads|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-92-3_Formed_Leads|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTO923FORMEDLEADS|
-|Name|name|digikey-footprints : TO-92-3_Formed_Leads|
+|name|name|digikey-footprints : TO-92-3_Formed_Leads|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-92-3_Formed_Leads', 'description': 'http://www.ti.com/lit/ds/symlink/tl431a.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-92-3_Formed_Leads/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-92-3_Formed_Leads/kicadPcb3d_450.png

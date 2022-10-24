@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|CP_EIA-7343-20_Kemet-V|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7343-20_Kemet-V|
 |Hex ID (short code)|hexID|FZKCAPACITORTANTALUMSMCPEIA73432KEMETV|
-|Name|name|Capacitor_Tantalum_SMD : CP_EIA-7343-20_Kemet-V|
+|name|name|Capacitor_Tantalum_SMD : CP_EIA-7343-20_Kemet-V|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CP_EIA-7343-20_Kemet-V', 'description': 'Tantalum Capacitor SMD Kemet-V (7343-20 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator', 'tags': 'capacitor tantalum', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-7343-20_Kemet-V.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-7343-20_Kemet-V/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-7343-20_Kemet-V/kicadPcb3d_450.png

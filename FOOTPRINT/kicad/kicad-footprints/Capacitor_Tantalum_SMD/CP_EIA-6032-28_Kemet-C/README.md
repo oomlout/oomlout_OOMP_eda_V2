@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|CP_EIA-6032-28_Kemet-C|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-6032-28_Kemet-C|
 |Hex ID (short code)|hexID|FZKCAPACITORTANTALUMSMCPEIA63228KEMETC|
-|Name|name|Capacitor_Tantalum_SMD : CP_EIA-6032-28_Kemet-C|
+|name|name|Capacitor_Tantalum_SMD : CP_EIA-6032-28_Kemet-C|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CP_EIA-6032-28_Kemet-C', 'description': 'Tantalum Capacitor SMD Kemet-C (6032-28 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator', 'tags': 'capacitor tantalum', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-6032-28_Kemet-C.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-6032-28_Kemet-C/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-6032-28_Kemet-C/kicadPcb3d_450.png

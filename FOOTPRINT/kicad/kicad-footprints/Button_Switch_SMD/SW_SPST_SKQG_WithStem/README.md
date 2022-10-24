@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_SPST_SKQG_WithStem|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_SKQG_WithStem|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWSPSTSKQGWITHSTEM|
-|Name|name|Button_Switch_SMD : SW_SPST_SKQG_WithStem|
+|name|name|Button_Switch_SMD : SW_SPST_SKQG_WithStem|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_SPST_SKQG_WithStem', 'description': 'ALPS 5.2mm Square Low-profile Type (Surface Mount) SKQG Series, With stem, http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKQG/SKQGAFE010.html', 'tags': 'SPST Button Switch', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_SKQG_WithStem.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_SKQG_WithStem/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_SKQG_WithStem/kicadPcb3d_450.png

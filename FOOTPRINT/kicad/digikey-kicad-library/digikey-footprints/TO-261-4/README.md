@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-261-4|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-261-4|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTO2614|
-|Name|name|digikey-footprints : TO-261-4|
+|name|name|digikey-footprints : TO-261-4|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-261-4', 'description': 'http://cds.linear.com/docs/en/datasheet/3092fc.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-261-4/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-261-4/kicadPcb3d_450.png

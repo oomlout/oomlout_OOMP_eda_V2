@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DIP-28_W7.62mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DIP-28_W7.62mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDIP28W762|
-|Name|name|digikey-footprints : DIP-28_W7.62mm|
+|name|name|digikey-footprints : DIP-28_W7.62mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DIP-28_W7.62mm', 'description': 'http://www.digikey.com/products/en?formaction=on&lang=en&site=us&KeyWords=296-1956-5-ND', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DIP-28_W7.62mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DIP-28_W7.62mm/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Diode_DO-35_P10mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Diode_DO-35_P10mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDIODEDO35P1|
-|Name|name|digikey-footprints : Diode_DO-35_P10mm|
+|name|name|digikey-footprints : Diode_DO-35_P10mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Diode_DO-35_P10mm', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Diode_DO-35_P10mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Diode_DO-35_P10mm/kicadPcb3d_450.png

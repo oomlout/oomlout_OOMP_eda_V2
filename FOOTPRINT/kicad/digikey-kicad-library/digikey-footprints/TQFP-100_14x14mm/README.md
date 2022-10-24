@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TQFP-100_14x14mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TQFP-100_14x14mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTQFP114X14|
-|Name|name|digikey-footprints : TQFP-100_14x14mm|
+|name|name|digikey-footprints : TQFP-100_14x14mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TQFP-100_14x14mm', 'description': 'http://www.atmel.com/Images/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_datasheet.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TQFP-100_14x14mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TQFP-100_14x14mm/kicadPcb3d_450.png

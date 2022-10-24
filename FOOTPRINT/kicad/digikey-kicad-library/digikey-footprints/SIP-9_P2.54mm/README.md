@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SIP-9_P2.54mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SIP-9_P2.54mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSIP9P254|
-|Name|name|digikey-footprints : SIP-9_P2.54mm|
+|name|name|digikey-footprints : SIP-9_P2.54mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SIP-9_P2.54mm', 'description': 'http://www.bourns.com/docs/Product-Datasheets/4600x.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIP-9_P2.54mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIP-9_P2.54mm/kicadPcb3d_450.png

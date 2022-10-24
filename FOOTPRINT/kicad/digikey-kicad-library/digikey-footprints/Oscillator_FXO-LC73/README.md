@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Oscillator_FXO-LC73|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Oscillator_FXO-LC73|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSOCSFXOLC73|
-|Name|name|digikey-footprints : Oscillator_FXO-LC73|
+|name|name|digikey-footprints : Oscillator_FXO-LC73|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Oscillator_FXO-LC73', 'description': 'http://www.foxonline.com/pdfs/FXO_LC73.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Oscillator_FXO-LC73/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Oscillator_FXO-LC73/kicadPcb3d_450.png

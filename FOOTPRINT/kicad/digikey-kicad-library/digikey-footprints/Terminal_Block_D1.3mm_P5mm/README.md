@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Terminal_Block_D1.3mm_P5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Terminal_Block_D1.3mm_P5mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTERMINALBLD13P5|
-|Name|name|digikey-footprints : Terminal_Block_D1.3mm_P5mm|
+|name|name|digikey-footprints : Terminal_Block_D1.3mm_P5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Terminal_Block_D1.3mm_P5mm', 'description': 'https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1935161.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Terminal_Block_D1.3mm_P5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Terminal_Block_D1.3mm_P5mm/kicadPcb3d_450.png

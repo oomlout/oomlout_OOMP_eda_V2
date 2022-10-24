@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_HDMI-HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle|
 |Hex ID (short code)|hexID|FZKCNHDMIHDMIAKYCONKDMIXSL1NSWSB15VERTICALRIGHTANGLE|
-|Name|name|Connector_HDMI : HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle|
+|name|name|Connector_HDMI : HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle', 'description': 'HDMI, Type A, Kycon KDMIX-SL1-NS-WS-B15, Vertical Right Angle, http://www.kycon.com/Pub_Eng_Draw/KDMIX-SL1-NS-WS-B15.pdf', 'tags': 'hdmi type a', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_HDMI.3dshapes/HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|JST_XH_S5B-XH-A_1x05_P2.50mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_S5B-XH-A_1x05_P2.50mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNJSTJSTXHS5BXHA1X5P25HORIZONTAL|
-|Name|name|Connector_JST : JST_XH_S5B-XH-A_1x05_P2.50mm_Horizontal|
+|name|name|Connector_JST : JST_XH_S5B-XH-A_1x05_P2.50mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'JST_XH_S5B-XH-A_1x05_P2.50mm_Horizontal', 'description': 'JST XH series connector, S5B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST XH horizontal', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XH_S5B-XH-A_1x05_P2.50mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XH_S5B-XH-A_1x05_P2.50mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XH_S5B-XH-A_1x05_P2.50mm_Horizontal/kicadPcb3d_450.png

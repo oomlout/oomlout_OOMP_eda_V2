@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|C_Radial_D12.5mm_H20.0mm_P5.00mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Radial_D12.5mm_H20.0mm_P5.00mm|
 |Hex ID (short code)|hexID|FZKCCRD125H2P5|
-|Name|name|Capacitor_THT : C_Radial_D12.5mm_H20.0mm_P5.00mm|
+|name|name|Capacitor_THT : C_Radial_D12.5mm_H20.0mm_P5.00mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'C_Radial_D12.5mm_H20.0mm_P5.00mm', 'description': 'C, Radial series, Radial, pin pitch=5.00mm, diameter=12.5mm, height=20mm, Non-Polar Electrolytic Capacitor', 'tags': 'C Radial series Radial pin pitch 5.00mm diameter 12.5mm height 20mm Non-Polar Electrolytic Capacitor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Radial_D12.5mm_H20.0mm_P5.00mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Radial_D12.5mm_H20.0mm_P5.00mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Radial_D12.5mm_H20.0mm_P5.00mm/kicadPcb3d_450.png

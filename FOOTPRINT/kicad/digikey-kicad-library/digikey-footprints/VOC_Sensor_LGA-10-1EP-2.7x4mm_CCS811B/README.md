@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVOCSENLGA11EP27X4CCS811B|
-|Name|name|digikey-footprints : VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B|
+|name|name|digikey-footprints : VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B|
 |Footprint Kicad|footprintKicadDetails|{'name': 'VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B/kicadPcb3d_450.png

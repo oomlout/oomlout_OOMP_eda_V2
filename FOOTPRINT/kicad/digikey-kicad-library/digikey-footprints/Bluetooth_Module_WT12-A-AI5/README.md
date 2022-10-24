@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Bluetooth_Module_WT12-A-AI5|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_WT12-A-AI5|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOWT12AAI5|
-|Name|name|digikey-footprints : Bluetooth_Module_WT12-A-AI5|
+|name|name|digikey-footprints : Bluetooth_Module_WT12-A-AI5|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Bluetooth_Module_WT12-A-AI5', 'description': 'http://www.digikey.com/products/en?keywords=Bluetooth_Module_WT12-A-AI5', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_WT12-A-AI5/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_WT12-A-AI5/kicadPcb3d_450.png

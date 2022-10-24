@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_Dual0603|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_Dual0603|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLDUAL63|
-|Name|name|digikey-footprints : LED_Dual0603|
+|name|name|digikey-footprints : LED_Dual0603|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_Dual0603', 'description': 'http://optoelectronics.liteon.com/upload/download/DS22-2008-0044/LTST-C19HE1WT.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_Dual0603/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_Dual0603/kicadPcb3d_450.png

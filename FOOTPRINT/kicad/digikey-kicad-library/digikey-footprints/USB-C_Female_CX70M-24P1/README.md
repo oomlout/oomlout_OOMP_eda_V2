@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB-C_Female_CX70M-24P1|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Female_CX70M-24P1|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUCFEMALECX7M24P1|
-|Name|name|digikey-footprints : USB-C_Female_CX70M-24P1|
+|name|name|digikey-footprints : USB-C_Female_CX70M-24P1|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB-C_Female_CX70M-24P1', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB-C_Female_CX70M-24P1/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB-C_Female_CX70M-24P1/kicadPcb3d_450.png

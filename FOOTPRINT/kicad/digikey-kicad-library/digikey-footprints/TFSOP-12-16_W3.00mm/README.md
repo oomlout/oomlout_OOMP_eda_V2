@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TFSOP-12-16_W3.00mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TFSOP-12-16_W3.00mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTFS1216W3|
-|Name|name|digikey-footprints : TFSOP-12-16_W3.00mm|
+|name|name|digikey-footprints : TFSOP-12-16_W3.00mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TFSOP-12-16_W3.00mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TFSOP-12-16_W3.00mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TFSOP-12-16_W3.00mm/kicadPcb3d_450.png

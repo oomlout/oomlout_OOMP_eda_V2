@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Jack_6.35mm_Neutrik_NRJ6HH_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NRJ6HH_Horizontal|
 |Hex ID (short code)|hexID|FZKCNAUDIOJ635NEUTRIKNRJ6HHHORIZONTAL|
-|Name|name|Connector_Audio : Jack_6.35mm_Neutrik_NRJ6HH_Horizontal|
+|name|name|Connector_Audio : Jack_6.35mm_Neutrik_NRJ6HH_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Jack_6.35mm_Neutrik_NRJ6HH_Horizontal', 'description': 'Slim Jacks, 6.35mm (1/4in) stereo jack, switched, half threaded nose, https://www.neutrik.com/en/product/nrj6hh', 'tags': 'neutrik jack slim', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_6.35mm_Neutrik_NRJ6HH_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NRJ6HH_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NRJ6HH_Horizontal/kicadPcb3d_450.png

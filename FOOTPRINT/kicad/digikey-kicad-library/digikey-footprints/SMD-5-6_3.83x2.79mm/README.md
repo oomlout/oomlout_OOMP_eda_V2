@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SMD-5-6_3.83x2.79mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-5-6_3.83x2.79mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSM56383X279|
-|Name|name|digikey-footprints : SMD-5-6_3.83x2.79mm|
+|name|name|digikey-footprints : SMD-5-6_3.83x2.79mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SMD-5-6_3.83x2.79mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SMD-5-6_3.83x2.79mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SMD-5-6_3.83x2.79mm/kicadPcb3d_450.png

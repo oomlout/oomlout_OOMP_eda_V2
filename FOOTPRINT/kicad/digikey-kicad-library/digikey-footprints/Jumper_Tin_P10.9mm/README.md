@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Jumper_Tin_P10.9mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Jumper_Tin_P10.9mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSJTINP19|
-|Name|name|digikey-footprints : Jumper_Tin_P10.9mm|
+|name|name|digikey-footprints : Jumper_Tin_P10.9mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Jumper_Tin_P10.9mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Jumper_Tin_P10.9mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Jumper_Tin_P10.9mm/kicadPcb3d_450.png

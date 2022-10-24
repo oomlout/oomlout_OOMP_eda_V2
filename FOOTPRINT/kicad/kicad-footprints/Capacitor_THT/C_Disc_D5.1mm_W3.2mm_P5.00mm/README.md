@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|C_Disc_D5.1mm_W3.2mm_P5.00mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Disc_D5.1mm_W3.2mm_P5.00mm|
 |Hex ID (short code)|hexID|FZKCCDISCD51W32P5|
-|Name|name|Capacitor_THT : C_Disc_D5.1mm_W3.2mm_P5.00mm|
+|name|name|Capacitor_THT : C_Disc_D5.1mm_W3.2mm_P5.00mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'C_Disc_D5.1mm_W3.2mm_P5.00mm', 'description': 'C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=5.1*3.2mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf', 'tags': 'C Disc series Radial pin pitch 5.00mm  diameter 5.1mm width 3.2mm Capacitor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D5.1mm_W3.2mm_P5.00mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Disc_D5.1mm_W3.2mm_P5.00mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Disc_D5.1mm_W3.2mm_P5.00mm/kicadPcb3d_450.png

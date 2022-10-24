@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Tilt_Switch_RB-220-07A_R|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Tilt_Switch_RB-220-07A_R|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTILTSWITCHRB227AR|
-|Name|name|digikey-footprints : Tilt_Switch_RB-220-07A_R|
+|name|name|digikey-footprints : Tilt_Switch_RB-220-07A_R|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Tilt_Switch_RB-220-07A_R', 'description': 'http://media.digikey.com/pdf/Data%20Sheets/C&K/RB-220-07A_R.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Tilt_Switch_RB-220-07A_R/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Tilt_Switch_RB-220-07A_R/kicadPcb3d_450.png

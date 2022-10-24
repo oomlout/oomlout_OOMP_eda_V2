@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MagneticBuzzer_ProjectsUnlimited_AI-4228-TWT-R|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_ProjectsUnlimited_AI-4228-TWT-R|
 |Hex ID (short code)|hexID|FZKBZMAGNETICBUZZERPROJECTSUNLIMITEDAI4228TWTR|
-|Name|name|Buzzer_Beeper : MagneticBuzzer_ProjectsUnlimited_AI-4228-TWT-R|
+|name|name|Buzzer_Beeper : MagneticBuzzer_ProjectsUnlimited_AI-4228-TWT-R|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MagneticBuzzer_ProjectsUnlimited_AI-4228-TWT-R', 'description': 'Buzzer, Elektromagnetic Beeper, Summer, 3-28V-DC, https://www.kynix.com/uploadfiles/pdf/AI-4228-TWT-R.pdf', 'tags': 'Projects Unlimited AI-4228-TWT-R ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/MagneticBuzzer_ProjectsUnlimited_AI-4228-TWT-R.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_ProjectsUnlimited_AI-4228-TWT-R/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_ProjectsUnlimited_AI-4228-TWT-R/kicadPcb3d_450.png

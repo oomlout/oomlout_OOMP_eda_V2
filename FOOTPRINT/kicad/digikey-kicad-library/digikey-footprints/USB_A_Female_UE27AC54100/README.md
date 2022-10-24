@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB_A_Female_UE27AC54100|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_A_Female_UE27AC54100|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUAFEMALEUE27AC541|
-|Name|name|digikey-footprints : USB_A_Female_UE27AC54100|
+|name|name|digikey-footprints : USB_A_Female_UE27AC54100|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB_A_Female_UE27AC54100', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_A_Female_UE27AC54100/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_A_Female_UE27AC54100/kicadPcb3d_450.png

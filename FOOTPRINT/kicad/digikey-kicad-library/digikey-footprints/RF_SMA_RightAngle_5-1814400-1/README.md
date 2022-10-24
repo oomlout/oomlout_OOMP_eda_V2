@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|RF_SMA_RightAngle_5-1814400-1|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_SMA_RightAngle_5-1814400-1|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFSRIGHTANGLE5181441|
-|Name|name|digikey-footprints : RF_SMA_RightAngle_5-1814400-1|
+|name|name|digikey-footprints : RF_SMA_RightAngle_5-1814400-1|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RF_SMA_RightAngle_5-1814400-1', 'description': 'http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1814400&DocType=Customer+Drawing&DocLang=English', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_SMA_RightAngle_5-1814400-1/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_SMA_RightAngle_5-1814400-1/kicadPcb3d_450.png

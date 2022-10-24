@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LLGA-10_2.5x2.5mm_LPS25HB|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LLGA-10_2.5x2.5mm_LPS25HB|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLLGA125X25LPS25HB|
-|Name|name|digikey-footprints : LLGA-10_2.5x2.5mm_LPS25HB|
+|name|name|digikey-footprints : LLGA-10_2.5x2.5mm_LPS25HB|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LLGA-10_2.5x2.5mm_LPS25HB', 'description': 'http://www.st.com/content/ccc/resource/technical/document/datasheet/9a/4c/aa/72/1f/45/4e/24/DM00141379.pdf/files/DM00141379.pdf/jcr:content/translations/en.DM00141379.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LLGA-10_2.5x2.5mm_LPS25HB/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LLGA-10_2.5x2.5mm_LPS25HB/kicadPcb3d_450.png

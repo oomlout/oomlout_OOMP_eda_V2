@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|C_2220_5650Metric|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_2220_5650Metric|
 |Hex ID (short code)|hexID|FZKCAPACITORSMC222565METRIC|
-|Name|name|Capacitor_SMD : C_2220_5650Metric|
+|name|name|Capacitor_SMD : C_2220_5650Metric|
 |Footprint Kicad|footprintKicadDetails|{'name': 'C_2220_5650Metric', 'description': 'Capacitor SMD 2220 (5650 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator', 'tags': 'capacitor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_2220_5650Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_2220_5650Metric/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_2220_5650Metric/kicadPcb3d_450.png

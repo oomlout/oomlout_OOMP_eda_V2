@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PROBE_PAD_1206|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PROBE_PAD_1206|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPROBEPAD126|
-|Name|name|digikey-footprints : PROBE_PAD_1206|
+|name|name|digikey-footprints : PROBE_PAD_1206|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PROBE_PAD_1206', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PROBE_PAD_1206/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PROBE_PAD_1206/kicadPcb3d_450.png

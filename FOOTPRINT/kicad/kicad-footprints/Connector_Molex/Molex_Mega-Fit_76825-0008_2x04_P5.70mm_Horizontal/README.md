@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Molex_Mega-Fit_76825-0008_2x04_P5.70mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mega-Fit_76825-0008_2x04_P5.70mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNMXMXMEGAFIT7682582X4P57HORIZONTAL|
-|Name|name|Connector_Molex : Molex_Mega-Fit_76825-0008_2x04_P5.70mm_Horizontal|
+|name|name|Connector_Molex : Molex_Mega-Fit_76825-0008_2x04_P5.70mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Molex_Mega-Fit_76825-0008_2x04_P5.70mm_Horizontal', 'description': 'Molex Mega-Fit Power Connectors, 76825-0008 (compatible alternatives: 172064-0008, 172064-1008), 4 Pins per row (http://www.molex.com/pdm_docs/sd/1720640002_sd.pdf), generated with kicad-footprint-generator', 'tags': 'connector Molex Mega-Fit top entry', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Mega-Fit_76825-0008_2x04_P5.70mm_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mega-Fit_76825-0008_2x04_P5.70mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mega-Fit_76825-0008_2x04_P5.70mm_Horizontal/kicadPcb3d_450.png

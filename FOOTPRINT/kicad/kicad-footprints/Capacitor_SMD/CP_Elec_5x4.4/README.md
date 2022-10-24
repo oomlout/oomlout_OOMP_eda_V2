@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|CP_Elec_5x4.4|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_5x4.4|
 |Hex ID (short code)|hexID|FZKCAPACITORSMCPELEC5X44|
-|Name|name|Capacitor_SMD : CP_Elec_5x4.4|
+|name|name|Capacitor_SMD : CP_Elec_5x4.4|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CP_Elec_5x4.4', 'description': 'SMD capacitor, aluminum electrolytic, Panasonic B45, 5.0x4.4mm', 'tags': 'capacitor electrolytic', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_5x4.4.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_5x4.4/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_5x4.4/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|2320|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-2320|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS232|
-|Name|name|digikey-footprints : 2320|
+|name|name|digikey-footprints : 2320|
 |Footprint Kicad|footprintKicadDetails|{'name': '2320', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/2320/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/2320/kicadPcb3d_450.png

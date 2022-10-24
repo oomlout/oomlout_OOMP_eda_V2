@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-204AA|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-204AA|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTO24AA|
-|Name|name|digikey-footprints : TO-204AA|
+|name|name|digikey-footprints : TO-204AA|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-204AA', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-204AA/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-204AA/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|UFQFN-28-1EP_4x4mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UFQFN-28-1EP_4x4mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUFQFN281EP4X4|
-|Name|name|digikey-footprints : UFQFN-28-1EP_4x4mm|
+|name|name|digikey-footprints : UFQFN-28-1EP_4x4mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'UFQFN-28-1EP_4x4mm', 'description': 'http://www.semtech.com/images/datasheet/sx150x_89b.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/UFQFN-28-1EP_4x4mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/UFQFN-28-1EP_4x4mm/kicadPcb3d_450.png

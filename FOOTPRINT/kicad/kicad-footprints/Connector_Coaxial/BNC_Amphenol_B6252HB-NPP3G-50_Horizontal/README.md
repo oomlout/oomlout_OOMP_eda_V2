@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|BNC_Amphenol_B6252HB-NPP3G-50_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_Amphenol_B6252HB-NPP3G-50_Horizontal|
 |Hex ID (short code)|hexID|FZKCNCOABNCAMPHENOLB6252HBNPP3G5HORIZONTAL|
-|Name|name|Connector_Coaxial : BNC_Amphenol_B6252HB-NPP3G-50_Horizontal|
+|name|name|Connector_Coaxial : BNC_Amphenol_B6252HB-NPP3G-50_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'BNC_Amphenol_B6252HB-NPP3G-50_Horizontal', 'description': 'http://www.farnell.com/datasheets/612848.pdf', 'tags': 'BNC Amphenol Horizontal', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/BNC_Amphenol_B6252HB-NPP3G-50_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_Amphenol_B6252HB-NPP3G-50_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_Amphenol_B6252HB-NPP3G-50_Horizontal/kicadPcb3d_450.png

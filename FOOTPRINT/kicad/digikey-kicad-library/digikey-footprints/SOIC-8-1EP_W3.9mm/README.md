@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOIC-8-1EP_W3.9mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-8-1EP_W3.9mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC81EPW39|
-|Name|name|digikey-footprints : SOIC-8-1EP_W3.9mm|
+|name|name|digikey-footprints : SOIC-8-1EP_W3.9mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOIC-8-1EP_W3.9mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOIC-8-1EP_W3.9mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOIC-8-1EP_W3.9mm/kicadPcb3d_450.png

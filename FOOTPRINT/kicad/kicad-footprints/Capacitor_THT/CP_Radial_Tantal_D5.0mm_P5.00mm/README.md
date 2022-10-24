@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|CP_Radial_Tantal_D5.0mm_P5.00mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_Tantal_D5.0mm_P5.00mm|
 |Hex ID (short code)|hexID|FZKCCPRTANTALD5P5|
-|Name|name|Capacitor_THT : CP_Radial_Tantal_D5.0mm_P5.00mm|
+|name|name|Capacitor_THT : CP_Radial_Tantal_D5.0mm_P5.00mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CP_Radial_Tantal_D5.0mm_P5.00mm', 'description': 'CP, Radial_Tantal series, Radial, pin pitch=5.00mm, , diameter=5.0mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf', 'tags': 'CP Radial_Tantal series Radial pin pitch 5.00mm  diameter 5.0mm Tantal Electrolytic Capacitor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_Tantal_D5.0mm_P5.00mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Radial_Tantal_D5.0mm_P5.00mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Radial_Tantal_D5.0mm_P5.00mm/kicadPcb3d_450.png

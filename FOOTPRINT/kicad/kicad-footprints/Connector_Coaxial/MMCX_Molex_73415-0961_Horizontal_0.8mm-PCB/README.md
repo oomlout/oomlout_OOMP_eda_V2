@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB|
 |Hex ID (short code)|hexID|FZKCNCOACXMX73415961HORIZONTAL8PCB|
-|Name|name|Connector_Coaxial : MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB|
+|name|name|Connector_Coaxial : MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB', 'description': 'Molex MMCX Horizontal Coaxial https://www.molex.com/pdm_docs/sd/734150961_sd.pdf', 'tags': 'Molex MMCX Horizontal Coaxial', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/MMCX_Molex_73415-0961_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB/kicadPcb3d_450.png

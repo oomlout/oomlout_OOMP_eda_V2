@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB_Mini_B_Female_548190519|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Mini_B_Female_548190519|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBFEMALE54819519|
-|Name|name|digikey-footprints : USB_Mini_B_Female_548190519|
+|name|name|digikey-footprints : USB_Mini_B_Female_548190519|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB_Mini_B_Female_548190519', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Mini_B_Female_548190519/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Mini_B_Female_548190519/kicadPcb3d_450.png

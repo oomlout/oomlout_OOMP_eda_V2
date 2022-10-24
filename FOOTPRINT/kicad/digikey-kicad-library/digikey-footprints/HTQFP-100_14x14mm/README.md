@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|HTQFP-100_14x14mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-HTQFP-100_14x14mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHTQFP114X14|
-|Name|name|digikey-footprints : HTQFP-100_14x14mm|
+|name|name|digikey-footprints : HTQFP-100_14x14mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HTQFP-100_14x14mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HTQFP-100_14x14mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HTQFP-100_14x14mm/kicadPcb3d_450.png

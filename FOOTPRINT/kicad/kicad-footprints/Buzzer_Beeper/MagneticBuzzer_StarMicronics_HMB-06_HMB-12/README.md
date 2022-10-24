@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MagneticBuzzer_StarMicronics_HMB-06_HMB-12|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_StarMicronics_HMB-06_HMB-12|
 |Hex ID (short code)|hexID|FZKBZMAGNETICBUZZERSTARMNICSHMB6HMB12|
-|Name|name|Buzzer_Beeper : MagneticBuzzer_StarMicronics_HMB-06_HMB-12|
+|name|name|Buzzer_Beeper : MagneticBuzzer_StarMicronics_HMB-06_HMB-12|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MagneticBuzzer_StarMicronics_HMB-06_HMB-12', 'description': 'Buzzer, Elektromagnetic Beeper, Summer,', 'tags': 'Star Micronics HMB-06 HMB-12', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/MagneticBuzzer_StarMicronics_HMB-06_HMB-12.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_StarMicronics_HMB-06_HMB-12/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_StarMicronics_HMB-06_HMB-12/kicadPcb3d_450.png

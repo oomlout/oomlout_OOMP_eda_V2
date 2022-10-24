@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PC_TEST_POINT_SMD|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PC_TEST_POINT_SMD|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPCTESTPOINTSM|
-|Name|name|digikey-footprints : PC_TEST_POINT_SMD|
+|name|name|digikey-footprints : PC_TEST_POINT_SMD|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PC_TEST_POINT_SMD', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PC_TEST_POINT_SMD/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PC_TEST_POINT_SMD/kicadPcb3d_450.png

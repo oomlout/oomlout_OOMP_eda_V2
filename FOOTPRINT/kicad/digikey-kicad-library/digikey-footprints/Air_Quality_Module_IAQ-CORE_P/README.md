@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Air_Quality_Module_IAQ-CORE_P|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Air_Quality_Module_IAQ-CORE_P|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSAIRQUALITYMOIAQCOREP|
-|Name|name|digikey-footprints : Air_Quality_Module_IAQ-CORE_P|
+|name|name|digikey-footprints : Air_Quality_Module_IAQ-CORE_P|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Air_Quality_Module_IAQ-CORE_P', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Air_Quality_Module_IAQ-CORE_P/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Air_Quality_Module_IAQ-CORE_P/kicadPcb3d_450.png

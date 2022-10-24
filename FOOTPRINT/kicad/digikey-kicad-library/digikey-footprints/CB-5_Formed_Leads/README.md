@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|CB-5_Formed_Leads|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-CB-5_Formed_Leads|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCB5FORMEDLEADS|
-|Name|name|digikey-footprints : CB-5_Formed_Leads|
+|name|name|digikey-footprints : CB-5_Formed_Leads|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CB-5_Formed_Leads', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/CB-5_Formed_Leads/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/CB-5_Formed_Leads/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|BatteryHolder_Keystone_2993|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_2993|
 |Hex ID (short code)|hexID|FZKBATBATHOLDERKEYSTONE2993|
-|Name|name|Battery : BatteryHolder_Keystone_2993|
+|name|name|Battery : BatteryHolder_Keystone_2993|
 |Footprint Kicad|footprintKicadDetails|{'name': 'BatteryHolder_Keystone_2993', 'description': 'http://www.keyelco.com/product-pdf.cfm?p=776', 'tags': 'Keystone type 2993 negative battery contact', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_2993.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2993/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2993/kicadPcb3d_450.png

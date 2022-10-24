@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Multiwatt-15|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Multiwatt-15|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMULTIWATT15|
-|Name|name|digikey-footprints : Multiwatt-15|
+|name|name|digikey-footprints : Multiwatt-15|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Multiwatt-15', 'description': 'http://www.st.com/content/ccc/resource/technical/document/datasheet/ab/d6/fa/99/84/36/49/ee/CD00000017.pdf/files/CD00000017.pdf/jcr:content/translations/en.CD00000017.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Multiwatt-15/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Multiwatt-15/kicadPcb3d_450.png

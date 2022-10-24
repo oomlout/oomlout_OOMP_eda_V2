@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|BarrelJack_CUI_PJ-102AH_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_CUI_PJ-102AH_Horizontal|
 |Hex ID (short code)|hexID|FZKCNBARRELJBARRELJCUIPJ12AHHORIZONTAL|
-|Name|name|Connector_BarrelJack : BarrelJack_CUI_PJ-102AH_Horizontal|
+|name|name|Connector_BarrelJack : BarrelJack_CUI_PJ-102AH_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'BarrelJack_CUI_PJ-102AH_Horizontal', 'description': 'Thin-pin DC Barrel Jack, https://cdn-shop.adafruit.com/datasheets/21mmdcjackDatasheet.pdf', 'tags': 'Power Jack', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_BarrelJack.3dshapes/BarrelJack_CUI_PJ-102AH_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_CUI_PJ-102AH_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_CUI_PJ-102AH_Horizontal/kicadPcb3d_450.png

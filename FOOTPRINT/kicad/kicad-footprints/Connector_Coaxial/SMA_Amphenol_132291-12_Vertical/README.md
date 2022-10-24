@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SMA_Amphenol_132291-12_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Amphenol_132291-12_Vertical|
 |Hex ID (short code)|hexID|FZKCNCOASAMPHENOL13229112VERTICAL|
-|Name|name|Connector_Coaxial : SMA_Amphenol_132291-12_Vertical|
+|name|name|Connector_Coaxial : SMA_Amphenol_132291-12_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SMA_Amphenol_132291-12_Vertical', 'description': 'https://www.amphenolrf.com/downloads/dl/file/id/1688/product/3020/132291_12_customer_drawing.pdf', 'tags': 'SMA THT Female Jack Vertical Bulkhead', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Amphenol_132291-12_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/SMA_Amphenol_132291-12_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/SMA_Amphenol_132291-12_Vertical/kicadPcb3d_450.png

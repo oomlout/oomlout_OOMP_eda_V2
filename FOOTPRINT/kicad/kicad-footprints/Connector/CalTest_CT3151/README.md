@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|CalTest_CT3151|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector-CalTest_CT3151|
 |Hex ID (short code)|hexID|FZKCNCALTESTCT3151|
-|Name|name|Connector : CalTest_CT3151|
+|name|name|Connector : CalTest_CT3151|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CalTest_CT3151', 'description': 'Right-angle standard banana jack, http://www.caltestelectronics.com/images/attachments/P315100rH_drawing.pdf', 'tags': 'banana jack horizontal', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector.3dshapes/CalTest_CT3151.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector/CalTest_CT3151/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector/CalTest_CT3151/kicadPcb3d_450.png

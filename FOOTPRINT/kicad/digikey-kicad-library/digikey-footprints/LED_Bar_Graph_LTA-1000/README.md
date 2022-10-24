@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_Bar_Graph_LTA-1000|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_Bar_Graph_LTA-1000|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLBARGRAPHLTA1|
-|Name|name|digikey-footprints : LED_Bar_Graph_LTA-1000|
+|name|name|digikey-footprints : LED_Bar_Graph_LTA-1000|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_Bar_Graph_LTA-1000', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_Bar_Graph_LTA-1000/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_Bar_Graph_LTA-1000/kicadPcb3d_450.png

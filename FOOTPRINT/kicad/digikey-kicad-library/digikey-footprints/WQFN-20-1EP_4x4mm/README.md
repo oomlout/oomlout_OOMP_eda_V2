@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|WQFN-20-1EP_4x4mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WQFN-20-1EP_4x4mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWQFN21EP4X4|
-|Name|name|digikey-footprints : WQFN-20-1EP_4x4mm|
+|name|name|digikey-footprints : WQFN-20-1EP_4x4mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'WQFN-20-1EP_4x4mm', 'description': 'http://www.ti.com/lit/ds/symlink/tpa2016d2.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WQFN-20-1EP_4x4mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WQFN-20-1EP_4x4mm/kicadPcb3d_450.png

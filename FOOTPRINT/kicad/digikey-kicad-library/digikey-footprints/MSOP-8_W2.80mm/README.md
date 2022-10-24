@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MSOP-8_W2.80mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-MSOP-8_W2.80mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMS8W28|
-|Name|name|digikey-footprints : MSOP-8_W2.80mm|
+|name|name|digikey-footprints : MSOP-8_W2.80mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MSOP-8_W2.80mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/MSOP-8_W2.80mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/MSOP-8_W2.80mm/kicadPcb3d_450.png

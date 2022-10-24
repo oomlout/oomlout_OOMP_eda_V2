@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Switch_Slide_11.6x4mm_SJ-3523-SMT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Slide_11.6x4mm_SJ-3523-SMT|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSWITCHSLIDE116X4SJ3523S|
-|Name|name|digikey-footprints : Switch_Slide_11.6x4mm_SJ-3523-SMT|
+|name|name|digikey-footprints : Switch_Slide_11.6x4mm_SJ-3523-SMT|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Switch_Slide_11.6x4mm_SJ-3523-SMT', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Slide_11.6x4mm_SJ-3523-SMT/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Slide_11.6x4mm_SJ-3523-SMT/kicadPcb3d_450.png

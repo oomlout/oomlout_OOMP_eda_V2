@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|CP_EIA-7343-30_AVX-N|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7343-30_AVX-N|
 |Hex ID (short code)|hexID|FZKCAPACITORTANTALUMSMCPEIA73433AVXN|
-|Name|name|Capacitor_Tantalum_SMD : CP_EIA-7343-30_AVX-N|
+|name|name|Capacitor_Tantalum_SMD : CP_EIA-7343-30_AVX-N|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CP_EIA-7343-30_AVX-N', 'description': 'Tantalum Capacitor SMD AVX-N (7343-30 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator', 'tags': 'capacitor tantalum', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-7343-30_AVX-N.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-7343-30_AVX-N/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-7343-30_AVX-N/kicadPcb3d_450.png

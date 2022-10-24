@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SIP-4_W3.81mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SIP-4_W3.81mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSIP4W381|
-|Name|name|digikey-footprints : SIP-4_W3.81mm|
+|name|name|digikey-footprints : SIP-4_W3.81mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SIP-4_W3.81mm', 'description': 'https://www.diodes.com/assets/Datasheets/ds21203.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIP-4_W3.81mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIP-4_W3.81mm/kicadPcb3d_450.png

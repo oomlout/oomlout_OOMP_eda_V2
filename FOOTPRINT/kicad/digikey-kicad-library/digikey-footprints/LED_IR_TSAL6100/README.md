@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_IR_TSAL6100|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_IR_TSAL6100|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLIRTSAL61|
-|Name|name|digikey-footprints : LED_IR_TSAL6100|
+|name|name|digikey-footprints : LED_IR_TSAL6100|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_IR_TSAL6100', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_IR_TSAL6100/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_IR_TSAL6100/kicadPcb3d_450.png

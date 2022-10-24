@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOIC-24_W7.50mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-24_W7.50mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC24W75|
-|Name|name|digikey-footprints : SOIC-24_W7.50mm|
+|name|name|digikey-footprints : SOIC-24_W7.50mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOIC-24_W7.50mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOIC-24_W7.50mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOIC-24_W7.50mm/kicadPcb3d_450.png

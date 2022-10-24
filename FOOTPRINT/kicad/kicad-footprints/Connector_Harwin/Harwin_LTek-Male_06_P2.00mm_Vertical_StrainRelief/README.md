@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Harwin_LTek-Male_06_P2.00mm_Vertical_StrainRelief|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_LTek-Male_06_P2.00mm_Vertical_StrainRelief|
 |Hex ID (short code)|hexID|FZKCNHARWINHARWINLTEKMALE6P2VERTICALSTRAINRELIEF|
-|Name|name|Connector_Harwin : Harwin_LTek-Male_06_P2.00mm_Vertical_StrainRelief|
+|name|name|Connector_Harwin : Harwin_LTek-Male_06_P2.00mm_Vertical_StrainRelief|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Harwin_LTek-Male_06_P2.00mm_Vertical_StrainRelief', 'description': 'Harwin LTek Connector, 6 pins, single row male, vertical entry, strain relief clip', 'tags': 'connector harwin ltek M80', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Harwin.3dshapes/Harwin_LTek-Male_06_P2.00mm_Vertical_StrainRelief.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_LTek-Male_06_P2.00mm_Vertical_StrainRelief/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_LTek-Male_06_P2.00mm_Vertical_StrainRelief/kicadPcb3d_450.png

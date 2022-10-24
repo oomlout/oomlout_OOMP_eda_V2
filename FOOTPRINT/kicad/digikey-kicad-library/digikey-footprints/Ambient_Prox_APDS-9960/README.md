@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Ambient_Prox_APDS-9960|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Ambient_Prox_APDS-9960|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSAMBIENTPROXAPDS996|
-|Name|name|digikey-footprints : Ambient_Prox_APDS-9960|
+|name|name|digikey-footprints : Ambient_Prox_APDS-9960|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Ambient_Prox_APDS-9960', 'description': 'file:///C:/Users/chad_rosencrans/Downloads/AV02-4191EN_DS_Ambient_Prox_APDS-9960_2015-11-13.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Ambient_Prox_APDS-9960/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Ambient_Prox_APDS-9960/kicadPcb3d_450.png

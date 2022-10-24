@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Gauge_100mm_Type1_SilkScreenTop|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Calibration_Scale-Gauge_100mm_Type1_SilkScreenTop|
 |Hex ID (short code)|hexID|FZKCSGAUGE1TYPE1SILKSCREENTOP|
-|Name|name|Calibration_Scale : Gauge_100mm_Type1_SilkScreenTop|
+|name|name|Calibration_Scale : Gauge_100mm_Type1_SilkScreenTop|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Gauge_100mm_Type1_SilkScreenTop', 'description': 'Gauge, Massstab, 100mm, SilkScreenTop, Type 1,', 'tags': 'Gauge Massstab 100mm SilkScreenTop Type 1', 'attributeType': None, 'pins': {}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Calibration_Scale/Gauge_100mm_Type1_SilkScreenTop/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Calibration_Scale/Gauge_100mm_Type1_SilkScreenTop/kicadPcb3d_450.png

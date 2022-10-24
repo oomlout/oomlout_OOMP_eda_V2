@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB-C_Male_EdgeMnt_DX07P024AJ1R1500|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Male_EdgeMnt_DX07P024AJ1R1500|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUCMALEEDGEMNTDX7P24AJ1R15|
-|Name|name|digikey-footprints : USB-C_Male_EdgeMnt_DX07P024AJ1R1500|
+|name|name|digikey-footprints : USB-C_Male_EdgeMnt_DX07P024AJ1R1500|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB-C_Male_EdgeMnt_DX07P024AJ1R1500', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB-C_Male_EdgeMnt_DX07P024AJ1R1500/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB-C_Male_EdgeMnt_DX07P024AJ1R1500/kicadPcb3d_450.png

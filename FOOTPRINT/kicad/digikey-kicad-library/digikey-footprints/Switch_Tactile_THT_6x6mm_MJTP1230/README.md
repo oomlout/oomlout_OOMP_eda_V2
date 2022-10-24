@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Switch_Tactile_THT_6x6mm_MJTP1230|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_THT_6x6mm_MJTP1230|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSWITCHTACTILETHT6X6MJTP123|
-|Name|name|digikey-footprints : Switch_Tactile_THT_6x6mm_MJTP1230|
+|name|name|digikey-footprints : Switch_Tactile_THT_6x6mm_MJTP1230|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Switch_Tactile_THT_6x6mm_MJTP1230', 'description': 'http://media.digikey.com/pdf/Data%20Sheets/APEM%20Components%20PDFs/MJTP%20Series-6MM.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Tactile_THT_6x6mm_MJTP1230/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Tactile_THT_6x6mm_MJTP1230/kicadPcb3d_450.png

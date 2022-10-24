@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_0603|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_0603|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSL63|
-|Name|name|digikey-footprints : LED_0603|
+|name|name|digikey-footprints : LED_0603|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_0603', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_0603/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_0603/kicadPcb3d_450.png

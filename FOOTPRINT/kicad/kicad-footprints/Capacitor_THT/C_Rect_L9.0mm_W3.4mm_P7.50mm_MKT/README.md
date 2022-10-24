@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|C_Rect_L9.0mm_W3.4mm_P7.50mm_MKT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L9.0mm_W3.4mm_P7.50mm_MKT|
 |Hex ID (short code)|hexID|FZKCCRECTL9W34P75MKT|
-|Name|name|Capacitor_THT : C_Rect_L9.0mm_W3.4mm_P7.50mm_MKT|
+|name|name|Capacitor_THT : C_Rect_L9.0mm_W3.4mm_P7.50mm_MKT|
 |Footprint Kicad|footprintKicadDetails|{'name': 'C_Rect_L9.0mm_W3.4mm_P7.50mm_MKT', 'description': 'C, Rect series, Radial, pin pitch=7.50mm, , length*width=9*3.4mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf', 'tags': 'C Rect series Radial pin pitch 7.50mm  length 9mm width 3.4mm Capacitor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L9.0mm_W3.4mm_P7.50mm_MKT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L9.0mm_W3.4mm_P7.50mm_MKT/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L9.0mm_W3.4mm_P7.50mm_MKT/kicadPcb3d_450.png

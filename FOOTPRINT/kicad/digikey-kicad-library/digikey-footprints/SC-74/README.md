@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SC-74|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SC-74|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSC74|
-|Name|name|digikey-footprints : SC-74|
+|name|name|digikey-footprints : SC-74|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SC-74', 'description': 'https://assets.nexperia.com/documents/data-sheet/IP4220CZ6.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SC-74/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SC-74/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SC-70-5|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SC-70-5|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSC75|
-|Name|name|digikey-footprints : SC-70-5|
+|name|name|digikey-footprints : SC-70-5|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SC-70-5', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SC-70-5/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SC-70-5/kicadPcb3d_450.png

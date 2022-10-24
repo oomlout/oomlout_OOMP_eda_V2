@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Headphone_Jack_3.5mm_SJ1-3523N|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Headphone_Jack_3.5mm_SJ1-3523N|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHEADPHONEJ35SJ13523N|
-|Name|name|digikey-footprints : Headphone_Jack_3.5mm_SJ1-3523N|
+|name|name|digikey-footprints : Headphone_Jack_3.5mm_SJ1-3523N|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Headphone_Jack_3.5mm_SJ1-3523N', 'description': 'http://www.cui.com/product/resource/sj1-352xn-series.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Headphone_Jack_3.5mm_SJ1-3523N/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Headphone_Jack_3.5mm_SJ1-3523N/kicadPcb3d_450.png

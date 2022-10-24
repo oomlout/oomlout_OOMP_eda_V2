@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|VFQFN-40-1EP_6x6mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VFQFN-40-1EP_6x6mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVFQFN41EP6X6|
-|Name|name|digikey-footprints : VFQFN-40-1EP_6x6mm|
+|name|name|digikey-footprints : VFQFN-40-1EP_6x6mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'VFQFN-40-1EP_6x6mm', 'description': 'http://www.ti.com/lit/ds/symlink/cc2650.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VFQFN-40-1EP_6x6mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VFQFN-40-1EP_6x6mm/kicadPcb3d_450.png

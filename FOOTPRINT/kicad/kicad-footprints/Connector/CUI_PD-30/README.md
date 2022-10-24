@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|CUI_PD-30|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector-CUI_PD-30|
 |Hex ID (short code)|hexID|FZKCNCUIPD3|
-|Name|name|Connector : CUI_PD-30|
+|name|name|Connector : CUI_PD-30|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CUI_PD-30', 'description': '3 pin connector, PD-30, http://www.cui.com/product/resource/pd-30.pdf', 'tags': 'connector 3-pin PD-30 power DIN', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector.3dshapes/CUI_PD-30.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector/CUI_PD-30/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector/CUI_PD-30/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|HDMI_Female_DC3RX19JA3R1700|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-HDMI_Female_DC3RX19JA3R1700|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHDMIFEMALEDC3RX19JA3R17|
-|Name|name|digikey-footprints : HDMI_Female_DC3RX19JA3R1700|
+|name|name|digikey-footprints : HDMI_Female_DC3RX19JA3R1700|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HDMI_Female_DC3RX19JA3R1700', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HDMI_Female_DC3RX19JA3R1700/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HDMI_Female_DC3RX19JA3R1700/kicadPcb3d_450.png

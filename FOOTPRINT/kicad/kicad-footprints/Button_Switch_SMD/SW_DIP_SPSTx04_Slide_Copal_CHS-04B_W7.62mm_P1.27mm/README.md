@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_DIP_SPSTx04_Slide_Copal_CHS-04B_W7.62mm_P1.27mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx04_Slide_Copal_CHS-04B_W7.62mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWDIPSPSTX4SLIDECOPALCHS4BW762P127|
-|Name|name|Button_Switch_SMD : SW_DIP_SPSTx04_Slide_Copal_CHS-04B_W7.62mm_P1.27mm|
+|name|name|Button_Switch_SMD : SW_DIP_SPSTx04_Slide_Copal_CHS-04B_W7.62mm_P1.27mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_DIP_SPSTx04_Slide_Copal_CHS-04B_W7.62mm_P1.27mm', 'description': 'SMD 4x-dip-switch SPST Copal_CHS-04B, Slide, row spacing 7.62 mm (300 mils), body size  (see http://www.nidec-copal-electronics.com/e/catalog/switch/chs.pdf), SMD', 'tags': 'SMD DIP Switch SPST Slide 7.62mm 300mil SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx04_Slide_Copal_CHS-04B_W7.62mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx04_Slide_Copal_CHS-04B_W7.62mm_P1.27mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx04_Slide_Copal_CHS-04B_W7.62mm_P1.27mm/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PinHeader_1x3_P2mm_Drill1mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_1x3_P2mm_Drill1mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER1X3P2DRILL1|
-|Name|name|digikey-footprints : PinHeader_1x3_P2mm_Drill1mm|
+|name|name|digikey-footprints : PinHeader_1x3_P2mm_Drill1mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PinHeader_1x3_P2mm_Drill1mm', 'description': 'http://www.jst-mfg.com/product/pdf/eng/ePH.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_1x3_P2mm_Drill1mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_1x3_P2mm_Drill1mm/kicadPcb3d_450.png

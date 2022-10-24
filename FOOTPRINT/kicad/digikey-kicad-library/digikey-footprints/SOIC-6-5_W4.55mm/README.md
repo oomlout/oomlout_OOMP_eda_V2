@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOIC-6-5_W4.55mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-6-5_W4.55mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC65W455|
-|Name|name|digikey-footprints : SOIC-6-5_W4.55mm|
+|name|name|digikey-footprints : SOIC-6-5_W4.55mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOIC-6-5_W4.55mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOIC-6-5_W4.55mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOIC-6-5_W4.55mm/kicadPcb3d_450.png

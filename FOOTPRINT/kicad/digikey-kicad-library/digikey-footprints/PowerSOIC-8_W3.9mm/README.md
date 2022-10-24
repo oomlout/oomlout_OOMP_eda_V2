@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PowerSOIC-8_W3.9mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PowerSOIC-8_W3.9mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPOWERSOIC8W39|
-|Name|name|digikey-footprints : PowerSOIC-8_W3.9mm|
+|name|name|digikey-footprints : PowerSOIC-8_W3.9mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PowerSOIC-8_W3.9mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PowerSOIC-8_W3.9mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PowerSOIC-8_W3.9mm/kicadPcb3d_450.png

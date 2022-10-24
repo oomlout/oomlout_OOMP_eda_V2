@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNJSTJSTXHB6BXHA1X6P25VERTICAL|
-|Name|name|Connector_JST : JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical|
+|name|name|Connector_JST : JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical', 'description': 'JST XH series connector, B6B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST XH vertical', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical/kicadPcb3d_450.png

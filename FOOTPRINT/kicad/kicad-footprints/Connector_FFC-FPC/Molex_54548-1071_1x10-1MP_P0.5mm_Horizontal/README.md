@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Molex_54548-1071_1x10-1MP_P0.5mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Molex_54548-1071_1x10-1MP_P0.5mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNFFCFPCMX545481711X11MPP5HORIZONTAL|
-|Name|name|Connector_FFC-FPC : Molex_54548-1071_1x10-1MP_P0.5mm_Horizontal|
+|name|name|Connector_FFC-FPC : Molex_54548-1071_1x10-1MP_P0.5mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Molex_54548-1071_1x10-1MP_P0.5mm_Horizontal', 'description': 'Molex FFC/FPC connector, 10 bottom-side contacts, 0.5mm pitch, 1.2mm height, https://www.molex.com/pdm_docs/sd/545481071_sd.pdf', 'tags': 'FFC FPC connector', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Molex_54548-1071_1x10-1MP_P0.5mm_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Molex_54548-1071_1x10-1MP_P0.5mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Molex_54548-1071_1x10-1MP_P0.5mm_Horizontal/kicadPcb3d_450.png

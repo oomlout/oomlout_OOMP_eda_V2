@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|RF_Module_TXM-433-LR|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_TXM-433-LR|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMOTXM433LR|
-|Name|name|digikey-footprints : RF_Module_TXM-433-LR|
+|name|name|digikey-footprints : RF_Module_TXM-433-LR|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RF_Module_TXM-433-LR', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_Module_TXM-433-LR/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_Module_TXM-433-LR/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|WFQFN-38-1EP_5x7mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WFQFN-38-1EP_5x7mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWFQFN381EP5X7|
-|Name|name|digikey-footprints : WFQFN-38-1EP_5x7mm|
+|name|name|digikey-footprints : WFQFN-38-1EP_5x7mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'WFQFN-38-1EP_5x7mm', 'description': 'http://cds.linear.com/docs/en/datasheet/4020fd.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WFQFN-38-1EP_5x7mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WFQFN-38-1EP_5x7mm/kicadPcb3d_450.png

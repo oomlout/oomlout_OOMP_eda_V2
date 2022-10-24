@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Buzzer_Mallory_AST1240MLQ|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_Mallory_AST1240MLQ|
 |Hex ID (short code)|hexID|FZKBZBUZZERMALLORYAST124MLQ|
-|Name|name|Buzzer_Beeper : Buzzer_Mallory_AST1240MLQ|
+|name|name|Buzzer_Beeper : Buzzer_Mallory_AST1240MLQ|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Buzzer_Mallory_AST1240MLQ', 'description': 'Mallory low-profile piezo buzzer, https://www.mspindy.com/specifications/AST12140MLQ.pdf', 'tags': 'piezo buzzer', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/Buzzer_Mallory_AST1240MLQ.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_Mallory_AST1240MLQ/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_Mallory_AST1240MLQ/kicadPcb3d_450.png

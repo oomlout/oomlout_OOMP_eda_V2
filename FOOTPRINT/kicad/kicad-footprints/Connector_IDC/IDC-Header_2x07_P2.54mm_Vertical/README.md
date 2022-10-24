@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|IDC-Header_2x07_P2.54mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x07_P2.54mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNIDCIDCHEADER2X7P254VERTICAL|
-|Name|name|Connector_IDC : IDC-Header_2x07_P2.54mm_Vertical|
+|name|name|Connector_IDC : IDC-Header_2x07_P2.54mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'IDC-Header_2x07_P2.54mm_Vertical', 'description': 'Through hole IDC box header, 2x07, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0', 'tags': 'Through hole vertical IDC box header THT 2x07 2.54mm double row', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_IDC.3dshapes/IDC-Header_2x07_P2.54mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x07_P2.54mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x07_P2.54mm_Vertical/kicadPcb3d_450.png

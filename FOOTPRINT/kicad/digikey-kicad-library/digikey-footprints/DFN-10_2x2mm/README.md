@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DFN-10_2x2mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DFN-10_2x2mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDFN12X2|
-|Name|name|digikey-footprints : DFN-10_2x2mm|
+|name|name|digikey-footprints : DFN-10_2x2mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DFN-10_2x2mm', 'description': 'https://media.digikey.com/pdf/Data%20Sheets/NXP%20PDFs/MMA8652FC.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DFN-10_2x2mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DFN-10_2x2mm/kicadPcb3d_450.png

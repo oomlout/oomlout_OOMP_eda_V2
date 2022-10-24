@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SSOP-20_W5.3mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SSOP-20_W5.3mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSS2W53|
-|Name|name|digikey-footprints : SSOP-20_W5.3mm|
+|name|name|digikey-footprints : SSOP-20_W5.3mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SSOP-20_W5.3mm', 'description': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41606B.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SSOP-20_W5.3mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SSOP-20_W5.3mm/kicadPcb3d_450.png

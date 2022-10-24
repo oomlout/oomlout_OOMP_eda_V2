@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Gauge_10mm_Type5_CopperTop|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Calibration_Scale-Gauge_10mm_Type5_CopperTop|
 |Hex ID (short code)|hexID|FZKCSGAUGE1TYPE5CTOP|
-|Name|name|Calibration_Scale : Gauge_10mm_Type5_CopperTop|
+|name|name|Calibration_Scale : Gauge_10mm_Type5_CopperTop|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Gauge_10mm_Type5_CopperTop', 'description': 'Gauge, Massstab, 10mm, CopperTop, Type 5,', 'tags': 'Gauge Massstab 10mm CopperTop Type 5', 'attributeType': None, 'pins': {}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Calibration_Scale/Gauge_10mm_Type5_CopperTop/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Calibration_Scale/Gauge_10mm_Type5_CopperTop/kicadPcb3d_450.png

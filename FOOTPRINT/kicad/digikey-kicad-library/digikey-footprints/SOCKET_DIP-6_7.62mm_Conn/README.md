@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOCKET_DIP-6_7.62mm_Conn|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOCKET_DIP-6_7.62mm_Conn|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSODIP6762CONN|
-|Name|name|digikey-footprints : SOCKET_DIP-6_7.62mm_Conn|
+|name|name|digikey-footprints : SOCKET_DIP-6_7.62mm_Conn|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOCKET_DIP-6_7.62mm_Conn', 'description': 'http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0810_CO.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOCKET_DIP-6_7.62mm_Conn/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOCKET_DIP-6_7.62mm_Conn/kicadPcb3d_450.png

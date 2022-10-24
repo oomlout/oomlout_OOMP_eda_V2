@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Switch_Tactile_SMD_B3U-1000P|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_SMD_B3U-1000P|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSWITCHTACTILESMB3U1P|
-|Name|name|digikey-footprints : Switch_Tactile_SMD_B3U-1000P|
+|name|name|digikey-footprints : Switch_Tactile_SMD_B3U-1000P|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Switch_Tactile_SMD_B3U-1000P', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Tactile_SMD_B3U-1000P/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Tactile_SMD_B3U-1000P/kicadPcb3d_450.png

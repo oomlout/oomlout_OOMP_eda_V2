@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|XBEE_PRO-20_THT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-XBEE_PRO-20_THT|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSXBEEPRO2THT|
-|Name|name|digikey-footprints : XBEE_PRO-20_THT|
+|name|name|digikey-footprints : XBEE_PRO-20_THT|
 |Footprint Kicad|footprintKicadDetails|{'name': 'XBEE_PRO-20_THT', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/XBEE_PRO-20_THT/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/XBEE_PRO-20_THT/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TQFP-48_7x7mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TQFP-48_7x7mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTQFP487X7|
-|Name|name|digikey-footprints : TQFP-48_7x7mm|
+|name|name|digikey-footprints : TQFP-48_7x7mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TQFP-48_7x7mm', 'description': 'http://ww1.microchip.com/downloads/en/DeviceDoc/40001884A.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TQFP-48_7x7mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TQFP-48_7x7mm/kicadPcb3d_450.png

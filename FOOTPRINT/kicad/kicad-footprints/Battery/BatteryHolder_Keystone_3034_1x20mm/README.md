@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|BatteryHolder_Keystone_3034_1x20mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_3034_1x20mm|
 |Hex ID (short code)|hexID|FZKBATBATHOLDERKEYSTONE3341X2|
-|Name|name|Battery : BatteryHolder_Keystone_3034_1x20mm|
+|name|name|Battery : BatteryHolder_Keystone_3034_1x20mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'BatteryHolder_Keystone_3034_1x20mm', 'description': 'Keystone 3034 SMD battery holder for 2020, 2025 and 2032 coincell batteries. http://www.keyelco.com/product-pdf.cfm?p=798', 'tags': 'Keystone type 3034 coin cell retainer', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_3034_1x20mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_3034_1x20mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_3034_1x20mm/kicadPcb3d_450.png

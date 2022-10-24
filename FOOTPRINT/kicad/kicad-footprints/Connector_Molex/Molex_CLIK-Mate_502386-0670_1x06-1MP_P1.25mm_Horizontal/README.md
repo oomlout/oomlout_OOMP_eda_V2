@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Molex_CLIK-Mate_502386-0670_1x06-1MP_P1.25mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502386-0670_1x06-1MP_P1.25mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNMXMXCLIKMATE52386671X61MPP125HORIZONTAL|
-|Name|name|Connector_Molex : Molex_CLIK-Mate_502386-0670_1x06-1MP_P1.25mm_Horizontal|
+|name|name|Connector_Molex : Molex_CLIK-Mate_502386-0670_1x06-1MP_P1.25mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Molex_CLIK-Mate_502386-0670_1x06-1MP_P1.25mm_Horizontal', 'description': 'Molex CLIK-Mate series connector, 502386-0670 (http://www.molex.com/pdm_docs/sd/5023860270_sd.pdf), generated with kicad-footprint-generator', 'tags': 'connector Molex CLIK-Mate top entry', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_CLIK-Mate_502386-0670_1x06-1MP_P1.25mm_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_CLIK-Mate_502386-0670_1x06-1MP_P1.25mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_CLIK-Mate_502386-0670_1x06-1MP_P1.25mm_Horizontal/kicadPcb3d_450.png

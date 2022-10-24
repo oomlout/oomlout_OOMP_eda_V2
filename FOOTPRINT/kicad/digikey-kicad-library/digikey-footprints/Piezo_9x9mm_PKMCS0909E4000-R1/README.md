@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Piezo_9x9mm_PKMCS0909E4000-R1|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Piezo_9x9mm_PKMCS0909E4000-R1|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPIEZO9X9PKMCS99E4R1|
-|Name|name|digikey-footprints : Piezo_9x9mm_PKMCS0909E4000-R1|
+|name|name|digikey-footprints : Piezo_9x9mm_PKMCS0909E4000-R1|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Piezo_9x9mm_PKMCS0909E4000-R1', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Piezo_9x9mm_PKMCS0909E4000-R1/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Piezo_9x9mm_PKMCS0909E4000-R1/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MagneticBuzzer_CUI_CST-931RP-A|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_CUI_CST-931RP-A|
 |Hex ID (short code)|hexID|FZKBZMAGNETICBUZZERCUICST931RPA|
-|Name|name|Buzzer_Beeper : MagneticBuzzer_CUI_CST-931RP-A|
+|name|name|Buzzer_Beeper : MagneticBuzzer_CUI_CST-931RP-A|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MagneticBuzzer_CUI_CST-931RP-A', 'description': 'CST-931RP-A, http://www.cui.com/product/resource/cst-931rp-a.pdf', 'tags': 'CST-931RP-A', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/MagneticBuzzer_CUI_CST-931RP-A.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_CUI_CST-931RP-A/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_CUI_CST-931RP-A/kicadPcb3d_450.png

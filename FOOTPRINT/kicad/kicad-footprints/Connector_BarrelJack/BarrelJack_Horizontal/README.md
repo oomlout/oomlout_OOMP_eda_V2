@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|BarrelJack_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_Horizontal|
 |Hex ID (short code)|hexID|FZKCNBARRELJBARRELJHORIZONTAL|
-|Name|name|Connector_BarrelJack : BarrelJack_Horizontal|
+|name|name|Connector_BarrelJack : BarrelJack_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'BarrelJack_Horizontal', 'description': 'DC Barrel Jack', 'tags': 'Power Jack', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_BarrelJack.3dshapes/BarrelJack_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_Horizontal/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-253-4|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-253-4|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTO2534|
-|Name|name|digikey-footprints : TO-253-4|
+|name|name|digikey-footprints : TO-253-4|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-253-4', 'description': 'https://www.digikey.com/products/en?keywords=1727-3884-1', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-253-4/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-253-4/kicadPcb3d_450.png

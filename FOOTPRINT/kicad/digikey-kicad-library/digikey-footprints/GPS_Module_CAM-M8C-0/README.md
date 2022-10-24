@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|GPS_Module_CAM-M8C-0|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-GPS_Module_CAM-M8C-0|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSGPSMOCAMM8C|
-|Name|name|digikey-footprints : GPS_Module_CAM-M8C-0|
+|name|name|digikey-footprints : GPS_Module_CAM-M8C-0|
 |Footprint Kicad|footprintKicadDetails|{'name': 'GPS_Module_CAM-M8C-0', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/GPS_Module_CAM-M8C-0/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/GPS_Module_CAM-M8C-0/kicadPcb3d_450.png

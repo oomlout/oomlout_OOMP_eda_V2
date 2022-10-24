@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_SPST_PTS810|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_PTS810|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWSPSTPTS81|
-|Name|name|Button_Switch_SMD : SW_SPST_PTS810|
+|name|name|Button_Switch_SMD : SW_SPST_PTS810|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_SPST_PTS810', 'description': 'C&K Components, PTS 810 Series, Microminiature SMT Top Actuated, http://www.ckswitches.com/media/1476/pts810.pdf', 'tags': 'SPST Button Switch', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_PTS810.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_PTS810/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_PTS810/kicadPcb3d_450.png

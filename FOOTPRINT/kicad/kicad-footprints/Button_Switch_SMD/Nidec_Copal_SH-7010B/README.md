@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Nidec_Copal_SH-7010B|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-Nidec_Copal_SH-7010B|
 |Hex ID (short code)|hexID|FZKBSWITCHSMNIDECCOPALSH71B|
-|Name|name|Button_Switch_SMD : Nidec_Copal_SH-7010B|
+|name|name|Button_Switch_SMD : Nidec_Copal_SH-7010B|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Nidec_Copal_SH-7010B', 'description': '4-bit rotary coded switch, gull wing, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf', 'tags': 'rotary switch bcd', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/Nidec_Copal_SH-7010B.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/Nidec_Copal_SH-7010B/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/Nidec_Copal_SH-7010B/kicadPcb3d_450.png

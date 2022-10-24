@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LLC-36_9x9mm_HMC6343|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LLC-36_9x9mm_HMC6343|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLLC369X9HMC6343|
-|Name|name|digikey-footprints : LLC-36_9x9mm_HMC6343|
+|name|name|digikey-footprints : LLC-36_9x9mm_HMC6343|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LLC-36_9x9mm_HMC6343', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LLC-36_9x9mm_HMC6343/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LLC-36_9x9mm_HMC6343/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|BatteryHolder_Keystone_107_1x23mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_107_1x23mm|
 |Hex ID (short code)|hexID|FZKBATBATHOLDERKEYSTONE171X23|
-|Name|name|Battery : BatteryHolder_Keystone_107_1x23mm|
+|name|name|Battery : BatteryHolder_Keystone_107_1x23mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'BatteryHolder_Keystone_107_1x23mm', 'description': 'http://www.keyelco.com/product-pdf.cfm?p=746', 'tags': 'Keystone type 107 battery holder', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_107_1x23mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_107_1x23mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_107_1x23mm/kicadPcb3d_450.png

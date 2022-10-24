@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_SPST_EVQP7A|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_EVQP7A|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWSPSTEVQP7A|
-|Name|name|Button_Switch_SMD : SW_SPST_EVQP7A|
+|name|name|Button_Switch_SMD : SW_SPST_EVQP7A|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_SPST_EVQP7A', 'description': 'Light Touch Switch,https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE20.pdf', 'tags': None, 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_EVQP7A.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_EVQP7A/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_EVQP7A/kicadPcb3d_450.png

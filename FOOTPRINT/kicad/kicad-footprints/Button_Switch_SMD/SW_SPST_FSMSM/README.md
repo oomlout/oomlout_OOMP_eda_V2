@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_SPST_FSMSM|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_FSMSM|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWSPSTFSMSM|
-|Name|name|Button_Switch_SMD : SW_SPST_FSMSM|
+|name|name|Button_Switch_SMD : SW_SPST_FSMSM|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_SPST_FSMSM', 'description': 'http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1437566-3&DocType=Customer+Drawing&DocLang=English', 'tags': 'SPST button tactile switch', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_FSMSM.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_FSMSM/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_FSMSM/kicadPcb3d_450.png

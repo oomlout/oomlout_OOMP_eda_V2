@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|ICL_THT_P7.8mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-ICL_THT_P7.8mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSICLTHTP78|
-|Name|name|digikey-footprints : ICL_THT_P7.8mm|
+|name|name|digikey-footprints : ICL_THT_P7.8mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'ICL_THT_P7.8mm', 'description': 'https://www.ametherm.com/datasheetspdf/SL322R025.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/ICL_THT_P7.8mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/ICL_THT_P7.8mm/kicadPcb3d_450.png

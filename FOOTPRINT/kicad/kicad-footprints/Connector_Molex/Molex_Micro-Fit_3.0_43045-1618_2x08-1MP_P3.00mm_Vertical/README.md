@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Molex_Micro-Fit_3.0_43045-1618_2x08-1MP_P3.00mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Fit_3.0_43045-1618_2x08-1MP_P3.00mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNMXMXMFIT3434516182X81MPP3VERTICAL|
-|Name|name|Connector_Molex : Molex_Micro-Fit_3.0_43045-1618_2x08-1MP_P3.00mm_Vertical|
+|name|name|Connector_Molex : Molex_Micro-Fit_3.0_43045-1618_2x08-1MP_P3.00mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Molex_Micro-Fit_3.0_43045-1618_2x08-1MP_P3.00mm_Vertical', 'description': 'Molex Micro-Fit 3.0 Connector System, 43045-1618 (compatible alternatives: 43045-1619, 43045-1620), 8 Pins per row (http://www.molex.com/pdm_docs/sd/430450218_sd.pdf), generated with kicad-footprint-generator', 'tags': 'connector Molex Micro-Fit_3.0 side entry', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Micro-Fit_3.0_43045-1618_2x08-1MP_P3.00mm_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Micro-Fit_3.0_43045-1618_2x08-1MP_P3.00mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Micro-Fit_3.0_43045-1618_2x08-1MP_P3.00mm_Vertical/kicadPcb3d_450.png

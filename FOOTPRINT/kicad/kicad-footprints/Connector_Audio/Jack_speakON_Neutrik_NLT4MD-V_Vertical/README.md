@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Jack_speakON_Neutrik_NLT4MD-V_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_speakON_Neutrik_NLT4MD-V_Vertical|
 |Hex ID (short code)|hexID|FZKCNAUDIOJSPEAKONNEUTRIKNLT4MDVVERTICAL|
-|Name|name|Connector_Audio : Jack_speakON_Neutrik_NLT4MD-V_Vertical|
+|name|name|Connector_Audio : Jack_speakON_Neutrik_NLT4MD-V_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Jack_speakON_Neutrik_NLT4MD-V_Vertical', 'description': 'STX Series, 4 pole male chassis connector, metal housing, vertical PCB mount,  self tapping screw holes (A-screw), https://www.neutrik.com/en/product/nlt4md-v', 'tags': 'neutrik speakon stx', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_speakON_Neutrik_NLT4MD-V_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_speakON_Neutrik_NLT4MD-V_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_speakON_Neutrik_NLT4MD-V_Vertical/kicadPcb3d_450.png

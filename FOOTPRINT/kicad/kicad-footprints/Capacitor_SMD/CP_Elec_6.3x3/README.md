@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|CP_Elec_6.3x3|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_6.3x3|
 |Hex ID (short code)|hexID|FZKCAPACITORSMCPELEC63X3|
-|Name|name|Capacitor_SMD : CP_Elec_6.3x3|
+|name|name|Capacitor_SMD : CP_Elec_6.3x3|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CP_Elec_6.3x3', 'description': 'SMD capacitor, aluminum electrolytic, Nichicon, 6.3x3.0mm', 'tags': 'capacitor electrolytic', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_6.3x3.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_6.3x3/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_6.3x3/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|JWT_A3963_1x02_P3.96mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector-JWT_A3963_1x02_P3.96mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNJWTA39631X2P396VERTICAL|
-|Name|name|Connector : JWT_A3963_1x02_P3.96mm_Vertical|
+|name|name|Connector : JWT_A3963_1x02_P3.96mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'JWT_A3963_1x02_P3.96mm_Vertical', 'description': 'JWT A3963, 3.96mm pitch Pin head connector (http://www.jwt.com.tw/pro_pdf/A3963.pdf)', 'tags': 'connector JWT A3963 pinhead', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector.3dshapes/JWT_A3963_1x02_P3.96mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector/JWT_A3963_1x02_P3.96mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector/JWT_A3963_1x02_P3.96mm_Vertical/kicadPcb3d_450.png

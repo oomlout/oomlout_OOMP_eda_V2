@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOD-80|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOD-80|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOD8|
-|Name|name|digikey-footprints : SOD-80|
+|name|name|digikey-footprints : SOD-80|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOD-80', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOD-80/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOD-80/kicadPcb3d_450.png

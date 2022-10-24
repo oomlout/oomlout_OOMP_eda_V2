@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LQFP-48_7x7mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LQFP-48_7x7mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLQFP487X7|
-|Name|name|digikey-footprints : LQFP-48_7x7mm|
+|name|name|digikey-footprints : LQFP-48_7x7mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LQFP-48_7x7mm', 'description': 'http://wizwiki.net/wiki/lib/exe/fetch.php?media=products:w5500:w5500_ds_v106e_141230.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LQFP-48_7x7mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LQFP-48_7x7mm/kicadPcb3d_450.png

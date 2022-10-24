@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|VFQFN-28-1EP_5x5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VFQFN-28-1EP_5x5mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVFQFN281EP5X5|
-|Name|name|digikey-footprints : VFQFN-28-1EP_5x5mm|
+|name|name|digikey-footprints : VFQFN-28-1EP_5x5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'VFQFN-28-1EP_5x5mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VFQFN-28-1EP_5x5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VFQFN-28-1EP_5x5mm/kicadPcb3d_450.png

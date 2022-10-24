@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|BMI160|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-BMI160|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBMI16|
-|Name|name|digikey-footprints : BMI160|
+|name|name|digikey-footprints : BMI160|
 |Footprint Kicad|footprintKicadDetails|{'name': 'BMI160', 'description': 'https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMI160-DS000-07.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/BMI160/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/BMI160/kicadPcb3d_450.png

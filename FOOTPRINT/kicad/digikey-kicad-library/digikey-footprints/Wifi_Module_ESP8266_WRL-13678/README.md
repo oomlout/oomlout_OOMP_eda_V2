@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Wifi_Module_ESP8266_WRL-13678|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Wifi_Module_ESP8266_WRL-13678|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIFIMOESP8266WRL13678|
-|Name|name|digikey-footprints : Wifi_Module_ESP8266_WRL-13678|
+|name|name|digikey-footprints : Wifi_Module_ESP8266_WRL-13678|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Wifi_Module_ESP8266_WRL-13678', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Wifi_Module_ESP8266_WRL-13678/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Wifi_Module_ESP8266_WRL-13678/kicadPcb3d_450.png

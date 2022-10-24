@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Antenna_1.6x3.2mm_2450AT18A100E|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Antenna_1.6x3.2mm_2450AT18A100E|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSANTENNA16X32245AT18A1E|
-|Name|name|digikey-footprints : Antenna_1.6x3.2mm_2450AT18A100E|
+|name|name|digikey-footprints : Antenna_1.6x3.2mm_2450AT18A100E|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Antenna_1.6x3.2mm_2450AT18A100E', 'description': 'https://www.johansontechnology.com/datasheets/antennas/2450AT18A100.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Antenna_1.6x3.2mm_2450AT18A100E/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Antenna_1.6x3.2mm_2450AT18A100E/kicadPcb3d_450.png

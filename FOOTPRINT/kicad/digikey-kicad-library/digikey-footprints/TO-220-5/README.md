@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-220-5|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-220-5|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTO225|
-|Name|name|digikey-footprints : TO-220-5|
+|name|name|digikey-footprints : TO-220-5|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-220-5', 'description': 'http://www.ti.com/lit/ds/symlink/lm1875.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-220-5/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-220-5/kicadPcb3d_450.png

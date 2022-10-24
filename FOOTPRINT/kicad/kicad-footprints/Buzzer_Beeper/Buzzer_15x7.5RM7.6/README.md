@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Buzzer_15x7.5RM7.6|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_15x7.5RM7.6|
 |Hex ID (short code)|hexID|FZKBZBUZZER15X75RM76|
-|Name|name|Buzzer_Beeper : Buzzer_15x7.5RM7.6|
+|name|name|Buzzer_Beeper : Buzzer_15x7.5RM7.6|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Buzzer_15x7.5RM7.6', 'description': 'Generic Buzzer, D15mm height 7.5mm with RM7.6mm', 'tags': 'buzzer', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/Buzzer_15x7.5RM7.6.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_15x7.5RM7.6/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_15x7.5RM7.6/kicadPcb3d_450.png

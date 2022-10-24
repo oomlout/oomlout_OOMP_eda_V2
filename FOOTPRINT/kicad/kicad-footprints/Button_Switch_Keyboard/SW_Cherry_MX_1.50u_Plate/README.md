@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_Cherry_MX_1.50u_Plate|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_Keyboard-SW_Cherry_MX_1.50u_Plate|
 |Hex ID (short code)|hexID|FZKBSWCHERRYMX15UPLATE|
-|Name|name|Button_Switch_Keyboard : SW_Cherry_MX_1.50u_Plate|
+|name|name|Button_Switch_Keyboard : SW_Cherry_MX_1.50u_Plate|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_Cherry_MX_1.50u_Plate', 'description': 'Cherry MX keyswitch, 1.50u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf', 'tags': 'Cherry MX keyswitch 1.50u plate', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.50u_Plate.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_1.50u_Plate/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_1.50u_Plate/kicadPcb3d_450.png

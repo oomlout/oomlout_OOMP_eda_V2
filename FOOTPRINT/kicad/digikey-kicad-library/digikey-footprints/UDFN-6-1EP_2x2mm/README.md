@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|UDFN-6-1EP_2x2mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UDFN-6-1EP_2x2mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUDFN61EP2X2|
-|Name|name|digikey-footprints : UDFN-6-1EP_2x2mm|
+|name|name|digikey-footprints : UDFN-6-1EP_2x2mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'UDFN-6-1EP_2x2mm', 'description': 'http://datasheets.maximintegrated.com/en/ds/MAX44009.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/UDFN-6-1EP_2x2mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/UDFN-6-1EP_2x2mm/kicadPcb3d_450.png

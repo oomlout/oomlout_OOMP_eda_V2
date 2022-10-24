@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DSUB-62-HD_Female_Horizontal_P2.41x2.54mm_EdgePinOffset9.40mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-62-HD_Female_Horizontal_P2.41x2.54mm_EdgePinOffset9.40mm|
 |Hex ID (short code)|hexID|FZKCNDSUBDSUB62HDFEMALEHORIZONTALP241X254EDGEPINOFFSET94|
-|Name|name|Connector_Dsub : DSUB-62-HD_Female_Horizontal_P2.41x2.54mm_EdgePinOffset9.40mm|
+|name|name|Connector_Dsub : DSUB-62-HD_Female_Horizontal_P2.41x2.54mm_EdgePinOffset9.40mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DSUB-62-HD_Female_Horizontal_P2.41x2.54mm_EdgePinOffset9.40mm', 'description': '62-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.41x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf', 'tags': '62-pin D-Sub connector horizontal angled 90deg THT female pitch 2.41x2.54mm pin-PCB-offset 9.4mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Dsub.3dshapes/DSUB-62-HD_Female_Horizontal_P2.41x2.54mm_EdgePinOffset9.40mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-62-HD_Female_Horizontal_P2.41x2.54mm_EdgePinOffset9.40mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-62-HD_Female_Horizontal_P2.41x2.54mm_EdgePinOffset9.40mm/kicadPcb3d_450.png

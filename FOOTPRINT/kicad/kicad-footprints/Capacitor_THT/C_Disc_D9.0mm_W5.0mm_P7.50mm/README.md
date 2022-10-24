@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|C_Disc_D9.0mm_W5.0mm_P7.50mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Disc_D9.0mm_W5.0mm_P7.50mm|
 |Hex ID (short code)|hexID|FZKCCDISCD9W5P75|
-|Name|name|Capacitor_THT : C_Disc_D9.0mm_W5.0mm_P7.50mm|
+|name|name|Capacitor_THT : C_Disc_D9.0mm_W5.0mm_P7.50mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'C_Disc_D9.0mm_W5.0mm_P7.50mm', 'description': 'C, Disc series, Radial, pin pitch=7.50mm, , diameter*width=9*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf', 'tags': 'C Disc series Radial pin pitch 7.50mm  diameter 9mm width 5.0mm Capacitor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D9.0mm_W5.0mm_P7.50mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Disc_D9.0mm_W5.0mm_P7.50mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Disc_D9.0mm_W5.0mm_P7.50mm/kicadPcb3d_450.png

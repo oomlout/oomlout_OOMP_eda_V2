@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Molex_MicroClasp_55935-1230_1x12_P2.00mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_MicroClasp_55935-1230_1x12_P2.00mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNMXMXMCLASP559351231X12P2HORIZONTAL|
-|Name|name|Connector_Molex : Molex_MicroClasp_55935-1230_1x12_P2.00mm_Horizontal|
+|name|name|Connector_Molex : Molex_MicroClasp_55935-1230_1x12_P2.00mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Molex_MicroClasp_55935-1230_1x12_P2.00mm_Horizontal', 'description': 'Molex MicroClasp Wire-to-Board System, 55935-1230, 12 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator', 'tags': 'connector Molex MicroClasp horizontal', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_MicroClasp_55935-1230_1x12_P2.00mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_MicroClasp_55935-1230_1x12_P2.00mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_MicroClasp_55935-1230_1x12_P2.00mm_Horizontal/kicadPcb3d_450.png

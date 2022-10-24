@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB_A_Female_AU-Y1006-3|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_A_Female_AU-Y1006-3|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUAFEMALEAUY163|
-|Name|name|digikey-footprints : USB_A_Female_AU-Y1006-3|
+|name|name|digikey-footprints : USB_A_Female_AU-Y1006-3|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB_A_Female_AU-Y1006-3', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_A_Female_AU-Y1006-3/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_A_Female_AU-Y1006-3/kicadPcb3d_450.png

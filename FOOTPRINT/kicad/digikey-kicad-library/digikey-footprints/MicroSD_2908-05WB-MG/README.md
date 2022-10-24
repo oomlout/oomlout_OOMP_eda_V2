@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MicroSD_2908-05WB-MG|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-MicroSD_2908-05WB-MG|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMSD2985WBMG|
-|Name|name|digikey-footprints : MicroSD_2908-05WB-MG|
+|name|name|digikey-footprints : MicroSD_2908-05WB-MG|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MicroSD_2908-05WB-MG', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/MicroSD_2908-05WB-MG/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/MicroSD_2908-05WB-MG/kicadPcb3d_450.png

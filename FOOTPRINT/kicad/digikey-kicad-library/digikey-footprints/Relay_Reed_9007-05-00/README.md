@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Relay_Reed_9007-05-00|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Relay_Reed_9007-05-00|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRELAYREED975|
-|Name|name|digikey-footprints : Relay_Reed_9007-05-00|
+|name|name|digikey-footprints : Relay_Reed_9007-05-00|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Relay_Reed_9007-05-00', 'description': 'https://media.digikey.com/pdf/Data%20Sheets/Coto%20Technology%20PDFS/9000_Spartan_Series.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Relay_Reed_9007-05-00/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Relay_Reed_9007-05-00/kicadPcb3d_450.png

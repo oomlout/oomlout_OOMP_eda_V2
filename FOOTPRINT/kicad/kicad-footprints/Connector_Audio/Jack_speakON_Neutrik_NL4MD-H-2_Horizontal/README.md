@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Jack_speakON_Neutrik_NL4MD-H-2_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_speakON_Neutrik_NL4MD-H-2_Horizontal|
 |Hex ID (short code)|hexID|FZKCNAUDIOJSPEAKONNEUTRIKNL4MDH2HORIZONTAL|
-|Name|name|Connector_Audio : Jack_speakON_Neutrik_NL4MD-H-2_Horizontal|
+|name|name|Connector_Audio : Jack_speakON_Neutrik_NL4MD-H-2_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Jack_speakON_Neutrik_NL4MD-H-2_Horizontal', 'description': 'speakON Chassis Connectors, 4 pole chassis connector, black D-size flange, mirrored self tapping screw holes (A-screw), horizontal PCB mount, https://www.neutrik.com/en/product/nl4md-h-2', 'tags': 'neutrik speakon', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_speakON_Neutrik_NL4MD-H-2_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_speakON_Neutrik_NL4MD-H-2_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_speakON_Neutrik_NL4MD-H-2_Horizontal/kicadPcb3d_450.png

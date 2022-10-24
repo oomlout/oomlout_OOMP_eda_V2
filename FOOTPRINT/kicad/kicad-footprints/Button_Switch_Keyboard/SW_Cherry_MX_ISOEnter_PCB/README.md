@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_Cherry_MX_ISOEnter_PCB|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_Keyboard-SW_Cherry_MX_ISOEnter_PCB|
 |Hex ID (short code)|hexID|FZKBSWCHERRYMXISOENTERPCB|
-|Name|name|Button_Switch_Keyboard : SW_Cherry_MX_ISOEnter_PCB|
+|name|name|Button_Switch_Keyboard : SW_Cherry_MX_ISOEnter_PCB|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_Cherry_MX_ISOEnter_PCB', 'description': 'Cherry MX keyswitch, ISO Enter, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf', 'tags': 'Cherry MX keyswitch ISO enter PCB', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_ISOEnter_PCB.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_ISOEnter_PCB/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_ISOEnter_PCB/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DIP-14_W3mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DIP-14_W3mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDIP14W3|
-|Name|name|digikey-footprints : DIP-14_W3mm|
+|name|name|digikey-footprints : DIP-14_W3mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DIP-14_W3mm', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DIP-14_W3mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DIP-14_W3mm/kicadPcb3d_450.png

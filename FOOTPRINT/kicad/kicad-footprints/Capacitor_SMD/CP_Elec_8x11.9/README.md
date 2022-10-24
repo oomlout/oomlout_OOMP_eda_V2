@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|CP_Elec_8x11.9|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_8x11.9|
 |Hex ID (short code)|hexID|FZKCAPACITORSMCPELEC8X119|
-|Name|name|Capacitor_SMD : CP_Elec_8x11.9|
+|name|name|Capacitor_SMD : CP_Elec_8x11.9|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CP_Elec_8x11.9', 'description': 'SMD capacitor, aluminum electrolytic, Panasonic E12, 8.0x11.9mm', 'tags': 'capacitor electrolytic', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_8x11.9.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_8x11.9/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_8x11.9/kicadPcb3d_450.png

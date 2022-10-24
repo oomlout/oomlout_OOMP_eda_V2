@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|CP_Radial_D35.0mm_P10.00mm_SnapIn|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_D35.0mm_P10.00mm_SnapIn|
 |Hex ID (short code)|hexID|FZKCCPRD35P1SNAPIN|
-|Name|name|Capacitor_THT : CP_Radial_D35.0mm_P10.00mm_SnapIn|
+|name|name|Capacitor_THT : CP_Radial_D35.0mm_P10.00mm_SnapIn|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CP_Radial_D35.0mm_P10.00mm_SnapIn', 'description': 'CP, Radial series, Radial, pin pitch=10.00mm, , diameter=35mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf', 'tags': 'CP Radial series Radial pin pitch 10.00mm  diameter 35mm Electrolytic Capacitor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D35.0mm_P10.00mm_SnapIn.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Radial_D35.0mm_P10.00mm_SnapIn/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Radial_D35.0mm_P10.00mm_SnapIn/kicadPcb3d_450.png

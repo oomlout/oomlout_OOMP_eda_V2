@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB-C_Male_EdgeMnt_DX07P024MJ1R1500|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Male_EdgeMnt_DX07P024MJ1R1500|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUCMALEEDGEMNTDX7P24MJ1R15|
-|Name|name|digikey-footprints : USB-C_Male_EdgeMnt_DX07P024MJ1R1500|
+|name|name|digikey-footprints : USB-C_Male_EdgeMnt_DX07P024MJ1R1500|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB-C_Male_EdgeMnt_DX07P024MJ1R1500', 'description': 'http://www.jae.com/z-en/pdf_download_exec.cfm?param=MB-0301-2E_DX07_PLUG.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB-C_Male_EdgeMnt_DX07P024MJ1R1500/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB-C_Male_EdgeMnt_DX07P024MJ1R1500/kicadPcb3d_450.png

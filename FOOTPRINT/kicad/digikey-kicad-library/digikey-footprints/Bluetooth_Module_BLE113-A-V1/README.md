@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Bluetooth_Module_BLE113-A-V1|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BLE113-A-V1|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBLE113AV1|
-|Name|name|digikey-footprints : Bluetooth_Module_BLE113-A-V1|
+|name|name|digikey-footprints : Bluetooth_Module_BLE113-A-V1|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Bluetooth_Module_BLE113-A-V1', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_BLE113-A-V1/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_BLE113-A-V1/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|WiFi_Module_MRF24WG0MA|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WiFi_Module_MRF24WG0MA|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIFIMOMRF24WGMA|
-|Name|name|digikey-footprints : WiFi_Module_MRF24WG0MA|
+|name|name|digikey-footprints : WiFi_Module_MRF24WG0MA|
 |Footprint Kicad|footprintKicadDetails|{'name': 'WiFi_Module_MRF24WG0MA', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WiFi_Module_MRF24WG0MA/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WiFi_Module_MRF24WG0MA/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TCO_5.5mm_Radial|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TCO_5.5mm_Radial|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTCO55R|
-|Name|name|digikey-footprints : TCO_5.5mm_Radial|
+|name|name|digikey-footprints : TCO_5.5mm_Radial|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TCO_5.5mm_Radial', 'description': 'http://optoelectronics.liteon.com/upload/download/DS20-2000-343/1CHKxKNN.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TCO_5.5mm_Radial/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TCO_5.5mm_Radial/kicadPcb3d_450.png

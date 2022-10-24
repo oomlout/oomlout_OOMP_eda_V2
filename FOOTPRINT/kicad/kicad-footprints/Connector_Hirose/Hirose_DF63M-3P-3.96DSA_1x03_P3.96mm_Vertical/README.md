@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Hirose_DF63M-3P-3.96DSA_1x03_P3.96mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF63M-3P-3.96DSA_1x03_P3.96mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNHIROSEHIROSEDF63M3P396DSA1X3P396VERTICAL|
-|Name|name|Connector_Hirose : Hirose_DF63M-3P-3.96DSA_1x03_P3.96mm_Vertical|
+|name|name|Connector_Hirose : Hirose_DF63M-3P-3.96DSA_1x03_P3.96mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Hirose_DF63M-3P-3.96DSA_1x03_P3.96mm_Vertical', 'description': 'Hirose DF63 through hole, DF63M-3P-3.96DSA, 3 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator', 'tags': 'connector Hirose DF63 vertical', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Hirose.3dshapes/Hirose_DF63M-3P-3.96DSA_1x03_P3.96mm_Vertical.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF63M-3P-3.96DSA_1x03_P3.96mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF63M-3P-3.96DSA_1x03_P3.96mm_Vertical/kicadPcb3d_450.png

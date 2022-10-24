@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MagneticBuzzer_Kobitone_254-EMB84Q-RO|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_Kobitone_254-EMB84Q-RO|
 |Hex ID (short code)|hexID|FZKBZMAGNETICBUZZERKOBITONE254EMB84QRO|
-|Name|name|Buzzer_Beeper : MagneticBuzzer_Kobitone_254-EMB84Q-RO|
+|name|name|Buzzer_Beeper : MagneticBuzzer_Kobitone_254-EMB84Q-RO|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MagneticBuzzer_Kobitone_254-EMB84Q-RO', 'description': 'MagneticBuzzer Kobitone 254-EMB84Q-RO https://www.mouser.es/datasheet/2/209/KT-400385-1171904.pdf', 'tags': 'MagneticBuzzer Kobitone 254-EMB84Q-RO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/MagneticBuzzer_Kobitone_254-EMB84Q-RO.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_Kobitone_254-EMB84Q-RO/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_Kobitone_254-EMB84Q-RO/kicadPcb3d_450.png

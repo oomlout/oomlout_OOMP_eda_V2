@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Jumper_Tin_P5.38mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Jumper_Tin_P5.38mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSJTINP538|
-|Name|name|digikey-footprints : Jumper_Tin_P5.38mm|
+|name|name|digikey-footprints : Jumper_Tin_P5.38mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Jumper_Tin_P5.38mm', 'description': 'https://cdn.harwin.com/pdfs/S1911R.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Jumper_Tin_P5.38mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Jumper_Tin_P5.38mm/kicadPcb3d_450.png

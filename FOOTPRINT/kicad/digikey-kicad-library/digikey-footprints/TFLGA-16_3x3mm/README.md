@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TFLGA-16_3x3mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TFLGA-16_3x3mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTFLGA163X3|
-|Name|name|digikey-footprints : TFLGA-16_3x3mm|
+|name|name|digikey-footprints : TFLGA-16_3x3mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TFLGA-16_3x3mm', 'description': 'http://www.st.com/content/ccc/resource/technical/document/datasheet/3e/48/02/c7/a4/e6/41/bb/DM00053090.pdf/files/DM00053090.pdf/jcr:content/translations/en.DM00053090.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TFLGA-16_3x3mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TFLGA-16_3x3mm/kicadPcb3d_450.png

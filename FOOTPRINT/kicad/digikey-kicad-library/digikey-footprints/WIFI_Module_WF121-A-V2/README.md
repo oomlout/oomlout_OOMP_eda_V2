@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|WIFI_Module_WF121-A-V2|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WIFI_Module_WF121-A-V2|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIFIMOWF121AV2|
-|Name|name|digikey-footprints : WIFI_Module_WF121-A-V2|
+|name|name|digikey-footprints : WIFI_Module_WF121-A-V2|
 |Footprint Kicad|footprintKicadDetails|{'name': 'WIFI_Module_WF121-A-V2', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WIFI_Module_WF121-A-V2/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WIFI_Module_WF121-A-V2/kicadPcb3d_450.png

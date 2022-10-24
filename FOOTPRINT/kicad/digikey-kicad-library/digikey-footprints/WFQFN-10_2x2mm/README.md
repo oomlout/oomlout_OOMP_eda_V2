@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|WFQFN-10_2x2mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WFQFN-10_2x2mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWFQFN12X2|
-|Name|name|digikey-footprints : WFQFN-10_2x2mm|
+|name|name|digikey-footprints : WFQFN-10_2x2mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'WFQFN-10_2x2mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WFQFN-10_2x2mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WFQFN-10_2x2mm/kicadPcb3d_450.png

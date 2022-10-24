@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOIC-18_W7.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-18_W7.5mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC18W75|
-|Name|name|digikey-footprints : SOIC-18_W7.5mm|
+|name|name|digikey-footprints : SOIC-18_W7.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOIC-18_W7.5mm', 'description': 'http://www.ti.com/lit/ds/symlink/uln2803a.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOIC-18_W7.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOIC-18_W7.5mm/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|BNC_Win_364A2x95_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_Win_364A2x95_Horizontal|
 |Hex ID (short code)|hexID|FZKCNCOABNCWIN364A2X95HORIZONTAL|
-|Name|name|Connector_Coaxial : BNC_Win_364A2x95_Horizontal|
+|name|name|Connector_Coaxial : BNC_Win_364A2x95_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'BNC_Win_364A2x95_Horizontal', 'description': 'Dual front isolated BNC plug (https://www.winconn.com/wp-content/uploads/364A2595.pdf)', 'tags': 'Dual BNC Horizontal Isolated', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/BNC_Win_364A2x95_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_Win_364A2x95_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_Win_364A2x95_Horizontal/kicadPcb3d_450.png

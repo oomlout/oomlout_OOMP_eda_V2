@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DSUB-15_Male_Vertical_P2.77x2.84mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-15_Male_Vertical_P2.77x2.84mm|
 |Hex ID (short code)|hexID|FZKCNDSUBDSUB15MALEVERTICALP277X284|
-|Name|name|Connector_Dsub : DSUB-15_Male_Vertical_P2.77x2.84mm|
+|name|name|Connector_Dsub : DSUB-15_Male_Vertical_P2.77x2.84mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DSUB-15_Male_Vertical_P2.77x2.84mm', 'description': '15-pin D-Sub connector, straight/vertical, THT-mount, male, pitch 2.77x2.84mm, distance of mounting holes 33.3mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf', 'tags': '15-pin D-Sub connector straight vertical THT male pitch 2.77x2.84mm mounting holes distance 33.3mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Dsub.3dshapes/DSUB-15_Male_Vertical_P2.77x2.84mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-15_Male_Vertical_P2.77x2.84mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-15_Male_Vertical_P2.77x2.84mm/kicadPcb3d_450.png

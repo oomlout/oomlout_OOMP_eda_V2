@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|JST_JWPF_B04B-JWPF-SK-R_1x04_P2.00mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_JWPF_B04B-JWPF-SK-R_1x04_P2.00mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNJSTJSTJWPFB4BJWPFSKR1X4P2VERTICAL|
-|Name|name|Connector_JST : JST_JWPF_B04B-JWPF-SK-R_1x04_P2.00mm_Vertical|
+|name|name|Connector_JST : JST_JWPF_B04B-JWPF-SK-R_1x04_P2.00mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'JST_JWPF_B04B-JWPF-SK-R_1x04_P2.00mm_Vertical', 'description': 'JST JWPF series connector, B04B-JWPF-SK-R (http://www.jst-mfg.com/product/pdf/eng/eJWPF1.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST JWPF side entry', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_JWPF_B04B-JWPF-SK-R_1x04_P2.00mm_Vertical.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_JWPF_B04B-JWPF-SK-R_1x04_P2.00mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_JWPF_B04B-JWPF-SK-R_1x04_P2.00mm_Vertical/kicadPcb3d_450.png

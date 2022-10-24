@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DO-41|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DO-41|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDO41|
-|Name|name|digikey-footprints : DO-41|
+|name|name|digikey-footprints : DO-41|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DO-41', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DO-41/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DO-41/kicadPcb3d_450.png

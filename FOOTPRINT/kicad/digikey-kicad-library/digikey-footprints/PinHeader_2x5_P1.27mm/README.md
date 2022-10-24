@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PinHeader_2x5_P1.27mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_2x5_P1.27mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER2X5P127|
-|Name|name|digikey-footprints : PinHeader_2x5_P1.27mm|
+|name|name|digikey-footprints : PinHeader_2x5_P1.27mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PinHeader_2x5_P1.27mm', 'description': 'https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/20021121.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_2x5_P1.27mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_2x5_P1.27mm/kicadPcb3d_450.png

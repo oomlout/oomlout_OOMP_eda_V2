@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Cellular_Breakout_2542|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Cellular_Breakout_2542|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCELLULARBREAKOUT2542|
-|Name|name|digikey-footprints : Cellular_Breakout_2542|
+|name|name|digikey-footprints : Cellular_Breakout_2542|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Cellular_Breakout_2542', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Cellular_Breakout_2542/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Cellular_Breakout_2542/kicadPcb3d_450.png

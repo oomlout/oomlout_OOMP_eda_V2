@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PinHeader_2x5_P1.27mm_Drill.7mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_2x5_P1.27mm_Drill.7mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER2X5P127DRILL7|
-|Name|name|digikey-footprints : PinHeader_2x5_P1.27mm_Drill.7mm|
+|name|name|digikey-footprints : PinHeader_2x5_P1.27mm_Drill.7mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PinHeader_2x5_P1.27mm_Drill.7mm', 'description': 'http://cnctech.us/pdfs/3220-XX-0100-00.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_2x5_P1.27mm_Drill.7mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_2x5_P1.27mm_Drill.7mm/kicadPcb3d_450.png

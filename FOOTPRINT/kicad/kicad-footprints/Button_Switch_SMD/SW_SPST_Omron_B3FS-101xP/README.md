@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_SPST_Omron_B3FS-101xP|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_Omron_B3FS-101xP|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWSPSTOMRONB3FS11XP|
-|Name|name|Button_Switch_SMD : SW_SPST_Omron_B3FS-101xP|
+|name|name|Button_Switch_SMD : SW_SPST_Omron_B3FS-101xP|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_SPST_Omron_B3FS-101xP', 'description': 'Surface Mount Tactile Switch for High-Density Mounting, 4.3mm height, https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf', 'tags': 'Tactile Switch', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_Omron_B3FS-101xP.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_Omron_B3FS-101xP/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_Omron_B3FS-101xP/kicadPcb3d_450.png

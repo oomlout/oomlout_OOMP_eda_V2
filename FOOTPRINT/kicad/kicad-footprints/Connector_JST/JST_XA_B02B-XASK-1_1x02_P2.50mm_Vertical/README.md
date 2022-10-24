@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|JST_XA_B02B-XASK-1_1x02_P2.50mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XA_B02B-XASK-1_1x02_P2.50mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNJSTJSTXAB2BXASK11X2P25VERTICAL|
-|Name|name|Connector_JST : JST_XA_B02B-XASK-1_1x02_P2.50mm_Vertical|
+|name|name|Connector_JST : JST_XA_B02B-XASK-1_1x02_P2.50mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'JST_XA_B02B-XASK-1_1x02_P2.50mm_Vertical', 'description': 'JST XA series connector, B02B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST XA vertical', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XA_B02B-XASK-1_1x02_P2.50mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_B02B-XASK-1_1x02_P2.50mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_B02B-XASK-1_1x02_P2.50mm_Vertical/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|UFDFN-6_1.45x1mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UFDFN-6_1.45x1mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUFDFN6145X1|
-|Name|name|digikey-footprints : UFDFN-6_1.45x1mm|
+|name|name|digikey-footprints : UFDFN-6_1.45x1mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'UFDFN-6_1.45x1mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/UFDFN-6_1.45x1mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/UFDFN-6_1.45x1mm/kicadPcb3d_450.png

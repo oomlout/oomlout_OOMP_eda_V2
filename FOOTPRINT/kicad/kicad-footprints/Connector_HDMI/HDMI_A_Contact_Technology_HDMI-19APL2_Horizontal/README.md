@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_HDMI-HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal|
 |Hex ID (short code)|hexID|FZKCNHDMIHDMIACONTACTTECHNOLOGYHDMI19APL2HORIZONTAL|
-|Name|name|Connector_HDMI : HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal|
+|name|name|Connector_HDMI : HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal', 'description': 'HDMI Contact Technology Type A http://www.contactswitch.com/en/download.aspx?id=1449', 'tags': 'HDMI Contact Technology Type A', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_HDMI.3dshapes/HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal/kicadPcb3d_450.png

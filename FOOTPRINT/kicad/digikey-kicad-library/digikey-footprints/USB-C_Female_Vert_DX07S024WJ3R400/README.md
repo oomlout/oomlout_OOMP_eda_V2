@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB-C_Female_Vert_DX07S024WJ3R400|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Female_Vert_DX07S024WJ3R400|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUCFEMALEVERTDX7S24WJ3R4|
-|Name|name|digikey-footprints : USB-C_Female_Vert_DX07S024WJ3R400|
+|name|name|digikey-footprints : USB-C_Female_Vert_DX07S024WJ3R400|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB-C_Female_Vert_DX07S024WJ3R400', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB-C_Female_Vert_DX07S024WJ3R400/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB-C_Female_Vert_DX07S024WJ3R400/kicadPcb3d_450.png

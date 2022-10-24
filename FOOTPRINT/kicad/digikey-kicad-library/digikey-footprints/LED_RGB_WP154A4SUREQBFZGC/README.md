@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_RGB_WP154A4SUREQBFZGC|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_RGB_WP154A4SUREQBFZGC|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLRGBWP154A4SUREQBFZGC|
-|Name|name|digikey-footprints : LED_RGB_WP154A4SUREQBFZGC|
+|name|name|digikey-footprints : LED_RGB_WP154A4SUREQBFZGC|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_RGB_WP154A4SUREQBFZGC', 'description': 'http://www.kingbrightusa.com/images/catalog/SPEC/WP154A4SUREQBFZGC.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_RGB_WP154A4SUREQBFZGC/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_RGB_WP154A4SUREQBFZGC/kicadPcb3d_450.png

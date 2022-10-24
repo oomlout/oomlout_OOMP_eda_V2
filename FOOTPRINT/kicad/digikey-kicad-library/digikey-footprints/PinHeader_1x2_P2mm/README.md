@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PinHeader_1x2_P2mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_1x2_P2mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER1X2P2|
-|Name|name|digikey-footprints : PinHeader_1x2_P2mm|
+|name|name|digikey-footprints : PinHeader_1x2_P2mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PinHeader_1x2_P2mm', 'description': 'http://www.jst-mfg.com/product/pdf/eng/ePH.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'trapezoid'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_1x2_P2mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_1x2_P2mm/kicadPcb3d_450.png

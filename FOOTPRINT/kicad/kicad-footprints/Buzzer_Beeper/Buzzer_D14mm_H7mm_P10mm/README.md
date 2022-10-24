@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Buzzer_D14mm_H7mm_P10mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_D14mm_H7mm_P10mm|
 |Hex ID (short code)|hexID|FZKBZBUZZERD14H7P1|
-|Name|name|Buzzer_Beeper : Buzzer_D14mm_H7mm_P10mm|
+|name|name|Buzzer_Beeper : Buzzer_D14mm_H7mm_P10mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Buzzer_D14mm_H7mm_P10mm', 'description': 'Generic Buzzer, D14mm height 7mm with pitch 10mm', 'tags': 'buzzer', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/Buzzer_D14mm_H7mm_P10mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_D14mm_H7mm_P10mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_D14mm_H7mm_P10mm/kicadPcb3d_450.png

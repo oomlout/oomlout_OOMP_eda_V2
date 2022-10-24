@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Switch_Slide_11.6x4mm_EG1218|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Slide_11.6x4mm_EG1218|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSWITCHSLIDE116X4EG1218|
-|Name|name|digikey-footprints : Switch_Slide_11.6x4mm_EG1218|
+|name|name|digikey-footprints : Switch_Slide_11.6x4mm_EG1218|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Switch_Slide_11.6x4mm_EG1218', 'description': 'http://spec_sheets.e-switch.com/specs/P040040.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Slide_11.6x4mm_EG1218/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Slide_11.6x4mm_EG1218/kicadPcb3d_450.png

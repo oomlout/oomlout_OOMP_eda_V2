@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DIP-6_W7.62mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DIP-6_W7.62mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDIP6W762|
-|Name|name|digikey-footprints : DIP-6_W7.62mm|
+|name|name|digikey-footprints : DIP-6_W7.62mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DIP-6_W7.62mm', 'description': 'http://optoelectronics.liteon.com/upload/download/DS70-2001-026/MOC306X%20series%20201606.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DIP-6_W7.62mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DIP-6_W7.62mm/kicadPcb3d_450.png

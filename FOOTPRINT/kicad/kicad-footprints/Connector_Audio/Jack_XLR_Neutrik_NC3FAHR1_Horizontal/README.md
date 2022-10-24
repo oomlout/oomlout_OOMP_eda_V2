@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Jack_XLR_Neutrik_NC3FAHR1_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3FAHR1_Horizontal|
 |Hex ID (short code)|hexID|FZKCNAUDIOJXLRNEUTRIKNC3FAHR1HORIZONTAL|
-|Name|name|Connector_Audio : Jack_XLR_Neutrik_NC3FAHR1_Horizontal|
+|name|name|Connector_Audio : Jack_XLR_Neutrik_NC3FAHR1_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Jack_XLR_Neutrik_NC3FAHR1_Horizontal', 'description': 'A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, lateral right PCB mount, https://www.neutrik.com/en/product/nc3fahr1', 'tags': 'neutrik xlr a', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC3FAHR1_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC3FAHR1_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC3FAHR1_Horizontal/kicadPcb3d_450.png

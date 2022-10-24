@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Particle_Photon|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Particle_Photon|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPARTICLEPHOTON|
-|Name|name|digikey-footprints : Particle_Photon|
+|name|name|digikey-footprints : Particle_Photon|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Particle_Photon', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Particle_Photon/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Particle_Photon/kicadPcb3d_450.png

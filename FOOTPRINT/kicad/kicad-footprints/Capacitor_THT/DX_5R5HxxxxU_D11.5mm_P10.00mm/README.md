@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DX_5R5HxxxxU_D11.5mm_P10.00mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-DX_5R5HxxxxU_D11.5mm_P10.00mm|
 |Hex ID (short code)|hexID|FZKCDX5R5HXXXXUD115P1|
-|Name|name|Capacitor_THT : DX_5R5HxxxxU_D11.5mm_P10.00mm|
+|name|name|Capacitor_THT : DX_5R5HxxxxU_D11.5mm_P10.00mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DX_5R5HxxxxU_D11.5mm_P10.00mm', 'description': 'CP, Radial series, Radial, pin pitch=10.00mm, diameter=11.5mm, Supercapacitor, http://www.elna.co.jp/en/capacitor/double_layer/catalog/pdf/dx_e.pdf', 'tags': 'CP Radial series Radial pin pitch 10.00mm diameter 11.5mm supercapacitor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/DX_5R5HxxxxU_D11.5mm_P10.00mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/DX_5R5HxxxxU_D11.5mm_P10.00mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/DX_5R5HxxxxU_D11.5mm_P10.00mm/kicadPcb3d_450.png

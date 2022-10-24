@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PinHeader_6x2_P2.54mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_6x2_P2.54mm_Horizontal|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER6X2P254HORIZONTAL|
-|Name|name|digikey-footprints : PinHeader_6x2_P2.54mm_Horizontal|
+|name|name|digikey-footprints : PinHeader_6x2_P2.54mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PinHeader_6x2_P2.54mm_Horizontal', 'description': 'http://portal.fciconnect.com/Comergent//fci/drawing/68020.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_6x2_P2.54mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_6x2_P2.54mm_Horizontal/kicadPcb3d_450.png

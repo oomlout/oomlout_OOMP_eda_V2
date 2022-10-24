@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SMA_Amphenol_132289_EdgeMount|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Amphenol_132289_EdgeMount|
 |Hex ID (short code)|hexID|FZKCNCOASAMPHENOL132289EDGEMOUNT|
-|Name|name|Connector_Coaxial : SMA_Amphenol_132289_EdgeMount|
+|name|name|Connector_Coaxial : SMA_Amphenol_132289_EdgeMount|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SMA_Amphenol_132289_EdgeMount', 'description': 'http://www.amphenolrf.com/132289.html', 'tags': 'SMA', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Amphenol_132289_EdgeMount.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/SMA_Amphenol_132289_EdgeMount/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/SMA_Amphenol_132289_EdgeMount/kicadPcb3d_450.png

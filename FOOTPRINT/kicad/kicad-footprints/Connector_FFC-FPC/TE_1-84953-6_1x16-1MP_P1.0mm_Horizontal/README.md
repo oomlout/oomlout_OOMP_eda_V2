@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TE_1-84953-6_1x16-1MP_P1.0mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-TE_1-84953-6_1x16-1MP_P1.0mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNFFCFPCTE18495361X161MPP1HORIZONTAL|
-|Name|name|Connector_FFC-FPC : TE_1-84953-6_1x16-1MP_P1.0mm_Horizontal|
+|name|name|Connector_FFC-FPC : TE_1-84953-6_1x16-1MP_P1.0mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TE_1-84953-6_1x16-1MP_P1.0mm_Horizontal', 'description': 'TE FPC connector, 16 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4', 'tags': 'te fpc 84953', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/TE_1-84953-6_1x16-1MP_P1.0mm_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/TE_1-84953-6_1x16-1MP_P1.0mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/TE_1-84953-6_1x16-1MP_P1.0mm_Horizontal/kicadPcb3d_450.png

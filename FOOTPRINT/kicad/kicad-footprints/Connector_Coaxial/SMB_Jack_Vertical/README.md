@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SMB_Jack_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMB_Jack_Vertical|
 |Hex ID (short code)|hexID|FZKCNCOASMBJVERTICAL|
-|Name|name|Connector_Coaxial : SMB_Jack_Vertical|
+|name|name|Connector_Coaxial : SMB_Jack_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SMB_Jack_Vertical', 'description': 'SMB pcb mounting jack', 'tags': 'SMB Jack  Striaght', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMB_Jack_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/SMB_Jack_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/SMB_Jack_Vertical/kicadPcb3d_450.png

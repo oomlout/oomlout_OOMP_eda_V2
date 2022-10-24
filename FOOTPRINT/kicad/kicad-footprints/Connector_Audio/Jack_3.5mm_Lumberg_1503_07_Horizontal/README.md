@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Jack_3.5mm_Lumberg_1503_07_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_Lumberg_1503_07_Horizontal|
 |Hex ID (short code)|hexID|FZKCNAUDIOJ35LUMBERG1537HORIZONTAL|
-|Name|name|Connector_Audio : Jack_3.5mm_Lumberg_1503_07_Horizontal|
+|name|name|Connector_Audio : Jack_3.5mm_Lumberg_1503_07_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Jack_3.5mm_Lumberg_1503_07_Horizontal', 'description': 'TRS 3.5mm, horizontal, through-hole, https://downloads.lumberg.com/datenblaetter/en/1503_07.pdf', 'tags': 'TRS audio jack horizontal', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_3.5mm_Lumberg_1503_07_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Lumberg_1503_07_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Lumberg_1503_07_Horizontal/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|JST_SH_BM15B-SRSS-TB_1x15-1MP_P1.00mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM15B-SRSS-TB_1x15-1MP_P1.00mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNJSTJSTSHBM15BSRSSTB1X151MPP1VERTICAL|
-|Name|name|Connector_JST : JST_SH_BM15B-SRSS-TB_1x15-1MP_P1.00mm_Vertical|
+|name|name|Connector_JST : JST_SH_BM15B-SRSS-TB_1x15-1MP_P1.00mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'JST_SH_BM15B-SRSS-TB_1x15-1MP_P1.00mm_Vertical', 'description': 'JST SH series connector, BM15B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST SH side entry', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_SH_BM15B-SRSS-TB_1x15-1MP_P1.00mm_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_BM15B-SRSS-TB_1x15-1MP_P1.00mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_BM15B-SRSS-TB_1x15-1MP_P1.00mm_Vertical/kicadPcb3d_450.png

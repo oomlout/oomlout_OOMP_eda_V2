@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|CP_Elec_6.3x4.9|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_6.3x4.9|
 |Hex ID (short code)|hexID|FZKCAPACITORSMCPELEC63X49|
-|Name|name|Capacitor_SMD : CP_Elec_6.3x4.9|
+|name|name|Capacitor_SMD : CP_Elec_6.3x4.9|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CP_Elec_6.3x4.9', 'description': 'SMD capacitor, aluminum electrolytic, Panasonic C5, 6.3x4.9mm', 'tags': 'capacitor electrolytic', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_6.3x4.9.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_6.3x4.9/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_6.3x4.9/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Harwin_Gecko-G125-FVX5005L0X_2x25_P1.25mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_Gecko-G125-FVX5005L0X_2x25_P1.25mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNHARWINHARWINGECKOG125FVX55LX2X25P125VERTICAL|
-|Name|name|Connector_Harwin : Harwin_Gecko-G125-FVX5005L0X_2x25_P1.25mm_Vertical|
+|name|name|Connector_Harwin : Harwin_Gecko-G125-FVX5005L0X_2x25_P1.25mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Harwin_Gecko-G125-FVX5005L0X_2x25_P1.25mm_Vertical', 'description': 'Harwin Gecko Connector, 50 pins, dual row female, vertical entry, PN:G125-FVX5005L0X', 'tags': 'connector harwin gecko', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Harwin.3dshapes/Harwin_Gecko-G125-FVX5005L0X_2x25_P1.25mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_Gecko-G125-FVX5005L0X_2x25_P1.25mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_Gecko-G125-FVX5005L0X_2x25_P1.25mm_Vertical/kicadPcb3d_450.png

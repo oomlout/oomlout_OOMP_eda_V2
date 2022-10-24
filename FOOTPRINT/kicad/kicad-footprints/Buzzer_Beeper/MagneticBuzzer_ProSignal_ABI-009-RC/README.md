@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MagneticBuzzer_ProSignal_ABI-009-RC|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_ProSignal_ABI-009-RC|
 |Hex ID (short code)|hexID|FZKBZMAGNETICBUZZERPROSIGNALABI9RC|
-|Name|name|Buzzer_Beeper : MagneticBuzzer_ProSignal_ABI-009-RC|
+|name|name|Buzzer_Beeper : MagneticBuzzer_ProSignal_ABI-009-RC|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MagneticBuzzer_ProSignal_ABI-009-RC', 'description': 'Buzzer, Elektromagnetic Beeper, Summer, 6V-DC,', 'tags': 'Pro Signal ABI-009-RC ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/MagneticBuzzer_ProSignal_ABI-009-RC.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_ProSignal_ABI-009-RC/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_ProSignal_ABI-009-RC/kicadPcb3d_450.png

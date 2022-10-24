@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|microSIM_JAE_SF53S006VCBR2000|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSIM_JAE_SF53S006VCBR2000|
 |Hex ID (short code)|hexID|FZKCNCARDMSIMJAESF53S6VCBR2|
-|Name|name|Connector_Card : microSIM_JAE_SF53S006VCBR2000|
+|name|name|Connector_Card : microSIM_JAE_SF53S006VCBR2000|
 |Footprint Kicad|footprintKicadDetails|{'name': 'microSIM_JAE_SF53S006VCBR2000', 'description': 'https://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ115712.pdf', 'tags': 'microSIM GSM Card', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Card.3dshapes/microSIM_JAE_SF53S006VCBR2000.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSIM_JAE_SF53S006VCBR2000/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSIM_JAE_SF53S006VCBR2000/kicadPcb3d_450.png

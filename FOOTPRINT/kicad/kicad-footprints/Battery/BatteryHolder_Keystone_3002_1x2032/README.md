@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|BatteryHolder_Keystone_3002_1x2032|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_3002_1x2032|
 |Hex ID (short code)|hexID|FZKBATBATHOLDERKEYSTONE321X232|
-|Name|name|Battery : BatteryHolder_Keystone_3002_1x2032|
+|name|name|Battery : BatteryHolder_Keystone_3002_1x2032|
 |Footprint Kicad|footprintKicadDetails|{'name': 'BatteryHolder_Keystone_3002_1x2032', 'description': 'https://www.tme.eu/it/Document/a823211ec201a9e209042d155fe22d2b/KEYS2996.pdf', 'tags': 'BR2016 CR2016 DL2016 BR2020 CL2020 BR2025 CR2025 DL2025 DR2032 CR2032 DL2032', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_3002_1x2032.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_3002_1x2032/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_3002_1x2032/kicadPcb3d_450.png

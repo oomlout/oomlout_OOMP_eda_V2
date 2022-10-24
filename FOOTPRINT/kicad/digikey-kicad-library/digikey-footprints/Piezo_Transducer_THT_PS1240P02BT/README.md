@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Piezo_Transducer_THT_PS1240P02BT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Piezo_Transducer_THT_PS1240P02BT|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPIEZOTRANSDUCERTHTPS124P2BT|
-|Name|name|digikey-footprints : Piezo_Transducer_THT_PS1240P02BT|
+|name|name|digikey-footprints : Piezo_Transducer_THT_PS1240P02BT|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Piezo_Transducer_THT_PS1240P02BT', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Piezo_Transducer_THT_PS1240P02BT/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Piezo_Transducer_THT_PS1240P02BT/kicadPcb3d_450.png

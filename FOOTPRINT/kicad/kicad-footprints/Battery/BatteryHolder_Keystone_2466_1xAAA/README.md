@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|BatteryHolder_Keystone_2466_1xAAA|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_2466_1xAAA|
 |Hex ID (short code)|hexID|FZKBATBATHOLDERKEYSTONE24661XAAA|
-|Name|name|Battery : BatteryHolder_Keystone_2466_1xAAA|
+|name|name|Battery : BatteryHolder_Keystone_2466_1xAAA|
 |Footprint Kicad|footprintKicadDetails|{'name': 'BatteryHolder_Keystone_2466_1xAAA', 'description': '1xAAA Battery Holder, Keystone, Plastic Case, http://www.keyelco.com/product-pdf.cfm?p=1031', 'tags': 'AAA battery holder Keystone', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_2466_1xAAA.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2466_1xAAA/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2466_1xAAA/kicadPcb3d_450.png

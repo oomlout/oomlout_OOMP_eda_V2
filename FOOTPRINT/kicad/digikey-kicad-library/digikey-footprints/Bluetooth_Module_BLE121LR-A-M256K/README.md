@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Bluetooth_Module_BLE121LR-A-M256K|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BLE121LR-A-M256K|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBLE121LRAM256K|
-|Name|name|digikey-footprints : Bluetooth_Module_BLE121LR-A-M256K|
+|name|name|digikey-footprints : Bluetooth_Module_BLE121LR-A-M256K|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Bluetooth_Module_BLE121LR-A-M256K', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_BLE121LR-A-M256K/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_BLE121LR-A-M256K/kicadPcb3d_450.png

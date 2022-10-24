@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|HDMI_A_Molex_208658-1001_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_HDMI-HDMI_A_Molex_208658-1001_Horizontal|
 |Hex ID (short code)|hexID|FZKCNHDMIHDMIAMX2865811HORIZONTAL|
-|Name|name|Connector_HDMI : HDMI_A_Molex_208658-1001_Horizontal|
+|name|name|Connector_HDMI : HDMI_A_Molex_208658-1001_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HDMI_A_Molex_208658-1001_Horizontal', 'description': 'HDMI Molex Type A https://www.molex.com/pdm_docs/sd/2086581001_sd.pdf', 'tags': 'HDMI Molex Type A', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_HDMI.3dshapes/HDMI_A_Molex_208658-1001_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Molex_208658-1001_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Molex_208658-1001_Horizontal/kicadPcb3d_450.png

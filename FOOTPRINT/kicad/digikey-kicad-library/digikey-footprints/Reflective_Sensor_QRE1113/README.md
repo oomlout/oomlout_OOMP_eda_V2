@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Reflective_Sensor_QRE1113|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Reflective_Sensor_QRE1113|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSREFLECTIVESENQRE1113|
-|Name|name|digikey-footprints : Reflective_Sensor_QRE1113|
+|name|name|digikey-footprints : Reflective_Sensor_QRE1113|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Reflective_Sensor_QRE1113', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Reflective_Sensor_QRE1113/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Reflective_Sensor_QRE1113/kicadPcb3d_450.png

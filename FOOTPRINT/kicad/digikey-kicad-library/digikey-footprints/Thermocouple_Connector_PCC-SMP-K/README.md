@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Thermocouple_Connector_PCC-SMP-K|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Thermocouple_Connector_PCC-SMP-K|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTHERMOCOUPLECNPCCSMPK|
-|Name|name|digikey-footprints : Thermocouple_Connector_PCC-SMP-K|
+|name|name|digikey-footprints : Thermocouple_Connector_PCC-SMP-K|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Thermocouple_Connector_PCC-SMP-K', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Thermocouple_Connector_PCC-SMP-K/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Thermocouple_Connector_PCC-SMP-K/kicadPcb3d_450.png

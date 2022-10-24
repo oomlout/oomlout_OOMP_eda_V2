@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB_Micro_A_3.1_Female_GSB443T33HR|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_A_3.1_Female_GSB443T33HR|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMA31FEMALEGSB443T33HR|
-|Name|name|digikey-footprints : USB_Micro_A_3.1_Female_GSB443T33HR|
+|name|name|digikey-footprints : USB_Micro_A_3.1_Female_GSB443T33HR|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB_Micro_A_3.1_Female_GSB443T33HR', 'description': 'http://media.digikey.com/pdf/Data%20Sheets/Amphenol%20PDFs/USB_Micro_A_3.1_Female_GSB443T33HR_Dwg.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_A_3.1_Female_GSB443T33HR/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_A_3.1_Female_GSB443T33HR/kicadPcb3d_450.png

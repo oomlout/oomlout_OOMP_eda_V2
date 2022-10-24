@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TSSOP-28_W4.40mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TSSOP-28_W4.40mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTSS28W44|
-|Name|name|digikey-footprints : TSSOP-28_W4.40mm|
+|name|name|digikey-footprints : TSSOP-28_W4.40mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TSSOP-28_W4.40mm', 'description': 'http://www.ti.com/lit/ds/symlink/tlc5940.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TSSOP-28_W4.40mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TSSOP-28_W4.40mm/kicadPcb3d_450.png

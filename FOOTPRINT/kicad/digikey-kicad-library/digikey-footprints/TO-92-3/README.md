@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-92-3|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-92-3|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTO923|
-|Name|name|digikey-footprints : TO-92-3|
+|name|name|digikey-footprints : TO-92-3|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-92-3', 'description': 'http://www.ti.com/lit/ds/symlink/tl431a.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-92-3/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-92-3/kicadPcb3d_450.png

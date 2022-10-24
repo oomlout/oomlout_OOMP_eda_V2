@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|4-SMD_2.35x2.95mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-4-SMD_2.35x2.95mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS4SM235X295|
-|Name|name|digikey-footprints : 4-SMD_2.35x2.95mm|
+|name|name|digikey-footprints : 4-SMD_2.35x2.95mm|
 |Footprint Kicad|footprintKicadDetails|{'name': '4-SMD_2.35x2.95mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/4-SMD_2.35x2.95mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/4-SMD_2.35x2.95mm/kicadPcb3d_450.png

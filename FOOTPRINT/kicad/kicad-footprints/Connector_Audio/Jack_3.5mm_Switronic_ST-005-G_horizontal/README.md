@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Jack_3.5mm_Switronic_ST-005-G_horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_Switronic_ST-005-G_horizontal|
 |Hex ID (short code)|hexID|FZKCNAUDIOJ35SWITRONICST5GHORIZONTAL|
-|Name|name|Connector_Audio : Jack_3.5mm_Switronic_ST-005-G_horizontal|
+|name|name|Connector_Audio : Jack_3.5mm_Switronic_ST-005-G_horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Jack_3.5mm_Switronic_ST-005-G_horizontal', 'description': '3.5mm horizontal headphones jack, http://akizukidenshi.com/download/ds/switronic/ST-005-G.pdf', 'tags': 'Connector Audio Switronic ST-005-G', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_3.5mm_Switronic_ST-005-G_horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal/kicadPcb3d_450.png

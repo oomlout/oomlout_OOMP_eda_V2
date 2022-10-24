@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SD_TE_2041021|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Card-SD_TE_2041021|
 |Hex ID (short code)|hexID|FZKCNCARDSDTE24121|
-|Name|name|Connector_Card : SD_TE_2041021|
+|name|name|Connector_Card : SD_TE_2041021|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SD_TE_2041021', 'description': 'SD card connector, top mount, SMT (http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2041021%7FB%7Fpdf%7FEnglish%7FENG_CD_2041021_B_C_2041021_B.pdf%7F2041021-4)', 'tags': 'sd card', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Card.3dshapes/SD_TE_2041021.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Card/SD_TE_2041021/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Card/SD_TE_2041021/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|BarrelJack_GCT_DCJ200-10-A_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_GCT_DCJ200-10-A_Horizontal|
 |Hex ID (short code)|hexID|FZKCNBARRELJBARRELJGCTDCJ21AHORIZONTAL|
-|Name|name|Connector_BarrelJack : BarrelJack_GCT_DCJ200-10-A_Horizontal|
+|name|name|Connector_BarrelJack : BarrelJack_GCT_DCJ200-10-A_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'BarrelJack_GCT_DCJ200-10-A_Horizontal', 'description': 'Barrel jack connector (5.5 mm outer diameter, 2.05 inner diameter ), https://gct.co/files/drawings/dcj200-10.pdf', 'tags': 'connector barrel jack', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_BarrelJack.3dshapes/BarrelJack_GCT_DCJ200-10-A_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_GCT_DCJ200-10-A_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_BarrelJack/BarrelJack_GCT_DCJ200-10-A_Horizontal/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB_A_Female_Vertical_RA_73725-0110BLF|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_A_Female_Vertical_RA_73725-0110BLF|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUAFEMALEVERTICALRA7372511BLF|
-|Name|name|digikey-footprints : USB_A_Female_Vertical_RA_73725-0110BLF|
+|name|name|digikey-footprints : USB_A_Female_Vertical_RA_73725-0110BLF|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB_A_Female_Vertical_RA_73725-0110BLF', 'description': 'http://portal.fciconnect.com/Comergent//fci/drawing/73725.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_A_Female_Vertical_RA_73725-0110BLF/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_A_Female_Vertical_RA_73725-0110BLF/kicadPcb3d_450.png

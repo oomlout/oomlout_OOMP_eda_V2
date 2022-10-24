@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|CP_EIA-7343-40_Kemet-Y_Pad2.25x2.55mm_HandSolder|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7343-40_Kemet-Y_Pad2.25x2.55mm_HandSolder|
 |Hex ID (short code)|hexID|FZKCAPACITORTANTALUMSMCPEIA73434KEMETYPAD225X255HANDSOLDER|
-|Name|name|Capacitor_Tantalum_SMD : CP_EIA-7343-40_Kemet-Y_Pad2.25x2.55mm_HandSolder|
+|name|name|Capacitor_Tantalum_SMD : CP_EIA-7343-40_Kemet-Y_Pad2.25x2.55mm_HandSolder|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CP_EIA-7343-40_Kemet-Y_Pad2.25x2.55mm_HandSolder', 'description': 'Tantalum Capacitor SMD Kemet-Y (7343-40 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator', 'tags': 'capacitor tantalum', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-7343-40_Kemet-Y.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-7343-40_Kemet-Y_Pad2.25x2.55mm_HandSolder/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-7343-40_Kemet-Y_Pad2.25x2.55mm_HandSolder/kicadPcb3d_450.png

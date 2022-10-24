@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOIC-16_W3.90mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-16_W3.90mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC16W39|
-|Name|name|digikey-footprints : SOIC-16_W3.90mm|
+|name|name|digikey-footprints : SOIC-16_W3.90mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOIC-16_W3.90mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOIC-16_W3.90mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOIC-16_W3.90mm/kicadPcb3d_450.png

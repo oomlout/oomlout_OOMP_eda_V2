@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_PUSH_6mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH_6mm|
 |Hex ID (short code)|hexID|FZKBSWPUSH6|
-|Name|name|Button_Switch_THT : SW_PUSH_6mm|
+|name|name|Button_Switch_THT : SW_PUSH_6mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_PUSH_6mm', 'description': 'https://www.omron.com/ecb/products/pdf/en-b3f.pdf', 'tags': 'tact sw push 6mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH_6mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH_6mm/kicadPcb3d_450.png

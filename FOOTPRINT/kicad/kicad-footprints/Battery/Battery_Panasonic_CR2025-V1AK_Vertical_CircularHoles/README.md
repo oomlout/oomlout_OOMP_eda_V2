@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Battery_Panasonic_CR2025-V1AK_Vertical_CircularHoles|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-Battery_Panasonic_CR2025-V1AK_Vertical_CircularHoles|
 |Hex ID (short code)|hexID|FZKBATBATPANASONICCR225V1AKVERTICALCIRCULARH|
-|Name|name|Battery : Battery_Panasonic_CR2025-V1AK_Vertical_CircularHoles|
+|name|name|Battery : Battery_Panasonic_CR2025-V1AK_Vertical_CircularHoles|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Battery_Panasonic_CR2025-V1AK_Vertical_CircularHoles', 'description': 'Panasonic CR-2025/V1AK battery,', 'tags': 'battery CR-2025 coin cell vertical', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Battery.3dshapes/Battery_Panasonic_CR2025-V1AK_Vertical_CircularHoles.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Battery/Battery_Panasonic_CR2025-V1AK_Vertical_CircularHoles/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Battery/Battery_Panasonic_CR2025-V1AK_Vertical_CircularHoles/kicadPcb3d_450.png

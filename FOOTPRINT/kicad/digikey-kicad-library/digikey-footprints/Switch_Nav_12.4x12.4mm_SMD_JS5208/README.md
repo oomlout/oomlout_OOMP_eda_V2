@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Switch_Nav_12.4x12.4mm_SMD_JS5208|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Nav_12.4x12.4mm_SMD_JS5208|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSWITCHNAV124X124SMJS528|
-|Name|name|digikey-footprints : Switch_Nav_12.4x12.4mm_SMD_JS5208|
+|name|name|digikey-footprints : Switch_Nav_12.4x12.4mm_SMD_JS5208|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Switch_Nav_12.4x12.4mm_SMD_JS5208', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Nav_12.4x12.4mm_SMD_JS5208/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Nav_12.4x12.4mm_SMD_JS5208/kicadPcb3d_450.png

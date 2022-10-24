@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_NKK_BB15AH|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_NKK_BB15AH|
 |Hex ID (short code)|hexID|FZKBSWNKKBB15AH|
-|Name|name|Button_Switch_THT : SW_NKK_BB15AH|
+|name|name|Button_Switch_THT : SW_NKK_BB15AH|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_NKK_BB15AH', 'description': 'https://www.nkkswitches.com/pdf/Bpushbuttons-1.pdf', 'tags': 'Pushbutton Right-angle', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_NKK_BB15AH.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_NKK_BB15AH/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_NKK_BB15AH/kicadPcb3d_450.png

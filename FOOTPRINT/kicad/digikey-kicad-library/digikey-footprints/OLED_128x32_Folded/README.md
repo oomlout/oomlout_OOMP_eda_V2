@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|OLED_128x32_Folded|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-OLED_128x32_Folded|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSOL128X32FOLDED|
-|Name|name|digikey-footprints : OLED_128x32_Folded|
+|name|name|digikey-footprints : OLED_128x32_Folded|
 |Footprint Kicad|footprintKicadDetails|{'name': 'OLED_128x32_Folded', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/OLED_128x32_Folded/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/OLED_128x32_Folded/kicadPcb3d_450.png

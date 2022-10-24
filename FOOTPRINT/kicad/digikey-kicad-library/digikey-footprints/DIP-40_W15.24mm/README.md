@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DIP-40_W15.24mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DIP-40_W15.24mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDIP4W1524|
-|Name|name|digikey-footprints : DIP-40_W15.24mm|
+|name|name|digikey-footprints : DIP-40_W15.24mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DIP-40_W15.24mm', 'description': 'http://www.ti.com/lit/ds/symlink/tpic6b595.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DIP-40_W15.24mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DIP-40_W15.24mm/kicadPcb3d_450.png

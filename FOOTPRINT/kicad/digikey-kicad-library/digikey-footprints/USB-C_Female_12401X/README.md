@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB-C_Female_12401X|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Female_12401X|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUCFEMALE1241X|
-|Name|name|digikey-footprints : USB-C_Female_12401X|
+|name|name|digikey-footprints : USB-C_Female_12401X|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB-C_Female_12401X', 'description': 'https://media.digikey.com/pdf/Data%20Sheets/Amphenol%20PDFs/12401610E4%232A_Dwg.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB-C_Female_12401X/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB-C_Female_12401X/kicadPcb3d_450.png

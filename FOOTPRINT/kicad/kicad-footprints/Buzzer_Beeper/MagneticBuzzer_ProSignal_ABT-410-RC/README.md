@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MagneticBuzzer_ProSignal_ABT-410-RC|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_ProSignal_ABT-410-RC|
 |Hex ID (short code)|hexID|FZKBZMAGNETICBUZZERPROSIGNALABT41RC|
-|Name|name|Buzzer_Beeper : MagneticBuzzer_ProSignal_ABT-410-RC|
+|name|name|Buzzer_Beeper : MagneticBuzzer_ProSignal_ABT-410-RC|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MagneticBuzzer_ProSignal_ABT-410-RC', 'description': 'Buzzer, Elektromagnetic Beeper, Summer, 1,5V-DC,', 'tags': 'Pro Signal ABT-410-RC ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/MagneticBuzzer_ProSignal_ABT-410-RC.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_ProSignal_ABT-410-RC/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_ProSignal_ABT-410-RC/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_NKK_GW12LJP|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_NKK_GW12LJP|
 |Hex ID (short code)|hexID|FZKBSWNKKGW12LJP|
-|Name|name|Button_Switch_THT : SW_NKK_GW12LJP|
+|name|name|Button_Switch_THT : SW_NKK_GW12LJP|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_NKK_GW12LJP', 'description': 'Switch, single pole double throw, illuminated paddle, http://www.nkkswitches.com/pdf/gwillum.pdf', 'tags': 'switch single-pole double-throw spdt ON-ON illuminated LED', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_NKK_GW12LJP.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_NKK_GW12LJP/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_NKK_GW12LJP/kicadPcb3d_450.png

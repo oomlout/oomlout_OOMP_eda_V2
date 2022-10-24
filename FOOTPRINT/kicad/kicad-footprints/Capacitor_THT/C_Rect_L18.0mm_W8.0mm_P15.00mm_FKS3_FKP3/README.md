@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|C_Rect_L18.0mm_W8.0mm_P15.00mm_FKS3_FKP3|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L18.0mm_W8.0mm_P15.00mm_FKS3_FKP3|
 |Hex ID (short code)|hexID|FZKCCRECTL18W8P15FKS3FKP3|
-|Name|name|Capacitor_THT : C_Rect_L18.0mm_W8.0mm_P15.00mm_FKS3_FKP3|
+|name|name|Capacitor_THT : C_Rect_L18.0mm_W8.0mm_P15.00mm_FKS3_FKP3|
 |Footprint Kicad|footprintKicadDetails|{'name': 'C_Rect_L18.0mm_W8.0mm_P15.00mm_FKS3_FKP3', 'description': 'C, Rect series, Radial, pin pitch=15.00mm, , length*width=18*8mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_3.pdf', 'tags': 'C Rect series Radial pin pitch 15.00mm  length 18mm width 8mm Capacitor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L18.0mm_W8.0mm_P15.00mm_FKS3_FKP3.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L18.0mm_W8.0mm_P15.00mm_FKS3_FKP3/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L18.0mm_W8.0mm_P15.00mm_FKS3_FKP3/kicadPcb3d_450.png

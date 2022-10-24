@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_SPST_EVPBF|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_EVPBF|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWSPSTEVPBF|
-|Name|name|Button_Switch_SMD : SW_SPST_EVPBF|
+|name|name|Button_Switch_SMD : SW_SPST_EVPBF|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_SPST_EVPBF', 'description': 'Light Touch Switch', 'tags': None, 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_EVPBF.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_EVPBF/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_EVPBF/kicadPcb3d_450.png

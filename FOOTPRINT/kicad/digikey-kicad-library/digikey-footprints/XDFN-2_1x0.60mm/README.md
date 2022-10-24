@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|XDFN-2_1x0.60mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-XDFN-2_1x0.60mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSXDFN21X6|
-|Name|name|digikey-footprints : XDFN-2_1x0.60mm|
+|name|name|digikey-footprints : XDFN-2_1x0.60mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'XDFN-2_1x0.60mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/XDFN-2_1x0.60mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/XDFN-2_1x0.60mm/kicadPcb3d_450.png

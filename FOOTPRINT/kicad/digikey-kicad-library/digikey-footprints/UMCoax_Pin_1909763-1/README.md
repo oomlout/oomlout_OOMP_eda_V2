@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|UMCoax_Pin_1909763-1|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UMCoax_Pin_1909763-1|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMCOAXPIN1997631|
-|Name|name|digikey-footprints : UMCoax_Pin_1909763-1|
+|name|name|digikey-footprints : UMCoax_Pin_1909763-1|
 |Footprint Kicad|footprintKicadDetails|{'name': 'UMCoax_Pin_1909763-1', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/UMCoax_Pin_1909763-1/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/UMCoax_Pin_1909763-1/kicadPcb3d_450.png

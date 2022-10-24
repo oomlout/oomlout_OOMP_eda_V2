@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Buzzer_Murata_PKLCS1212E|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_Murata_PKLCS1212E|
 |Hex ID (short code)|hexID|FZKBZBUZZERMPKLCS1212E|
-|Name|name|Buzzer_Beeper : Buzzer_Murata_PKLCS1212E|
+|name|name|Buzzer_Beeper : Buzzer_Murata_PKLCS1212E|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Buzzer_Murata_PKLCS1212E', 'description': 'Murata Buzzer https://www.murata.com/~/media/webrenewal/support/library/catalog/products/sound/p37e.ashx', 'tags': 'Murata Buzzer Beeper', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/Buzzer_Murata_PKLCS1212E.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_Murata_PKLCS1212E/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_Murata_PKLCS1212E/kicadPcb3d_450.png

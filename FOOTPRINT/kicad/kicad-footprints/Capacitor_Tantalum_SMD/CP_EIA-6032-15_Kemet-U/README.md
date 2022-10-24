@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|CP_EIA-6032-15_Kemet-U|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-6032-15_Kemet-U|
 |Hex ID (short code)|hexID|FZKCAPACITORTANTALUMSMCPEIA63215KEMETU|
-|Name|name|Capacitor_Tantalum_SMD : CP_EIA-6032-15_Kemet-U|
+|name|name|Capacitor_Tantalum_SMD : CP_EIA-6032-15_Kemet-U|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CP_EIA-6032-15_Kemet-U', 'description': 'Tantalum Capacitor SMD Kemet-U (6032-15 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator', 'tags': 'capacitor tantalum', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-6032-15_Kemet-U.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-6032-15_Kemet-U/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-6032-15_Kemet-U/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Humidity_HIH61xx|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Humidity_HIH61xx|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHUMIDITYHIH61XX|
-|Name|name|digikey-footprints : Humidity_HIH61xx|
+|name|name|digikey-footprints : Humidity_HIH61xx|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Humidity_HIH61xx', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Humidity_HIH61xx/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Humidity_HIH61xx/kicadPcb3d_450.png

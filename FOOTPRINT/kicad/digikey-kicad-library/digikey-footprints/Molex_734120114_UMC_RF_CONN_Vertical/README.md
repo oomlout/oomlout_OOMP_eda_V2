@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Molex_734120114_UMC_RF_CONN_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Molex_734120114_UMC_RF_CONN_Vertical|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMX73412114UMCRFCONNVERTICAL|
-|Name|name|digikey-footprints : Molex_734120114_UMC_RF_CONN_Vertical|
+|name|name|digikey-footprints : Molex_734120114_UMC_RF_CONN_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Molex_734120114_UMC_RF_CONN_Vertical', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Molex_734120114_UMC_RF_CONN_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Molex_734120114_UMC_RF_CONN_Vertical/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Bluetooth_Module_BL600-SA|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BL600-SA|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBL6SA|
-|Name|name|digikey-footprints : Bluetooth_Module_BL600-SA|
+|name|name|digikey-footprints : Bluetooth_Module_BL600-SA|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Bluetooth_Module_BL600-SA', 'description': 'https://assets.lairdtech.com/home/brandworld/files/Datasheet%20-%20BL600.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_BL600-SA/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_BL600-SA/kicadPcb3d_450.png

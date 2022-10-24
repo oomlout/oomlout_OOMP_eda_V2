@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MagneticBuzzer_PUI_AT-0927-TT-6-R|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_PUI_AT-0927-TT-6-R|
 |Hex ID (short code)|hexID|FZKBZMAGNETICBUZZERPUIAT927TT6R|
-|Name|name|Buzzer_Beeper : MagneticBuzzer_PUI_AT-0927-TT-6-R|
+|name|name|Buzzer_Beeper : MagneticBuzzer_PUI_AT-0927-TT-6-R|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MagneticBuzzer_PUI_AT-0927-TT-6-R', 'description': 'Buzzer Magnetic 9mm AT-0927-TT-6-R, http://www.puiaudio.com/pdf/AT-0927-TT-6-R.pdf', 'tags': 'Buzzer Magnetic 9mm AT-0927-TT-6-R', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/MagneticBuzzer_PUI_AT-0927-TT-6-R.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|JST_XA_S08B-XASK-1_1x08_P2.50mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XA_S08B-XASK-1_1x08_P2.50mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNJSTJSTXAS8BXASK11X8P25HORIZONTAL|
-|Name|name|Connector_JST : JST_XA_S08B-XASK-1_1x08_P2.50mm_Horizontal|
+|name|name|Connector_JST : JST_XA_S08B-XASK-1_1x08_P2.50mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'JST_XA_S08B-XASK-1_1x08_P2.50mm_Horizontal', 'description': 'JST XA series connector, S08B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST XA horizontal hook', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XA_S08B-XASK-1_1x08_P2.50mm_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_S08B-XASK-1_1x08_P2.50mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_S08B-XASK-1_1x08_P2.50mm_Horizontal/kicadPcb3d_450.png

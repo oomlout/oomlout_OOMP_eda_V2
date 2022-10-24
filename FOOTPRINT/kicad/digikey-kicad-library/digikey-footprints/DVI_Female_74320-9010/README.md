@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DVI_Female_74320-9010|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DVI_Female_74320-9010|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDVIFEMALE743291|
-|Name|name|digikey-footprints : DVI_Female_74320-9010|
+|name|name|digikey-footprints : DVI_Female_74320-9010|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DVI_Female_74320-9010', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DVI_Female_74320-9010/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DVI_Female_74320-9010/kicadPcb3d_450.png

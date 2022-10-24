@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|RF_SMA_Receptical_Vertical_CONSMA001-SMD-G|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_SMA_Receptical_Vertical_CONSMA001-SMD-G|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFSRECEPTICALVERTICALCONS1SMG|
-|Name|name|digikey-footprints : RF_SMA_Receptical_Vertical_CONSMA001-SMD-G|
+|name|name|digikey-footprints : RF_SMA_Receptical_Vertical_CONSMA001-SMD-G|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RF_SMA_Receptical_Vertical_CONSMA001-SMD-G', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_SMA_Receptical_Vertical_CONSMA001-SMD-G/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_SMA_Receptical_Vertical_CONSMA001-SMD-G/kicadPcb3d_450.png

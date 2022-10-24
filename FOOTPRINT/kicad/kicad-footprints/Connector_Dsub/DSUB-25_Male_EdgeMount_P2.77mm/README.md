@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DSUB-25_Male_EdgeMount_P2.77mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-25_Male_EdgeMount_P2.77mm|
 |Hex ID (short code)|hexID|FZKCNDSUBDSUB25MALEEDGEMOUNTP277|
-|Name|name|Connector_Dsub : DSUB-25_Male_EdgeMount_P2.77mm|
+|name|name|Connector_Dsub : DSUB-25_Male_EdgeMount_P2.77mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DSUB-25_Male_EdgeMount_P2.77mm', 'description': '25-pin D-Sub connector, solder-cups edge-mounted, male, x-pin-pitch 2.77mm, distance of mounting holes 47.1mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf', 'tags': '25-pin D-Sub connector edge mount solder cup male x-pin-pitch 2.77mm mounting holes distance 47.1mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Dsub.3dshapes/DSUB-25_Male_EdgeMount_P2.77mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-25_Male_EdgeMount_P2.77mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-25_Male_EdgeMount_P2.77mm/kicadPcb3d_450.png

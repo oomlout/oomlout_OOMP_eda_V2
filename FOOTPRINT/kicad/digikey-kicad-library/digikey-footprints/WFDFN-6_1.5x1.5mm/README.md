@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|WFDFN-6_1.5x1.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WFDFN-6_1.5x1.5mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWFDFN615X15|
-|Name|name|digikey-footprints : WFDFN-6_1.5x1.5mm|
+|name|name|digikey-footprints : WFDFN-6_1.5x1.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'WFDFN-6_1.5x1.5mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WFDFN-6_1.5x1.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WFDFN-6_1.5x1.5mm/kicadPcb3d_450.png

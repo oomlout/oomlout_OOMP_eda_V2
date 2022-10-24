@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Switch_Slide_JS202011SCQN|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Slide_JS202011SCQN|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSWITCHSLIDEJS2211SCQN|
-|Name|name|digikey-footprints : Switch_Slide_JS202011SCQN|
+|name|name|digikey-footprints : Switch_Slide_JS202011SCQN|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Switch_Slide_JS202011SCQN', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Slide_JS202011SCQN/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Slide_JS202011SCQN/kicadPcb3d_450.png

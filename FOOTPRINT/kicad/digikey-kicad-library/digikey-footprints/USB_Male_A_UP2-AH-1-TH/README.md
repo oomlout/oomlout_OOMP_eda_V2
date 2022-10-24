@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB_Male_A_UP2-AH-1-TH|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Male_A_UP2-AH-1-TH|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMALEAUP2AH1TH|
-|Name|name|digikey-footprints : USB_Male_A_UP2-AH-1-TH|
+|name|name|digikey-footprints : USB_Male_A_UP2-AH-1-TH|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB_Male_A_UP2-AH-1-TH', 'description': 'http://www.cui.com/product/resource/up2-ah-th.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Male_A_UP2-AH-1-TH/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Male_A_UP2-AH-1-TH/kicadPcb3d_450.png

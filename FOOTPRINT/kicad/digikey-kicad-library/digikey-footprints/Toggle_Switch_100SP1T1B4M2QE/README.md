@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Toggle_Switch_100SP1T1B4M2QE|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Toggle_Switch_100SP1T1B4M2QE|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTOGGLESWITCH1SP1T1B4M2QE|
-|Name|name|digikey-footprints : Toggle_Switch_100SP1T1B4M2QE|
+|name|name|digikey-footprints : Toggle_Switch_100SP1T1B4M2QE|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Toggle_Switch_100SP1T1B4M2QE', 'description': 'http://spec_sheets.e-switch.com/specs/T111597.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Toggle_Switch_100SP1T1B4M2QE/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Toggle_Switch_100SP1T1B4M2QE/kicadPcb3d_450.png

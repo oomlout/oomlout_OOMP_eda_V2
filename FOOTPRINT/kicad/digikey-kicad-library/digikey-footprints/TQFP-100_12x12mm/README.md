@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TQFP-100_12x12mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TQFP-100_12x12mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTQFP112X12|
-|Name|name|digikey-footprints : TQFP-100_12x12mm|
+|name|name|digikey-footprints : TQFP-100_12x12mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TQFP-100_12x12mm', 'description': 'http://ww1.microchip.com/downloads/en/DeviceDoc/100L_TQFP_12x12_PT_C04-0100B.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TQFP-100_12x12mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TQFP-100_12x12mm/kicadPcb3d_450.png

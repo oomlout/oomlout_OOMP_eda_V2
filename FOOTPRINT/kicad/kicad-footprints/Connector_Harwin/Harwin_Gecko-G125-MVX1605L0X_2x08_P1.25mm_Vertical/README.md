@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Harwin_Gecko-G125-MVX1605L0X_2x08_P1.25mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_Gecko-G125-MVX1605L0X_2x08_P1.25mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNHARWINHARWINGECKOG125MVX165LX2X8P125VERTICAL|
-|Name|name|Connector_Harwin : Harwin_Gecko-G125-MVX1605L0X_2x08_P1.25mm_Vertical|
+|name|name|Connector_Harwin : Harwin_Gecko-G125-MVX1605L0X_2x08_P1.25mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Harwin_Gecko-G125-MVX1605L0X_2x08_P1.25mm_Vertical', 'description': 'Harwin Gecko Connector, 16 pins, dual row male, vertical entry, no latches, PN:G125-MVX1605L0X', 'tags': 'connector harwin gecko', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Harwin.3dshapes/Harwin_Gecko-G125-MVX1605L0X_2x08_P1.25mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_Gecko-G125-MVX1605L0X_2x08_P1.25mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_Gecko-G125-MVX1605L0X_2x08_P1.25mm_Vertical/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DO-214AC|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DO-214AC|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDO214AC|
-|Name|name|digikey-footprints : DO-214AC|
+|name|name|digikey-footprints : DO-214AC|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DO-214AC', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DO-214AC/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DO-214AC/kicadPcb3d_450.png

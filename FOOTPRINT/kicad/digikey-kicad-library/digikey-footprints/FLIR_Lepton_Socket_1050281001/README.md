@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|FLIR_Lepton_Socket_1050281001|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-FLIR_Lepton_Socket_1050281001|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSFLIRLEPTONSO152811|
-|Name|name|digikey-footprints : FLIR_Lepton_Socket_1050281001|
+|name|name|digikey-footprints : FLIR_Lepton_Socket_1050281001|
 |Footprint Kicad|footprintKicadDetails|{'name': 'FLIR_Lepton_Socket_1050281001', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/FLIR_Lepton_Socket_1050281001/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/FLIR_Lepton_Socket_1050281001/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DSUB-37_Female_EdgeMount_P2.77mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-37_Female_EdgeMount_P2.77mm|
 |Hex ID (short code)|hexID|FZKCNDSUBDSUB37FEMALEEDGEMOUNTP277|
-|Name|name|Connector_Dsub : DSUB-37_Female_EdgeMount_P2.77mm|
+|name|name|Connector_Dsub : DSUB-37_Female_EdgeMount_P2.77mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DSUB-37_Female_EdgeMount_P2.77mm', 'description': '37-pin D-Sub connector, solder-cups edge-mounted, female, x-pin-pitch 2.77mm, distance of mounting holes 63.5mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf', 'tags': '37-pin D-Sub connector edge mount solder cup female x-pin-pitch 2.77mm mounting holes distance 63.5mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Dsub.3dshapes/DSUB-37_Female_EdgeMount_P2.77mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-37_Female_EdgeMount_P2.77mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-37_Female_EdgeMount_P2.77mm/kicadPcb3d_450.png

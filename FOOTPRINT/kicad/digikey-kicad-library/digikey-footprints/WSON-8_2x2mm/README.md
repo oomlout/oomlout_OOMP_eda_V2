@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|WSON-8_2x2mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WSON-8_2x2mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWSON82X2|
-|Name|name|digikey-footprints : WSON-8_2x2mm|
+|name|name|digikey-footprints : WSON-8_2x2mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'WSON-8_2x2mm', 'description': 'http://www.ti.com/lit/ds/symlink/drv8837.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WSON-8_2x2mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WSON-8_2x2mm/kicadPcb3d_450.png

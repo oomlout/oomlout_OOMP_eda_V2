@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Bluetooth_Module_RN4020|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RN4020|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORN42|
-|Name|name|digikey-footprints : Bluetooth_Module_RN4020|
+|name|name|digikey-footprints : Bluetooth_Module_RN4020|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Bluetooth_Module_RN4020', 'description': 'http://ww1.microchip.com/downloads/en/DeviceDoc/50002279B.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_RN4020/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_RN4020/kicadPcb3d_450.png

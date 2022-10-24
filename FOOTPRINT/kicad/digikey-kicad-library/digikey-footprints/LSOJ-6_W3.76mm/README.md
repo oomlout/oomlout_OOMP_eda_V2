@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LSOJ-6_W3.76mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LSOJ-6_W3.76mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLSOJ6W376|
-|Name|name|digikey-footprints : LSOJ-6_W3.76mm|
+|name|name|digikey-footprints : LSOJ-6_W3.76mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LSOJ-6_W3.76mm', 'description': 'http://pdfserv.maximintegrated.com/package_dwgs/21-0382.PDF', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LSOJ-6_W3.76mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LSOJ-6_W3.76mm/kicadPcb3d_450.png

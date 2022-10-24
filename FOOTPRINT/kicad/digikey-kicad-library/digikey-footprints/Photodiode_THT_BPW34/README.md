@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Photodiode_THT_BPW34|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Photodiode_THT_BPW34|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPHOTODBPW34|
-|Name|name|digikey-footprints : Photodiode_THT_BPW34|
+|name|name|digikey-footprints : Photodiode_THT_BPW34|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Photodiode_THT_BPW34', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Photodiode_THT_BPW34/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Photodiode_THT_BPW34/kicadPcb3d_450.png

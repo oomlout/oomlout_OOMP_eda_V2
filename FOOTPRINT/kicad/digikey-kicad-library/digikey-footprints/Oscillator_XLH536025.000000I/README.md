@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Oscillator_XLH536025.000000I|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Oscillator_XLH536025.000000I|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSOCSXLH53625I|
-|Name|name|digikey-footprints : Oscillator_XLH536025.000000I|
+|name|name|digikey-footprints : Oscillator_XLH536025.000000I|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Oscillator_XLH536025.000000I', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Oscillator_XLH536025.000000I/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Oscillator_XLH536025.000000I/kicadPcb3d_450.png

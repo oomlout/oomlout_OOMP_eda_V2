@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Potentiometer_P120PK-Y25BR10K|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Potentiometer_P120PK-Y25BR10K|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPOTENTIOMETERP12PKY25BR1K|
-|Name|name|digikey-footprints : Potentiometer_P120PK-Y25BR10K|
+|name|name|digikey-footprints : Potentiometer_P120PK-Y25BR10K|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_P120PK-Y25BR10K', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Potentiometer_P120PK-Y25BR10K/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Potentiometer_P120PK-Y25BR10K/kicadPcb3d_450.png

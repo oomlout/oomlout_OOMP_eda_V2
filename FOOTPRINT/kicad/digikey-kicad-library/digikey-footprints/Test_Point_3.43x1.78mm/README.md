@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Test_Point_3.43x1.78mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Test_Point_3.43x1.78mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTESTPOINT343X178|
-|Name|name|digikey-footprints : Test_Point_3.43x1.78mm|
+|name|name|digikey-footprints : Test_Point_3.43x1.78mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Test_Point_3.43x1.78mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Test_Point_3.43x1.78mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Test_Point_3.43x1.78mm/kicadPcb3d_450.png

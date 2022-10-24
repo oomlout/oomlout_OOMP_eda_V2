@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Cellular_Modem_NL-SW-LTE-GELS3-C|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Cellular_Modem_NL-SW-LTE-GELS3-C|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCELLULARMODEMNLSWLTEGELS3C|
-|Name|name|digikey-footprints : Cellular_Modem_NL-SW-LTE-GELS3-C|
+|name|name|digikey-footprints : Cellular_Modem_NL-SW-LTE-GELS3-C|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Cellular_Modem_NL-SW-LTE-GELS3-C', 'description': 'http://nimbelink.com/Documentation/Skywire/4G_LTE_Cat_1/30122_NL-SW-LTE-GELS3_Datasheet.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Cellular_Modem_NL-SW-LTE-GELS3-C/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Cellular_Modem_NL-SW-LTE-GELS3-C/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|RF_Location_Tracking_DWM1000|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Location_Tracking_DWM1000|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFLOCATIONTRACKINGDWM1|
-|Name|name|digikey-footprints : RF_Location_Tracking_DWM1000|
+|name|name|digikey-footprints : RF_Location_Tracking_DWM1000|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RF_Location_Tracking_DWM1000', 'description': 'https://www.decawave.com/sites/default/files/resources/DWM1000-Datasheet-V1.6.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_Location_Tracking_DWM1000/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_Location_Tracking_DWM1000/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|C_Rect_L7.0mm_W3.5mm_P2.50mm_P5.00mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L7.0mm_W3.5mm_P2.50mm_P5.00mm|
 |Hex ID (short code)|hexID|FZKCCRECTL7W35P25P5|
-|Name|name|Capacitor_THT : C_Rect_L7.0mm_W3.5mm_P2.50mm_P5.00mm|
+|name|name|Capacitor_THT : C_Rect_L7.0mm_W3.5mm_P2.50mm_P5.00mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'C_Rect_L7.0mm_W3.5mm_P2.50mm_P5.00mm', 'description': 'C, Rect series, Radial, pin pitch=2.50mm 5.00mm, , length*width=7*3.5mm^2, Capacitor', 'tags': 'C Rect series Radial pin pitch 2.50mm 5.00mm  length 7mm width 3.5mm Capacitor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L7.0mm_W3.5mm_P2.50mm_P5.00mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L7.0mm_W3.5mm_P2.50mm_P5.00mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L7.0mm_W3.5mm_P2.50mm_P5.00mm/kicadPcb3d_450.png

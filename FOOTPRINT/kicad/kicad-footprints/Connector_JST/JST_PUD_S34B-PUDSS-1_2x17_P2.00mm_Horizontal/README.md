@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|JST_PUD_S34B-PUDSS-1_2x17_P2.00mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PUD_S34B-PUDSS-1_2x17_P2.00mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNJSTJSTPUDS34BPUDSS12X17P2HORIZONTAL|
-|Name|name|Connector_JST : JST_PUD_S34B-PUDSS-1_2x17_P2.00mm_Horizontal|
+|name|name|Connector_JST : JST_PUD_S34B-PUDSS-1_2x17_P2.00mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'JST_PUD_S34B-PUDSS-1_2x17_P2.00mm_Horizontal', 'description': 'JST PUD series connector, S34B-PUDSS-1 (http://www.jst-mfg.com/product/pdf/eng/ePUD.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST PUD top entry', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_PUD_S34B-PUDSS-1_2x17_P2.00mm_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PUD_S34B-PUDSS-1_2x17_P2.00mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PUD_S34B-PUDSS-1_2x17_P2.00mm_Horizontal/kicadPcb3d_450.png

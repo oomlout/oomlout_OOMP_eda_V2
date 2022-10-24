@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Mic_CMA-4544PF-W|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Mic_CMA-4544PF-W|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMICCMA4544PFW|
-|Name|name|digikey-footprints : Mic_CMA-4544PF-W|
+|name|name|digikey-footprints : Mic_CMA-4544PF-W|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Mic_CMA-4544PF-W', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Mic_CMA-4544PF-W/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Mic_CMA-4544PF-W/kicadPcb3d_450.png

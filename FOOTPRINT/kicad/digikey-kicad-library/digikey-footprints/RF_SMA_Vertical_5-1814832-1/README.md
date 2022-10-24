@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|RF_SMA_Vertical_5-1814832-1|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_SMA_Vertical_5-1814832-1|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFSVERTICAL518148321|
-|Name|name|digikey-footprints : RF_SMA_Vertical_5-1814832-1|
+|name|name|digikey-footprints : RF_SMA_Vertical_5-1814832-1|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RF_SMA_Vertical_5-1814832-1', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_SMA_Vertical_5-1814832-1/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_SMA_Vertical_5-1814832-1/kicadPcb3d_450.png

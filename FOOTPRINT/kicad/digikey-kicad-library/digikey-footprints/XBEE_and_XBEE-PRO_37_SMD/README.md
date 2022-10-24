@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|XBEE_and_XBEE-PRO_37_SMD|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-XBEE_and_XBEE-PRO_37_SMD|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSXBEEANDXBEEPRO37SM|
-|Name|name|digikey-footprints : XBEE_and_XBEE-PRO_37_SMD|
+|name|name|digikey-footprints : XBEE_and_XBEE-PRO_37_SMD|
 |Footprint Kicad|footprintKicadDetails|{'name': 'XBEE_and_XBEE-PRO_37_SMD', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/XBEE_and_XBEE-PRO_37_SMD/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/XBEE_and_XBEE-PRO_37_SMD/kicadPcb3d_450.png

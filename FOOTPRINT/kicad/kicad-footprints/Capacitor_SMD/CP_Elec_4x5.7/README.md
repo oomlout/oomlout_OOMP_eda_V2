@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|CP_Elec_4x5.7|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_4x5.7|
 |Hex ID (short code)|hexID|FZKCAPACITORSMCPELEC4X57|
-|Name|name|Capacitor_SMD : CP_Elec_4x5.7|
+|name|name|Capacitor_SMD : CP_Elec_4x5.7|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CP_Elec_4x5.7', 'description': 'SMD capacitor, aluminum electrolytic, United Chemi-Con, 4.0x5.7mm', 'tags': 'capacitor electrolytic', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_4x5.7.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_4x5.7/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_4x5.7/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SD_Hirose_DM1AA_SF_PEJ82|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Card-SD_Hirose_DM1AA_SF_PEJ82|
 |Hex ID (short code)|hexID|FZKCNCARDSDHIROSEDM1AASFPEJ82|
-|Name|name|Connector_Card : SD_Hirose_DM1AA_SF_PEJ82|
+|name|name|Connector_Card : SD_Hirose_DM1AA_SF_PEJ82|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SD_Hirose_DM1AA_SF_PEJ82', 'description': 'SD, SMD, top-mount, push-push (https://www.hirose.com/product/document?clcode=CL0609-0004-8-82&productname=DM1AA-SF-PEJ(82)&series=DM1&documenttype=2DDrawing&lang=en&documentid=0000915301)', 'tags': 'SD card connector', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Card.3dshapes/SD_Hirose_DM1AA_SF_PEJ82.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Card/SD_Hirose_DM1AA_SF_PEJ82/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Card/SD_Hirose_DM1AA_SF_PEJ82/kicadPcb3d_450.png

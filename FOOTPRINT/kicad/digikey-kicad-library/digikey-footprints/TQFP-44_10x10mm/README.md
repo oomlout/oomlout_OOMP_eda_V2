@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TQFP-44_10x10mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TQFP-44_10x10mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTQFP441X1|
-|Name|name|digikey-footprints : TQFP-44_10x10mm|
+|name|name|digikey-footprints : TQFP-44_10x10mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TQFP-44_10x10mm', 'description': 'http://www.atmel.com/Images/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TQFP-44_10x10mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TQFP-44_10x10mm/kicadPcb3d_450.png

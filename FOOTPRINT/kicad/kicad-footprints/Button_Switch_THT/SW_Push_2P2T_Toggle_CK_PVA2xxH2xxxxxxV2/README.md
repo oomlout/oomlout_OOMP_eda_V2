@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_Push_2P2T_Toggle_CK_PVA2xxH2xxxxxxV2|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Push_2P2T_Toggle_CK_PVA2xxH2xxxxxxV2|
 |Hex ID (short code)|hexID|FZKBSWPUSH2P2TTOGGLECKPVA2XXH2XXXXXXV2|
-|Name|name|Button_Switch_THT : SW_Push_2P2T_Toggle_CK_PVA2xxH2xxxxxxV2|
+|name|name|Button_Switch_THT : SW_Push_2P2T_Toggle_CK_PVA2xxH2xxxxxxV2|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_Push_2P2T_Toggle_CK_PVA2xxH2xxxxxxV2', 'description': 'momentary / push-push button, h=23mm C&K PVA2 https://www.ckswitches.com/media/1343/pva.pdf', 'tags': 'tact sw push PVA2 DPDT', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_Push_2P2T_Toggle_CK_PVA2xxH2xxxxxxV2.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_2P2T_Toggle_CK_PVA2xxH2xxxxxxV2/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_2P2T_Toggle_CK_PVA2xxH2xxxxxxV2/kicadPcb3d_450.png

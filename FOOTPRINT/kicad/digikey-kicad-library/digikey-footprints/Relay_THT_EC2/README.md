@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Relay_THT_EC2|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Relay_THT_EC2|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRELEC2|
-|Name|name|digikey-footprints : Relay_THT_EC2|
+|name|name|digikey-footprints : Relay_THT_EC2|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Relay_THT_EC2', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Relay_THT_EC2/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Relay_THT_EC2/kicadPcb3d_450.png

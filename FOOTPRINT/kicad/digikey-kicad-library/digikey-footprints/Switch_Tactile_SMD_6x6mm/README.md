@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Switch_Tactile_SMD_6x6mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_SMD_6x6mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSWITCHTACTILESM6X6|
-|Name|name|digikey-footprints : Switch_Tactile_SMD_6x6mm|
+|name|name|digikey-footprints : Switch_Tactile_SMD_6x6mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Switch_Tactile_SMD_6x6mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Tactile_SMD_6x6mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Switch_Tactile_SMD_6x6mm/kicadPcb3d_450.png

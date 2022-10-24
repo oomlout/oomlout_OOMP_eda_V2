@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Altimeter_MS580314BA|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Altimeter_MS580314BA|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSALTIMETERMS58314BA|
-|Name|name|digikey-footprints : Altimeter_MS580314BA|
+|name|name|digikey-footprints : Altimeter_MS580314BA|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Altimeter_MS580314BA', 'description': 'http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5803-14BA&DocType=Data+Sheet&DocLang=English', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Altimeter_MS580314BA/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Altimeter_MS580314BA/kicadPcb3d_450.png

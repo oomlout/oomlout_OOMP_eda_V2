@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Term_Block_1x4_P5.08mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Term_Block_1x4_P5.08mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTERMBL1X4P58|
-|Name|name|digikey-footprints : Term_Block_1x4_P5.08mm|
+|name|name|digikey-footprints : Term_Block_1x4_P5.08mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Term_Block_1x4_P5.08mm', 'description': 'http://www.on-shore.com/wp-content/uploads/2015/09/osttcxx2162.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Term_Block_1x4_P5.08mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Term_Block_1x4_P5.08mm/kicadPcb3d_450.png

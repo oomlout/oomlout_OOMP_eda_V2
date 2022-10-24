@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-39-4|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-39-4|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTO394|
-|Name|name|digikey-footprints : TO-39-4|
+|name|name|digikey-footprints : TO-39-4|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-39-4', 'description': 'file:///C:/Users/alex_wegscheid/Downloads/MLX90614-Datasheet-Melexis%20(2).pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-39-4/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-39-4/kicadPcb3d_450.png

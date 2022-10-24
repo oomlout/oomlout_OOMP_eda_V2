@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Cellular_Modem_NL-SW-LTE-TSVG|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Cellular_Modem_NL-SW-LTE-TSVG|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCELLULARMODEMNLSWLTETSVG|
-|Name|name|digikey-footprints : Cellular_Modem_NL-SW-LTE-TSVG|
+|name|name|digikey-footprints : Cellular_Modem_NL-SW-LTE-TSVG|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Cellular_Modem_NL-SW-LTE-TSVG', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Cellular_Modem_NL-SW-LTE-TSVG/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Cellular_Modem_NL-SW-LTE-TSVG/kicadPcb3d_450.png

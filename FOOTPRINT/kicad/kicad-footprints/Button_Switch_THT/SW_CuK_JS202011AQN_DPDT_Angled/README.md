@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_CuK_JS202011AQN_DPDT_Angled|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_CuK_JS202011AQN_DPDT_Angled|
 |Hex ID (short code)|hexID|FZKBSWCUKJS2211AQNDPDTANGL|
-|Name|name|Button_Switch_THT : SW_CuK_JS202011AQN_DPDT_Angled|
+|name|name|Button_Switch_THT : SW_CuK_JS202011AQN_DPDT_Angled|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_CuK_JS202011AQN_DPDT_Angled', 'description': 'CuK sub miniature slide switch, JS series, DPDT, right angle, http://www.ckswitches.com/media/1422/js.pdf', 'tags': 'switch DPDT', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_CuK_JS202011AQN_DPDT_Angled.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CuK_JS202011AQN_DPDT_Angled/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CuK_JS202011AQN_DPDT_Angled/kicadPcb3d_450.png

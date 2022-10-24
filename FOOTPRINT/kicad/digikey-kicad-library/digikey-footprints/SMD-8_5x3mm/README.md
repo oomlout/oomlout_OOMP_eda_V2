@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SMD-8_5x3mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-8_5x3mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSM85X3|
-|Name|name|digikey-footprints : SMD-8_5x3mm|
+|name|name|digikey-footprints : SMD-8_5x3mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SMD-8_5x3mm', 'description': 'http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5607-02BA03&DocType=Data+Sheet&DocLang=English', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SMD-8_5x3mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SMD-8_5x3mm/kicadPcb3d_450.png

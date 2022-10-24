@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_SPST_TL3342|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_TL3342|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWSPSTTL3342|
-|Name|name|Button_Switch_SMD : SW_SPST_TL3342|
+|name|name|Button_Switch_SMD : SW_SPST_TL3342|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_SPST_TL3342', 'description': 'Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf', 'tags': 'SPST Tactile Switch', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_TL3342.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_TL3342/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_TL3342/kicadPcb3d_450.png

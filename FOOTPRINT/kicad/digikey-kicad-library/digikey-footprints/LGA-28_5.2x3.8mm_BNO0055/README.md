@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LGA-28_5.2x3.8mm_BNO0055|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-28_5.2x3.8mm_BNO0055|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLGA2852X38BNO55|
-|Name|name|digikey-footprints : LGA-28_5.2x3.8mm_BNO0055|
+|name|name|digikey-footprints : LGA-28_5.2x3.8mm_BNO0055|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LGA-28_5.2x3.8mm_BNO0055', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LGA-28_5.2x3.8mm_BNO0055/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LGA-28_5.2x3.8mm_BNO0055/kicadPcb3d_450.png

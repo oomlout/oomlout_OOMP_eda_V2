@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LGA-14_2x2mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-14_2x2mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLGA142X2|
-|Name|name|digikey-footprints : LGA-14_2x2mm|
+|name|name|digikey-footprints : LGA-14_2x2mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LGA-14_2x2mm', 'description': 'http://www.st.com/content/ccc/resource/technical/document/datasheet/c1/e1/62/31/d2/b1/4d/bb/DM00042751.pdf/files/DM00042751.pdf/jcr:content/translations/en.DM00042751.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LGA-14_2x2mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LGA-14_2x2mm/kicadPcb3d_450.png

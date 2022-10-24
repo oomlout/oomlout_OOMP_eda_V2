@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|BatteryHolder_Keystone_3009_1x2450|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_3009_1x2450|
 |Hex ID (short code)|hexID|FZKBATBATHOLDERKEYSTONE391X245|
-|Name|name|Battery : BatteryHolder_Keystone_3009_1x2450|
+|name|name|Battery : BatteryHolder_Keystone_3009_1x2450|
 |Footprint Kicad|footprintKicadDetails|{'name': 'BatteryHolder_Keystone_3009_1x2450', 'description': 'http://www.keyelco.com/product-pdf.cfm?p=787', 'tags': 'Keystone type 3009 coin cell retainer', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_3009_1x2450.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_3009_1x2450/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_3009_1x2450/kicadPcb3d_450.png

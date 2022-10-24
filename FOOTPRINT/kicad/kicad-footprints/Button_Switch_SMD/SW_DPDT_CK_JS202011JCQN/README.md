@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_DPDT_CK_JS202011JCQN|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DPDT_CK_JS202011JCQN|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWDPDTCKJS2211JCQN|
-|Name|name|Button_Switch_SMD : SW_DPDT_CK_JS202011JCQN|
+|name|name|Button_Switch_SMD : SW_DPDT_CK_JS202011JCQN|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_DPDT_CK_JS202011JCQN', 'description': 'Sub-miniature slide switch, vertical, SMT J bend https://dznh3ojzb2azq.cloudfront.net/products/Slide/JS/documents/datasheet.pdf', 'tags': 'switch DPDT SMT', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DPDT_CK_JS202011JCQN.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DPDT_CK_JS202011JCQN/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DPDT_CK_JS202011JCQN/kicadPcb3d_450.png

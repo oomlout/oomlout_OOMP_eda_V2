@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB-C_Rugged_RA_MUSBRM1C1M0|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Rugged_RA_MUSBRM1C1M0|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUCRUGGEDRAMURM1C1M|
-|Name|name|digikey-footprints : USB-C_Rugged_RA_MUSBRM1C1M0|
+|name|name|digikey-footprints : USB-C_Rugged_RA_MUSBRM1C1M0|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB-C_Rugged_RA_MUSBRM1C1M0', 'description': 'https://www.amphenolcanada.com/ProductSearch/Drawings/AC/MUSBRM1C1XX.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB-C_Rugged_RA_MUSBRM1C1M0/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB-C_Rugged_RA_MUSBRM1C1M0/kicadPcb3d_450.png

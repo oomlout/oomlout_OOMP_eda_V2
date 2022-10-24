@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|CP_Axial_L93.0mm_D35.0mm_P100.00mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L93.0mm_D35.0mm_P100.00mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCCPAXIALL93D35P1HORIZONTAL|
-|Name|name|Capacitor_THT : CP_Axial_L93.0mm_D35.0mm_P100.00mm_Horizontal|
+|name|name|Capacitor_THT : CP_Axial_L93.0mm_D35.0mm_P100.00mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CP_Axial_L93.0mm_D35.0mm_P100.00mm_Horizontal', 'description': 'CP, Axial series, Axial, Horizontal, pin pitch=100mm, , length*diameter=93*35.0mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/42037/53d.pdf', 'tags': 'CP Axial series Axial Horizontal pin pitch 100mm  length 93mm diameter 35.0mm Electrolytic Capacitor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Axial_L93.0mm_D35.0mm_P100.00mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L93.0mm_D35.0mm_P100.00mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L93.0mm_D35.0mm_P100.00mm_Horizontal/kicadPcb3d_450.png

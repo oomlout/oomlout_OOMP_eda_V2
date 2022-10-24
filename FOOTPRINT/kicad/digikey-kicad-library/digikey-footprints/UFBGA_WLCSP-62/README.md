@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|UFBGA_WLCSP-62|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UFBGA_WLCSP-62|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUFBGAWLCSP62|
-|Name|name|digikey-footprints : UFBGA_WLCSP-62|
+|name|name|digikey-footprints : UFBGA_WLCSP-62|
 |Footprint Kicad|footprintKicadDetails|{'name': 'UFBGA_WLCSP-62', 'description': 'https://www.nordicsemi.com/eng/nordic/download_resource/62726/14/67410332/13358', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/UFBGA_WLCSP-62/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/UFBGA_WLCSP-62/kicadPcb3d_450.png

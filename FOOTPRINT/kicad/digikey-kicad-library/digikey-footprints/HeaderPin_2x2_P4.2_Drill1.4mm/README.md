@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|HeaderPin_2x2_P4.2_Drill1.4mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-HeaderPin_2x2_P4.2_Drill1.4mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHEADERPIN2X2P42DRILL14|
-|Name|name|digikey-footprints : HeaderPin_2x2_P4.2_Drill1.4mm|
+|name|name|digikey-footprints : HeaderPin_2x2_P4.2_Drill1.4mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HeaderPin_2x2_P4.2_Drill1.4mm', 'description': 'http://www.molex.com/pdm_docs/sd/039281043_sd.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HeaderPin_2x2_P4.2_Drill1.4mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HeaderPin_2x2_P4.2_Drill1.4mm/kicadPcb3d_450.png

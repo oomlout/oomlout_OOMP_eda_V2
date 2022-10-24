@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DisplayPort_2040210-1|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DisplayPort_2040210-1|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDIPORT24211|
-|Name|name|digikey-footprints : DisplayPort_2040210-1|
+|name|name|digikey-footprints : DisplayPort_2040210-1|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DisplayPort_2040210-1', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DisplayPort_2040210-1/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DisplayPort_2040210-1/kicadPcb3d_450.png

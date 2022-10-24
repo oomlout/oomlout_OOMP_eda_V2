@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Wifi_Module_RN171|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Wifi_Module_RN171|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIFIMORN171|
-|Name|name|digikey-footprints : Wifi_Module_RN171|
+|name|name|digikey-footprints : Wifi_Module_RN171|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Wifi_Module_RN171', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Wifi_Module_RN171/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Wifi_Module_RN171/kicadPcb3d_450.png

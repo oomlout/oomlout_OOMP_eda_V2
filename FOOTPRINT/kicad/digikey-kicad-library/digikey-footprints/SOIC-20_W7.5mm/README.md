@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOIC-20_W7.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-20_W7.5mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC2W75|
-|Name|name|digikey-footprints : SOIC-20_W7.5mm|
+|name|name|digikey-footprints : SOIC-20_W7.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOIC-20_W7.5mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOIC-20_W7.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOIC-20_W7.5mm/kicadPcb3d_450.png

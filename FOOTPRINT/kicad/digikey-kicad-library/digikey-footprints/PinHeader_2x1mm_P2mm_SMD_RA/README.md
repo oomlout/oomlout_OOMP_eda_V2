@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PinHeader_2x1mm_P2mm_SMD_RA|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_2x1mm_P2mm_SMD_RA|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER2X1P2SMRA|
-|Name|name|digikey-footprints : PinHeader_2x1mm_P2mm_SMD_RA|
+|name|name|digikey-footprints : PinHeader_2x1mm_P2mm_SMD_RA|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PinHeader_2x1mm_P2mm_SMD_RA', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_2x1mm_P2mm_SMD_RA/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_2x1mm_P2mm_SMD_RA/kicadPcb3d_450.png

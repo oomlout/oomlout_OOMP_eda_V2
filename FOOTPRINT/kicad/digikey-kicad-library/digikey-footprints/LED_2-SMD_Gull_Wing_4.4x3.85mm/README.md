@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_2-SMD_Gull_Wing_4.4x3.85mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_2-SMD_Gull_Wing_4.4x3.85mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSL2SMGULLWING44X385|
-|Name|name|digikey-footprints : LED_2-SMD_Gull_Wing_4.4x3.85mm|
+|name|name|digikey-footprints : LED_2-SMD_Gull_Wing_4.4x3.85mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_2-SMD_Gull_Wing_4.4x3.85mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_2-SMD_Gull_Wing_4.4x3.85mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_2-SMD_Gull_Wing_4.4x3.85mm/kicadPcb3d_450.png

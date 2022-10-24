@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DIN41612_C_1x32_Male_Horizontal_THT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_DIN-DIN41612_C_1x32_Male_Horizontal_THT|
 |Hex ID (short code)|hexID|FZKCNDINDIN41612C1X32MALEHORIZONTALTHT|
-|Name|name|Connector_DIN : DIN41612_C_1x32_Male_Horizontal_THT|
+|name|name|Connector_DIN : DIN41612_C_1x32_Male_Horizontal_THT|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DIN41612_C_1x32_Male_Horizontal_THT', 'description': 'DIN41612 connector, type C, Horizontal, 3 rows 32 pins wide, https://www.erni-x-press.com/de/downloads/kataloge/englische_kataloge/erni-din41612-iec60603-2-e.pdf', 'tags': 'DIN 41612 IEC 60603 C', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_DIN.3dshapes/DIN41612_C_1x32_Male_Horizontal_THT.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_C_1x32_Male_Horizontal_THT/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_C_1x32_Male_Horizontal_THT/kicadPcb3d_450.png

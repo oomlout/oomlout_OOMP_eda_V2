@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|C_Axial_L19.0mm_D8.0mm_P25.00mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Axial_L19.0mm_D8.0mm_P25.00mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCCAXIALL19D8P25HORIZONTAL|
-|Name|name|Capacitor_THT : C_Axial_L19.0mm_D8.0mm_P25.00mm_Horizontal|
+|name|name|Capacitor_THT : C_Axial_L19.0mm_D8.0mm_P25.00mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'C_Axial_L19.0mm_D8.0mm_P25.00mm_Horizontal', 'description': 'C, Axial series, Axial, Horizontal, pin pitch=25mm, , length*diameter=19*8.0mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf', 'tags': 'C Axial series Axial Horizontal pin pitch 25mm  length 19mm diameter 8.0mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Axial_L19.0mm_D8.0mm_P25.00mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Axial_L19.0mm_D8.0mm_P25.00mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Axial_L19.0mm_D8.0mm_P25.00mm_Horizontal/kicadPcb3d_450.png

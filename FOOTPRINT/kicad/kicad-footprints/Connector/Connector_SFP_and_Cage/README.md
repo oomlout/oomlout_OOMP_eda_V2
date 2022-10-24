@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Connector_SFP_and_Cage|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector-Connector_SFP_and_Cage|
 |Hex ID (short code)|hexID|FZKCNCNSFPANDCAGE|
-|Name|name|Connector : Connector_SFP_and_Cage|
+|name|name|Connector : Connector_SFP_and_Cage|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Connector_SFP_and_Cage', 'description': 'https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2227302&DocType=Customer+Drawing&DocLang=English', 'tags': 'SFP+ SFP', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector.3dshapes/Connector_SFP_and_Cage.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector/Connector_SFP_and_Cage/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector/Connector_SFP_and_Cage/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|ICL_THT_P17.1mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-ICL_THT_P17.1mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSICLTHTP171|
-|Name|name|digikey-footprints : ICL_THT_P17.1mm|
+|name|name|digikey-footprints : ICL_THT_P17.1mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'ICL_THT_P17.1mm', 'description': 'https://www.ametherm.com/datasheets/as322r025', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/ICL_THT_P17.1mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/ICL_THT_P17.1mm/kicadPcb3d_450.png

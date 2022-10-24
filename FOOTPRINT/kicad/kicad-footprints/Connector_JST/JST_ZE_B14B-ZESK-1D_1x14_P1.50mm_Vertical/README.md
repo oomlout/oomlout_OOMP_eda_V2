@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|JST_ZE_B14B-ZESK-1D_1x14_P1.50mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_B14B-ZESK-1D_1x14_P1.50mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNJSTJSTZEB14BZESK1D1X14P15VERTICAL|
-|Name|name|Connector_JST : JST_ZE_B14B-ZESK-1D_1x14_P1.50mm_Vertical|
+|name|name|Connector_JST : JST_ZE_B14B-ZESK-1D_1x14_P1.50mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'JST_ZE_B14B-ZESK-1D_1x14_P1.50mm_Vertical', 'description': 'JST ZE series connector, B14B-ZESK-1D, with boss (http://www.jst-mfg.com/product/pdf/eng/eZE.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST ZE side entry boss', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_ZE_B14B-ZESK-1D_1x14_P1.50mm_Vertical.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_ZE_B14B-ZESK-1D_1x14_P1.50mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_ZE_B14B-ZESK-1D_1x14_P1.50mm_Vertical/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Test-Point-Pin_Drill2.79mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Test-Point-Pin_Drill2.79mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTESTPOINTPINDRILL279|
-|Name|name|digikey-footprints : Test-Point-Pin_Drill2.79mm|
+|name|name|digikey-footprints : Test-Point-Pin_Drill2.79mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Test-Point-Pin_Drill2.79mm', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Test-Point-Pin_Drill2.79mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Test-Point-Pin_Drill2.79mm/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DIP-10_W10.16mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DIP-10_W10.16mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDIP1W116|
-|Name|name|digikey-footprints : DIP-10_W10.16mm|
+|name|name|digikey-footprints : DIP-10_W10.16mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DIP-10_W10.16mm', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DIP-10_W10.16mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DIP-10_W10.16mm/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|JST_EH_S3B-EH_1x03_P2.50mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_EH_S3B-EH_1x03_P2.50mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNJSTJSTEHS3BEH1X3P25HORIZONTAL|
-|Name|name|Connector_JST : JST_EH_S3B-EH_1x03_P2.50mm_Horizontal|
+|name|name|Connector_JST : JST_EH_S3B-EH_1x03_P2.50mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'JST_EH_S3B-EH_1x03_P2.50mm_Horizontal', 'description': 'JST EH series connector, S3B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST EH horizontal', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_EH_S3B-EH_1x03_P2.50mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_EH_S3B-EH_1x03_P2.50mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_EH_S3B-EH_1x03_P2.50mm_Horizontal/kicadPcb3d_450.png

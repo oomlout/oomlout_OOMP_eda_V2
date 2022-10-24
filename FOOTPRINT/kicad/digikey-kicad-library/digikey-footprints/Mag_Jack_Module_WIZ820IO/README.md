@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Mag_Jack_Module_WIZ820IO|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Mag_Jack_Module_WIZ820IO|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMAGJMOWIZ82IO|
-|Name|name|digikey-footprints : Mag_Jack_Module_WIZ820IO|
+|name|name|digikey-footprints : Mag_Jack_Module_WIZ820IO|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Mag_Jack_Module_WIZ820IO', 'description': 'http://wiznethome.cafe24.com/wp-content/uploads/wiznethome/Network%20Module/WIZ820io/Document/WIZ820io_User_Manual_V1.0.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Mag_Jack_Module_WIZ820IO/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Mag_Jack_Module_WIZ820IO/kicadPcb3d_450.png

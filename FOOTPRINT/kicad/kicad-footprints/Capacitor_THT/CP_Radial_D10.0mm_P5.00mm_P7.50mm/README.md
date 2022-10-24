@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|CP_Radial_D10.0mm_P5.00mm_P7.50mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_D10.0mm_P5.00mm_P7.50mm|
 |Hex ID (short code)|hexID|FZKCCPRD1P5P75|
-|Name|name|Capacitor_THT : CP_Radial_D10.0mm_P5.00mm_P7.50mm|
+|name|name|Capacitor_THT : CP_Radial_D10.0mm_P5.00mm_P7.50mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CP_Radial_D10.0mm_P5.00mm_P7.50mm', 'description': 'CP, Radial series, Radial, pin pitch=5.00mm 7.50mm, , diameter=10mm, Electrolytic Capacitor', 'tags': 'CP Radial series Radial pin pitch 5.00mm 7.50mm  diameter 10mm Electrolytic Capacitor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D10.0mm_P5.00mm_P7.50mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Radial_D10.0mm_P5.00mm_P7.50mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Radial_D10.0mm_P5.00mm_P7.50mm/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-269AA|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-269AA|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTO269AA|
-|Name|name|digikey-footprints : TO-269AA|
+|name|name|digikey-footprints : TO-269AA|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-269AA', 'description': 'http://www.mccsemi.com/up_pdf/MB05S-MB10S(MBS-1).pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-269AA/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-269AA/kicadPcb3d_450.png

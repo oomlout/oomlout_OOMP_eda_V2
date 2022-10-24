@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Jumper_Micro-Miniature_P5.31mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Jumper_Micro-Miniature_P5.31mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSJMMATUREP531|
-|Name|name|digikey-footprints : Jumper_Micro-Miniature_P5.31mm|
+|name|name|digikey-footprints : Jumper_Micro-Miniature_P5.31mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Jumper_Micro-Miniature_P5.31mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Jumper_Micro-Miniature_P5.31mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Jumper_Micro-Miniature_P5.31mm/kicadPcb3d_450.png

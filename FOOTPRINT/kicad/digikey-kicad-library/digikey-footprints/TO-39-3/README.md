@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-39-3|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-39-3|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTO393|
-|Name|name|digikey-footprints : TO-39-3|
+|name|name|digikey-footprints : TO-39-3|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-39-3', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-39-3/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-39-3/kicadPcb3d_450.png

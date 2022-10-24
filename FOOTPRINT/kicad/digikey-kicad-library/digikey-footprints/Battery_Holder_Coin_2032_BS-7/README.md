@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Battery_Holder_Coin_2032_BS-7|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Battery_Holder_Coin_2032_BS-7|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBATHOLDERCOIN232BS7|
-|Name|name|digikey-footprints : Battery_Holder_Coin_2032_BS-7|
+|name|name|digikey-footprints : Battery_Holder_Coin_2032_BS-7|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Battery_Holder_Coin_2032_BS-7', 'description': 'http://www.memoryprotectiondevices.com/datasheets/BS-7-datasheet.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Battery_Holder_Coin_2032_BS-7/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Battery_Holder_Coin_2032_BS-7/kicadPcb3d_450.png

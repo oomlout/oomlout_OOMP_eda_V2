@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB-C_Female_E8124-015-01|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Female_E8124-015-01|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUCFEMALEE8124151|
-|Name|name|digikey-footprints : USB-C_Female_E8124-015-01|
+|name|name|digikey-footprints : USB-C_Female_E8124-015-01|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB-C_Female_E8124-015-01', 'description': 'https://www.digikey.com/product-detail/en/pulse-electronics-network/E8124-015-01/553-3195-2-ND/5800435', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB-C_Female_E8124-015-01/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB-C_Female_E8124-015-01/kicadPcb3d_450.png

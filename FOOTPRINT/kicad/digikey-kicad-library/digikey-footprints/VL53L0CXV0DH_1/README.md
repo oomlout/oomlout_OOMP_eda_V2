@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|VL53L0CXV0DH_1|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VL53L0CXV0DH_1|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVL53LCXVDH1|
-|Name|name|digikey-footprints : VL53L0CXV0DH_1|
+|name|name|digikey-footprints : VL53L0CXV0DH_1|
 |Footprint Kicad|footprintKicadDetails|{'name': 'VL53L0CXV0DH_1', 'description': 'http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/b2/1e/33/77/c6/92/47/6b/DM00279086/files/DM00279086.pdf/jcr:content/translations/en.DM00279086.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VL53L0CXV0DH_1/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VL53L0CXV0DH_1/kicadPcb3d_450.png

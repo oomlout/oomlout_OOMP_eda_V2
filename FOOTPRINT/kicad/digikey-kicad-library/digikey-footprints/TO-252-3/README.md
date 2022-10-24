@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-252-3|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-252-3|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTO2523|
-|Name|name|digikey-footprints : TO-252-3|
+|name|name|digikey-footprints : TO-252-3|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-252-3', 'description': 'http://www.digikey.com/products/en?keywords=MC7805BDTRKGOSCT-ND', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-252-3/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-252-3/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Cellular_Modem_NL-SW-EVDO-V|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Cellular_Modem_NL-SW-EVDO-V|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCELLULARMODEMNLSWEVDOV|
-|Name|name|digikey-footprints : Cellular_Modem_NL-SW-EVDO-V|
+|name|name|digikey-footprints : Cellular_Modem_NL-SW-EVDO-V|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Cellular_Modem_NL-SW-EVDO-V', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Cellular_Modem_NL-SW-EVDO-V/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Cellular_Modem_NL-SW-EVDO-V/kicadPcb3d_450.png

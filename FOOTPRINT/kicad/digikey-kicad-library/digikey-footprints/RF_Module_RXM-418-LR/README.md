@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|RF_Module_RXM-418-LR|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_RXM-418-LR|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMORXM418LR|
-|Name|name|digikey-footprints : RF_Module_RXM-418-LR|
+|name|name|digikey-footprints : RF_Module_RXM-418-LR|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RF_Module_RXM-418-LR', 'description': 'https://www.linxtechnologies.com/wp/wp-content/uploads/rxm-fff-lr.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_Module_RXM-418-LR/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_Module_RXM-418-LR/kicadPcb3d_450.png

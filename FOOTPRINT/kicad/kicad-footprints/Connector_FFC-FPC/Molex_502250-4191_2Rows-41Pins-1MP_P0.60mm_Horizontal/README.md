@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Molex_502250-4191_2Rows-41Pins-1MP_P0.60mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Molex_502250-4191_2Rows-41Pins-1MP_P0.60mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNFFCFPCMX522541912ROWS41PINS1MPP6HORIZONTAL|
-|Name|name|Connector_FFC-FPC : Molex_502250-4191_2Rows-41Pins-1MP_P0.60mm_Horizontal|
+|name|name|Connector_FFC-FPC : Molex_502250-4191_2Rows-41Pins-1MP_P0.60mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Molex_502250-4191_2Rows-41Pins-1MP_P0.60mm_Horizontal', 'description': 'Molex Molex 0.30mm Pitch Easy-On BackFlip Type FFC/FPC, 502250-4191, 41 Circuits (http://www.molex.com/pdm_docs/sd/5022504191_sd.pdf), generated with kicad-footprint-generator', 'tags': 'connector Molex  top entry', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Molex_502250-4191_2Rows-41Pins-1MP_P0.60mm_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Molex_502250-4191_2Rows-41Pins-1MP_P0.60mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Molex_502250-4191_2Rows-41Pins-1MP_P0.60mm_Horizontal/kicadPcb3d_450.png

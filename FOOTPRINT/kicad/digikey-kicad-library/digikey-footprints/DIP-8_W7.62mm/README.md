@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DIP-8_W7.62mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DIP-8_W7.62mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDIP8W762|
-|Name|name|digikey-footprints : DIP-8_W7.62mm|
+|name|name|digikey-footprints : DIP-8_W7.62mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DIP-8_W7.62mm', 'description': 'http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/6N137%20Series.pdf', 'tags': None, 'attributeType': None, 'threeDModel': '${KISYS3DMOD}/Housings_DIP.3dshapes/DIP-8_W7.62mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DIP-8_W7.62mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DIP-8_W7.62mm/kicadPcb3d_450.png

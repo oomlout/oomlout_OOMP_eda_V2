@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|BatteryHolder_Keystone_1060_1x2032|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_1060_1x2032|
 |Hex ID (short code)|hexID|FZKBATBATHOLDERKEYSTONE161X232|
-|Name|name|Battery : BatteryHolder_Keystone_1060_1x2032|
+|name|name|Battery : BatteryHolder_Keystone_1060_1x2032|
 |Footprint Kicad|footprintKicadDetails|{'name': 'BatteryHolder_Keystone_1060_1x2032', 'description': 'http://www.keyelco.com/product-pdf.cfm?p=726', 'tags': 'CR2032 BR2032 BatteryHolder Battery', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_1060_1x2032.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_1060_1x2032/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_1060_1x2032/kicadPcb3d_450.png

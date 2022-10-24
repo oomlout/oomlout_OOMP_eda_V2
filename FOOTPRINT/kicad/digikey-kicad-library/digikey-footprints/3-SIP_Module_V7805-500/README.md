@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|3-SIP_Module_V7805-500|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-3-SIP_Module_V7805-500|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS3SIPMOV7855|
-|Name|name|digikey-footprints : 3-SIP_Module_V7805-500|
+|name|name|digikey-footprints : 3-SIP_Module_V7805-500|
 |Footprint Kicad|footprintKicadDetails|{'name': '3-SIP_Module_V7805-500', 'description': 'http://www.cui.com/product/resource/v78-500.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/3-SIP_Module_V7805-500/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/3-SIP_Module_V7805-500/kicadPcb3d_450.png

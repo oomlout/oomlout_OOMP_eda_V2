@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_2-SMD_No_Lead_1.7x0.8mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_2-SMD_No_Lead_1.7x0.8mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSL2SMNOLEAD17X8|
-|Name|name|digikey-footprints : LED_2-SMD_No_Lead_1.7x0.8mm|
+|name|name|digikey-footprints : LED_2-SMD_No_Lead_1.7x0.8mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_2-SMD_No_Lead_1.7x0.8mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_2-SMD_No_Lead_1.7x0.8mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LED_2-SMD_No_Lead_1.7x0.8mm/kicadPcb3d_450.png

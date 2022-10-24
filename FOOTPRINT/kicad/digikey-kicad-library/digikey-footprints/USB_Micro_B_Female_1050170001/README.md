@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB_Micro_B_Female_1050170001|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_B_Female_1050170001|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBFEMALE15171|
-|Name|name|digikey-footprints : USB_Micro_B_Female_1050170001|
+|name|name|digikey-footprints : USB_Micro_B_Female_1050170001|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB_Micro_B_Female_1050170001', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Female_1050170001/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Female_1050170001/kicadPcb3d_450.png

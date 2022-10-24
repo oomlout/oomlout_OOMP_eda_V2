@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Ethernet_Jack_54602-908LF|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Ethernet_Jack_54602-908LF|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSETHERNETJ546298LF|
-|Name|name|digikey-footprints : Ethernet_Jack_54602-908LF|
+|name|name|digikey-footprints : Ethernet_Jack_54602-908LF|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Ethernet_Jack_54602-908LF', 'description': 'http://portal.fciconnect.com/Comergent//fci/drawing/c-bmj-0102.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Ethernet_Jack_54602-908LF/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Ethernet_Jack_54602-908LF/kicadPcb3d_450.png

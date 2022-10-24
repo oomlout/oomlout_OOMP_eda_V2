@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-225AA|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-225AA|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTO225AA|
-|Name|name|digikey-footprints : TO-225AA|
+|name|name|digikey-footprints : TO-225AA|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-225AA', 'description': 'https://www.fairchildsemi.com/datasheets/KS/KSA1220A.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-225AA/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-225AA/kicadPcb3d_450.png

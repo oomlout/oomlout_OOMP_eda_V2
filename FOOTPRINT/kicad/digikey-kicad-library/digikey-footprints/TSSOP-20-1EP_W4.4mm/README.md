@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TSSOP-20-1EP_W4.4mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TSSOP-20-1EP_W4.4mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTSS21EPW44|
-|Name|name|digikey-footprints : TSSOP-20-1EP_W4.4mm|
+|name|name|digikey-footprints : TSSOP-20-1EP_W4.4mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TSSOP-20-1EP_W4.4mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TSSOP-20-1EP_W4.4mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TSSOP-20-1EP_W4.4mm/kicadPcb3d_450.png

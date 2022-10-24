@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LGA-12_9x9mm_LSM303C|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-12_9x9mm_LSM303C|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLGA129X9LSM33C|
-|Name|name|digikey-footprints : LGA-12_9x9mm_LSM303C|
+|name|name|digikey-footprints : LGA-12_9x9mm_LSM303C|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LGA-12_9x9mm_LSM303C', 'description': 'http://www.st.com/content/ccc/resource/technical/document/datasheet/59/aa/fb/3b/85/9e/4e/0a/DM00089896.pdf/files/DM00089896.pdf/jcr:content/translations/en.DM00089896.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LGA-12_9x9mm_LSM303C/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LGA-12_9x9mm_LSM303C/kicadPcb3d_450.png

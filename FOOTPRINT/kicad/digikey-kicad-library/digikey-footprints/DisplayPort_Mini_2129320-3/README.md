@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DisplayPort_Mini_2129320-3|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DisplayPort_Mini_2129320-3|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDIPORTM2129323|
-|Name|name|digikey-footprints : DisplayPort_Mini_2129320-3|
+|name|name|digikey-footprints : DisplayPort_Mini_2129320-3|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DisplayPort_Mini_2129320-3', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DisplayPort_Mini_2129320-3/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DisplayPort_Mini_2129320-3/kicadPcb3d_450.png

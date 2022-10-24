@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SMD-2_3.2x2.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-2_3.2x2.5mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSM232X25|
-|Name|name|digikey-footprints : SMD-2_3.2x2.5mm|
+|name|name|digikey-footprints : SMD-2_3.2x2.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SMD-2_3.2x2.5mm', 'description': 'http://www.ndk.com/images/products/catalog/c_NX3225GD-STD-CRA-3_e.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SMD-2_3.2x2.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SMD-2_3.2x2.5mm/kicadPcb3d_450.png

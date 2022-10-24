@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|C_Radial_D4.0mm_H5.0mm_P1.50mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Radial_D4.0mm_H5.0mm_P1.50mm|
 |Hex ID (short code)|hexID|FZKCCRD4H5P15|
-|Name|name|Capacitor_THT : C_Radial_D4.0mm_H5.0mm_P1.50mm|
+|name|name|Capacitor_THT : C_Radial_D4.0mm_H5.0mm_P1.50mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'C_Radial_D4.0mm_H5.0mm_P1.50mm', 'description': 'C, Radial series, Radial, pin pitch=1.50mm, diameter=4mm, height=5mm, Non-Polar Electrolytic Capacitor', 'tags': 'C Radial series Radial pin pitch 1.50mm diameter 4mm height 5mm Non-Polar Electrolytic Capacitor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Radial_D4.0mm_H5.0mm_P1.50mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Radial_D4.0mm_H5.0mm_P1.50mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Radial_D4.0mm_H5.0mm_P1.50mm/kicadPcb3d_450.png

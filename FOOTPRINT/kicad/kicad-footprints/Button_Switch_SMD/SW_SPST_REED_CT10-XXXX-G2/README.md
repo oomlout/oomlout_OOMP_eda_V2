@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_SPST_REED_CT10-XXXX-G2|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_REED_CT10-XXXX-G2|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWSPSTREEDCT1XXXXG2|
-|Name|name|Button_Switch_SMD : SW_SPST_REED_CT10-XXXX-G2|
+|name|name|Button_Switch_SMD : SW_SPST_REED_CT10-XXXX-G2|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_SPST_REED_CT10-XXXX-G2', 'description': 'Coto Technologies SPST Reed Switch CT10-XXXX-G2', 'tags': 'Coto Reed SPST Switch', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_REED_CT10-XXXX-G2.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_REED_CT10-XXXX-G2/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_REED_CT10-XXXX-G2/kicadPcb3d_450.png

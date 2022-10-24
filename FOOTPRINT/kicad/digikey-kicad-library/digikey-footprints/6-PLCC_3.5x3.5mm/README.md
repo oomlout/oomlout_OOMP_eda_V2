@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|6-PLCC_3.5x3.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-6-PLCC_3.5x3.5mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS6PLCC35X35|
-|Name|name|digikey-footprints : 6-PLCC_3.5x3.5mm|
+|name|name|digikey-footprints : 6-PLCC_3.5x3.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': '6-PLCC_3.5x3.5mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/6-PLCC_3.5x3.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/6-PLCC_3.5x3.5mm/kicadPcb3d_450.png

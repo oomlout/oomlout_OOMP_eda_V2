@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Jack_6.35mm_Neutrik_NSJ12HH-1_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NSJ12HH-1_Horizontal|
 |Hex ID (short code)|hexID|FZKCNAUDIOJ635NEUTRIKNSJ12HH1HORIZONTAL|
-|Name|name|Connector_Audio : Jack_6.35mm_Neutrik_NSJ12HH-1_Horizontal|
+|name|name|Connector_Audio : Jack_6.35mm_Neutrik_NSJ12HH-1_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Jack_6.35mm_Neutrik_NSJ12HH-1_Horizontal', 'description': 'Stacking Jacks, Stereo dual jack, half threaded nose, https://www.neutrik.com/en/product/nsj12hh-1', 'tags': 'neutrik jack stacking', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_6.35mm_Neutrik_NSJ12HH-1_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NSJ12HH-1_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NSJ12HH-1_Horizontal/kicadPcb3d_450.png

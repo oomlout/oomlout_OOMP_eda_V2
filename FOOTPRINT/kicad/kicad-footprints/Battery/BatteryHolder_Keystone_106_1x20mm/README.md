@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|BatteryHolder_Keystone_106_1x20mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_106_1x20mm|
 |Hex ID (short code)|hexID|FZKBATBATHOLDERKEYSTONE161X2|
-|Name|name|Battery : BatteryHolder_Keystone_106_1x20mm|
+|name|name|Battery : BatteryHolder_Keystone_106_1x20mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'BatteryHolder_Keystone_106_1x20mm', 'description': 'http://www.keyelco.com/product-pdf.cfm?p=720', 'tags': 'Keystone type 106 battery holder', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_106_1x20mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_106_1x20mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_106_1x20mm/kicadPcb3d_450.png

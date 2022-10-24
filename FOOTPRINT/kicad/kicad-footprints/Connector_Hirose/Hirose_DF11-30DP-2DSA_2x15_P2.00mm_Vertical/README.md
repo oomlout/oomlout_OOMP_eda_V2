@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Hirose_DF11-30DP-2DSA_2x15_P2.00mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF11-30DP-2DSA_2x15_P2.00mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNHIROSEHIROSEDF113DP2DSA2X15P2VERTICAL|
-|Name|name|Connector_Hirose : Hirose_DF11-30DP-2DSA_2x15_P2.00mm_Vertical|
+|name|name|Connector_Hirose : Hirose_DF11-30DP-2DSA_2x15_P2.00mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Hirose_DF11-30DP-2DSA_2x15_P2.00mm_Vertical', 'description': 'Hirose DF11 through hole, DF11-30DP-2DSA, 15 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator', 'tags': 'connector Hirose DF11 vertical', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Hirose.3dshapes/Hirose_DF11-30DP-2DSA_2x15_P2.00mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF11-30DP-2DSA_2x15_P2.00mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF11-30DP-2DSA_2x15_P2.00mm_Vertical/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB_Mini_B_Female_UJ2-MBH-1-SMT-TR|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Mini_B_Female_UJ2-MBH-1-SMT-TR|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBFEMALEUJ2MBH1STR|
-|Name|name|digikey-footprints : USB_Mini_B_Female_UJ2-MBH-1-SMT-TR|
+|name|name|digikey-footprints : USB_Mini_B_Female_UJ2-MBH-1-SMT-TR|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB_Mini_B_Female_UJ2-MBH-1-SMT-TR', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Mini_B_Female_UJ2-MBH-1-SMT-TR/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Mini_B_Female_UJ2-MBH-1-SMT-TR/kicadPcb3d_450.png

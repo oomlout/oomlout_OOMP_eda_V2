@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|WQFN-16-1EP_4x4mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WQFN-16-1EP_4x4mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWQFN161EP4X4|
-|Name|name|digikey-footprints : WQFN-16-1EP_4x4mm|
+|name|name|digikey-footprints : WQFN-16-1EP_4x4mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'WQFN-16-1EP_4x4mm', 'description': 'http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT230X.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WQFN-16-1EP_4x4mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WQFN-16-1EP_4x4mm/kicadPcb3d_450.png

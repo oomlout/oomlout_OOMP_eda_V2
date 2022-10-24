@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LGA-8_2x2.5mm_BMP280|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-8_2x2.5mm_BMP280|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLGA82X25BMP28|
-|Name|name|digikey-footprints : LGA-8_2x2.5mm_BMP280|
+|name|name|digikey-footprints : LGA-8_2x2.5mm_BMP280|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LGA-8_2x2.5mm_BMP280', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LGA-8_2x2.5mm_BMP280/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LGA-8_2x2.5mm_BMP280/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|CP_EIA-7361-438_AVX-U|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7361-438_AVX-U|
 |Hex ID (short code)|hexID|FZKCAPACITORTANTALUMSMCPEIA7361438AVXU|
-|Name|name|Capacitor_Tantalum_SMD : CP_EIA-7361-438_AVX-U|
+|name|name|Capacitor_Tantalum_SMD : CP_EIA-7361-438_AVX-U|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CP_EIA-7361-438_AVX-U', 'description': 'Tantalum Capacitor SMD AVX-U (7361-438 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/NOS.pdf), generated with kicad-footprint-generator', 'tags': 'capacitor tantalum', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-7361-438_AVX-U.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-7361-438_AVX-U/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-7361-438_AVX-U/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|GB042-34S-H10|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector-GB042-34S-H10|
 |Hex ID (short code)|hexID|FZKCNGB4234SH1|
-|Name|name|Connector : GB042-34S-H10|
+|name|name|Connector : GB042-34S-H10|
 |Footprint Kicad|footprintKicadDetails|{'name': 'GB042-34S-H10', 'description': 'http://www.lsmtron.com/pdf/Connector&Antenna_catalog.PDF', 'tags': '34pin SMD connector ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector.3dshapes/GB042-34S-H10.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector/GB042-34S-H10/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector/GB042-34S-H10/kicadPcb3d_450.png

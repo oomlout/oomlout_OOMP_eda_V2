@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|U.FL_Hirose_U.FL-R-SMT-1_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-U.FL_Hirose_U.FL-R-SMT-1_Vertical|
 |Hex ID (short code)|hexID|FZKCNCOAUFLHIROSEUFLRS1VERTICAL|
-|Name|name|Connector_Coaxial : U.FL_Hirose_U.FL-R-SMT-1_Vertical|
+|name|name|Connector_Coaxial : U.FL_Hirose_U.FL-R-SMT-1_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'U.FL_Hirose_U.FL-R-SMT-1_Vertical', 'description': 'Hirose U.FL Coaxial https://www.hirose.com/product/en/products/U.FL/U.FL-R-SMT-1%2810%29/', 'tags': 'Hirose U.FL Coaxial', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/U.FL_Hirose_U.FL-R-SMT-1_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/U.FL_Hirose_U.FL-R-SMT-1_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/U.FL_Hirose_U.FL-R-SMT-1_Vertical/kicadPcb3d_450.png

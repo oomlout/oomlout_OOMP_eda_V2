@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|JST_SH_SM08B-SRSS-TB_1x08-1MP_P1.00mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_SM08B-SRSS-TB_1x08-1MP_P1.00mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNJSTJSTSHSM8BSRSSTB1X81MPP1HORIZONTAL|
-|Name|name|Connector_JST : JST_SH_SM08B-SRSS-TB_1x08-1MP_P1.00mm_Horizontal|
+|name|name|Connector_JST : JST_SH_SM08B-SRSS-TB_1x08-1MP_P1.00mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'JST_SH_SM08B-SRSS-TB_1x08-1MP_P1.00mm_Horizontal', 'description': 'JST SH series connector, SM08B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST SH top entry', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_SH_SM08B-SRSS-TB_1x08-1MP_P1.00mm_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_SM08B-SRSS-TB_1x08-1MP_P1.00mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_SM08B-SRSS-TB_1x08-1MP_P1.00mm_Horizontal/kicadPcb3d_450.png

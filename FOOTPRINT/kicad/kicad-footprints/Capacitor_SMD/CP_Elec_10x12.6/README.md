@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|CP_Elec_10x12.6|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_10x12.6|
 |Hex ID (short code)|hexID|FZKCAPACITORSMCPELEC1X126|
-|Name|name|Capacitor_SMD : CP_Elec_10x12.6|
+|name|name|Capacitor_SMD : CP_Elec_10x12.6|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CP_Elec_10x12.6', 'description': 'SMD capacitor, aluminum electrolytic, Panasonic F12, 10.0x12.6mm', 'tags': 'capacitor electrolytic', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_10x12.6.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_10x12.6/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_10x12.6/kicadPcb3d_450.png

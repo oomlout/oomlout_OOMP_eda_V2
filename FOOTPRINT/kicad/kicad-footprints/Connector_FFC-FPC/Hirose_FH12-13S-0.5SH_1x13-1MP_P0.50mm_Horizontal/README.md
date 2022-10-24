@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Hirose_FH12-13S-0.5SH_1x13-1MP_P0.50mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Hirose_FH12-13S-0.5SH_1x13-1MP_P0.50mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNFFCFPCHIROSEFH1213S5SH1X131MPP5HORIZONTAL|
-|Name|name|Connector_FFC-FPC : Hirose_FH12-13S-0.5SH_1x13-1MP_P0.50mm_Horizontal|
+|name|name|Connector_FFC-FPC : Hirose_FH12-13S-0.5SH_1x13-1MP_P0.50mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Hirose_FH12-13S-0.5SH_1x13-1MP_P0.50mm_Horizontal', 'description': 'Hirose FH12, FFC/FPC connector, FH12-13S-0.5SH, 13 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator', 'tags': 'connector Hirose FH12 horizontal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Hirose_FH12-13S-0.5SH_1x13-1MP_P0.50mm_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH12-13S-0.5SH_1x13-1MP_P0.50mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH12-13S-0.5SH_1x13-1MP_P0.50mm_Horizontal/kicadPcb3d_450.png

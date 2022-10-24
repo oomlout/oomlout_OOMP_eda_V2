@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_PUSH_6mm_H9.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH_6mm_H9.5mm|
 |Hex ID (short code)|hexID|FZKBSWPUSH6H95|
-|Name|name|Button_Switch_THT : SW_PUSH_6mm_H9.5mm|
+|name|name|Button_Switch_THT : SW_PUSH_6mm_H9.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_PUSH_6mm_H9.5mm', 'description': 'tactile push button, 6x6mm e.g. PHAP33xx series, height=9.5mm', 'tags': 'tact sw push 6mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H9.5mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH_6mm_H9.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH_6mm_H9.5mm/kicadPcb3d_450.png

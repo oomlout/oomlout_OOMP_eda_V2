@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_Push_1P1T_NO_CK_KMR2|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T_NO_CK_KMR2|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWPUSH1P1TNOCKKMR2|
-|Name|name|Button_Switch_SMD : SW_Push_1P1T_NO_CK_KMR2|
+|name|name|Button_Switch_SMD : SW_Push_1P1T_NO_CK_KMR2|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_Push_1P1T_NO_CK_KMR2', 'description': 'CK components KMR2 tactile switch http://www.ckswitches.com/media/1479/kmr2.pdf', 'tags': 'tactile switch kmr2', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_NO_CK_KMR2.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_CK_KMR2/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_CK_KMR2/kicadPcb3d_450.png

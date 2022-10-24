@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MSOP-12-1EP_W3mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-MSOP-12-1EP_W3mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMS121EPW3|
-|Name|name|digikey-footprints : MSOP-12-1EP_W3mm|
+|name|name|digikey-footprints : MSOP-12-1EP_W3mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MSOP-12-1EP_W3mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/MSOP-12-1EP_W3mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/MSOP-12-1EP_W3mm/kicadPcb3d_450.png

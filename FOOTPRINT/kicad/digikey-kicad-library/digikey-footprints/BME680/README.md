@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|BME680|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-BME680|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBME68|
-|Name|name|digikey-footprints : BME680|
+|name|name|digikey-footprints : BME680|
 |Footprint Kicad|footprintKicadDetails|{'name': 'BME680', 'description': 'https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME680-DS001-00.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/BME680/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/BME680/kicadPcb3d_450.png

@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|0603|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-0603|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS63|
-|Name|name|digikey-footprints : 0603|
+|name|name|digikey-footprints : 0603|
 |Footprint Kicad|footprintKicadDetails|{'name': '603', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

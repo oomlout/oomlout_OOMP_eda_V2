@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOT-3|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-3|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT3|
-|Name|name|digikey-footprints : SOT-3|
+|name|name|digikey-footprints : SOT-3|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOT-3', 'description': 'http://www.ti.com/lit/ds/symlink/tpd2eusb30.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOT-3/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOT-3/kicadPcb3d_450.png

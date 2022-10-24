@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Humidity_SHT15|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Humidity_SHT15|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHUMIDITYSHT15|
-|Name|name|digikey-footprints : Humidity_SHT15|
+|name|name|digikey-footprints : Humidity_SHT15|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Humidity_SHT15', 'description': 'https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/2_Humidity_Sensors/Sensirion_Humidity_Sensors_SHT1x_Datasheet_V5.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Humidity_SHT15/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Humidity_SHT15/kicadPcb3d_450.png

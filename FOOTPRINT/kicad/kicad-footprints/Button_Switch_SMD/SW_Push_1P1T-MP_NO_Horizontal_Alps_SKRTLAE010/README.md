@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWPUSH1P1TMPNOHORIZONTALALPSSKRTLAE1|
-|Name|name|Button_Switch_SMD : SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010|
+|name|name|Button_Switch_SMD : SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010', 'description': 'Side push button (https://www.alps.com/prod/info/E/PDF/Tact/SurfaceMount/SKRT/SKRT.pdf)', 'tags': 'push horizontal SPST 1P1T', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Indicator_PUI_AI-1440-TWT-24V-2-R|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Indicator_PUI_AI-1440-TWT-24V-2-R|
 |Hex ID (short code)|hexID|FZKBZINDICATORPUIAI144TWT24V2R|
-|Name|name|Buzzer_Beeper : Indicator_PUI_AI-1440-TWT-24V-2-R|
+|name|name|Buzzer_Beeper : Indicator_PUI_AI-1440-TWT-24V-2-R|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Indicator_PUI_AI-1440-TWT-24V-2-R', 'description': '14mm Indicator, https://www.puiaudio.com/media/SpecSheet/AI-1440-TWT-24V-2-R.pdf', 'tags': 'piezo buzzer self drive oscillator', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/Indicator_PUI_AI-1440-TWT-24V-2-R.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Indicator_PUI_AI-1440-TWT-24V-2-R/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Indicator_PUI_AI-1440-TWT-24V-2-R/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOP-4_W3.81mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOP-4_W3.81mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSS4W381|
-|Name|name|digikey-footprints : SOP-4_W3.81mm|
+|name|name|digikey-footprints : SOP-4_W3.81mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOP-4_W3.81mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOP-4_W3.81mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOP-4_W3.81mm/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBMALEUJ2MIBH4STR|
-|Name|name|digikey-footprints : USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR|
+|name|name|digikey-footprints : USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/kicadPcb3d_450.png

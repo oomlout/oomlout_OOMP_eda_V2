@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Bluetooth_Module_RN4677-VRM100|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RN4677-VRM100|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORN4677VRM1|
-|Name|name|digikey-footprints : Bluetooth_Module_RN4677-VRM100|
+|name|name|digikey-footprints : Bluetooth_Module_RN4677-VRM100|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Bluetooth_Module_RN4677-VRM100', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_RN4677-VRM100/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_RN4677-VRM100/kicadPcb3d_450.png

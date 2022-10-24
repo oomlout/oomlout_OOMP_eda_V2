@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SMD-4_3.3x2.8_PD15-22C_TR8|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-4_3.3x2.8_PD15-22C_TR8|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSM433X28PD1522CTR8|
-|Name|name|digikey-footprints : SMD-4_3.3x2.8_PD15-22C_TR8|
+|name|name|digikey-footprints : SMD-4_3.3x2.8_PD15-22C_TR8|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SMD-4_3.3x2.8_PD15-22C_TR8', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SMD-4_3.3x2.8_PD15-22C_TR8/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SMD-4_3.3x2.8_PD15-22C_TR8/kicadPcb3d_450.png

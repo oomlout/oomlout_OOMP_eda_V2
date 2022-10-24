@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|0805|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-0805|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS85|
-|Name|name|digikey-footprints : 0805|
+|name|name|digikey-footprints : 0805|
 |Footprint Kicad|footprintKicadDetails|{'name': '805', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

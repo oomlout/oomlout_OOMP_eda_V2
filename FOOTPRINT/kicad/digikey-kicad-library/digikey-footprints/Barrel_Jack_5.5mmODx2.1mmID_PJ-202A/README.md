@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Barrel_Jack_5.5mmODx2.1mmID_PJ-202A|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Barrel_Jack_5.5mmODx2.1mmID_PJ-202A|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBARRELJ55ODX21IDPJ22A|
-|Name|name|digikey-footprints : Barrel_Jack_5.5mmODx2.1mmID_PJ-202A|
+|name|name|digikey-footprints : Barrel_Jack_5.5mmODx2.1mmID_PJ-202A|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Barrel_Jack_5.5mmODx2.1mmID_PJ-202A', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Barrel_Jack_5.5mmODx2.1mmID_PJ-202A/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Barrel_Jack_5.5mmODx2.1mmID_PJ-202A/kicadPcb3d_450.png

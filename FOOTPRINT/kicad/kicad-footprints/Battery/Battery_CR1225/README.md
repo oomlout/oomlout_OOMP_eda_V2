@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Battery_CR1225|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-Battery_CR1225|
 |Hex ID (short code)|hexID|FZKBATBATCR1225|
-|Name|name|Battery : Battery_CR1225|
+|name|name|Battery : Battery_CR1225|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Battery_CR1225', 'description': 'CR1225 battery', 'tags': 'battery CR1225 coin cell', 'attributeType': None, 'threeDModel': '${KICAD6_3DMODEL_DIR}/Battery.3dshapes/Battery_CR1225.wrl', 'pins': {}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Battery/Battery_CR1225/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Battery/Battery_CR1225/kicadPcb3d_450.png

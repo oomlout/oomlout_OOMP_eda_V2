@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DO-35|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DO-35|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDO35|
-|Name|name|digikey-footprints : DO-35|
+|name|name|digikey-footprints : DO-35|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DO-35', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DO-35/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DO-35/kicadPcb3d_450.png

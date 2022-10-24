@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|CP_Elec_3x5.4|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_3x5.4|
 |Hex ID (short code)|hexID|FZKCAPACITORSMCPELEC3X54|
-|Name|name|Capacitor_SMD : CP_Elec_3x5.4|
+|name|name|Capacitor_SMD : CP_Elec_3x5.4|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CP_Elec_3x5.4', 'description': 'SMD capacitor, aluminum electrolytic, Nichicon, 3.0x5.4mm', 'tags': 'capacitor electrolytic', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_3x5.4.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_3x5.4/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_3x5.4/kicadPcb3d_450.png

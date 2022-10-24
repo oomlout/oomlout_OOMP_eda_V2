@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Harting_har-flexicon_14110813002xxx_1x08-MP_P2.54mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Harting-Harting_har-flexicon_14110813002xxx_1x08-MP_P2.54mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNHARTINGHARTINGHARFLEXICON14118132XXX1X8MPP254HORIZONTAL|
-|Name|name|Connector_Harting : Harting_har-flexicon_14110813002xxx_1x08-MP_P2.54mm_Horizontal|
+|name|name|Connector_Harting : Harting_har-flexicon_14110813002xxx_1x08-MP_P2.54mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Harting_har-flexicon_14110813002xxx_1x08-MP_P2.54mm_Horizontal', 'description': 'Harting har-flexicon series connector, 14110813002xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13002XXX_100228421DRW035C.pdf), generated with kicad-footprint-generator', 'tags': 'connector Harting har-flexicon horizontal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Harting.3dshapes/Harting_har-flexicon_14110813002xxx_1x08-MP_P2.54mm_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Harting/Harting_har-flexicon_14110813002xxx_1x08-MP_P2.54mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Harting/Harting_har-flexicon_14110813002xxx_1x08-MP_P2.54mm_Horizontal/kicadPcb3d_450.png

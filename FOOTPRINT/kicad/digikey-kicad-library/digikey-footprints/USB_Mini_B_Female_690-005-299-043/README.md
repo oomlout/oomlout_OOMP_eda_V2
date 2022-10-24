@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB_Mini_B_Female_690-005-299-043|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Mini_B_Female_690-005-299-043|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBFEMALE69529943|
-|Name|name|digikey-footprints : USB_Mini_B_Female_690-005-299-043|
+|name|name|digikey-footprints : USB_Mini_B_Female_690-005-299-043|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB_Mini_B_Female_690-005-299-043', 'description': 'http://files.edac.net/USB_Mini_B_Female_690-005-299-043.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Mini_B_Female_690-005-299-043/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Mini_B_Female_690-005-299-043/kicadPcb3d_450.png

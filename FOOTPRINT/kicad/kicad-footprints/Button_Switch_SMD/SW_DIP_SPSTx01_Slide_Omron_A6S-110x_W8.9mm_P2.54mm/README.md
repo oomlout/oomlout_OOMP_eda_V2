@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_DIP_SPSTx01_Slide_Omron_A6S-110x_W8.9mm_P2.54mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx01_Slide_Omron_A6S-110x_W8.9mm_P2.54mm|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWDIPSPSTX1SLIDEOMRONA6S11XW89P254|
-|Name|name|Button_Switch_SMD : SW_DIP_SPSTx01_Slide_Omron_A6S-110x_W8.9mm_P2.54mm|
+|name|name|Button_Switch_SMD : SW_DIP_SPSTx01_Slide_Omron_A6S-110x_W8.9mm_P2.54mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_DIP_SPSTx01_Slide_Omron_A6S-110x_W8.9mm_P2.54mm', 'description': 'SMD 1x-dip-switch SPST Omron_A6S-110x, Slide, row spacing 8.9 mm (350 mils), body size  (see http://omronfs.omron.com/en_US/ecb/products/pdf/en-a6s.pdf)', 'tags': 'SMD DIP Switch SPST Slide 8.9mm 350mil', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx01_Slide_Omron_A6S-110x_W8.9mm_P2.54mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx01_Slide_Omron_A6S-110x_W8.9mm_P2.54mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx01_Slide_Omron_A6S-110x_W8.9mm_P2.54mm/kicadPcb3d_450.png

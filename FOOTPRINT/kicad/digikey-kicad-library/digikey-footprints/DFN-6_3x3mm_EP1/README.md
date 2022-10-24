@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DFN-6_3x3mm_EP1|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DFN-6_3x3mm_EP1|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDFN63X3EP1|
-|Name|name|digikey-footprints : DFN-6_3x3mm_EP1|
+|name|name|digikey-footprints : DFN-6_3x3mm_EP1|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DFN-6_3x3mm_EP1', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DFN-6_3x3mm_EP1/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DFN-6_3x3mm_EP1/kicadPcb3d_450.png

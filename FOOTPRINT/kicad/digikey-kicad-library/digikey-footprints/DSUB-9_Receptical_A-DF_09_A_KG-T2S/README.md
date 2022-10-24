@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DSUB-9_Receptical_A-DF_09_A_KG-T2S|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DSUB-9_Receptical_A-DF_09_A_KG-T2S|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDSUB9RECEPTICALADF9AKGT2S|
-|Name|name|digikey-footprints : DSUB-9_Receptical_A-DF_09_A_KG-T2S|
+|name|name|digikey-footprints : DSUB-9_Receptical_A-DF_09_A_KG-T2S|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DSUB-9_Receptical_A-DF_09_A_KG-T2S', 'description': 'http://www.assmann-wsw.com/fileadmin/datasheets/ASS_4888_CO.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DSUB-9_Receptical_A-DF_09_A_KG-T2S/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/DSUB-9_Receptical_A-DF_09_A_KG-T2S/kicadPcb3d_450.png

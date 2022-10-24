@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Bluetooth_Module_RN52-IRM|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RN52-IRM|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORN52IRM|
-|Name|name|digikey-footprints : Bluetooth_Module_RN52-IRM|
+|name|name|digikey-footprints : Bluetooth_Module_RN52-IRM|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Bluetooth_Module_RN52-IRM', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_RN52-IRM/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_RN52-IRM/kicadPcb3d_450.png

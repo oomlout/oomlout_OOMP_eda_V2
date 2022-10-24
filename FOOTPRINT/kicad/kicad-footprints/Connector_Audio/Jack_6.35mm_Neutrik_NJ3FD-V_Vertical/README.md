@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Jack_6.35mm_Neutrik_NJ3FD-V_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NJ3FD-V_Vertical|
 |Hex ID (short code)|hexID|FZKCNAUDIOJ635NEUTRIKNJ3FDVVERTICAL|
-|Name|name|Connector_Audio : Jack_6.35mm_Neutrik_NJ3FD-V_Vertical|
+|name|name|Connector_Audio : Jack_6.35mm_Neutrik_NJ3FD-V_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Jack_6.35mm_Neutrik_NJ3FD-V_Vertical', 'description': '6.35mm (1/4 in) Vertical Jack, Non-switching stereo jack (T/R/S), https://www.neutrik.com/en/product/nj3fd-v', 'tags': 'neutrik jack vertical', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_6.35mm_Neutrik_NJ3FD-V_Vertical.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NJ3FD-V_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NJ3FD-V_Vertical/kicadPcb3d_450.png

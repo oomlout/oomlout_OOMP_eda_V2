@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_TH_Tactile_Omron_B3F-10xx|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_TH_Tactile_Omron_B3F-10xx|
 |Hex ID (short code)|hexID|FZKBSWTHTACTILEOMRONB3F1XX|
-|Name|name|Button_Switch_THT : SW_TH_Tactile_Omron_B3F-10xx|
+|name|name|Button_Switch_THT : SW_TH_Tactile_Omron_B3F-10xx|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_TH_Tactile_Omron_B3F-10xx', 'description': 'SW_TH_Tactile_Omron_B3F-10xx_https://www.omron.com/ecb/products/pdf/en-b3f.pdf', 'tags': 'Omron B3F-10xx', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_TH_Tactile_Omron_B3F-10xx.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_TH_Tactile_Omron_B3F-10xx/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_TH_Tactile_Omron_B3F-10xx/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Battery_Panasonic_CR2354-VCN_Vertical_CircularHoles|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-Battery_Panasonic_CR2354-VCN_Vertical_CircularHoles|
 |Hex ID (short code)|hexID|FZKBATBATPANASONICCR2354VCNVERTICALCIRCULARH|
-|Name|name|Battery : Battery_Panasonic_CR2354-VCN_Vertical_CircularHoles|
+|name|name|Battery : Battery_Panasonic_CR2354-VCN_Vertical_CircularHoles|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Battery_Panasonic_CR2354-VCN_Vertical_CircularHoles', 'description': 'Panasonic CR-2354/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D486.PDF', 'tags': 'battery CR-2354/VCN coin cell vertical', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Battery.3dshapes/Battery_Panasonic_CR2354-VCN_Vertical_CircularHoles.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Battery/Battery_Panasonic_CR2354-VCN_Vertical_CircularHoles/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Battery/Battery_Panasonic_CR2354-VCN_Vertical_CircularHoles/kicadPcb3d_450.png

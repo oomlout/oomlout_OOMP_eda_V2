@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TSSOP-8_W4.4mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TSSOP-8_W4.4mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTSS8W44|
-|Name|name|digikey-footprints : TSSOP-8_W4.4mm|
+|name|name|digikey-footprints : TSSOP-8_W4.4mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TSSOP-8_W4.4mm', 'description': 'http://www.st.com/content/ccc/resource/technical/document/datasheet/0d/30/c2/1a/92/03/48/cb/CD00287506.pdf/files/CD00287506.pdf/jcr:content/translations/en.CD00287506.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TSSOP-8_W4.4mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TSSOP-8_W4.4mm/kicadPcb3d_450.png

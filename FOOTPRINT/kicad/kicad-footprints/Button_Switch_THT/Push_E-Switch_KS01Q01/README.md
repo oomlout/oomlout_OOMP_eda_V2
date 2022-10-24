@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Push_E-Switch_KS01Q01|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-Push_E-Switch_KS01Q01|
 |Hex ID (short code)|hexID|FZKBPUSHESWITCHKS1Q1|
-|Name|name|Button_Switch_THT : Push_E-Switch_KS01Q01|
+|name|name|Button_Switch_THT : Push_E-Switch_KS01Q01|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Push_E-Switch_KS01Q01', 'description': 'E-Switch KS01Q01 http://spec_sheets.e-switch.com/specs/29-KS01Q01.pdf', 'tags': 'Push Button', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/Push_E-Switch_KS01Q01.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/Push_E-Switch_KS01Q01/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/Push_E-Switch_KS01Q01/kicadPcb3d_450.png

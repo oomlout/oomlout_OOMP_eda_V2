@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SMA_Amphenol_132134_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Amphenol_132134_Vertical|
 |Hex ID (short code)|hexID|FZKCNCOASAMPHENOL132134VERTICAL|
-|Name|name|Connector_Coaxial : SMA_Amphenol_132134_Vertical|
+|name|name|Connector_Coaxial : SMA_Amphenol_132134_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SMA_Amphenol_132134_Vertical', 'description': 'https://www.amphenolrf.com/downloads/dl/file/id/2187/product/2843/132134_customer_drawing.pdf', 'tags': 'SMA THT Female Jack Vertical ExtendedLegs', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Amphenol_132134_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/SMA_Amphenol_132134_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/SMA_Amphenol_132134_Vertical/kicadPcb3d_450.png

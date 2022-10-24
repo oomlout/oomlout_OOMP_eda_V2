@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Coax_Conn_U.FL|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Coax_Conn_U.FL|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCOAXCONNUFL|
-|Name|name|digikey-footprints : Coax_Conn_U.FL|
+|name|name|digikey-footprints : Coax_Conn_U.FL|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Coax_Conn_U.FL', 'description': 'https://media.digikey.com/pdf/Data%20Sheets/Hirose%20PDFs/UFL%20Series.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Coax_Conn_U.FL/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Coax_Conn_U.FL/kicadPcb3d_450.png

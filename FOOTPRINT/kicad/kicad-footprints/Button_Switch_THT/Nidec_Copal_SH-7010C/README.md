@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Nidec_Copal_SH-7010C|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-Nidec_Copal_SH-7010C|
 |Hex ID (short code)|hexID|FZKBNIDECCOPALSH71C|
-|Name|name|Button_Switch_THT : Nidec_Copal_SH-7010C|
+|name|name|Button_Switch_THT : Nidec_Copal_SH-7010C|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Nidec_Copal_SH-7010C', 'description': '4-bit rotary coded switch, through-hole, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf', 'tags': 'rotary switch bcd', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/Nidec_Copal_SH-7010C.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/Nidec_Copal_SH-7010C/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/Nidec_Copal_SH-7010C/kicadPcb3d_450.png

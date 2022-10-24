@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_SPST_Panasonic_EVQPL_3PL_5PL_PT_A15|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_Panasonic_EVQPL_3PL_5PL_PT_A15|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWSPSTPANASONICEVQPL3PL5PLPTA15|
-|Name|name|Button_Switch_SMD : SW_SPST_Panasonic_EVQPL_3PL_5PL_PT_A15|
+|name|name|Button_Switch_SMD : SW_SPST_Panasonic_EVQPL_3PL_5PL_PT_A15|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_SPST_Panasonic_EVQPL_3PL_5PL_PT_A15', 'description': 'Light Touch Switch, http://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE3.pdf', 'tags': 'SMD SMT SPST EVQPL EVQPT', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_Panasonic_EVQPL_3PL_5PL_PT_A15.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_Panasonic_EVQPL_3PL_5PL_PT_A15/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_Panasonic_EVQPL_3PL_5PL_PT_A15/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|C_Trimmer_Murata_TZW4|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Trimmer_Murata_TZW4|
 |Hex ID (short code)|hexID|FZKCAPACITORSMCTRIERMTZW4|
-|Name|name|Capacitor_SMD : C_Trimmer_Murata_TZW4|
+|name|name|Capacitor_SMD : C_Trimmer_Murata_TZW4|
 |Footprint Kicad|footprintKicadDetails|{'name': 'C_Trimmer_Murata_TZW4', 'description': 'trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb', 'tags': ' Murata TZW4', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_Trimmer_Murata_TZW4.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_Trimmer_Murata_TZW4/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_Trimmer_Murata_TZW4/kicadPcb3d_450.png

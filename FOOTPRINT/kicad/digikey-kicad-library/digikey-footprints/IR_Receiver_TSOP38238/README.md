@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|IR_Receiver_TSOP38238|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-IR_Receiver_TSOP38238|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSIRRECEIVERTS38238|
-|Name|name|digikey-footprints : IR_Receiver_TSOP38238|
+|name|name|digikey-footprints : IR_Receiver_TSOP38238|
 |Footprint Kicad|footprintKicadDetails|{'name': 'IR_Receiver_TSOP38238', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/IR_Receiver_TSOP38238/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/IR_Receiver_TSOP38238/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_Lever_1P2T_NKK_GW12LxH|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Lever_1P2T_NKK_GW12LxH|
 |Hex ID (short code)|hexID|FZKBSWLEVER1P2TNKKGW12LXH|
-|Name|name|Button_Switch_THT : SW_Lever_1P2T_NKK_GW12LxH|
+|name|name|Button_Switch_THT : SW_Lever_1P2T_NKK_GW12LxH|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_Lever_1P2T_NKK_GW12LxH', 'description': 'Switch, single pole double throw, right angle, http://www.nkkswitches.com/pdf/GW.pdf', 'tags': 'switch single-pole double-throw spdt ON-ON horizontal', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_Lever_1P2T_NKK_GW12LxH.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Lever_1P2T_NKK_GW12LxH/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Lever_1P2T_NKK_GW12LxH/kicadPcb3d_450.png

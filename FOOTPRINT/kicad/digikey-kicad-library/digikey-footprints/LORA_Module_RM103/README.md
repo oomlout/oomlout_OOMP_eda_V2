@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LORA_Module_RM103|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LORA_Module_RM103|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLORAMORM13|
-|Name|name|digikey-footprints : LORA_Module_RM103|
+|name|name|digikey-footprints : LORA_Module_RM103|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LORA_Module_RM103', 'description': 'http://ww1.microchip.com/downloads/en/DeviceDoc/50002346C.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LORA_Module_RM103/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LORA_Module_RM103/kicadPcb3d_450.png

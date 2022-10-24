@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|QFN-20-1EP_4x4mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-QFN-20-1EP_4x4mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSQFN21EP4X4|
-|Name|name|digikey-footprints : QFN-20-1EP_4x4mm|
+|name|name|digikey-footprints : QFN-20-1EP_4x4mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'QFN-20-1EP_4x4mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/QFN-20-1EP_4x4mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/QFN-20-1EP_4x4mm/kicadPcb3d_450.png

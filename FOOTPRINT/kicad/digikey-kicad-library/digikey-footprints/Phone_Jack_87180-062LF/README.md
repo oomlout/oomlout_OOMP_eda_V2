@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Phone_Jack_87180-062LF|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Phone_Jack_87180-062LF|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPHONEJ871862LF|
-|Name|name|digikey-footprints : Phone_Jack_87180-062LF|
+|name|name|digikey-footprints : Phone_Jack_87180-062LF|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Phone_Jack_87180-062LF', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Phone_Jack_87180-062LF/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Phone_Jack_87180-062LF/kicadPcb3d_450.png

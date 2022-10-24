@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SIM_Nano_5045200691|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SIM_Nano_5045200691|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSIMNANO5452691|
-|Name|name|digikey-footprints : SIM_Nano_5045200691|
+|name|name|digikey-footprints : SIM_Nano_5045200691|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SIM_Nano_5045200691', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIM_Nano_5045200691/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIM_Nano_5045200691/kicadPcb3d_450.png

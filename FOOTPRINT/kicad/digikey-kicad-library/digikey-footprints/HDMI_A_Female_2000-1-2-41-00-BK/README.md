@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|HDMI_A_Female_2000-1-2-41-00-BK|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-HDMI_A_Female_2000-1-2-41-00-BK|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHDMIAFEMALE21241BK|
-|Name|name|digikey-footprints : HDMI_A_Female_2000-1-2-41-00-BK|
+|name|name|digikey-footprints : HDMI_A_Female_2000-1-2-41-00-BK|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HDMI_A_Female_2000-1-2-41-00-BK', 'description': 'http://media.digikey.com/pdf/Data%20Sheets/CNC%20Tech%20PDFs/HDMI_A_Female_2000-1-2-41-00-BK_Dwg.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HDMI_A_Female_2000-1-2-41-00-BK/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HDMI_A_Female_2000-1-2-41-00-BK/kicadPcb3d_450.png

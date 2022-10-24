@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|CP_EIA-7132-28_AVX-C|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7132-28_AVX-C|
 |Hex ID (short code)|hexID|FZKCAPACITORTANTALUMSMCPEIA713228AVXC|
-|Name|name|Capacitor_Tantalum_SMD : CP_EIA-7132-28_AVX-C|
+|name|name|Capacitor_Tantalum_SMD : CP_EIA-7132-28_AVX-C|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CP_EIA-7132-28_AVX-C', 'description': 'Tantalum Capacitor SMD AVX-C (7132-28 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator', 'tags': 'capacitor tantalum', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-7132-28_AVX-C.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-7132-28_AVX-C/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-7132-28_AVX-C/kicadPcb3d_450.png

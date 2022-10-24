@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Relay_THT_G5V-2|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Relay_THT_G5V-2|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRELG5V2|
-|Name|name|digikey-footprints : Relay_THT_G5V-2|
+|name|name|digikey-footprints : Relay_THT_G5V-2|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Relay_THT_G5V-2', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Relay_THT_G5V-2/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Relay_THT_G5V-2/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Bluetooth_Module_BMD-300|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BMD-300|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBMD3|
-|Name|name|digikey-footprints : Bluetooth_Module_BMD-300|
+|name|name|digikey-footprints : Bluetooth_Module_BMD-300|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Bluetooth_Module_BMD-300', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_BMD-300/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_BMD-300/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|BatteryHolder_Eagle_12BH611-GR|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Eagle_12BH611-GR|
 |Hex ID (short code)|hexID|FZKBATBATHOLDEREAGLE12BH611GR|
-|Name|name|Battery : BatteryHolder_Eagle_12BH611-GR|
+|name|name|Battery : BatteryHolder_Eagle_12BH611-GR|
 |Footprint Kicad|footprintKicadDetails|{'name': 'BatteryHolder_Eagle_12BH611-GR', 'description': 'https://eu.mouser.com/datasheet/2/209/EPD-200766-1274481.pdf', 'tags': '9V Battery Holder', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Eagle_12BH611-GR.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Eagle_12BH611-GR/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Eagle_12BH611-GR/kicadPcb3d_450.png

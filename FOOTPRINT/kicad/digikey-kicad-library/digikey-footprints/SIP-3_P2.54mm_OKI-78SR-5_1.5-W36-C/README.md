@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSIP3P254OKI78SR515W36C|
-|Name|name|digikey-footprints : SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C|
+|name|name|digikey-footprints : SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C', 'description': 'https://power.murata.com/data/power/oki-78sr.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|JAE_LY20-34P-DT1_2x17_P2.00mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_LY20-34P-DT1_2x17_P2.00mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNJAEJAELY234PDT12X17P2VERTICAL|
-|Name|name|Connector_JAE : JAE_LY20-34P-DT1_2x17_P2.00mm_Vertical|
+|name|name|Connector_JAE : JAE_LY20-34P-DT1_2x17_P2.00mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'JAE_LY20-34P-DT1_2x17_P2.00mm_Vertical', 'description': 'Molex LY 20 series connector, LY20-34P-DT1, 17 Circuits (http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ103130.pdf), generated with kicad-footprint-generator', 'tags': 'connector JAE  side entry', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JAE.3dshapes/JAE_LY20-34P-DT1_2x17_P2.00mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_LY20-34P-DT1_2x17_P2.00mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_LY20-34P-DT1_2x17_P2.00mm_Vertical/kicadPcb3d_450.png

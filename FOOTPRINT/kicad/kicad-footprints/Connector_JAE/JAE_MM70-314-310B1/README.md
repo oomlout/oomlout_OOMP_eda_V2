@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|JAE_MM70-314-310B1|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_MM70-314-310B1|
 |Hex ID (short code)|hexID|FZKCNJAEJAE731431B1|
-|Name|name|Connector_JAE : JAE_MM70-314-310B1|
+|name|name|Connector_JAE : JAE_MM70-314-310B1|
 |Footprint Kicad|footprintKicadDetails|{'name': 'JAE_MM70-314-310B1', 'description': 'http://www.heilind.com/marketing/documents/jae/JAE_MM70.pdf', 'tags': 'connector JAE MXM', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JAE.3dshapes/JAE_MM70-314-310B1.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_MM70-314-310B1/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_JAE/JAE_MM70-314-310B1/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SMD-4_4.6x7.62mm_P2.54mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-4_4.6x7.62mm_P2.54mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSM446X762P254|
-|Name|name|digikey-footprints : SMD-4_4.6x7.62mm_P2.54mm|
+|name|name|digikey-footprints : SMD-4_4.6x7.62mm_P2.54mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SMD-4_4.6x7.62mm_P2.54mm', 'description': 'https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTV-816_826_846.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SMD-4_4.6x7.62mm_P2.54mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SMD-4_4.6x7.62mm_P2.54mm/kicadPcb3d_450.png

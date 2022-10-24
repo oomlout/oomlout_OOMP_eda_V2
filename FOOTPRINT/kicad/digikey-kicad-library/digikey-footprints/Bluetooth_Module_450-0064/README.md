@@ -29,6 +29,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Bluetooth_Module_450-0064|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_450-0064|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMO4564|
-|Name|name|digikey-footprints : Bluetooth_Module_450-0064|
+|name|name|digikey-footprints : Bluetooth_Module_450-0064|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Bluetooth_Module_450-0064', 'description': 'http://www.lsr.com/downloads/products/330-0087.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'oval'}}|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|C_Disc_D3.4mm_W2.1mm_P2.50mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Disc_D3.4mm_W2.1mm_P2.50mm|
 |Hex ID (short code)|hexID|FZKCCDISCD34W21P25|
-|Name|name|Capacitor_THT : C_Disc_D3.4mm_W2.1mm_P2.50mm|
+|name|name|Capacitor_THT : C_Disc_D3.4mm_W2.1mm_P2.50mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'C_Disc_D3.4mm_W2.1mm_P2.50mm', 'description': 'C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.4*2.1mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf', 'tags': 'C Disc series Radial pin pitch 2.50mm  diameter 3.4mm width 2.1mm Capacitor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D3.4mm_W2.1mm_P2.50mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Disc_D3.4mm_W2.1mm_P2.50mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Disc_D3.4mm_W2.1mm_P2.50mm/kicadPcb3d_450.png

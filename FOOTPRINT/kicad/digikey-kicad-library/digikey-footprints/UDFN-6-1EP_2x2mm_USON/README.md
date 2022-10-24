@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|UDFN-6-1EP_2x2mm_USON|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UDFN-6-1EP_2x2mm_USON|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUDFN61EP2X2USON|
-|Name|name|digikey-footprints : UDFN-6-1EP_2x2mm_USON|
+|name|name|digikey-footprints : UDFN-6-1EP_2x2mm_USON|
 |Footprint Kicad|footprintKicadDetails|{'name': 'UDFN-6-1EP_2x2mm_USON', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/UDFN-6-1EP_2x2mm_USON/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/UDFN-6-1EP_2x2mm_USON/kicadPcb3d_450.png

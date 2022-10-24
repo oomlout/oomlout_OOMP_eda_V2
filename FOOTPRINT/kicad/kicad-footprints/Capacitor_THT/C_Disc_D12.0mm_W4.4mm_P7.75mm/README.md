@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|C_Disc_D12.0mm_W4.4mm_P7.75mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Disc_D12.0mm_W4.4mm_P7.75mm|
 |Hex ID (short code)|hexID|FZKCCDISCD12W44P775|
-|Name|name|Capacitor_THT : C_Disc_D12.0mm_W4.4mm_P7.75mm|
+|name|name|Capacitor_THT : C_Disc_D12.0mm_W4.4mm_P7.75mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'C_Disc_D12.0mm_W4.4mm_P7.75mm', 'description': 'C, Disc series, Radial, pin pitch=7.75mm, , diameter*width=12*4.4mm^2, Capacitor', 'tags': 'C Disc series Radial pin pitch 7.75mm  diameter 12mm width 4.4mm Capacitor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D12.0mm_W4.4mm_P7.75mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Disc_D12.0mm_W4.4mm_P7.75mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Disc_D12.0mm_W4.4mm_P7.75mm/kicadPcb3d_450.png

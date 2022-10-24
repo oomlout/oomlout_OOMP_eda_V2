@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|HDMI_Mini_Female_2001-1-2-21-00-BK|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-HDMI_Mini_Female_2001-1-2-21-00-BK|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHDMIMFEMALE211221BK|
-|Name|name|digikey-footprints : HDMI_Mini_Female_2001-1-2-21-00-BK|
+|name|name|digikey-footprints : HDMI_Mini_Female_2001-1-2-21-00-BK|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HDMI_Mini_Female_2001-1-2-21-00-BK', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HDMI_Mini_Female_2001-1-2-21-00-BK/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/HDMI_Mini_Female_2001-1-2-21-00-BK/kicadPcb3d_450.png

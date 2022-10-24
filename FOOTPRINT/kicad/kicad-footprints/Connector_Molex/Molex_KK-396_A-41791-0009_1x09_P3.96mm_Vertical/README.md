@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Molex_KK-396_A-41791-0009_1x09_P3.96mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-396_A-41791-0009_1x09_P3.96mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNMXMXKK396A4179191X9P396VERTICAL|
-|Name|name|Connector_Molex : Molex_KK-396_A-41791-0009_1x09_P3.96mm_Vertical|
+|name|name|Connector_Molex : Molex_KK-396_A-41791-0009_1x09_P3.96mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Molex_KK-396_A-41791-0009_1x09_P3.96mm_Vertical', 'description': 'Molex KK 396 Interconnect System, old/engineering part number: A-41791-0009 example for new part number: 26-60-4090, 9 Pins (https://www.molex.com/pdm_docs/sd/026604020_sd.pdf), generated with kicad-footprint-generator', 'tags': 'connector Molex KK-396 vertical', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_KK-396_A-41791-0009_1x09_P3.96mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_KK-396_A-41791-0009_1x09_P3.96mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_KK-396_A-41791-0009_1x09_P3.96mm_Vertical/kicadPcb3d_450.png

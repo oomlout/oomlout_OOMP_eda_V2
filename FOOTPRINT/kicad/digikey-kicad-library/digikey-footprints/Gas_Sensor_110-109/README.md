@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Gas_Sensor_110-109|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Gas_Sensor_110-109|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSGASSEN1119|
-|Name|name|digikey-footprints : Gas_Sensor_110-109|
+|name|name|digikey-footprints : Gas_Sensor_110-109|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Gas_Sensor_110-109', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Gas_Sensor_110-109/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Gas_Sensor_110-109/kicadPcb3d_450.png

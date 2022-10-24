@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DSUB-25_Female_Vertical_P2.77x2.84mm_MountingHoles|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-25_Female_Vertical_P2.77x2.84mm_MountingHoles|
 |Hex ID (short code)|hexID|FZKCNDSUBDSUB25FEMALEVERTICALP277X284HOLS|
-|Name|name|Connector_Dsub : DSUB-25_Female_Vertical_P2.77x2.84mm_MountingHoles|
+|name|name|Connector_Dsub : DSUB-25_Female_Vertical_P2.77x2.84mm_MountingHoles|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DSUB-25_Female_Vertical_P2.77x2.84mm_MountingHoles', 'description': '25-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.77x2.84mm, distance of mounting holes 47.1mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf', 'tags': '25-pin D-Sub connector straight vertical THT female pitch 2.77x2.84mm mounting holes distance 47.1mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Dsub.3dshapes/DSUB-25_Female_Vertical_P2.77x2.84mm_MountingHoles.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-25_Female_Vertical_P2.77x2.84mm_MountingHoles/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-25_Female_Vertical_P2.77x2.84mm_MountingHoles/kicadPcb3d_450.png

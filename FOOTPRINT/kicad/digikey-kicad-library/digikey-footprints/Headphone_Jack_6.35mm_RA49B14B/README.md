@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Headphone_Jack_6.35mm_RA49B14B|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Headphone_Jack_6.35mm_RA49B14B|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHEADPHONEJ635RA49B14B|
-|Name|name|digikey-footprints : Headphone_Jack_6.35mm_RA49B14B|
+|name|name|digikey-footprints : Headphone_Jack_6.35mm_RA49B14B|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Headphone_Jack_6.35mm_RA49B14B', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Headphone_Jack_6.35mm_RA49B14B/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Headphone_Jack_6.35mm_RA49B14B/kicadPcb3d_450.png

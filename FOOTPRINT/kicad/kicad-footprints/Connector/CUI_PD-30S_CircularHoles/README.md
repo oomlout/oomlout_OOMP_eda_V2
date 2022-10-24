@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|CUI_PD-30S_CircularHoles|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector-CUI_PD-30S_CircularHoles|
 |Hex ID (short code)|hexID|FZKCNCUIPD3SCIRCULARH|
-|Name|name|Connector : CUI_PD-30S_CircularHoles|
+|name|name|Connector : CUI_PD-30S_CircularHoles|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CUI_PD-30S_CircularHoles', 'description': '3-pin nonstandard DIN connector, shielded, PD-30S, http://www.cui.com/product/resource/pd-30s.pdf', 'tags': 'connector 3-pin PD-30S power DIN shielded', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector.3dshapes/CUI_PD-30S_CircularHoles.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector/CUI_PD-30S_CircularHoles/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector/CUI_PD-30S_CircularHoles/kicadPcb3d_450.png

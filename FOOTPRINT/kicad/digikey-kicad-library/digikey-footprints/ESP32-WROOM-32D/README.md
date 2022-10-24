@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|ESP32-WROOM-32D|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-ESP32-WROOM-32D|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSESP32WROOM32D|
-|Name|name|digikey-footprints : ESP32-WROOM-32D|
+|name|name|digikey-footprints : ESP32-WROOM-32D|
 |Footprint Kicad|footprintKicadDetails|{'name': 'ESP32-WROOM-32D', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/ESP32-WROOM-32D/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/ESP32-WROOM-32D/kicadPcb3d_450.png

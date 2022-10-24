@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|JST_GH_BM12B-GHS-TBT_1x12-1MP_P1.25mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_GH_BM12B-GHS-TBT_1x12-1MP_P1.25mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNJSTJSTGHBM12BGHSTBT1X121MPP125VERTICAL|
-|Name|name|Connector_JST : JST_GH_BM12B-GHS-TBT_1x12-1MP_P1.25mm_Vertical|
+|name|name|Connector_JST : JST_GH_BM12B-GHS-TBT_1x12-1MP_P1.25mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'JST_GH_BM12B-GHS-TBT_1x12-1MP_P1.25mm_Vertical', 'description': 'JST GH series connector, BM12B-GHS-TBT (http://www.jst-mfg.com/product/pdf/eng/eGH.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST GH side entry', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_GH_BM12B-GHS-TBT_1x12-1MP_P1.25mm_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_GH_BM12B-GHS-TBT_1x12-1MP_P1.25mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_GH_BM12B-GHS-TBT_1x12-1MP_P1.25mm_Vertical/kicadPcb3d_450.png

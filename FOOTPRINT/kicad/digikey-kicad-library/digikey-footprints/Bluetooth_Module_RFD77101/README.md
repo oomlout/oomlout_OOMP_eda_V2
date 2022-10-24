@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Bluetooth_Module_RFD77101|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_RFD77101|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMORFD7711|
-|Name|name|digikey-footprints : Bluetooth_Module_RFD77101|
+|name|name|digikey-footprints : Bluetooth_Module_RFD77101|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Bluetooth_Module_RFD77101', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_RFD77101/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_RFD77101/kicadPcb3d_450.png

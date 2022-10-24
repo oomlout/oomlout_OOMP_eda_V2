@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PinHeader_2x5_P1.27_SMD|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_2x5_P1.27_SMD|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER2X5P127SM|
-|Name|name|digikey-footprints : PinHeader_2x5_P1.27_SMD|
+|name|name|digikey-footprints : PinHeader_2x5_P1.27_SMD|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PinHeader_2x5_P1.27_SMD', 'description': 'http://suddendocs.samtec.com/prints/ftsh-1xx-xx-xxx-dv-xxx-footprint.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_2x5_P1.27_SMD/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/PinHeader_2x5_P1.27_SMD/kicadPcb3d_450.png

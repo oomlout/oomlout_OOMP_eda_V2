@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|RF_SMA_BoardEdge_142-0701-801|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_SMA_BoardEdge_142-0701-801|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFSBOARDEDGE1427181|
-|Name|name|digikey-footprints : RF_SMA_BoardEdge_142-0701-801|
+|name|name|digikey-footprints : RF_SMA_BoardEdge_142-0701-801|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RF_SMA_BoardEdge_142-0701-801', 'description': 'https://belfuse.com/resources/Johnson/productinformation/pi-142-0701-801.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_SMA_BoardEdge_142-0701-801/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_SMA_BoardEdge_142-0701-801/kicadPcb3d_450.png

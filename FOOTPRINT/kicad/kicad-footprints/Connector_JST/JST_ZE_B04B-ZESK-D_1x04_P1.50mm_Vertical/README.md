@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|JST_ZE_B04B-ZESK-D_1x04_P1.50mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_B04B-ZESK-D_1x04_P1.50mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNJSTJSTZEB4BZESKD1X4P15VERTICAL|
-|Name|name|Connector_JST : JST_ZE_B04B-ZESK-D_1x04_P1.50mm_Vertical|
+|name|name|Connector_JST : JST_ZE_B04B-ZESK-D_1x04_P1.50mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'JST_ZE_B04B-ZESK-D_1x04_P1.50mm_Vertical', 'description': 'JST ZE series connector, B04B-ZESK-D (http://www.jst-mfg.com/product/pdf/eng/eZE.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST ZE side entry', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_ZE_B04B-ZESK-D_1x04_P1.50mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'custom'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_ZE_B04B-ZESK-D_1x04_P1.50mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_ZE_B04B-ZESK-D_1x04_P1.50mm_Vertical/kicadPcb3d_450.png

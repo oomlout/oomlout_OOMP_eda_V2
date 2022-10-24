@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Gas_Sensor_110-202|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Gas_Sensor_110-202|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSGASSEN1122|
-|Name|name|digikey-footprints : Gas_Sensor_110-202|
+|name|name|digikey-footprints : Gas_Sensor_110-202|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Gas_Sensor_110-202', 'description': 'http://www.spec-sensors.com/wp-content/uploads/2016/02/3SP_Ethanol_1000-P-Package-Gas_Sensor_110-202.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Gas_Sensor_110-202/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Gas_Sensor_110-202/kicadPcb3d_450.png

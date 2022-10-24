@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|WFDFN-8-1EP_3x3mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WFDFN-8-1EP_3x3mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWFDFN81EP3X3|
-|Name|name|digikey-footprints : WFDFN-8-1EP_3x3mm|
+|name|name|digikey-footprints : WFDFN-8-1EP_3x3mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'WFDFN-8-1EP_3x3mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WFDFN-8-1EP_3x3mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/WFDFN-8-1EP_3x3mm/kicadPcb3d_450.png

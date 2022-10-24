@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB_A_Female_E8199-001-01|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_A_Female_E8199-001-01|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUAFEMALEE819911|
-|Name|name|digikey-footprints : USB_A_Female_E8199-001-01|
+|name|name|digikey-footprints : USB_A_Female_E8199-001-01|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB_A_Female_E8199-001-01', 'description': 'file:///C:/Users/chad_rosencrans/Downloads/USB_A_Female_E8199-001-01.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_A_Female_E8199-001-01/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_A_Female_E8199-001-01/kicadPcb3d_450.png

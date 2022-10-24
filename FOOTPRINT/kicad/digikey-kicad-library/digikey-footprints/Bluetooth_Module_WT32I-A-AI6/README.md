@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Bluetooth_Module_WT32I-A-AI6|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_WT32I-A-AI6|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOWT32IAAI6|
-|Name|name|digikey-footprints : Bluetooth_Module_WT32I-A-AI6|
+|name|name|digikey-footprints : Bluetooth_Module_WT32I-A-AI6|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Bluetooth_Module_WT32I-A-AI6', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_WT32I-A-AI6/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Bluetooth_Module_WT32I-A-AI6/kicadPcb3d_450.png

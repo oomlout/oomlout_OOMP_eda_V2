@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOIC-8_W5.6mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-8_W5.6mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC8W56|
-|Name|name|digikey-footprints : SOIC-8_W5.6mm|
+|name|name|digikey-footprints : SOIC-8_W5.6mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOIC-8_W5.6mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOIC-8_W5.6mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SOIC-8_W5.6mm/kicadPcb3d_450.png

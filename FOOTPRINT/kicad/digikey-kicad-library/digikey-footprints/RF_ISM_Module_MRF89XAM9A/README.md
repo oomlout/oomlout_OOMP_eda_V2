@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|RF_ISM_Module_MRF89XAM9A|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_ISM_Module_MRF89XAM9A|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFISMMOMRF89XAM9A|
-|Name|name|digikey-footprints : RF_ISM_Module_MRF89XAM9A|
+|name|name|digikey-footprints : RF_ISM_Module_MRF89XAM9A|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RF_ISM_Module_MRF89XAM9A', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_ISM_Module_MRF89XAM9A/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_ISM_Module_MRF89XAM9A/kicadPcb3d_450.png

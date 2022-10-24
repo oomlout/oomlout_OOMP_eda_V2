@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|CP_Elec_4x3.9|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_4x3.9|
 |Hex ID (short code)|hexID|FZKCAPACITORSMCPELEC4X39|
-|Name|name|Capacitor_SMD : CP_Elec_4x3.9|
+|name|name|Capacitor_SMD : CP_Elec_4x3.9|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CP_Elec_4x3.9', 'description': 'SMD capacitor, aluminum electrolytic, Nichicon, 4.0x3.9mm', 'tags': 'capacitor electrolytic', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_4x3.9.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_4x3.9/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_4x3.9/kicadPcb3d_450.png

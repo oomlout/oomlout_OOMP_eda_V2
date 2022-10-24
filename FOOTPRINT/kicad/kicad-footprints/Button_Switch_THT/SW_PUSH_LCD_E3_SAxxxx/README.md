@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_PUSH_LCD_E3_SAxxxx|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH_LCD_E3_SAxxxx|
 |Hex ID (short code)|hexID|FZKBSWPUSHLCDE3SAXXXX|
-|Name|name|Button_Switch_THT : SW_PUSH_LCD_E3_SAxxxx|
+|name|name|Button_Switch_THT : SW_PUSH_LCD_E3_SAxxxx|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_PUSH_LCD_E3_SAxxxx', 'description': 'Switch with LCD screen E3 SAxxxx', 'tags': 'switch normally-open pushbutton push-button LCD', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_LCD_E3_SAxxxx.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH_LCD_E3_SAxxxx/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH_LCD_E3_SAxxxx/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|C_1210_3225Metric|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1210_3225Metric|
 |Hex ID (short code)|hexID|FZKCAPACITORSMC1213225METRIC|
-|Name|name|Capacitor_SMD : C_1210_3225Metric|
+|name|name|Capacitor_SMD : C_1210_3225Metric|
 |Footprint Kicad|footprintKicadDetails|{'name': 'C_1210_3225Metric', 'description': 'Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator', 'tags': 'capacitor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1210_3225Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_1210_3225Metric/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_1210_3225Metric/kicadPcb3d_450.png

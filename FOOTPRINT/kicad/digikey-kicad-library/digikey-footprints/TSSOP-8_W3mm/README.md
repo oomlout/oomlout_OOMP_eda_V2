@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TSSOP-8_W3mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TSSOP-8_W3mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTSS8W3|
-|Name|name|digikey-footprints : TSSOP-8_W3mm|
+|name|name|digikey-footprints : TSSOP-8_W3mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TSSOP-8_W3mm', 'description': 'http://www.ti.com/lit/ds/symlink/ina333.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TSSOP-8_W3mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TSSOP-8_W3mm/kicadPcb3d_450.png

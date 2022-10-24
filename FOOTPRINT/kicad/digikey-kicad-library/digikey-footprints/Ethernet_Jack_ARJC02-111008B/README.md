@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Ethernet_Jack_ARJC02-111008B|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Ethernet_Jack_ARJC02-111008B|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSETHERNETJARJC21118B|
-|Name|name|digikey-footprints : Ethernet_Jack_ARJC02-111008B|
+|name|name|digikey-footprints : Ethernet_Jack_ARJC02-111008B|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Ethernet_Jack_ARJC02-111008B', 'description': 'http://www.abracon.com/Magnetics/lan/Ethernet_Jack_ARJC02-111008B.PDF', 'tags': None, 'attributeType': None, 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Ethernet_Jack_ARJC02-111008B/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Ethernet_Jack_ARJC02-111008B/kicadPcb3d_450.png

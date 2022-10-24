@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TOP-3_Vertical_Insulated|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TOP-3_Vertical_Insulated|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTOP3VERTICALINSULATED|
-|Name|name|digikey-footprints : TOP-3_Vertical_Insulated|
+|name|name|digikey-footprints : TOP-3_Vertical_Insulated|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TOP-3_Vertical_Insulated', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TOP-3_Vertical_Insulated/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TOP-3_Vertical_Insulated/kicadPcb3d_450.png

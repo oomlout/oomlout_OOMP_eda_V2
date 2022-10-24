@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Light_to_Freq_TSL235R-LF|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Light_to_Freq_TSL235R-LF|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLIGHTTOFREQTSL235RLF|
-|Name|name|digikey-footprints : Light_to_Freq_TSL235R-LF|
+|name|name|digikey-footprints : Light_to_Freq_TSL235R-LF|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Light_to_Freq_TSL235R-LF', 'description': 'file:///C:/Users/alex_wegscheid/Downloads/TSL235R_DS000120_2-00%20(6).pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Light_to_Freq_TSL235R-LF/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Light_to_Freq_TSL235R-LF/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|RF_Module_SPWF01SA.11|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_SPWF01SA.11|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMOSPWF1SA11|
-|Name|name|digikey-footprints : RF_Module_SPWF01SA.11|
+|name|name|digikey-footprints : RF_Module_SPWF01SA.11|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RF_Module_SPWF01SA.11', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_Module_SPWF01SA.11/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/RF_Module_SPWF01SA.11/kicadPcb3d_450.png

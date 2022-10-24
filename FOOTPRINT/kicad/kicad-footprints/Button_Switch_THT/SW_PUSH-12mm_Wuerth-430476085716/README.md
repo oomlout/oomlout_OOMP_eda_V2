@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SW_PUSH-12mm_Wuerth-430476085716|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH-12mm_Wuerth-430476085716|
 |Hex ID (short code)|hexID|FZKBSWPUSH12WUERTH4347685716|
-|Name|name|Button_Switch_THT : SW_PUSH-12mm_Wuerth-430476085716|
+|name|name|Button_Switch_THT : SW_PUSH-12mm_Wuerth-430476085716|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SW_PUSH-12mm_Wuerth-430476085716', 'description': 'SW PUSH 12mm http://katalog.we-online.de/em/datasheet/430476085716.pdf', 'tags': 'tact sw push 12mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH-12mm_Wuerth-430476085716.wrl', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH-12mm_Wuerth-430476085716/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH-12mm_Wuerth-430476085716/kicadPcb3d_450.png

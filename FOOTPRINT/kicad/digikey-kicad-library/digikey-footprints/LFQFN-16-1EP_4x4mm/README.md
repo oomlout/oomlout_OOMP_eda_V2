@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LFQFN-16-1EP_4x4mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LFQFN-16-1EP_4x4mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLFQFN161EP4X4|
-|Name|name|digikey-footprints : LFQFN-16-1EP_4x4mm|
+|name|name|digikey-footprints : LFQFN-16-1EP_4x4mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LFQFN-16-1EP_4x4mm', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LFQFN-16-1EP_4x4mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LFQFN-16-1EP_4x4mm/kicadPcb3d_450.png
