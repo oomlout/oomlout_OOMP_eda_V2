@@ -1,0 +1,38 @@
+
+
+
+  
+![][im]
+# FZKINLAXIALL24D75P58VERTICALFASTRONMESC > Inductor_THT : L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC
+- Hex ID: FZKINLAXIALL24D75P58VERTICALFASTRONMESC
+- Name: Inductor_THT : L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC
+- Description: Inductor_THT : L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC
+- Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC)
+- Short Link: [http://oom.lt/FZKINLAXIALL24D75P58VERTICALFASTRONMESC](http://oom.lt/FZKINLAXIALL24D75P58VERTICALFASTRONMESC)
+  
+
+|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC/image.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC/kicadPcb3dFront.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC/kicadPcb3dBack.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC/kicadPcb3d.png|
+| :---: | :---: | :---: | :---: |
+|||||
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-footprints|
+|OOMP Description|oompDesc|Inductor_THT|
+|OOMP Index|oompIndex|L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC|
+|Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC|
+|Hex ID (short code)|hexID|FZKINLAXIALL24D75P58VERTICALFASTRONMESC|
+|Name|name|Inductor_THT : L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC|
+|Footprint Kicad|footprintKicadDetails|{'name': 'L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC', 'description': 'Inductor, Axial series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=24*7.5mm^2, Fastron, MESC, http://cdn-reichelt.de/documents/datenblatt/B400/DS_MESC.pdf', 'tags': 'Inductor Axial series Axial Vertical pin pitch 5.08mm  length 24mm diameter 7.5mm Fastron MESC', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+||||
+
+
+
+[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC/kicadPcb3d_450.png

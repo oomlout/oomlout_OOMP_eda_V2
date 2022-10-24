@@ -1,0 +1,38 @@
+
+
+
+  
+![][im]
+# FZKINLAXIALL7D33P58VERTICALFASTRONMICC > Inductor_THT : L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC
+- Hex ID: FZKINLAXIALL7D33P58VERTICALFASTRONMICC
+- Name: Inductor_THT : L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC
+- Description: Inductor_THT : L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC
+- Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC)
+- Short Link: [http://oom.lt/FZKINLAXIALL7D33P58VERTICALFASTRONMICC](http://oom.lt/FZKINLAXIALL7D33P58VERTICALFASTRONMICC)
+  
+
+|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC/image.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC/kicadPcb3dFront.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC/kicadPcb3dBack.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC/kicadPcb3d.png|
+| :---: | :---: | :---: | :---: |
+|||||
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-footprints|
+|OOMP Description|oompDesc|Inductor_THT|
+|OOMP Index|oompIndex|L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC|
+|Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC|
+|Hex ID (short code)|hexID|FZKINLAXIALL7D33P58VERTICALFASTRONMICC|
+|Name|name|Inductor_THT : L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC|
+|Footprint Kicad|footprintKicadDetails|{'name': 'L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC', 'description': 'Inductor, Axial series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=7*3.3mm^2, Fastron, MICC, http://www.fastrongroup.com/image-show/70/MICC.pdf?type=Complete-DataSheet&productType=series', 'tags': 'Inductor Axial series Axial Vertical pin pitch 5.08mm  length 7mm diameter 3.3mm Fastron MICC', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+||||
+
+
+
+[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC/kicadPcb3d_450.png

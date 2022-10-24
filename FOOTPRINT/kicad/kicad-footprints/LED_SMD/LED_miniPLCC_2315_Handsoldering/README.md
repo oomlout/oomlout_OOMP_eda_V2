@@ -1,0 +1,38 @@
+
+
+
+  
+![][im]
+# FZKLSMLMPLCC2315HANDSOLDERING > LED_SMD : LED_miniPLCC_2315_Handsoldering
+
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_miniPLCC_2315_Handsoldering
+- Hex ID: FZKLSMLMPLCC2315HANDSOLDERING
+- Name: LED_SMD : LED_miniPLCC_2315_Handsoldering
+- Description: LED_SMD : LED_miniPLCC_2315_Handsoldering
+- Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_miniPLCC_2315_Handsoldering](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_miniPLCC_2315_Handsoldering)
+- Short Link: [http://oom.lt/FZKLSMLMPLCC2315HANDSOLDERING](http://oom.lt/FZKLSMLMPLCC2315HANDSOLDERING)
+  
+
+|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_miniPLCC_2315_Handsoldering/image.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_miniPLCC_2315_Handsoldering/kicadPcb3dFront.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_miniPLCC_2315_Handsoldering/kicadPcb3dBack.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_miniPLCC_2315_Handsoldering/kicadPcb3d.png|
+| :---: | :---: | :---: | :---: |
+|||||
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-footprints|
+|OOMP Description|oompDesc|LED_SMD|
+|OOMP Index|oompIndex|LED_miniPLCC_2315_Handsoldering|
+|Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_miniPLCC_2315_Handsoldering|
+|Hex ID (short code)|hexID|FZKLSMLMPLCC2315HANDSOLDERING|
+|Name|name|LED_SMD : LED_miniPLCC_2315_Handsoldering|
+|Footprint Kicad|footprintKicadDetails|{'name': 'LED_miniPLCC_2315_Handsoldering', 'description': 'https://docs.broadcom.com/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Content-Type&blobheadername3=MDT-Type&blobheadervalue1=attachment%3Bfilename%3DAV02-2205EN_DS_ASMT-TxBM_2014-05-09.pdf&blobheadervalue2=application%2Fx-download&blobheadervalue3=abinary%253B%2Bcharset%253DUTF-8&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1430858274704&ssbinary=true', 'tags': 'LED', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_miniPLCC_2315.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+||||
+
+
+
+[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_miniPLCC_2315_Handsoldering/kicadPcb3d_450.png

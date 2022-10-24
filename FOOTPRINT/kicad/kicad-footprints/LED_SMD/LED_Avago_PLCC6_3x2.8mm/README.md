@@ -1,0 +1,38 @@
+
+
+
+  
+![][im]
+# FZKLSMLAVAGOPLCC63X28 > LED_SMD : LED_Avago_PLCC6_3x2.8mm
+
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Avago_PLCC6_3x2.8mm
+- Hex ID: FZKLSMLAVAGOPLCC63X28
+- Name: LED_SMD : LED_Avago_PLCC6_3x2.8mm
+- Description: LED_SMD : LED_Avago_PLCC6_3x2.8mm
+- Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Avago_PLCC6_3x2.8mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Avago_PLCC6_3x2.8mm)
+- Short Link: [http://oom.lt/FZKLSMLAVAGOPLCC63X28](http://oom.lt/FZKLSMLAVAGOPLCC63X28)
+  
+
+|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC6_3x2.8mm/image.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC6_3x2.8mm/kicadPcb3dFront.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC6_3x2.8mm/kicadPcb3dBack.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC6_3x2.8mm/kicadPcb3d.png|
+| :---: | :---: | :---: | :---: |
+|||||
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-footprints|
+|OOMP Description|oompDesc|LED_SMD|
+|OOMP Index|oompIndex|LED_Avago_PLCC6_3x2.8mm|
+|Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Avago_PLCC6_3x2.8mm|
+|Hex ID (short code)|hexID|FZKLSMLAVAGOPLCC63X28|
+|Name|name|LED_SMD : LED_Avago_PLCC6_3x2.8mm|
+|Footprint Kicad|footprintKicadDetails|{'name': 'LED_Avago_PLCC6_3x2.8mm', 'description': 'https://docs.broadcom.com/docs/AV02-3793EN', 'tags': 'LED Avago PLCC-6 ASMT-YTB7-0AA02', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Avago_PLCC6_3x2.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+||||
+
+
+
+[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC6_3x2.8mm/kicadPcb3d_450.png

@@ -1,0 +1,38 @@
+
+
+
+  
+![][im]
+# FZKINLRD75P35FASTRON7P > Inductor_THT : L_Radial_D7.5mm_P3.50mm_Fastron_07P
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D7.5mm_P3.50mm_Fastron_07P
+- Hex ID: FZKINLRD75P35FASTRON7P
+- Name: Inductor_THT : L_Radial_D7.5mm_P3.50mm_Fastron_07P
+- Description: Inductor_THT : L_Radial_D7.5mm_P3.50mm_Fastron_07P
+- Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D7.5mm_P3.50mm_Fastron_07P](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D7.5mm_P3.50mm_Fastron_07P)
+- Short Link: [http://oom.lt/FZKINLRD75P35FASTRON7P](http://oom.lt/FZKINLRD75P35FASTRON7P)
+  
+
+|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D7.5mm_P3.50mm_Fastron_07P/image.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D7.5mm_P3.50mm_Fastron_07P/kicadPcb3dFront.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D7.5mm_P3.50mm_Fastron_07P/kicadPcb3dBack.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D7.5mm_P3.50mm_Fastron_07P/kicadPcb3d.png|
+| :---: | :---: | :---: | :---: |
+|||||
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-footprints|
+|OOMP Description|oompDesc|Inductor_THT|
+|OOMP Index|oompIndex|L_Radial_D7.5mm_P3.50mm_Fastron_07P|
+|Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D7.5mm_P3.50mm_Fastron_07P|
+|Hex ID (short code)|hexID|FZKINLRD75P35FASTRON7P|
+|Name|name|Inductor_THT : L_Radial_D7.5mm_P3.50mm_Fastron_07P|
+|Footprint Kicad|footprintKicadDetails|{'name': 'L_Radial_D7.5mm_P3.50mm_Fastron_07P', 'description': 'Inductor, Radial series, Radial, pin pitch=3.50mm, , diameter=7.5mm, Fastron, 07P, http://www.fastrongroup.com/image-show/39/07P.pdf?type=Complete-DataSheet&productType=series', 'tags': 'Inductor Radial series Radial pin pitch 3.50mm  diameter 7.5mm Fastron 07P', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D7.5mm_P3.50mm_Fastron_07P.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+||||
+
+
+
+[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D7.5mm_P3.50mm_Fastron_07P/kicadPcb3d_450.png
