@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADTL1-12|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-ADTL1-12|
 |Hex ID (short code)|hexID|SZKTRADTL112|
-|Name|name|ADTL1-12|
+|name|name|ADTL1-12|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ADTL1-4-75', 'kicadSymbolReference': 'TR', 'kicadSymbolValue': 'ADTL1-12', 'kicadSymbolFootprint': 'RF_Mini-Circuits:Mini-Circuits_CD542_H2.84mm', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/ADTL1-12+.pdf', 'kicadSymbolki_keywords': 'Mini-Circuits RF Transformer', 'kicadSymbolki_description': '20-1200MHz 1:1 RF Transformer, Balanced Transmission Line, CD542', 'kicadSymbolki_fp_filters': 'Mini?Circuits*CD542*'}]|
 ||||

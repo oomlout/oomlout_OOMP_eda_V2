@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Oscillator_OCXO_Morion_MV267|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_OCXO_Morion_MV267|
 |Hex ID (short code)|hexID|FZKOCSOCSOCXOMORIONMV267|
-|Name|name|Oscillator : Oscillator_OCXO_Morion_MV267|
+|name|name|Oscillator : Oscillator_OCXO_Morion_MV267|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Oscillator_OCXO_Morion_MV267', 'description': 'http://www.morion.com.ru/catalog_pdf/MV267.pdf', 'tags': 'OCXO', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_OCXO_Morion_MV267.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_OCXO_Morion_MV267/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_OCXO_Morion_MV267/kicadPcb3d_450.png

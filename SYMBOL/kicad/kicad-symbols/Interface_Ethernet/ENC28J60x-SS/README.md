@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ENC28J60x-SS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Ethernet-ENC28J60x-SS|
 |Hex ID (short code)|hexID|SZKINTERFACEETHERNETENC28J6XSS|
-|Name|name|ENC28J60x-SS|
+|name|name|ENC28J60x-SS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ENC28J60x-SS', 'kicadSymbolFootprint': 'Package_SO:SSOP-28_5.3x10.2mm_P0.65mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/39662e.pdf', 'kicadSymbolki_keywords': 'ENC Ethernet', 'kicadSymbolki_description': 'ENC28J60 Single Chip Ethernet Interface, SSOP-28', 'kicadSymbolki_fp_filters': 'SSOP*28*5.3x10.2mm*P0.65mm*'}]|
 ||||

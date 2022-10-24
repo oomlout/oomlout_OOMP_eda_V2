@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_CommonMode_Toroid_Vertical_L19.3mm_W10.8mm_Px6.35mm_Py15.24mm_Bourns_8100|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_CommonMode_Toroid_Vertical_L19.3mm_W10.8mm_Px6.35mm_Py15.24mm_Bourns_8100|
 |Hex ID (short code)|hexID|FZKINLCOONMODETOROIDVERTICALL193W18PX635PY1524BOURNS81|
-|Name|name|Inductor_THT : L_CommonMode_Toroid_Vertical_L19.3mm_W10.8mm_Px6.35mm_Py15.24mm_Bourns_8100|
+|name|name|Inductor_THT : L_CommonMode_Toroid_Vertical_L19.3mm_W10.8mm_Px6.35mm_Py15.24mm_Bourns_8100|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_CommonMode_Toroid_Vertical_L19.3mm_W10.8mm_Px6.35mm_Py15.24mm_Bourns_8100', 'description': 'L_CommonMode_Toroid, Vertical series, Radial, pin pitch=6.35*15.24mm^2, , length*width=19.304*10.795mm^2, Bourns, 8100, http://datasheet.octopart.com/8120-RC-Bourns-datasheet-10228452.pdf', 'tags': 'L_CommonMode_Toroid Vertical series Radial pin pitch 6.35*15.24mm^2  length 19.304mm width 10.795mm Bourns 8100', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_CommonMode_Toroid_Vertical_L19.3mm_W10.8mm_Px6.35mm_Py15.24mm_Bourns_8100.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_Toroid_Vertical_L19.3mm_W10.8mm_Px6.35mm_Py15.24mm_Bourns_8100/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_Toroid_Vertical_L19.3mm_W10.8mm_Px6.35mm_Py15.24mm_Bourns_8100/kicadPcb3d_450.png

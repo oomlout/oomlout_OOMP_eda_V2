@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BP103|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-BP103|
 |Hex ID (short code)|hexID|SZKSENOPTICALBP13|
-|Name|name|BP103|
+|name|name|BP103|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BP103', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-18-3_Lens', 'kicadSymbolDatasheet': 'http://www.osram-os.com/Graphics/XPic3/00101777_0.pdf/BP', 'kicadSymbolki_keywords': 'npn phototransistor', 'kicadSymbolki_description': 'NPN Phototransistor', 'kicadSymbolki_fp_filters': 'TO?18*Lens*'}]|
 ||||

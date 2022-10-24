@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|HVSOF5|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-HVSOF5|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMHVSOF5|
-|Name|name|Package_TO_SOT_SMD : HVSOF5|
+|name|name|Package_TO_SOT_SMD : HVSOF5|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HVSOF5', 'description': 'HVSOF5, http://rohmfs.rohm.com/en/techdata_basic/ic/package/hvsof5_1-e.pdf, http://rohmfs.rohm.com/en/products/databook/datasheet/ic/sensor/hall/bu52001gul-e.pdf', 'tags': 'HVSOF5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/HVSOF5.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/HVSOF5/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/HVSOF5/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC6SLX100T-FGG484|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX100T-FGG484|
 |Hex ID (short code)|hexID|SZKFPGAXILINXSPARTAN6XC6SLX1TFGG484|
-|Name|name|XC6SLX100T-FGG484|
+|name|name|XC6SLX100T-FGG484|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC6SLX100T-FGG484', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Spartan 6 LXT 100 XC6SLX100T-FGG484'}]|
 ||||

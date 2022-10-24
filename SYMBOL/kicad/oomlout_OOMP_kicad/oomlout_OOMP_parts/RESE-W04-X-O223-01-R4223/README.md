@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-W04-X-O223-01-R4223|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O223-01-R4223|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESEW4XO2231R4223|
-|Name|name|RESE-W04-X-O223-01-R4223|
+|name|name|RESE-W04-X-O223-01-R4223|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-W04-X-O223-01-R4223', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-W04-X-O223-01-R4223', 'kicadSymbolDatasheet': 'oom.lt/R4223', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R4223;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

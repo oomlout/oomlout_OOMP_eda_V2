@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_1W_3W_R8|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1W_3W_R8|
 |Hex ID (short code)|hexID|FZKLSML1W3WR8|
-|Name|name|LED_SMD : LED_1W_3W_R8|
+|name|name|LED_SMD : LED_1W_3W_R8|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_1W_3W_R8', 'description': 'https://www.gme.cz/data/attachments/dsh.518-234.1.pdf', 'tags': 'LED 1W 3W 5W', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1W_3W_R8.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1W_3W_R8/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1W_3W_R8/kicadPcb3d_450.png

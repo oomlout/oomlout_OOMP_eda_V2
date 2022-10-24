@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TEA2014|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Video-TEA2014|
 |Hex ID (short code)|hexID|SZKVIDEOTEA214|
-|Name|name|TEA2014|
+|name|name|TEA2014|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TEA2014', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://pdf1.alldatasheet.com/datasheet-pdf/view/123244/STMICROELECTRONICS/TEA2014.html', 'kicadSymbolki_keywords': 'Video switching circuite for TV', 'kicadSymbolki_description': 'Video switching circuite for TV, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

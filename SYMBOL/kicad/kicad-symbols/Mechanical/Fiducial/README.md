@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Fiducial|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Mechanical-Fiducial|
 |Hex ID (short code)|hexID|SZKMECHANICALFID|
-|Name|name|Fiducial|
+|name|name|Fiducial|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'FID', 'kicadSymbolValue': 'Fiducial', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'fiducial marker', 'kicadSymbolki_description': 'Fiducial Marker', 'kicadSymbolki_fp_filters': 'Fiducial*'}]|
 ||||

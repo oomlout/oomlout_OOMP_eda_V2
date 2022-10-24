@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega4808-M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega4808-M|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA488M|
-|Name|name|ATmega4808-M|
+|name|name|ATmega4808-M|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATmega3208-M', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega4808-M', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/40002017A.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR', 'kicadSymbolki_description': '20MHz, 48kB Flash, 6kB SRAM, 256B EEPROM, VQFN-32', 'kicadSymbolki_fp_filters': 'QFN*1EP*5x5mm*P0.5mm*'}]|
 ||||

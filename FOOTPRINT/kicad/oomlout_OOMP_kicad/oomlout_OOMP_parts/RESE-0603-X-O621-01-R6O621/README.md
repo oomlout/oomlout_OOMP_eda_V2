@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O621-01-R6O621|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O621-01-R6O621|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO6211R6O621|
-|Name|name|oomlout_OOMP_parts : RESE-0603-X-O621-01-R6O621|
+|name|name|oomlout_OOMP_parts : RESE-0603-X-O621-01-R6O621|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RESE-0603-X-O621-01-R6O621', 'description': 'hexID: R6O621;PARTL C-JLCC;C23220;MANUF C-XXXX;0603WAF6200T5E; Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator', 'tags': 'resistor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||

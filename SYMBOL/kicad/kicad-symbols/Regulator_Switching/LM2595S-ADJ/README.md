@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM2595S-ADJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2595S-ADJ|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM2595SADJ|
-|Name|name|LM2595S-ADJ|
+|name|name|LM2595S-ADJ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM2595S-12', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2595S-ADJ', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-5_TabPin3', 'kicadSymbolDatasheet': 'http://www.ti.com.cn/cn/lit/ds/symlink/lm2595.pdf', 'kicadSymbolki_keywords': 'Step-Down Voltage Regulator 1A Adjustable', 'kicadSymbolki_description': 'Adjustable Output 1A Step-Down Voltage Regulator, TO-263-5', 'kicadSymbolki_fp_filters': 'TO?263*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CSD01060E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-CSD01060E|
 |Hex ID (short code)|hexID|SZKDIODECSD16E|
-|Name|name|CSD01060E|
+|name|name|CSD01060E|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'CSD01060E', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-2_TabPin1', 'kicadSymbolDatasheet': 'https://www.wolfspeed.com/media/downloads/87/CSD01060.pdf', 'kicadSymbolki_keywords': 'sic diode', 'kicadSymbolki_description': '600V, 1A, SiC Schottky Diode, TO-252', 'kicadSymbolki_fp_filters': 'TO?252*TabPin1*'}]|
 ||||

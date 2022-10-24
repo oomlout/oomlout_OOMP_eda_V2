@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAN3820A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-MAN3820A|
 |Hex ID (short code)|hexID|SZKDICHARACTERMAN382A|
-|Name|name|MAN3820A|
+|name|name|MAN3820A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAN3820A', 'kicadSymbolFootprint': 'Display_7Segment:MAN3820A', 'kicadSymbolDatasheet': 'https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'Single digit 7 segment yellow LED common anode left hand decimal', 'kicadSymbolki_fp_filters': '*MAN3820A*'}]|
 ||||

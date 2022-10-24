@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HDC1080|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Humidity-HDC1080|
 |Hex ID (short code)|hexID|SZKSENHUMIDITYHDC18|
-|Name|name|HDC1080|
+|name|name|HDC1080|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HDC1080', 'kicadSymbolFootprint': 'Package_SON:Texas_PWSON-N6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/hdc1080.pdf', 'kicadSymbolki_keywords': 'Temperature Humidity Sensor', 'kicadSymbolki_description': 'Low Power,High Accuracy Digital Humidity Sensor with Temperature Sensor', 'kicadSymbolki_fp_filters': 'Package*SON:Texas*PWSON*N6*'}]|
 ||||

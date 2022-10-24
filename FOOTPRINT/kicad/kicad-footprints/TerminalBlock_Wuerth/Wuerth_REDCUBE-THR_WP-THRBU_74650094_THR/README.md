@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Wuerth_REDCUBE-THR_WP-THRBU_74650094_THR|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Wuerth-Wuerth_REDCUBE-THR_WP-THRBU_74650094_THR|
 |Hex ID (short code)|hexID|FZKTBWUERTHWUERTHREDCUBETHRWPTHRBU746594THR|
-|Name|name|TerminalBlock_Wuerth : Wuerth_REDCUBE-THR_WP-THRBU_74650094_THR|
+|name|name|TerminalBlock_Wuerth : Wuerth_REDCUBE-THR_WP-THRBU_74650094_THR|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Wuerth_REDCUBE-THR_WP-THRBU_74650094_THR', 'description': 'REDCUBE THR with internal through-hole thread WP-THRBU (https://www.we-online.de/katalog/datasheet/74650094.pdf)', 'tags': 'screw terminal thread redcube thr power connector', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/TerminalBlock_Wuerth.3dshapes/Wuerth_REDCUBE-THR_WP-THRBU_74650094_THR.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||

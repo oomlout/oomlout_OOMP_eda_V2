@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LTC-4627Jx|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-LTC-4627Jx|
 |Hex ID (short code)|hexID|FZKDI7SLTC4627JX|
-|Name|name|Display_7Segment : LTC-4627Jx|
+|name|name|Display_7Segment : LTC-4627Jx|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LTC-4627Jx', 'description': 'http://optoelectronics.liteon.com/upload/download/DS30-2001-393/C4627JG.pdf', 'tags': '4 digit 7 segment LED', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/LTC-4627Jx.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/LTC-4627Jx/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Display_7Segment/LTC-4627Jx/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BSN20|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BSN20|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBSN2|
-|Name|name|BSN20|
+|name|name|BSN20|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSS138', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BSN20', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.diodes.com/assets/Datasheets/ds31898.pdf', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '0.5A Id, 50V Vds, N-Channel MOSFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

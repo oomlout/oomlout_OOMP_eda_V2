@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_Coded|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_Coded|
 |Hex ID (short code)|hexID|SZKSWITCHSWCODED|
-|Name|name|SW_Coded|
+|name|name|SW_Coded|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_Coded', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'rotary hex', 'kicadSymbolki_description': 'Rotary switch, 4-bit encoding'}]|
 ||||

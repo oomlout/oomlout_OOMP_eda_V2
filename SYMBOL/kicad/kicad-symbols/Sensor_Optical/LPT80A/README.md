@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LPT80A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-LPT80A|
 |Hex ID (short code)|hexID|SZKSENOPTICALLPT8A|
-|Name|name|LPT80A|
+|name|name|LPT80A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'LPT80A', 'kicadSymbolFootprint': 'OptoDevice:Osram_LPT80A', 'kicadSymbolDatasheet': 'http://www.osram-os.com/Graphics/XPic4/00209607_0.pdf/LPT%2080A.pdf', 'kicadSymbolki_keywords': 'NPN phototransistor', 'kicadSymbolki_description': 'NPN phototransistor', 'kicadSymbolki_fp_filters': 'Osram*LPT80A*'}]|
 ||||

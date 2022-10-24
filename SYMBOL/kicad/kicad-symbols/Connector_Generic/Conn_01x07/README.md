@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Conn_01x07|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x07|
 |Hex ID (short code)|hexID|SZKCNGENERICCONN1X7|
-|Name|name|Conn_01x07|
+|name|name|Conn_01x07|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Conn_01x07', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_1x??_*'}]|
 ||||

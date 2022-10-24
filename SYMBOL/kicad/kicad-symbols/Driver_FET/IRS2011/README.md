@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRS2011|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2011|
 |Hex ID (short code)|hexID|SZKDRIVERFETIRS211|
-|Name|name|IRS2011|
+|name|name|IRS2011|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IR2011', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IRS2011', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irs2011pbf.pdf?fileId=5546d462533600a401535675c19f2784', 'kicadSymbolki_keywords': 'Gate Driver', 'kicadSymbolki_description': 'High and Low Side Driver, 200V, 1.0/1.0A, PDIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'}]|
 ||||

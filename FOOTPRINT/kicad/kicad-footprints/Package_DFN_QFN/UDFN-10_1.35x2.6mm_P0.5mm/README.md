@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|UDFN-10_1.35x2.6mm_P0.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-UDFN-10_1.35x2.6mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKDFNUDFN1135X26P5|
-|Name|name|Package_DFN_QFN : UDFN-10_1.35x2.6mm_P0.5mm|
+|name|name|Package_DFN_QFN : UDFN-10_1.35x2.6mm_P0.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'UDFN-10_1.35x2.6mm_P0.5mm', 'description': 'http://www.st.com/content/ccc/resource/technical/document/datasheet/f2/11/8a/ed/40/31/40/56/DM00088292.pdf/files/DM00088292.pdf/jcr:content/translations/en.DM00088292.pdf', 'tags': 'UDFN 0.5 uQFN', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/UDFN-10_1.35x2.6mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UDFN-10_1.35x2.6mm_P0.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UDFN-10_1.35x2.6mm_P0.5mm/kicadPcb3d_450.png

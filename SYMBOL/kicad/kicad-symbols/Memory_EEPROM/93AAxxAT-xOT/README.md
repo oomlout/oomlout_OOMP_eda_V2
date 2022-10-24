@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|93AAxxAT-xOT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_EEPROM-93AAxxAT-xOT|
 |Hex ID (short code)|hexID|SZKMEMORYEEPROM93AAXXATXOT|
-|Name|name|93AAxxAT-xOT|
+|name|name|93AAxxAT-xOT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '93AAxxAT-xOT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20001749K.pdf', 'kicadSymbolki_keywords': 'EEPROM memory Microwire', 'kicadSymbolki_description': 'Serial EEPROM, 93 Series, 8-bit word, 1.8V, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

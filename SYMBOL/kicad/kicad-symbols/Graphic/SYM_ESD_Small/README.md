@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SYM_ESD_Small|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Graphic-SYM_ESD_Small|
 |Hex ID (short code)|hexID|SZKGRAPHICSYMESDSLL|
-|Name|name|SYM_ESD_Small|
+|name|name|SYM_ESD_Small|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#SYM', 'kicadSymbolValue': 'SYM_ESD_Small', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'symbol ESD', 'kicadSymbolki_description': 'ESD warning/"Do not touch" symbol, small'}]|
 ||||

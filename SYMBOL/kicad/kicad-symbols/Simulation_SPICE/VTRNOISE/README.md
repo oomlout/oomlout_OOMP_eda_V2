@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VTRNOISE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VTRNOISE|
 |Hex ID (short code)|hexID|SZKSIMULATIONSPICEVTRNOISE|
-|Name|name|VTRNOISE|
+|name|name|VTRNOISE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'V', 'kicadSymbolValue': 'VTRNOISE', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolSpice_Netlist_Enabled': 'Y', 'kicadSymbolSpice_Primitive': 'V', 'kicadSymbolSpice_Model': 'trnoise(20n 0.5n 0 0)', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Voltage source, transient noise'}]|
 ||||

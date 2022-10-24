@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|D_SMB_Modified|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMB_Modified|
 |Hex ID (short code)|hexID|FZKDIODESMDSMBMODIFIED|
-|Name|name|Diode_SMD : D_SMB_Modified|
+|name|name|Diode_SMD : D_SMB_Modified|
 |Footprint Kicad|footprintKicadDetails|{'name': 'D_SMB_Modified', 'description': 'Diode SMB (DO-214AA) Modified (http://www.littelfuse.com/~/media/electronics/datasheets/sidactors/littelfuse_sidactor_battrax_positive_negative_modified_do_214_datasheet.pdf.pdf)', 'tags': 'Diode SMB (DO-214AA)', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMB_Modified.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SMB_Modified/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SMB_Modified/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|HVQFN-16-1EP_3x3mm_P0.5mm_EP1.5x1.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-HVQFN-16-1EP_3x3mm_P0.5mm_EP1.5x1.5mm|
 |Hex ID (short code)|hexID|FZKDFNHVQFN161EP3X3P5EP15X15|
-|Name|name|Package_DFN_QFN : HVQFN-16-1EP_3x3mm_P0.5mm_EP1.5x1.5mm|
+|name|name|Package_DFN_QFN : HVQFN-16-1EP_3x3mm_P0.5mm_EP1.5x1.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HVQFN-16-1EP_3x3mm_P0.5mm_EP1.5x1.5mm', 'description': 'HVQFN, 16 Pin (https://www.nxp.com/docs/en/package-information/SOT758-1.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'HVQFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/HVQFN-16-1EP_3x3mm_P0.5mm_EP1.5x1.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/HVQFN-16-1EP_3x3mm_P0.5mm_EP1.5x1.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/HVQFN-16-1EP_3x3mm_P0.5mm_EP1.5x1.5mm/kicadPcb3d_450.png

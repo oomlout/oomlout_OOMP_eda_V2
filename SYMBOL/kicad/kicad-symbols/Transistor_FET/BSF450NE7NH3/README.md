@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BSF450NE7NH3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BSF450NE7NH3|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBSF45NE7NH3|
-|Name|name|BSF450NE7NH3|
+|name|name|BSF450NE7NH3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BSF450NE7NH3', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_ST', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-BSF450NE7NH3-DS-v02_02-EN.pdf?fileId=db3a30433a047ba0013a687e2ae403da', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '15A Id, 75V Vds, 45mOhm Rds, N-Channel MOSFET, DirectFET ST', 'kicadSymbolki_fp_filters': 'DirectFET*ST*'}]|
 ||||

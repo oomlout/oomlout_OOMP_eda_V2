@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SMF8V5A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-SMF8V5A|
 |Hex ID (short code)|hexID|SZKDIODESMF8V5A|
-|Name|name|SMF8V5A|
+|name|name|SMF8V5A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SM6T6V8A', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SMF8V5A', 'kicadSymbolFootprint': 'Diode_SMD:D_SMF', 'kicadSymbolDatasheet': 'https://www.vishay.com/doc?85881', 'kicadSymbolki_keywords': 'diode TVS voltage suppressor', 'kicadSymbolki_description': '200W unidirectional Transil Transient Voltage Suppressor, 8.5Vrwm, SMF', 'kicadSymbolki_fp_filters': 'D*SMF*'}]|
 ||||

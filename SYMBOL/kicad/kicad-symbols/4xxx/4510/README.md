@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4510|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx-4510|
 |Hex ID (short code)|hexID|SZK4XXX451|
-|Name|name|4510|
+|name|name|4510|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4510', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://pdf.datasheetcatalog.com/datasheets/150/109581_DS.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'CMOS CNT CNT4', 'kicadSymbolki_description': '4 bits programmable counter', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

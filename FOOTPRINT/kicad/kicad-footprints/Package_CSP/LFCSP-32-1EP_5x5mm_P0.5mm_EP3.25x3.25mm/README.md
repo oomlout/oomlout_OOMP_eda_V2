@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LFCSP-32-1EP_5x5mm_P0.5mm_EP3.25x3.25mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-32-1EP_5x5mm_P0.5mm_EP3.25x3.25mm|
 |Hex ID (short code)|hexID|FZKCSPLFCSP321EP5X5P5EP325X325|
-|Name|name|Package_CSP : LFCSP-32-1EP_5x5mm_P0.5mm_EP3.25x3.25mm|
+|name|name|Package_CSP : LFCSP-32-1EP_5x5mm_P0.5mm_EP3.25x3.25mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LFCSP-32-1EP_5x5mm_P0.5mm_EP3.25x3.25mm', 'description': '32-Lead Frame Chip Scale Package LFCSP (5mm x 5mm); (see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-32/CP_32_27.pdf', 'tags': 'LFCSP 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-32-1EP_5x5mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-32-1EP_5x5mm_P0.5mm_EP3.25x3.25mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-32-1EP_5x5mm_P0.5mm_EP3.25x3.25mm/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DG884DN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-DG884DN|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHDG884DN|
-|Name|name|DG884DN|
+|name|name|DG884DN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DG884DN', 'kicadSymbolFootprint': 'Package_LCC:PLCC-44', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/70071/dg884.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch Video Crosspoint', 'kicadSymbolki_description': '8 x 4 Wideband Video Crosspoint Array, 45Ohm Ron, PLCC-44', 'kicadSymbolki_fp_filters': 'PLCC?44*'}]|
 ||||

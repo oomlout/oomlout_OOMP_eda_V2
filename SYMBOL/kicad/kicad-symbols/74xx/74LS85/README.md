@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS85|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS85|
 |Hex ID (short code)|hexID|SZK74XX74LS85|
-|Name|name|74LS85|
+|name|name|74LS85|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS85', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS85', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL COMP ARITH', 'kicadSymbolki_description': '4-bit Comparator', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

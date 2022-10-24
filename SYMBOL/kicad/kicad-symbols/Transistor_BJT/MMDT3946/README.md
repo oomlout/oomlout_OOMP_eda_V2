@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MMDT3946|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMDT3946|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTDT3946|
-|Name|name|MMDT3946|
+|name|name|MMDT3946|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BC846BPN', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'MMDT3946', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'http://www.diodes.com/_files/datasheets/ds30123.pdf', 'kicadSymbolki_keywords': 'NPN/PNP Transistor', 'kicadSymbolki_description': '200mA IC, 40V Vce, Dual NPN/PNP Transistors, SOT-363', 'kicadSymbolki_fp_filters': 'SOT?363*'}]|
 ||||

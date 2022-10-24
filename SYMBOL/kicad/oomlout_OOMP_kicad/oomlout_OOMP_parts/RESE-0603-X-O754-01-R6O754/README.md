@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O754-01-R6O754|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O754-01-R6O754|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO7541R6O754|
-|Name|name|RESE-0603-X-O754-01-R6O754|
+|name|name|RESE-0603-X-O754-01-R6O754|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O754-01-R6O754', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O754-01-R6O754', 'kicadSymbolDatasheet': 'oom.lt/R6O754', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6O754;PARTL C-JLCC;C23240;MANUF C-XXXX;0603WAF7503T5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

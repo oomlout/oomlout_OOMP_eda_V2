@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA859xDSG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA859xDSG|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA859XDSG|
-|Name|name|OPA859xDSG|
+|name|name|OPA859xDSG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'OPA858xDSG', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA859xDSG', 'kicadSymbolFootprint': 'Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/opa859.pdf', 'kicadSymbolki_keywords': 'opamp VFA', 'kicadSymbolki_description': '1.8 GHz Unity-Gain Bandwidth FET Input Amplifier, WSON-8', 'kicadSymbolki_fp_filters': 'WSON*1EP*2x2mm*P0.5mm*'}]|
 ||||

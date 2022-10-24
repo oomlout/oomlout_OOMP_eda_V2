@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|VLGA-4_2x2.5mm_P1.65mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LGA-VLGA-4_2x2.5mm_P1.65mm|
 |Hex ID (short code)|hexID|FZKLGAVLGA42X25P165|
-|Name|name|Package_LGA : VLGA-4_2x2.5mm_P1.65mm|
+|name|name|Package_LGA : VLGA-4_2x2.5mm_P1.65mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'VLGA-4_2x2.5mm_P1.65mm', 'description': 'VLGA, 4 Pin (https://ww1.microchip.com/downloads/en/DeviceDoc/DSC60XX-Ultra-Small-Ultra-Low-Power-MEMS-Oscillator-DS20005625C.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'VLGA NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/VLGA-4_2x2.5mm_P1.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/VLGA-4_2x2.5mm_P1.65mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_LGA/VLGA-4_2x2.5mm_P1.65mm/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC9S08DZ60xLF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08DZ60xLF|
 |Hex ID (short code)|hexID|SZKMCUNXPS8MC9S8DZ6XLF|
-|Name|name|MC9S08DZ60xLF|
+|name|name|MC9S08DZ60xLF|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC9S08DZ128xLF', 'kicadSymbolReference': 'IC', 'kicadSymbolValue': 'MC9S08DZ60xLF', 'kicadSymbolFootprint': 'Package_QFP:LQFP-48_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'http://cache.nxp.com/files/microcontrollers/doc/data_sheet/MC9S08DZ60.pdf', 'kicadSymbolki_keywords': 'NXP S08 Microcontroller', 'kicadSymbolki_description': '8-bit Cost-Effective Microcontroller, S08 core, 60kB Flash, 4kB RAM, 2kB EEPROM, LQFP-48', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.5mm*'}]|
 ||||

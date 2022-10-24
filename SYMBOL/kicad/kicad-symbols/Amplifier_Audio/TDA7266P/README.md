@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TDA7266P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7266P|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOTDA7266P|
-|Name|name|TDA7266P|
+|name|name|TDA7266P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDA7266P', 'kicadSymbolFootprint': 'Package_SO:ST_PowerSSO-24_SlugDown', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/tda7266p.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'audio amplifier 2ch', 'kicadSymbolki_description': '3W+3W Dual Bridge Amplifier, PowerSSO-24', 'kicadSymbolki_fp_filters': 'ST*PowerSSO*SlugDown*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32L443RCYx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L443RCYx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32L4STM32L443RCYX|
-|Name|name|STM32L443RCYx|
+|name|name|STM32L443RCYx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32L443RCYx', 'kicadSymbolFootprint': 'Package_CSP:ST_WLCSP-64_Die435', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00254865.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32L4 STM32L4x3', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 256KB flash, 64KB RAM, 80MHz, 1.71-3.6V, 52 GPIO, WLCSP-64', 'kicadSymbolki_fp_filters': 'ST_WLCSP*Die435*'}]|
 ||||

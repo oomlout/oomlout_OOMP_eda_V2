@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX15013CxSA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-MAX15013CxSA|
 |Hex ID (short code)|hexID|SZKDRIVERFETMAX1513CXSA|
-|Name|name|MAX15013CxSA|
+|name|name|MAX15013CxSA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX15012CxSA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX15013CxSA', 'kicadSymbolFootprint': 'Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.514x3.2mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX15012-MAX15013B.pdf', 'kicadSymbolki_keywords': 'Half Bridge Gate Driver', 'kicadSymbolki_description': 'High Frequency Half Bridge Driver, Output Current 2.0A, 175V, TTL Input, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*1EP*3.9x4.9mm*P1.27mm*'}]|
 ||||

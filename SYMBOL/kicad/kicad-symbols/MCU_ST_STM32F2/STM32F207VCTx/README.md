@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F207VCTx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F207VCTx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F2STM32F27VCTX|
-|Name|name|STM32F207VCTx|
+|name|name|STM32F207VCTx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F207VCTx', 'kicadSymbolFootprint': 'Package_QFP:LQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00237391.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M3 STM32F2 STM32F2x7', 'kicadSymbolki_description': 'ARM Cortex-M3 MCU, 256KB flash, 128KB RAM, 120MHz, 1.8-3.6V, 82 GPIO, LQFP-100', 'kicadSymbolki_fp_filters': 'LQFP*14x14mm*P0.5mm*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Heatsink_AAVID_573300D00010G_TO-263|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_AAVID_573300D00010G_TO-263|
 |Hex ID (short code)|hexID|FZKHHAAVID5733D1GTO263|
-|Name|name|Heatsink : Heatsink_AAVID_573300D00010G_TO-263|
+|name|name|Heatsink : Heatsink_AAVID_573300D00010G_TO-263|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Heatsink_AAVID_573300D00010G_TO-263', 'description': 'Heatsink, 12.70mm x 26.16mm x 10.16, SMD, 18K/W, TO-263, D2 Pak, https://www.shopaavid.com/Product/573300D00000G', 'tags': 'Heatsink AAVID TO-263 D2 Pak', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_AAVID_573300D00010G_TO-263.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_573300D00010G_TO-263/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_573300D00010G_TO-263/kicadPcb3d_450.png

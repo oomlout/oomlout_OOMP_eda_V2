@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM13600|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM13600|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALLM136|
-|Name|name|LM13600|
+|name|name|LM13600|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM13700', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM13600', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://pdf.datasheetcatalog.com/datasheet/nationalsemiconductor/DS007980.PDF', 'kicadSymbolki_keywords': 'operational transconductance amplifier OTA', 'kicadSymbolki_description': 'Dual Operational Transconductance Amplifiers with Linearizing Diodes and Buffers, DIP-16/SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*3.9x9.9mm*P1.27mm* DIP*W7.62mm*'}]|
 ||||

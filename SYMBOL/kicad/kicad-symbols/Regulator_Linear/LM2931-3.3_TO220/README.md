@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM2931-3.3_TO220|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM2931-3.3_TO220|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM293133TO22|
-|Name|name|LM2931-3.3_TO220|
+|name|name|LM2931-3.3_TO220|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM7805_TO220', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2931-3.3_TO220', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/lm2931-n.pdf', 'kicadSymbolki_keywords': 'Low Dropout Voltage Regulator 100mA Positive', 'kicadSymbolki_description': 'Positive 100 mA 60V Linear Low Dropout Regulator, Fixed Output 3.3V, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

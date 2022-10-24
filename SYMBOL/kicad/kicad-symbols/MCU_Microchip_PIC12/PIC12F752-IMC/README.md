@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC12F752-IMC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F752-IMC|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC12PIC12F752IMC|
-|Name|name|PIC12F752-IMC|
+|name|name|PIC12F752-IMC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC12F752-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC12F752-IMC', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41576B.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller', 'kicadSymbolki_description': 'PIC12F752, 1024W Flash, 64B SRAM, DFN8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

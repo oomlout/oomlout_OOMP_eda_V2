@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|USB3300-EZK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-USB3300-EZK|
 |Hex ID (short code)|hexID|SZKINTERFACEUU33EZK|
-|Name|name|USB3300-EZK|
+|name|name|USB3300-EZK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'USB3300-EZK', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/00001783C.pdf', 'kicadSymbolki_keywords': 'USB OTG Hi-Speed PHY ULPI Interface', 'kicadSymbolki_description': 'Hi-Speed USB Host, Device or OTG PHY with ULPI Interface', 'kicadSymbolki_fp_filters': '*QFN*32*1EP*5x5mm*P0.5mm*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PinHeader_1x22_P1.27mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.27mm-PinHeader_1x22_P1.27mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNPINHEADER127PINHEADER1X22P127VERTICAL|
-|Name|name|Connector_PinHeader_1.27mm : PinHeader_1x22_P1.27mm_Vertical|
+|name|name|Connector_PinHeader_1.27mm : PinHeader_1x22_P1.27mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PinHeader_1x22_P1.27mm_Vertical', 'description': 'Through hole straight pin header, 1x22, 1.27mm pitch, single row', 'tags': 'Through hole pin header THT 1x22 1.27mm single row', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PinHeader_1.27mm.3dshapes/PinHeader_1x22_P1.27mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_1x22_P1.27mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_1x22_P1.27mm_Vertical/kicadPcb3d_450.png

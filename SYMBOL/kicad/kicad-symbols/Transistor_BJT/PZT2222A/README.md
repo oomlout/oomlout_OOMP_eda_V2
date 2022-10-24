@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PZT2222A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-PZT2222A|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTPZT2222A|
-|Name|name|PZT2222A|
+|name|name|PZT2222A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'PZT2222A', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223-3_TabPin2', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/PN2222-D.PDF', 'kicadSymbolki_keywords': 'NPN General Puprose Transistor SMD', 'kicadSymbolki_description': '1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, SOT-223', 'kicadSymbolki_fp_filters': 'SOT?223*'}]|
 ||||

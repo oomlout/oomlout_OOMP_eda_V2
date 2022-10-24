@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SI582|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Video-SI582|
 |Hex ID (short code)|hexID|SZKVIDEOSI582|
-|Name|name|SI582|
+|name|name|SI582|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SI582', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

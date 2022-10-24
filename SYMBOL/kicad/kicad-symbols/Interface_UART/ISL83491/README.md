@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ISL83491|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-ISL83491|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTISL83491|
-|Name|name|ISL83491|
+|name|name|ISL83491|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ISL83491', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.intersil.com/content/dam/Intersil/documents/isl8/isl83483-85-88-90-91.pdf', 'kicadSymbolki_keywords': 'RS485 RS422 transceiver full duplex', 'kicadSymbolki_description': '10Mbps RS485/RS422 transceiver, full duplex, receiver/driver enable, low power shutdown', 'kicadSymbolki_fp_filters': 'SOIC* DIP*W7.62mm*'}]|
 ||||

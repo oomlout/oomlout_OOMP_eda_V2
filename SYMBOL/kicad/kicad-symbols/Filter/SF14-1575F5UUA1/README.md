@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SF14-1575F5UUA1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Filter-SF14-1575F5UUA1|
 |Hex ID (short code)|hexID|SZKFILSF141575F5UUA1|
-|Name|name|SF14-1575F5UUA1|
+|name|name|SF14-1575F5UUA1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'FL', 'kicadSymbolValue': 'SF14-1575F5UUA1', 'kicadSymbolFootprint': 'Filter:Filter_1411-5_1.4x1.1mm', 'kicadSymbolDatasheet': 'https://global.kyocera.com/prdct/electro/product/pdf/sf14_gnss.pdf', 'kicadSymbolki_keywords': 'SAW filter', 'kicadSymbolki_description': '1575MHz SAW filter, SMD 1411', 'kicadSymbolki_fp_filters': 'Filter*1411*1.4x1.1mm*'}]|
 ||||

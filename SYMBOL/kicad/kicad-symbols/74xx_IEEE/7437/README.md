@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|7437|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx_IEEE-7437|
 |Hex ID (short code)|hexID|SZK74XXIEEE7437|
-|Name|name|7437|
+|name|name|7437|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '7437', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BZV55B7V5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BZV55B7V5|
 |Hex ID (short code)|hexID|SZKDIODEBZV55B7V5|
-|Name|name|BZV55B7V5|
+|name|name|BZV55B7V5|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZPYxx', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BZV55B7V5', 'kicadSymbolFootprint': 'Diode_SMD:D_MiniMELF', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf', 'kicadSymbolki_keywords': 'zener diode', 'kicadSymbolki_description': '7.5V, 500mW, 2%, Zener diode, MiniMELF', 'kicadSymbolki_fp_filters': 'D*MiniMELF*'}]|
 ||||

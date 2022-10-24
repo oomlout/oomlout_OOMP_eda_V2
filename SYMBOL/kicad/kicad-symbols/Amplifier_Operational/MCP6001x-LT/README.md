@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP6001x-LT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6001x-LT|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALMCP61XLT|
-|Name|name|MCP6001x-LT|
+|name|name|MCP6001x-LT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP6001x-LT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-353_SC-70-5', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': '1 MHz, Low-Power Op Amp, SC-70-5', 'kicadSymbolki_fp_filters': '*SC?70*'}]|
 ||||

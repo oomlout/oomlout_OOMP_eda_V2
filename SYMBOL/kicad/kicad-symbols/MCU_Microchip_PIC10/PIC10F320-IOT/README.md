@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC10F320-IOT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F320-IOT|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC1PIC1F32IOT|
-|Name|name|PIC10F320-IOT|
+|name|name|PIC10F320-IOT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC10F320-IOT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41585A.pdf', 'kicadSymbolki_keywords': 'FLASH 8-Bit CMOS Microcontroller', 'kicadSymbolki_description': '256W Flash, 64B SRAM, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT*23*6*'}]|
 ||||

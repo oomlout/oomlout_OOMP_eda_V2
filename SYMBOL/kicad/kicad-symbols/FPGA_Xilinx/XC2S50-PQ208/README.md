@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC2S50-PQ208|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2S50-PQ208|
 |Hex ID (short code)|hexID|SZKFPGAXILINXXC2S5PQ28|
-|Name|name|XC2S50-PQ208|
+|name|name|XC2S50-PQ208|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC2S50-PQ208', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

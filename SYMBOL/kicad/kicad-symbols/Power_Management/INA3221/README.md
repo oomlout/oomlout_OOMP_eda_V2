@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|INA3221|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-INA3221|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTINA3221|
-|Name|name|INA3221|
+|name|name|INA3221|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'INA3221', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_RGV_S-PVQFN-N16_EP2.1x2.1mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ina3221.pdf', 'kicadSymbolki_keywords': 'Shunt and Bus voltage monitor', 'kicadSymbolki_description': 'Triple-Channel High-Side Shunt and Bus Voltage Monitor with I2C and SMBUS Compatible Interface, QFN-16', 'kicadSymbolki_fp_filters': 'Texas*RGV*S?PVQFN*'}]|
 ||||

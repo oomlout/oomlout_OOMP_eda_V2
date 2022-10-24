@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HM62256BLP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_RAM-HM62256BLP|
 |Hex ID (short code)|hexID|SZKMEMORYRAMHM62256BLP|
-|Name|name|HM62256BLP|
+|name|name|HM62256BLP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'KM62256CLP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HM62256BLP', 'kicadSymbolFootprint': 'Package_DIP:DIP-28_W15.24mm', 'kicadSymbolDatasheet': 'https://web.mit.edu/6.115/www/document/62256.pdf', 'kicadSymbolki_keywords': 'RAM SRAM CMOS MEMORY', 'kicadSymbolki_description': '32,768-word × 8-bit High Speed CMOS Static RAM, 70ns, DIP-28', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

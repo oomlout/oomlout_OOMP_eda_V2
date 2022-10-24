@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-W04-X-O15X-01-R415A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O15X-01-R415A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESEW4XO15X1R415A|
-|Name|name|RESE-W04-X-O15X-01-R415A|
+|name|name|RESE-W04-X-O15X-01-R415A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-W04-X-O15X-01-R415A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-W04-X-O15X-01-R415A', 'kicadSymbolDatasheet': 'oom.lt/R415A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R415A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

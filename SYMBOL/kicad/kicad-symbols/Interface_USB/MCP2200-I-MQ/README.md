@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP2200-I-MQ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-MCP2200-I-MQ|
 |Hex ID (short code)|hexID|SZKINTERFACEUMCP22IMQ|
-|Name|name|MCP2200-I-MQ|
+|name|name|MCP2200-I-MQ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP2200-I-MQ', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-20-1EP_5x5mm_P0.65mm_EP3.35x3.35mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/200022228D.pdf', 'kicadSymbolki_keywords': 'USB UART Converter', 'kicadSymbolki_description': 'USB 2.0 to UART Protocol Converter with GPIO, QFN-20', 'kicadSymbolki_fp_filters': 'QFN*20*1EP*5x5mm*P0.65mm*'}]|
 ||||

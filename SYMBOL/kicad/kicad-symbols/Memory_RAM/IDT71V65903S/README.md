@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IDT71V65903S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT71V65903S|
 |Hex ID (short code)|hexID|SZKMEMORYRAMIDT71V6593S|
-|Name|name|IDT71V65903S|
+|name|name|IDT71V65903S|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IDT71V65903S', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_description': '165 pins BGA 3.3V high-speed 9 Megabit synchronous SRAMs 512K x 18 (or  256K x 36)'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NB3N502|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-NB3N502|
 |Hex ID (short code)|hexID|SZKOCSNB3N52|
-|Name|name|NB3N502|
+|name|name|NB3N502|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NB3N502', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/NB3N502-D.PDF', 'kicadSymbolki_keywords': 'oscillator clock multiplier PLL', 'kicadSymbolki_description': '3.3V / 5.0V 14 MHz to 190 MHz PLL Clock Multiplier, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega162-16P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega162-16P|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA16216P|
-|Name|name|ATmega162-16P|
+|name|name|ATmega162-16P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATmega162V-8P', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega162-16P', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2513-8-bit-AVR-Microntroller-ATmega162_Datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR', 'kicadSymbolki_description': '16MHz, 16kB Flash, 1kB SRAM, 512B EEPROM, JTAG, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

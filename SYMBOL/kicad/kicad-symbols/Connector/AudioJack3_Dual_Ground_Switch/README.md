@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AudioJack3_Dual_Ground_Switch|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-AudioJack3_Dual_Ground_Switch|
 |Hex ID (short code)|hexID|SZKCNAUDIOJ3DUALGROUNDSWITCH|
-|Name|name|AudioJack3_Dual_Ground_Switch|
+|name|name|AudioJack3_Dual_Ground_Switch|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'AudioJack3_Dual_Ground_Switch', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'audio jack dual receptacle stereo headphones phones TRS connector', 'kicadSymbolki_description': 'Audio Jack, Dual, 3 Poles (Stereo / TRS), Grounded Sleeve, Switched Poles (Normalling)', 'kicadSymbolki_fp_filters': 'Jack*'}]|
 ||||

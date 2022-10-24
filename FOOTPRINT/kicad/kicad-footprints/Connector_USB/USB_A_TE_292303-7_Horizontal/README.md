@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB_A_TE_292303-7_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_TE_292303-7_Horizontal|
 |Hex ID (short code)|hexID|FZKCNUUATE292337HORIZONTAL|
-|Name|name|Connector_USB : USB_A_TE_292303-7_Horizontal|
+|name|name|Connector_USB : USB_A_TE_292303-7_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB_A_TE_292303-7_Horizontal', 'description': 'USB type A, Horizontal, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=292303&DocType=Customer+Drawing&DocLang=English', 'tags': 'USB_A Female Connector receptacle', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_A_TE_292303-7_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_A_TE_292303-7_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_A_TE_292303-7_Horizontal/kicadPcb3d_450.png

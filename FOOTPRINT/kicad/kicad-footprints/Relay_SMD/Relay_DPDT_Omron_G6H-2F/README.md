@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Relay_DPDT_Omron_G6H-2F|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_Omron_G6H-2F|
 |Hex ID (short code)|hexID|FZKRELAYSMRELAYDPDTOMRONG6H2F|
-|Name|name|Relay_SMD : Relay_DPDT_Omron_G6H-2F|
+|name|name|Relay_SMD : Relay_DPDT_Omron_G6H-2F|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Relay_DPDT_Omron_G6H-2F', 'description': 'package for Omron G6H-2F relais, see http://cdn-reichelt.de/documents/datenblatt/C300/G6H%23OMR.pdf', 'tags': 'Omron G6H-2F relais', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_SMD.3dshapes/Relay_DPDT_Omron_G6H-2F.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_DPDT_Omron_G6H-2F/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_DPDT_Omron_G6H-2F/kicadPcb3d_450.png

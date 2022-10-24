@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Resonator-3Pin_W7.0mm_H2.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator-3Pin_W7.0mm_H2.5mm|
 |Hex ID (short code)|hexID|FZKXR3PINW7H25|
-|Name|name|Crystal : Resonator-3Pin_W7.0mm_H2.5mm|
+|name|name|Crystal : Resonator-3Pin_W7.0mm_H2.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Resonator-3Pin_W7.0mm_H2.5mm', 'description': 'Ceramic Resomator/Filter 7.0x2.5mm^2, length*width=7.0x2.5mm^2 package, package length=7.0mm, package width=2.5mm, 3 pins', 'tags': 'THT ceramic resonator filter', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Resonator-3Pin_W7.0mm_H2.5mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator-3Pin_W7.0mm_H2.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator-3Pin_W7.0mm_H2.5mm/kicadPcb3d_450.png

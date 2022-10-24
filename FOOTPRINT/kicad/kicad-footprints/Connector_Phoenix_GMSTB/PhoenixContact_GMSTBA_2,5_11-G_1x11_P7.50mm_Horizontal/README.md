@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PhoenixContact_GMSTBA_2,5_11-G_1x11_P7.50mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_GMSTB-PhoenixContact_GMSTBA_2,5_11-G_1x11_P7.50mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNPHOENIXGMSTBPHOENIXCONTACTGMSTBA2511G1X11P75HORIZONTAL|
-|Name|name|Connector_Phoenix_GMSTB : PhoenixContact_GMSTBA_2,5_11-G_1x11_P7.50mm_Horizontal|
+|name|name|Connector_Phoenix_GMSTB : PhoenixContact_GMSTBA_2,5_11-G_1x11_P7.50mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PhoenixContact_GMSTBA_2,5_11-G_1x11_P7.50mm_Horizontal', 'description': 'Generic Phoenix Contact connector footprint for: GMSTBA_2,5/11-G; number of pins: 11; pin pitch: 7.50mm; Angled \|\| order number: 1766437 12A 630V', 'tags': 'phoenix_contact connector GMSTBA_01x11_G_7.50mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Phoenix_GMSTB.3dshapes/PhoenixContact_GMSTBA_2,5_11-G_1x11_P7.50mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBA_2,5_11-G_1x11_P7.50mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBA_2,5_11-G_1x11_P7.50mm_Horizontal/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FX614|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Telecom-FX614|
 |Hex ID (short code)|hexID|SZKINTERFACETELECOMFX614|
-|Name|name|FX614|
+|name|name|FX614|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FX614', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.cmlmicro.com/wp-content/uploads/2017/06/FX614_ds.pdf', 'kicadSymbolki_keywords': 'Bell Modem', 'kicadSymbolki_description': 'Bell 202 Compatible Modem, DIP-16/SO-16', 'kicadSymbolki_fp_filters': 'DIP* PDIP* SO*'}]|
 ||||

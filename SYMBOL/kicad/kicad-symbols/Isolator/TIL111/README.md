@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TIL111|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-TIL111|
 |Hex ID (short code)|hexID|SZKISOLATORTIL111|
-|Name|name|TIL111|
+|name|name|TIL111|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '4N25', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TIL111', 'kicadSymbolFootprint': 'Package_DIP:DIP-6_W7.62mm', 'kicadSymbolDatasheet': 'https://www.egr.msu.edu/eceshop/Parts_Inventory/datasheets/til111.pdf', 'kicadSymbolki_keywords': 'NPN DC Optocoupler Base Connected', 'kicadSymbolki_description': 'DC Optocoupler, Phototransistor NPN, DIP6', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

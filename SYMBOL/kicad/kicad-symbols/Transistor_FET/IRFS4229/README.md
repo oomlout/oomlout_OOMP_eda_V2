@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRFS4229|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFS4229|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRFS4229|
-|Name|name|IRFS4229|
+|name|name|IRFS4229|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STB15N80K5', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRFS4229', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-2', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irfs4229pbf.pdf?fileId=5546d462533600a401535639fdc421a1', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '91A Id, 250V Vds, 42mOhm Rds, N-Channel MOSFET, D2PAK', 'kicadSymbolki_fp_filters': 'TO?263*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Texas_S-PX2QFN-14|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PX2QFN-14|
 |Hex ID (short code)|hexID|FZKDFNTEXASSPX2QFN14|
-|Name|name|Package_DFN_QFN : Texas_S-PX2QFN-14|
+|name|name|Package_DFN_QFN : Texas_S-PX2QFN-14|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Texas_S-PX2QFN-14', 'description': 'Texas  QFN, 14 Pin (http://www.ti.com/lit/ds/symlink/tlv9004.pdf#page=64), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'Texas QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PX2QFN-14.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PX2QFN-14/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PX2QFN-14/kicadPcb3d_450.png

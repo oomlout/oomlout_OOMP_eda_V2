@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX6816|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-MAX6816|
 |Hex ID (short code)|hexID|SZKINTERFACEMAX6816|
-|Name|name|MAX6816|
+|name|name|MAX6816|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX6816', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-143', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/1896.pdf', 'kicadSymbolki_keywords': 'Switch Debouncer', 'kicadSymbolki_description': 'Single Switch  Debouncer, SOT-143', 'kicadSymbolki_fp_filters': 'SOT*143*'}]|
 ||||

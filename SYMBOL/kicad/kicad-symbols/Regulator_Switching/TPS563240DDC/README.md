@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS563240DDC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS563240DDC|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS56324DDC|
-|Name|name|TPS563240DDC|
+|name|name|TPS563240DDC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS562200', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS563240DDC', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'www.ti.com/lit/ds/symlink/tps563240.pdf', 'kicadSymbolki_keywords': 'step-down dcdc voltage regulator', 'kicadSymbolki_description': '3A Synchronous Step-Down Voltage Regulator, Adjustable Output Voltage, 4.5-17V Input Voltage, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

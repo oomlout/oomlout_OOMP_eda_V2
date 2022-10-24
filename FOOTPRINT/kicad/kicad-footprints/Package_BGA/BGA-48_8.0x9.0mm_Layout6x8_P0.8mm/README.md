@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|BGA-48_8.0x9.0mm_Layout6x8_P0.8mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-48_8.0x9.0mm_Layout6x8_P0.8mm|
 |Hex ID (short code)|hexID|FZKBGABGA488X9LAYOUT6X8P8|
-|Name|name|Package_BGA : BGA-48_8.0x9.0mm_Layout6x8_P0.8mm|
+|name|name|Package_BGA : BGA-48_8.0x9.0mm_Layout6x8_P0.8mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'BGA-48_8.0x9.0mm_Layout6x8_P0.8mm', 'description': 'BGA-48 - pitch 0.8 mm', 'tags': 'BGA-48', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-48_8.0x9.0mm_Layout6x8_P0.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-48_8.0x9.0mm_Layout6x8_P0.8mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-48_8.0x9.0mm_Layout6x8_P0.8mm/kicadPcb3d_450.png

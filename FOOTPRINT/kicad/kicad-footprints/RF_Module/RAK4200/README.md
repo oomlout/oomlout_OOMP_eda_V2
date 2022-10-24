@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RAK4200|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-RAK4200|
 |Hex ID (short code)|hexID|FZKRFMORAK42|
-|Name|name|RF_Module : RAK4200|
+|name|name|RF_Module : RAK4200|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RAK4200', 'description': 'RAK4200 LPWAN Module https://downloads.rakwireless.com/LoRa/RAK4200/Hardware-Specification/RAK4200_Module_Specifications_V1.4.pdf', 'tags': 'LoRa LoRaWAN RAK4200', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/RAK4200.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

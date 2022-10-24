@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|USR-C322|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_WiFi-USR-C322|
 |Hex ID (short code)|hexID|FZKRFUSRC322|
-|Name|name|RF_WiFi : USR-C322|
+|name|name|RF_WiFi : USR-C322|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USR-C322', 'description': 'https://www.usriot.com/download/WIFI/USR-C322-Hardware-Manual_V1.2.01.pdf', 'tags': 'WiFi IEEE802.11 b/g/n', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_WiFi.3dshapes/USR-C322.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

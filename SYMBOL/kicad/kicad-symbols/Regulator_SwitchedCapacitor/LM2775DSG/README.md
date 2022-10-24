@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM2775DSG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LM2775DSG|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHEDCAPACITORLM2775DSG|
-|Name|name|LM2775DSG|
+|name|name|LM2775DSG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2775DSG', 'kicadSymbolFootprint': 'Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm_ThermalVias', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/gpn/lm2775', 'kicadSymbolki_keywords': 'Charge pump inductorless', 'kicadSymbolki_description': '5V charge pump, 200mA, WSON-8', 'kicadSymbolki_fp_filters': 'WSON*1EP*2x2mm*P0.5mm*'}]|
 ||||

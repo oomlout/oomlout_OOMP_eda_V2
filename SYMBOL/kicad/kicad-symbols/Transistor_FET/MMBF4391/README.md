@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MMBF4391|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-MMBF4391|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBF4391|
-|Name|name|MMBF4391|
+|name|name|MMBF4391|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSR56', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'MMBF4391', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MMBF4391LT1-D.PDF', 'kicadSymbolki_keywords': 'N-Channel FET Transistor', 'kicadSymbolki_description': '50mA min, 30V, 30mOhm max, 4-10V Vgs(off), N-Channel JFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

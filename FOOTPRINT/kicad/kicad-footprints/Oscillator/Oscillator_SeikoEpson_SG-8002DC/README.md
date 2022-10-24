@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Oscillator_SeikoEpson_SG-8002DC|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SeikoEpson_SG-8002DC|
 |Hex ID (short code)|hexID|FZKOCSOCSSEIKOEPSONSG82DC|
-|Name|name|Oscillator : Oscillator_SeikoEpson_SG-8002DC|
+|name|name|Oscillator : Oscillator_SeikoEpson_SG-8002DC|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Oscillator_SeikoEpson_SG-8002DC', 'description': '8-lead dip package, row spacing 7.62 mm (300 mils)', 'tags': 'DIL DIP PDIP 2.54mm 7.62mm 300mil', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SeikoEpson_SG-8002DC.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SeikoEpson_SG-8002DC/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SeikoEpson_SG-8002DC/kicadPcb3d_450.png

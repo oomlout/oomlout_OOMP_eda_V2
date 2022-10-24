@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Filter_1411-5_1.4x1.1mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Filter-Filter_1411-5_1.4x1.1mm|
 |Hex ID (short code)|hexID|FZKFILFIL1411514X11|
-|Name|name|Filter : Filter_1411-5_1.4x1.1mm|
+|name|name|Filter : Filter_1411-5_1.4x1.1mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Filter_1411-5_1.4x1.1mm', 'description': '5-pin filter package - 1.4x1.1 mm Body; (see https://global.kyocera.com/prdct/electro/product/pdf/sf14_tdlte.pdf)', 'tags': 'Filter 5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_1411-5_1.4x1.1mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Filter/Filter_1411-5_1.4x1.1mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Filter/Filter_1411-5_1.4x1.1mm/kicadPcb3d_450.png

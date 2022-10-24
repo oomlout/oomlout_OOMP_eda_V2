@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS51|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS51|
 |Hex ID (short code)|hexID|SZK74XX74LS51|
-|Name|name|74LS51|
+|name|name|74LS51|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS51', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/sn74ls51.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL ANDNOR', 'kicadSymbolki_description': 'Dual 3- and 2-input AND-NOR ( S = /(AB[C] + DE[F]) )', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

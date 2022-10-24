@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ABLNO|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-ABLNO|
 |Hex ID (short code)|hexID|SZKOCSABLNO|
-|Name|name|ABLNO|
+|name|name|ABLNO|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'X', 'kicadSymbolValue': 'ABLNO', 'kicadSymbolFootprint': 'Oscillator:Oscillator_SMD_Abracon_ABLNO', 'kicadSymbolDatasheet': 'https://abracon.com/Precisiontiming/ABLNO.pdf', 'kicadSymbolki_keywords': 'XO VCXO', 'kicadSymbolki_description': 'LVCMOS Ultra Low Phase Noise XO / VCXO, Abracon ABLNO', 'kicadSymbolki_fp_filters': 'Oscillator*Abracon*ABLNO*'}]|
 ||||

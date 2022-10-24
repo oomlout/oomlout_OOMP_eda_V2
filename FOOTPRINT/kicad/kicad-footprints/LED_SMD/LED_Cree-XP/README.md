@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_Cree-XP|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XP|
 |Hex ID (short code)|hexID|FZKLSMLCREEXP|
-|Name|name|LED_SMD : LED_Cree-XP|
+|name|name|LED_SMD : LED_Cree-XP|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_Cree-XP', 'description': 'LED Cree-XP http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/XLampXPE2.pdf', 'tags': 'LED Cree XP', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Cree-XP.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-XP/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-XP/kicadPcb3d_450.png

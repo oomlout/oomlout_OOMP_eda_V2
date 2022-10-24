@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|VQFN-32-1EP_5x5mm_P0.5mm_EP3.15x3.15mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-VQFN-32-1EP_5x5mm_P0.5mm_EP3.15x3.15mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNVQFN321EP5X5P5EP315X315THERMALVIAS|
-|Name|name|Package_DFN_QFN : VQFN-32-1EP_5x5mm_P0.5mm_EP3.15x3.15mm_ThermalVias|
+|name|name|Package_DFN_QFN : VQFN-32-1EP_5x5mm_P0.5mm_EP3.15x3.15mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'VQFN-32-1EP_5x5mm_P0.5mm_EP3.15x3.15mm_ThermalVias', 'description': 'VQFN, 32 Pin (https://www.ti.com/lit/ds/slvs589d/slvs589d.pdf#page=33), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'VQFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/VQFN-32-1EP_5x5mm_P0.5mm_EP3.15x3.15mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/VQFN-32-1EP_5x5mm_P0.5mm_EP3.15x3.15mm_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/VQFN-32-1EP_5x5mm_P0.5mm_EP3.15x3.15mm_ThermalVias/kicadPcb3d_450.png

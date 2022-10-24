@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|80C188|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Intel-80C188|
 |Hex ID (short code)|hexID|SZKMCUINTEL8C188|
-|Name|name|80C188|
+|name|name|80C188|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '80C188', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://datasheets.chipdb.org/Intel/x86/8018x/datashts/80188/intel-80c188.pdf', 'kicadSymbolki_keywords': 'MPRO', 'kicadSymbolki_description': 'CHMOS High-Integration 16-Bit Microprocessor', 'kicadSymbolki_fp_filters': 'PLCC* PGA*Layout11x11*P2.54mm* LCC*'}]|
 ||||

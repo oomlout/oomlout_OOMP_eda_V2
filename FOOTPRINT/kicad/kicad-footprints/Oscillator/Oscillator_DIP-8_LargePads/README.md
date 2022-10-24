@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Oscillator_DIP-8_LargePads|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_DIP-8_LargePads|
 |Hex ID (short code)|hexID|FZKOCSOCSDIP8LPADS|
-|Name|name|Oscillator : Oscillator_DIP-8_LargePads|
+|name|name|Oscillator : Oscillator_DIP-8_LargePads|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Oscillator_DIP-8_LargePads', 'description': 'Oscillator, DIP8, Large Pads, http://cdn-reichelt.de/documents/datenblatt/B400/OSZI.pdf', 'tags': 'oscillator', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_DIP-8.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_DIP-8_LargePads/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_DIP-8_LargePads/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|16550|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-16550|
 |Hex ID (short code)|hexID|SZKINTERFACEUART1655|
-|Name|name|16550|
+|name|name|16550|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '16550', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/pc16550d.pdf', 'kicadSymbolki_keywords': '1ch UART FIFO', 'kicadSymbolki_description': 'PC16550D, Universal Asynchronous Receiver/Transmitter with FIFOs, PDIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

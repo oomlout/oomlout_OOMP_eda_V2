@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FDC6330L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-FDC6330L|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETFDC633L|
-|Name|name|FDC6330L|
+|name|name|FDC6330L|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FDC6330L', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-6', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FDC6330L-D.PDF', 'kicadSymbolki_keywords': 'complementary mosfet', 'kicadSymbolki_description': '-2.3A, 20V Vds, Integrated load switch, P-Channel MOSFET driven by small N-Channel MOSFET, TSOT-23-6', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
 ||||

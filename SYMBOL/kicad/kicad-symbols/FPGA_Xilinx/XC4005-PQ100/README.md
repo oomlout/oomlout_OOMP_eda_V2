@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC4005-PQ100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC4005-PQ100|
 |Hex ID (short code)|hexID|SZKFPGAXILINXXC45PQ1|
-|Name|name|XC4005-PQ100|
+|name|name|XC4005-PQ100|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC4005-PQ100', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

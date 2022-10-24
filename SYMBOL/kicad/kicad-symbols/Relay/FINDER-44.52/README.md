@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FINDER-44.52|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-FINDER-44.52|
 |Hex ID (short code)|hexID|SZKRELAYFINDER4452|
-|Name|name|FINDER-44.52|
+|name|name|FINDER-44.52|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'FINDER-40.52', 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'FINDER-44.52', 'kicadSymbolFootprint': 'Relay_THT:Relay_DPDT_Finder_40.52', 'kicadSymbolDatasheet': 'http://gfinder.findernet.com/assets/Series/359/S44EN.pdf', 'kicadSymbolki_keywords': 'Dual Pole Relay', 'kicadSymbolki_description': 'FINDER 44.52, Dual Pole Relay, 5mm Pitch, 6A', 'kicadSymbolki_fp_filters': 'Relay*DPDT*Finder*40.52*'}]|
 ||||

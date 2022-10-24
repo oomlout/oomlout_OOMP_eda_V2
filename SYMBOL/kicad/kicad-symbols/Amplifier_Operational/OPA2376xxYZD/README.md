@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA2376xxYZD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2376xxYZD|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA2376XXYZD|
-|Name|name|OPA2376xxYZD|
+|name|name|OPA2376xxYZD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA2376xxYZD', 'kicadSymbolFootprint': 'Package_BGA:Texas_DSBGA-8_0.9x1.9mm_Layout2x4_P0.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/opa376.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'dual opamp', 'kicadSymbolki_description': 'Dual Low-Noise, Low Quiescent Current, Precision Operational Amplifier e-trim Series, DSBGA-8', 'kicadSymbolki_fp_filters': 'Texas*DSBGA*0.9x1.9mm*0.5mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BTA16-600CW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BTA16-600CW|
 |Hex ID (short code)|hexID|SZKTRIACTHYRISTORBTA166CW|
-|Name|name|BTA16-600CW|
+|name|name|BTA16-600CW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TIC226', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BTA16-600CW', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/bta16.pdf', 'kicadSymbolki_keywords': 'Triac', 'kicadSymbolki_description': '16A RMS, 600V Off-State Voltage, 35mA Sensitivity, Snubberless, Insulated, Triac, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADP5054|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP5054|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGADP554|
-|Name|name|ADP5054|
+|name|name|ADP5054|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADP5054', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADP5054.pdf', 'kicadSymbolki_keywords': 'quad regulator dcdc buck synchronizable parallel', 'kicadSymbolki_description': '250kHz to 2MHz, 6A/6A/2A/2A Quad Buck Regulator, -40 to +125C, QFN-48', 'kicadSymbolki_fp_filters': 'QFN*1EP*7x7mm*P0.5mm*'}]|
 ||||

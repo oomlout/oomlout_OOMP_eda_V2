@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SN65220|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-SN65220|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONSN6522|
-|Name|name|SN65220|
+|name|name|SN65220|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SN65220', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/sn65220.pdf', 'kicadSymbolki_keywords': 'USB suppressor', 'kicadSymbolki_description': 'USB port transient suppressors', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

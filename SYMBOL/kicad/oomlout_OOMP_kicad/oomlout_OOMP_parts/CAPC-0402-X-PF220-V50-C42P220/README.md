@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0402-X-PF220-V50-C42P220|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF220-V50-C42P220|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XPF22V5C42P22|
-|Name|name|CAPC-0402-X-PF220-V50-C42P220|
+|name|name|CAPC-0402-X-PF220-V50-C42P220|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0402-X-PF220-V50-C42P220', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0402-X-PF220-V50-C42P220', 'kicadSymbolDatasheet': 'oom.lt/C42P220', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C42P220;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

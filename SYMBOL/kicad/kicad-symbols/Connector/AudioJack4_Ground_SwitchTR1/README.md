@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AudioJack4_Ground_SwitchTR1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-AudioJack4_Ground_SwitchTR1|
 |Hex ID (short code)|hexID|SZKCNAUDIOJ4GROUNDSWITCHTR1|
-|Name|name|AudioJack4_Ground_SwitchTR1|
+|name|name|AudioJack4_Ground_SwitchTR1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'AudioJack4_Ground_SwitchTR1', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'audio jack receptacle stereo headphones phones TRS connector', 'kicadSymbolki_description': 'Audio Jack, 4 Poles (Stereo / TRRS), Grounded Sleeve, Switched TR1 Poles (Normalling)', 'kicadSymbolki_fp_filters': 'Jack*'}]|
 ||||

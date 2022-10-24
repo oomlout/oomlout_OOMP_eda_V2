@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_SPST_Temperature|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_SPST_Temperature|
 |Hex ID (short code)|hexID|SZKSWITCHSWSPSTTEMPERATURE|
-|Name|name|SW_SPST_Temperature|
+|name|name|SW_SPST_Temperature|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_SPST_Temperature', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'temperature switch', 'kicadSymbolki_description': 'Single Pole Single Throw (SPST) switch, temperature dependent'}]|
 ||||

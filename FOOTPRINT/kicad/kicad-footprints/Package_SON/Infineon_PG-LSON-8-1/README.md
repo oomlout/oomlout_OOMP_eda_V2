@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Infineon_PG-LSON-8-1|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-Infineon_PG-LSON-8-1|
 |Hex ID (short code)|hexID|FZKSONINFINEONPGLSON81|
-|Name|name|Package_SON : Infineon_PG-LSON-8-1|
+|name|name|Package_SON : Infineon_PG-LSON-8-1|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Infineon_PG-LSON-8-1', 'description': 'https://www.infineon.com/cms/en/product/packages/PG-LSON/PG-LSON-8-1/', 'tags': 'PG-LSON-8-1', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Infineon_PG-LSON-8-1.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/Infineon_PG-LSON-8-1/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SON/Infineon_PG-LSON-8-1/kicadPcb3d_450.png

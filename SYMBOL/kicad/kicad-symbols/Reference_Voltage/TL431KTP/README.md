@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TL431KTP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-TL431KTP|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGETL431KTP|
-|Name|name|TL431KTP|
+|name|name|TL431KTP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TL431KTP', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-2', 'kicadSymbolDatasheet': 'http://www.jameco.com/Jameco/Products/ProdDS/760499.pdf', 'kicadSymbolki_keywords': 'diode device shunt regulator', 'kicadSymbolki_description': 'Shunt Regulator, TO-252', 'kicadSymbolki_fp_filters': 'TO*252*'}]|
 ||||

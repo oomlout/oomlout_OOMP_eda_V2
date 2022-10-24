@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OSHW-Symbol_13.4x12mm_Copper|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Symbol_13.4x12mm_Copper|
 |Hex ID (short code)|hexID|FZKSZOSHWSY134X12C|
-|Name|name|Symbol : OSHW-Symbol_13.4x12mm_Copper|
+|name|name|Symbol : OSHW-Symbol_13.4x12mm_Copper|
 |Footprint Kicad|footprintKicadDetails|{'name': 'OSHW-Symbol_13.4x12mm_Copper', 'description': 'Open Source Hardware Symbol', 'tags': 'Logo Symbol OSHW', 'attributeType': None, 'pins': {}}|
 ||||

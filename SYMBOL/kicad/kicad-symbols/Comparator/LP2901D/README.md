@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LP2901D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Comparator-LP2901D|
 |Hex ID (short code)|hexID|SZKCOMPARATORLP291D|
-|Name|name|LP2901D|
+|name|name|LP2901D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM339', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LP2901D', 'kicadSymbolFootprint': 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/lp2901.pdf', 'kicadSymbolki_keywords': 'cmp open collector', 'kicadSymbolki_description': 'Quad Differential Comparators, SOIC-14', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm*'}]|
 ||||

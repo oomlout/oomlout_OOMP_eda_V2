@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Radiation_Filled|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Radiation_Filled|
 |Hex ID (short code)|hexID|SZKDEVICEDRADIATIONFILL|
-|Name|name|D_Radiation_Filled|
+|name|name|D_Radiation_Filled|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Radiation_Filled', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'radiation detector diode', 'kicadSymbolki_description': 'Semiconductor radiation detector, filled shape'}]|
 ||||

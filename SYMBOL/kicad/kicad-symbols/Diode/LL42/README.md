@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LL42|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-LL42|
 |Hex ID (short code)|hexID|SZKDIODELL42|
-|Name|name|LL42|
+|name|name|LL42|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LL41', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LL42', 'kicadSymbolFootprint': 'Diode_SMD:D_MiniMELF', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/85672/ll42.pdf', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '30V 0.2A Small Signal Schottky diode, MiniMELF', 'kicadSymbolki_fp_filters': 'D*MiniMELF*'}]|
 ||||

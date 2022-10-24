@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0805-X-PF5-V50-C8P5|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-PF5-V50-C8P5|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XPF5V5C8P5|
-|Name|name|CAPC-0805-X-PF5-V50-C8P5|
+|name|name|CAPC-0805-X-PF5-V50-C8P5|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0805-X-PF5-V50-C8P5', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0805-X-PF5-V50-C8P5', 'kicadSymbolDatasheet': 'oom.lt/C8P5', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C8P5;PARTL C-JLCC;C107110;MANUF C-XXXX;CC0805JRNPO9BN150;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

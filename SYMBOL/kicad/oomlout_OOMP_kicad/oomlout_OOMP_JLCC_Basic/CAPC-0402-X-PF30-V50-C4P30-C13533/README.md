@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0402-X-PF30-V50-C4P30-C13533|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-PF30-V50-C4P30-C13533|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XPF3V5C4P3C13533|
-|Name|name|CAPC-0402-X-PF30-V50-C4P30-C13533|
+|name|name|CAPC-0402-X-PF30-V50-C4P30-C13533|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0402-X-PF30-V50-C4P30-C13533', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0402-X-PF30-V50-C4P30-C13533', 'kicadSymbolDatasheet': 'oom.lt/C4P30', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C4P30;PARTL C-JLCC;C13533;MANUF C-XXXX;CL05C331JB5NNNC;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

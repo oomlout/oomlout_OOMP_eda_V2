@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SLA7075MPRT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7075MPRT|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORSLA775MPRT|
-|Name|name|SLA7075MPRT|
+|name|name|SLA7075MPRT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SLA7075MPRT', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.semicon.sanken-ele.co.jp/sk_content/sla7075mprt_ds_en.pdf', 'kicadSymbolki_keywords': 'Stepper driver', 'kicadSymbolki_description': 'Unipolar 2-phase stepper motor driver, Microstep, 1A', 'kicadSymbolki_fp_filters': 'ZIP23'}]|
 ||||

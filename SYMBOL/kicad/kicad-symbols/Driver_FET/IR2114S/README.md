@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IR2114S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-IR2114S|
 |Hex ID (short code)|hexID|SZKDRIVERFETIR2114S|
-|Name|name|IR2114S|
+|name|name|IR2114S|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IR2114S', 'kicadSymbolFootprint': 'Package_SO:SSOP-24_5.3x8.2mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/ir2114ss.pdf?fileId=5546d462533600a4015355c836cd168a', 'kicadSymbolki_keywords': 'Gate Driver', 'kicadSymbolki_description': 'Half-Bridge Gate Driver IC, 600V, 1.0/1.5A, SSOP-24', 'kicadSymbolki_fp_filters': 'SSOP*5.3x8.2mm*P0.65mm*'}]|
 ||||

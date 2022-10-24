@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC6850|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-MC6850|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTMC685|
-|Name|name|MC6850|
+|name|name|MC6850|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC6850', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://pdf.datasheetcatalog.com/datasheet/motorola/MC6850.pdf', 'kicadSymbolki_keywords': 'ACIA', 'kicadSymbolki_description': 'Asynchronous Communications Interface Adapter 1MHz, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

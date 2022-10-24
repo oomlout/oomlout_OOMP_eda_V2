@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Q_NIGBT_EGC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Q_NIGBT_EGC|
 |Hex ID (short code)|hexID|SZKDEVICEQNIGBTEGC|
-|Name|name|Q_NIGBT_EGC|
+|name|name|Q_NIGBT_EGC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Q_NIGBT_EGC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'transistor IGBT N-IGBT', 'kicadSymbolki_description': 'N-IGBT transistor, emitter/gate/collector'}]|
 ||||

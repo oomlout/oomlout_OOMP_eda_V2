@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MP171GJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-MP171GJ|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGMP171GJ|
-|Name|name|MP171GJ|
+|name|name|MP171GJ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MP171GJ', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-5', 'kicadSymbolDatasheet': 'https://www.monolithicpower.com/pub/media/document/m/p/mp171_r1.01.pdf', 'kicadSymbolki_keywords': 'regulator switching adjustable', 'kicadSymbolki_description': '60mA Non-Isolated Off-Line Regulator, 700V Input Voltage, Adjustable Output Voltage, TSOT-23-5', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
 ||||

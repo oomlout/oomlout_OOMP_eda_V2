@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ST1S10PHR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-ST1S10PHR|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGST1S1PHR|
-|Name|name|ST1S10PHR|
+|name|name|ST1S10PHR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ST1S10PHR', 'kicadSymbolFootprint': 'Package_SO:TI_SO-PowerPAD-8', 'kicadSymbolDatasheet': 'http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00169322.pdf', 'kicadSymbolki_keywords': 'DC/DC Buck Conwerter 3A Low Voltage Input', 'kicadSymbolki_description': '3A monolithic synchronous step-down regulator, Adjustable Output Voltage, 2.5-18V Input Voltage, 900kHz, PowerSO-8', 'kicadSymbolki_fp_filters': 'TI*SO*PowerPAD*'}]|
 ||||

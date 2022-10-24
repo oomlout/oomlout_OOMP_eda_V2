@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Xilinx_CPG238|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_CPG238|
 |Hex ID (short code)|hexID|FZKBGAXILINXCPG238|
-|Name|name|Package_BGA : Xilinx_CPG238|
+|name|name|Package_BGA : Xilinx_CPG238|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Xilinx_CPG238', 'description': 'Artix-7 BGA, 19x19 grid, 10x10mm package, 0.5mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=267, NSMD pad definition Appendix A', 'tags': 'BGA 238 0.5 CPG238', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_CPG238.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_CPG238/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_CPG238/kicadPcb3d_450.png

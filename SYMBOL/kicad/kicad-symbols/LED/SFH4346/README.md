@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SFH4346|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-LED-SFH4346|
 |Hex ID (short code)|hexID|SZKLSFH4346|
-|Name|name|SFH4346|
+|name|name|SFH4346|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SFH4356P', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SFH4346', 'kicadSymbolFootprint': 'LED_THT:LED_D3.0mm_IRBlack', 'kicadSymbolDatasheet': 'http://cdn-reichelt.de/documents/datenblatt/A500/SFH4346.pdf', 'kicadSymbolki_keywords': 'opto IR LED', 'kicadSymbolki_description': 'Infrared LED , 3mm LED package', 'kicadSymbolki_fp_filters': 'LED*3.0mm*IRBlack*'}]|
 ||||

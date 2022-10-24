@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT4295xUFD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-LT4295xUFD|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERLT4295XUFD|
-|Name|name|LT4295xUFD|
+|name|name|LT4295xUFD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT4295xUFD', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-28-1EP_4x5mm_P0.5mm_EP2.65x3.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/LT4295.pdf', 'kicadSymbolki_keywords': 'LTPoE++ IEEE 802.3af IEEE 802.3at IEEE 802.3bt', 'kicadSymbolki_description': 'IEEE 802.3bt PD Interface with Forward/Flyback Controller, QFN-28', 'kicadSymbolki_fp_filters': 'QFN*1EP*4x5mm*P0.5mm*'}]|
 ||||

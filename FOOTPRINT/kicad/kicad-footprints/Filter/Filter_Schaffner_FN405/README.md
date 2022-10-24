@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Filter_Schaffner_FN405|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Schaffner_FN405|
 |Hex ID (short code)|hexID|FZKFILFILSCHAFFNERFN45|
-|Name|name|Filter : Filter_Schaffner_FN405|
+|name|name|Filter : Filter_Schaffner_FN405|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Filter_Schaffner_FN405', 'description': 'Compact PCB mounting EMI filter (https://www.schaffner.com/de/produkte/download/product/datasheet/fn-405-pcb-mounting-filter/)', 'tags': 'EMI filter', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_Schaffner_FN405.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Filter/Filter_Schaffner_FN405/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Filter/Filter_Schaffner_FN405/kicadPcb3d_450.png

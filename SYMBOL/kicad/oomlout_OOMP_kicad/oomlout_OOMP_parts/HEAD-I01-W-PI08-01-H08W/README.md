@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-I01-W-PI08-01-H08W|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-W-PI08-01-H08W|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1WPI81H8W|
-|Name|name|HEAD-I01-W-PI08-01-H08W|
+|name|name|HEAD-I01-W-PI08-01-H08W|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HEAD-I01-W-PI08-01-H08W', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:HEAD-I01-W-PI08-01-H08W', 'kicadSymbolDatasheet': 'oom.lt/H08W', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'hexID: H08W;Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_1x??_*'}]|
 ||||

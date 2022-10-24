@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PWR_FLAG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-PWR_FLAG|
 |Hex ID (short code)|hexID|SZKPOWERPWRFLAG|
-|Name|name|PWR_FLAG|
+|name|name|PWR_FLAG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#FLG', 'kicadSymbolValue': 'PWR_FLAG', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Special symbol for telling ERC where power comes from'}]|
 ||||

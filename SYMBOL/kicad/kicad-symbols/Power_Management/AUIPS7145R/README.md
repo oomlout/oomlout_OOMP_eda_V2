@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AUIPS7145R|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS7145R|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTAUIPS7145R|
-|Name|name|AUIPS7145R|
+|name|name|AUIPS7145R|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AUIPS7121R', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AUIPS7145R', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-4', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/auips7145r.pdf?fileId=5546d462533600a4015355a7ff1a1334', 'kicadSymbolki_keywords': 'high side switch', 'kicadSymbolki_description': 'Current Sense High Side Switch, 65V, 20A, DPAK-5L', 'kicadSymbolki_fp_filters': 'TO?252*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD623ARM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD623ARM|
 |Hex ID (short code)|hexID|SZKAMPLIFIERINSTRUMENTATIONAD623ARM|
-|Name|name|AD623ARM|
+|name|name|AD623ARM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD623ARM', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD623.pdf', 'kicadSymbolki_keywords': 'ad623 instumentation amplifier msop-8', 'kicadSymbolki_description': 'Single Supply, Rail to Rail, Instumentation Amplifier, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP-8*'}]|
 ||||

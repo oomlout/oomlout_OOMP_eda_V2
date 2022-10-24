@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF6641|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6641|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF6641|
-|Name|name|IRF6641|
+|name|name|IRF6641|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSB165N15NZ3', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF6641', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_MZ', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irf6641pbf.pdf?fileId=5546d462533600a4015355ec30311a49', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '26A Id, 200V Vds, 59.9mOhm Rds, N-Channel MOSFET, DirectFET MZ', 'kicadSymbolki_fp_filters': 'DirectFET*MZ*'}]|
 ||||

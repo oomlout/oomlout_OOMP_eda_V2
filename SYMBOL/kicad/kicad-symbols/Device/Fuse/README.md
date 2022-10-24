@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Fuse|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Fuse|
 |Hex ID (short code)|hexID|SZKDEVICEFU|
-|Name|name|Fuse|
+|name|name|Fuse|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'F', 'kicadSymbolValue': 'Fuse', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'fuse', 'kicadSymbolki_description': 'Fuse', 'kicadSymbolki_fp_filters': '*Fuse*'}]|
 ||||

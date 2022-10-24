@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Motor_DC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Motor-Motor_DC|
 |Hex ID (short code)|hexID|SZKMOTORMOTORDC|
-|Name|name|Motor_DC|
+|name|name|Motor_DC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'M', 'kicadSymbolValue': 'Motor_DC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'DC Motor', 'kicadSymbolki_description': 'DC Motor', 'kicadSymbolki_fp_filters': 'PinHeader*P2.54mm* TerminalBlock*'}]|
 ||||

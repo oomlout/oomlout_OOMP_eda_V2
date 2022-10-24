@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX311|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Video-MAX311|
 |Hex ID (short code)|hexID|SZKVIDEOMAX311|
-|Name|name|MAX311|
+|name|name|MAX311|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX311', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX310-MAX311.pdf', 'kicadSymbolki_keywords': 'video rf', 'kicadSymbolki_description': '8-Channel CMOS RF Video Multiplexer'}]|
 ||||

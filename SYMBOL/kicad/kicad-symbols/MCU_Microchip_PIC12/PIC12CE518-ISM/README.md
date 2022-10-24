@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC12CE518-ISM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12CE518-ISM|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC12PIC12CE518ISM|
-|Name|name|PIC12CE518-ISM|
+|name|name|PIC12CE518-ISM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC12CE518-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC12CE518-ISM', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/40139e.pdf', 'kicadSymbolki_keywords': '8-Bit CMOS Microcontroller', 'kicadSymbolki_description': 'PIC12CE518, 512W EPROM, 25B SRAM, SO8 Wide', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

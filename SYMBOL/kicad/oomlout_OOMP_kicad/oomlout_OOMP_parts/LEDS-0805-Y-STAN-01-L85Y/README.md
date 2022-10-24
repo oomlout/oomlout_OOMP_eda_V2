@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|LEDS-0805-Y-STAN-01-L85Y|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0805-Y-STAN-01-L85Y|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS85YSTAN1L85Y|
-|Name|name|LEDS-0805-Y-STAN-01-L85Y|
+|name|name|LEDS-0805-Y-STAN-01-L85Y|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LEDS-0805-Y-STAN-01-L85Y', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:LEDS-0805-Y-STAN-01-L85Y', 'kicadSymbolDatasheet': 'oom.lt/L85Y', 'kicadSymbolki_keywords': 'LED diode', 'kicadSymbolki_description': 'hexID: L85Y;Light emitting diode', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

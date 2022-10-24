@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS2419D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-TPS2419D|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTTPS2419D|
-|Name|name|TPS2419D|
+|name|name|TPS2419D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS2419D', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps2419.pdf', 'kicadSymbolki_keywords': 'ideal-diode or-ing', 'kicadSymbolki_description': 'N+1 and ORing Power Rail Controller with Enable, SOIC-8', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x3mm*P0.65mm* SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|D_SMB|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMB|
 |Hex ID (short code)|hexID|FZKDIODESMDSMB|
-|Name|name|Diode_SMD : D_SMB|
+|name|name|Diode_SMD : D_SMB|
 |Footprint Kicad|footprintKicadDetails|{'name': 'D_SMB', 'description': 'Diode SMB (DO-214AA)', 'tags': 'Diode SMB (DO-214AA)', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMB.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SMB/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SMB/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SG-51|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-SG-51|
 |Hex ID (short code)|hexID|SZKOCSSG51|
-|Name|name|SG-51|
+|name|name|SG-51|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SG-8002DB', 'kicadSymbolReference': 'X', 'kicadSymbolValue': 'SG-51', 'kicadSymbolFootprint': 'Oscillator:Oscillator_SeikoEpson_SG-8002DB', 'kicadSymbolDatasheet': 'https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-51P', 'kicadSymbolki_keywords': 'Crystal Clock Oscillator', 'kicadSymbolki_description': 'CMOS Crystal Clock Oscillator, DIP14-style plastic package', 'kicadSymbolki_fp_filters': 'Oscillator*SeikoEpson*SG?8002DB*'}]|
 ||||

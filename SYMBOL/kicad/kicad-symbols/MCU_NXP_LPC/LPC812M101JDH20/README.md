@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LPC812M101JDH20|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC812M101JDH20|
 |Hex ID (short code)|hexID|SZKMCUNXPLPCLPC812M11JDH2|
-|Name|name|LPC812M101JDH20|
+|name|name|LPC812M101JDH20|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LPC812M101JDH20', 'kicadSymbolFootprint': 'Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/documents/data_sheet/LPC81XM.pdf', 'kicadSymbolki_keywords': 'ARM, 32-bit, Cortex-M0, M0, NXP, microcontroller', 'kicadSymbolki_description': '32-bit ARM Cortex-M0 microcontroller, 16kB flash, 4kB SRAM', 'kicadSymbolki_fp_filters': '*TSSOP*4.4x6.5mm*P0.65mm*'}]|
 ||||

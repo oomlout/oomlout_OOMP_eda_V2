@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BC240|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC240|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBC24|
-|Name|name|BC240|
+|name|name|BC240|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC240', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/BF420-D.PDF', 'kicadSymbolki_keywords': 'RF NPN Transistor', 'kicadSymbolki_description': '50mA Ic, 40V Vce, RF Signal NPN Transistor, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

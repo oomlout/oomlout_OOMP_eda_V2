@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Texas_R_PUQFN-N12|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_R_PUQFN-N12|
 |Hex ID (short code)|hexID|FZKDFNTEXASRPUQFNN12|
-|Name|name|Package_DFN_QFN : Texas_R_PUQFN-N12|
+|name|name|Package_DFN_QFN : Texas_R_PUQFN-N12|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Texas_R_PUQFN-N12', 'description': 'Texas_R_PUQFN-N12 http://www.ti.com/lit/ds/symlink/txb0104.pdf', 'tags': 'Texas_R_PUQFN-N12', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_R_PUQFN-N12.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_R_PUQFN-N12/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_R_PUQFN-N12/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PQFP-32_5x5mm_P0.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_QFP-PQFP-32_5x5mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKQFPPQFP325X5P5|
-|Name|name|Package_QFP : PQFP-32_5x5mm_P0.5mm|
+|name|name|Package_QFP : PQFP-32_5x5mm_P0.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PQFP-32_5x5mm_P0.5mm', 'description': 'PQFP, 32 Pin (https://www.ti.com/lit/ds/symlink/ads127l01.pdf#page=87), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'PQFP QFP', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/PQFP-32_5x5mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/PQFP-32_5x5mm_P0.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_QFP/PQFP-32_5x5mm_P0.5mm/kicadPcb3d_450.png

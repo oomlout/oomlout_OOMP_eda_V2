@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS26633RGE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-TPS26633RGE|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTTPS26633RGE|
-|Name|name|TPS26633RGE|
+|name|name|TPS26633RGE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS26632RGE', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS26633RGE', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_RGE0024H_EP2.7x2.7mm_ThermalVias', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/tps2663.pdf', 'kicadSymbolki_keywords': 'efuse protection switch', 'kicadSymbolki_description': '60V, 6A Power Limiting, Surge Protection Industrial eFuse, 35V fixed Overvoltage clamp, Active Current Limiting with Pulse current support, VQFN-24', 'kicadSymbolki_fp_filters': 'Texas?RGE0024H*'}]|
 ||||

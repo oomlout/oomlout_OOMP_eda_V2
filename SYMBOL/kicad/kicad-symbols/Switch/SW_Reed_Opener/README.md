@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_Reed_Opener|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_Reed_Opener|
 |Hex ID (short code)|hexID|SZKSWITCHSWREEDOPENER|
-|Name|name|SW_Reed_Opener|
+|name|name|SW_Reed_Opener|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_Reed_Opener', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'reed magnetic switch', 'kicadSymbolki_description': 'reed switch, default-closed'}]|
 ||||

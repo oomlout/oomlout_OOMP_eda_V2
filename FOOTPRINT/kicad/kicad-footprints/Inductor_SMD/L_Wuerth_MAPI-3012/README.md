@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Wuerth_MAPI-3012|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_MAPI-3012|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLWUERTHMAPI312|
-|Name|name|Inductor_SMD : L_Wuerth_MAPI-3012|
+|name|name|Inductor_SMD : L_Wuerth_MAPI-3012|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Wuerth_MAPI-3012', 'description': 'Inductor, Wuerth Elektronik, Wuerth_MAPI-3012, 3.0mmx3.0mm', 'tags': 'inductor Wuerth smd', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_MAPI-3012.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_MAPI-3012/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_MAPI-3012/kicadPcb3d_450.png

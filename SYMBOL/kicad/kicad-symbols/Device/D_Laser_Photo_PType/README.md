@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Laser_Photo_PType|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Laser_Photo_PType|
 |Hex ID (short code)|hexID|SZKDEVICEDLASERPHOTOPTYPE|
-|Name|name|D_Laser_Photo_PType|
+|name|name|D_Laser_Photo_PType|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'LD', 'kicadSymbolValue': 'D_Laser_Photo_PType', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.egismos.disonhu.com/laser/diode-package.htm', 'kicadSymbolki_keywords': 'opto laserdiode photodiode', 'kicadSymbolki_description': 'Laser diode with photodiode, center on pin 2, PD cathode on pin 3', 'kicadSymbolki_fp_filters': '*LaserDiode*'}]|
 ||||

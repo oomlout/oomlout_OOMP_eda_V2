@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VPP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-VPP|
 |Hex ID (short code)|hexID|SZKPOWERVPP|
-|Name|name|VPP|
+|name|name|VPP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'VPP', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "VPP"'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX691xPE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX691xPE|
 |Hex ID (short code)|hexID|SZKPOWERSUPERVISORMAX691XPE|
-|Name|name|MAX691xPE|
+|name|name|MAX691xPE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX691xPE', 'kicadSymbolFootprint': 'Package_DIP:DIP-16_W7.62mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX690-MAX695.pdf', 'kicadSymbolki_keywords': 'Power Supervisor', 'kicadSymbolki_description': 'Microprocessor Supervisory Circuit, DIP-16', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LNK624DG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK624DG|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK624DG|
-|Name|name|LNK624DG|
+|name|name|LNK624DG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LNK623DG', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LNK624DG', 'kicadSymbolFootprint': 'Package_SO:PowerIntegrations_SO-8C', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/linkcv_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Energy-Effi cient, Off-line Switcher with Accurate Primary-side Constant-Voltage Control', 'kicadSymbolki_description': 'LinkSwitch-CV Family, 6.5W Output Power, SO-8C', 'kicadSymbolki_fp_filters': 'PowerIntegrations?SO?8C*'}]|
 ||||

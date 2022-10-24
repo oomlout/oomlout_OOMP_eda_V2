@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA4197xD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA4197xD|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA4197XD|
-|Name|name|OPA4197xD|
+|name|name|OPA4197xD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA4197xD', 'kicadSymbolFootprint': 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/opa4197.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'quad opamp rtor', 'kicadSymbolki_description': 'Quad 36V, Precision, Rail-to-Rail Input/Output, Low Offset Voltage, Operational Amplifier, SOIC-14', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm*'}]|
 ||||

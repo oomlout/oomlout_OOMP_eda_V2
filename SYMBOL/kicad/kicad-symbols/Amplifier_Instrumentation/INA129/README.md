@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|INA129|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-INA129|
 |Hex ID (short code)|hexID|SZKAMPLIFIERINSTRUMENTATIONINA129|
-|Name|name|INA129|
+|name|name|INA129|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'INA128', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'INA129', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ina128.pdf', 'kicadSymbolki_keywords': 'instrumentation opamp', 'kicadSymbolki_description': 'Precision, Low Power Instrumentation Amplifier G = 1 + 49.4kOhm/Rg, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*P1.27mm*'}]|
 ||||

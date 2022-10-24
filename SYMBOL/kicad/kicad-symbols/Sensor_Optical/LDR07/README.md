@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LDR07|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-LDR07|
 |Hex ID (short code)|hexID|SZKSENOPTICALLDR7|
-|Name|name|LDR07|
+|name|name|LDR07|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'LDR07', 'kicadSymbolFootprint': 'OptoDevice:R_LDR_5.1x4.3mm_P3.4mm_Vertical', 'kicadSymbolDatasheet': 'http://www.tme.eu/de/Document/f2e3ad76a925811312d226c31da4cd7e/LDR07.pdf', 'kicadSymbolki_keywords': 'light dependent photo resistor LDR', 'kicadSymbolki_description': 'light dependent resistor', 'kicadSymbolki_fp_filters': 'R*LDR*5.1x4.3mm*P3.4mm*'}]|
 ||||

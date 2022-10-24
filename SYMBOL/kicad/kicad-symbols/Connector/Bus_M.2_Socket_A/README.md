@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Bus_M.2_Socket_A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Bus_M.2_Socket_A|
 |Hex ID (short code)|hexID|SZKCNBUSM2SOA|
-|Name|name|Bus_M.2_Socket_A|
+|name|name|Bus_M.2_Socket_A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Bus_M.2_Socket_A', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://read.pudn.com/downloads794/doc/project/3133918/PCIe_M.2_Electromechanical_Spec_Rev1.0_Final_11012013_RS_Clean.pdf#page=148', 'kicadSymbolki_keywords': 'M2 NGNF PCI-E', 'kicadSymbolki_description': 'M.2 Socket 1-DP Mechanical Key A', 'kicadSymbolki_fp_filters': '*M*2*A*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SiA449DJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-SiA449DJ|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETSIA449DJ|
-|Name|name|SiA449DJ|
+|name|name|SiA449DJ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SiA453EDJ', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'SiA449DJ', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:Vishay_PowerPAK_SC70-6L_Single', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/62644/sia449dj.pdf', 'kicadSymbolki_keywords': 'P-Channel MOSFET', 'kicadSymbolki_description': '-12A Id, -30V Vds, P-Channel MOSFET, PowerPAK SC70-6', 'kicadSymbolki_fp_filters': 'Vishay*PowerPAK*SC70*Single*'}]|
 ||||

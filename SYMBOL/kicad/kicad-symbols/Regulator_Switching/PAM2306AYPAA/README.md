@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PAM2306AYPAA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2306AYPAA|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGPAM236AYPAA|
-|Name|name|PAM2306AYPAA|
+|name|name|PAM2306AYPAA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PAM2306AYPAA', 'kicadSymbolFootprint': 'Package_DFN_QFN:WDFN-12-1EP_3x3mm_P0.45mm_EP1.7x2.5mm', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/PAM2306.pdf', 'kicadSymbolki_keywords': 'STEP-DOWN Dual channel 1A Out1 ADJ, Out2 ADJ', 'kicadSymbolki_description': '1A, Dual Step-Down DC/DC-Converter, Out1 ADJ, Out2 ADJ, 1.5MHz, W-DFN3x3', 'kicadSymbolki_fp_filters': 'WDFN*3x3mm?P0.45mm*'}]|
 ||||

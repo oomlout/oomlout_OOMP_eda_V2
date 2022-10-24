@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|NEO-M8P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_GPS-NEO-M8P|
 |Hex ID (short code)|hexID|SZKGPSNEOM8P|
-|Name|name|NEO-M8P|
+|name|name|NEO-M8P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NEO-M8P', 'kicadSymbolFootprint': 'RF_GPS:ublox_NEO', 'kicadSymbolDatasheet': 'https://www.u-blox.com/sites/default/files/NEO-M8P_DataSheet_%28UBX-15016656%29.pdf', 'kicadSymbolki_keywords': 'ublox GPS GNSS RTK module', 'kicadSymbolki_description': 'GNSS RTK Module NEO M8, VCC 2.7V to 3.6V', 'kicadSymbolki_fp_filters': 'ublox*NEO*'}]|
 ||||

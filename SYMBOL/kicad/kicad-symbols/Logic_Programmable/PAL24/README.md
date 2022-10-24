@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PAL24|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Logic_Programmable-PAL24|
 |Hex ID (short code)|hexID|SZKLOGICPROGRAABLEPAL24|
-|Name|name|PAL24|
+|name|name|PAL24|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PAL24', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'logic programmable PAL', 'kicadSymbolki_description': 'generic 24-pin Programmable Array Logic (PAL) device'}]|
 ||||

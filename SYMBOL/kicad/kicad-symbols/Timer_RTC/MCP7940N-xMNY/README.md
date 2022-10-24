@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP7940N-xMNY|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer_RTC-MCP7940N-xMNY|
 |Hex ID (short code)|hexID|SZKTIMERRTCMCP794NXMNY|
-|Name|name|MCP7940N-xMNY|
+|name|name|MCP7940N-xMNY|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP7940N-xMNY', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.36x1.46mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20005010F.pdf', 'kicadSymbolki_keywords': 'realtime clock RTC', 'kicadSymbolki_description': 'Real-Time Clock, I2C, Battery Backup, TDFN-8', 'kicadSymbolki_fp_filters': 'DFN*3x2mm*P0.5mm*EP1.36x1.46mm*'}]|
 ||||

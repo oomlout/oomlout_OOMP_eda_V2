@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC4364CS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-LTC4364CS|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTLTC4364CS|
-|Name|name|LTC4364CS|
+|name|name|LTC4364CS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC4364CS', 'kicadSymbolFootprint': 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/436412f.pdf', 'kicadSymbolki_keywords': 'ideal-diode or-ing reverse-protection undervoltage overvoltage surge-stopper', 'kicadSymbolki_description': 'Surge stopper with ideal diode, UV and OV protection -40V to +80V in SOIC-16 package, 0°C to +40°C', 'kicadSymbolki_fp_filters': 'SOIC*3.9x9.9mm*P1.27mm*'}]|
 ||||

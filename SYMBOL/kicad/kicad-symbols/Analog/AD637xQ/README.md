@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD637xQ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog-AD637xQ|
 |Hex ID (short code)|hexID|SZKANALOGAD637XQ|
-|Name|name|AD637xQ|
+|name|name|AD637xQ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD637xQ', 'kicadSymbolFootprint': 'Package_DIP:DIP-14_W7.62mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD637.pdf', 'kicadSymbolki_keywords': 'rms-to-dc', 'kicadSymbolki_description': 'High Precision, Wideband RMS-to-DC Converter, DIP-14', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EL7242C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_LineDriver-EL7242C|
 |Hex ID (short code)|hexID|SZKINTERFACELINEDRIVEREL7242C|
-|Name|name|EL7242C|
+|name|name|EL7242C|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EL7242C', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://pdf.datasheetcatalog.com/datasheet/elantec/EL7242CN.pdf', 'kicadSymbolki_keywords': 'Translateur TTL->VMOS. Double driver VMOS', 'kicadSymbolki_description': 'Translateur TTL->VMOS. Double driver VMOS', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

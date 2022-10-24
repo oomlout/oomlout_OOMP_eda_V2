@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IR2213|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-IR2213|
 |Hex ID (short code)|hexID|SZKDRIVERFETIR2213|
-|Name|name|IR2213|
+|name|name|IR2213|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IR2010', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IR2213', 'kicadSymbolFootprint': 'Package_DIP:DIP-14_W7.62mm', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-IR2213-DS-v00_02-EN.pdf?fileId=5546d462533600a4015355c9621716d8', 'kicadSymbolki_keywords': 'Gate Driver', 'kicadSymbolki_description': 'High and Low Side Driver, 1200V, 1.7/2.0A, PDIP-14', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

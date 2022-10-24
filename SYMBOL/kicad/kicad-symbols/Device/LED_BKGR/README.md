@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_BKGR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_BKGR|
 |Hex ID (short code)|hexID|SZKDEVICELBKGR|
-|Name|name|LED_BKGR|
+|name|name|LED_BKGR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_BKGR', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED RGB diode', 'kicadSymbolki_description': 'RGB LED, blue/cathode/green/red', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

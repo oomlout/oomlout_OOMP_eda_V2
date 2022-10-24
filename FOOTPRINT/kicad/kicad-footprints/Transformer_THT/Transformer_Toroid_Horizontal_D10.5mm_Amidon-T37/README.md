@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37|
 |Hex ID (short code)|hexID|FZKTRTRTOROIDHORIZONTALD15AMIDONT37|
-|Name|name|Transformer_THT : Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37|
+|name|name|Transformer_THT : Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37', 'description': 'Transformer, Toroid, horizontal, laying, Diameter 10,5mm, Amidon T37,', 'tags': 'Transformer Toroid horizontal laying Diameter 10 5mm Amidon T37 ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

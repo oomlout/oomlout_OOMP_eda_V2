@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SAS-mini_TEConnectivity_1888174_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_SATA_SAS-SAS-mini_TEConnectivity_1888174_Vertical|
 |Hex ID (short code)|hexID|FZKCNSATASASSASMTECONNECTIVITY1888174VERTICAL|
-|Name|name|Connector_SATA_SAS : SAS-mini_TEConnectivity_1888174_Vertical|
+|name|name|Connector_SATA_SAS : SAS-mini_TEConnectivity_1888174_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SAS-mini_TEConnectivity_1888174_Vertical', 'description': '36pin mini SAS connector, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1888174&DocType=Customer+Drawing&DocLang=English', 'tags': 'SAS mini connector', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_SATA_SAS.3dshapes/SAS-mini_TEConnectivity_1888174_Vertical.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_SATA_SAS/SAS-mini_TEConnectivity_1888174_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_SATA_SAS/SAS-mini_TEConnectivity_1888174_Vertical/kicadPcb3d_450.png

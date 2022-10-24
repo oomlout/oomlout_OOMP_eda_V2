@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|D_MiniMELF_Handsoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MiniMELF_Handsoldering|
 |Hex ID (short code)|hexID|FZKDIODESMDMMELFHANDSOLDERING|
-|Name|name|Diode_SMD : D_MiniMELF_Handsoldering|
+|name|name|Diode_SMD : D_MiniMELF_Handsoldering|
 |Footprint Kicad|footprintKicadDetails|{'name': 'D_MiniMELF_Handsoldering', 'description': 'Diode Mini-MELF (SOD-80) Handsoldering', 'tags': 'Diode Mini-MELF (SOD-80) Handsoldering', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_MiniMELF.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_MiniMELF_Handsoldering/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_MiniMELF_Handsoldering/kicadPcb3d_450.png

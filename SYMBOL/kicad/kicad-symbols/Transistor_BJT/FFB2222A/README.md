@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FFB2222A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-FFB2222A|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTFFB2222A|
-|Name|name|FFB2222A|
+|name|name|FFB2222A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BC846BS', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FFB2222A', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MMPQ2222A-D.pdf', 'kicadSymbolki_keywords': 'NPN/NPN Transistor', 'kicadSymbolki_description': '600mA IC, 40V Vce, Dual NPN/NPN Transistors, SOT-363', 'kicadSymbolki_fp_filters': 'SOT?363*'}]|
 ||||

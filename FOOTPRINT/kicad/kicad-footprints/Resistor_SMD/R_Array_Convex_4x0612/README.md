@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|R_Array_Convex_4x0612|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Array_Convex_4x0612|
 |Hex ID (short code)|hexID|FZKRESISTORSMRARRAYCONVEX4X612|
-|Name|name|Resistor_SMD : R_Array_Convex_4x0612|
+|name|name|Resistor_SMD : R_Array_Convex_4x0612|
 |Footprint Kicad|footprintKicadDetails|{'name': 'R_Array_Convex_4x0612', 'description': 'Precision Thin Film Chip Resistor Array, VISHAY (see http://www.vishay.com/docs/28770/acasat.pdf)', 'tags': 'resistor array', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Array_Convex_4x0612.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Array_Convex_4x0612/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Array_Convex_4x0612/kicadPcb3d_450.png

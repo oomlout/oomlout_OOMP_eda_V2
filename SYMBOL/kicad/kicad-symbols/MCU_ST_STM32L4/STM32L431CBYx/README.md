@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32L431CBYx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L431CBYx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32L4STM32L431CBYX|
-|Name|name|STM32L431CBYx|
+|name|name|STM32L431CBYx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32L431CBYx', 'kicadSymbolFootprint': 'Package_CSP:ST_WLCSP-49_Die435', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00257211.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32L4 STM32L4x1', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 128KB flash, 64KB RAM, 80MHz, 1.71-3.6V, 39 GPIO, WLCSP-49', 'kicadSymbolki_fp_filters': 'ST_WLCSP*Die435*'}]|
 ||||

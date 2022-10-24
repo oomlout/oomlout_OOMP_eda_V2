@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LD3985M27R_SOT23|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD3985M27R_SOT23|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLD3985M27RSOT23|
-|Name|name|LD3985M27R_SOT23|
+|name|name|LD3985M27R_SOT23|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LD3985M122R_SOT23', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LD3985M27R_SOT23', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00003395.pdf', 'kicadSymbolki_keywords': '150mA LDO Regulator Fixed Positive', 'kicadSymbolki_description': '150mA Low Dropout Voltage Regulator, Fixed Output 2.7V, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

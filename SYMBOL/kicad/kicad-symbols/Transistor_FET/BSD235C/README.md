@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BSD235C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BSD235C|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBSD235C|
-|Name|name|BSD235C|
+|name|name|BSD235C|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BSD235C', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-BSD235C-DS-v02_04-EN.pdf?fileId=db3a30433580b371013585a2d0d53326', 'kicadSymbolki_keywords': 'OptiMOS MOSFET complementary nmos pmos enhanced avalanche AEC Q101 super logic infineon', 'kicadSymbolki_description': '-0.53/+0.95A Id, -20/+20V Vds, P/N-Channel MOSFET, SOT-363, Infineon', 'kicadSymbolki_fp_filters': 'SOT?363*'}]|
 ||||

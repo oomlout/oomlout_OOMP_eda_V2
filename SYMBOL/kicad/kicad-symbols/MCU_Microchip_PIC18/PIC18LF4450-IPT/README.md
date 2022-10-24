@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC18LF4450-IPT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF4450-IPT|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC18PIC18LF445IPT|
-|Name|name|PIC18LF4450-IPT|
+|name|name|PIC18LF4450-IPT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC18F4450-IPT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18LF4450-IPT', 'kicadSymbolFootprint': 'Package_QFP:TQFP-44_10x10mm_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/39760d.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit Microcontroller XLP', 'kicadSymbolki_description': '16K Flash, 8K SRAM, USB, nanoWatt XLP, TQFP44', 'kicadSymbolki_fp_filters': 'TQFP*10x10mm*P0.8mm*'}]|
 ||||

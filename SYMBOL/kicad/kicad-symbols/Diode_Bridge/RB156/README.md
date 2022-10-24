@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RB156|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Bridge-RB156|
 |Hex ID (short code)|hexID|SZKDIODEBRIDGERB156|
-|Name|name|RB156|
+|name|name|RB156|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'B40R', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'RB156', 'kicadSymbolFootprint': 'Diode_THT:Diode_Bridge_Round_D9.0mm', 'kicadSymbolDatasheet': 'https://www.rectron.com/public/product_datasheets/rb151-rb157.pdf', 'kicadSymbolki_keywords': 'rectifier acdc', 'kicadSymbolki_description': 'Single-Phase Bridge Rectifier, 560V Vrms, 1.5A If, WOG-like package', 'kicadSymbolki_fp_filters': 'D*Bridge*Round*D9.0mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CC56-12GWA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-CC56-12GWA|
 |Hex ID (short code)|hexID|SZKDICHARACTERCC5612GWA|
-|Name|name|CC56-12GWA|
+|name|name|CC56-12GWA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CC56-12GWA', 'kicadSymbolFootprint': 'Display_7Segment:CC56-12GWA', 'kicadSymbolDatasheet': 'http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12GWA.pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': '4 digit 7 segment green LED, common cathode', 'kicadSymbolki_fp_filters': 'CC56?12GWA*'}]|
 ||||

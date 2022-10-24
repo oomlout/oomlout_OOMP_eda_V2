@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM2937xT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM2937xT|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM2937XT|
-|Name|name|LM2937xT|
+|name|name|LM2937xT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM7805_TO220', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2937xT', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm2937.pdf', 'kicadSymbolki_keywords': 'Voltage Regulator Low Dropuout Positive LDO', 'kicadSymbolki_description': '500-mA Low Dropout Regulator, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

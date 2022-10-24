@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BSB104N08NP3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB104N08NP3|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBSB14N8NP3|
-|Name|name|BSB104N08NP3|
+|name|name|BSB104N08NP3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BSB104N08NP3', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_MP', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-BSB104N08NP3_G-DS-v02_01-en.pdf?fileId=db3a304341e0aed00141efc548ca1b2b', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '50A Id, 80V Vds, 10.4mOhm Rds, N-Channel MOSFET, DirectFET MP', 'kicadSymbolki_fp_filters': 'DirectFET*MP*'}]|
 ||||

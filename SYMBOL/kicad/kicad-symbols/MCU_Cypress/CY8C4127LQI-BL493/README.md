@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CY8C4127LQI-BL493|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4127LQI-BL493|
 |Hex ID (short code)|hexID|SZKMCUCYPRESSCY8C4127LQIBL493|
-|Name|name|CY8C4127LQI-BL493|
+|name|name|CY8C4127LQI-BL493|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CY8C4xx7LQI-4xx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CY8C4127LQI-BL493', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm', 'kicadSymbolDatasheet': 'http://www.cypress.com/file/137466/download', 'kicadSymbolki_keywords': 'CYPRESS PSOC BLE CY8 CY8C4 ARM CORTEX M0 BLUETOOTH QFN', 'kicadSymbolki_description': ' 56-QFN, 24-MHz ARM® Cortex®-M0, 128KB Flash, 16kB SRAM, NO UDB, CAP-SENSE W/ GESTURE, LCD DRIVE', 'kicadSymbolki_fp_filters': 'QFN*1EP*7x7mm*P0.4mm*'}]|
 ||||

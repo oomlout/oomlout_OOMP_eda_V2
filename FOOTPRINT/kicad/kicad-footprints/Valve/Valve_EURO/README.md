@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Valve_EURO|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Valve-Valve_EURO|
 |Hex ID (short code)|hexID|FZKVAVAEURO|
-|Name|name|Valve : Valve_EURO|
+|name|name|Valve : Valve_EURO|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Valve_EURO', 'description': 'Valve Euro', 'tags': 'Valve Euro', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Valve.3dshapes/Valve_EURO.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

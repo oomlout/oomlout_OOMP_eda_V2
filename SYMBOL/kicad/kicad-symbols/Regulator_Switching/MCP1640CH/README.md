@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP1640CH|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP1640CH|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGMCP164CH|
-|Name|name|MCP1640CH|
+|name|name|MCP1640CH|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP1640CH', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20002234D.pdf', 'kicadSymbolki_keywords': 'Step-Up Boost DC-DC Regulator Adjustable', 'kicadSymbolki_description': 'Synchronous Boost Regulator, Adjustable Output 2.0V-5.5V, PWM/PFM True Disconnect, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

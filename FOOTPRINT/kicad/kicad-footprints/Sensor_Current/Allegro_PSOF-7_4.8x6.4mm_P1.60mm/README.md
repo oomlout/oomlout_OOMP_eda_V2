@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Allegro_PSOF-7_4.8x6.4mm_P1.60mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_PSOF-7_4.8x6.4mm_P1.60mm|
 |Hex ID (short code)|hexID|FZKSENCURRENTALLEGROPSOF748X64P16|
-|Name|name|Sensor_Current : Allegro_PSOF-7_4.8x6.4mm_P1.60mm|
+|name|name|Sensor_Current : Allegro_PSOF-7_4.8x6.4mm_P1.60mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Allegro_PSOF-7_4.8x6.4mm_P1.60mm', 'description': 'Allegro Microsystems PSOF-7, 4.8x6.4mm Body, 1.60mm Pitch (http://www.allegromicro.com/~/media/Files/Datasheets/ACS780-Datasheet.ashx)', 'tags': 'Allegro PSOF-7', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/Allegro_PSOF-7_4.8x6.4mm_P1.60mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

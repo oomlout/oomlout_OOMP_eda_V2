@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Adafruit_Feather_32u4_FONA|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_32u4_FONA|
 |Hex ID (short code)|hexID|FZKMOADAFEATHER32U4FONA|
-|Name|name|Module : Adafruit_Feather_32u4_FONA|
+|name|name|Module : Adafruit_Feather_32u4_FONA|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Adafruit_Feather_32u4_FONA', 'description': 'Footprint for the Adafruit Feather 32u4 FONA board, https://learn.adafruit.com/adafruit-feather-32u4-fona', 'tags': 'Adafruit Feather 32u4 FONA', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Module.3dshapes/Adafruit_Feather_32u4_FONA.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/Adafruit_Feather_32u4_FONA/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Module/Adafruit_Feather_32u4_FONA/kicadPcb3d_450.png

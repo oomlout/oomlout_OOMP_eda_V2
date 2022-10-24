@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM1085-ADJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM1085-ADJ|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM185ADJ|
-|Name|name|LM1085-ADJ|
+|name|name|LM1085-ADJ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM1084-ADJ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM1085-ADJ', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm1085.pdf', 'kicadSymbolki_keywords': 'Adjustable Voltage Regulator 5A Positive', 'kicadSymbolki_description': '3A 29V Adjustable Linear Regulator, TO-220 / TO-263 (D2-PAK)', 'kicadSymbolki_fp_filters': 'TO?220* TO?263*'}]|
 ||||

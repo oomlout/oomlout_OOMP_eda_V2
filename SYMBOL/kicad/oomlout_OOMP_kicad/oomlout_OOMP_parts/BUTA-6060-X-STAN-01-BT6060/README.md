@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|BUTA-6060-X-STAN-01-BT6060|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-6060-X-STAN-01-BT6060|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSBUTA66XSTAN1BT66|
-|Name|name|BUTA-6060-X-STAN-01-BT6060|
+|name|name|BUTA-6060-X-STAN-01-BT6060|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'BUTA-6060-X-STAN-01-BT6060', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:BUTA-6060-X-STAN-01-BT6060', 'kicadSymbolDatasheet': 'oom.lt/BT6060', 'kicadSymbolki_keywords': 'switch normally-open pushbutton push-button', 'kicadSymbolki_description': 'hexID: BT6060;Push button switch, generic, two pins'}]|
 ||||

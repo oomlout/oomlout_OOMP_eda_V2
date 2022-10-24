@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT3514xUFD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3514xUFD|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLT3514XUFD|
-|Name|name|LT3514xUFD|
+|name|name|LT3514xUFD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT3514xUFD', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-28-1EP_4x5mm_P0.5mm_EP2.65x3.65mm_ThermalVias', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/3514fa.pdf', 'kicadSymbolki_keywords': 'triple step-down', 'kicadSymbolki_description': 'Triple Step-Down Switching Regulator with 100% Duty Cycle Operation, QFN-28', 'kicadSymbolki_fp_filters': 'QFN*4x5mm*P0.5mm*'}]|
 ||||

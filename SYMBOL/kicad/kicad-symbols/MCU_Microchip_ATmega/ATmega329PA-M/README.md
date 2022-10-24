@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega329PA-M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega329PA-M|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA329PAM|
-|Name|name|ATmega329PA-M|
+|name|name|ATmega329PA-M|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATmega169PV-8M', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega329PA-M', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP5.4x5.4mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-8284-8-bit-avr-microcontroller-atmega169a_pa_329a_pa_3290a_pa_649a_p_6490a_p_datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR LCD PicoPower', 'kicadSymbolki_description': '20MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, QFN-64', 'kicadSymbolki_fp_filters': 'QFN*1EP*9x9mm*P0.5mm*'}]|
 ||||

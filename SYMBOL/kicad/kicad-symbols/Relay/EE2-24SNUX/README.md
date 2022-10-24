@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EE2-24SNUX|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-EE2-24SNUX|
 |Hex ID (short code)|hexID|SZKRELAYEE224SNUX|
-|Name|name|EE2-24SNUX|
+|name|name|EE2-24SNUX|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'EE2-3SNUX', 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'EE2-24SNUX', 'kicadSymbolFootprint': 'Relay_SMD:Relay_DPDT_Kemet_EE2_NUX_NKX', 'kicadSymbolDatasheet': 'https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf', 'kicadSymbolki_keywords': 'signal relay double pole double throw DPDT DC coil single coil latching', 'kicadSymbolki_description': 'General purpose signal relay, Kemet EE2 Series, DPDT (2 Form C), single coil latching, high solder joint reliability SMD, 60W/125VA, 220VDC/250VAC, 2A, 24V DC coil', 'kicadSymbolki_fp_filters': 'Relay*DPDT*Kemet*EE2*NUX*'}]|
 ||||

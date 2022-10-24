@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP4902|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4902|
 |Hex ID (short code)|hexID|SZKANALOGDACMCP492|
-|Name|name|MCP4902|
+|name|name|MCP4902|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP4902', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/22250A.pdf', 'kicadSymbolki_keywords': '8-Bit DAC SPI  2ch', 'kicadSymbolki_description': '2-Channel 8-Bit D/A Converters with SPI Interface', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x8.7mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm*'}]|
 ||||

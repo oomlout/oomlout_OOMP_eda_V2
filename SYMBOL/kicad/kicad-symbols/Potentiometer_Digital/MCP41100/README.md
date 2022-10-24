@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP41100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP41100|
 |Hex ID (short code)|hexID|SZKPOTENTIOMETERDIGITALMCP411|
-|Name|name|MCP41100|
+|name|name|MCP41100|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP41010', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP41100', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/11195c.pdf', 'kicadSymbolki_keywords': 'R POT', 'kicadSymbolki_description': 'Single Digital Potentiometer, SPI interface, 256 taps, 100 kohm', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*P1.27mm*'}]|
 ||||

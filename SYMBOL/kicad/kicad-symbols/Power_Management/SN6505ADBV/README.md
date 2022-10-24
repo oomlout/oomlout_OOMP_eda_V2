@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SN6505ADBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-SN6505ADBV|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTSN655ADBV|
-|Name|name|SN6505ADBV|
+|name|name|SN6505ADBV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SN6505ADBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/sn6505b.pdf', 'kicadSymbolki_keywords': 'Transformer Drivers', 'kicadSymbolki_description': 'Low Noise, 1A, Transformer Drivers for Isolated Power Supplies, 160 kHz, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF740|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF740|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF74|
-|Name|name|IRF740|
+|name|name|IRF740|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BUZ11', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF740', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/91054/91054.pdf', 'kicadSymbolki_keywords': 'N Channel', 'kicadSymbolki_description': '10A Id, 400V Vds, N-Channel Power MOSFET, 500mOhm Rds, TO-220AB', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

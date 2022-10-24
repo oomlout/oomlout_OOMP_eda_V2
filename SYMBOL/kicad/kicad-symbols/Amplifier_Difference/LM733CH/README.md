@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM733CH|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Difference-LM733CH|
 |Hex ID (short code)|hexID|SZKAMPLIFIERDIFFERENCELM733CH|
-|Name|name|LM733CH|
+|name|name|LM733CH|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM733CH', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-5-10', 'kicadSymbolDatasheet': 'http://www.soemtron.org/downloads/disposals/lm733cn.pdf', 'kicadSymbolki_keywords': 'single differential video opamp', 'kicadSymbolki_description': 'Single Differential Amplifier, TO-5-10', 'kicadSymbolki_fp_filters': 'TO?5*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC18F458-IP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F458-IP|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC18PIC18F458IP|
-|Name|name|PIC18F458-IP|
+|name|name|PIC18F458-IP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC18F448-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18F458-IP', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41159e.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit Microcontroller CAN', 'kicadSymbolki_description': '32K Flash, 1536B SRAM, 256 EEPROM, CAN, DIP40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm* PDIP*W15.24mm*'}]|
 ||||

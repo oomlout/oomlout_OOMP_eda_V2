@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ENC424J600-ML|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Ethernet-ENC424J600-ML|
 |Hex ID (short code)|hexID|SZKINTERFACEETHERNETENC424J6ML|
-|Name|name|ENC424J600-ML|
+|name|name|ENC424J600-ML|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ENC424J600-ML', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-44-1EP_8x8mm_P0.65mm_EP6.45x6.45mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/39935c.pdf', 'kicadSymbolki_keywords': 'ENC Ethernet', 'kicadSymbolki_description': 'Stand-Alone 10/100 Ethernet Controller with SPI or Parallel Interface, QFN-44', 'kicadSymbolki_fp_filters': 'QFN*44*8x8mm*P0.65mm*'}]|
 ||||

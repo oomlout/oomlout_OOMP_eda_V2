@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS61221DCK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61221DCK|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS61221DCK|
-|Name|name|TPS61221DCK|
+|name|name|TPS61221DCK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS61220DCK', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS61221DCK', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:Texas_R-PDSO-G6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps61220.pdf', 'kicadSymbolki_keywords': 'Boost adjustable converter', 'kicadSymbolki_description': '400 mA Step-Up Converter, Fixed 3.3V Output Voltage, 0.7-5.5V Input Voltage, SC-70', 'kicadSymbolki_fp_filters': 'Texas*R*PDSO*G6*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ZEN056V075A48LS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-ZEN056V075A48LS|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONZEN56V75A48LS|
-|Name|name|ZEN056V075A48LS|
+|name|name|ZEN056V075A48LS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZEN056V130A24LS', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'ZEN056V075A48LS', 'kicadSymbolFootprint': 'Diode_SMD:Littelfuse_PolyZen-LS', 'kicadSymbolDatasheet': 'http://m.littelfuse.com/~/media/electronics/datasheets/polyzen_devices/littelfuse_polyzen_standard_polyzen_catalog_datasheet.pdf.pdf', 'kicadSymbolki_keywords': 'Polymer zener', 'kicadSymbolki_description': 'Polymer Protected Zener Diode, 5.6V, 0.75A, 48V, LS', 'kicadSymbolki_fp_filters': 'Littelfuse*PolyZen*LS*'}]|
 ||||

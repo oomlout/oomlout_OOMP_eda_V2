@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_Rotary12|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_Rotary12|
 |Hex ID (short code)|hexID|SZKSWITCHSWROTARY12|
-|Name|name|SW_Rotary12|
+|name|name|SW_Rotary12|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_Rotary12', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf', 'kicadSymbolki_keywords': 'rotary switch', 'kicadSymbolki_description': 'rotary switch with 12 positions'}]|
 ||||

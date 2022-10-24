@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Osram_SFH9x0x|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_SFH9x0x|
 |Hex ID (short code)|hexID|FZKOPOSRAMSFH9XX|
-|Name|name|OptoDevice : Osram_SFH9x0x|
+|name|name|OptoDevice : Osram_SFH9x0x|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Osram_SFH9x0x', 'description': 'package for Osram SFH9x0x series of reflective photo interrupters/couplers, see http://www.osram-os.com/Graphics/XPic6/00200860_0.pdf', 'tags': 'reflective photo interrupter SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Osram_SFH9x0x.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_SFH9x0x/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_SFH9x0x/kicadPcb3d_450.png

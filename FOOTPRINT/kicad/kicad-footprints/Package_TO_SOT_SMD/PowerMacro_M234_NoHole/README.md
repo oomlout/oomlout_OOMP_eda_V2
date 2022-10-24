@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PowerMacro_M234_NoHole|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-PowerMacro_M234_NoHole|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMPOWERMACROM234NOHOLE|
-|Name|name|Package_TO_SOT_SMD : PowerMacro_M234_NoHole|
+|name|name|Package_TO_SOT_SMD : PowerMacro_M234_NoHole|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PowerMacro_M234_NoHole', 'description': 'TO-50-4 Power Macro Package Style M234', 'tags': 'TO-50-4 Power Macro Package Style M234', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/PowerMacro_M234_NoHole.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/PowerMacro_M234_NoHole/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/PowerMacro_M234_NoHole/kicadPcb3d_450.png

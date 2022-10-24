@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SiA453EDJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-SiA453EDJ|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETSIA453EDJ|
-|Name|name|SiA453EDJ|
+|name|name|SiA453EDJ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'SiA453EDJ', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:Vishay_PowerPAK_SC70-6L_Single', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/62864/sia453edj.pdf', 'kicadSymbolki_keywords': 'P-Channel MOSFET', 'kicadSymbolki_description': '-10A Id, -30V Vds, P-Channel MOSFET', 'kicadSymbolki_fp_filters': 'Vishay*PowerPAK*SC70*Single*'}]|
 ||||

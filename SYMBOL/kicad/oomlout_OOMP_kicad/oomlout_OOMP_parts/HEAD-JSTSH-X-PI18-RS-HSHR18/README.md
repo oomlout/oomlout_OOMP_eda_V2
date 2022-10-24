@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-JSTSH-X-PI18-RS-HSHR18|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI18-RS-HSHR18|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI18RSHSHR18|
-|Name|name|HEAD-JSTSH-X-PI18-RS-HSHR18|
+|name|name|HEAD-JSTSH-X-PI18-RS-HSHR18|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HEAD-JSTSH-X-PI18-RS-HSHR18', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:HEAD-JSTSH-X-PI18-RS-HSHR18', 'kicadSymbolDatasheet': 'oom.lt/HSHR18', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'hexID: HSHR18;Generic connector, single row, 01x18, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_1x??_*'}]|
 ||||

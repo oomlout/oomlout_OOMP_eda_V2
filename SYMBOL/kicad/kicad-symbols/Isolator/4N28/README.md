@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4N28|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-4N28|
 |Hex ID (short code)|hexID|SZKISOLATOR4N28|
-|Name|name|4N28|
+|name|name|4N28|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '4N25', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4N28', 'kicadSymbolFootprint': 'Package_DIP:DIP-6_W7.62mm', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/83725/4n25.pdf', 'kicadSymbolki_keywords': 'NPN DC Optocoupler Base Connected', 'kicadSymbolki_description': 'DC Optocoupler Base Connected, Vce 30V, CTR 10%, Viso 2500V, DIP6', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

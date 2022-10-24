@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SP0503BAHT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-SP0503BAHT|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONSP53BAHT|
-|Name|name|SP0503BAHT|
+|name|name|SP0503BAHT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SP0503BAHT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-143', 'kicadSymbolDatasheet': 'http://www.littelfuse.com/~/media/files/littelfuse/technical%20resources/documents/data%20sheets/sp05xxba.pdf', 'kicadSymbolki_keywords': 'usb esd protection suppression transient', 'kicadSymbolki_description': 'TVS Diode Array, 5.5V Standoff, 3 Channels, SOT-143 package', 'kicadSymbolki_fp_filters': 'SOT?143*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TSOP535xx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP535xx|
 |Hex ID (short code)|hexID|SZKINTERFACEOPTICALTS535XX|
-|Name|name|TSOP535xx|
+|name|name|TSOP535xx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TSOP331xx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TSOP535xx', 'kicadSymbolFootprint': 'OptoDevice:Vishay_MINIMOLD-3Pin', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/82745/tsop531.pdf', 'kicadSymbolki_keywords': 'opto IR receiver', 'kicadSymbolki_description': 'IR Receiver Modules for Remote Control Systems', 'kicadSymbolki_fp_filters': 'Vishay*MINIMOLD*'}]|
 ||||

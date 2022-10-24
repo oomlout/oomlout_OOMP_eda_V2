@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_VCCLite_5381H7_6.35x6.35mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_VCCLite_5381H7_6.35x6.35mm|
 |Hex ID (short code)|hexID|FZKLLVCCLITE5381H7635X635|
-|Name|name|LED_THT : LED_VCCLite_5381H7_6.35x6.35mm|
+|name|name|LED_THT : LED_VCCLite_5381H7_6.35x6.35mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_VCCLite_5381H7_6.35x6.35mm', 'description': 'Yellow 5381 Series LED VCCLite https://vcclite.com/wp-content/uploads/wpallimport/files/files/5381Series.pdf http://static.vcclite.com/pdf/Mounting%20Hole%20Pattern%202.pdf', 'tags': 'Yellow 5381 Series LED', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_VCCLite_5381H7_6.35x6.35mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_VCCLite_5381H7_6.35x6.35mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_VCCLite_5381H7_6.35x6.35mm/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F1508-IML|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1508-IML|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F158IML|
-|Name|name|PIC16F1508-IML|
+|name|name|PIC16F1508-IML|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F1508-IML', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41609A.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller XLP', 'kicadSymbolki_description': 'PIC16F1508, 4096W FLASH, 256B SRAM, QFN-20', 'kicadSymbolki_fp_filters': 'MLF*'}]|
 ||||

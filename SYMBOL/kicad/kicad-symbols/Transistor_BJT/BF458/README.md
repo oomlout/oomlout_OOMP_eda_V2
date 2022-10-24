@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BF458|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BF458|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBF458|
-|Name|name|BF458|
+|name|name|BF458|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BF457', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BF458', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-126-3_Vertical', 'kicadSymbolDatasheet': 'https://www.pcpaudio.com/pcpfiles/transistores/BF457-8-9.pdf', 'kicadSymbolki_keywords': 'NPN HV High Voltage Transistor', 'kicadSymbolki_description': '0.1A Ic, 250V Vce, High Voltage NPN Transistor, TO-126', 'kicadSymbolki_fp_filters': 'TO?126*'}]|
 ||||

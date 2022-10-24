@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0805-X-PF7-V50-C8P7-C14857|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF7-V50-C8P7-C14857|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XPF7V5C8P7C14857|
-|Name|name|CAPC-0805-X-PF7-V50-C8P7-C14857|
+|name|name|CAPC-0805-X-PF7-V50-C8P7-C14857|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0805-X-PF7-V50-C8P7-C14857', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0805-X-PF7-V50-C8P7-C14857', 'kicadSymbolDatasheet': 'oom.lt/C8P7', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C8P7;PARTL C-JLCC;C14857;MANUF C-XXXX;CL21C470JBANNNC;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

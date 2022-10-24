@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|BUTA-4628-X-STAN-01-BT4628|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-4628-X-STAN-01-BT4628|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSBUTA4628XSTAN1BT4628|
-|Name|name|BUTA-4628-X-STAN-01-BT4628|
+|name|name|BUTA-4628-X-STAN-01-BT4628|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'BUTA-4628-X-STAN-01-BT4628', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:BUTA-4628-X-STAN-01-BT4628', 'kicadSymbolDatasheet': 'oom.lt/BT4628', 'kicadSymbolki_keywords': 'switch normally-open pushbutton push-button', 'kicadSymbolki_description': 'hexID: BT4628;Push button switch, generic, two pins'}]|
 ||||

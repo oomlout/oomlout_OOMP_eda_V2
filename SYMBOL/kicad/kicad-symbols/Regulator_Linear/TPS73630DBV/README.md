@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS73630DBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS73630DBV|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTPS7363DBV|
-|Name|name|TPS73630DBV|
+|name|name|TPS73630DBV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS73625DBV', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS73630DBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps736.pdf', 'kicadSymbolki_keywords': 'Cap free Fixed LDO 400mA', 'kicadSymbolki_description': 'Cap free NMOS 400mA Low Drop 3.0V Regulator, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|R_MicroMELF_MMU-0102|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_MicroMELF_MMU-0102|
 |Hex ID (short code)|hexID|FZKRESISTORSMRELFU12|
-|Name|name|Resistor_SMD : R_MicroMELF_MMU-0102|
+|name|name|Resistor_SMD : R_MicroMELF_MMU-0102|
 |Footprint Kicad|footprintKicadDetails|{'name': 'R_MicroMELF_MMU-0102', 'description': 'Resistor, MicroMELF, MMU-0102, http://www.vishay.com/docs/28713/melfprof.pdf', 'tags': 'MicroMELF Resistor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_MicroMELF_MMU-0102.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_MicroMELF_MMU-0102/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_MicroMELF_MMU-0102/kicadPcb3d_450.png

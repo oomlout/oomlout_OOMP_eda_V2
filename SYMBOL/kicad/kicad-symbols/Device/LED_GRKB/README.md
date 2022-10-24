@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_GRKB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_GRKB|
 |Hex ID (short code)|hexID|SZKDEVICELGRKB|
-|Name|name|LED_GRKB|
+|name|name|LED_GRKB|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_GRKB', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED RGB diode', 'kicadSymbolki_description': 'RGB LED, green/red/cathode/blue', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

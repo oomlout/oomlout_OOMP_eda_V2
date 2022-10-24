@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MUN12AD03-SH|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-MUN12AD03-SH|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGMUN12AD3SH|
-|Name|name|MUN12AD03-SH|
+|name|name|MUN12AD03-SH|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MUN12AD03-SH', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_Cyntec_MUN12AD03-SH', 'kicadSymbolDatasheet': 'http://www.cyntec.com/upfile/products/download/Cyntec%20MUN12AD03-SH_Datasheet.pdf', 'kicadSymbolki_keywords': 'DC/DC Switching Regulator Power Module 3A Cyntec MUN12AD03', 'kicadSymbolki_description': 'DC/DC Switching Regulator, Power Module, 3A, Cyntec MUN12AD03', 'kicadSymbolki_fp_filters': 'Converter?DCDC?Cyntec?MUN12AD03?SH*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS76329|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS76329|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTPS76329|
-|Name|name|TPS76329|
+|name|name|TPS76329|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS76316', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS76329', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps763.pdf', 'kicadSymbolki_keywords': 'linear low dropout Regulator fixed', 'kicadSymbolki_description': 'Low power 150mA LDO 2.8V fixed output voltage, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

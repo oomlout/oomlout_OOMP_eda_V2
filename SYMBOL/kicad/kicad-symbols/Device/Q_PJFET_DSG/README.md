@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Q_PJFET_DSG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Q_PJFET_DSG|
 |Hex ID (short code)|hexID|SZKDEVICEQPJFETDSG|
-|Name|name|Q_PJFET_DSG|
+|name|name|Q_PJFET_DSG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Q_PJFET_DSG', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'transistor PJFET P-JFET', 'kicadSymbolki_description': 'P-JFET transistor, drain/source/gate'}]|
 ||||

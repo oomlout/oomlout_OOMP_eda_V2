@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Zener|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Zener|
 |Hex ID (short code)|hexID|SZKDEVICEDZENER|
-|Name|name|D_Zener|
+|name|name|D_Zener|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Zener', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Zener diode', 'kicadSymbolki_fp_filters': 'TO-???* *_Diode_* *SingleDiode* D_*'}]|
 ||||

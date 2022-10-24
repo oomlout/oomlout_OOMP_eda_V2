@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_Lumex_SML-LX0404SIUPGUSB|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Lumex_SML-LX0404SIUPGUSB|
 |Hex ID (short code)|hexID|FZKLSMLLUMEXSMLLX44SIUPGU|
-|Name|name|LED_SMD : LED_Lumex_SML-LX0404SIUPGUSB|
+|name|name|LED_SMD : LED_Lumex_SML-LX0404SIUPGUSB|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_Lumex_SML-LX0404SIUPGUSB', 'description': 'Lumex RGB LED, clear, SMD, https://www.lumex.com/spec/SML-LX0404SIUPGUSB.pdf', 'tags': 'LED RGB', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Lumex_SML-LX0404SIUPGUSB.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Lumex_SML-LX0404SIUPGUSB/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Lumex_SML-LX0404SIUPGUSB/kicadPcb3d_450.png

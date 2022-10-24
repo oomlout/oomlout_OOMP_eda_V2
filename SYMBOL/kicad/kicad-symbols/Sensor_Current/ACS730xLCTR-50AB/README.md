@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ACS730xLCTR-50AB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS730xLCTR-50AB|
 |Hex ID (short code)|hexID|SZKSENCURRENTACS73XLCTR5AB|
-|Name|name|ACS730xLCTR-50AB|
+|name|name|ACS730xLCTR-50AB|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ACS730xLCTR-20AB', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ACS730xLCTR-50AB', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.allegromicro.com/~/media/Files/Datasheets/ACS730-Datasheet.ashx?la=en', 'kicadSymbolki_keywords': 'hall effect current monitor sensor isolated', 'kicadSymbolki_description': '±50A Bidirectional Hall-Effect Current Sensor, +5.0V supply, 40mV/A, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

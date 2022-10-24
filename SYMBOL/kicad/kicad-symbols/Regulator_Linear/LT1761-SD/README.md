@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1761-SD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1761-SD|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLT1761SD|
-|Name|name|LT1761-SD|
+|name|name|LT1761-SD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1761-SD', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-5', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1761sff.pdf', 'kicadSymbolki_keywords': 'REGULATOR POSITIVE POWER LDO adjustable', 'kicadSymbolki_description': 'MICROPOWER 100mA LDO adjustable regulator, TSOT-23-5', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
 ||||

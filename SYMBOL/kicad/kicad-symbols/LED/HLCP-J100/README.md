@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HLCP-J100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-LED-HLCP-J100|
 |Hex ID (short code)|hexID|SZKLHLCPJ1|
-|Name|name|HLCP-J100|
+|name|name|HLCP-J100|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'BAR', 'kicadSymbolValue': 'HLCP-J100', 'kicadSymbolFootprint': 'Display:HLCP-J100', 'kicadSymbolDatasheet': 'https://docs.broadcom.com/docs/AV02-1798EN', 'kicadSymbolki_keywords': 'display LED array', 'kicadSymbolki_description': '10-element LED arrays, AIGaAs Red', 'kicadSymbolki_fp_filters': 'HLCP*J100*'}]|
 ||||

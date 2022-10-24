@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|GSOURCE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-pspice-GSOURCE|
 |Hex ID (short code)|hexID|SZKPSPICEGSOURCE|
-|Name|name|GSOURCE|
+|name|name|GSOURCE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'G', 'kicadSymbolValue': 'GSOURCE', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.pspice.com/source/controlled-sources', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Voltage-dependent Current source symbol for simulation only'}]|
 ||||

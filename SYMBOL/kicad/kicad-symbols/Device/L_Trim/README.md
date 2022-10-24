@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L_Trim|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-L_Trim|
 |Hex ID (short code)|hexID|SZKDEVICELTRIM|
-|Name|name|L_Trim|
+|name|name|L_Trim|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'L', 'kicadSymbolValue': 'L_Trim', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'inductor choke coil reactor magnetic', 'kicadSymbolki_description': 'Variable inductor', 'kicadSymbolki_fp_filters': 'Inductor_* L_*'}]|
 ||||

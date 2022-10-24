@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74AHC373|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74AHC373|
 |Hex ID (short code)|hexID|SZK74XX74AHC373|
-|Name|name|74AHC373|
+|name|name|74AHC373|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LS373', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AHC373', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/74AHC373.pdf', 'kicadSymbolki_keywords': 'AHCMOS REG DFF DFF8 LATCH', 'kicadSymbolki_description': '8-bit Latch, 3-state outputs', 'kicadSymbolki_fp_filters': 'DIP?20* SOIC?20* SO?20* SSOP?20* TSSOP?20*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DIP-64_W25.4mm_SMDSocket_SmallPads|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-64_W25.4mm_SMDSocket_SmallPads|
 |Hex ID (short code)|hexID|FZKDIPDIP64W254SMSOSLLPADS|
-|Name|name|Package_DIP : DIP-64_W25.4mm_SMDSocket_SmallPads|
+|name|name|Package_DIP : DIP-64_W25.4mm_SMDSocket_SmallPads|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DIP-64_W25.4mm_SMDSocket_SmallPads', 'description': '64-lead though-hole mounted DIP package, row spacing 25.4 mm (1000 mils), SMDSocket, SmallPads', 'tags': 'THT DIP DIL PDIP 2.54mm 25.4mm 1000mil SMDSocket SmallPads', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-64_W25.4mm_SMDSocket.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-64_W25.4mm_SMDSocket_SmallPads/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-64_W25.4mm_SMDSocket_SmallPads/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_2010_5025Metric|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_2010_5025Metric|
 |Hex ID (short code)|hexID|FZKLSML21525METRIC|
-|Name|name|LED_SMD : LED_2010_5025Metric|
+|name|name|LED_SMD : LED_2010_5025Metric|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_2010_5025Metric', 'description': 'LED SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator', 'tags': 'LED', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_2010_5025Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_2010_5025Metric/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_2010_5025Metric/kicadPcb3d_450.png

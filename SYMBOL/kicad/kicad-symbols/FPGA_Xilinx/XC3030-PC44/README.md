@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC3030-PC44|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3030-PC44|
 |Hex ID (short code)|hexID|SZKFPGAXILINXXC33PC44|
-|Name|name|XC3030-PC44|
+|name|name|XC3030-PC44|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC3030-PC44', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

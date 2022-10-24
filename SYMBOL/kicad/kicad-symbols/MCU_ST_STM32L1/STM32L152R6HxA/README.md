@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32L152R6HxA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L152R6HxA|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32L1STM32L152R6HXA|
-|Name|name|STM32L152R6HxA|
+|name|name|STM32L152R6HxA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32L152R6HxA', 'kicadSymbolFootprint': 'Package_BGA:TFBGA-64_5x5mm_Layout8x8_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00277537.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M3 STM32L1 STM32L151/152', 'kicadSymbolki_description': 'ARM Cortex-M3 MCU, 32KB flash, 16KB RAM, 32MHz, 1.65-3.6V, 50 GPIO, TFBGA-64', 'kicadSymbolki_fp_filters': 'TFBGA*5x5mm*Layout8x8*P0.5mm*'}]|
 ||||

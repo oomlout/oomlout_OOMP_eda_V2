@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ASV-xxxMHz|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-ASV-xxxMHz|
 |Hex ID (short code)|hexID|SZKOCSASVXXXMHZ|
-|Name|name|ASV-xxxMHz|
+|name|name|ASV-xxxMHz|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'X', 'kicadSymbolValue': 'ASV-xxxMHz', 'kicadSymbolFootprint': 'Oscillator:Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm', 'kicadSymbolDatasheet': 'http://www.abracon.com/Oscillators/ASV.pdf', 'kicadSymbolki_keywords': '3.3V HCMOS SMD Crystal Clock Oscillator', 'kicadSymbolki_description': '3.3V HCMOS SMD Crystal Clock Oscillator, Abracon', 'kicadSymbolki_fp_filters': 'Oscillator*SMD*Abracon*ASV*7.0x5.1mm*'}]|
 ||||

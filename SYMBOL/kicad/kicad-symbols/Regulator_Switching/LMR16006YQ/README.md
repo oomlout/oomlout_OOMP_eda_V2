@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LMR16006YQ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR16006YQ|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLMR166YQ|
-|Name|name|LMR16006YQ|
+|name|name|LMR16006YQ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LMR16006YQ', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lmr16006y-q1.pdf', 'kicadSymbolki_keywords': 'simple-switcher buck step-down voltage-regulator', 'kicadSymbolki_description': 'Simple Switcher Buck Regulator, Vin=4-40V, Iout=600mA, Adjustable output voltage, SOT-23-6 package', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ISL3282ExRHZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-ISL3282ExRHZ|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTISL3282EXRHZ|
-|Name|name|ISL3282ExRHZ|
+|name|name|ISL3282ExRHZ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ISL3282ExRHZ', 'kicadSymbolFootprint': 'Package_DFN_QFN:TDFN-8-1EP_3x2mm_P0.5mm_EP1.80x1.65mm', 'kicadSymbolDatasheet': 'https://www.renesas.com/us/en/www/doc/datasheet/isl3280e-81e-82e-83e-84e-85e.pdf', 'kicadSymbolki_keywords': 'Interface Driver Receiver Transceiver', 'kicadSymbolki_description': 'RS485, RS422, 20Mbps Transceiver, 3.0V to 5.5V, TDFN-8', 'kicadSymbolki_fp_filters': 'TDFN*1EP*3x2mm*P0.5mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TDA7265|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7265|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOTDA7265|
-|Name|name|TDA7265|
+|name|name|TDA7265|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDA7265', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-11_P3.4x5.08mm_StaggerOdd_Lead4.85mm_Vertical', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/tda7265.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'audio amplifier 2ch', 'kicadSymbolki_description': '25W +25W Stereo Amplifier with Mute & St-by, TO-220-11', 'kicadSymbolki_fp_filters': 'TO?220*StaggerOdd*'}]|
 ||||

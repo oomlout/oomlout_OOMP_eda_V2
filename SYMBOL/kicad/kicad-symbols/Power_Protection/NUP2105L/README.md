@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NUP2105L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-NUP2105L|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONNUP215L|
-|Name|name|NUP2105L|
+|name|name|NUP2105L|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'NUP2105L', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/NUP2105L-D.PDF', 'kicadSymbolki_keywords': 'can esd protection suppression transient', 'kicadSymbolki_description': 'Dual Line CAN Bus Protector, 24Vrwm', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

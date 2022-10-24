@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOD-70_P2.54mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-SOD-70_P2.54mm|
 |Hex ID (short code)|hexID|FZKSOTSOD7P254|
-|Name|name|Package_TO_SOT_THT : SOD-70_P2.54mm|
+|name|name|Package_TO_SOT_THT : SOD-70_P2.54mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOD-70_P2.54mm', 'description': 'Plastic near cylindrical package Sod-70 see: https://www.nxp.com/docs/en/data-sheet/KTY81_SER.pdf  [StepUp generated footprint]', 'tags': 'Sod-70', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/SOD-70_P2.54mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/SOD-70_P2.54mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/SOD-70_P2.54mm/kicadPcb3d_450.png

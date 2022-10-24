@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_TDK_SLF12555|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_SLF12555|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLTDKSLF12555|
-|Name|name|Inductor_SMD : L_TDK_SLF12555|
+|name|name|Inductor_SMD : L_TDK_SLF12555|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_TDK_SLF12555', 'description': 'Inductor, TDK, SLF12555, 12.5mmx12.5mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/catalog/datasheets/inductor_commercial_power_slf12555_en.pdf)', 'tags': 'Inductor SLF12555', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_TDK_SLF12555.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_TDK_SLF12555/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_TDK_SLF12555/kicadPcb3d_450.png

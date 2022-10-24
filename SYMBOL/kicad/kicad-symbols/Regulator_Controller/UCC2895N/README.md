@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|UCC2895N|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC2895N|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERUCC2895N|
-|Name|name|UCC2895N|
+|name|name|UCC2895N|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'UCC3895N', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'UCC2895N', 'kicadSymbolFootprint': 'Package_DIP:DIP-20_W7.62mm_LongPads', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ucc3895.pdf', 'kicadSymbolki_keywords': 'Phase-shift full-bridge converter', 'kicadSymbolki_description': 'BiCMOS, Advanced Phase-ShiftPWM Controller, DIP-20', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

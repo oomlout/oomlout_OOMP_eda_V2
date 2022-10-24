@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C5D50065D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-C5D50065D|
 |Hex ID (short code)|hexID|SZKDIODEC5D565D|
-|Name|name|C5D50065D|
+|name|name|C5D50065D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'C3D16060D', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'C5D50065D', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-247-3_Vertical', 'kicadSymbolDatasheet': 'https://www.wolfspeed.com/media/downloads/111/C5D50065D.pdf', 'kicadSymbolki_keywords': 'sic diode', 'kicadSymbolki_description': '650V, 50A, SiC Schottky Diode, TO-247-3', 'kicadSymbolki_fp_filters': 'TO?247*'}]|
 ||||

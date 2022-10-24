@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LMZ13608|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMZ13608|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLMZ1368|
-|Name|name|LMZ13608|
+|name|name|LMZ13608|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LMZ13608', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:Texas_NDY0011A', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/snvs710i/snvs710i.pdf', 'kicadSymbolki_keywords': 'Step-Down DC/DC Module', 'kicadSymbolki_description': '8A Adjustable Step-Down DC/DC Power Module in 15x15mm, Texas NDY0011A', 'kicadSymbolki_fp_filters': 'Texas*NDY0011A*'}]|
 ||||

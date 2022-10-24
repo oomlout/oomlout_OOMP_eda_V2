@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Logo_Open_Hardware_Large|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Graphic-Logo_Open_Hardware_Large|
 |Hex ID (short code)|hexID|SZKGRAPHICLOPENHARDWAREL|
-|Name|name|Logo_Open_Hardware_Large|
+|name|name|Logo_Open_Hardware_Large|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#LOGO', 'kicadSymbolValue': 'Logo_Open_Hardware_Large', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'Logo', 'kicadSymbolki_description': 'Open Hardware logo, large'}]|
 ||||

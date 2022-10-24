@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|R_MiniMELF_MMA-0204|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_MiniMELF_MMA-0204|
 |Hex ID (short code)|hexID|FZKRESISTORSMRMMELFA24|
-|Name|name|Resistor_SMD : R_MiniMELF_MMA-0204|
+|name|name|Resistor_SMD : R_MiniMELF_MMA-0204|
 |Footprint Kicad|footprintKicadDetails|{'name': 'R_MiniMELF_MMA-0204', 'description': 'Resistor, MiniMELF, MMA-0204, http://www.vishay.com/docs/28713/melfprof.pdf', 'tags': 'MiniMELF Resistor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_MiniMELF_MMA-0204.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_MiniMELF_MMA-0204/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_MiniMELF_MMA-0204/kicadPcb3d_450.png

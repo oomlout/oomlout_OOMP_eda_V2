@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Xilinx_FHG1761|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_FHG1761|
 |Hex ID (short code)|hexID|FZKBGAXILINXFHG1761|
-|Name|name|Package_BGA : Xilinx_FHG1761|
+|name|name|Package_BGA : Xilinx_FHG1761|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Xilinx_FHG1761', 'description': 'Virtex-7 BGA, 42x42 grid, 45x45mm package, 1mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=302, NSMD pad definition Appendix A', 'tags': 'BGA 1760 1 FH1761 FHG1761', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_FHG1761.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_FHG1761/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_FHG1761/kicadPcb3d_450.png

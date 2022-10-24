@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SP0502BAJT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-SP0502BAJT|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONSP52BAJT|
-|Name|name|SP0502BAJT|
+|name|name|SP0502BAJT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SP0502BAJT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-323_SC-70', 'kicadSymbolDatasheet': 'http://www.littelfuse.com/~/media/files/littelfuse/technical%20resources/documents/data%20sheets/sp05xxba.pdf', 'kicadSymbolki_keywords': 'usb esd protection suppression transient', 'kicadSymbolki_description': 'TVS Diode Array, 5.5V Standoff, 2 Channels, SC-70 package', 'kicadSymbolki_fp_filters': 'SOT?323*'}]|
 ||||

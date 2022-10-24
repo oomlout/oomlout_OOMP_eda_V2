@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TerminalBlock_RND_205-00051_1x08_P5.00mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TerminalBlock_RND-TerminalBlock_RND_205-00051_1x08_P5.00mm_Horizontal|
 |Hex ID (short code)|hexID|FZKTBRNDTBRND25511X8P5HORIZONTAL|
-|Name|name|TerminalBlock_RND : TerminalBlock_RND_205-00051_1x08_P5.00mm_Horizontal|
+|name|name|TerminalBlock_RND : TerminalBlock_RND_205-00051_1x08_P5.00mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TerminalBlock_RND_205-00051_1x08_P5.00mm_Horizontal', 'description': 'terminal block RND 205-00051, 8 pins, pitch 5mm, size 40x8.1mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00045_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND', 'tags': 'THT terminal block RND 205-00051 pitch 5mm size 40x8.1mm^2 drill 1.1mm pad 2.1mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00051_1x08_P5.00mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

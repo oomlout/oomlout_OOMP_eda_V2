@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega406-1AA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega406-1AA|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA461AA|
-|Name|name|ATmega406-1AA|
+|name|name|ATmega406-1AA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega406-1AA', 'kicadSymbolFootprint': 'Package_QFP:LQFP-48_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2548-8-bit-AVR-Microcontroller-Battery-Management-ATmega406_Datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR battery management', 'kicadSymbolki_description': '1MHz, 40kB Flash, 2kB SRAM, 512B EEPROM, JTAG, LQFP-48', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.5mm*'}]|
 ||||

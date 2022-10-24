@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering|
 |Hex ID (short code)|hexID|FZKOCSOCSSMABRACONASE4PIN32X25HANDSOLDERING|
-|Name|name|Oscillator : Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering|
+|name|name|Oscillator : Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering', 'description': 'Miniature Crystal Clock Oscillator Abracon ASE series, http://www.abracon.com/Oscillators/ASEseries.pdf, hand-soldering, 3.2x2.5mm^2 package', 'tags': 'SMD SMT crystal oscillator hand-soldering', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering/kicadPcb3d_450.png

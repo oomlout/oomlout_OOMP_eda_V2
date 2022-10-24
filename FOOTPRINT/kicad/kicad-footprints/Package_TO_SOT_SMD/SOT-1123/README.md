@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOT-1123|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-1123|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT1123|
-|Name|name|Package_TO_SOT_SMD : SOT-1123|
+|name|name|Package_TO_SOT_SMD : SOT-1123|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOT-1123', 'description': 'SOT-1123 small outline transistor (see http://www.onsemi.com/pub/Collateral/NST3906F3-D.PDF)', 'tags': 'SOT-1123 transistor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-1123.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-1123/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-1123/kicadPcb3d_450.png

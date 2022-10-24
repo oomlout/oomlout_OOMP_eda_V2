@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|KBU8K|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBU8K|
 |Hex ID (short code)|hexID|SZKDIODEBRIDGEKBU8K|
-|Name|name|KBU8K|
+|name|name|KBU8K|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'KBU4A', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'KBU8K', 'kicadSymbolFootprint': 'Diode_THT:Diode_Bridge_Vishay_KBU', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/88656/kbu8.pdf', 'kicadSymbolki_keywords': 'rectifier acdc', 'kicadSymbolki_description': 'Single-Phase Bridge Rectifier, 560V Vrms, 8.0A If, KBU package', 'kicadSymbolki_fp_filters': 'Diode*Bridge*Vishay*KBU*'}]|
 ||||

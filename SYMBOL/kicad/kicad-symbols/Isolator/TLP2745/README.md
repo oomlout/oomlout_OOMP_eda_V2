@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLP2745|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-TLP2745|
 |Hex ID (short code)|hexID|SZKISOLATORTLP2745|
-|Name|name|TLP2745|
+|name|name|TLP2745|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLP2745', 'kicadSymbolFootprint': 'Package_SO:SO-6L_10x3.84mm_P1.27mm', 'kicadSymbolDatasheet': 'https://toshiba.semicon-storage.com/info/docget.jsp?did=29405&prodName=TLP2745', 'kicadSymbolki_keywords': 'Photocouple highspeed non inverting push-pull output', 'kicadSymbolki_description': '10-Mbps low-power non inverting photocouple,5 kVrms, 4.5 - 30 Vdd, push-pull output', 'kicadSymbolki_fp_filters': 'SO*6L*10x3.84mm*P1.27mm*'}]|
 ||||

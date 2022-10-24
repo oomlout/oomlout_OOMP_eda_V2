@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0603-X-UF10-V10-C6U1010|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF10-V10-C6U1010|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XUF1V1C6U11|
-|Name|name|CAPC-0603-X-UF10-V10-C6U1010|
+|name|name|CAPC-0603-X-UF10-V10-C6U1010|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0603-X-UF10-V10-C6U1010', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0603-X-UF10-V10-C6U1010', 'kicadSymbolDatasheet': 'oom.lt/C6U1010', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C6U1010;PARTL C-JLCC;C19702;MANUF C-XXXX;CL10A106KP8NNNC;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

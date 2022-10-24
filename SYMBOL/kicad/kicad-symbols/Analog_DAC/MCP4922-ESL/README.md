@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP4922-ESL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4922-ESL|
 |Hex ID (short code)|hexID|SZKANALOGDACMCP4922ESL|
-|Name|name|MCP4922-ESL|
+|name|name|MCP4922-ESL|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP4922-EP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP4922-ESL', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/21897a.pdf', 'kicadSymbolki_keywords': 'Dual DAC 1ch 12bit SPI', 'kicadSymbolki_description': 'Dual 12-bit Digital to Analog Converter, SPI Interface, SOIC-14', 'kicadSymbolki_fp_filters': 'DIP* PDIP* SO* SOIC* TSSOP*'}]|
 ||||

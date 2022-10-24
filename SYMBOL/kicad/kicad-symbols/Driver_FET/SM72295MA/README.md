@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SM72295MA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-SM72295MA|
 |Hex ID (short code)|hexID|SZKDRIVERFETSM72295MA|
-|Name|name|SM72295MA|
+|name|name|SM72295MA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SM72295MA', 'kicadSymbolFootprint': 'Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sm72295', 'kicadSymbolki_keywords': 'Full Bridge Gate Driver', 'kicadSymbolki_description': 'Full Bridge Gate Driver with integrated Current Sense Amplifier, 3A, 115V, SOIC-28', 'kicadSymbolki_fp_filters': 'SOIC*7.5x17.9mm*P1.27mm*'}]|
 ||||

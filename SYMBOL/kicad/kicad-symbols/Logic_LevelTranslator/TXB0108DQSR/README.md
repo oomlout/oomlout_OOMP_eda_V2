@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TXB0108DQSR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0108DQSR|
 |Hex ID (short code)|hexID|SZKLOGICLEVELTRANSLATORTXB18DQSR|
-|Name|name|TXB0108DQSR|
+|name|name|TXB0108DQSR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TXB0108DQSR', 'kicadSymbolFootprint': 'Package_SON:USON-20_2x4mm_P0.4mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/txb0108.pdf', 'kicadSymbolki_keywords': 'bidirectional voltage level translator', 'kicadSymbolki_description': '8-bit bidirectional voltage level translator with auto-direction sensing USON package', 'kicadSymbolki_fp_filters': 'USON*2x4mm*P0.4mm*'}]|
 ||||

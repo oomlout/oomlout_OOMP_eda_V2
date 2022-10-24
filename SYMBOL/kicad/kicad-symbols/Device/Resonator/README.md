@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Resonator|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Resonator|
 |Hex ID (short code)|hexID|SZKDEVICER|
-|Name|name|Resonator|
+|name|name|Resonator|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Y', 'kicadSymbolValue': 'Resonator', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'ceramic resonator', 'kicadSymbolki_description': 'Three pin ceramic resonator', 'kicadSymbolki_fp_filters': 'Filter* Resonator*'}]|
 ||||

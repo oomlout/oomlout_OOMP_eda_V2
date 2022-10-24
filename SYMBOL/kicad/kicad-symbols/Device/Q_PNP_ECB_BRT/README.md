@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Q_PNP_ECB_BRT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Q_PNP_ECB_BRT|
 |Hex ID (short code)|hexID|SZKDEVICEQPNPECBBRT|
-|Name|name|Q_PNP_ECB_BRT|
+|name|name|Q_PNP_ECB_BRT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Q_PNP_ECB_BRT', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'transistor PNP', 'kicadSymbolki_description': 'PNP bias resistor transistor, emitter/collector/base'}]|
 ||||

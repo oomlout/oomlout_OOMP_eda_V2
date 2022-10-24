@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-92Mini-2|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-92Mini-2|
 |Hex ID (short code)|hexID|FZKSOTTO92M2|
-|Name|name|Package_TO_SOT_THT : TO-92Mini-2|
+|name|name|Package_TO_SOT_THT : TO-92Mini-2|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-92Mini-2', 'description': 'TO-92Mini package, drill 0.6mm (https://media.digikey.com/pdf/Data%20Sheets/Infineon%20PDFs/KT,KTY.pdf)', 'tags': 'to-92Mini transistor ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92Mini-2.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-92Mini-2/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-92Mini-2/kicadPcb3d_450.png

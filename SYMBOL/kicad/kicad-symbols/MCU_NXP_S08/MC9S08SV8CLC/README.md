@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC9S08SV8CLC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08SV8CLC|
 |Hex ID (short code)|hexID|SZKMCUNXPS8MC9S8SV8CLC|
-|Name|name|MC9S08SV8CLC|
+|name|name|MC9S08SV8CLC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC9S08SV16CLC', 'kicadSymbolReference': 'IC', 'kicadSymbolValue': 'MC9S08SV8CLC', 'kicadSymbolFootprint': 'Package_QFP:LQFP-32_7x7mm_P0.8mm', 'kicadSymbolDatasheet': 'http://cache.nxp.com/files/microcontrollers/doc/ref_manual/MC9S08SV16RM.pdf', 'kicadSymbolki_keywords': 'NXP S08 Microcontroller', 'kicadSymbolki_description': '8-bit General Purpose Best-in-Class performance Microcontroller, S08 core, 8kB Flash, 768B RAM, LQFP-32', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.8mm*'}]|
 ||||

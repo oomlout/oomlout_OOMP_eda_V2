@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS166|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS166|
 |Hex ID (short code)|hexID|SZK74XX74LS166|
-|Name|name|74LS166|
+|name|name|74LS166|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS166', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS166', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL SR SR8', 'kicadSymbolki_description': 'Shift Register 8-bit, parallel load', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

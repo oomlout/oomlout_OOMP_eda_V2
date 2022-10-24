@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-C|
 |Hex ID (short code)|hexID|SZKDEVICEC|
-|Name|name|C|
+|name|name|C|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'C', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

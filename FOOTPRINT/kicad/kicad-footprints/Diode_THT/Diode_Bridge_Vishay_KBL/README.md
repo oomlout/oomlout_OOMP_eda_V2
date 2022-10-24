@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Diode_Bridge_Vishay_KBL|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Vishay_KBL|
 |Hex ID (short code)|hexID|FZKDDIODEBRIDGEVISHAYKBL|
-|Name|name|Diode_THT : Diode_Bridge_Vishay_KBL|
+|name|name|Diode_THT : Diode_Bridge_Vishay_KBL|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Diode_Bridge_Vishay_KBL', 'description': 'Vishay KBL rectifier package, 5.08mm pitch, see http://www.vishay.com/docs/88655/kbl005.pdf', 'tags': 'Vishay KBL rectifier diode bridge', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_Vishay_KBL.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_Vishay_KBL/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_Vishay_KBL/kicadPcb3d_450.png

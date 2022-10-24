@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|7443|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx_IEEE-7443|
 |Hex ID (short code)|hexID|SZK74XXIEEE7443|
-|Name|name|7443|
+|name|name|7443|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '7443', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HDSP-A151|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-A151|
 |Hex ID (short code)|hexID|SZKDICHARACTERHDSPA151|
-|Name|name|HDSP-A151|
+|name|name|HDSP-A151|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HDSP-A151', 'kicadSymbolFootprint': 'Display_7Segment:HDSP-A151', 'kicadSymbolDatasheet': 'https://docs.broadcom.com/docs/AV02-2553EN', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'One digit 7 segment red, common anode', 'kicadSymbolki_fp_filters': 'HDSP?A151*'}]|
 ||||

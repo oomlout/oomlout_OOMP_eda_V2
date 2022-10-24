@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Texas_S-PDSO-N12|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PDSO-N12|
 |Hex ID (short code)|hexID|FZKSONTEXASSPDSON12|
-|Name|name|Package_SON : Texas_S-PDSO-N12|
+|name|name|Package_SON : Texas_S-PDSO-N12|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Texas_S-PDSO-N12', 'description': 'http://www.ti.com/lit/ds/symlink/bq27441-g1.pdf', 'tags': 'SON thermal pads', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Texas_S-PDSO-N12.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/Texas_S-PDSO-N12/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SON/Texas_S-PDSO-N12/kicadPcb3d_450.png

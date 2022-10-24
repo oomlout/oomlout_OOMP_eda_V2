@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PhoenixContact_GMSTBV_2,5_6-GF-7,62_1x06_P7.62mm_Vertical_ThreadedFlange_MountHole|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_GMSTB-PhoenixContact_GMSTBV_2,5_6-GF-7,62_1x06_P7.62mm_Vertical_ThreadedFlange_MountHole|
 |Hex ID (short code)|hexID|FZKCNPHOENIXGMSTBPHOENIXCONTACTGMSTBV256GF7621X6P762VERTICALTHREADEDFLANGEMOUNTHOLE|
-|Name|name|Connector_Phoenix_GMSTB : PhoenixContact_GMSTBV_2,5_6-GF-7,62_1x06_P7.62mm_Vertical_ThreadedFlange_MountHole|
+|name|name|Connector_Phoenix_GMSTB : PhoenixContact_GMSTBV_2,5_6-GF-7,62_1x06_P7.62mm_Vertical_ThreadedFlange_MountHole|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PhoenixContact_GMSTBV_2,5_6-GF-7,62_1x06_P7.62mm_Vertical_ThreadedFlange_MountHole', 'description': 'Generic Phoenix Contact connector footprint for: GMSTBV_2,5/6-GF-7,62; number of pins: 06; pin pitch: 7.62mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) \|\| order number: 1829196 12A 630V', 'tags': 'phoenix_contact connector GMSTBV_01x06_GF_7.62mm_MH', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Phoenix_GMSTB.3dshapes/PhoenixContact_GMSTBV_2,5_6-GF-7,62_1x06_P7.62mm_Vertical_ThreadedFlange_MountHole.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBV_2,5_6-GF-7,62_1x06_P7.62mm_Vertical_ThreadedFlange_MountHole/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBV_2,5_6-GF-7,62_1x06_P7.62mm_Vertical_ThreadedFlange_MountHole/kicadPcb3d_450.png

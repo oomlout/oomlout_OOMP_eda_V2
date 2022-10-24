@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|NetTie-3_SMD_Pad2.0mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-NetTie-NetTie-3_SMD_Pad2.0mm|
 |Hex ID (short code)|hexID|FZKNTNT3SMPAD2|
-|Name|name|NetTie : NetTie-3_SMD_Pad2.0mm|
+|name|name|NetTie : NetTie-3_SMD_Pad2.0mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'NetTie-3_SMD_Pad2.0mm', 'description': 'Net tie, 3 pin, 2.0mm square SMD pads', 'tags': 'net tie', 'attributeType': None, 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/NetTie/NetTie-3_SMD_Pad2.0mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/NetTie/NetTie-3_SMD_Pad2.0mm/kicadPcb3d_450.png

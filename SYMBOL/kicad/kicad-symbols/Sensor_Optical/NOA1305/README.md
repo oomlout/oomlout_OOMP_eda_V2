@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NOA1305|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-NOA1305|
 |Hex ID (short code)|hexID|SZKSENOPTICALNOA135|
-|Name|name|NOA1305|
+|name|name|NOA1305|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NOA1305', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/NOA1305-D.PDF', 'kicadSymbolki_keywords': 'opto ambient light sensor', 'kicadSymbolki_description': 'Ambient Light Sensor with I2C Interface and Dark Current Compensation', 'kicadSymbolki_fp_filters': 'DFN*6*P0.65mm*'}]|
 ||||

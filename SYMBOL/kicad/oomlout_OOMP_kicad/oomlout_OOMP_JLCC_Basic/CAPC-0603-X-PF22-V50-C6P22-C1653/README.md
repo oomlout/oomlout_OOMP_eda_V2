@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0603-X-PF22-V50-C6P22-C1653|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-PF22-V50-C6P22-C1653|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XPF22V5C6P22C1653|
-|Name|name|CAPC-0603-X-PF22-V50-C6P22-C1653|
+|name|name|CAPC-0603-X-PF22-V50-C6P22-C1653|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0603-X-PF22-V50-C6P22-C1653', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0603-X-PF22-V50-C6P22-C1653', 'kicadSymbolDatasheet': 'oom.lt/C6P22', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C6P22;PARTL C-JLCC;C1653;MANUF C-XXXX;CL10C220JB8NNNC;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

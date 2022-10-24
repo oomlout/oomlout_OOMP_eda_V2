@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ESP-WROOM-02|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-ESP-WROOM-02|
 |Hex ID (short code)|hexID|FZKRFMOESPWROOM2|
-|Name|name|RF_Module : ESP-WROOM-02|
+|name|name|RF_Module : ESP-WROOM-02|
 |Footprint Kicad|footprintKicadDetails|{'name': 'ESP-WROOM-02', 'description': 'https://www.espressif.com/sites/default/files/documentation/0c-esp-wroom-02_datasheet_en.pdf', 'tags': 'ESP WROOM-02 espressif esp8266ex', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/ESP-WROOM-02.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

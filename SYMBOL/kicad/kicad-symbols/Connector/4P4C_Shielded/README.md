@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4P4C_Shielded|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-4P4C_Shielded|
 |Hex ID (short code)|hexID|SZKCN4P4CSHED|
-|Name|name|4P4C_Shielded|
+|name|name|4P4C_Shielded|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': '4P4C_Shielded', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': '4P4C RJ female connector', 'kicadSymbolki_description': 'RJ connector, 4P4C (4 positions 4 connected), RJ9/RJ10/RJ22, Shielded', 'kicadSymbolki_fp_filters': '4P4C* RJ9* RJ10* RJ22*'}]|
 ||||

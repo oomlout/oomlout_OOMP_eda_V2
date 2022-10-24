@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LDC1314|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Proximity-LDC1314|
 |Hex ID (short code)|hexID|SZKSENPROXIMITYLDC1314|
-|Name|name|LDC1314|
+|name|name|LDC1314|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LDC1314', 'kicadSymbolFootprint': 'Package_DFN_QFN:WQFN-16-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ldc1312.pdf', 'kicadSymbolki_keywords': 'inductance sensor', 'kicadSymbolki_description': 'Inductance to digital converter, 4-channel 12-bit, WQFN-16', 'kicadSymbolki_fp_filters': 'WQFN*1EP*4x4mm*P0.5mm*'}]|
 ||||

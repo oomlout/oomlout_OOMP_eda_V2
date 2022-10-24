@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD5687RBCPZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-AD5687RBCPZ|
 |Hex ID (short code)|hexID|SZKANALOGDACAD5687RBCPZ|
-|Name|name|AD5687RBCPZ|
+|name|name|AD5687RBCPZ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AD5687BCPZ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD5687RBCPZ', 'kicadSymbolFootprint': 'Package_CSP:LFCSP-16-1EP_3x3mm_P0.5mm_EP1.854x1.854mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD5689R_5687R.pdf', 'kicadSymbolki_keywords': 'dac 2nch 12bit spi', 'kicadSymbolki_description': 'Dual, 12-Bit nanoDAC+ with 2 ppm/°C Reference, SPI Interface, LFCSP-16', 'kicadSymbolki_fp_filters': 'LFCSP*3x3mm*P0.5mm*'}]|
 ||||

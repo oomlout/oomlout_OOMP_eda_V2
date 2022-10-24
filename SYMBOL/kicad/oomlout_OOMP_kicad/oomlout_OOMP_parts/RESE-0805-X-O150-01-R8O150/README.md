@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O150-01-R8O150|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O150-01-R8O150|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO151R8O15|
-|Name|name|RESE-0805-X-O150-01-R8O150|
+|name|name|RESE-0805-X-O150-01-R8O150|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O150-01-R8O150', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O150-01-R8O150', 'kicadSymbolDatasheet': 'oom.lt/R8O150', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R8O150;PARTL C-JLCC;C17480;MANUF C-XXXX;0805W8F150JT5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

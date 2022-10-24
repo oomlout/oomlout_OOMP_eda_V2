@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|004-0-0013|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Gas-004-0-0013|
 |Hex ID (short code)|hexID|SZKSENGAS413|
-|Name|name|004-0-0013|
+|name|name|004-0-0013|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '004-0-0013', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://rmtplusstoragesenseair.blob.core.windows.net/docs/publicerat/PSP107.pdf', 'kicadSymbolki_keywords': 'Senseair co2 gas sensor pwm modbus', 'kicadSymbolki_description': 'S8 Residential, CO2 sensor, 400-2000 PPM, 1kHz PWM output, Modbus, THT', 'kicadSymbolki_fp_filters': 'Senseair*S8*'}]|
 ||||

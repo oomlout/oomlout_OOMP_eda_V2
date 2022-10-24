@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP2021A-xxxxP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2021A-xxxxP|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINMCP221AXXXXP|
-|Name|name|MCP2021A-xxxxP|
+|name|name|MCP2021A-xxxxP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP2021A-xxxxP', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20002298C.pdf', 'kicadSymbolki_keywords': 'LIN Transceiver regulator', 'kicadSymbolki_description': 'LIN Transceiver with Voltage Regulator, 3.3V/5V, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

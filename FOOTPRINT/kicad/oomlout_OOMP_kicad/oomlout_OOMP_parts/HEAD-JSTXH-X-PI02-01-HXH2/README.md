@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-JSTXH-X-PI02-01-HXH2|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI02-01-HXH2|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTXHXPI21HXH2|
-|Name|name|oomlout_OOMP_parts : HEAD-JSTXH-X-PI02-01-HXH2|
+|name|name|oomlout_OOMP_parts : HEAD-JSTXH-X-PI02-01-HXH2|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HEAD-JSTXH-X-PI02-01-HXH2', 'description': 'hexID: HXH2; JST XH series connector, B2B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST XH vertical boss', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||

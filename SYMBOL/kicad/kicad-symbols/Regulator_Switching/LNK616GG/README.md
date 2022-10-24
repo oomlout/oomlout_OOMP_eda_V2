@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LNK616GG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK616GG|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK616GG|
-|Name|name|LNK616GG|
+|name|name|LNK616GG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LNK606GG', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LNK616GG', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_SMD-8C', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/linkswitch-ii_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Energy-Efficient, Accurate CV/CC Switcher for Adapters and Chargers', 'kicadSymbolki_description': 'LinkSwitch-II Family, 6.1W Output Power, SMD-8C', 'kicadSymbolki_fp_filters': 'PowerIntegrations?SMD?8C*'}]|
 ||||

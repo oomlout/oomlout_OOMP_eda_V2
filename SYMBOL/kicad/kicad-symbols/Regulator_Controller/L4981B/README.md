@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L4981B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-L4981B|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERL4981B|
-|Name|name|L4981B|
+|name|name|L4981B|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'L4981B', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/l4981.pdf', 'kicadSymbolki_keywords': 'SMPS pfc controller', 'kicadSymbolki_description': 'Power Factor Corrector, Line Modulated Frequency Average Current Mode, DIP-20/SOIC-20', 'kicadSymbolki_fp_filters': 'SOIC*7.5x12.8mm*P1.27mm* DIP*W7.62mm*'}]|
 ||||

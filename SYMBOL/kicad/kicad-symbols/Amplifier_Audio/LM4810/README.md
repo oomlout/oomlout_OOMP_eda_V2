@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM4810|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4810|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOLM481|
-|Name|name|LM4810|
+|name|name|LM4810|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM4810', 'kicadSymbolFootprint': 'Package_SO:TSSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm4810.pdf', 'kicadSymbolki_keywords': 'audio amplifier headphone', 'kicadSymbolki_description': 'Boomer Dual 105mW Headphone Amplifier with Active-High Shutdown Mode, VSSOP-8', 'kicadSymbolki_fp_filters': 'TSSOP*3x3mm*P0.65mm*'}]|
 ||||

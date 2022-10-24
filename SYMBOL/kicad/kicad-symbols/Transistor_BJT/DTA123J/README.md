@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DTA123J|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA123J|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTDTA123J|
-|Name|name|DTA123J|
+|name|name|DTA123J|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DTA123J', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'ROHM Digital PNP Transistor', 'kicadSymbolki_description': 'Digital PNP Transistor, 2k2/47k, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23* SC?59*'}]|
 ||||

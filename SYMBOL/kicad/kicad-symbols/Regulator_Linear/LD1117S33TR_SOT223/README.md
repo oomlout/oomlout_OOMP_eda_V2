@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LD1117S33TR_SOT223|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1117S33TR_SOT223|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLD1117S33TRSOT223|
-|Name|name|LD1117S33TR_SOT223|
+|name|name|LD1117S33TR_SOT223|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AP1117-15', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LD1117S33TR_SOT223', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223-3_TabPin2', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf', 'kicadSymbolki_keywords': 'REGULATOR LDO 3.3V', 'kicadSymbolki_description': '800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 3.3V, SOT-223', 'kicadSymbolki_fp_filters': 'SOT?223*TabPin2*'}]|
 ||||

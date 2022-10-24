@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BPW40|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW40|
 |Hex ID (short code)|hexID|SZKSENOPTICALBPW4|
-|Name|name|BPW40|
+|name|name|BPW40|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BPW40', 'kicadSymbolFootprint': 'LED_THT:LED_D5.0mm_Clear', 'kicadSymbolDatasheet': 'https://www.rcscomponents.kiev.ua/datasheets/bpw40.pdf', 'kicadSymbolki_keywords': 'npn phototransistor', 'kicadSymbolki_description': 'Phototransistor NPN', 'kicadSymbolki_fp_filters': 'LED*D5.0mm*Clear*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MMBT3906|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMBT3906|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBT396|
-|Name|name|MMBT3906|
+|name|name|MMBT3906|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BC807', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'MMBT3906', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/2N3906-D.PDF', 'kicadSymbolki_keywords': 'PNP Transistor', 'kicadSymbolki_description': '-0.2A Ic, -40V Vce, Small Signal PNP Transistor, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

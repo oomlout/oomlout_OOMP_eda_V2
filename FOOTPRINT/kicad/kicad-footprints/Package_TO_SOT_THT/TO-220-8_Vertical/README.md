@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-220-8_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-8_Vertical|
 |Hex ID (short code)|hexID|FZKSOTTO228VERTICAL|
-|Name|name|Package_TO_SOT_THT : TO-220-8_Vertical|
+|name|name|Package_TO_SOT_THT : TO-220-8_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-220-8_Vertical', 'description': 'TO-220-8 (Multiwatt8), Vertical, 2.54mm Pitch (http://www.st.com/resource/en/datasheet/tda7264.pdf)', 'tags': 'TO-220-9 Vertical 2.54mm Pitch Multiwatt 8', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220-8_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-8_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-8_Vertical/kicadPcb3d_450.png

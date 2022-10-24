@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LMC555xMM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-LMC555xMM|
 |Hex ID (short code)|hexID|SZKTIMERLMC555X|
-|Name|name|LMC555xMM|
+|name|name|LMC555xMM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM555xMM', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LMC555xMM', 'kicadSymbolFootprint': 'Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lmc555.pdf', 'kicadSymbolki_keywords': 'single timer 555', 'kicadSymbolki_description': 'CMOS Timer, 555 compatible, VSSOP-8', 'kicadSymbolki_fp_filters': '*VSSOP*3.0x3.0mm*P0.65mm*'}]|
 ||||

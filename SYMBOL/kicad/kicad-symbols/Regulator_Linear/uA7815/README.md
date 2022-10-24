@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|uA7815|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-uA7815|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARUA7815|
-|Name|name|uA7815|
+|name|name|uA7815|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'uA7805', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'uA7815', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ua78.pdf', 'kicadSymbolki_keywords': 'Voltage Regulator 1A Positive', 'kicadSymbolki_description': 'Positive 1A 35V Linear Regulator, Fixed Output 15V, TO-220/TO-263', 'kicadSymbolki_fp_filters': 'TO?263* TO?220*'}]|
 ||||

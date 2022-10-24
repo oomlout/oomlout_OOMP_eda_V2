@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Bus_PCI_32bit_Universal|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Bus_PCI_32bit_Universal|
 |Hex ID (short code)|hexID|SZKCNBUSPCI32BITUNIVERSAL|
-|Name|name|Bus_PCI_32bit_Universal|
+|name|name|Bus_PCI_32bit_Universal|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Bus_PCI_32bit_Universal', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://pinouts.ru/Slots/PCI_pinout.shtml', 'kicadSymbolki_keywords': 'PCI 5V 3.3V 3V3', 'kicadSymbolki_description': 'PCI bus connector for universal 5V/3.3V cards'}]|
 ||||

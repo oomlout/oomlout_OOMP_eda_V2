@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O270-01-R6O270|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O270-01-R6O270|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO271R6O27|
-|Name|name|RESE-0603-X-O270-01-R6O270|
+|name|name|RESE-0603-X-O270-01-R6O270|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O270-01-R6O270', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O270-01-R6O270', 'kicadSymbolDatasheet': 'oom.lt/R6O270', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6O270;PARTL C-JLCC;C25190;MANUF C-XXXX;0603WAF270JT5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

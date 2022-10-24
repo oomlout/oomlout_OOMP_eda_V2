@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L79L08_TO92|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-L79L08_TO92|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARL79L8TO92|
-|Name|name|L79L08_TO92|
+|name|name|L79L08_TO92|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM79L05_TO92', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'L79L08_TO92', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://www.farnell.com/datasheets/1827870.pdf', 'kicadSymbolki_keywords': 'Voltage Regulator 100mA Negative', 'kicadSymbolki_description': 'Negative 100mA -30V Linear Regulator, Fixed Output -5V, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

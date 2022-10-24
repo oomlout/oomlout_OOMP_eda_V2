@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O499D-67-R6499DA|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O499D-67-R6499DA|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO499D67R6499DA|
-|Name|name|RESE-0603-X-O499D-67-R6499DA|
+|name|name|RESE-0603-X-O499D-67-R6499DA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O499D-67-R6499DA', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O499D-67-R6499DA', 'kicadSymbolDatasheet': 'oom.lt/R6499DA', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6499DA;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

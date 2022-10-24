@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TestPoint_2Pads_Pitch5.08mm_Drill1.3mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_2Pads_Pitch5.08mm_Drill1.3mm|
 |Hex ID (short code)|hexID|FZKTPTP2PADSPITCH58DRILL13|
-|Name|name|TestPoint : TestPoint_2Pads_Pitch5.08mm_Drill1.3mm|
+|name|name|TestPoint : TestPoint_2Pads_Pitch5.08mm_Drill1.3mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TestPoint_2Pads_Pitch5.08mm_Drill1.3mm', 'description': 'Test point with 2 pads, pitch 5.08mm, hole diameter 1.3mm, wire diameter 1.0mm', 'tags': 'CONN DEV', 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||

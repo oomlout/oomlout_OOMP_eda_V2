@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM2672N-ADJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2672N-ADJ|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM2672NADJ|
-|Name|name|LM2672N-ADJ|
+|name|name|LM2672N-ADJ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM2672N-12', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2672N-ADJ', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm2672.pdf', 'kicadSymbolki_keywords': 'Step-Down Voltage Regulator', 'kicadSymbolki_description': 'Adjustable Output Voltage, 1A Step-Down Voltage Regulator, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

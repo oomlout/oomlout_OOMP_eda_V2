@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_D4.0mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D4.0mm|
 |Hex ID (short code)|hexID|FZKLLD4|
-|Name|name|LED_THT : LED_D4.0mm|
+|name|name|LED_THT : LED_D4.0mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_D4.0mm', 'description': 'LED, diameter 4.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-43GD(Ver.12B).pdf', 'tags': 'LED diameter 4.0mm 2 pins', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D4.0mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D4.0mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D4.0mm/kicadPcb3d_450.png

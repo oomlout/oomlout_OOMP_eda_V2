@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|BFCN-3600|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-3600|
 |Hex ID (short code)|hexID|SZKRFFILBFCN36|
-|Name|name|BFCN-3600|
+|name|name|BFCN-3600|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BFCN-1445', 'kicadSymbolReference': 'FL', 'kicadSymbolValue': 'BFCN-3600', 'kicadSymbolFootprint': 'Filter:Filter_Mini-Circuits_FV1206', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/BFCN-3600+.pdf', 'kicadSymbolki_keywords': 'Mini-Circuits band pass filter', 'kicadSymbolki_description': '3300-3900MHz 50 Ohm Passive Band Pass Filter, FV1206', 'kicadSymbolki_fp_filters': 'Filter*Mini?Circuits*FV1206*'}]|
 ||||

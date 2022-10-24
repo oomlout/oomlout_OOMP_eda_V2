@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Tunnel_Filled|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Tunnel_Filled|
 |Hex ID (short code)|hexID|SZKDEVICEDTUNNELFILL|
-|Name|name|D_Tunnel_Filled|
+|name|name|D_Tunnel_Filled|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Tunnel_Filled', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'tunnel diode', 'kicadSymbolki_description': 'Tunnel diode (Esaki diode), filled shape', 'kicadSymbolki_fp_filters': 'TO-???* *_Diode_* *SingleDiode* D_*'}]|
 ||||

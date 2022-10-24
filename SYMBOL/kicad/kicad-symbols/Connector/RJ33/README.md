@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RJ33|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-RJ33|
 |Hex ID (short code)|hexID|SZKCNRJ33|
-|Name|name|RJ33|
+|name|name|RJ33|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '8P8C', 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'RJ33', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': '8P8C RJ female connector', 'kicadSymbolki_description': 'RJ connector, 8P8C (8 positions 8 connected)', 'kicadSymbolki_fp_filters': '8P8C* RJ31* RJ32* RJ33* RJ34* RJ35* RJ41* RJ45* RJ49* RJ61*'}]|
 ||||

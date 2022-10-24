@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C4D08120A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-C4D08120A|
 |Hex ID (short code)|hexID|SZKDIODEC4D812A|
-|Name|name|C4D08120A|
+|name|name|C4D08120A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MBR735', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'C4D08120A', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-2_Vertical', 'kicadSymbolDatasheet': 'https://www.wolfspeed.com/media/downloads/80/C4D08120A.pdf', 'kicadSymbolki_keywords': 'sic diode', 'kicadSymbolki_description': '1200V, 8A, SiC Schottky Diode, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

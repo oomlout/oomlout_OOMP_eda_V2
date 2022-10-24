@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|W5500|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Ethernet-W5500|
 |Hex ID (short code)|hexID|SZKINTERFACEETHERNETW55|
-|Name|name|W5500|
+|name|name|W5500|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'W5500', 'kicadSymbolFootprint': 'Package_QFP:LQFP-48_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'http://wizwiki.net/wiki/lib/exe/fetch.php/products:w5500:w5500_ds_v109e.pdf', 'kicadSymbolki_keywords': 'WIZnet Ethernet controller', 'kicadSymbolki_description': '10/100Mb SPI Ethernet controller with TCP/IP stack, LQFP-48', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.5mm*'}]|
 ||||

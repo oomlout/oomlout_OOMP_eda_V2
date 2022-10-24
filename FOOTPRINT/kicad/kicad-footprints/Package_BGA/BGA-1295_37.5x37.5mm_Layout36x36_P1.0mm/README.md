@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|BGA-1295_37.5x37.5mm_Layout36x36_P1.0mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-1295_37.5x37.5mm_Layout36x36_P1.0mm|
 |Hex ID (short code)|hexID|FZKBGABGA1295375X375LAYOUT36X36P1|
-|Name|name|Package_BGA : BGA-1295_37.5x37.5mm_Layout36x36_P1.0mm|
+|name|name|Package_BGA : BGA-1295_37.5x37.5mm_Layout36x36_P1.0mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'BGA-1295_37.5x37.5mm_Layout36x36_P1.0mm', 'description': 'BGA-1295', 'tags': 'BGA-1295', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-1295_37.5x37.5mm_Layout36x36_P1.0mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-1295_37.5x37.5mm_Layout36x36_P1.0mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-1295_37.5x37.5mm_Layout36x36_P1.0mm/kicadPcb3d_450.png

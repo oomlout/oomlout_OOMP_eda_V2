@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM337_TO3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM337_TO3|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM337TO3|
-|Name|name|LM337_TO3|
+|name|name|LM337_TO3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM337_TO3', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-3', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm337-n.pdf', 'kicadSymbolki_keywords': 'Adjustable Voltage Regulator 1.5A Negative', 'kicadSymbolki_description': 'Negative 1.5A 35V Adjustable Linear Regulator, TO-3', 'kicadSymbolki_fp_filters': 'TO?3*'}]|
 ||||

@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0603-X-NF22D-V50-C6N002|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-NF22D-V50-C6N002|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XNF22DV5C6N2|
-|Name|name|CAPC-0603-X-NF22D-V50-C6N002|
+|name|name|CAPC-0603-X-NF22D-V50-C6N002|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0603-X-NF22D-V50-C6N002', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0603-X-NF22D-V50-C6N002', 'kicadSymbolDatasheet': 'oom.lt/C6N002', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C6N002;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

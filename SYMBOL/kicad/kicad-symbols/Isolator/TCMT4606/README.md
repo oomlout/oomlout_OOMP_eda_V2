@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TCMT4606|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-TCMT4606|
 |Hex ID (short code)|hexID|SZKISOLATORTCMT466|
-|Name|name|TCMT4606|
+|name|name|TCMT4606|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TLP290-4', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TCMT4606', 'kicadSymbolFootprint': 'Package_SO:SOP-16_4.55x10.3mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/83512/tcmt1600.pdf', 'kicadSymbolki_keywords': 'NPN AC DC Quad Phototransistor Optocoupler', 'kicadSymbolki_description': 'Quad AC/DC Phototransistor Optocoupler, Vce 70V, CTR 100-300%, SOP16', 'kicadSymbolki_fp_filters': 'SOP*4.55x10.3mm*P1.27mm*'}]|
 ||||

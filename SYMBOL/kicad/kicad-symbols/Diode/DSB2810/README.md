@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DSB2810|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-DSB2810|
 |Hex ID (short code)|hexID|SZKDIODEDSB281|
-|Name|name|DSB2810|
+|name|name|DSB2810|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N6263', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'DSB2810', 'kicadSymbolFootprint': 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal', 'kicadSymbolDatasheet': 'https://www.microsemi.com/document-portal/doc_download/8865-lds-0040-datasheet', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '20V 75mA Schottky diode, DO-35', 'kicadSymbolki_fp_filters': 'D*DO?35*'}]|
 ||||

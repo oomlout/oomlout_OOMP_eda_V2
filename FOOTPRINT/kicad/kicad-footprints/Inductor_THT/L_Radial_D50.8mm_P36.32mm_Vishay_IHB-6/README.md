@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Radial_D50.8mm_P36.32mm_Vishay_IHB-6|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D50.8mm_P36.32mm_Vishay_IHB-6|
 |Hex ID (short code)|hexID|FZKINLRD58P3632VISHAYIHB6|
-|Name|name|Inductor_THT : L_Radial_D50.8mm_P36.32mm_Vishay_IHB-6|
+|name|name|Inductor_THT : L_Radial_D50.8mm_P36.32mm_Vishay_IHB-6|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Radial_D50.8mm_P36.32mm_Vishay_IHB-6', 'description': 'Inductor, Radial series, Radial, pin pitch=36.32mm, , diameter=50.8mm, Vishay, IHB-6, http://www.vishay.com/docs/34015/ihb.pdf', 'tags': 'Inductor Radial series Radial pin pitch 36.32mm  diameter 50.8mm Vishay IHB-6', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D50.8mm_P36.32mm_Vishay_IHB-6.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D50.8mm_P36.32mm_Vishay_IHB-6/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D50.8mm_P36.32mm_Vishay_IHB-6/kicadPcb3d_450.png

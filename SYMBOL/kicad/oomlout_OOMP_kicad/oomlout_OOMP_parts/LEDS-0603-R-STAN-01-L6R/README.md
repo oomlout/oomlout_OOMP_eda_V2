@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|LEDS-0603-R-STAN-01-L6R|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0603-R-STAN-01-L6R|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS63RSTAN1L6R|
-|Name|name|LEDS-0603-R-STAN-01-L6R|
+|name|name|LEDS-0603-R-STAN-01-L6R|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LEDS-0603-R-STAN-01-L6R', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:LEDS-0603-R-STAN-01-L6R', 'kicadSymbolDatasheet': 'oom.lt/L6R', 'kicadSymbolki_keywords': 'LED diode', 'kicadSymbolki_description': 'hexID: L6R;Light emitting diode', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74AUC2G86|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-74AUC2G86|
 |Hex ID (short code)|hexID|SZK74XGXX74AUC2G86|
-|Name|name|74AUC2G86|
+|name|name|74AUC2G86|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LVC2G86', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AUC2G86', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf', 'kicadSymbolki_keywords': 'Dual Gate EX-OR LVC CMOS', 'kicadSymbolki_description': 'Dual EX-OR Gate, Low-Voltage CMOS', 'kicadSymbolki_fp_filters': 'SSOP* VSSOP*'}]|
 ||||

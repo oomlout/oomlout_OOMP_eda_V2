@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LNK3204P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK3204P|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK324P|
-|Name|name|LNK3204P|
+|name|name|LNK3204P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LNK3202P', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LNK3204P', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_PDIP-8C', 'kicadSymbolDatasheet': 'https://ac-dc.power.com/sites/default/files/product-docs/LinkSwitch-TN2_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Lowest Component Count, Energy-Efficient Off-Line Switcher IC', 'kicadSymbolki_description': 'LinkSwitch-TN2 Family, 170mA Output Current, DIP-8C', 'kicadSymbolki_fp_filters': 'PowerIntegrations?PDIP?8C*'}]|
 ||||

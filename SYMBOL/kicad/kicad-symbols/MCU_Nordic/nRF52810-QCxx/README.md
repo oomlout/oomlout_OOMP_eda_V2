@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|nRF52810-QCxx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Nordic-nRF52810-QCxx|
 |Hex ID (short code)|hexID|SZKMCUNORDICNRF5281QCXX|
-|Name|name|nRF52810-QCxx|
+|name|name|nRF52810-QCxx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'nRF52810-QCxx', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm', 'kicadSymbolDatasheet': 'http://infocenter.nordicsemi.com/pdf/nRF52810_PS_v1.1.pdf', 'kicadSymbolki_keywords': 'MCU, ARM, BLE, 2.4GHz', 'kicadSymbolki_description': 'Multiprotocol BLE/2.4GHz Cortex-M4 SoC, QFN-32', 'kicadSymbolki_fp_filters': 'QFN*1EP*5x5mm*P0.5mm*'}]|
 ||||

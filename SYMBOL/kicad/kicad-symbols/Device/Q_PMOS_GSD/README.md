@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Q_PMOS_GSD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Q_PMOS_GSD|
 |Hex ID (short code)|hexID|SZKDEVICEQPMOSGSD|
-|Name|name|Q_PMOS_GSD|
+|name|name|Q_PMOS_GSD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Q_PMOS_GSD', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'transistor PMOS P-MOS P-MOSFET', 'kicadSymbolki_description': 'P-MOSFET transistor, gate/source/drain'}]|
 ||||

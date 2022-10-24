@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PeltierElement|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-PeltierElement|
 |Hex ID (short code)|hexID|SZKDEVICEPELTIERELEMENT|
-|Name|name|PeltierElement|
+|name|name|PeltierElement|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'PE', 'kicadSymbolValue': 'PeltierElement', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'Peltier TEC', 'kicadSymbolki_description': 'Peltier element, thermoelectric cooler'}]|
 ||||

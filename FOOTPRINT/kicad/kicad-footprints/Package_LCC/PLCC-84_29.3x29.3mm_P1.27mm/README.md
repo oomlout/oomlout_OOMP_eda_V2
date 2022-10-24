@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PLCC-84_29.3x29.3mm_P1.27mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-84_29.3x29.3mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKLCCPLCC84293X293P127|
-|Name|name|Package_LCC : PLCC-84_29.3x29.3mm_P1.27mm|
+|name|name|Package_LCC : PLCC-84_29.3x29.3mm_P1.27mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PLCC-84_29.3x29.3mm_P1.27mm', 'description': 'PLCC, 84 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_plcc_jLead_generator.py', 'tags': 'PLCC LCC', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LCC.3dshapes/PLCC-84_29.3x29.3mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-84_29.3x29.3mm_P1.27mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-84_29.3x29.3mm_P1.27mm/kicadPcb3d_450.png

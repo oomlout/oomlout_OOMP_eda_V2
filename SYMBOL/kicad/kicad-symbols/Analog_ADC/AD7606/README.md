@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD7606|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7606|
 |Hex ID (short code)|hexID|SZKANALOGADCAD766|
-|Name|name|AD7606|
+|name|name|AD7606|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD7606', 'kicadSymbolFootprint': 'Package_QFP:LQFP-64_10x10mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ad7606_7606-6_7606-4.pdf', 'kicadSymbolki_keywords': '16bit DAS ADC 8channel 200KSPS', 'kicadSymbolki_description': '8-Channel DAS with 16-Bit, Bipolar Input, Simultaneous Sampling ADC, LQFP-64', 'kicadSymbolki_fp_filters': 'LQFP*10x10mm*P0.5mm*'}]|
 ||||

@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0603-X-NF70-V25-C6N70-C1623|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF70-V25-C6N70-C1623|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XNF7V25C6N7C1623|
-|Name|name|CAPC-0603-X-NF70-V25-C6N70-C1623|
+|name|name|CAPC-0603-X-NF70-V25-C6N70-C1623|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0603-X-NF70-V25-C6N70-C1623', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0603-X-NF70-V25-C6N70-C1623', 'kicadSymbolDatasheet': 'oom.lt/C6N70', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C6N70;PARTL C-JLCC;C1623;MANUF C-XXXX;CL10B474KA8NNNC;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

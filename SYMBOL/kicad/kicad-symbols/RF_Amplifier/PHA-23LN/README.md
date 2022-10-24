@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|PHA-23LN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Amplifier-PHA-23LN|
 |Hex ID (short code)|hexID|SZKRFAMPLIFIERPHA23LN|
-|Name|name|PHA-23LN|
+|name|name|PHA-23LN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SPF5189Z', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PHA-23LN', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-89-3', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/PHA-23LN+.pdf', 'kicadSymbolki_keywords': 'RF amplifier', 'kicadSymbolki_description': '30-2000MHz +21dB Low Noise Amplifier, SOT-89', 'kicadSymbolki_fp_filters': 'SOT?89*'}]|
 ||||

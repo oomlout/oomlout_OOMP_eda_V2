@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MB4S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Bridge-MB4S|
 |Hex ID (short code)|hexID|SZKDIODEBRIDGEMB4S|
-|Name|name|MB4S|
+|name|name|MB4S|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MB2S', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'MB4S', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-269AA', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/88661/mb2s.pdf', 'kicadSymbolki_keywords': 'rectifier acdc', 'kicadSymbolki_description': 'Miniature Glass Passivated Single-Phase Surface Mount Bridge Rectifiers, 280V Vrms, 0.5A If, TO-269AA', 'kicadSymbolki_fp_filters': 'TO?269AA*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CPC-5002|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-CPC-5002|
 |Hex ID (short code)|hexID|SZKISOLATORCPC52|
-|Name|name|CPC-5002|
+|name|name|CPC-5002|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HCPL-263A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CPC-5002', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ixysic.com/home/pdfs.nsf/www/CPC5002.pdf', 'kicadSymbolki_keywords': 'High speed optically coupled gates', 'kicadSymbolki_description': 'Dual High Speed CMOS Compatible Optocoupler, dV/dt 5000/us, VCM 20, -0.3V to 6.5V VCC, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F887-IP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F887-IP|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F887IP|
-|Name|name|PIC16F887-IP|
+|name|name|PIC16F887-IP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC16F884-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F887-IP', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41291D.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit CMOS Microcontroller', 'kicadSymbolki_description': '8K Flash, 368B SRAM, 256B EEPROM, DIP40', 'kicadSymbolki_fp_filters': 'DIP* PDIP*'}]|
 ||||

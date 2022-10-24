@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DA04-11CGKWA|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-DA04-11CGKWA|
 |Hex ID (short code)|hexID|FZKDI7SDA411CGKWA|
-|Name|name|Display_7Segment : DA04-11CGKWA|
+|name|name|Display_7Segment : DA04-11CGKWA|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DA04-11CGKWA', 'description': 'http://www.kingbright.com/attachments/file/psearch/000/00/00/DA04-11CGKWA(Ver.6A).pdf', 'tags': 'Dubble digit green 7 segment LED display', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/DA04-11CGKWA.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/DA04-11CGKWA/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Display_7Segment/DA04-11CGKWA/kicadPcb3d_450.png

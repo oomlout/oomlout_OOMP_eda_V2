@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega644V-10P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega644V-10P|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA644V1P|
-|Name|name|ATmega644V-10P|
+|name|name|ATmega644V-10P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega644V-10P', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc2593.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR', 'kicadSymbolki_description': '10MHz, 64kB Flash, 4kB SRAM, 2kB EEPROM, JTAG, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

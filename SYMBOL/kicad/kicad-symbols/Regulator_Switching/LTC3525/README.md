@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC3525|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3525|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLTC3525|
-|Name|name|LTC3525|
+|name|name|LTC3525|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC3525', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/3525fc.pdf', 'kicadSymbolki_keywords': 'boost step-up DC/DC synchronous', 'kicadSymbolki_description': '400mA Micropower Synchronous Step-Up DC/DC Converter with Output Disconnect, SC-70-6', 'kicadSymbolki_fp_filters': '*SC?70* SOT?363*'}]|
 ||||

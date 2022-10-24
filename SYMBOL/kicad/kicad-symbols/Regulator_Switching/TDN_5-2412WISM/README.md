@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TDN_5-2412WISM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TDN_5-2412WISM|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTDN52412WISM|
-|Name|name|TDN_5-2412WISM|
+|name|name|TDN_5-2412WISM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TDN_5-0910WISM', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDN_5-2412WISM', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_TRACO_TDN_5-xxxxWISM_SMD', 'kicadSymbolDatasheet': 'https://assets.tracopower.com/20190626081517/TDN5WISM/documents/tdn5wism-datasheet.pdf', 'kicadSymbolki_keywords': 'dcdc traco 5W', 'kicadSymbolki_description': 'Input 9.0 to 36.0V, Output 12.0V', 'kicadSymbolki_fp_filters': 'Converter?DCDC?TRACO?TDN?5*WISM?SMD*'}]|
 ||||

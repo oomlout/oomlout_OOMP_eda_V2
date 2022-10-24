@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_DIP_x07|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_DIP_x07|
 |Hex ID (short code)|hexID|SZKSWITCHSWDIPX7|
-|Name|name|SW_DIP_x07|
+|name|name|SW_DIP_x07|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_DIP_x07', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'dip switch', 'kicadSymbolki_description': '7x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol', 'kicadSymbolki_fp_filters': 'SW?DIP?x7*'}]|
 ||||

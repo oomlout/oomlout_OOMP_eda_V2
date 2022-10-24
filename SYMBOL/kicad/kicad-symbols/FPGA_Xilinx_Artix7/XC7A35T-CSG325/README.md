@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC7A35T-CSG325|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Artix7-XC7A35T-CSG325|
 |Hex ID (short code)|hexID|SZKFPGAXILINXARTIX7XC7A35TCSG325|
-|Name|name|XC7A35T-CSG325|
+|name|name|XC7A35T-CSG325|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC7A35T-CSG325', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Artix 7 T 35 XC7A35T-CSG325'}]|
 ||||

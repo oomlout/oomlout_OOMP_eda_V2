@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AT90USB646-M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR-AT90USB646-M|
 |Hex ID (short code)|hexID|SZKMCUMCHIPAVRAT9U646M|
-|Name|name|AT90USB646-M|
+|name|name|AT90USB646-M|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AT90USB646-M', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP7.5x7.5mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc7593.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller USB', 'kicadSymbolki_description': '16MHz, 64kB Flash, 4kB SRAM, 2kB EEPROM, USB 2.0, QFN-64', 'kicadSymbolki_fp_filters': 'QFN*1EP*9x9mm*P0.5mm*'}]|
 ||||

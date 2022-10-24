@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT4320xDD-1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-LT4320xDD-1|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTLT432XDD1|
-|Name|name|LT4320xDD-1|
+|name|name|LT4320xDD-1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LT4230xDD', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT4320xDD-1', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.5mm_EP1.65x2.38mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/4320fb.pdf', 'kicadSymbolki_keywords': 'diode bridge replacement', 'kicadSymbolki_description': 'Ideal Diode Bridge Controller, DC to 600Hz, DFN-8', 'kicadSymbolki_fp_filters': 'DFN*1EP*3x3mm*P0.5mm*'}]|
 ||||

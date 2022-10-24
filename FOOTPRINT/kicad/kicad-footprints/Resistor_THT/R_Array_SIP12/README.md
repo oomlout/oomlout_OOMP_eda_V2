@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|R_Array_SIP12|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Array_SIP12|
 |Hex ID (short code)|hexID|FZKRRARRAYSIP12|
-|Name|name|Resistor_THT : R_Array_SIP12|
+|name|name|Resistor_THT : R_Array_SIP12|
 |Footprint Kicad|footprintKicadDetails|{'name': 'R_Array_SIP12', 'description': '12-pin Resistor SIP pack', 'tags': 'R', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Array_SIP12.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Array_SIP12/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Array_SIP12/kicadPcb3d_450.png

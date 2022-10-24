@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F042K4Tx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F042K4Tx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32FSTM32F42K4TX|
-|Name|name|STM32F042K4Tx|
+|name|name|STM32F042K4Tx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F042K4Tx', 'kicadSymbolFootprint': 'Package_QFP:LQFP-32_7x7mm_P0.8mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00105814.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M0 STM32F0 STM32F0x2', 'kicadSymbolki_description': 'ARM Cortex-M0 MCU, 16KB flash, 6KB RAM, 48MHz, 2-3.6V, 26 GPIO, LQFP-32', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.8mm*'}]|
 ||||

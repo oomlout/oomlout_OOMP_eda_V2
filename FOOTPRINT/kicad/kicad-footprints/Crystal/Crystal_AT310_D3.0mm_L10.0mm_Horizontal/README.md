@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Crystal_AT310_D3.0mm_L10.0mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_AT310_D3.0mm_L10.0mm_Horizontal|
 |Hex ID (short code)|hexID|FZKXXAT31D3L1HORIZONTAL|
-|Name|name|Crystal : Crystal_AT310_D3.0mm_L10.0mm_Horizontal|
+|name|name|Crystal : Crystal_AT310_D3.0mm_L10.0mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_AT310_D3.0mm_L10.0mm_Horizontal', 'description': 'Crystal THT AT310 10.0mm-10.5mm length 3.0mm diameter http://www.cinetech.com.tw/upload/2011/04/20110401165201.pdf', 'tags': "['AT310']", 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_AT310_D3.0mm_L10.0mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_AT310_D3.0mm_L10.0mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_AT310_D3.0mm_L10.0mm_Horizontal/kicadPcb3d_450.png

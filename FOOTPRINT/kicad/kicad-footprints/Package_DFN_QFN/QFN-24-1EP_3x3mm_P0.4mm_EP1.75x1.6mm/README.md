@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|QFN-24-1EP_3x3mm_P0.4mm_EP1.75x1.6mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-24-1EP_3x3mm_P0.4mm_EP1.75x1.6mm|
 |Hex ID (short code)|hexID|FZKDFNQFN241EP3X3P4EP175X16|
-|Name|name|Package_DFN_QFN : QFN-24-1EP_3x3mm_P0.4mm_EP1.75x1.6mm|
+|name|name|Package_DFN_QFN : QFN-24-1EP_3x3mm_P0.4mm_EP1.75x1.6mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'QFN-24-1EP_3x3mm_P0.4mm_EP1.75x1.6mm', 'description': 'QFN, 24 Pin (https://www.invensense.com/wp-content/uploads/2015/02/PS-MPU-9250A-01-v1.1.pdf#page=39), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-24-1EP_3x3mm_P0.4mm_EP1.75x1.6mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_3x3mm_P0.4mm_EP1.75x1.6mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_3x3mm_P0.4mm_EP1.75x1.6mm/kicadPcb3d_450.png

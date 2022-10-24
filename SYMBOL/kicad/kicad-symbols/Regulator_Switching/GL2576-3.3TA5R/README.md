@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|GL2576-3.3TA5R|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-GL2576-3.3TA5R|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGGL257633TA5R|
-|Name|name|GL2576-3.3TA5R|
+|name|name|GL2576-3.3TA5R|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM2576HVS-12', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'GL2576-3.3TA5R', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-5_TabPin3', 'kicadSymbolDatasheet': 'http://www.dianyuan.com/bbs/u/54/437861181916300.pdf', 'kicadSymbolki_keywords': '3.3V 3A 52KHz Buck DC/DC', 'kicadSymbolki_description': '3.3V 3A, 52KHz Step Down Converter, TO263-5 (D2-PAK)', 'kicadSymbolki_fp_filters': 'TO?263*'}]|
 ||||

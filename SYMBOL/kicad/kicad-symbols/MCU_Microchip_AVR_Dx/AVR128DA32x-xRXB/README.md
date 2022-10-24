@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AVR128DA32x-xRXB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR128DA32x-xRXB|
 |Hex ID (short code)|hexID|SZKMCUMCHIPAVRDXAVR128DA32XXRXB|
-|Name|name|AVR128DA32x-xRXB|
+|name|name|AVR128DA32x-xRXB|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AVR32DA32x-xRXB', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AVR128DA32x-xRXB', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm', 'kicadSymbolDatasheet': 'https://ww1.microchip.com/downloads/en/DeviceDoc/AVR128DA28-32-48-64-DataSheet-DS40002183B.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller AVR-DA', 'kicadSymbolki_description': '24MHz, 128kB Flash, 16kB SRAM, EEPROM with Touch Sensing, VQFN-32', 'kicadSymbolki_fp_filters': 'QFN*1EP*5x5mm*P0.5mm*EP3.1x3.1mm*'}]|
 ||||

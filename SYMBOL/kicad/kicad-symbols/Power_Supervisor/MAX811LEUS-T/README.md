@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX811LEUS-T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX811LEUS-T|
 |Hex ID (short code)|hexID|SZKPOWERSUPERVISORMAX811LEUST|
-|Name|name|MAX811LEUS-T|
+|name|name|MAX811LEUS-T|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MIC811LUY', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX811LEUS-T', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-143', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX811-MAX812.pdf', 'kicadSymbolki_keywords': 'Supervisor Reset', 'kicadSymbolki_description': 'Power supply supervisor, Manual reset, Threshold 4.63V, SOT-143', 'kicadSymbolki_fp_filters': 'SOT*143*'}]|
 ||||

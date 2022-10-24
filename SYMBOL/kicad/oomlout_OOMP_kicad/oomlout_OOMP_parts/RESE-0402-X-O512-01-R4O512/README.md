@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O512-01-R4O512|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O512-01-R4O512|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO5121R4O512|
-|Name|name|RESE-0402-X-O512-01-R4O512|
+|name|name|RESE-0402-X-O512-01-R4O512|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O512-01-R4O512', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O512-01-R4O512', 'kicadSymbolDatasheet': 'oom.lt/R4O512', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R4O512;PARTL C-JLCC;C25905;MANUF C-XXXX;0402WGF5101TCE;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC4370xMS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-LTC4370xMS|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTLTC437XMS|
-|Name|name|LTC4370xMS|
+|name|name|LTC4370xMS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC4370xMS', 'kicadSymbolFootprint': 'Package_SO:MSOP-16_3x4mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/4370f.pdf', 'kicadSymbolki_keywords': 'ideal-diode or-ing current sharing load balancing', 'kicadSymbolki_description': 'OR Controller Current Sharing Controller N-Channel 2:1, MSOP-16', 'kicadSymbolki_fp_filters': 'MSOP*3x4mm*P0.5mm*'}]|
 ||||

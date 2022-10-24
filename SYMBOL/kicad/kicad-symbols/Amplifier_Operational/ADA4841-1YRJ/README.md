@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADA4841-1YRJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4841-1YRJ|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALADA48411YRJ|
-|Name|name|ADA4841-1YRJ|
+|name|name|ADA4841-1YRJ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADA4841-1YRJ', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4841-1_4841-2.pdf', 'kicadSymbolki_keywords': 'single opamp low-noise rail-to-rail', 'kicadSymbolki_description': 'Low Power, Low Noise and Distorsion, Rail-to-Rail Output Amplifier, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

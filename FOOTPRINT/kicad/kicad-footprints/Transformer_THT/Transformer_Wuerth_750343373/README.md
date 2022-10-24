@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_Wuerth_750343373|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Wuerth_750343373|
 |Hex ID (short code)|hexID|FZKTRTRWUERTH75343373|
-|Name|name|Transformer_THT : Transformer_Wuerth_750343373|
+|name|name|Transformer_THT : Transformer_Wuerth_750343373|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_Wuerth_750343373', 'description': 'Transformer, horizontal core with bobbin, 10 pin, 3.81mm pitch, 15.24mm row spacing, 22x23x17.53mm (https://katalog.we-online.com/ctm/datasheet/750343373.pdf)', 'tags': 'transformer flyback', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_Wuerth_750343373.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||

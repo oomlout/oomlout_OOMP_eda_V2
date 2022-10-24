@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IPS6031RPBF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-IPS6031RPBF|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTIPS631RPBF|
-|Name|name|IPS6031RPBF|
+|name|name|IPS6031RPBF|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IPS6011RPBF', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IPS6031RPBF', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-5_TabPin3', 'kicadSymbolDatasheet': 'http://www.irf.com/product-info/datasheets/data/ips6031pbf.pdf', 'kicadSymbolki_keywords': 'Intelligent Power Switch High Side MOSFET', 'kicadSymbolki_description': '39V, 16A, Intelligent Power Switch High Side, D-PAK 5pin', 'kicadSymbolki_fp_filters': 'TO?252*'}]|
 ||||

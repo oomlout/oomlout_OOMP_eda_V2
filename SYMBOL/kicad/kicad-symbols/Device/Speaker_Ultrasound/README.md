@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Speaker_Ultrasound|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Speaker_Ultrasound|
 |Hex ID (short code)|hexID|SZKDEVICESPEAKERULTRASOUND|
-|Name|name|Speaker_Ultrasound|
+|name|name|Speaker_Ultrasound|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'Speaker_Crystal', 'kicadSymbolReference': 'LS', 'kicadSymbolValue': 'Speaker_Ultrasound', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'crystal speaker ultrasonic transducer', 'kicadSymbolki_description': 'Ultrasonic transducer'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Texas_SIL0010A_MicroSiP-10-1EP_3.8x3mm_P0.6mm_EP0.7x2.9mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LGA-Texas_SIL0010A_MicroSiP-10-1EP_3.8x3mm_P0.6mm_EP0.7x2.9mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKLGATEXASSIL1AMSIP11EP38X3P6EP7X29THERMALVIAS|
-|Name|name|Package_LGA : Texas_SIL0010A_MicroSiP-10-1EP_3.8x3mm_P0.6mm_EP0.7x2.9mm_ThermalVias|
+|name|name|Package_LGA : Texas_SIL0010A_MicroSiP-10-1EP_3.8x3mm_P0.6mm_EP0.7x2.9mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Texas_SIL0010A_MicroSiP-10-1EP_3.8x3mm_P0.6mm_EP0.7x2.9mm_ThermalVias', 'description': 'Texas SIL0010A MicroSiP, 10 Pin (http://www.ti.com/lit/ml/mpds579b/mpds579b.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'Texas MicroSiP NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/Texas_SIL0010A_MicroSiP-10-1EP_3.8x3mm_P0.6mm_EP0.7x2.9mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Texas_SIL0010A_MicroSiP-10-1EP_3.8x3mm_P0.6mm_EP0.7x2.9mm_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_LGA/Texas_SIL0010A_MicroSiP-10-1EP_3.8x3mm_P0.6mm_EP0.7x2.9mm_ThermalVias/kicadPcb3d_450.png

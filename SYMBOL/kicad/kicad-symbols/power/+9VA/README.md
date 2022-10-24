@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|+9VA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-+9VA|
 |Hex ID (short code)|hexID|SZKPOWER+9VA|
-|Name|name|+9VA|
+|name|name|+9VA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': '+9VA', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "+9VA"'}]|
 ||||

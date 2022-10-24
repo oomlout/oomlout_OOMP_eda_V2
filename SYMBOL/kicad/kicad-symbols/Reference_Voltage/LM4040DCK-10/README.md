@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM4040DCK-10|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4040DCK-10|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGELM44DCK1|
-|Name|name|LM4040DCK-10|
+|name|name|LM4040DCK-10|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM4040DCK-2.0', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM4040DCK-10', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-353_SC-70-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm4040-n.pdf', 'kicadSymbolki_keywords': 'diode device voltage reference shunt', 'kicadSymbolki_description': '10.0V Precision Micropower Shunt Voltage Reference, SC-70', 'kicadSymbolki_fp_filters': 'SOT?353*'}]|
 ||||

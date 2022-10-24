@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|UCC24630DBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC24630DBV|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERUCC2463DBV|
-|Name|name|UCC24630DBV|
+|name|name|UCC24630DBV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'UCC24630DBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ucc24630.pdf', 'kicadSymbolki_keywords': 'synchronous rectifier controller', 'kicadSymbolki_description': 'Synchronous Rectifier Controller, 200kHz, CCM, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

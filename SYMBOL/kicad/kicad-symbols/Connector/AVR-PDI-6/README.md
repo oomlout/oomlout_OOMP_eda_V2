@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AVR-PDI-6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-AVR-PDI-6|
 |Hex ID (short code)|hexID|SZKCNAVRPDI6|
-|Name|name|AVR-PDI-6|
+|name|name|AVR-PDI-6|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'AVR-PDI-6', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'AVR PDI Connector', 'kicadSymbolki_description': 'Atmel 6-pin PDI connector', 'kicadSymbolki_fp_filters': 'IDC?Header*2x03* Pin?Header*2x03*'}]|
 ||||

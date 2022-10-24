@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATSAMD21G15B-A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD21G15B-A|
 |Hex ID (short code)|hexID|SZKMCUMCHIPSAMDATSAMD21G15BA|
-|Name|name|ATSAMD21G15B-A|
+|name|name|ATSAMD21G15B-A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATSAMD21G15A-A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATSAMD21G15B-A', 'kicadSymbolFootprint': 'Package_QFP:TQFP-48_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D21_DA1_Family_Data%20Sheet_DS40001882E.pdf', 'kicadSymbolki_keywords': '32-bit ARM Cortex-M0+ MCU Microcontroller', 'kicadSymbolki_description': 'SAM D21 Microchip SMART ARM-based Flash MCU, 48Mhz, 32K Flash w/ 1K RWW, 4K SRAM, TQFP-48', 'kicadSymbolki_fp_filters': 'TQFP*7x7mm*P0.5mm*'}]|
 ||||

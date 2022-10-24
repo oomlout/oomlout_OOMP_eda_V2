@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Si3210|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Telecom-Si3210|
 |Hex ID (short code)|hexID|SZKINTERFACETELECOMSI321|
-|Name|name|Si3210|
+|name|name|Si3210|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Si3210', 'kicadSymbolFootprint': 'Package_SO:TSSOP-38_4.4x9.7mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.mouser.com/ds/2/368/si3210-38974.pdf', 'kicadSymbolki_keywords': 'ProSLIC slic', 'kicadSymbolki_description': 'ProSLIC Programmable cmos slic/codec with ringing/battery voltage generation', 'kicadSymbolki_fp_filters': 'TSSOP*'}]|
 ||||

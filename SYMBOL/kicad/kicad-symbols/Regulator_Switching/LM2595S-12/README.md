@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM2595S-12|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2595S-12|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM2595S12|
-|Name|name|LM2595S-12|
+|name|name|LM2595S-12|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2595S-12', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-5_TabPin3', 'kicadSymbolDatasheet': 'http://www.ti.com.cn/cn/lit/ds/symlink/lm2595.pdf', 'kicadSymbolki_keywords': 'Step-Down Voltage Regulator 12V 1A', 'kicadSymbolki_description': '12V, 1A Step-Down Voltage Regulator, TO-263-5', 'kicadSymbolki_fp_filters': 'TO?263*'}]|
 ||||

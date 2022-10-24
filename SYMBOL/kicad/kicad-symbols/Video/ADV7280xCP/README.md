@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADV7280xCP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Video-ADV7280xCP|
 |Hex ID (short code)|hexID|SZKVIDEOADV728XCP|
-|Name|name|ADV7280xCP|
+|name|name|ADV7280xCP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADV7280xCP', 'kicadSymbolFootprint': 'Package_CSP:LFCSP-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADV7280.PDF', 'kicadSymbolki_keywords': 'video decoder', 'kicadSymbolki_description': '10-Bit, 4x Oversampled SDTV Video Decoder with Deinterlacer, LFCSP-32', 'kicadSymbolki_fp_filters': 'LFCSP*1EP*5x5mm*P0.5mm*'}]|
 ||||

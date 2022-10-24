@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|QLS6A-FKW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-LED-QLS6A-FKW|
 |Hex ID (short code)|hexID|SZKLQLS6AFKW|
-|Name|name|QLS6A-FKW|
+|name|name|QLS6A-FKW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'QLS6A-FKW', 'kicadSymbolFootprint': 'LED_SMD:LED_Cree-PLCC6_4.7x1.5mm', 'kicadSymbolDatasheet': 'https://www.cree.com/led-components/media/documents/1381-QLS6AFKW.pdf', 'kicadSymbolki_keywords': 'LED RGB', 'kicadSymbolki_description': 'Cree PLCC6 3 in 1 SMD LED with zener protection, PLCC-6', 'kicadSymbolki_fp_filters': 'LED*Cree*PLCC*4.7x1.5mm*'}]|
 ||||

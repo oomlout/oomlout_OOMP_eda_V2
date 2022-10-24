@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CX7930|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Video-CX7930|
 |Hex ID (short code)|hexID|SZKVIDEOCX793|
-|Name|name|CX7930|
+|name|name|CX7930|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CX7930', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

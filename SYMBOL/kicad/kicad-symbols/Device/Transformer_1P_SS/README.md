@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_1P_SS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Transformer_1P_SS|
 |Hex ID (short code)|hexID|SZKDEVICETR1PSS|
-|Name|name|Transformer_1P_SS|
+|name|name|Transformer_1P_SS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'T', 'kicadSymbolValue': 'Transformer_1P_SS', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'transformer coil magnet', 'kicadSymbolki_description': 'Transformer, single primary, split secondary'}]|
 ||||

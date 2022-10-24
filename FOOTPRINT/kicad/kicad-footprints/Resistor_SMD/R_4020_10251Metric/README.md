@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|R_4020_10251Metric|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_4020_10251Metric|
 |Hex ID (short code)|hexID|FZKRESISTORSMR421251METRIC|
-|Name|name|Resistor_SMD : R_4020_10251Metric|
+|name|name|Resistor_SMD : R_4020_10251Metric|
 |Footprint Kicad|footprintKicadDetails|{'name': 'R_4020_10251Metric', 'description': 'Resistor SMD 4020 (10251 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://datasheet.octopart.com/HVC0603T5004FET-Ohmite-datasheet-26699797.pdf), generated with kicad-footprint-generator', 'tags': 'resistor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_4020_10251Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_4020_10251Metric/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_4020_10251Metric/kicadPcb3d_450.png

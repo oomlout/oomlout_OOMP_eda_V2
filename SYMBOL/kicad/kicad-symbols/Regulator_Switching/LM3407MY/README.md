@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM3407MY|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM3407MY|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM347MY|
-|Name|name|LM3407MY|
+|name|name|LM3407MY|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM3407MY', 'kicadSymbolFootprint': 'Package_SO:MSOP-8-1EP_3x3mm_P0.65mm_EP1.73x1.85mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm3407.pdf', 'kicadSymbolki_keywords': 'LED Step-Down Switching Regulator', 'kicadSymbolki_description': 'LED Lighting CC Floating Buck Switching Regulator, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*1EP*3x3mm*P0.65mm*'}]|
 ||||

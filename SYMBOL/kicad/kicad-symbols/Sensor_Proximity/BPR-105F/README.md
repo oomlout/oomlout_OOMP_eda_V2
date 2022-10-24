@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BPR-105F|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Proximity-BPR-105F|
 |Hex ID (short code)|hexID|SZKSENPROXIMITYBPR15F|
-|Name|name|BPR-105F|
+|name|name|BPR-105F|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ITR8307-F43', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BPR-105F', 'kicadSymbolFootprint': 'OptoDevice:Everlight_ITR8307F43', 'kicadSymbolDatasheet': 'http://www.ystone.com.tw/en/data/goods/IRPT/Photo%20Interrupters-Reflective%20Type.pdf', 'kicadSymbolki_keywords': 'Reflective Optical Sensor Opto', 'kicadSymbolki_description': 'Subminiature Reflective Optical Sensor, DIP-like THT-package', 'kicadSymbolki_fp_filters': 'Everlight*ITR8307F43*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Mini-Circuits_TT1224_ClockwisePinNumbering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_TT1224_ClockwisePinNumbering|
 |Hex ID (short code)|hexID|FZKRFMCIRCUITSTT1224CLWISEPINNUMBERING|
-|Name|name|RF_Mini-Circuits : Mini-Circuits_TT1224_ClockwisePinNumbering|
+|name|name|RF_Mini-Circuits : Mini-Circuits_TT1224_ClockwisePinNumbering|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Mini-Circuits_TT1224_ClockwisePinNumbering', 'description': 'Footprint for Mini-Circuits case TT1224 (https://ww2.minicircuits.com/case_style/TT1224.pdf) following land-pattern PL-258, including GND-vias (https://www.minicircuits.com/pcb/98-pl258.pdf)', 'tags': 'Mini-Circuits TT1224', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_TT1224.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

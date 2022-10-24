@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CSD17578Q5A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD17578Q5A|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETCSD17578Q5A|
-|Name|name|CSD17578Q5A|
+|name|name|CSD17578Q5A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'CSD17578Q5A', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TDSON-8-1', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/csd17578q5a', 'kicadSymbolki_keywords': 'NexFET Power MOSFET N-MOS', 'kicadSymbolki_description': '25A Id, 30V Vds, NexFET N-Channel Power MOSFET, 6.9mOhm Ron, Qg (typ) 7.9nC, SON8 5x6mm', 'kicadSymbolki_fp_filters': 'TDSON*'}]|
 ||||

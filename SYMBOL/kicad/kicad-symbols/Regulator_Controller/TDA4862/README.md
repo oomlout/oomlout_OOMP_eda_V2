@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TDA4862|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-TDA4862|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERTDA4862|
-|Name|name|TDA4862|
+|name|name|TDA4862|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDA4862', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-PFC_DCMICTDA4862G-DS-v02_00-en.pdf?fileId=db3a304412b407950112b417ffae24a3', 'kicadSymbolki_keywords': 'PFC SMPS Controller', 'kicadSymbolki_description': 'Power Factor Controller IC for High Power Factor and Active Harmonic Filter, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'}]|
 ||||

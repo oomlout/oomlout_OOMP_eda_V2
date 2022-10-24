@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM6144xIx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM6144xIx|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALLM6144XIX|
-|Name|name|LM6144xIx|
+|name|name|LM6144xIx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM2902', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM6144xIx', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/lm6142.pdf', 'kicadSymbolki_keywords': 'quad opamp rail', 'kicadSymbolki_description': 'Low-Power, Quad-Operational Amplifiers, 17MHz, DIP-14/SOIC-14', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm*'}]|
 ||||

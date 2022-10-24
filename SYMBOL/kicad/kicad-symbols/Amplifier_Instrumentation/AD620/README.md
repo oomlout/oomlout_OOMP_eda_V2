@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD620|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD620|
 |Hex ID (short code)|hexID|SZKAMPLIFIERINSTRUMENTATIONAD62|
-|Name|name|AD620|
+|name|name|AD620|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD620', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD620.pdf', 'kicadSymbolki_keywords': 'Instrumentation amplifier', 'kicadSymbolki_description': 'Low Cost, Low Power, Instrumentation Amplifier, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*P1.27mm* DIP*W7.62mm*'}]|
 ||||

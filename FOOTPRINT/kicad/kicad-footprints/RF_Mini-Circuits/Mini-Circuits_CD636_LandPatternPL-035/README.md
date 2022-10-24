@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Mini-Circuits_CD636_LandPatternPL-035|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CD636_LandPatternPL-035|
 |Hex ID (short code)|hexID|FZKRFMCIRCUITSCD636LANDPATTERNPL35|
-|Name|name|RF_Mini-Circuits : Mini-Circuits_CD636_LandPatternPL-035|
+|name|name|RF_Mini-Circuits : Mini-Circuits_CD636_LandPatternPL-035|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Mini-Circuits_CD636_LandPatternPL-035', 'description': 'Footprint for Mini-Circuits case CD636 (https://ww2.minicircuits.com/case_style/CD636.pdf) following land pattern PL-035, including GND-vias (https://ww2.minicircuits.com/pcb/98-pl035.pdf)', 'tags': 'mini-circuits pl-035 CD636', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_CD636.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PA0264NL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-PA0264NL|
 |Hex ID (short code)|hexID|SZKTRPA264NL|
-|Name|name|PA0264NL|
+|name|name|PA0264NL|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PA2004NL', 'kicadSymbolReference': 'T', 'kicadSymbolValue': 'PA0264NL', 'kicadSymbolFootprint': 'Transformer_SMD:Pulse_PA2004NL', 'kicadSymbolDatasheet': 'https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf', 'kicadSymbolki_keywords': 'pulse', 'kicadSymbolki_description': 'SMT Gate Drive Transformer, 1:1:1', 'kicadSymbolki_fp_filters': 'Pulse*PA2004NL*'}]|
 ||||

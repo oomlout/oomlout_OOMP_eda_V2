@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Infineon_PG-HSOF-8-2_ThermalVias2|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Infineon_PG-HSOF-8-2_ThermalVias2|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMINFINEONPGHSOF82THERMALVIAS2|
-|Name|name|Package_TO_SOT_SMD : Infineon_PG-HSOF-8-2_ThermalVias2|
+|name|name|Package_TO_SOT_SMD : Infineon_PG-HSOF-8-2_ThermalVias2|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Infineon_PG-HSOF-8-2_ThermalVias2', 'description': 'HSOF-8-2 [TOLL] power MOSFET (http://www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-2/, https://www.infineon.com/dgdl/Infineon-ApplicationNote_600V_CoolMOS_C7_Gold_TOLL-AN-v01_00-EN.pdf?fileId=5546d4625b10283a015b144a1af70df6)', 'tags': 'mosfet hsof toll thermal vias', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Infineon_PG-HSOF-8-2.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Infineon_PG-HSOF-8-2_ThermalVias2/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Infineon_PG-HSOF-8-2_ThermalVias2/kicadPcb3d_450.png

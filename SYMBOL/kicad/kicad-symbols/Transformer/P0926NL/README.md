@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|P0926NL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-P0926NL|
 |Hex ID (short code)|hexID|SZKTRP926NL|
-|Name|name|P0926NL|
+|name|name|P0926NL|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'T', 'kicadSymbolValue': 'P0926NL', 'kicadSymbolFootprint': 'Transformer_SMD:Pulse_P0926NL', 'kicadSymbolDatasheet': 'https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf', 'kicadSymbolki_keywords': 'pulse', 'kicadSymbolki_description': 'SMT Gate Drive Transformer, 1:1:1', 'kicadSymbolki_fp_filters': 'Pulse*P0926NL*'}]|
 ||||

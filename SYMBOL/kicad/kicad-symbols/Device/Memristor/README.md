@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Memristor|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Memristor|
 |Hex ID (short code)|hexID|SZKDEVICEMEMRISTOR|
-|Name|name|Memristor|
+|name|name|Memristor|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'MR', 'kicadSymbolValue': 'Memristor', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'memristor', 'kicadSymbolki_description': 'Memristor'}]|
 ||||

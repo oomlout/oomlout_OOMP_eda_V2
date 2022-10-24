@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DirectFET_SA|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_SA|
 |Hex ID (short code)|hexID|FZKDFETDIRECTFETSA|
-|Name|name|Package_DirectFET : DirectFET_SA|
+|name|name|Package_DirectFET : DirectFET_SA|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DirectFET_SA', 'description': 'DirectFET SA https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=22', 'tags': 'DirectFET SA MOSFET Infineon', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DirectFET.3dshapes/DirectFET_SA.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DirectFET/DirectFET_SA/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DirectFET/DirectFET_SA/kicadPcb3d_450.png

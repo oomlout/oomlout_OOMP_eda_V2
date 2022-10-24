@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAN3630A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-MAN3630A|
 |Hex ID (short code)|hexID|SZKDICHARACTERMAN363A|
-|Name|name|MAN3630A|
+|name|name|MAN3630A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAN3630A', 'kicadSymbolFootprint': 'Display_7Segment:MAN3630A', 'kicadSymbolDatasheet': 'https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'Overflow 7 segment orange LED common anode', 'kicadSymbolki_fp_filters': '*MAN3630A*'}]|
 ||||

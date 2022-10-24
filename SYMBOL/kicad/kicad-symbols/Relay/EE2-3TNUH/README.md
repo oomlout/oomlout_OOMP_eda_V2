@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EE2-3TNUH|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-EE2-3TNUH|
 |Hex ID (short code)|hexID|SZKRELAYEE23TNUH|
-|Name|name|EE2-3TNUH|
+|name|name|EE2-3TNUH|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'EE2-3TNUH', 'kicadSymbolFootprint': 'Relay_SMD:Relay_DPDT_Kemet_EE2_NUH_DoubleCoil', 'kicadSymbolDatasheet': 'https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf', 'kicadSymbolki_keywords': 'signal relay double pole double throw DPDT DC coil double dual coil latching', 'kicadSymbolki_description': 'General purpose signal relay, Kemet EE2 Series, DPDT (2 Form C), double coil latching, small footprint SMD, 60W/125VA, 220VDC/250VAC, 2A, 3V DC coil', 'kicadSymbolki_fp_filters': 'Relay*DPDT*Kemet*EE2*NUH*DoubleCoil*'}]|
 ||||

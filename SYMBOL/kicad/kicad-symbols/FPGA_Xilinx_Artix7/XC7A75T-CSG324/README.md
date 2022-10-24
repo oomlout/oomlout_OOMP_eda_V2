@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC7A75T-CSG324|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Artix7-XC7A75T-CSG324|
 |Hex ID (short code)|hexID|SZKFPGAXILINXARTIX7XC7A75TCSG324|
-|Name|name|XC7A75T-CSG324|
+|name|name|XC7A75T-CSG324|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC7A75T-CSG324', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Artix 7 T 75 XC7A75T-CSG324'}]|
 ||||

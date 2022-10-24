@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|BUTA-3025-X-PI02-01-BT3025|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-3025-X-PI02-01-BT3025|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSBUTA325XPI21BT325|
-|Name|name|BUTA-3025-X-PI02-01-BT3025|
+|name|name|BUTA-3025-X-PI02-01-BT3025|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'BUTA-3025-X-PI02-01-BT3025', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:BUTA-3025-X-PI02-01-BT3025', 'kicadSymbolDatasheet': 'oom.lt/BT3025', 'kicadSymbolki_keywords': 'switch normally-open pushbutton push-button', 'kicadSymbolki_description': 'hexID: BT3025;Push button switch, generic, two pins'}]|
 ||||

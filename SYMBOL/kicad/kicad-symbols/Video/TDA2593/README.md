@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TDA2593|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Video-TDA2593|
 |Hex ID (short code)|hexID|SZKVIDEOTDA2593|
-|Name|name|TDA2593|
+|name|name|TDA2593|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDA2593', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

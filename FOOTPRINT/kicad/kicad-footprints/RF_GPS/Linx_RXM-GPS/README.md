@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Linx_RXM-GPS|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_GPS-Linx_RXM-GPS|
 |Hex ID (short code)|hexID|FZKGPSLINXRXMGPS|
-|Name|name|RF_GPS : Linx_RXM-GPS|
+|name|name|RF_GPS : Linx_RXM-GPS|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Linx_RXM-GPS', 'description': 'GPS Module, Linx (https://linxtechnologies.com/wp/wp-content/uploads/rxm-gps-rm.pdf)', 'tags': 'gps linx', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_GPS.3dshapes/Linx_RXM-GPS.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

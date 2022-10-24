@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM78L05_SO8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM78L05_SO8|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM78L5SO8|
-|Name|name|LM78L05_SO8|
+|name|name|LM78L05_SO8|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC78L05_SO8', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM78L05_SO8', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MC78L06A-D.pdf', 'kicadSymbolki_keywords': 'Voltage Regulator 100mA Positive', 'kicadSymbolki_description': 'Positive 100mA 30V Linear Regulator, Fixed Output 5V, SO-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

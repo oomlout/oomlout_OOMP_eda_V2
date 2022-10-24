@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CXO_DIP14|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-CXO_DIP14|
 |Hex ID (short code)|hexID|SZKOCSCXODIP14|
-|Name|name|CXO_DIP14|
+|name|name|CXO_DIP14|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'X', 'kicadSymbolValue': 'CXO_DIP14', 'kicadSymbolFootprint': 'Oscillator:Oscillator_DIP-14', 'kicadSymbolDatasheet': 'http://cdn-reichelt.de/documents/datenblatt/B400/OSZI.pdf', 'kicadSymbolki_keywords': 'Crystal Clock Oscillator', 'kicadSymbolki_description': 'Crystal Clock Oscillator, DIP14-style metal package', 'kicadSymbolki_fp_filters': 'Oscillator*DIP*14*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IFX25401TEV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-IFX25401TEV|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARIFX2541TEV|
-|Name|name|IFX25401TEV|
+|name|name|IFX25401TEV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IFX25401TEV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-4', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-IFX25401-DS-v01_02-en.pdf?fileId=db3a304320d39d590120f62a690569f7', 'kicadSymbolki_keywords': 'adjustable LDO positive voltage regulator', 'kicadSymbolki_description': 'Adjustable LDO Linear Voltage Regulator (TO-252-4)', 'kicadSymbolki_fp_filters': 'TO*252*'}]|
 ||||

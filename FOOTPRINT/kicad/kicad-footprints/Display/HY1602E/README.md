@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|HY1602E|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-HY1602E|
 |Hex ID (short code)|hexID|FZKDIHY162E|
-|Name|name|Display : HY1602E|
+|name|name|Display : HY1602E|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HY1602E', 'description': 'http://www.icbank.com/data/ICBShop/board/HY1602E.pdf', 'tags': 'LCD 16x2 Alphanumeric 16pin', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display.3dshapes/HY1602E.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/HY1602E/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Display/HY1602E/kicadPcb3d_450.png

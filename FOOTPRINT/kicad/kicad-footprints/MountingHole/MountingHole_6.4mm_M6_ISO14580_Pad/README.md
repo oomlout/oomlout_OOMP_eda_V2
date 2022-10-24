@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MountingHole_6.4mm_M6_ISO14580_Pad|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.4mm_M6_ISO14580_Pad|
 |Hex ID (short code)|hexID|FZKHOLHOL64M6ISO1458PAD|
-|Name|name|MountingHole : MountingHole_6.4mm_M6_ISO14580_Pad|
+|name|name|MountingHole : MountingHole_6.4mm_M6_ISO14580_Pad|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_6.4mm_M6_ISO14580_Pad', 'description': 'Mounting Hole 6.4mm, M6, ISO14580', 'tags': 'mounting hole 6.4mm m6 iso14580', 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_6.4mm_M6_ISO14580_Pad/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_6.4mm_M6_ISO14580_Pad/kicadPcb3d_450.png

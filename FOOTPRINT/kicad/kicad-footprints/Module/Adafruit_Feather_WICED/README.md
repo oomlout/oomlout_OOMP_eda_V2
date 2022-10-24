@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Adafruit_Feather_WICED|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_WICED|
 |Hex ID (short code)|hexID|FZKMOADAFEATHERWICED|
-|Name|name|Module : Adafruit_Feather_WICED|
+|name|name|Module : Adafruit_Feather_WICED|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Adafruit_Feather_WICED', 'description': 'Footprint for the Adafruit Feather WICED Wifi board, https://learn.adafruit.com/introducing-the-adafruit-wiced-feather-wifi', 'tags': 'Adafruit Feather WICED Wifi', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Module.3dshapes/Adafruit_Feather_WICED.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/Adafruit_Feather_WICED/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Module/Adafruit_Feather_WICED/kicadPcb3d_450.png

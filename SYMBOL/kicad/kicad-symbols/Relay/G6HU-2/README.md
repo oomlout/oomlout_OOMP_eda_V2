@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|G6HU-2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-G6HU-2|
 |Hex ID (short code)|hexID|SZKRELAYG6HU2|
-|Name|name|G6HU-2|
+|name|name|G6HU-2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'G6HU-2', 'kicadSymbolFootprint': 'Relay_THT:Relay_DPDT_Omron_G6H-2', 'kicadSymbolDatasheet': 'http://cdn-reichelt.de/documents/datenblatt/C300/G6H%23OMR.pdf', 'kicadSymbolki_keywords': 'relay monostable', 'kicadSymbolki_description': 'Omron Ultracompact, Ultrasensitive DPDT Relay, Single-winding Latching', 'kicadSymbolki_fp_filters': 'Relay*Omron*G6H?2*'}]|
 ||||

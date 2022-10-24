@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC1518|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-LTC1518|
 |Hex ID (short code)|hexID|SZKINTERFACELTC1518|
-|Name|name|LTC1518|
+|name|name|LTC1518|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC1518', 'kicadSymbolFootprint': 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/15189fa.pdf', 'kicadSymbolki_keywords': 'receiver rs485 rs422 differential', 'kicadSymbolki_description': '52Mbps Precision Delay RS485 Quad Line Receivers', 'kicadSymbolki_fp_filters': 'SOIC*16*3.9x9.9mm*P1.27mm*'}]|
 ||||

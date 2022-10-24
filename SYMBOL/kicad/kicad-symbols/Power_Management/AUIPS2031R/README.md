@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AUIPS2031R|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS2031R|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTAUIPS231R|
-|Name|name|AUIPS2031R|
+|name|name|AUIPS2031R|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AUIPS1041R', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AUIPS2031R', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-3_TabPin2', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-AUIPS2031R-DS-v01_00-EN.pdf?fileId=5546d4625a888733015aae1488334c5c', 'kicadSymbolki_keywords': 'low side switch', 'kicadSymbolki_description': 'Intelligent Power Low Side Switch, 68V, 10A, DPAK-5L', 'kicadSymbolki_fp_filters': 'TO?252*'}]|
 ||||

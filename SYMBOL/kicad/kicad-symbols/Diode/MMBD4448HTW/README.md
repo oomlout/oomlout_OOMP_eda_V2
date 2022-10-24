@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MMBD4448HTW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-MMBD4448HTW|
 |Hex ID (short code)|hexID|SZKDIODEBD4448HTW|
-|Name|name|MMBD4448HTW|
+|name|name|MMBD4448HTW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BAS16TW', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'MMBD4448HTW', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'http://www.diodes.com/datasheets/ds30153.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Fast switching diode array 3 independent', 'kicadSymbolki_fp_filters': '*SOT?363*'}]|
 ||||

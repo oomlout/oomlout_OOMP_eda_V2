@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB_A_Molex_105057_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_Molex_105057_Vertical|
 |Hex ID (short code)|hexID|FZKCNUUAMX1557VERTICAL|
-|Name|name|Connector_USB : USB_A_Molex_105057_Vertical|
+|name|name|Connector_USB : USB_A_Molex_105057_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB_A_Molex_105057_Vertical', 'description': 'https://www.molex.com/pdm_docs/sd/1050570001_sd.pdf', 'tags': 'USB A Vertical', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_A_Molex_105057_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_A_Molex_105057_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_A_Molex_105057_Vertical/kicadPcb3d_450.png

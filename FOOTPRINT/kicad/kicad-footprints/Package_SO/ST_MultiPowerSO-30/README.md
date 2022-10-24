@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|ST_MultiPowerSO-30|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-ST_MultiPowerSO-30|
 |Hex ID (short code)|hexID|FZKSOSTMULTIPOWERSO3|
-|Name|name|Package_SO : ST_MultiPowerSO-30|
+|name|name|Package_SO : ST_MultiPowerSO-30|
 |Footprint Kicad|footprintKicadDetails|{'name': 'ST_MultiPowerSO-30', 'description': 'MultiPowerSO-30 3EP 16.0x17.2mm Pitch 1mm (http://www.st.com/resource/en/datasheet/vnh2sp30-e.pdf)', 'tags': 'MultiPowerSO-30 3EP 16.0x17.2mm Pitch 1mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/ST_MultiPowerSO-30.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/ST_MultiPowerSO-30/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/ST_MultiPowerSO-30/kicadPcb3d_450.png

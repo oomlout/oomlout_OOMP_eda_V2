@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Infineon_LFBGA-292_17x17mm_Layout20x20_P0.8mm_Ball0.5mm_Pad0.35|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-Infineon_LFBGA-292_17x17mm_Layout20x20_P0.8mm_Ball0.5mm_Pad0.35|
 |Hex ID (short code)|hexID|FZKBGAINFINEONLFBGA29217X17LAYOUT2X2P8BALL5PAD35|
-|Name|name|Package_BGA : Infineon_LFBGA-292_17x17mm_Layout20x20_P0.8mm_Ball0.5mm_Pad0.35|
+|name|name|Package_BGA : Infineon_LFBGA-292_17x17mm_Layout20x20_P0.8mm_Ball0.5mm_Pad0.35|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Infineon_LFBGA-292_17x17mm_Layout20x20_P0.8mm_Ball0.5mm_Pad0.35', 'description': 'Infineon LFBGA-292, 0.35mm pad, 17.0x17.0mm, 292 Ball, 20x20 Layout, 0.8mm Pitch, https://www.infineon.com/cms/en/product/packages/PG-LFBGA/PG-LFBGA-292-11/', 'tags': 'BGA 292 0.8', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Infineon_LFBGA-292_17x17mm_Layout20x20_P0.8mm_Ball0.5mm_Pad0.35.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Infineon_LFBGA-292_17x17mm_Layout20x20_P0.8mm_Ball0.5mm_Pad0.35/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_BGA/Infineon_LFBGA-292_17x17mm_Layout20x20_P0.8mm_Ball0.5mm_Pad0.35/kicadPcb3d_450.png

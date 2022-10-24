@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RCLAMP0502BA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-RCLAMP0502BA|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONRCLAMP52BA|
-|Name|name|RCLAMP0502BA|
+|name|name|RCLAMP0502BA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'RCLAMP0502B', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'RCLAMP0502BA', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-416', 'kicadSymbolDatasheet': 'https://www.semtech.com/products/circuit-protection/low-capacitance/rclamp0502ba', 'kicadSymbolki_keywords': 'tvs unidirectional', 'kicadSymbolki_description': 'Low capacitance unidirectional dual ESD protection diode, SC-75', 'kicadSymbolki_fp_filters': 'SOT?416*'}]|
 ||||

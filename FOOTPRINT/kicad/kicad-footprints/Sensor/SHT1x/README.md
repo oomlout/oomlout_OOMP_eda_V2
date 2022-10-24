@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SHT1x|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor-SHT1x|
 |Hex ID (short code)|hexID|FZKSENSHT1X|
-|Name|name|Sensor : SHT1x|
+|name|name|Sensor : SHT1x|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SHT1x', 'description': 'SHT1x', 'tags': 'SHT1x', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Temperature.3dshapes/SHT1x.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

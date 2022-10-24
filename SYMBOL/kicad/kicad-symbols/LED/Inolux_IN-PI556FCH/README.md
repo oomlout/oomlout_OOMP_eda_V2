@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Inolux_IN-PI556FCH|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-LED-Inolux_IN-PI556FCH|
 |Hex ID (short code)|hexID|SZKLINOLUXINPI556FCH|
-|Name|name|Inolux_IN-PI556FCH|
+|name|name|Inolux_IN-PI556FCH|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'Inolux_IN-PI556FCH', 'kicadSymbolFootprint': 'LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm', 'kicadSymbolDatasheet': 'http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI556FCH.pdf', 'kicadSymbolki_keywords': 'RGB LED NeoPixel addressable', 'kicadSymbolki_description': '5050 RGB LED 6-Pin with integrated IC', 'kicadSymbolki_fp_filters': 'LED*WS2812*PLCC*5.0x5.0mm*P1.6mm*'}]|
 ||||

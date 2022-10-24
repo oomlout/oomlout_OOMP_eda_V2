@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA376xxDBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA376xxDBV|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA376XXDBV|
-|Name|name|OPA376xxDBV|
+|name|name|OPA376xxDBV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP6L91T-EOT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA376xxDBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/opa376.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Single Low-Noise, Low Quiescent Current, Precision Operational Amplifier e-trim Series, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

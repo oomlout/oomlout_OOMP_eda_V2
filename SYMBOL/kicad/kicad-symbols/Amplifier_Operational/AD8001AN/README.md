@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD8001AN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AD8001AN|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALAD81AN|
-|Name|name|AD8001AN|
+|name|name|AD8001AN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP601-xP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD8001AN', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ad8001.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Current Feedback Amplifier, 800 MHz, 50mW, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

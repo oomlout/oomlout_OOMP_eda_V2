@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|G5Q-1A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-G5Q-1A|
 |Hex ID (short code)|hexID|SZKRELAYG5Q1A|
-|Name|name|G5Q-1A|
+|name|name|G5Q-1A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'G5Q-1A', 'kicadSymbolFootprint': 'Relay_THT:Relay_SPST_Omron-G5Q-1A', 'kicadSymbolDatasheet': 'https://www.omron.com/ecb/products/pdf/en-g5q.pdf', 'kicadSymbolki_keywords': 'Miniature Single Pole Relay', 'kicadSymbolki_description': 'Omron G5Q relay, Miniature Single Pole, SPST-NO, 10A', 'kicadSymbolki_fp_filters': 'Relay*SPST*Omron*G5Q*'}]|
 ||||

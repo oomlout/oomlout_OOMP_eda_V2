@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Conn_02x27_Counter_Clockwise_Shielded|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_02x27_Counter_Clockwise_Shielded|
 |Hex ID (short code)|hexID|SZKCNGENERICSHEDCONN2X27COUNTERCLWISESHED|
-|Name|name|Conn_02x27_Counter_Clockwise_Shielded|
+|name|name|Conn_02x27_Counter_Clockwise_Shielded|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Conn_02x27_Counter_Clockwise_Shielded', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'Generic shielded connector, double row, 02x27, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_2x??-1SH*'}]|
 ||||

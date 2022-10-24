@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MountingHole_3.2mm_M3_ISO14580_Pad|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3.2mm_M3_ISO14580_Pad|
 |Hex ID (short code)|hexID|FZKHOLHOL32M3ISO1458PAD|
-|Name|name|MountingHole : MountingHole_3.2mm_M3_ISO14580_Pad|
+|name|name|MountingHole : MountingHole_3.2mm_M3_ISO14580_Pad|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_3.2mm_M3_ISO14580_Pad', 'description': 'Mounting Hole 3.2mm, M3, ISO14580', 'tags': 'mounting hole 3.2mm m3 iso14580', 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_3.2mm_M3_ISO14580_Pad/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_3.2mm_M3_ISO14580_Pad/kicadPcb3d_450.png

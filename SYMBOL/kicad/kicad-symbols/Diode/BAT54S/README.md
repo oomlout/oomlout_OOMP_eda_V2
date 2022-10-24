@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAT54S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAT54S|
 |Hex ID (short code)|hexID|SZKDIODEBAT54S|
-|Name|name|BAT54S|
+|name|name|BAT54S|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAT54S', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/ds11005.pdf', 'kicadSymbolki_keywords': 'schottky diode', 'kicadSymbolki_description': 'schottky barrier diode', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

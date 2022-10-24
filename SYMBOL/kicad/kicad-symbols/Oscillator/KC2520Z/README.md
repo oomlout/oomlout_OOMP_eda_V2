@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|KC2520Z|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-KC2520Z|
 |Hex ID (short code)|hexID|SZKOCSKC252Z|
-|Name|name|KC2520Z|
+|name|name|KC2520Z|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'KC2520Z', 'kicadSymbolFootprint': 'Oscillator:Oscillator_SMD_Kyocera_KC2520Z-4Pin_2.5x2.0mm', 'kicadSymbolDatasheet': 'https://global.kyocera.com/prdct/electro/product/pdf/clock_z_xz_e.pdf', 'kicadSymbolki_keywords': 'xo', 'kicadSymbolki_description': '1.8432MHz ~ 125MHz Crystal Oscillator', 'kicadSymbolki_fp_filters': 'Oscillator*SMD*Kyocera*KC2520Z*2.5x2.0mm*'}]|
 ||||

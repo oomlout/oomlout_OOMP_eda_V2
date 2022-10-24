@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM311|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Comparator-LM311|
 |Hex ID (short code)|hexID|SZKCOMPARATORLM311|
-|Name|name|LM311|
+|name|name|LM311|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM311', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/lm311.pdf', 'kicadSymbolki_keywords': 'cmp open collector', 'kicadSymbolki_description': 'Voltage Comparator, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'}]|
 ||||

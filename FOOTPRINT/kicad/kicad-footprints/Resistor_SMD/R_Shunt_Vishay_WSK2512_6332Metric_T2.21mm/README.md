@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm|
 |Hex ID (short code)|hexID|FZKRESISTORSMRSHUNTVISHAYWSK25126332METRICT221|
-|Name|name|Resistor_SMD : R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm|
+|name|name|Resistor_SMD : R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm', 'description': 'Shunt Resistor SMD 2512 (6332 Metric), 2.6mm thick, Vishay WKS2512, Terminal length (T) 2.21mm, 1 to 4.9 milli Ohm (http://http://www.vishay.com/docs/30108/wsk.pdf)', 'tags': 'resistor shunt WSK2512', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm/kicadPcb3d_450.png

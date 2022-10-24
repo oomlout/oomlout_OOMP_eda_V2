@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ZXM61N02F|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXM61N02F|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETZXM61N2F|
-|Name|name|ZXM61N02F|
+|name|name|ZXM61N02F|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSS138', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'ZXM61N02F', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.diodes.com/assets/Datasheets/ZXM61N02F.pdf', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '1.7A Id, 20V Vds, N-Channel MOSFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

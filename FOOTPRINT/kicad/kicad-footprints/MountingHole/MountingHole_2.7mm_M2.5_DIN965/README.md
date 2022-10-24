@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MountingHole_2.7mm_M2.5_DIN965|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.7mm_M2.5_DIN965|
 |Hex ID (short code)|hexID|FZKHOLHOL27M25DIN965|
-|Name|name|MountingHole : MountingHole_2.7mm_M2.5_DIN965|
+|name|name|MountingHole : MountingHole_2.7mm_M2.5_DIN965|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_2.7mm_M2.5_DIN965', 'description': 'Mounting Hole 2.7mm, no annular, M2.5, DIN965', 'tags': 'mounting hole 2.7mm no annular m2.5 din965', 'attributeType': None, 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_2.7mm_M2.5_DIN965/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_2.7mm_M2.5_DIN965/kicadPcb3d_450.png

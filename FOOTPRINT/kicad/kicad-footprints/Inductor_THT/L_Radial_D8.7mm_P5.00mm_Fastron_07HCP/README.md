@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Radial_D8.7mm_P5.00mm_Fastron_07HCP|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D8.7mm_P5.00mm_Fastron_07HCP|
 |Hex ID (short code)|hexID|FZKINLRD87P5FASTRON7HCP|
-|Name|name|Inductor_THT : L_Radial_D8.7mm_P5.00mm_Fastron_07HCP|
+|name|name|Inductor_THT : L_Radial_D8.7mm_P5.00mm_Fastron_07HCP|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Radial_D8.7mm_P5.00mm_Fastron_07HCP', 'description': 'Inductor, Radial series, Radial, pin pitch=5.00mm, , diameter=8.7mm, Fastron, 07HCP, http://cdn-reichelt.de/documents/datenblatt/B400/DS_07HCP.pdf', 'tags': 'Inductor Radial series Radial pin pitch 5.00mm  diameter 8.7mm Fastron 07HCP', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D8.7mm_P5.00mm_Fastron_07HCP.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D8.7mm_P5.00mm_Fastron_07HCP/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D8.7mm_P5.00mm_Fastron_07HCP/kicadPcb3d_450.png

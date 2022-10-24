@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DC56-11GWA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-DC56-11GWA|
 |Hex ID (short code)|hexID|SZKDICHARACTERDC5611GWA|
-|Name|name|DC56-11GWA|
+|name|name|DC56-11GWA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DC56-11CGKWA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DC56-11GWA', 'kicadSymbolFootprint': 'Display_7Segment:DA56-11CGKWA', 'kicadSymbolDatasheet': 'http://www.kingbrightusa.com/images/catalog/SPEC/DC56-11GWA.pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'Double digit 7 segment green LED common cathode', 'kicadSymbolki_fp_filters': '*DA56*11*'}]|
 ||||

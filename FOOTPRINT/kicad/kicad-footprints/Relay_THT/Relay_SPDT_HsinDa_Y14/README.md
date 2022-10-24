@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Relay_SPDT_HsinDa_Y14|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_HsinDa_Y14|
 |Hex ID (short code)|hexID|FZKRELRELAYSPDTHSINDAY14|
-|Name|name|Relay_THT : Relay_SPDT_HsinDa_Y14|
+|name|name|Relay_THT : Relay_SPDT_HsinDa_Y14|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Relay_SPDT_HsinDa_Y14', 'description': 'http://www.hsinda.com.cn/en/ProductShow.asp?ID=208', 'tags': 'Relay Y14', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_HsinDa_Y14.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPDT_HsinDa_Y14/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPDT_HsinDa_Y14/kicadPcb3d_450.png

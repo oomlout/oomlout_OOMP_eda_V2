@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IPDD60R150G7|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IPDD60R150G7|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIPDD6R15G7|
-|Name|name|IPDD60R150G7|
+|name|name|IPDD60R150G7|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IPDD60R050G7', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IPDD60R150G7', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:Infineon_PG-HDSOP-10-1', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-IPDD60R150G7-DS-v02_00-EN.pdf?fileId=5546d4626102d35a016170806aa57863', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '16A Id, 600V Vds, 150mOhm, N-Channel MOSFET, CoolMOS G7, PG-HDSOP-10-1 (DDPAK)', 'kicadSymbolki_fp_filters': 'Infineon*PG*HDSOP*'}]|
 ||||

@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RXM-GPS-FM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_GPS-RXM-GPS-FM|
 |Hex ID (short code)|hexID|SZKGPSRXMGPSFM|
-|Name|name|RXM-GPS-FM|
+|name|name|RXM-GPS-FM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'RXM-GPS-RM', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'RXM-GPS-FM', 'kicadSymbolFootprint': 'RF_GPS:Linx_RXM-GPS', 'kicadSymbolDatasheet': 'https://linxtechnologies.com/wp/wp-content/uploads/rxm-gps-fm.pdf', 'kicadSymbolki_keywords': 'gps low-power', 'kicadSymbolki_description': 'Module GPS Low Power, 14mA tracking, 22 channels', 'kicadSymbolki_fp_filters': 'Linx*RXM?GPS*'}]|
 ||||

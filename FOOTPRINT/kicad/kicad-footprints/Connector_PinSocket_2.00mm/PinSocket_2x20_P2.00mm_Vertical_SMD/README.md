@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PinSocket_2x20_P2.00mm_Vertical_SMD|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_2.00mm-PinSocket_2x20_P2.00mm_Vertical_SMD|
 |Hex ID (short code)|hexID|FZKCNPINSO2PINSO2X2P2VERTICALSM|
-|Name|name|Connector_PinSocket_2.00mm : PinSocket_2x20_P2.00mm_Vertical_SMD|
+|name|name|Connector_PinSocket_2.00mm : PinSocket_2x20_P2.00mm_Vertical_SMD|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PinSocket_2x20_P2.00mm_Vertical_SMD', 'description': 'surface-mounted straight socket strip, 2x20, 2.00mm pitch, double cols (from Kicad 4.0.7), script generated', 'tags': 'Surface mounted socket strip SMD 2x20 2.00mm double row', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.00mm.3dshapes/PinSocket_2x20_P2.00mm_Vertical_SMD.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_2.00mm/PinSocket_2x20_P2.00mm_Vertical_SMD/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_2.00mm/PinSocket_2x20_P2.00mm_Vertical_SMD/kicadPcb3d_450.png

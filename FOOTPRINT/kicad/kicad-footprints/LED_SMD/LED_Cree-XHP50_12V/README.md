@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_Cree-XHP50_12V|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP50_12V|
 |Hex ID (short code)|hexID|FZKLSMLCREEXHP512V|
-|Name|name|LED_SMD : LED_Cree-XHP50_12V|
+|name|name|LED_SMD : LED_Cree-XHP50_12V|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_Cree-XHP50_12V', 'description': 'Cree XHP50, 12V footprint, http://www.cree.com/~/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/ds%20XHP50.pdf', 'tags': 'LED XHP50 Cree', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapesLED_Cree-XHP50_12V.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-XHP50_12V/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-XHP50_12V/kicadPcb3d_450.png

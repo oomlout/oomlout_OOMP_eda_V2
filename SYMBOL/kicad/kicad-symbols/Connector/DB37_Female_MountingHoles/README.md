@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DB37_Female_MountingHoles|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DB37_Female_MountingHoles|
 |Hex ID (short code)|hexID|SZKCNDB37FEMALEHOLS|
-|Name|name|DB37_Female_MountingHoles|
+|name|name|DB37_Female_MountingHoles|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DB37_Female_MountingHoles', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'female D-SUB connector', 'kicadSymbolki_description': '37-pin female D-SUB connector, Mounting Hole', 'kicadSymbolki_fp_filters': 'DSUB*Female*'}]|
 ||||

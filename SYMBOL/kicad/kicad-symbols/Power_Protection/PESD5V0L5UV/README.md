@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PESD5V0L5UV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-PESD5V0L5UV|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONPESD5VL5UV|
-|Name|name|PESD5V0L5UV|
+|name|name|PESD5V0L5UV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PESD3V3L5UV', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'PESD5V0L5UV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-666', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/PESDXL5UF_V_Y.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Low capacitance unidirectional fivefold ESD protection diode array, 5.0V, Common Anode, SOT-666', 'kicadSymbolki_fp_filters': 'SOT?666*'}]|
 ||||

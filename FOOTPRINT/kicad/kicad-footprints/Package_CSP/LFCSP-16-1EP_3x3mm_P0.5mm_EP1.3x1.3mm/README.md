@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm|
 |Hex ID (short code)|hexID|FZKCSPLFCSP161EP3X3P5EP13X13|
-|Name|name|Package_CSP : LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm|
+|name|name|Package_CSP : LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm', 'description': 'LFCSP, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-16/CP_16_21.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'LFCSP NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Q_NPN_ECB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Q_NPN_ECB|
 |Hex ID (short code)|hexID|SZKDEVICEQNPNECB|
-|Name|name|Q_NPN_ECB|
+|name|name|Q_NPN_ECB|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Q_NPN_ECB', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'transistor NPN', 'kicadSymbolki_description': 'NPN transistor, emitter/collector/base'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC78L05_SOT89|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC78L05_SOT89|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMC78L5SOT89|
-|Name|name|MC78L05_SOT89|
+|name|name|MC78L05_SOT89|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC78L05_SOT89', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-89-3', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MC78L00A-D.PDF', 'kicadSymbolki_keywords': 'Voltage Regulator 100mA Positive', 'kicadSymbolki_description': 'Positive 100mA 30V Linear Regulator, Fixed Output 5V, SOT-89', 'kicadSymbolki_fp_filters': 'SOT?89*'}]|
 ||||

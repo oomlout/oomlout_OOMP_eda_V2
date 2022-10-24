@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM317_SOT-223|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM317_SOT-223|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM317SOT223|
-|Name|name|LM317_SOT-223|
+|name|name|LM317_SOT-223|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM317_SOT-223', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223-3_TabPin2', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm317.pdf', 'kicadSymbolki_keywords': 'Adjustable Voltage Regulator 1A Positive', 'kicadSymbolki_description': '1.5A 35V Adjustable Linear Regulator, SOT-223', 'kicadSymbolki_fp_filters': 'SOT?223*TabPin2*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Symbol_ESD-Logo-Text_CopperTop|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_ESD-Logo-Text_CopperTop|
 |Hex ID (short code)|hexID|FZKSZSYESDLTEXTCTOP|
-|Name|name|Symbol : Symbol_ESD-Logo-Text_CopperTop|
+|name|name|Symbol : Symbol_ESD-Logo-Text_CopperTop|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Symbol_ESD-Logo-Text_CopperTop', 'tags': None, 'attributeType': None, 'pins': {}}|
 ||||

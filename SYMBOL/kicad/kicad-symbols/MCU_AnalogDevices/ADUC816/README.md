@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADUC816|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_AnalogDevices-ADUC816|
 |Hex ID (short code)|hexID|SZKMCUANALOGDEVICESADUC816|
-|Name|name|ADUC816|
+|name|name|ADUC816|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADUC816', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/static/imported-files/data_sheets/ADUC816.pdf', 'kicadSymbolki_keywords': '8051 CORE MCU ADC DAC', 'kicadSymbolki_description': '8KB Flash, 256B SRAM, 640B EEPROM, 16-bit ADC, 12-bit DAC, MQFP-52', 'kicadSymbolki_fp_filters': 'MQFP*'}]|
 ||||

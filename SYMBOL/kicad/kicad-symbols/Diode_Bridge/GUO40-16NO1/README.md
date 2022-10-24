@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|GUO40-16NO1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Bridge-GUO40-16NO1|
 |Hex ID (short code)|hexID|SZKDIODEBRIDGEGUO416NO1|
-|Name|name|GUO40-16NO1|
+|name|name|GUO40-16NO1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'GUO40-08NO1', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'GUO40-16NO1', 'kicadSymbolFootprint': 'Diode_THT:Diode_Bridge_IXYS_GUFP', 'kicadSymbolDatasheet': 'https://ixapps.ixys.com/DataSheet/GUO40-16NO1.pdf', 'kicadSymbolki_keywords': 'Three-Phase Bridge Rectifier', 'kicadSymbolki_description': '500V Vrms, 40A If, GUFP(X025B)', 'kicadSymbolki_fp_filters': 'Diode*Bridge*IXYS*GUFP*'}]|
 ||||

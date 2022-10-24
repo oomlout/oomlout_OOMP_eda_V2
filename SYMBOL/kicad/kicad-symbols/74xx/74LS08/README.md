@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS08|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS08|
 |Hex ID (short code)|hexID|SZK74XX74LS8|
-|Name|name|74LS08|
+|name|name|74LS08|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS08', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS08', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL and2', 'kicadSymbolki_description': 'Quad And2', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_PLCC_2835|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_PLCC_2835|
 |Hex ID (short code)|hexID|FZKLSMLPLCC2835|
-|Name|name|LED_SMD : LED_PLCC_2835|
+|name|name|LED_SMD : LED_PLCC_2835|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_PLCC_2835', 'description': 'https://www.luckylight.cn/media/component/data-sheet/R2835BC-B2M-M10.pdf', 'tags': 'LED', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_PLCC_2835.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_PLCC_2835/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_PLCC_2835/kicadPcb3d_450.png

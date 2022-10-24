@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS76|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS76|
 |Hex ID (short code)|hexID|SZK74XX74LS76|
-|Name|name|74LS76|
+|name|name|74LS76|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS76', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS76', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL JK JKFF', 'kicadSymbolki_description': 'Dual JK Flip-flop, Set & Reset', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

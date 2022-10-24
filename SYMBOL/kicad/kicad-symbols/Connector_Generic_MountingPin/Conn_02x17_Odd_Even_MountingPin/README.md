@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Conn_02x17_Odd_Even_MountingPin|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector_Generic_MountingPin-Conn_02x17_Odd_Even_MountingPin|
 |Hex ID (short code)|hexID|SZKCNGENERICMOUNTINGPINCONN2X17ODDEVENMOUNTINGPIN|
-|Name|name|Conn_02x17_Odd_Even_MountingPin|
+|name|name|Conn_02x17_Odd_Even_MountingPin|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Conn_02x17_Odd_Even_MountingPin', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'Generic connectable mounting pin connector, double row, 02x17, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_2x??-1MP*'}]|
 ||||

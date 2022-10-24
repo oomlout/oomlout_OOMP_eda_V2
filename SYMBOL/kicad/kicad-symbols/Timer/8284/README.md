@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|8284|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-8284|
 |Hex ID (short code)|hexID|SZKTIMER8284|
-|Name|name|8284|
+|name|name|8284|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '8284', 'kicadSymbolFootprint': 'Package_DIP:DIP-18_W7.62mm', 'kicadSymbolDatasheet': 'http://www.cpu-galaxy.at/cpu/ram%20rom%20eprom/other_intel_chips/other_intel-Dateien/D8284A_Datasheet.pdf', 'kicadSymbolki_keywords': 'Clock Generator', 'kicadSymbolki_description': 'Clock Generator and Driver for i8086/88 Microcontrollers, PDIP-18', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

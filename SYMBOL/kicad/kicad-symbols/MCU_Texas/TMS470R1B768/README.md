@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TMS470R1B768|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Texas-TMS470R1B768|
 |Hex ID (short code)|hexID|SZKMCUTEXASTMS47R1B768|
-|Name|name|TMS470R1B768|
+|name|name|TMS470R1B768|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TMS470R1B768', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tms470r1b768.pdf', 'kicadSymbolki_keywords': 'ARM 7TDM uC TMS470', 'kicadSymbolki_description': 'ARM7TDM Microcontroller, 768KB Flash, 48KB RAM, PQFP-144', 'kicadSymbolki_fp_filters': 'PQFP-144*'}]|
 ||||

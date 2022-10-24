@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AO3400A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-AO3400A|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETAO34A|
-|Name|name|AO3400A|
+|name|name|AO3400A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSS138', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'AO3400A', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

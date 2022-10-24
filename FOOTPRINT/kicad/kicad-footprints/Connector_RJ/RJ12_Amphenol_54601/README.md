@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|RJ12_Amphenol_54601|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ12_Amphenol_54601|
 |Hex ID (short code)|hexID|FZKCNRJRJ12AMPHENOL5461|
-|Name|name|Connector_RJ : RJ12_Amphenol_54601|
+|name|name|Connector_RJ : RJ12_Amphenol_54601|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RJ12_Amphenol_54601', 'description': 'RJ12 connector  https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0082.pdf', 'tags': 'RJ12 connector', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ12_Amphenol_54601.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ12_Amphenol_54601/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ12_Amphenol_54601/kicadPcb3d_450.png

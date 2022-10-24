@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LP2950-5.0_TO252|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2950-5.0_TO252|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLP2955TO252|
-|Name|name|LP2950-5.0_TO252|
+|name|name|LP2950-5.0_TO252|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM78M05_TO252', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LP2950-5.0_TO252', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-2', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lp2950.pdf', 'kicadSymbolki_keywords': 'Micropower Voltage Regulator 100mA Positive', 'kicadSymbolki_description': 'Positive 100mA 30V Linear Micropower Voltage Regulator, Fixed Output 5.0V, TO-252', 'kicadSymbolki_fp_filters': 'TO?252*'}]|
 ||||

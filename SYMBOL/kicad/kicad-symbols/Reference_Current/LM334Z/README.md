@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM334Z|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Current-LM334Z|
 |Hex ID (short code)|hexID|SZKREFERENCECURRENTLM334Z|
-|Name|name|LM334Z|
+|name|name|LM334Z|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM334Z', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm134.pdf', 'kicadSymbolki_keywords': 'Adjustable Current Source 10mA', 'kicadSymbolki_description': '1μA to 10mA 3-Terminal Adjustable Current Source, TO-92', 'kicadSymbolki_fp_filters': 'TO*92*Inline*'}]|
 ||||

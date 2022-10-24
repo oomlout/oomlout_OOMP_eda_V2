@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_DPST_x2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_DPST_x2|
 |Hex ID (short code)|hexID|SZKSWITCHSWDPSTX2|
-|Name|name|SW_DPST_x2|
+|name|name|SW_DPST_x2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_DPST_x2', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'switch lever', 'kicadSymbolki_description': 'Single Pole Single Throw (SPST) switch, separate symbol'}]|
 ||||

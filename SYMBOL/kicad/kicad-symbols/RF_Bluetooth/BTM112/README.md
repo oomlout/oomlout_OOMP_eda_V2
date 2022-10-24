@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|BTM112|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Bluetooth-BTM112|
 |Hex ID (short code)|hexID|SZKRFBLUETOOTHBTM112|
-|Name|name|BTM112|
+|name|name|BTM112|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BTM112', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.sparkfun.com/datasheets/Wireless/Bluetooth/BTM112_wATcommands.pdf', 'kicadSymbolki_keywords': 'Bluetooth BT SPP Module', 'kicadSymbolki_description': 'Bluetooth SPP Module, UART, Class 2'}]|
 ||||

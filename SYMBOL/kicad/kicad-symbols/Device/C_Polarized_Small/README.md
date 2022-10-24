@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C_Polarized_Small|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-C_Polarized_Small|
 |Hex ID (short code)|hexID|SZKDEVICECPOLARIZEDSLL|
-|Name|name|C_Polarized_Small|
+|name|name|C_Polarized_Small|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'C_Polarized_Small', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'Polarized capacitor, small symbol', 'kicadSymbolki_fp_filters': 'CP_*'}]|
 ||||

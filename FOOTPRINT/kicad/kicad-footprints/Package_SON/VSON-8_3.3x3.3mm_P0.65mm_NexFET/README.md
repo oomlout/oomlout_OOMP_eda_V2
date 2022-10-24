@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|VSON-8_3.3x3.3mm_P0.65mm_NexFET|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-VSON-8_3.3x3.3mm_P0.65mm_NexFET|
 |Hex ID (short code)|hexID|FZKSONVSON833X33P65NEXFET|
-|Name|name|Package_SON : VSON-8_3.3x3.3mm_P0.65mm_NexFET|
+|name|name|Package_SON : VSON-8_3.3x3.3mm_P0.65mm_NexFET|
 |Footprint Kicad|footprintKicadDetails|{'name': 'VSON-8_3.3x3.3mm_P0.65mm_NexFET', 'description': '8-Lead Plastic Dual Flat, No Lead Package (MF) - 3.3x3.3x1 mm Body [VSON] http://www.ti.com/lit/ds/symlink/csd87334q3d.pdf', 'tags': 'VSON 0.65', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/VSON-8_3.3x3.3mm_P0.65mm_NexFET.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/VSON-8_3.3x3.3mm_P0.65mm_NexFET/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SON/VSON-8_3.3x3.3mm_P0.65mm_NexFET/kicadPcb3d_450.png

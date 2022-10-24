@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Jumper_3_Bridged12|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Jumper-Jumper_3_Bridged12|
 |Hex ID (short code)|hexID|SZKJJ3BRIDGED12|
-|Name|name|Jumper_3_Bridged12|
+|name|name|Jumper_3_Bridged12|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'JP', 'kicadSymbolValue': 'Jumper_3_Bridged12', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'Jumper SPDT', 'kicadSymbolki_description': 'Jumper, 3-pole, pins 1+2 closed/bridged', 'kicadSymbolki_fp_filters': 'Jumper* TestPoint*3Pads* TestPoint*Bridge*'}]|
 ||||

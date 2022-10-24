@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP4921-EMS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4921-EMS|
 |Hex ID (short code)|hexID|SZKANALOGDACMCP4921EMS|
-|Name|name|MCP4921-EMS|
+|name|name|MCP4921-EMS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP4921-EMS', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/21897a.pdf', 'kicadSymbolki_keywords': 'Single DAC 1ch 12bit SPI', 'kicadSymbolki_description': 'Single 12-bit Digital to Analog Converter, SPI Interface, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP* SOIC* DIP* PDIP*'}]|
 ||||

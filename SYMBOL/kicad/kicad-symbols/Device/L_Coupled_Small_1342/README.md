@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L_Coupled_Small_1342|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-L_Coupled_Small_1342|
 |Hex ID (short code)|hexID|SZKDEVICELCOUPLSLL1342|
-|Name|name|L_Coupled_Small_1342|
+|name|name|L_Coupled_Small_1342|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'L', 'kicadSymbolValue': 'L_Coupled_Small_1342', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'inductor choke coil reactor magnetic coupled', 'kicadSymbolki_description': 'Coupled inductor, small symbol', 'kicadSymbolki_fp_filters': 'Choke_* *Coil* Inductor_* L_*'}]|
 ||||

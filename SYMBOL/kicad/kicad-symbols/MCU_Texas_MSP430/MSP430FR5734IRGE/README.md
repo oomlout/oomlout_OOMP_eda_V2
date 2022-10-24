@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MSP430FR5734IRGE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430FR5734IRGE|
 |Hex ID (short code)|hexID|SZKMCUTEXASMSP43MSP43FR5734IRGE|
-|Name|name|MSP430FR5734IRGE|
+|name|name|MSP430FR5734IRGE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MSP430FR5720IRGE', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MSP430FR5734IRGE', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PVQFN-N24_EP2.1x2.1mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/msp430fr5734.pdf', 'kicadSymbolki_keywords': 'TI MSP430 16-bit mixed signal microcontroller', 'kicadSymbolki_description': '8kB FRAM, 1kB SRAM, QFN-24', 'kicadSymbolki_fp_filters': 'Texas*S?PVQFN*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM399|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM399|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGELM399|
-|Name|name|LM399|
+|name|name|LM399|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM399', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:Analog_TO-46-4_ThermalShield', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/199399fc.pdf', 'kicadSymbolki_keywords': 'Zener diode device voltage reference', 'kicadSymbolki_description': 'Precision Reference, 6.95V, Buried Zener Diode with Thermal Shielding Can, TO-46-4', 'kicadSymbolki_fp_filters': 'Analog*TO?46*'}]|
 ||||

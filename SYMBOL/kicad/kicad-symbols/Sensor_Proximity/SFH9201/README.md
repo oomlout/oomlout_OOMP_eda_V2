@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SFH9201|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Proximity-SFH9201|
 |Hex ID (short code)|hexID|SZKSENPROXIMITYSFH921|
-|Name|name|SFH9201|
+|name|name|SFH9201|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SFH9206', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SFH9201', 'kicadSymbolFootprint': 'OptoDevice:Osram_SFH9x0x', 'kicadSymbolDatasheet': 'https://media.digikey.com/pdf/Data%20Sheets/Osram%20PDFs/SFH_9201.pdf', 'kicadSymbolki_keywords': 'Reflective Opto Interrupter Coupler', 'kicadSymbolki_description': 'Reflective Opto Interrupter/Coupler, SMD-6', 'kicadSymbolki_fp_filters': 'Osram*SFH9x0x*'}]|
 ||||

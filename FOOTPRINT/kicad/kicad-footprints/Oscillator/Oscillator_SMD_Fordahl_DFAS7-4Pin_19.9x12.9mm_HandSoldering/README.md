@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Oscillator_SMD_Fordahl_DFAS7-4Pin_19.9x12.9mm_HandSoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Fordahl_DFAS7-4Pin_19.9x12.9mm_HandSoldering|
 |Hex ID (short code)|hexID|FZKOCSOCSSMFORDAHLDFAS74PIN199X129HANDSOLDERING|
-|Name|name|Oscillator : Oscillator_SMD_Fordahl_DFAS7-4Pin_19.9x12.9mm_HandSoldering|
+|name|name|Oscillator : Oscillator_SMD_Fordahl_DFAS7-4Pin_19.9x12.9mm_HandSoldering|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Oscillator_SMD_Fordahl_DFAS7-4Pin_19.9x12.9mm_HandSoldering', 'description': 'Miniature Crystal Clock Oscillator TXCO Fordahl DFA S7-K/L, http://www.iqdfrequencyproducts.com/products/details/iqxo-70-11-30.pdf, hand-soldering, 19.9x12.9mm^2 package', 'tags': 'SMD SMT crystal oscillator hand-soldering', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_Fordahl_DFAS7-4Pin_19.9x12.9mm_HandSoldering.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Fordahl_DFAS7-4Pin_19.9x12.9mm_HandSoldering/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Fordahl_DFAS7-4Pin_19.9x12.9mm_HandSoldering/kicadPcb3d_450.png

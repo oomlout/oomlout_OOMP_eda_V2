@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm|
 |Hex ID (short code)|hexID|FZKDFNQFN241EP5X5P65EP34X34|
-|Name|name|Package_DFN_QFN : QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm|
+|name|name|Package_DFN_QFN : QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm', 'description': 'QFN, 24 Pin (http://www.thatcorp.com/datashts/THAT_5173_Datasheet.pdf#page=17), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm/kicadPcb3d_450.png

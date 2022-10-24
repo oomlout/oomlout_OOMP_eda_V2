@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOT-563|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-563|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT563|
-|Name|name|Package_TO_SOT_SMD : SOT-563|
+|name|name|Package_TO_SOT_SMD : SOT-563|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOT-563', 'description': 'SOT563', 'tags': 'SOT-563', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-563.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-563/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-563/kicadPcb3d_450.png

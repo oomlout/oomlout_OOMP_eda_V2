@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DTC114Y|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC114Y|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTDTC114Y|
-|Name|name|DTC114Y|
+|name|name|DTC114Y|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DTC114Y', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'ROHM Digital NPN Transistor', 'kicadSymbolki_description': 'Digital NPN Transistor, 10k/47k, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23* SC?59*'}]|
 ||||

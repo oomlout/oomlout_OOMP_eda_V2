@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Texas_S-PVQFN-N48_EP5.15x5.15mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N48_EP5.15x5.15mm|
 |Hex ID (short code)|hexID|FZKDFNTEXASSPVQFNN48EP515X515|
-|Name|name|Package_DFN_QFN : Texas_S-PVQFN-N48_EP5.15x5.15mm|
+|name|name|Package_DFN_QFN : Texas_S-PVQFN-N48_EP5.15x5.15mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Texas_S-PVQFN-N48_EP5.15x5.15mm', 'description': 'QFN, 48 Pin (http://www.ti.com/lit/ds/symlink/msp430f5232.pdf#page=111), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PVQFN-N48_EP5.15x5.15mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PVQFN-N48_EP5.15x5.15mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PVQFN-N48_EP5.15x5.15mm/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LGA-Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering|
 |Hex ID (short code)|hexID|FZKLGABOSCHLGA82X25P65CLWISEPINNUMBERING|
-|Name|name|Package_LGA : Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering|
+|name|name|Package_LGA : Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering', 'description': 'LGA-8, https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMP280-DS001-18.pdf', 'tags': 'lga land grid array', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_LGA/Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering/kicadPcb3d_450.png

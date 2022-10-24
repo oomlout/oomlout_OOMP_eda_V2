@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_NF_ETAL_P3191_HandSoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P3191_HandSoldering|
 |Hex ID (short code)|hexID|FZKTRSMTRNFETALP3191HANDSOLDERING|
-|Name|name|Transformer_SMD : Transformer_NF_ETAL_P3191_HandSoldering|
+|name|name|Transformer_SMD : Transformer_NF_ETAL_P3191_HandSoldering|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_NF_ETAL_P3191_HandSoldering', 'description': 'NF-Transformer, ETAL, P3191, SMD, Handsoldering,', 'tags': 'NF-Transformer ETAL P3191 SMD Handsoldering ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_NF_ETAL_P3191_HandSoldering.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

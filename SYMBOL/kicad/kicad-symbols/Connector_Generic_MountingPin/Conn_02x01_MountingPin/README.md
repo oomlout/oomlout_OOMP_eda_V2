@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Conn_02x01_MountingPin|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector_Generic_MountingPin-Conn_02x01_MountingPin|
 |Hex ID (short code)|hexID|SZKCNGENERICMOUNTINGPINCONN2X1MOUNTINGPIN|
-|Name|name|Conn_02x01_MountingPin|
+|name|name|Conn_02x01_MountingPin|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Conn_02x01_MountingPin', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'Generic connectable mounting pin connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_2x??-1MP*'}]|
 ||||

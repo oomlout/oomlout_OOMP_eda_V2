@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Relay_DPDT_Omron_G2RL|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Omron_G2RL|
 |Hex ID (short code)|hexID|FZKRELRELAYDPDTOMRONG2RL|
-|Name|name|Relay_THT : Relay_DPDT_Omron_G2RL|
+|name|name|Relay_THT : Relay_DPDT_Omron_G2RL|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Relay_DPDT_Omron_G2RL', 'description': 'Omron Relay DPDT, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf', 'tags': 'Omron Relay DPDT', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_Omron_G2RL.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Omron_G2RL/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Omron_G2RL/kicadPcb3d_450.png

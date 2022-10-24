@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BTS716G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-BTS716G|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTBTS716G|
-|Name|name|BTS716G|
+|name|name|BTS716G|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BTS724G', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BTS716G', 'kicadSymbolFootprint': 'Package_SO:Infineon_PG-DSO-20-32', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-BTS716G-DS-v01_00-EN.pdf?fileId=5546d4625a888733015aa3be86601004', 'kicadSymbolki_keywords': 'High_Side_Switch Power', 'kicadSymbolki_description': 'Smart High-Side Power Switch, PROFET, 4 Channel, 140mOhm, 2.6A, 40V, DSO-20', 'kicadSymbolki_fp_filters': 'Infineon*PG*DSO*'}]|
 ||||

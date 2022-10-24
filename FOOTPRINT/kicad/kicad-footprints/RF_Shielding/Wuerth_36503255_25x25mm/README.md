@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Wuerth_36503255_25x25mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Wuerth_36503255_25x25mm|
 |Hex ID (short code)|hexID|FZKRFSWUERTH365325525X25|
-|Name|name|RF_Shielding : Wuerth_36503255_25x25mm|
+|name|name|RF_Shielding : Wuerth_36503255_25x25mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Wuerth_36503255_25x25mm', 'description': 'WE-SHC Shielding Cabinet THT 26x26mm', 'tags': 'Shielding Cabinet', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Shielding.3dshapes/Wuerth_36503255_25x25mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

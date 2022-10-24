@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-263-4|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-263-4|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMTO2634|
-|Name|name|Package_TO_SOT_SMD : TO-263-4|
+|name|name|Package_TO_SOT_SMD : TO-263-4|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-263-4', 'description': 'TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-5-1/', 'tags': 'D2PAK DDPAK TO-263 D2PAK-5 TO-263-5 SOT-426', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-263-4.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-263-4/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-263-4/kicadPcb3d_450.png

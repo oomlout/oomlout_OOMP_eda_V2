@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MSOP-10-1EP_3x3mm_P0.5mm_EP1.68x1.88mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-MSOP-10-1EP_3x3mm_P0.5mm_EP1.68x1.88mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKSOMS11EP3X3P5EP168X188THERMALVIAS|
-|Name|name|Package_SO : MSOP-10-1EP_3x3mm_P0.5mm_EP1.68x1.88mm_ThermalVias|
+|name|name|Package_SO : MSOP-10-1EP_3x3mm_P0.5mm_EP1.68x1.88mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MSOP-10-1EP_3x3mm_P0.5mm_EP1.68x1.88mm_ThermalVias', 'description': 'MSOP, 10 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/3805fg.pdf#page=18), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'MSOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-10-1EP_3x3mm_P0.5mm_EP1.68x1.88mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-10-1EP_3x3mm_P0.5mm_EP1.68x1.88mm_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-10-1EP_3x3mm_P0.5mm_EP1.68x1.88mm_ThermalVias/kicadPcb3d_450.png

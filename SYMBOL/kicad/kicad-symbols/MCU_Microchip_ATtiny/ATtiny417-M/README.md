@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATtiny417-M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny417-M|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATTINYATTINY417M|
-|Name|name|ATtiny417-M|
+|name|name|ATtiny417-M|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATtiny807-M', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATtiny417-M', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/40001901B.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller tinyAVR', 'kicadSymbolki_description': '20MHz, 4kB Flash, 256B SRAM, 128B EEPROM, VQFN-24', 'kicadSymbolki_fp_filters': 'QFN*1EP*4x4mm*P0.5mm*'}]|
 ||||

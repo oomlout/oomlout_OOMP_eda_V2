@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC4359-DCB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-LTC4359-DCB|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTLTC4359DCB|
-|Name|name|LTC4359-DCB|
+|name|name|LTC4359-DCB|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC4359-DCB', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ltc4359.pdf', 'kicadSymbolki_keywords': 'ideal-diode or-ing reverse-protection', 'kicadSymbolki_description': 'Ideal diode controller with reverse input protection, DFN-6 package', 'kicadSymbolki_fp_filters': 'DFN*1EP*3x2mm*P0.65mm*'}]|
 ||||

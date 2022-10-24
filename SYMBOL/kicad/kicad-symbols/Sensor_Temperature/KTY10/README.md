@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|KTY10|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-KTY10|
 |Hex ID (short code)|hexID|SZKSENTEMPERATUREKTY1|
-|Name|name|KTY10|
+|name|name|KTY10|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'KTY81', 'kicadSymbolReference': 'TH', 'kicadSymbolValue': 'KTY10', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.b-kainka.de/Daten/Sensor/kty10.pdf', 'kicadSymbolki_keywords': 'silicon temperature sensors', 'kicadSymbolki_description': 'KTY10/KT100 series silicon temperature sensors', 'kicadSymbolki_fp_filters': 'SOD?70*'}]|
 ||||

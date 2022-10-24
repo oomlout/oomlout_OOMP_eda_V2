@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX16910|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX16910|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMAX1691|
-|Name|name|MAX16910|
+|name|name|MAX16910|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX16910', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX16910.pdf', 'kicadSymbolki_keywords': 'Linear LDO Regulator', 'kicadSymbolki_description': '200mA Automotive Linear LDO Regulator, Fixed Output 5V/3.3V or Adjustable, SO-8/DFN-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DFN*3x3mm*P0.65mm*'}]|
 ||||

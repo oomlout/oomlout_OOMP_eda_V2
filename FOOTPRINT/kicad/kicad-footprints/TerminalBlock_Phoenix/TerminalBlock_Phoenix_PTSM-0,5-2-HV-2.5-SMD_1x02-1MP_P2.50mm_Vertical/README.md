@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TerminalBlock_Phoenix_PTSM-0,5-2-HV-2.5-SMD_1x02-1MP_P2.50mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Phoenix-TerminalBlock_Phoenix_PTSM-0,5-2-HV-2.5-SMD_1x02-1MP_P2.50mm_Vertical|
 |Hex ID (short code)|hexID|FZKTBPHOENIXTBPHOENIXPTSM52HV25SM1X21MPP25VERTICAL|
-|Name|name|TerminalBlock_Phoenix : TerminalBlock_Phoenix_PTSM-0,5-2-HV-2.5-SMD_1x02-1MP_P2.50mm_Vertical|
+|name|name|TerminalBlock_Phoenix : TerminalBlock_Phoenix_PTSM-0,5-2-HV-2.5-SMD_1x02-1MP_P2.50mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TerminalBlock_Phoenix_PTSM-0,5-2-HV-2.5-SMD_1x02-1MP_P2.50mm_Vertical', 'description': 'PhoenixContact PTSM0,5 2 HV 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1778696/pdf', 'tags': '2.5mm vertical SMD spring clamp terminal block connector ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PTSM-0,5-2-HV-2.5-SMD_1x02-1MP_P2.50mm_Vertical.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||

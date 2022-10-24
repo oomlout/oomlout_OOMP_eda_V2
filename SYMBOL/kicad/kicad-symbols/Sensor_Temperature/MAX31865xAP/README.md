@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX31865xAP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31865xAP|
 |Hex ID (short code)|hexID|SZKSENTEMPERATUREMAX31865XAP|
-|Name|name|MAX31865xAP|
+|name|name|MAX31865xAP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX31865xAP', 'kicadSymbolFootprint': 'Package_SO:SSOP-20_5.3x7.2mm_P0.65mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX31865.pdf', 'kicadSymbolki_keywords': 'RTD SPI Temperature', 'kicadSymbolki_description': 'RTD-to-Digital Converter, SSOP-20', 'kicadSymbolki_fp_filters': 'SSOP*P0.65mm*'}]|
 ||||

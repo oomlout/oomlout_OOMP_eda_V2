@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TOP258GN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP258GN|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTOP258GN|
-|Name|name|TOP258GN|
+|name|name|TOP258GN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TOP252GN', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TOP258GN', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_SMD-8C', 'kicadSymbolDatasheet': 'https://ac-dc.power.com/sites/default/files/product-docs/topswitch-hx_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Eco Smart Off-Line Switcher, Extendend Power Range', 'kicadSymbolki_description': 'TOPSwitch-HX Family, 35W Output Power', 'kicadSymbolki_fp_filters': 'PowerIntegrations?SMD?8C*'}]|
 ||||

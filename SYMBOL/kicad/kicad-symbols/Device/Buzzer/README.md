@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Buzzer|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Buzzer|
 |Hex ID (short code)|hexID|SZKDEVICEBUZZER|
-|Name|name|Buzzer|
+|name|name|Buzzer|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'BZ', 'kicadSymbolValue': 'Buzzer', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'quartz resonator ceramic', 'kicadSymbolki_description': 'Buzzer, polarized', 'kicadSymbolki_fp_filters': '*Buzzer*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM4250|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM4250|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALLM425|
-|Name|name|LM4250|
+|name|name|LM4250|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM4250', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm4250.pdf', 'kicadSymbolki_keywords': 'Programmable opamp', 'kicadSymbolki_description': 'Programmable Operational Amplifier, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm* TO?5*'}]|
 ||||

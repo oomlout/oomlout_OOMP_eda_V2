@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IR204A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-LED-IR204A|
 |Hex ID (short code)|hexID|SZKLIR24A|
-|Name|name|IR204A|
+|name|name|IR204A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SFH4356P', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'IR204A', 'kicadSymbolFootprint': 'LED_THT:LED_D3.0mm_IRBlack', 'kicadSymbolDatasheet': 'http://www.everlight.com/file/ProductFile/IR204-A.pdf', 'kicadSymbolki_keywords': 'opto IR LED', 'kicadSymbolki_description': 'Infrared LED , 3mm LED package', 'kicadSymbolki_fp_filters': 'LED*3.0mm*IRBlack*'}]|
 ||||

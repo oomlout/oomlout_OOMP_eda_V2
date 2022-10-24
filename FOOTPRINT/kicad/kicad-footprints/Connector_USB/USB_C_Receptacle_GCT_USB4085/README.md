@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB_C_Receptacle_GCT_USB4085|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_GCT_USB4085|
 |Hex ID (short code)|hexID|FZKCNUUCRECEPTACLEGCTU485|
-|Name|name|Connector_USB : USB_C_Receptacle_GCT_USB4085|
+|name|name|Connector_USB : USB_C_Receptacle_GCT_USB4085|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB_C_Receptacle_GCT_USB4085', 'description': 'USB 2.0 Type C Receptacle, https://gct.co/Files/Drawings/USB4085.pdf', 'tags': 'USB Type-C Receptacle Through-hole Right angle', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_GCT_USB4085.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_GCT_USB4085/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_GCT_USB4085/kicadPcb3d_450.png

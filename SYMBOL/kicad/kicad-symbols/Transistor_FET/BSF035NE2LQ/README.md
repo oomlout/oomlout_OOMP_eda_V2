@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BSF035NE2LQ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BSF035NE2LQ|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBSF35NE2LQ|
-|Name|name|BSF035NE2LQ|
+|name|name|BSF035NE2LQ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSF030NE2LQ', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BSF035NE2LQ', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_SQ', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-BSF035NE2LQ-DS-v01_03-en.pdf?fileId=db3a30433f764301013f7fe8a925463c', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '69A Id, 25V Vds, 3.5mOhm Rds, N-Channel MOSFET, DirectFET SQ', 'kicadSymbolki_fp_filters': 'DirectFET*SQ*'}]|
 ||||

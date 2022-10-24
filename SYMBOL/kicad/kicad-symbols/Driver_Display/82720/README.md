@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|82720|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Display-82720|
 |Hex ID (short code)|hexID|SZKDRIVERDI8272|
-|Name|name|82720|
+|name|name|82720|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '82720', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'Graphics Controller', 'kicadSymbolki_description': 'Graphics Display Controller, PDIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

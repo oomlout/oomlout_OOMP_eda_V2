@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ICE40HX4K-TQ144|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Lattice-ICE40HX4K-TQ144|
 |Hex ID (short code)|hexID|SZKFPGALATTICEICE4HX4KTQ144|
-|Name|name|ICE40HX4K-TQ144|
+|name|name|ICE40HX4K-TQ144|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ICE40HX4K-TQ144', 'kicadSymbolFootprint': 'Package_QFP:TQFP-144_20x20mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.latticesemi.com/Products/FPGAandCPLD/iCE40', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA programmable logic', 'kicadSymbolki_description': 'iCE40 HX FPGA, 3520 LUTs, 1.2V, TQFP-144', 'kicadSymbolki_fp_filters': 'TQFP*20x20mm*P0.5mm*'}]|
 ||||

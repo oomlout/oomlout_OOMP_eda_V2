@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC2858xMS-2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-LTC2858xMS-2|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTLTC2858XMS2|
-|Name|name|LTC2858xMS-2|
+|name|name|LTC2858xMS-2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LTC2852xMS', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC2858xMS-2', 'kicadSymbolFootprint': 'Package_SO:MSOP-10_3x3mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/285678fg.pdf', 'kicadSymbolki_keywords': 'RS485 RS422 transceiver full duplex', 'kicadSymbolki_description': 'RS-485, RS-422 Full duplex 250kbps transceiver, MSOP-10', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.5mm*'}]|
 ||||

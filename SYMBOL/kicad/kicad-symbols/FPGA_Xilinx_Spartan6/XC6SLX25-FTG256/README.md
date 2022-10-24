@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC6SLX25-FTG256|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX25-FTG256|
 |Hex ID (short code)|hexID|SZKFPGAXILINXSPARTAN6XC6SLX25FTG256|
-|Name|name|XC6SLX25-FTG256|
+|name|name|XC6SLX25-FTG256|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC6SLX25-FTG256', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Spartan 6 LX 25 XC6SLX25-FTG256'}]|
 ||||

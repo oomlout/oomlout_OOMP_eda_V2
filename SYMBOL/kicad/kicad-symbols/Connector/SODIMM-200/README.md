@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SODIMM-200|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-SODIMM-200|
 |Hex ID (short code)|hexID|SZKCNSODI2|
-|Name|name|SODIMM-200|
+|name|name|SODIMM-200|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'SODIMM-200', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'SODIMM SO-DIMM DDR1 DDR2', 'kicadSymbolki_description': 'SODIMM 200 Pin socket', 'kicadSymbolki_fp_filters': '*SODIMM*'}]|
 ||||

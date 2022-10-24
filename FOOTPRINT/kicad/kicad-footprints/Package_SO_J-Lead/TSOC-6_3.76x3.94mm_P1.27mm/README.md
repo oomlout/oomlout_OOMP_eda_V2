@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TSOC-6_3.76x3.94mm_P1.27mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO_J-Lead-TSOC-6_3.76x3.94mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKSOJLEADTSOC6376X394P127|
-|Name|name|Package_SO_J-Lead : TSOC-6_3.76x3.94mm_P1.27mm|
+|name|name|Package_SO_J-Lead : TSOC-6_3.76x3.94mm_P1.27mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TSOC-6_3.76x3.94mm_P1.27mm', 'description': 'Maxim Integrated TSOC-6 D6+1,https://datasheets.maximintegrated.com/en/ds/DS2401.pdf, https://pdfserv.maximintegrated.com/land_patterns/90-0321.PDF', 'tags': 'TSOC-6', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO_J-Lead.3dshapes/TSOC-6_3.76x3.94mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO_J-Lead/TSOC-6_3.76x3.94mm_P1.27mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO_J-Lead/TSOC-6_3.76x3.94mm_P1.27mm/kicadPcb3d_450.png

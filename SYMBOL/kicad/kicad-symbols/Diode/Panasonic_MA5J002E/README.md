@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Panasonic_MA5J002E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-Panasonic_MA5J002E|
 |Hex ID (short code)|hexID|SZKDIODEPMA5J2E|
-|Name|name|Panasonic_MA5J002E|
+|name|name|Panasonic_MA5J002E|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'Rohm_UMN1N', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'Panasonic_MA5J002E', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-353_SC-70-5', 'kicadSymbolDatasheet': 'http://www.semicon.panasonic.co.jp/ds4/MA5J002E_BED_discon.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Quad Ultra high Speed Switching Diode Array Com K', 'kicadSymbolki_fp_filters': 'SOT?353*'}]|
 ||||

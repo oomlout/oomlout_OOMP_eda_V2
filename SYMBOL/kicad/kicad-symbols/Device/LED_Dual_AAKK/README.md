@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_Dual_AAKK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_Dual_AAKK|
 |Hex ID (short code)|hexID|SZKDEVICELDUALAAKK|
-|Name|name|LED_Dual_AAKK|
+|name|name|LED_Dual_AAKK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_Dual_AAKK', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED diode bicolor dual', 'kicadSymbolki_description': 'Dual LED, cathodes on pins 3 and 4', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

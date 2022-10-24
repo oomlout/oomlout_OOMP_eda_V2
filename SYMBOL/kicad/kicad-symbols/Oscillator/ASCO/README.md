@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ASCO|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-ASCO|
 |Hex ID (short code)|hexID|SZKOCSASCO|
-|Name|name|ASCO|
+|name|name|ASCO|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'X', 'kicadSymbolValue': 'ASCO', 'kicadSymbolFootprint': 'Oscillator:Oscillator_SMD_Abracon_ASCO-4Pin_1.6x1.2mm', 'kicadSymbolDatasheet': 'https://abracon.com/Oscillators/ASCO.pdf', 'kicadSymbolki_keywords': 'Crystal Clock Oscillator', 'kicadSymbolki_description': 'Crystal Clock Oscillator, Abracon ASCO', 'kicadSymbolki_fp_filters': 'Oscillator*Abracon*ASCO*1.6x1.2mm*'}]|
 ||||

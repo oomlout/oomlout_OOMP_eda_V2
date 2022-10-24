@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOT-23-6|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23-6|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT236|
-|Name|name|Package_TO_SOT_SMD : SOT-23-6|
+|name|name|Package_TO_SOT_SMD : SOT-23-6|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOT-23-6', 'description': 'SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'SOT TO_SOT_SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-6.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23-6/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23-6/kicadPcb3d_450.png

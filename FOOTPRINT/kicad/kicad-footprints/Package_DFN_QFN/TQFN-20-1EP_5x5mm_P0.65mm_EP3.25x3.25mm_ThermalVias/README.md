@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TQFN-20-1EP_5x5mm_P0.65mm_EP3.25x3.25mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-TQFN-20-1EP_5x5mm_P0.65mm_EP3.25x3.25mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNTQFN21EP5X5P65EP325X325THERMALVIAS|
-|Name|name|Package_DFN_QFN : TQFN-20-1EP_5x5mm_P0.65mm_EP3.25x3.25mm_ThermalVias|
+|name|name|Package_DFN_QFN : TQFN-20-1EP_5x5mm_P0.65mm_EP3.25x3.25mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TQFN-20-1EP_5x5mm_P0.65mm_EP3.25x3.25mm_ThermalVias', 'description': 'TQFN, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0140.PDF (T2055-5)), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'TQFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/TQFN-20-1EP_5x5mm_P0.65mm_EP3.25x3.25mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/TQFN-20-1EP_5x5mm_P0.65mm_EP3.25x3.25mm_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/TQFN-20-1EP_5x5mm_P0.65mm_EP3.25x3.25mm_ThermalVias/kicadPcb3d_450.png

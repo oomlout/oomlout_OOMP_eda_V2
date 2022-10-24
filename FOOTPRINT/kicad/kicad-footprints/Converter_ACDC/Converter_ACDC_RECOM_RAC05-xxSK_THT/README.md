@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Converter_ACDC_RECOM_RAC05-xxSK_THT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_RECOM_RAC05-xxSK_THT|
 |Hex ID (short code)|hexID|FZKCONCONRECOMRAC5XXSKTHT|
-|Name|name|Converter_ACDC : Converter_ACDC_RECOM_RAC05-xxSK_THT|
+|name|name|Converter_ACDC : Converter_ACDC_RECOM_RAC05-xxSK_THT|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Converter_ACDC_RECOM_RAC05-xxSK_THT', 'description': 'https://www.recom-power.com/pdf/Powerline-AC-DC/RAC05-K.pdf', 'tags': 'recom power ac dc', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_ACDC.3dshapes/Converter_ACDC_RECOM_RAC05-xxSK_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_RECOM_RAC05-xxSK_THT/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_RECOM_RAC05-xxSK_THT/kicadPcb3d_450.png

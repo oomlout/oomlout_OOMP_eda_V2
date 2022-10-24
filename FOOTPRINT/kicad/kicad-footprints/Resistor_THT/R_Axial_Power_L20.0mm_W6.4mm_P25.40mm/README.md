@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|R_Axial_Power_L20.0mm_W6.4mm_P25.40mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L20.0mm_W6.4mm_P25.40mm|
 |Hex ID (short code)|hexID|FZKRRAXIALPOWERL2W64P254|
-|Name|name|Resistor_THT : R_Axial_Power_L20.0mm_W6.4mm_P25.40mm|
+|name|name|Resistor_THT : R_Axial_Power_L20.0mm_W6.4mm_P25.40mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'R_Axial_Power_L20.0mm_W6.4mm_P25.40mm', 'description': 'Resistor, Axial_Power series, Box, pin pitch=25.4mm, 4W, length*width*height=20*6.4*6.4mm^3, http://cdn-reichelt.de/documents/datenblatt/B400/5WAXIAL_9WAXIAL_11WAXIAL_17WAXIAL%23YAG.pdf', 'tags': 'Resistor Axial_Power series Box pin pitch 25.4mm 4W length 20mm width 6.4mm height 6.4mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_Power_L20.0mm_W6.4mm_P25.40mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Power_L20.0mm_W6.4mm_P25.40mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Power_L20.0mm_W6.4mm_P25.40mm/kicadPcb3d_450.png

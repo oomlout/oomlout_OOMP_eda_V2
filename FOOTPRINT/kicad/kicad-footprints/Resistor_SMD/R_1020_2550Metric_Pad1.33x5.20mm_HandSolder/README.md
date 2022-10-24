@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|R_1020_2550Metric_Pad1.33x5.20mm_HandSolder|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1020_2550Metric_Pad1.33x5.20mm_HandSolder|
 |Hex ID (short code)|hexID|FZKRESISTORSMR12255METRICPAD133X52HANDSOLDER|
-|Name|name|Resistor_SMD : R_1020_2550Metric_Pad1.33x5.20mm_HandSolder|
+|name|name|Resistor_SMD : R_1020_2550Metric_Pad1.33x5.20mm_HandSolder|
 |Footprint Kicad|footprintKicadDetails|{'name': 'R_1020_2550Metric_Pad1.33x5.20mm_HandSolder', 'description': 'Resistor SMD 1020 (2550 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20019/rcwe.pdf), generated with kicad-footprint-generator', 'tags': 'resistor handsolder', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1020_2550Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_1020_2550Metric_Pad1.33x5.20mm_HandSolder/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_1020_2550Metric_Pad1.33x5.20mm_HandSolder/kicadPcb3d_450.png

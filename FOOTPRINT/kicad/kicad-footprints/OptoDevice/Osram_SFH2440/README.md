@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Osram_SFH2440|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_SFH2440|
 |Hex ID (short code)|hexID|FZKOPOSRAMSFH244|
-|Name|name|OptoDevice : Osram_SFH2440|
+|name|name|OptoDevice : Osram_SFH2440|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Osram_SFH2440', 'description': 'PhotoDiode, plastic SMD DIL, 4.5x4mm, area: 2.65x2.65mm, https://dammedia.osram.info/media/resource/hires/osram-dam-5467146/SFH%202440_EN.pdf', 'tags': 'PhotoDiode plastic SMD DIL', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Osram_SFH2440.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_SFH2440/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_SFH2440/kicadPcb3d_450.png

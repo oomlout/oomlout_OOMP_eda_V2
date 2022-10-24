@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Allegro_CB_PSF|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_CB_PSF|
 |Hex ID (short code)|hexID|FZKSENCURRENTALLEGROCBPSF|
-|Name|name|Sensor_Current : Allegro_CB_PSF|
+|name|name|Sensor_Current : Allegro_CB_PSF|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Allegro_CB_PSF', 'description': 'Allegro MicroSystems, CB-PSF Package (http://www.allegromicro.com/en/Products/Current-Sensor-ICs/Fifty-To-Two-Hundred-Amp-Integrated-Conductor-Sensor-ICs/ACS758.aspx)', 'tags': 'Allegro CB-PSF', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/Allegro_CB_PSF.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L_Iron_Small|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-L_Iron_Small|
 |Hex ID (short code)|hexID|SZKDEVICELIRONSLL|
-|Name|name|L_Iron_Small|
+|name|name|L_Iron_Small|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'L', 'kicadSymbolValue': 'L_Iron_Small', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'inductor choke coil reactor magnetic', 'kicadSymbolki_description': 'Inductor with iron core, small symbol', 'kicadSymbolki_fp_filters': 'Choke_* *Coil* Inductor_* L_*'}]|
 ||||

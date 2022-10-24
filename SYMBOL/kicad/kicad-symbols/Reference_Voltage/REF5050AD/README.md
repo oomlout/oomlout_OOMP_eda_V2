@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|REF5050AD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF5050AD|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGEREF55AD|
-|Name|name|REF5050AD|
+|name|name|REF5050AD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'REF5020AD', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'REF5050AD', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ref5030.pdf', 'kicadSymbolki_keywords': 'Low Noise Precision Voltage Reference 5V', 'kicadSymbolki_description': '5V 0.1% 10mA Low Noise Precision Voltage Reference, SO-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

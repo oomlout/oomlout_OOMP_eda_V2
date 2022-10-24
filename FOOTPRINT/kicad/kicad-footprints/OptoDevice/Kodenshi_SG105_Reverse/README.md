@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Kodenshi_SG105_Reverse|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kodenshi_SG105_Reverse|
 |Hex ID (short code)|hexID|FZKOPKODENSHISG15R|
-|Name|name|OptoDevice : Kodenshi_SG105_Reverse|
+|name|name|OptoDevice : Kodenshi_SG105_Reverse|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Kodenshi_SG105_Reverse', 'description': 'package for Kodenshi SG-105 with PCB cutout, light-direction downwards, see http://www.kodenshi.co.jp/products/pdf/sensor/photointerrupter_ref/SG-105.pdf', 'tags': 'refective opto couple photo coupler', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Kodenshi_SG105_Reverse.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Kodenshi_SG105_Reverse/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/Kodenshi_SG105_Reverse/kicadPcb3d_450.png

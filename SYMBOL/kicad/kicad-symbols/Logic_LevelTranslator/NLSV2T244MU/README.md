@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NLSV2T244MU|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-NLSV2T244MU|
 |Hex ID (short code)|hexID|SZKLOGICLEVELTRANSLATORNLSV2T244MU|
-|Name|name|NLSV2T244MU|
+|name|name|NLSV2T244MU|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NLSV2T244MU', 'kicadSymbolFootprint': 'Package_DFN_QFN:OnSemi_UDFN-8_1.2x1.8mm_P0.4mm', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/NLSV2T244-D.PDF', 'kicadSymbolki_keywords': 'Level-Shifter CMOS-TTL-Translation', 'kicadSymbolki_description': 'Dual-Bit Dual-Supply Non-Inverting Level Translator, Output Enable, UDFN-8', 'kicadSymbolki_fp_filters': 'OnSemi*UDFN*1.2x1.8mm*P0.4mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CAP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-pspice-CAP|
 |Hex ID (short code)|hexID|SZKPSPICECAP|
-|Name|name|CAP|
+|name|name|CAP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAP', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Capacitor symbol for simulation only'}]|
 ||||

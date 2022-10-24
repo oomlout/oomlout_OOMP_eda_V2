@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT3757AEDD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3757AEDD|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLT3757AEDD|
-|Name|name|LT3757AEDD|
+|name|name|LT3757AEDD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LT3757EDD', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT3757AEDD', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.55x2.48mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/3757Afe.pdf', 'kicadSymbolki_keywords': 'Boost flyback SEPIC inverting DC/DC regulator', 'kicadSymbolki_description': 'Boost, flyback, SEPIC and inverting regulator, improved load transient performance, DFN-10', 'kicadSymbolki_fp_filters': 'DFN*EP*3x3mm*P0.5mm*'}]|
 ||||

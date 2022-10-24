@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SYM_Flash_XLarge|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Graphic-SYM_Flash_XLarge|
 |Hex ID (short code)|hexID|SZKGRAPHICSYMFLASHXL|
-|Name|name|SYM_Flash_XLarge|
+|name|name|SYM_Flash_XLarge|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#SYM', 'kicadSymbolValue': 'SYM_Flash_XLarge', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'graphic symbol flash VAC 220VAC 110VAC power', 'kicadSymbolki_description': 'Flash symbol, extra large'}]|
 ||||

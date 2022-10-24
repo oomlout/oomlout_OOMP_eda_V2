@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ITR1201SR10AR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Proximity-ITR1201SR10AR|
 |Hex ID (short code)|hexID|SZKSENPROXIMITYITR121SR1AR|
-|Name|name|ITR1201SR10AR|
+|name|name|ITR1201SR10AR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ITR1201SR10AR', 'kicadSymbolFootprint': 'OptoDevice:Everlight_ITR1201SR10AR', 'kicadSymbolDatasheet': 'http://www.everlight.com/file/ProductFile/ITR1201SR10AR-TR.pdf', 'kicadSymbolki_keywords': 'Reflective Optical Sensor Opto reflex coupler', 'kicadSymbolki_description': 'Miniature Reflective Optical Object Sensor, SMD-4', 'kicadSymbolki_fp_filters': 'Everlight*ITR1201SR10AR*'}]|
 ||||

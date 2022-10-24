@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O10X-67-R610XA|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O10X-67-R610XA|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO1X67R61XA|
-|Name|name|RESE-0603-X-O10X-67-R610XA|
+|name|name|RESE-0603-X-O10X-67-R610XA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O10X-67-R610XA', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O10X-67-R610XA', 'kicadSymbolDatasheet': 'oom.lt/R610XA', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R610XA;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

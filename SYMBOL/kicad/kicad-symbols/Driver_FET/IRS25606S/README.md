@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRS25606S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-IRS25606S|
 |Hex ID (short code)|hexID|SZKDRIVERFETIRS2566S|
-|Name|name|IRS25606S|
+|name|name|IRS25606S|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IR25604S', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IRS25606S', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/ir25606.pdf?fileId=5546d462533600a4015355ca002316f3', 'kicadSymbolki_keywords': 'Gate Driver', 'kicadSymbolki_description': 'Half-Bridge Driver, 600V, 200/350mA, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

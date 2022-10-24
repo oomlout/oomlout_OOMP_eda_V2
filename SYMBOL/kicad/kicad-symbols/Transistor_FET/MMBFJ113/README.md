@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MMBFJ113|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-MMBFJ113|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBFJ113|
-|Name|name|MMBFJ113|
+|name|name|MMBFJ113|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSR56', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'MMBFJ113', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MMBFJ113-D.PDF', 'kicadSymbolki_keywords': 'N-Channel FET Transistor', 'kicadSymbolki_description': '2mA min, 35V, 100mOhm max, 0.5-3V Vgs(off), N-Channel JFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SYM_Radio_Waves_Small|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Graphic-SYM_Radio_Waves_Small|
 |Hex ID (short code)|hexID|SZKGRAPHICSYMRADIOWAVESSLL|
-|Name|name|SYM_Radio_Waves_Small|
+|name|name|SYM_Radio_Waves_Small|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#SYM', 'kicadSymbolValue': 'SYM_Radio_Waves_Small', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'symbol logo radio waves warning radiation', 'kicadSymbolki_description': 'Radio waves warning symbol, small'}]|
 ||||

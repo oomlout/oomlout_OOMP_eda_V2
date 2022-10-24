@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|7491|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx_IEEE-7491|
 |Hex ID (short code)|hexID|SZK74XXIEEE7491|
-|Name|name|7491|
+|name|name|7491|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '7491', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

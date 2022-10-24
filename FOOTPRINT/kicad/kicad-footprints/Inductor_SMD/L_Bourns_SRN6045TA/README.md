@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Bourns_SRN6045TA|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRN6045TA|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLBOURNSSRN645TA|
-|Name|name|Inductor_SMD : L_Bourns_SRN6045TA|
+|name|name|Inductor_SMD : L_Bourns_SRN6045TA|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Bourns_SRN6045TA', 'description': 'http://www.bourns.com/docs/product-datasheets/srn6045ta.pdf', 'tags': 'Semi-shielded Power Inductor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns_SRN6045TA.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns_SRN6045TA/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns_SRN6045TA/kicadPcb3d_450.png

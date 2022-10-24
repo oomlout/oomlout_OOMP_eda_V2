@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|SPF5189Z|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Amplifier-SPF5189Z|
 |Hex ID (short code)|hexID|SZKRFAMPLIFIERSPF5189Z|
-|Name|name|SPF5189Z|
+|name|name|SPF5189Z|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SPF5189Z', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-89-3', 'kicadSymbolDatasheet': 'www.qorvo.com/products/d/da001910', 'kicadSymbolki_keywords': 'RF GAIN BLOCK', 'kicadSymbolki_description': '50MHz to 4000MHz, GaAs pHEMT low noise MMIC amplifier, SOT-89', 'kicadSymbolki_fp_filters': 'SOT?89*'}]|
 ||||

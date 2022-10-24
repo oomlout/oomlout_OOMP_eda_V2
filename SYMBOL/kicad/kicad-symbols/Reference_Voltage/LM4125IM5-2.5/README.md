@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM4125IM5-2.5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4125IM5-2.5|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGELM4125IM525|
-|Name|name|LM4125IM5-2.5|
+|name|name|LM4125IM5-2.5|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM4125AIM5-2.5', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM4125IM5-2.5', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm4125.pdf', 'kicadSymbolki_keywords': 'Precision Micropower Low Dropout Voltage Reference 2.5V', 'kicadSymbolki_description': '2.5V ±0.5% Precision Micropower Low Dropout Voltage Reference, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

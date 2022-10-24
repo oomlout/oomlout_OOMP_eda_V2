@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HD63484_PLCC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Video-HD63484_PLCC|
 |Hex ID (short code)|hexID|SZKVIDEOHD63484PLCC|
-|Name|name|HD63484_PLCC|
+|name|name|HD63484_PLCC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HD63484_PLCC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

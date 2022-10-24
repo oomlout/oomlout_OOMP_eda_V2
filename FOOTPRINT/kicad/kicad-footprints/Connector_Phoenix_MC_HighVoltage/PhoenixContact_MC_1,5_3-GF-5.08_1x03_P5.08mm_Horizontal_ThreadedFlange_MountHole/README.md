@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PhoenixContact_MC_1,5_3-GF-5.08_1x03_P5.08mm_Horizontal_ThreadedFlange_MountHole|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC_HighVoltage-PhoenixContact_MC_1,5_3-GF-5.08_1x03_P5.08mm_Horizontal_ThreadedFlange_MountHole|
 |Hex ID (short code)|hexID|FZKCNPHOENIXMCHIGHVOLTAGEPHOENIXCONTACTMC153GF581X3P58HORIZONTALTHREADEDFLANGEMOUNTHOLE|
-|Name|name|Connector_Phoenix_MC_HighVoltage : PhoenixContact_MC_1,5_3-GF-5.08_1x03_P5.08mm_Horizontal_ThreadedFlange_MountHole|
+|name|name|Connector_Phoenix_MC_HighVoltage : PhoenixContact_MC_1,5_3-GF-5.08_1x03_P5.08mm_Horizontal_ThreadedFlange_MountHole|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PhoenixContact_MC_1,5_3-GF-5.08_1x03_P5.08mm_Horizontal_ThreadedFlange_MountHole', 'description': 'Generic Phoenix Contact connector footprint for: MC_1,5/3-GF-5.08; number of pins: 03; pin pitch: 5.08mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x4.5 C or ISO 7049-ST 2.2x4.5 C (http://www.fasteners.eu/standards/ISO/7049/) \|\| order number: 1847479 8A 320V', 'tags': 'phoenix_contact connector MC_01x03_GF_5.08mm_MH', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MC_HighVoltage.3dshapes/PhoenixContact_MC_1,5_3-GF-5.08_1x03_P5.08mm_Horizontal_ThreadedFlange_MountHole.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_3-GF-5.08_1x03_P5.08mm_Horizontal_ThreadedFlange_MountHole/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_3-GF-5.08_1x03_P5.08mm_Horizontal_ThreadedFlange_MountHole/kicadPcb3d_450.png

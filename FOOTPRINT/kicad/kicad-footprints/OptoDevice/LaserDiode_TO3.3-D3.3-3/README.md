@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LaserDiode_TO3.3-D3.3-3|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-LaserDiode_TO3.3-D3.3-3|
 |Hex ID (short code)|hexID|FZKOPLASERDIODETO33D333|
-|Name|name|OptoDevice : LaserDiode_TO3.3-D3.3-3|
+|name|name|OptoDevice : LaserDiode_TO3.3-D3.3-3|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LaserDiode_TO3.3-D3.3-3', 'description': 'Laser Diode, TO-3.3mm, 3pin', 'tags': 'Laser Diode TO3.3', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/LaserDiode_TO3.3-D3.3-3.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/LaserDiode_TO3.3-D3.3-3/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/LaserDiode_TO3.3-D3.3-3/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS7A7200RGW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7A7200RGW|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTPS7A72RGW|
-|Name|name|TPS7A7200RGW|
+|name|name|TPS7A7200RGW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS7A7200RGW', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PVQFN-N20_EP3.15x3.15mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps7a7200.pdf', 'kicadSymbolki_keywords': 'linear regulator ldo voltage', 'kicadSymbolki_description': '2A, Low-Dropout Voltage Regulator, 1.5-6.5V Input, Adjustable 0.9-5V Output, VQFN-20', 'kicadSymbolki_fp_filters': 'Texas*S?PVQFN*'}]|
 ||||

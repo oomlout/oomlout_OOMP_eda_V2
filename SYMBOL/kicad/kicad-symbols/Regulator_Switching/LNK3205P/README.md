@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LNK3205P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK3205P|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK325P|
-|Name|name|LNK3205P|
+|name|name|LNK3205P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LNK3202P', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LNK3205P', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_PDIP-8C', 'kicadSymbolDatasheet': 'https://ac-dc.power.com/sites/default/files/product-docs/LinkSwitch-TN2_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Lowest Component Count, Energy-Efficient Off-Line Switcher IC', 'kicadSymbolki_description': 'LinkSwitch-TN Family, 270mA Output Current, DIP-8C', 'kicadSymbolki_fp_filters': 'PowerIntegrations?PDIP?8C*'}]|
 ||||

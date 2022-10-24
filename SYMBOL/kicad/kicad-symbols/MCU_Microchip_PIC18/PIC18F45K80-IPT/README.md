@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC18F45K80-IPT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F45K80-IPT|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC18PIC18F45K8IPT|
-|Name|name|PIC18F45K80-IPT|
+|name|name|PIC18F45K80-IPT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18F45K80-IPT', 'kicadSymbolFootprint': 'Package_QFP:TQFP-44_10x10mm_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/39977f.pdf', 'kicadSymbolki_keywords': 'microcontroller Flash EEPROM SPI I2C CAN UART USART ADC TQFP', 'kicadSymbolki_description': '32K Flash, 3.5K RAM, 1K EEPROM, Microchip PIC18F series enhanced flash microcontroller with ECAN and nanoWatt XLP Technology in TQFP-44 package', 'kicadSymbolki_fp_filters': 'TQFP*10x10mm*P0.8mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74AHCT374|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74AHCT374|
 |Hex ID (short code)|hexID|SZK74XX74AHCT374|
-|Name|name|74AHCT374|
+|name|name|74AHCT374|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LS374', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AHCT374', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT374.pdf', 'kicadSymbolki_keywords': 'AHCTMOS DFF DFF8 REG 3State', 'kicadSymbolki_description': '8-bit Register, 3-state outputs', 'kicadSymbolki_fp_filters': 'DIP?20* SOIC?20* SO?20*'}]|
 ||||

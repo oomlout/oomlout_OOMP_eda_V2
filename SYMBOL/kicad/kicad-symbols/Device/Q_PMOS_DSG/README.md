@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Q_PMOS_DSG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Q_PMOS_DSG|
 |Hex ID (short code)|hexID|SZKDEVICEQPMOSDSG|
-|Name|name|Q_PMOS_DSG|
+|name|name|Q_PMOS_DSG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Q_PMOS_DSG', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'transistor PMOS P-MOS P-MOSFET', 'kicadSymbolki_description': 'P-MOSFET transistor, drain/source/gate'}]|
 ||||

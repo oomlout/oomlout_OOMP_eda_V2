@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADCMP350|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Comparator-ADCMP350|
 |Hex ID (short code)|hexID|SZKCOMPARATORADCMP35|
-|Name|name|ADCMP350|
+|name|name|ADCMP350|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADCMP350', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:Analog_KS-4', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADCMP350_354_356.pdf', 'kicadSymbolki_keywords': 'cmp collector', 'kicadSymbolki_description': 'Single-input comparator, internal 0.6V reference, Active-Low Open-Drain output, KS-4', 'kicadSymbolki_fp_filters': 'Analog*KS?4*'}]|
 ||||

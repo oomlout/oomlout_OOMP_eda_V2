@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Symbol_GNU-GPL_CopperTop_Big|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_GNU-GPL_CopperTop_Big|
 |Hex ID (short code)|hexID|FZKSZSYGNUGPLCTOPBIG|
-|Name|name|Symbol : Symbol_GNU-GPL_CopperTop_Big|
+|name|name|Symbol : Symbol_GNU-GPL_CopperTop_Big|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Symbol_GNU-GPL_CopperTop_Big', 'description': 'Symbol, GNU-GPL, Copper Top, Big,', 'tags': 'Symbol, GNU-GPL, Copper Top, Big,', 'attributeType': None, 'pins': {}}|
 ||||

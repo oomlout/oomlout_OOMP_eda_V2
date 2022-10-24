@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Shockley|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Shockley|
 |Hex ID (short code)|hexID|SZKDEVICEDSHOCKLEY|
-|Name|name|D_Shockley|
+|name|name|D_Shockley|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Shockley', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'Shockley diode PNPN', 'kicadSymbolki_description': 'Shockley (PNPN) diode', 'kicadSymbolki_fp_filters': 'TO-???* *_Diode_* *SingleDiode* D_*'}]|
 ||||

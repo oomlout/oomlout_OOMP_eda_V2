@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|USB3_B_Micro|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-USB3_B_Micro|
 |Hex ID (short code)|hexID|SZKCNU3BM|
-|Name|name|USB3_B_Micro|
+|name|name|USB3_B_Micro|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'USB3_B_Micro', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'usb universal serial bus', 'kicadSymbolki_description': 'USB 3.0 Micro-B connector'}]|
 ||||

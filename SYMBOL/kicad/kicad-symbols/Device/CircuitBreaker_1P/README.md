@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CircuitBreaker_1P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-CircuitBreaker_1P|
 |Hex ID (short code)|hexID|SZKDEVICECIRCUITBREAKER1P|
-|Name|name|CircuitBreaker_1P|
+|name|name|CircuitBreaker_1P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'CB', 'kicadSymbolValue': 'CircuitBreaker_1P', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'CB', 'kicadSymbolki_description': 'Single pole circuit breaker'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MP2303ADP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-MP2303ADP|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGMP233ADP|
-|Name|name|MP2303ADP|
+|name|name|MP2303ADP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MP2303ADP', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://www.monolithicpower.com/pub/media/document/MP2303A_r1.1.pdf', 'kicadSymbolki_keywords': 'buck converter step down', 'kicadSymbolki_description': 'Synchronous Rectified 3A, 28V, 360kHz Step-Down Converter, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

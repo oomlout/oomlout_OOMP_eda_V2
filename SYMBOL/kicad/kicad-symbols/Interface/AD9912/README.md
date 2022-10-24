@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD9912|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-AD9912|
 |Hex ID (short code)|hexID|SZKINTERFACEAD9912|
-|Name|name|AD9912|
+|name|name|AD9912|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD9912', 'kicadSymbolFootprint': 'Package_CSP:LFCSP-64-1EP_9x9mm_P0.5mm_EP5.21x5.21mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ad9912.pdf', 'kicadSymbolki_keywords': 'Direct Digital Synthesizer DDS', 'kicadSymbolki_description': '1 GSPS, 14-bit DAC, Direct Digital Synthesizer, LFCSP-64', 'kicadSymbolki_fp_filters': 'LFCSP*1EP*9x9mm*P0.5mm*'}]|
 ||||

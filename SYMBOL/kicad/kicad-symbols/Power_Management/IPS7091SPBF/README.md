@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IPS7091SPBF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-IPS7091SPBF|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTIPS791SPBF|
-|Name|name|IPS7091SPBF|
+|name|name|IPS7091SPBF|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IPS7091SPBF', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-5_TabPin3', 'kicadSymbolDatasheet': 'http://www.irf.com/product-info/datasheets/data/ips7091.pdf', 'kicadSymbolki_keywords': 'Intelligent Power Switch High Side MOSFET', 'kicadSymbolki_description': '70V, 5A, Intelligent Power Switch High Side, D2-PAK 5pin', 'kicadSymbolki_fp_filters': 'TO?263*'}]|
 ||||

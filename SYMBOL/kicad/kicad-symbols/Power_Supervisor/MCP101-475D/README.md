@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP101-475D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP101-475D|
 |Hex ID (short code)|hexID|SZKPOWERSUPERVISORMCP11475D|
-|Name|name|MCP101-475D|
+|name|name|MCP101-475D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP101-270D', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP101-475D', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/11187f.pdf', 'kicadSymbolki_keywords': 'supervisor reset push-pull', 'kicadSymbolki_description': 'Microcontroller reset monitor, 4.75V threshold, active high output', 'kicadSymbolki_fp_filters': 'SOT?23* TO?92*'}]|
 ||||

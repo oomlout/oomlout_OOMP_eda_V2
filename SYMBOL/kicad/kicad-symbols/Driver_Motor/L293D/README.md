@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L293D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-L293D|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORL293D|
-|Name|name|L293D|
+|name|name|L293D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'L293', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'L293D', 'kicadSymbolFootprint': 'Package_DIP:DIP-16_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/l293.pdf', 'kicadSymbolki_keywords': 'Half-H Driver Motor', 'kicadSymbolki_description': 'Quadruple Half-H Drivers', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS73601DBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS73601DBV|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTPS7361DBV|
-|Name|name|TPS73601DBV|
+|name|name|TPS73601DBV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS73601DBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps736.pdf', 'kicadSymbolki_keywords': 'Cap free Adjustable LDO 400mA', 'kicadSymbolki_description': 'Cap free NMOS 400mA Low Drop Adjustable Out Regulator, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

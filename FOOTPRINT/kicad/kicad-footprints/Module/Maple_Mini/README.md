@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Maple_Mini|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Module-Maple_Mini|
 |Hex ID (short code)|hexID|FZKMOMAPLEM|
-|Name|name|Module : Maple_Mini|
+|name|name|Module : Maple_Mini|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Maple_Mini', 'description': 'Maple Mini, http://docs.leaflabs.com/static.leaflabs.com/pub/leaflabs/maple-docs/0.0.12/hardware/maple-mini.html', 'tags': 'Maple Mini', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Module.3dshapes/Maple_Mini.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/Maple_Mini/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Module/Maple_Mini/kicadPcb3d_450.png

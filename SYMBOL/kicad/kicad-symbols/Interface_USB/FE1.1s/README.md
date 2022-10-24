@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FE1.1s|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-FE1.1s|
 |Hex ID (short code)|hexID|SZKINTERFACEUFE11S|
-|Name|name|FE1.1s|
+|name|name|FE1.1s|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FE1.1s', 'kicadSymbolFootprint': 'Package_SO:SSOP-28_3.9x9.9mm_P0.635mm', 'kicadSymbolDatasheet': 'https://cdn-shop.adafruit.com/product-files/2991/FE1.1s+Data+Sheet+(Rev.+1.0).pdf', 'kicadSymbolki_keywords': '4-Port, EEPROM, High Speed, Hub, USB2.0', 'kicadSymbolki_description': 'USB 2.0 High Speed 4-Port Hub Controller, SSOP-28', 'kicadSymbolki_fp_filters': 'SSOP*3.9x9.9mm*P0.635mm*'}]|
 ||||

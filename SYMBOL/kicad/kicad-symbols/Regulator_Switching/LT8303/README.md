@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT8303|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT8303|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLT833|
-|Name|name|LT8303|
+|name|name|LT8303|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT8303', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-5', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/8303fa.pdf', 'kicadSymbolki_keywords': 'Flyback switcher', 'kicadSymbolki_description': '100VIN Micropower Isolated Flyback Converter with 150V/450mA Switch, TSOT-23-5', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
 ||||

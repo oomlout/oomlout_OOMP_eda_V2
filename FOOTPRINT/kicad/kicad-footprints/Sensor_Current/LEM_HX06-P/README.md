@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LEM_HX06-P|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_HX06-P|
 |Hex ID (short code)|hexID|FZKSENCURRENTLEMHX6P|
-|Name|name|Sensor_Current : LEM_HX06-P|
+|name|name|Sensor_Current : LEM_HX06-P|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LEM_HX06-P', 'description': 'LEM HX06-P hall effect current transducer (https://www.lem.com/sites/default/files/products_datasheets/hx%202_6-p_e%20v5.pdf)', 'tags': 'hall current', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/LEM_HX06-P.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

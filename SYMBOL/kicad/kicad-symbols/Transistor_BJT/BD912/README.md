@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BD912|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD912|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBD912|
-|Name|name|BD912|
+|name|name|BD912|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BD910', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BD912', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00001277.pdf', 'kicadSymbolki_keywords': 'Power PNP Transistor', 'kicadSymbolki_description': 'BD910, 15A, Silicon Power PNP Transistors, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

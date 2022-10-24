@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Rotary_Encoder-RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles|
 |Hex ID (short code)|hexID|FZKREROTARYENCODERALPSEC12EVERTICALH2CIRCULARHOLS|
-|Name|name|Rotary_Encoder : RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles|
+|name|name|Rotary_Encoder : RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles', 'description': 'Alps rotary encoder, EC12E..., vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC12E/EC12E1240405.html', 'tags': 'rotary encoder', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

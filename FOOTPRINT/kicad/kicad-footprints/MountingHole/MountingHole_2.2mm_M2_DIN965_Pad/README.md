@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MountingHole_2.2mm_M2_DIN965_Pad|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.2mm_M2_DIN965_Pad|
 |Hex ID (short code)|hexID|FZKHOLHOL22M2DIN965PAD|
-|Name|name|MountingHole : MountingHole_2.2mm_M2_DIN965_Pad|
+|name|name|MountingHole : MountingHole_2.2mm_M2_DIN965_Pad|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_2.2mm_M2_DIN965_Pad', 'description': 'Mounting Hole 2.2mm, M2, DIN965', 'tags': 'mounting hole 2.2mm m2 din965', 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_2.2mm_M2_DIN965_Pad/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_2.2mm_M2_DIN965_Pad/kicadPcb3d_450.png

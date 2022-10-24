@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|R_LDR_D13.8mm_P9.0mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_D13.8mm_P9.0mm_Vertical|
 |Hex ID (short code)|hexID|FZKOPRLDRD138P9VERTICAL|
-|Name|name|OptoDevice : R_LDR_D13.8mm_P9.0mm_Vertical|
+|name|name|OptoDevice : R_LDR_D13.8mm_P9.0mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'R_LDR_D13.8mm_P9.0mm_Vertical', 'description': 'Resistor, diameter 13.8mm pitch 9mm, see http://yourduino.com/docs/Photoresistor-5516-datasheet.pdf', 'tags': 'Resistor LDR ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/R_LDR_D13.8mm_P9.0mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/R_LDR_D13.8mm_P9.0mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/R_LDR_D13.8mm_P9.0mm_Vertical/kicadPcb3d_450.png

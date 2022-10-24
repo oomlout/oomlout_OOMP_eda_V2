@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS10|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS10|
 |Hex ID (short code)|hexID|SZK74XX74LS1|
-|Name|name|74LS10|
+|name|name|74LS10|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS10', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS10', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL Nand3', 'kicadSymbolki_description': 'Triple 3-input NAND', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

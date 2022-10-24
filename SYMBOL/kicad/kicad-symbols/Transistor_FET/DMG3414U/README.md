@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DMG3414U|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG3414U|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETDMG3414U|
-|Name|name|DMG3414U|
+|name|name|DMG3414U|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSS138', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DMG3414U', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.diodes.com/assets/Datasheets/ds31739.pdf', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '4.2A Id, 20V Vds, N-Channel MOSFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AudioPlug2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-AudioPlug2|
 |Hex ID (short code)|hexID|SZKCNAUDIOPLUG2|
-|Name|name|AudioPlug2|
+|name|name|AudioPlug2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'AudioPlug2', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'audio jack plug stereo headphones TRRS connector 2.5mm 3.5mm 6.35mm', 'kicadSymbolki_description': 'Audio Jack, 2 Poles (Mono / TS)', 'kicadSymbolki_fp_filters': 'Plug*'}]|
 ||||

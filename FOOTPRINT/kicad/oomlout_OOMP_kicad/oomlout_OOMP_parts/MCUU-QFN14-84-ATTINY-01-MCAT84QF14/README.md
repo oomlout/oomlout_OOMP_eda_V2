@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|MCUU-QFN14-84-ATTINY-01-MCAT84QF14|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-MCUU-QFN14-84-ATTINY-01-MCAT84QF14|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSMCUUQFN1484ATTINY1MCAT84QF14|
-|Name|name|oomlout_OOMP_parts : MCUU-QFN14-84-ATTINY-01-MCAT84QF14|
+|name|name|oomlout_OOMP_parts : MCUU-QFN14-84-ATTINY-01-MCAT84QF14|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MCUU-QFN14-84-ATTINY-01-MCAT84QF14', 'description': 'hexID: MCAT84QF14; QFN, 20 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/doc2535.pdf#page=164), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||

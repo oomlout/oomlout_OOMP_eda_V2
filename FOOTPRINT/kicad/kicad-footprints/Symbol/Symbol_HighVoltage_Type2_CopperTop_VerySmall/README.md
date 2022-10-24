@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Symbol_HighVoltage_Type2_CopperTop_VerySmall|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_HighVoltage_Type2_CopperTop_VerySmall|
 |Hex ID (short code)|hexID|FZKSZSYHIGHVOLTAGETYPE2CTOPVERYSLL|
-|Name|name|Symbol : Symbol_HighVoltage_Type2_CopperTop_VerySmall|
+|name|name|Symbol : Symbol_HighVoltage_Type2_CopperTop_VerySmall|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Symbol_HighVoltage_Type2_CopperTop_VerySmall', 'description': 'Symbol, High Voltage, Type 2, Copper Top, Very Small,', 'tags': 'Symbol, High Voltage, Type 2, Copper Top, Very Small,', 'attributeType': None, 'pins': {}}|
 ||||

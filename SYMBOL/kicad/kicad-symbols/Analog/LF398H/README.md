@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LF398H|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog-LF398H|
 |Hex ID (short code)|hexID|SZKANALOGLF398H|
-|Name|name|LF398H|
+|name|name|LF398H|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LF398H', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-99-8', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lf398-n.pdf', 'kicadSymbolki_keywords': 'sample hold buffer unity gain', 'kicadSymbolki_description': 'Sample And Hold Unity Gain Follower, TO-99-8', 'kicadSymbolki_fp_filters': '*TO*99*'}]|
 ||||

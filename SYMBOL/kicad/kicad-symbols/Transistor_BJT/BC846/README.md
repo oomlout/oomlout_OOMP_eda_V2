@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BC846|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC846|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBC846|
-|Name|name|BC846|
+|name|name|BC846|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BC817', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC846', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BC846_SER.pdf', 'kicadSymbolki_keywords': 'NPN Transistor', 'kicadSymbolki_description': '0.1A Ic, 65V Vce, NPN Transistor, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

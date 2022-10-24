@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SSOP-10_3.9x4.9mm_P1.00mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-10_3.9x4.9mm_P1.00mm|
 |Hex ID (short code)|hexID|FZKSOSS139X49P1|
-|Name|name|Package_SO : SSOP-10_3.9x4.9mm_P1.00mm|
+|name|name|Package_SO : SSOP-10_3.9x4.9mm_P1.00mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SSOP-10_3.9x4.9mm_P1.00mm', 'description': '10-Lead SSOP, 3.9 x 4.9mm body, 1.00mm pitch (http://www.st.com/resource/en/datasheet/viper01.pdf)', 'tags': 'SSOP 3.9 4.9 1.00', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SSOP-10_3.9x4.9mm_P1.00mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSOP-10_3.9x4.9mm_P1.00mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/SSOP-10_3.9x4.9mm_P1.00mm/kicadPcb3d_450.png

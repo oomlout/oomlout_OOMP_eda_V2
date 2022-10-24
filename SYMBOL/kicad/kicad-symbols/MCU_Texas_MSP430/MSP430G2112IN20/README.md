@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MSP430G2112IN20|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2112IN20|
 |Hex ID (short code)|hexID|SZKMCUTEXASMSP43MSP43G2112IN2|
-|Name|name|MSP430G2112IN20|
+|name|name|MSP430G2112IN20|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MSP430G2112IN20', 'kicadSymbolFootprint': 'Package_DIP:DIP-20_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/msp430g2112.pdf', 'kicadSymbolki_keywords': 'TI MSP430 16-bit mixed signal microcontroller', 'kicadSymbolki_description': '1kB Flash, 128B RAM, DIP-20', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

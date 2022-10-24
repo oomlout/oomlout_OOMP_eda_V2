@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RJ14|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-RJ14|
 |Hex ID (short code)|hexID|SZKCNRJ14|
-|Name|name|RJ14|
+|name|name|RJ14|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '6P4C', 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'RJ14', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': '6P4C RJ female connector', 'kicadSymbolki_description': 'RJ connector, 6P4C (6 positions 4 connected)', 'kicadSymbolki_fp_filters': '6P4C* RJ13* RJ14*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ECC88|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Valve-ECC88|
 |Hex ID (short code)|hexID|SZKVAECC88|
-|Name|name|ECC88|
+|name|name|ECC88|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ECC88', 'kicadSymbolFootprint': 'Valve:Valve_Noval_P', 'kicadSymbolDatasheet': 'http://www.r-type.org/pdfs/ecc88.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'triode valve', 'kicadSymbolki_description': 'double triode, low-noise', 'kicadSymbolki_fp_filters': 'VALVE*NOVAL*P*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Johanson_2450AT18x100|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Johanson_2450AT18x100|
 |Hex ID (short code)|hexID|FZKRFJOHANSON245AT18X1|
-|Name|name|RF_Antenna : Johanson_2450AT18x100|
+|name|name|RF_Antenna : Johanson_2450AT18x100|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Johanson_2450AT18x100', 'description': 'Johanson 2450AT43F0100 SMD antenna 2400-2500Mhz, -0.5dBi, https://www.johansontechnology.com/datasheets/2450AT18A100/2450AT18A100.pdf', 'tags': 'antenna', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Antenna.3dshapes/Johanson_2450AT18x100.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||

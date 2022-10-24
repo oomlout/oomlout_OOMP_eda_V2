@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O902-01-R6O902-C23018|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O902-01-R6O902-C23018|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE63XO921R6O92C2318|
-|Name|name|RESE-0603-X-O902-01-R6O902-C23018|
+|name|name|RESE-0603-X-O902-01-R6O902-C23018|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O902-01-R6O902-C23018', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O902-01-R6O902-C23018', 'kicadSymbolDatasheet': 'oom.lt/R6O902', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6O902;PARTL C-JLCC;C23018;MANUF C-XXXX;0603WAF3901T5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

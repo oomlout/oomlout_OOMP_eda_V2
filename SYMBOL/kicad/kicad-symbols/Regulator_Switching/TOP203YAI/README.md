@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TOP203YAI|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP203YAI|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTOP23YAI|
-|Name|name|TOP203YAI|
+|name|name|TOP203YAI|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TOP200YAI', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TOP203YAI', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/top200-204214.pdf', 'kicadSymbolki_keywords': 'Three-terminal Off-line PWM Switch', 'kicadSymbolki_description': 'TOPSwitch Family, 35W Max Output Power, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

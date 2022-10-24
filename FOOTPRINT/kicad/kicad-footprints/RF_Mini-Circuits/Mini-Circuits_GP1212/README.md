@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Mini-Circuits_GP1212|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_GP1212|
 |Hex ID (short code)|hexID|FZKRFMCIRCUITSGP1212|
-|Name|name|RF_Mini-Circuits : Mini-Circuits_GP1212|
+|name|name|RF_Mini-Circuits : Mini-Circuits_GP1212|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Mini-Circuits_GP1212', 'description': 'Footprint for Mini-Circuits case GP1212 (https://ww2.minicircuits.com/case_style/GP731.pdf)', 'tags': 'mini-circuits GP1212', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_GP1212.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

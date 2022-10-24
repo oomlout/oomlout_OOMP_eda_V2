@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|R_Array_SIP4|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Array_SIP4|
 |Hex ID (short code)|hexID|FZKRRARRAYSIP4|
-|Name|name|Resistor_THT : R_Array_SIP4|
+|name|name|Resistor_THT : R_Array_SIP4|
 |Footprint Kicad|footprintKicadDetails|{'name': 'R_Array_SIP4', 'description': '4-pin Resistor SIP pack', 'tags': 'R', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Array_SIP4.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Array_SIP4/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Array_SIP4/kicadPcb3d_450.png

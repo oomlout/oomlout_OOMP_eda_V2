@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Polarity_Center_Negative_20mm_SilkScreen|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-Polarity_Center_Negative_20mm_SilkScreen|
 |Hex ID (short code)|hexID|FZKSZPOLARITYCENTERNEGATIVE2SILKSCREEN|
-|Name|name|Symbol : Polarity_Center_Negative_20mm_SilkScreen|
+|name|name|Symbol : Polarity_Center_Negative_20mm_SilkScreen|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Polarity_Center_Negative_20mm_SilkScreen', 'description': 'Polarity Logo, Center Negative', 'tags': 'Logo Polarity Center Negative', 'attributeType': None, 'pins': {}}|
 ||||

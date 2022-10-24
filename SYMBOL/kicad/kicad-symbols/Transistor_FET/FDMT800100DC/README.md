@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FDMT800100DC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMT800100DC|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETFDMT81DC|
-|Name|name|FDMT800100DC|
+|name|name|FDMT800100DC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'FDMT80060DC', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FDMT800100DC', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:PQFN_8x8', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FDMT800100DC-D.pdf', 'kicadSymbolki_keywords': 'dual-cool-powertrench MOSFET fairchild', 'kicadSymbolki_description': '24A Id, 100V Vds, N-Channel Dual Cool PowerTrench MOSFET, 2.95mOhm Ron, 111nC Qgmax, -55 to 150 °C, 8x8mm MLP', 'kicadSymbolki_fp_filters': 'PQFN*8x8*'}]|
 ||||

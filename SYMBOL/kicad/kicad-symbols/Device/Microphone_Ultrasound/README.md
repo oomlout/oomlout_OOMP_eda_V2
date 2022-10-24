@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Microphone_Ultrasound|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Microphone_Ultrasound|
 |Hex ID (short code)|hexID|SZKDEVICEMPHONEULTRASOUND|
-|Name|name|Microphone_Ultrasound|
+|name|name|Microphone_Ultrasound|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'Microphone_Crystal', 'kicadSymbolReference': 'MK', 'kicadSymbolValue': 'Microphone_Ultrasound', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'microphone ultrasound crystal', 'kicadSymbolki_description': 'Ultrasound receiver'}]|
 ||||

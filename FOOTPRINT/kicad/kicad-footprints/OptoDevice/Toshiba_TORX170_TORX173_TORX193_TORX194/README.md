@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Toshiba_TORX170_TORX173_TORX193_TORX194|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Toshiba_TORX170_TORX173_TORX193_TORX194|
 |Hex ID (short code)|hexID|FZKOPTOSHIBATORX17TORX173TORX193TORX194|
-|Name|name|OptoDevice : Toshiba_TORX170_TORX173_TORX193_TORX194|
+|name|name|OptoDevice : Toshiba_TORX170_TORX173_TORX193_TORX194|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Toshiba_TORX170_TORX173_TORX193_TORX194', 'description': 'Fiberoptic Reciver, RX, Toshiba, Toslink, TORX170, TORX173, TORX193, TORX194', 'tags': 'Fiberoptic Reciver RX Toshiba Toslink TORX170 TORX173 TORX193 TORX194', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Toshiba_TORX170_TORX173_TORX193_TORX194.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Toshiba_TORX170_TORX173_TORX193_TORX194/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/Toshiba_TORX170_TORX173_TORX193_TORX194/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TFT660|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-TFT660|
 |Hex ID (short code)|hexID|SZKOCSTFT66|
-|Name|name|TFT660|
+|name|name|TFT660|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CXO_DIP8', 'kicadSymbolReference': 'X', 'kicadSymbolValue': 'TFT660', 'kicadSymbolFootprint': 'Oscillator:Oscillator_DIP-8', 'kicadSymbolDatasheet': 'http://cdn-reichelt.de/documents/datenblatt/B400/OSZI.pdf', 'kicadSymbolki_keywords': 'Crystal Clock Oscillator', 'kicadSymbolki_description': 'Crystal Clock Oscillator, DIP8-style metal package', 'kicadSymbolki_fp_filters': 'Oscillator*DIP*8*'}]|
 ||||

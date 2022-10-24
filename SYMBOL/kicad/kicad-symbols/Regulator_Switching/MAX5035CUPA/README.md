@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX5035CUPA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX5035CUPA|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGMAX535CUPA|
-|Name|name|MAX5035CUPA|
+|name|name|MAX5035CUPA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX5035AUPA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX5035CUPA', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/MAX5035.pdf', 'kicadSymbolki_keywords': '12V 1A Step-Down Converter 76V', 'kicadSymbolki_description': '1A, High-Efficiency Step-Down DC-DC Converter, 12V fixed output voltage, Vin 76V, PDIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

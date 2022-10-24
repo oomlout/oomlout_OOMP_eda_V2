@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|P0544NL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-P0544NL|
 |Hex ID (short code)|hexID|SZKTRP544NL|
-|Name|name|P0544NL|
+|name|name|P0544NL|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PA2002NL', 'kicadSymbolReference': 'T', 'kicadSymbolValue': 'P0544NL', 'kicadSymbolFootprint': 'Transformer_SMD:Pulse_PA2002NL-PA2008NL-PA2009NL', 'kicadSymbolDatasheet': 'https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf', 'kicadSymbolki_keywords': 'pulse', 'kicadSymbolki_description': 'SMT Gate Drive Transformer, 1:1:1', 'kicadSymbolki_fp_filters': 'Pulse*PA2002NL*PA2008NL*PA2009NL*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EA_eDIP320J-8LATP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIP320J-8LATP|
 |Hex ID (short code)|hexID|SZKDIGRAPHICEAEDIP32J8LATP|
-|Name|name|EA_eDIP320J-8LATP|
+|name|name|EA_eDIP320J-8LATP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'EA_eDIP320B-8LW', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EA_eDIP320J-8LATP', 'kicadSymbolFootprint': 'Display:EA_eDIP320X-XXX', 'kicadSymbolDatasheet': 'http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip320-8e.pdf', 'kicadSymbolki_keywords': 'display LCD graphic', 'kicadSymbolki_description': 'LCD graphical display 320x240 amber LED backlight with touch panel blue positive mode FSTN, +5V VDD, RS-232, I2C or SPI', 'kicadSymbolki_fp_filters': '*EA*eDIP320*'}]|
 ||||

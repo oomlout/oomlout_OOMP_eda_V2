@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CH376T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-CH376T|
 |Hex ID (short code)|hexID|SZKINTERFACECH376T|
-|Name|name|CH376T|
+|name|name|CH376T|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CH376T', 'kicadSymbolFootprint': 'Package_SO:SSOP-20_5.3x7.2mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.mpja.com/download/ch376ds1.pdf', 'kicadSymbolki_keywords': 'USB Mass-Storage SD Card Interface', 'kicadSymbolki_description': 'File Management USB Flash Card SD Interface, SSOP-20', 'kicadSymbolki_fp_filters': 'SSOP*5.3x7.2mm*P0.65mm*'}]|
 ||||

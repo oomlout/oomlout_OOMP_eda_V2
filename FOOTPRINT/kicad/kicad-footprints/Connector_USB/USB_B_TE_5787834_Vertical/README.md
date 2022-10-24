@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB_B_TE_5787834_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_B_TE_5787834_Vertical|
 |Hex ID (short code)|hexID|FZKCNUUBTE5787834VERTICAL|
-|Name|name|Connector_USB : USB_B_TE_5787834_Vertical|
+|name|name|Connector_USB : USB_B_TE_5787834_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB_B_TE_5787834_Vertical', 'description': 'http://www.mouser.com/ds/2/418/NG_CD_5787834_A4-669110.pdf', 'tags': 'USB_B USB B vertical female connector', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_B_TE_5787834_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_B_TE_5787834_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_B_TE_5787834_Vertical/kicadPcb3d_450.png

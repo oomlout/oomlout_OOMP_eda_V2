@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_Series_Pad|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_Series_Pad|
 |Hex ID (short code)|hexID|SZKDEVICELSERIESPAD|
-|Name|name|LED_Series_Pad|
+|name|name|LED_Series_Pad|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_Series_Pad', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED diode pad', 'kicadSymbolki_description': 'Several LEDs in series with exposed pad', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

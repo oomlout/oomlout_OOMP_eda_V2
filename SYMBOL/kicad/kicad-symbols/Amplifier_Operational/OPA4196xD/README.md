@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA4196xD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA4196xD|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA4196XD|
-|Name|name|OPA4196xD|
+|name|name|OPA4196xD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'OPA4197xD', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA4196xD', 'kicadSymbolFootprint': 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/opa4196.pdf', 'kicadSymbolki_keywords': 'quad opamp rtor', 'kicadSymbolki_description': 'Quad, Low-Power, Low Offset Voltage, Rail-to-Rail Operational Amplifier, SOIC-14', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RJ45_Amphenol_RJMG1BD3B8K1ANR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-RJ45_Amphenol_RJMG1BD3B8K1ANR|
 |Hex ID (short code)|hexID|SZKCNRJ45AMPHENOLRJMG1BD3B8K1ANR|
-|Name|name|RJ45_Amphenol_RJMG1BD3B8K1ANR|
+|name|name|RJ45_Amphenol_RJMG1BD3B8K1ANR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'RJ45_Amphenol_RJMG1BD3B8K1ANR', 'kicadSymbolFootprint': 'Connector_RJ:RJ45_Amphenol_RJMG1BD3B8K1ANR', 'kicadSymbolDatasheet': 'https://www.amphenolcanada.com/ProductSearch/Drawings/AC/RJMG1BD3B8K1ANR.PDF', 'kicadSymbolki_keywords': 'RJ45 Magjack', 'kicadSymbolki_description': '1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX', 'kicadSymbolki_fp_filters': 'RJ45*Amphenol*RJMG1BD3B8K1ANR*'}]|
 ||||

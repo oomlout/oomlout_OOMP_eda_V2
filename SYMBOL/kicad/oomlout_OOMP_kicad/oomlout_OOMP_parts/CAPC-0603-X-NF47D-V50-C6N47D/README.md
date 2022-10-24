@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0603-X-NF47D-V50-C6N47D|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-NF47D-V50-C6N47D|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XNF47DV5C6N47D|
-|Name|name|CAPC-0603-X-NF47D-V50-C6N47D|
+|name|name|CAPC-0603-X-NF47D-V50-C6N47D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0603-X-NF47D-V50-C6N47D', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0603-X-NF47D-V50-C6N47D', 'kicadSymbolDatasheet': 'oom.lt/C6N47D', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C6N47D;PARTL C-JLCC;C53987;MANUF C-XXXX;0603B472K500NT;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

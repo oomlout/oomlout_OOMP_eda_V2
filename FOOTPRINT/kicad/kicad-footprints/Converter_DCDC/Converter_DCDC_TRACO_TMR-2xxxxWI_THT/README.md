@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Converter_DCDC_TRACO_TMR-2xxxxWI_THT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TMR-2xxxxWI_THT|
 |Hex ID (short code)|hexID|FZKCONCONTRACOTMR2XXXXWITHT|
-|Name|name|Converter_DCDC : Converter_DCDC_TRACO_TMR-2xxxxWI_THT|
+|name|name|Converter_DCDC : Converter_DCDC_TRACO_TMR-2xxxxWI_THT|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_TRACO_TMR-2xxxxWI_THT', 'description': 'https://www.tracopower.com/products/tmr2wi.pdf', 'tags': 'DCDC-Converter TRACO TMRxxxxWI Single/Dual_output', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_TMR-2xxxxWI_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_TRACO_TMR-2xxxxWI_THT/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_TRACO_TMR-2xxxxWI_THT/kicadPcb3d_450.png

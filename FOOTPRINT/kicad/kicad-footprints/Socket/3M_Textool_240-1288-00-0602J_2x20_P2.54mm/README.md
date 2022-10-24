@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|3M_Textool_240-1288-00-0602J_2x20_P2.54mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Socket-3M_Textool_240-1288-00-0602J_2x20_P2.54mm|
 |Hex ID (short code)|hexID|FZKSO3MTEXTOOL24128862J2X2P254|
-|Name|name|Socket : 3M_Textool_240-1288-00-0602J_2x20_P2.54mm|
+|name|name|Socket : 3M_Textool_240-1288-00-0602J_2x20_P2.54mm|
 |Footprint Kicad|footprintKicadDetails|{'name': '3M_Textool_240-1288-00-0602J_2x20_P2.54mm', 'description': '3M 40-pin zero insertion force socket, though-hole, row spacing 25.4 mm (1000 mils)', 'tags': 'THT DIP DIL ZIF 25.4mm 1000mil Socket', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Socket.3dshapes/3M_Textool_240-1288-00-0602J_2x20_P2.54mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

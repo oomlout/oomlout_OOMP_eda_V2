@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DS90LV011A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-DS90LV011A|
 |Hex ID (short code)|hexID|SZKINTERFACEDS9LV11A|
-|Name|name|DS90LV011A|
+|name|name|DS90LV011A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DS90LV011A', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ds90lv011a.pdf', 'kicadSymbolki_keywords': 'LVDS Driver', 'kicadSymbolki_description': 'LVDS Single High Speed Differential Driver, 400Mbps, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

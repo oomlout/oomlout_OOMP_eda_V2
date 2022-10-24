@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Potentiometer_Piher_PT-10-V05_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_PT-10-V05_Vertical|
 |Hex ID (short code)|hexID|FZKPPOTENTIOMETERPIHERPT1V5VERTICAL|
-|Name|name|Potentiometer_THT : Potentiometer_Piher_PT-10-V05_Vertical|
+|name|name|Potentiometer_THT : Potentiometer_Piher_PT-10-V05_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Piher_PT-10-V05_Vertical', 'description': 'Potentiometer, vertical, Piher PT-10-V05, http://www.piher-nacesa.com/pdf/12-PT10v03.pdf', 'tags': 'Potentiometer vertical Piher PT-10-V05', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Piher_PT-10-V05_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Piher_PT-10-V05_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Piher_PT-10-V05_Vertical/kicadPcb3d_450.png

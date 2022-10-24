@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM3480-15|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM3480-15|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM34815|
-|Name|name|LM3480-15|
+|name|name|LM3480-15|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM3480-3.3', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM3480-15', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm3480.pdf', 'kicadSymbolki_keywords': 'ldo linear fixed positive', 'kicadSymbolki_description': '100mA, Quasi Low Dropout Voltage Regulator, 15V positive fixed output, SOT-23 package', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

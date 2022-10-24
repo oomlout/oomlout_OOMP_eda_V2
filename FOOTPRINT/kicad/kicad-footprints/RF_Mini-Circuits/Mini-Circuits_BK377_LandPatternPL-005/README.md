@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Mini-Circuits_BK377_LandPatternPL-005|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_BK377_LandPatternPL-005|
 |Hex ID (short code)|hexID|FZKRFMCIRCUITSBK377LANDPATTERNPL5|
-|Name|name|RF_Mini-Circuits : Mini-Circuits_BK377_LandPatternPL-005|
+|name|name|RF_Mini-Circuits : Mini-Circuits_BK377_LandPatternPL-005|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Mini-Circuits_BK377_LandPatternPL-005', 'description': 'Footprint for Mini-Circuits case BK377 (https://ww2.minicircuits.com/case_style/BK276.pdf) according to land-pattern PL-005, including GND vias (https://ww2.minicircuits.com/pcb/98-pl005.pdf)', 'tags': 'Mini-circuits VCXO JTOS PL-005', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_BK377.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

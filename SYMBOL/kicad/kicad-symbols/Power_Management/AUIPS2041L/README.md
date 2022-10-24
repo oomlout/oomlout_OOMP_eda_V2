@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AUIPS2041L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS2041L|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTAUIPS241L|
-|Name|name|AUIPS2041L|
+|name|name|AUIPS2041L|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AUIPS1051L', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AUIPS2041L', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223-3_TabPin2', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-AUIPS2041-DS-v01_00-EN.pdf?fileId=5546d4625a888733015aae147a9d4c57', 'kicadSymbolki_keywords': 'low side switch', 'kicadSymbolki_description': 'Intelligent Power Low Side Switch, 68V, 5A, SOT-223', 'kicadSymbolki_fp_filters': 'SOT?223*'}]|
 ||||

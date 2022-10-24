@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_1P_1S_SO8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Transformer_1P_1S_SO8|
 |Hex ID (short code)|hexID|SZKDEVICETR1P1SSO8|
-|Name|name|Transformer_1P_1S_SO8|
+|name|name|Transformer_1P_1S_SO8|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'T', 'kicadSymbolValue': 'Transformer_1P_1S_SO8', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'transformer coil magnet', 'kicadSymbolki_description': 'Transformer, single primary, single secondary, SO-8 package'}]|
 ||||

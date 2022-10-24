@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|28F400|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_Flash-28F400|
 |Hex ID (short code)|hexID|SZKMEMORYFLASH28F4|
-|Name|name|28F400|
+|name|name|28F400|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '28F400', 'kicadSymbolFootprint': 'PSOP-44', 'kicadSymbolDatasheet': 'http://download.intel.com/design/archives/flash/docs/29045101.pdf', 'kicadSymbolki_keywords': 'EEPROM FLASH 4MO', 'kicadSymbolki_description': 'PA28F400BX-T/B Flash EEProm 4-MBIT (256Kx16bits, 512Kx8bits) 5V, 12V Prog', 'kicadSymbolki_fp_filters': 'PSOP*'}]|
 ||||

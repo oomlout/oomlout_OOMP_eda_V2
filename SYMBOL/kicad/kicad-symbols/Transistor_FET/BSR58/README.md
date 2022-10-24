@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BSR58|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BSR58|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBSR58|
-|Name|name|BSR58|
+|name|name|BSR58|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSR56', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BSR58', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/BSR56_57_58.pdf', 'kicadSymbolki_keywords': 'N-Channel FET Transistor', 'kicadSymbolki_description': '80mA min, 40V, 60mOhm max, 0.8-4V Vgs(off), N-Channel JFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

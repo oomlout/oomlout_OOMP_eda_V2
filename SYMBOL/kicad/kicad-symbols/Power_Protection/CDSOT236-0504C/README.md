@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CDSOT236-0504C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-CDSOT236-0504C|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONCDSOT23654C|
-|Name|name|CDSOT236-0504C|
+|name|name|CDSOT236-0504C|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SRV05-4', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CDSOT236-0504C', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'https://www.bourns.com/docs/product-datasheets/cdsot236-0504c.pdf', 'kicadSymbolki_keywords': 'ESD protection diodes', 'kicadSymbolki_description': 'Low capacitance ESD diode / steering Diode Array, SOT23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

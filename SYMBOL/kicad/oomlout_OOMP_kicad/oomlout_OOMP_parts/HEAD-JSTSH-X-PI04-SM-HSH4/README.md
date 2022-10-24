@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-JSTSH-X-PI04-SM-HSH4|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI04-SM-HSH4|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI4SMHSH4|
-|Name|name|HEAD-JSTSH-X-PI04-SM-HSH4|
+|name|name|HEAD-JSTSH-X-PI04-SM-HSH4|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HEAD-JSTSH-X-PI04-SM-HSH4', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:HEAD-JSTSH-X-PI04-SM-HSH4', 'kicadSymbolDatasheet': 'oom.lt/HSH4', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'hexID: HSH4;Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_1x??_*'}]|
 ||||

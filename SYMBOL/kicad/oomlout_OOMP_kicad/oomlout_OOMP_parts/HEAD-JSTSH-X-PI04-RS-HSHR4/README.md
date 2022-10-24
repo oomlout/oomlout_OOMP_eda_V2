@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-JSTSH-X-PI04-RS-HSHR4|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI04-RS-HSHR4|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI4RSHSHR4|
-|Name|name|HEAD-JSTSH-X-PI04-RS-HSHR4|
+|name|name|HEAD-JSTSH-X-PI04-RS-HSHR4|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HEAD-JSTSH-X-PI04-RS-HSHR4', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:HEAD-JSTSH-X-PI04-RS-HSHR4', 'kicadSymbolDatasheet': 'oom.lt/HSHR4', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'hexID: HSHR4;Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_1x??_*'}]|
 ||||

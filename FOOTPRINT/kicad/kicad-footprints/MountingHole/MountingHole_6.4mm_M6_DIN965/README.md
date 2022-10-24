@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MountingHole_6.4mm_M6_DIN965|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.4mm_M6_DIN965|
 |Hex ID (short code)|hexID|FZKHOLHOL64M6DIN965|
-|Name|name|MountingHole : MountingHole_6.4mm_M6_DIN965|
+|name|name|MountingHole : MountingHole_6.4mm_M6_DIN965|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_6.4mm_M6_DIN965', 'description': 'Mounting Hole 6.4mm, no annular, M6, DIN965', 'tags': 'mounting hole 6.4mm no annular m6 din965', 'attributeType': None, 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_6.4mm_M6_DIN965/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_6.4mm_M6_DIN965/kicadPcb3d_450.png

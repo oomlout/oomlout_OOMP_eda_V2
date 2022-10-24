@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX6035xxUR30|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-MAX6035xxUR30|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGEMAX635XXUR3|
-|Name|name|MAX6035xxUR30|
+|name|name|MAX6035xxUR30|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX6100', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX6035xxUR30', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX6035.pdf', 'kicadSymbolki_keywords': 'vref', 'kicadSymbolki_description': '3V, High-Supply-Voltage, Precision Voltage Reference, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

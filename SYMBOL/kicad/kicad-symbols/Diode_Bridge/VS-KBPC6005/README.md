@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VS-KBPC6005|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Bridge-VS-KBPC6005|
 |Hex ID (short code)|hexID|SZKDIODEBRIDGEVSKBPC65|
-|Name|name|VS-KBPC6005|
+|name|name|VS-KBPC6005|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'VS-KBPC6005', 'kicadSymbolFootprint': 'Diode_THT:Diode_Bridge_Vishay_KBPC6', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/93585/vs-kbpc1series.pdf', 'kicadSymbolki_keywords': 'rectifier acdc', 'kicadSymbolki_description': 'Single-Phase Bridge Rectifier, 20V Vrms, 6.0A If, KBPC6 package', 'kicadSymbolki_fp_filters': 'D*Bridge*Vishay*KBPC6*'}]|
 ||||

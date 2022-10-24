@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_Microphone_Lundahl_LL1538|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Microphone_Lundahl_LL1538|
 |Hex ID (short code)|hexID|FZKTRTRMPHONELUNDAHLLL1538|
-|Name|name|Transformer_THT : Transformer_Microphone_Lundahl_LL1538|
+|name|name|Transformer_THT : Transformer_Microphone_Lundahl_LL1538|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_Microphone_Lundahl_LL1538', 'description': 'AUDIO TRAFO LUNDAHL, https://www.lundahltransformers.com/wp-content/uploads/datasheets/1538_8xl.pdf', 'tags': 'AUDIO TRAFO LUNDAHL', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_Microphone_Lundahl_LL1538.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CY7C65213A-28PVXI|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-CY7C65213A-28PVXI|
 |Hex ID (short code)|hexID|SZKINTERFACEUCY7C65213A28PVXI|
-|Name|name|CY7C65213A-28PVXI|
+|name|name|CY7C65213A-28PVXI|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CY7C65213-28PVXI', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CY7C65213A-28PVXI', 'kicadSymbolFootprint': 'Package_SO:SSOP-28_5.3x10.2mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.cypress.com/file/139881/download', 'kicadSymbolki_keywords': 'USB-UART LP Bridge Controller, full speed 12Mbps', 'kicadSymbolki_description': 'USB-UART LP Bridge Controller, full speed 12Mbps, +1.71V to 5.5V VDD, UART/RS232/RS422/RS485, SSOP-28', 'kicadSymbolki_fp_filters': 'SSOP*5.3x10.2mm*P0.65mm*'}]|
 ||||

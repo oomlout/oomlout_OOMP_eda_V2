@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|UQFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-UQFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm|
 |Hex ID (short code)|hexID|FZKDFNUQFN161EP4X4P65EP27X27|
-|Name|name|Package_DFN_QFN : UQFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm|
+|name|name|Package_DFN_QFN : UQFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'UQFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm', 'description': '16-Lead Ultra Thin Plastic Quad Flat, No Lead Package (JQ) - 4x4x0.5 mm Body [UQFN]; (see Microchip Packaging Specification 00000049BS.pdf)', 'tags': 'QFN 0.65', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/UQFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UQFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UQFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm/kicadPcb3d_450.png

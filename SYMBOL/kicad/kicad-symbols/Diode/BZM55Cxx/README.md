@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BZM55Cxx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BZM55Cxx|
 |Hex ID (short code)|hexID|SZKDIODEBZM55CXX|
-|Name|name|BZM55Cxx|
+|name|name|BZM55Cxx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZPYxx', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BZM55Cxx', 'kicadSymbolFootprint': 'Diode_SMD:D_MicroMELF', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/85597/bzm55.pdf', 'kicadSymbolki_keywords': 'zener diode', 'kicadSymbolki_description': '500mW Zener Diode, 6%, MicroMELF', 'kicadSymbolki_fp_filters': 'D*MicroMELF*'}]|
 ||||

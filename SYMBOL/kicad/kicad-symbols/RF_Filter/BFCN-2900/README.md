@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|BFCN-2900|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-2900|
 |Hex ID (short code)|hexID|SZKRFFILBFCN29|
-|Name|name|BFCN-2900|
+|name|name|BFCN-2900|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BFCN-1560', 'kicadSymbolReference': 'FL', 'kicadSymbolValue': 'BFCN-2900', 'kicadSymbolFootprint': 'Filter:Filter_Mini-Circuits_FV1206-1', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/BFCN-2900+.pdf', 'kicadSymbolki_keywords': 'Mini-Circuits band pass filter', 'kicadSymbolki_description': '2700-3100MHz 50 Ohm Passive Band Pass Filter, FV1206-1', 'kicadSymbolki_fp_filters': 'Filter*Mini?Circuits*FV1206?1*'}]|
 ||||

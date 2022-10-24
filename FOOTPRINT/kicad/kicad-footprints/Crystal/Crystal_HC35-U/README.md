@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Crystal_HC35-U|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC35-U|
 |Hex ID (short code)|hexID|FZKXXHC35U|
-|Name|name|Crystal : Crystal_HC35-U|
+|name|name|Crystal : Crystal_HC35-U|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_HC35-U', 'description': 'Crystal, Quarz, HC35/U, http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/TO71xx.pdf', 'tags': 'Crystal Quarz HC35/U', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC35-U.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_HC35-U/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_HC35-U/kicadPcb3d_450.png

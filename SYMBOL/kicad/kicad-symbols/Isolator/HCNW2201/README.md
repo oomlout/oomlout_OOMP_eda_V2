@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HCNW2201|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-HCNW2201|
 |Hex ID (short code)|hexID|SZKISOLATORHCNW221|
-|Name|name|HCNW2201|
+|name|name|HCNW2201|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HCNW2201', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W10.16mm', 'kicadSymbolDatasheet': 'https://docs.broadcom.com/docs/AV02-0674EN', 'kicadSymbolki_keywords': 'opto coupler schmitt output', 'kicadSymbolki_description': 'Opto Coupler, 1kV/us, 50V CMR, Schmitt trigger output, WDIP-8', 'kicadSymbolki_fp_filters': 'DIP*W10.16mm*'}]|
 ||||

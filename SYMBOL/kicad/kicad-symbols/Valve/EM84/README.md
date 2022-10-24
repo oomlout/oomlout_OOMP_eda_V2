@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EM84|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Valve-EM84|
 |Hex ID (short code)|hexID|SZKVAEM84|
-|Name|name|EM84|
+|name|name|EM84|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EM84', 'kicadSymbolFootprint': 'Valve:Valve_Noval_P', 'kicadSymbolDatasheet': 'http://www.r-type.org/pdfs/em84.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'indicator tube valve magic eye', 'kicadSymbolki_description': 'indicator tube "magic eye"', 'kicadSymbolki_fp_filters': 'VALVE*NOVAL*P*'}]|
 ||||

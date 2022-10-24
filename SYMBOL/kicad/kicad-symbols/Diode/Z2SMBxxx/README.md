@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Z2SMBxxx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-Z2SMBxxx|
 |Hex ID (short code)|hexID|SZKDIODEZ2SMBXXX|
-|Name|name|Z2SMBxxx|
+|name|name|Z2SMBxxx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZPYxx', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'Z2SMBxxx', 'kicadSymbolFootprint': 'Diode_SMD:D_SMB', 'kicadSymbolDatasheet': 'https://diotec.com/tl_files/diotec/files/pdf/datasheets/z2smb1.pdf', 'kicadSymbolki_keywords': 'zener diode', 'kicadSymbolki_description': '2000mW Zener Diode, SMB(DO-214AA)', 'kicadSymbolki_fp_filters': 'D?SMB*'}]|
 ||||

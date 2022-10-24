@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Toroid_Vertical_L67.6mm_W36.1mm_P31.80mm_Vishay_TJ9|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L67.6mm_W36.1mm_P31.80mm_Vishay_TJ9|
 |Hex ID (short code)|hexID|FZKINLTOROIDVERTICALL676W361P318VISHAYTJ9|
-|Name|name|Inductor_THT : L_Toroid_Vertical_L67.6mm_W36.1mm_P31.80mm_Vishay_TJ9|
+|name|name|Inductor_THT : L_Toroid_Vertical_L67.6mm_W36.1mm_P31.80mm_Vishay_TJ9|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Toroid_Vertical_L67.6mm_W36.1mm_P31.80mm_Vishay_TJ9', 'description': 'L_Toroid, Vertical series, Radial, pin pitch=31.80mm, , length*width=67.6*36.1mm^2, Vishay, TJ9, http://www.vishay.com/docs/34079/tj.pdf', 'tags': 'L_Toroid Vertical series Radial pin pitch 31.80mm  length 67.6mm width 36.1mm Vishay TJ9', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Vertical_L67.6mm_W36.1mm_P31.80mm_Vishay_TJ9.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L67.6mm_W36.1mm_P31.80mm_Vishay_TJ9/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L67.6mm_W36.1mm_P31.80mm_Vishay_TJ9/kicadPcb3d_450.png

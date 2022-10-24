@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC9S08JM8xLC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08JM8xLC|
 |Hex ID (short code)|hexID|SZKMCUNXPS8MC9S8JM8XLC|
-|Name|name|MC9S08JM8xLC|
+|name|name|MC9S08JM8xLC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC9S08JM16xLC', 'kicadSymbolReference': 'IC', 'kicadSymbolValue': 'MC9S08JM8xLC', 'kicadSymbolFootprint': 'Package_QFP:LQFP-32_7x7mm_P0.8mm', 'kicadSymbolDatasheet': 'http://cache.nxp.com/files/microcontrollers/doc/data_sheet/MC9S08JM16.pdf', 'kicadSymbolki_keywords': 'NXP S08 Microcontroller', 'kicadSymbolki_description': '8-bit USB Cost-Effective Microcontroller, S08 core, 8kB Flash, 1kB RAM, LQFP-32', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.8mm*'}]|
 ||||

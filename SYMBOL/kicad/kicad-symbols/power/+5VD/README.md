@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|+5VD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-+5VD|
 |Hex ID (short code)|hexID|SZKPOWER+5VD|
-|Name|name|+5VD|
+|name|name|+5VD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': '+5VD', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "+5VD"'}]|
 ||||

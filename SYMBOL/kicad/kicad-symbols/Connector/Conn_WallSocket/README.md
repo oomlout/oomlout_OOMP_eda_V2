@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Conn_WallSocket|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Conn_WallSocket|
 |Hex ID (short code)|hexID|SZKCNCONNWALLSO|
-|Name|name|Conn_WallSocket|
+|name|name|Conn_WallSocket|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Conn_WallSocket', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'wall socket 110VAC 220VAC', 'kicadSymbolki_description': '3-pin german wall socket, no Earth wire (110VAC, 220VAC)'}]|
 ||||

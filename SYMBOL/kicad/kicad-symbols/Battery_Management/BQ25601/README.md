@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BQ25601|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-BQ25601|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTBQ2561|
-|Name|name|BQ25601|
+|name|name|BQ25601|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BQ25601', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PWQFN-N24_EP2.7x2.7mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/bq25601.pdf', 'kicadSymbolki_keywords': 'LiPO charger', 'kicadSymbolki_description': 'I2C Controlled 3A Single-Cell Battery Charger for High Input Voltage and Narrow Voltage DC Power Path Management, WQFN-32', 'kicadSymbolki_fp_filters': 'Texas*S?PWQFN?N*EP*'}]|
 ||||

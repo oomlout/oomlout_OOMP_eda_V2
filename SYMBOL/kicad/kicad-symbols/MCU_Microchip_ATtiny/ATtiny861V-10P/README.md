@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATtiny861V-10P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny861V-10P|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATTINYATTINY861V1P|
-|Name|name|ATtiny861V-10P|
+|name|name|ATtiny861V-10P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATtiny461V-10P', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATtiny861V-10P', 'kicadSymbolFootprint': 'Package_DIP:DIP-20_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2588-8-bit-avr-microcontrollers-tinyavr-attiny261-attiny461-attiny861_datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller tinyAVR', 'kicadSymbolki_description': '10MHz, 8kB Flash, 512B SRAM, 512B EEPROM, DIP-20', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Battery|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Battery|
 |Hex ID (short code)|hexID|SZKDEVICEBAT|
-|Name|name|Battery|
+|name|name|Battery|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'BT', 'kicadSymbolValue': 'Battery', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'batt voltage-source cell', 'kicadSymbolki_description': 'Multiple-cell battery'}]|
 ||||

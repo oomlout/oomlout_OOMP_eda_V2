@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SG-7050CAN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-SG-7050CAN|
 |Hex ID (short code)|hexID|SZKOCSSG75CAN|
-|Name|name|SG-7050CAN|
+|name|name|SG-7050CAN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'X', 'kicadSymbolValue': 'SG-7050CAN', 'kicadSymbolFootprint': 'Oscillator:Oscillator_SMD_SeikoEpson_SG8002CA-4Pin_7.0x5.0mm', 'kicadSymbolDatasheet': 'https://support.epson.biz/td/api/doc_check.php?dl=brief_SG7050CAN&lang=en', 'kicadSymbolki_keywords': 'Crystal Clock Oscillator', 'kicadSymbolki_description': 'CMOS Clock Oscillator 1 to 75 MHz', 'kicadSymbolki_fp_filters': 'Oscillator*SMD*SeikoEpson*SG8002CA*7.0x5.0mm*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TDSON-8-1|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TDSON-8-1|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMTDSON81|
-|Name|name|Package_TO_SOT_SMD : TDSON-8-1|
+|name|name|Package_TO_SOT_SMD : TDSON-8-1|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TDSON-8-1', 'description': 'Power MOSFET package, TDSON-8-1, 5.15x5.9mm (https://www.infineon.com/cms/en/product/packages/PG-TDSON/PG-TDSON-8-1/)', 'tags': 'tdson ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TDSON-8-1.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TDSON-8-1/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TDSON-8-1/kicadPcb3d_450.png

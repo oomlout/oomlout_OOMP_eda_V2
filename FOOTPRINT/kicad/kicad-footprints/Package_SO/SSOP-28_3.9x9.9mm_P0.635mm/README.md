@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SSOP-28_3.9x9.9mm_P0.635mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-28_3.9x9.9mm_P0.635mm|
 |Hex ID (short code)|hexID|FZKSOSS2839X99P635|
-|Name|name|Package_SO : SSOP-28_3.9x9.9mm_P0.635mm|
+|name|name|Package_SO : SSOP-28_3.9x9.9mm_P0.635mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SSOP-28_3.9x9.9mm_P0.635mm', 'description': 'SSOP28: plastic shrink small outline package; 28 leads; body width 3.9 mm; lead pitch 0.635; (see http://cds.linear.com/docs/en/datasheet/38901fb.pdf)', 'tags': 'SSOP 0.635', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SSOP-28_3.9x9.9mm_P0.635mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSOP-28_3.9x9.9mm_P0.635mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/SSOP-28_3.9x9.9mm_P0.635mm/kicadPcb3d_450.png

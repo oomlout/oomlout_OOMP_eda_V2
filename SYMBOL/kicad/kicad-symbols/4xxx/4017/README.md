@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4017|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx-4017|
 |Hex ID (short code)|hexID|SZK4XXX417|
-|Name|name|4017|
+|name|name|4017|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4017', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4017bms-22bms.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'CNT CNT10', 'kicadSymbolki_description': 'Johnson Counter ( 10 outputs )', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

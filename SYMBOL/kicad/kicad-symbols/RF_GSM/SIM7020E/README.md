@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|SIM7020E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_GSM-SIM7020E|
 |Hex ID (short code)|hexID|SZKGSMSIM72E|
-|Name|name|SIM7020E|
+|name|name|SIM7020E|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SIM7020E', 'kicadSymbolFootprint': 'RF_GSM:SIMCom_SIM800C', 'kicadSymbolDatasheet': 'https://simcom.ee/documents/SIM7020/SIM7020%20Hardware%20Design_V1.02.pdf', 'kicadSymbolki_keywords': 'NB-IoT Data SMS', 'kicadSymbolki_description': 'NB-IoT B1/B3/B5/B8/B20/B28, AT Command Set', 'kicadSymbolki_fp_filters': 'SIMCom*SIM800C*'}]|
 ||||

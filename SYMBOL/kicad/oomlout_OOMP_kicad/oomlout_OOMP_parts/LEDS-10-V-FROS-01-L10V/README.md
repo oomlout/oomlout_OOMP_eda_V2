@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|LEDS-10-V-FROS-01-L10V|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-10-V-FROS-01-L10V|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS1VFROS1L1V|
-|Name|name|LEDS-10-V-FROS-01-L10V|
+|name|name|LEDS-10-V-FROS-01-L10V|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LEDS-10-V-FROS-01-L10V', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:LEDS-10-V-FROS-01-L10V', 'kicadSymbolDatasheet': 'oom.lt/L10V', 'kicadSymbolki_keywords': 'LED diode', 'kicadSymbolki_description': 'hexID: L10V;Light emitting diode', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

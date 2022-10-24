@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Symbol_Attention_CopperTop_Big|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_Attention_CopperTop_Big|
 |Hex ID (short code)|hexID|FZKSZSYATTENTIONCTOPBIG|
-|Name|name|Symbol : Symbol_Attention_CopperTop_Big|
+|name|name|Symbol : Symbol_Attention_CopperTop_Big|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Symbol_Attention_CopperTop_Big', 'description': 'Symbol, Attention, Copper Top, Big,', 'tags': 'Symbol, Attention, Copper Top, Big,', 'attributeType': None, 'pins': {}}|
 ||||

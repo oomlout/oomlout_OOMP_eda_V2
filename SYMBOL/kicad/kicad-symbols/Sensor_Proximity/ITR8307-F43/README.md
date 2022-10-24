@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ITR8307-F43|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Proximity-ITR8307-F43|
 |Hex ID (short code)|hexID|SZKSENPROXIMITYITR837F43|
-|Name|name|ITR8307-F43|
+|name|name|ITR8307-F43|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ITR8307-F43', 'kicadSymbolFootprint': 'OptoDevice:Everlight_ITR8307F43', 'kicadSymbolDatasheet': 'https://everlighteurope.com/index.php?controller=attachment&id_attachment=5385', 'kicadSymbolki_keywords': 'Reflective Optical Sensor Opto', 'kicadSymbolki_description': 'Subminiature Reflective Optical Sensor, DIP-like THT-package', 'kicadSymbolki_fp_filters': 'Everlight*ITR8307F43*'}]|
 ||||

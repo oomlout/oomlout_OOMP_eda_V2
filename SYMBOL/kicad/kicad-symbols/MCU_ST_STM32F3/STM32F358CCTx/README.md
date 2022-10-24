@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F358CCTx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F358CCTx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F3STM32F358CCTX|
-|Name|name|STM32F358CCTx|
+|name|name|STM32F358CCTx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F358CCTx', 'kicadSymbolFootprint': 'Package_QFP:LQFP-48_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00100431.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32F3 STM32F3x8', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 256KB flash, 40KB RAM, 72MHz, 1.65-1.95V, 36 GPIO, LQFP-48', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.5mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_Dual_AAK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_Dual_AAK|
 |Hex ID (short code)|hexID|SZKDEVICELDUALAAK|
-|Name|name|LED_Dual_AAK|
+|name|name|LED_Dual_AAK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_Dual_AAK', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED diode bicolor dual', 'kicadSymbolki_description': 'Dual LED, common cathode on pin 3', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

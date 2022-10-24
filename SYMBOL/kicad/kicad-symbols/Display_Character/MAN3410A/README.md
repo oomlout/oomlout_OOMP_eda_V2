@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAN3410A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-MAN3410A|
 |Hex ID (short code)|hexID|SZKDICHARACTERMAN341A|
-|Name|name|MAN3410A|
+|name|name|MAN3410A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAN3410A', 'kicadSymbolFootprint': 'Display_7Segment:MAN3410A', 'kicadSymbolDatasheet': 'https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'Single digit 7 segment high efficient green LED common anode right hand decimal', 'kicadSymbolki_fp_filters': '*MAN3410A*'}]|
 ||||

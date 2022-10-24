@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF540N|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF540N|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF54N|
-|Name|name|IRF540N|
+|name|name|IRF540N|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BUZ11', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF540N', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'http://www.irf.com/product-info/datasheets/data/irf540n.pdf', 'kicadSymbolki_keywords': 'HEXFET N-Channel MOSFET', 'kicadSymbolki_description': '33A Id, 100V Vds, HEXFET N-Channel MOSFET, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

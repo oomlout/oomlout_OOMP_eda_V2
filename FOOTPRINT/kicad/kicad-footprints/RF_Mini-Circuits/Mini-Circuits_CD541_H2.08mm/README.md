@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Mini-Circuits_CD541_H2.08mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CD541_H2.08mm|
 |Hex ID (short code)|hexID|FZKRFMCIRCUITSCD541H28|
-|Name|name|RF_Mini-Circuits : Mini-Circuits_CD541_H2.08mm|
+|name|name|RF_Mini-Circuits : Mini-Circuits_CD541_H2.08mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Mini-Circuits_CD541_H2.08mm', 'description': 'https://ww2.minicircuits.com/case_style/CD541.pdf', 'tags': 'RF Transformer', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_CD541_H2.08mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

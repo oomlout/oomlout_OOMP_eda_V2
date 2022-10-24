@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAT60A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAT60A|
 |Hex ID (short code)|hexID|SZKDIODEBAT6A|
-|Name|name|BAT60A|
+|name|name|BAT60A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BAT48JFILM', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAT60A', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-323', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-BAT60ASERIES-DS-v01_01-en.pdf?fileId=db3a304313d846880113def70c9304a9', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '10V 3A High Current Recitifier Schottky Diode, SOD-323', 'kicadSymbolki_fp_filters': 'D*SOD?323*'}]|
 ||||

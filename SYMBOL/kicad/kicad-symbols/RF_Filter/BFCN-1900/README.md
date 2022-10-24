@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|BFCN-1900|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-1900|
 |Hex ID (short code)|hexID|SZKRFFILBFCN19|
-|Name|name|BFCN-1900|
+|name|name|BFCN-1900|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'FL', 'kicadSymbolValue': 'BFCN-1900', 'kicadSymbolFootprint': 'Filter:Filter_Mini-Circuits_FV1206-5', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/BFCN-1900+.pdf', 'kicadSymbolki_keywords': 'Mini-Circuits band pass filter', 'kicadSymbolki_description': '1893-1920MHz 50 Ohm Passive Band Pass Filter, FV1206-5', 'kicadSymbolki_fp_filters': 'Filter*Mini?Circuits*FV1206?5*'}]|
 ||||

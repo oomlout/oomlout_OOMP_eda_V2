@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BS107|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BS107|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBS17|
-|Name|name|BS107|
+|name|name|BS107|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BS107', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/BS107-D.PDF', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '0.25A Id, 200V Vds, N-Channel MOSFET, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

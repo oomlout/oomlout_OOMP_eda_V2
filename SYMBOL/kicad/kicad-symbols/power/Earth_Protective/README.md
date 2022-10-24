@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Earth_Protective|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-Earth_Protective|
 |Hex ID (short code)|hexID|SZKPOWEREARTHPROTECTIVE|
-|Name|name|Earth_Protective|
+|name|name|Earth_Protective|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'Earth_Protective', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'power-flag ground gnd clean', 'kicadSymbolki_description': 'Power symbol creates a global label with name "Earth_Protective"'}]|
 ||||

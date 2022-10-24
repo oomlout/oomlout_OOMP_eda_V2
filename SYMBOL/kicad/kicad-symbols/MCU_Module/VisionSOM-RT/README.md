@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VisionSOM-RT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Module-VisionSOM-RT|
 |Hex ID (short code)|hexID|SZKMCUMOVISIONSOMRT|
-|Name|name|VisionSOM-RT|
+|name|name|VisionSOM-RT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'VisionSOM-RT', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://wiki.somlabs.com/index.php/VisionSOM-RT_Datasheet_and_Pinout', 'kicadSymbolki_keywords': 'somlabs module', 'kicadSymbolki_description': 'i.MX-RT NXP ARM Cortex-M7 528MHz single core industrial SoM computer', 'kicadSymbolki_fp_filters': '*SODIMM*'}]|
 ||||

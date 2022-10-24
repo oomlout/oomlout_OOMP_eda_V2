@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MSxx-1Axx-75|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-MSxx-1Axx-75|
 |Hex ID (short code)|hexID|SZKRELAYMSXX1AXX75|
-|Name|name|MSxx-1Axx-75|
+|name|name|MSxx-1Axx-75|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'MSxx-1Axx-75', 'kicadSymbolFootprint': 'Relay_THT:Relay_SPST_StandexMeder_MS_Form1AB', 'kicadSymbolDatasheet': 'https://standexelectronics.com/de/produkte/ms-reed-relais/', 'kicadSymbolki_keywords': 'Single Pole Reed Relay SPST', 'kicadSymbolki_description': 'Standex Meder MS reed relay, SPST, Closing Contact', 'kicadSymbolki_fp_filters': 'Relay*SPST*StandexMeder*MS*Form1AB*'}]|
 ||||

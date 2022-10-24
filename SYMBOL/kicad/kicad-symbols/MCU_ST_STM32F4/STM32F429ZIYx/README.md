@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F429ZIYx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F429ZIYx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F4STM32F429ZIYX|
-|Name|name|STM32F429ZIYx|
+|name|name|STM32F429ZIYx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F429ZIYx', 'kicadSymbolFootprint': 'Package_CSP:ST_WLCSP-143_Die419', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00071990.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32F4 STM32F429/439', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 2048KB flash, 192KB RAM, 180MHz, 1.8-3.6V, 114 GPIO, WLCSP-143', 'kicadSymbolki_fp_filters': 'ST_WLCSP*Die419*'}]|
 ||||

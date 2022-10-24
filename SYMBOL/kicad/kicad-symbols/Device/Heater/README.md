@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Heater|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Heater|
 |Hex ID (short code)|hexID|SZKDEVICEHEATER|
-|Name|name|Heater|
+|name|name|Heater|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'Heater', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'heater R resistor', 'kicadSymbolki_description': 'Resistive heater'}]|
 ||||

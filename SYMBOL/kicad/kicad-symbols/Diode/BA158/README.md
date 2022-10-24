@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BA158|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BA158|
 |Hex ID (short code)|hexID|SZKDIODEBA158|
-|Name|name|BA158|
+|name|name|BA158|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N4001', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BA158', 'kicadSymbolFootprint': 'Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/88536/ba157.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '600V 1A Fast recovery Rectifier Diode, DO-41', 'kicadSymbolki_fp_filters': 'D*DO?41*'}]|
 ||||

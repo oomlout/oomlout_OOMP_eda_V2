@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm_HandSoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm_HandSoldering|
 |Hex ID (short code)|hexID|FZKOCSOCSSMSEIKOEPSONSG214PIN25X2HANDSOLDERING|
-|Name|name|Oscillator : Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm_HandSoldering|
+|name|name|Oscillator : Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm_HandSoldering|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm_HandSoldering', 'description': 'SMD Crystal Oscillator Seiko Epson SG-210 https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-210SED, hand-soldering, 2.5x2.0mm^2 package', 'tags': 'SMD SMT crystal oscillator hand-soldering', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm_HandSoldering.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm_HandSoldering/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm_HandSoldering/kicadPcb3d_450.png

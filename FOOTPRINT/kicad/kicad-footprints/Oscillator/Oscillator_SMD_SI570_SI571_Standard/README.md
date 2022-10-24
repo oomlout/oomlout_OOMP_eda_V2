@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Oscillator_SMD_SI570_SI571_Standard|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SI570_SI571_Standard|
 |Hex ID (short code)|hexID|FZKOCSOCSSMSI57SI571STANDARD|
-|Name|name|Oscillator : Oscillator_SMD_SI570_SI571_Standard|
+|name|name|Oscillator : Oscillator_SMD_SI570_SI571_Standard|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Oscillator_SMD_SI570_SI571_Standard', 'description': 'SI570, SI571, Programmable oscillator, Standard', 'tags': 'SI570 SI571 Programmable oscillator Standard', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_SI570_SI571_Standard.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SI570_SI571_Standard/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SI570_SI571_Standard/kicadPcb3d_450.png

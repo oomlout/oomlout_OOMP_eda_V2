@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EFM8BB10F8G-A-SOIC16|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8BB10F8G-A-SOIC16|
 |Hex ID (short code)|hexID|SZKMCUSILICONLABSEFM8BB1F8GASOIC16|
-|Name|name|EFM8BB10F8G-A-SOIC16|
+|name|name|EFM8BB10F8G-A-SOIC16|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EFM8BB10F8G-A-SOIC16', 'kicadSymbolFootprint': 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.silabs.com/documents/public/data-sheets/efm8bb1-datasheet.pdf', 'kicadSymbolki_keywords': '8051 microcontroller PWM UART SPI I2C ADC SOIC16', 'kicadSymbolki_description': '8051-compatible microcontroller, 25 MHz, 2.2 to 3.6V, 8K flash, 512B RAM, -40 to +85 C, SOIC16', 'kicadSymbolki_fp_filters': 'SOIC*3.9x9.9mm*P1.27mm*'}]|
 ||||

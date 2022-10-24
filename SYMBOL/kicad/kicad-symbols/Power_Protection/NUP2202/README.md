@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NUP2202|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-NUP2202|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONNUP222|
-|Name|name|NUP2202|
+|name|name|NUP2202|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NUP2202', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'http://www.onsemi.ru.com/pub_link/Collateral/NUP2202W1-D.PDF', 'kicadSymbolki_keywords': 'ESD Protection diodes  transient suppressor', 'kicadSymbolki_description': 'Transient voltage suppressor designed to protect high speed data lines from ESD, EFT, and lightning', 'kicadSymbolki_fp_filters': 'SOT?363*'}]|
 ||||

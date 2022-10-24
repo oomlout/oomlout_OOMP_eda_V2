@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|R_Array_Convex_4x1206|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Array_Convex_4x1206|
 |Hex ID (short code)|hexID|FZKRESISTORSMRARRAYCONVEX4X126|
-|Name|name|Resistor_SMD : R_Array_Convex_4x1206|
+|name|name|Resistor_SMD : R_Array_Convex_4x1206|
 |Footprint Kicad|footprintKicadDetails|{'name': 'R_Array_Convex_4x1206', 'description': 'Chip Resistor Network, ROHM MNR34 (see mnr_g.pdf)', 'tags': 'resistor array', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Array_Convex_4x1206.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Array_Convex_4x1206/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Array_Convex_4x1206/kicadPcb3d_450.png

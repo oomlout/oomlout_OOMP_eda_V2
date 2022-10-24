@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ITX1212SA-HR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX1212SA-HR|
 |Hex ID (short code)|hexID|SZKCONITX1212SAHR|
-|Name|name|ITX1212SA-HR|
+|name|name|ITX1212SA-HR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ITX0503SA-R', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'ITX1212SA-HR', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_XP_POWER-ITxxxxxS_THT', 'kicadSymbolDatasheet': 'https://www.xppower.com/pdfs/SF_ITX.pdf', 'kicadSymbolki_keywords': 'XP_POWER DC/DC isolated Converter module', 'kicadSymbolki_description': 'XP Power 6W, 3000 VDC Isolated DC/DC Converter Module, Remote Control, Fully Regulated Single Output Voltage 12V, ±500mA, 12V Input Voltage, SIP', 'kicadSymbolki_fp_filters': '*XP?POWER?ITxxxxx*'}]|
 ||||

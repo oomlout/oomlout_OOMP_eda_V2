@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O473-01-R8O473-C17713|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O473-01-R8O473-C17713|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE85XO4731R8O473C17713|
-|Name|name|RESE-0805-X-O473-01-R8O473-C17713|
+|name|name|RESE-0805-X-O473-01-R8O473-C17713|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O473-01-R8O473-C17713', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O473-01-R8O473-C17713', 'kicadSymbolDatasheet': 'oom.lt/R8O473', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R8O473;PARTL C-JLCC;C17713;MANUF C-XXXX;0805W8F4702T5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

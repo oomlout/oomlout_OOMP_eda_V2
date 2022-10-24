@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F101RBHx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F101RBHx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F1STM32F11RBHX|
-|Name|name|STM32F101RBHx|
+|name|name|STM32F101RBHx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F101RBHx', 'kicadSymbolFootprint': 'Package_BGA:TFBGA-64_5x5mm_Layout8x8_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161561.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M3 STM32F1 STM32F101', 'kicadSymbolki_description': 'ARM Cortex-M3 MCU, 128KB flash, 16KB RAM, 36MHz, 2-3.6V, 50 GPIO, TFBGA-64', 'kicadSymbolki_fp_filters': 'TFBGA*5x5mm*Layout8x8*P0.5mm*'}]|
 ||||

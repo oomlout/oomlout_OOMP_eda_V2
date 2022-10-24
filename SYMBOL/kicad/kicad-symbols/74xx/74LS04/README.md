@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS04|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS04|
 |Hex ID (short code)|hexID|SZK74XX74LS4|
-|Name|name|74LS04|
+|name|name|74LS04|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS04', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS04', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL not inv', 'kicadSymbolki_description': 'Hex Inverter', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SSOP?14* TSSOP?14*'}]|
 ||||

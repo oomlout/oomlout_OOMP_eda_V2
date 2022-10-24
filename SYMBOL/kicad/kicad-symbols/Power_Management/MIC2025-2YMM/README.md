@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MIC2025-2YMM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-MIC2025-2YMM|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTMIC2252Y|
-|Name|name|MIC2025-2YMM|
+|name|name|MIC2025-2YMM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MIC2025-1YMM', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MIC2025-2YMM', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://ww1.microchip.com/downloads/en/DeviceDoc/MIC2025-2075-Single-Channel-Power-Distribution-Switch-DS20006030A.pdf', 'kicadSymbolki_keywords': 'mosfet distribution', 'kicadSymbolki_description': 'Single-channel, high side, power distribution switch, 2.7V-5.5V, Active Low Output, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
 ||||

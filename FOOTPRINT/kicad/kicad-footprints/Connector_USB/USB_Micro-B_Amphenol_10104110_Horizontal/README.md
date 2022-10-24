@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB_Micro-B_Amphenol_10104110_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Amphenol_10104110_Horizontal|
 |Hex ID (short code)|hexID|FZKCNUUMBAMPHENOL11411HORIZONTAL|
-|Name|name|Connector_USB : USB_Micro-B_Amphenol_10104110_Horizontal|
+|name|name|Connector_USB : USB_Micro-B_Amphenol_10104110_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB_Micro-B_Amphenol_10104110_Horizontal', 'description': 'USB Micro-B, horizontal, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10104110.pdf', 'tags': 'USB Micro B horizontal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_Amphenol_10104110_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-B_Amphenol_10104110_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-B_Amphenol_10104110_Horizontal/kicadPcb3d_450.png

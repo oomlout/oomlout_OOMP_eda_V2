@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SAA7182|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Video-SAA7182|
 |Hex ID (short code)|hexID|SZKVIDEOSAA7182|
-|Name|name|SAA7182|
+|name|name|SAA7182|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SAA7182', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://rcl-radio.ru/wp-content/uploads/2014/11/SAA7182.pdf', 'kicadSymbolki_keywords': 'Video Encoder', 'kicadSymbolki_description': 'Digital Video Encoder, Obsolete'}]|
 ||||

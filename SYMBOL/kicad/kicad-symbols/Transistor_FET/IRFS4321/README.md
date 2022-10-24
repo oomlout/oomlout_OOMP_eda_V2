@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRFS4321|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFS4321|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRFS4321|
-|Name|name|IRFS4321|
+|name|name|IRFS4321|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STB15N80K5', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRFS4321', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-2', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irfs4321pbf.pdf?fileId=5546d462533600a40153563a20dd21ad', 'kicadSymbolki_keywords': 'N-Channel MOSFET HEXFET', 'kicadSymbolki_description': '85A Id, 150V Vds, 12mOhm Rds, N-Channel HEXFET Power MOSFET, D2PAK', 'kicadSymbolki_fp_filters': 'TO?263*'}]|
 ||||

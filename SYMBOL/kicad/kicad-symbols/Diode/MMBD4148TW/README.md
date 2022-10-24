@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MMBD4148TW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-MMBD4148TW|
 |Hex ID (short code)|hexID|SZKDIODEBD4148TW|
-|Name|name|MMBD4148TW|
+|name|name|MMBD4148TW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BAS16TW', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'MMBD4148TW', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'http://www.diodes.com/datasheets/ds30154.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Fast switching diode array 3 independent', 'kicadSymbolki_fp_filters': '*SOT?363*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC7V2000T-FLG1925|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7V2000T-FLG1925|
 |Hex ID (short code)|hexID|SZKFPGAXILINXVIRTEX7XC7V2TFLG1925|
-|Name|name|XC7V2000T-FLG1925|
+|name|name|XC7V2000T-FLG1925|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC7V2000T-FLG1925', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Virtex 7 T 2000 XC7V2000T-FLG1925'}]|
 ||||

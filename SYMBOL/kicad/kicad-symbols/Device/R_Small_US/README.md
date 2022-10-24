@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|R_Small_US|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-R_Small_US|
 |Hex ID (short code)|hexID|SZKDEVICERSLLUS|
-|Name|name|R_Small_US|
+|name|name|R_Small_US|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'R_Small_US', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'r resistor', 'kicadSymbolki_description': 'Resistor, small US symbol', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

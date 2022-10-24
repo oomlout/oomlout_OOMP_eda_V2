@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LPC1763FBD100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1763FBD100|
 |Hex ID (short code)|hexID|SZKMCUNXPLPCLPC1763FBD1|
-|Name|name|LPC1763FBD100|
+|name|name|LPC1763FBD100|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LPC1763FBD100', 'kicadSymbolFootprint': 'Package_QFP:LQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/documents/data_sheet/LPC1769_68_67_66_65_64_63.pdf', 'kicadSymbolki_keywords': 'ARM, 32-bit, Cortex-M3, M3, NXP, microcontroller', 'kicadSymbolki_description': '32-bit ARM Cortex-M3 microcontroller, 256KB flash, 64KB RAM', 'kicadSymbolki_fp_filters': '*QFP*14x14mm*P0.5mm*'}]|
 ||||

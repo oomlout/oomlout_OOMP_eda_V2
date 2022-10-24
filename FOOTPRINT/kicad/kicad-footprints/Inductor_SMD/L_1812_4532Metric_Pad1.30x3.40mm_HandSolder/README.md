@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_1812_4532Metric_Pad1.30x3.40mm_HandSolder|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_1812_4532Metric_Pad1.30x3.40mm_HandSolder|
 |Hex ID (short code)|hexID|FZKINDUCTORSML18124532METRICPAD13X34HANDSOLDER|
-|Name|name|Inductor_SMD : L_1812_4532Metric_Pad1.30x3.40mm_HandSolder|
+|name|name|Inductor_SMD : L_1812_4532Metric_Pad1.30x3.40mm_HandSolder|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_1812_4532Metric_Pad1.30x3.40mm_HandSolder', 'description': 'Inductor SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator', 'tags': 'inductor handsolder', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_1812_4532Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_1812_4532Metric_Pad1.30x3.40mm_HandSolder/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_1812_4532Metric_Pad1.30x3.40mm_HandSolder/kicadPcb3d_450.png

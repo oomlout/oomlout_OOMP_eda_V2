@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC2018-PC68|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2018-PC68|
 |Hex ID (short code)|hexID|SZKFPGAXILINXXC218PC68|
-|Name|name|XC2018-PC68|
+|name|name|XC2018-PC68|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC2018-PC68', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

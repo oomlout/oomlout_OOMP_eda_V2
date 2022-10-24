@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS75005RGW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS75005RGW|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTPS755RGW|
-|Name|name|TPS75005RGW|
+|name|name|TPS75005RGW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS75005RGW', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-20-1EP_5x5mm_P0.65mm_EP3.35x3.35mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps75005.pdf', 'kicadSymbolki_keywords': 'Dual LDO Regulator Dual Integrated Power SVS Supervisor', 'kicadSymbolki_description': 'Integrated MCU Power Solution, Dual Low Drop-Out Regulator 500mA with Supervisor, VQFN20', 'kicadSymbolki_fp_filters': 'QFN*5x5mm*P0.65mm*'}]|
 ||||

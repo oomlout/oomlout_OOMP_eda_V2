@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AS5047D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5047D|
 |Hex ID (short code)|hexID|SZKSENMAGNETICAS547D|
-|Name|name|AS5047D|
+|name|name|AS5047D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AS5047D', 'kicadSymbolFootprint': 'Package_SO:TSSOP-14_4.4x5mm_P0.65mm', 'kicadSymbolDatasheet': 'https://ams.com/documents/20143/36005/AS5047D_DS000394_2-00.pdf', 'kicadSymbolki_keywords': 'Magnetic Hall Sensor', 'kicadSymbolki_description': 'On-Axis Magnetic Position Sensor, 14-bit, PWM Output, ABI Output, UVW Output, SPI Interface, TSSOP-14', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x5mm*P0.65mm*'}]|
 ||||

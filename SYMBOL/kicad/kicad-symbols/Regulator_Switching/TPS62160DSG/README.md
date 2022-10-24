@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS62160DSG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62160DSG|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS6216DSG|
-|Name|name|TPS62160DSG|
+|name|name|TPS62160DSG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS62170DSG', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS62160DSG', 'kicadSymbolFootprint': 'Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps62160.pdf', 'kicadSymbolki_keywords': 'step-down dc-dc buck regulator', 'kicadSymbolki_description': '1A Step-Down Converter with DCS-Control, adjustable output, 3-17V input voltage, WSON-8', 'kicadSymbolki_fp_filters': 'WSON*EP*2x2mm*P0.5mm*'}]|
 ||||

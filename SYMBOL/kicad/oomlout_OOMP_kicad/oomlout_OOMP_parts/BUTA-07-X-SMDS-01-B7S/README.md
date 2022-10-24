@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|BUTA-07-X-SMDS-01-B7S|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-07-X-SMDS-01-B7S|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSBUTA7XSMS1B7S|
-|Name|name|BUTA-07-X-SMDS-01-B7S|
+|name|name|BUTA-07-X-SMDS-01-B7S|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'BUTA-07-X-SMDS-01-B7S', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:BUTA-07-X-SMDS-01-B7S', 'kicadSymbolDatasheet': 'oom.lt/B7S', 'kicadSymbolki_keywords': 'switch normally-open pushbutton push-button', 'kicadSymbolki_description': 'hexID: B7S;Push button switch, generic, two pins'}]|
 ||||

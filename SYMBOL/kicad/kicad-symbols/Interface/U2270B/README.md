@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|U2270B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-U2270B|
 |Hex ID (short code)|hexID|SZKINTERFACEU227B|
-|Name|name|U2270B|
+|name|name|U2270B|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'U2270B', 'kicadSymbolFootprint': 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.farnell.com/datasheets/94393.pdf', 'kicadSymbolki_keywords': 'IDIC read/write base stations in contactless identification and immobilizer systems', 'kicadSymbolki_description': 'IDIC read/write base stations in contactless identification and immobilizer systems, SO-16', 'kicadSymbolki_fp_filters': 'SOIC*3.9x9.9mm*P1.27mm*'}]|
 ||||

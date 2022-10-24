@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP14A0902xMNY|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-MCP14A0902xMNY|
 |Hex ID (short code)|hexID|SZKDRIVERFETMCP14A92XMNY|
-|Name|name|MCP14A0902xMNY|
+|name|name|MCP14A0902xMNY|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP14A0902xMNY', 'kicadSymbolFootprint': 'Package_DFN_QFN:TDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/MCP14A0901_2-Data-Sheet-20006183A.pdf', 'kicadSymbolki_keywords': 'Driver, Dual MOSFET', 'kicadSymbolki_description': 'Dual 9A-Peak MOSFET Driver, non-inverting outputs, DFN-8', 'kicadSymbolki_fp_filters': 'TDFN*1EP*3x2mm*P0.5mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LH0002H|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-LH0002H|
 |Hex ID (short code)|hexID|SZKAMPLIFIERBUFFERLH2H|
-|Name|name|LH0002H|
+|name|name|LH0002H|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LH0002H', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-5-8', 'kicadSymbolDatasheet': 'http://www.calogic.net/pdf/LH0002_Datasheet_Rev_A.pdf', 'kicadSymbolki_keywords': 'Buffer', 'kicadSymbolki_description': 'Wide-Band, High Current, Unity Gain Buffer Amplifier, TO-5-8', 'kicadSymbolki_fp_filters': 'TO?5*'}]|
 ||||

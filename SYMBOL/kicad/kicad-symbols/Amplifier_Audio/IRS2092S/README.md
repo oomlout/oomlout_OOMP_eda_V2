@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRS2092S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS2092S|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOIRS292S|
-|Name|name|IRS2092S|
+|name|name|IRS2092S|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IRS2092S', 'kicadSymbolFootprint': 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.infineon.com/dgdl/irs2092.pdf?fileId=5546d462533600a401535675f1be2790', 'kicadSymbolki_keywords': 'Gate Driver Class D', 'kicadSymbolki_description': 'Protected Digital Audio Amplifier, PWM Modulator, +/-100V, 1.0/1.2A, SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*3.9x9.9mm*P1.27mm*'}]|
 ||||

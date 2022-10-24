@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DIN_Rail_Adapter|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Mechanical-DIN_Rail_Adapter|
 |Hex ID (short code)|hexID|SZKMECHANICALDINRAILADAPTER|
-|Name|name|DIN_Rail_Adapter|
+|name|name|DIN_Rail_Adapter|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'DRA', 'kicadSymbolValue': 'DIN_Rail_Adapter', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'Mounting holes, DIN rail adapter', 'kicadSymbolki_description': 'DIN Rail adapter universal, mounting holes without connection', 'kicadSymbolki_fp_filters': 'DINRailAdapter?3xM3* DINRailAdapter?2xM3*'}]|
 ||||

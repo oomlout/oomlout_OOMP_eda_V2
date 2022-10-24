@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|25LCxxx-MC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_EEPROM-25LCxxx-MC|
 |Hex ID (short code)|hexID|SZKMEMORYEEPROM25LCXXXMC|
-|Name|name|25LCxxx-MC|
+|name|name|25LCxxx-MC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '25LCxxx-MC', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.45mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/21832H.pdf', 'kicadSymbolki_keywords': 'EEPROM memory SPI serial', 'kicadSymbolki_description': 'SPI Serial EEPROM, DFN8', 'kicadSymbolki_fp_filters': 'DFN*3x2mm*P0.5mm*'}]|
 ||||

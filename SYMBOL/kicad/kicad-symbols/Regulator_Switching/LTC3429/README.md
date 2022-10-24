@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC3429|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3429|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLTC3429|
-|Name|name|LTC3429|
+|name|name|LTC3429|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC3429', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-6', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/3429fa.pdf', 'kicadSymbolki_keywords': 'boost step-up DC/DC synchronous', 'kicadSymbolki_description': '600mA, 500kHz Micropower Synchronous Boost Converter with Output Disconnect, TSOT-23-6', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VSOURCE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-pspice-VSOURCE|
 |Hex ID (short code)|hexID|SZKPSPICEVSOURCE|
-|Name|name|VSOURCE|
+|name|name|VSOURCE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'V', 'kicadSymbolValue': 'VSOURCE', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Voltage source symbol for simulation only'}]|
 ||||

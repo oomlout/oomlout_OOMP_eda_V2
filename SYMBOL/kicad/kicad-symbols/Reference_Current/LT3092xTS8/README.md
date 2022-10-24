@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT3092xTS8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Current-LT3092xTS8|
 |Hex ID (short code)|hexID|SZKREFERENCECURRENTLT392XTS8|
-|Name|name|LT3092xTS8|
+|name|name|LT3092xTS8|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT3092xTS8', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-8', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/3092fc.pdf', 'kicadSymbolki_keywords': 'current source', 'kicadSymbolki_description': '200mA 2-Terminal Programmable Current Source, TSOT-23-8', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
 ||||

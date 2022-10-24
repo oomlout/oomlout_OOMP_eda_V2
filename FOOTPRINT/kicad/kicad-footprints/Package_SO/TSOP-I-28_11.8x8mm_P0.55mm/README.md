@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TSOP-I-28_11.8x8mm_P0.55mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-I-28_11.8x8mm_P0.55mm|
 |Hex ID (short code)|hexID|FZKSOTSI28118X8P55|
-|Name|name|Package_SO : TSOP-I-28_11.8x8mm_P0.55mm|
+|name|name|Package_SO : TSOP-I-28_11.8x8mm_P0.55mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TSOP-I-28_11.8x8mm_P0.55mm', 'description': 'TSOP I, 28 pins, 18.8x8mm body, 0.55mm pitch, IPC-calculated pads (http://ww1.microchip.com/downloads/en/devicedoc/doc0807.pdf)', 'tags': 'TSOP I 28 pins', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSOP-I-28_11.8x8mm_P0.55mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-I-28_11.8x8mm_P0.55mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-I-28_11.8x8mm_P0.55mm/kicadPcb3d_450.png

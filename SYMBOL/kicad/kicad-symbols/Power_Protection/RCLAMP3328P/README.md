@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RCLAMP3328P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-RCLAMP3328P|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONRCLAMP3328P|
-|Name|name|RCLAMP3328P|
+|name|name|RCLAMP3328P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'RCLAMP3328P', 'kicadSymbolFootprint': 'Package_DFN_QFN:UDFN-9_1.0x3.8mm_P0.5mm', 'kicadSymbolDatasheet': 'https://media.digikey.com/pdf/Data%20Sheets/Semtech%20PDFs/RCLAMP3328P.pdf', 'kicadSymbolki_keywords': 'usb esd protection suppression transient', 'kicadSymbolki_description': 'Low Capacitance TVS Diode Array, 3.3V Standoff, 8 Channels, UDFN-9', 'kicadSymbolki_fp_filters': 'UDFN*1.0x3.8mm*P0.5mm*'}]|
 ||||

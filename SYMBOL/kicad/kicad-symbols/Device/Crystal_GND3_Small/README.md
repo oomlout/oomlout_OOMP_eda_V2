@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Crystal_GND3_Small|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Crystal_GND3_Small|
 |Hex ID (short code)|hexID|SZKDEVICEXGND3SLL|
-|Name|name|Crystal_GND3_Small|
+|name|name|Crystal_GND3_Small|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Y', 'kicadSymbolValue': 'Crystal_GND3_Small', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'quartz ceramic resonator oscillator', 'kicadSymbolki_description': 'Three pin crystal, GND on pin 3, small symbol', 'kicadSymbolki_fp_filters': 'Crystal*'}]|
 ||||

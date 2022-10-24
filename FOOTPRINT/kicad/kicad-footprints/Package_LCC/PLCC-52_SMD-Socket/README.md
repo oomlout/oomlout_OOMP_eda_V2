@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PLCC-52_SMD-Socket|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-52_SMD-Socket|
 |Hex ID (short code)|hexID|FZKLCCPLCC52SMSO|
-|Name|name|Package_LCC : PLCC-52_SMD-Socket|
+|name|name|Package_LCC : PLCC-52_SMD-Socket|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PLCC-52_SMD-Socket', 'description': 'PLCC, 52 pins, surface mount', 'tags': 'plcc smt', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LCC.3dshapes/PLCC-52_SMD-Socket.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-52_SMD-Socket/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-52_SMD-Socket/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Converter_DCDC_Murata_CRE1xxxxxx3C_THT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Murata_CRE1xxxxxx3C_THT|
 |Hex ID (short code)|hexID|FZKCONCONMCRE1XXXXXX3CTHT|
-|Name|name|Converter_DCDC : Converter_DCDC_Murata_CRE1xxxxxx3C_THT|
+|name|name|Converter_DCDC : Converter_DCDC_Murata_CRE1xxxxxx3C_THT|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_Murata_CRE1xxxxxx3C_THT', 'description': 'Isolated 1W single output DC/DC, http://power.murata.com/data/power/ncl/kdc_cre1.pdf', 'tags': 'Isolated 1W single output DC/DC', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Murata_CRE1xxxxxx3C_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Murata_CRE1xxxxxx3C_THT/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Murata_CRE1xxxxxx3C_THT/kicadPcb3d_450.png

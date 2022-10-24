@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PhoenixContact_MC_1,5_8-GF-3.5_1x08_P3.50mm_Horizontal_ThreadedFlange|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC-PhoenixContact_MC_1,5_8-GF-3.5_1x08_P3.50mm_Horizontal_ThreadedFlange|
 |Hex ID (short code)|hexID|FZKCNPHOENIXMCPHOENIXCONTACTMC158GF351X8P35HORIZONTALTHREADEDFLANGE|
-|Name|name|Connector_Phoenix_MC : PhoenixContact_MC_1,5_8-GF-3.5_1x08_P3.50mm_Horizontal_ThreadedFlange|
+|name|name|Connector_Phoenix_MC : PhoenixContact_MC_1,5_8-GF-3.5_1x08_P3.50mm_Horizontal_ThreadedFlange|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PhoenixContact_MC_1,5_8-GF-3.5_1x08_P3.50mm_Horizontal_ThreadedFlange', 'description': 'Generic Phoenix Contact connector footprint for: MC_1,5/8-GF-3.5; number of pins: 08; pin pitch: 3.50mm; Angled; threaded flange \|\| order number: 1843855 8A 160V', 'tags': 'phoenix_contact connector MC_01x08_GF_3.5mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MC.3dshapes/PhoenixContact_MC_1,5_8-GF-3.5_1x08_P3.50mm_Horizontal_ThreadedFlange.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_8-GF-3.5_1x08_P3.50mm_Horizontal_ThreadedFlange/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_8-GF-3.5_1x08_P3.50mm_Horizontal_ThreadedFlange/kicadPcb3d_450.png

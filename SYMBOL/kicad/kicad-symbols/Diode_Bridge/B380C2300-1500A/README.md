@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|B380C2300-1500A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Bridge-B380C2300-1500A|
 |Hex ID (short code)|hexID|SZKDIODEBRIDGEB38C2315A|
-|Name|name|B380C2300-1500A|
+|name|name|B380C2300-1500A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'B40C2300-1500A', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'B380C2300-1500A', 'kicadSymbolFootprint': 'Diode_THT:Diode_Bridge_19.0x3.5x10.0mm_P5.0mm', 'kicadSymbolDatasheet': 'https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40c2300.pdf', 'kicadSymbolki_keywords': 'rectifier acdc', 'kicadSymbolki_description': 'Silicon Bridge Rectifier, 380V Vrms, 1.5A If, pins=-AA+, SIL-package', 'kicadSymbolki_fp_filters': 'D*Bridge*19.0x3.5x10.0mm*P5.0mm*'}]|
 ||||

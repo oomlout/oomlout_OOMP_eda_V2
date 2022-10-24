@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|D_SOD-128|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-128|
 |Hex ID (short code)|hexID|FZKDIODESMDSOD128|
-|Name|name|Diode_SMD : D_SOD-128|
+|name|name|Diode_SMD : D_SOD-128|
 |Footprint Kicad|footprintKicadDetails|{'name': 'D_SOD-128', 'description': 'D_SOD-128 (CFP5 SlimSMAW), https://assets.nexperia.com/documents/outline-drawing/SOD128.pdf', 'tags': 'D_SOD-128', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-128.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SOD-128/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SOD-128/kicadPcb3d_450.png

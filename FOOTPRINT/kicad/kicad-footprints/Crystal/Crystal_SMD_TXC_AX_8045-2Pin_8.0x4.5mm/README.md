@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Crystal_SMD_TXC_AX_8045-2Pin_8.0x4.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_TXC_AX_8045-2Pin_8.0x4.5mm|
 |Hex ID (short code)|hexID|FZKXXSMTXCAX8452PIN8X45|
-|Name|name|Crystal : Crystal_SMD_TXC_AX_8045-2Pin_8.0x4.5mm|
+|name|name|Crystal : Crystal_SMD_TXC_AX_8045-2Pin_8.0x4.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_TXC_AX_8045-2Pin_8.0x4.5mm', 'description': 'http://www.txccrystal.com/images/pdf/ax-automotive.pdf', 'tags': 'SMD SMT crystal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_TXC_AX_8045-2Pin_8.0x4.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_TXC_AX_8045-2Pin_8.0x4.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_TXC_AX_8045-2Pin_8.0x4.5mm/kicadPcb3d_450.png

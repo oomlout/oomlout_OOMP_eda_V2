@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74S140|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx_IEEE-74S140|
 |Hex ID (short code)|hexID|SZK74XXIEEE74S14|
-|Name|name|74S140|
+|name|name|74S140|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74S140', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ST_VL53L1x|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Distance-ST_VL53L1x|
 |Hex ID (short code)|hexID|FZKSENDISTANCESTVL53L1X|
-|Name|name|Sensor_Distance : ST_VL53L1x|
+|name|name|Sensor_Distance : ST_VL53L1x|
 |Footprint Kicad|footprintKicadDetails|{'name': 'ST_VL53L1x', 'description': 'VL53L1x distance sensor', 'tags': 'VL53L1CXV0FY1 VL53L1x', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Distance.3dshapes/ST_VL53L1x.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||

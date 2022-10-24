@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Diode_Bridge_IXYS_GUFP|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_IXYS_GUFP|
 |Hex ID (short code)|hexID|FZKDDIODEBRIDGEIXYSGUFP|
-|Name|name|Diode_THT : Diode_Bridge_IXYS_GUFP|
+|name|name|Diode_THT : Diode_Bridge_IXYS_GUFP|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Diode_Bridge_IXYS_GUFP', 'description': 'Three phase, Bridge, Rectifier', 'tags': 'diode module', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_IXYS_GUFP.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_IXYS_GUFP/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_IXYS_GUFP/kicadPcb3d_450.png

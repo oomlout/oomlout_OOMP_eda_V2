@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLV73312PDBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV73312PDBV|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTLV73312PDBV|
-|Name|name|TLV73312PDBV|
+|name|name|TLV73312PDBV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LD39015M08R', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV73312PDBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tlv733p.pdf', 'kicadSymbolki_keywords': '300mA LDO Regulator Fixed Positive Capacitor-Free', 'kicadSymbolki_description': '300mA Capacitor-Free Low Dropout Voltage Regulator, Fixed Output 1.2V, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

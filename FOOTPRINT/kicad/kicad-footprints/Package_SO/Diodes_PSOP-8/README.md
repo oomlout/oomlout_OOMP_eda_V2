@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Diodes_PSOP-8|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-Diodes_PSOP-8|
 |Hex ID (short code)|hexID|FZKSODIODESPS8|
-|Name|name|Package_SO : Diodes_PSOP-8|
+|name|name|Package_SO : Diodes_PSOP-8|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Diodes_PSOP-8', 'description': '8-Lead Plastic PSOP, Exposed Die Pad (see https://www.diodes.com/assets/Datasheets/AP2204.pdf)', 'tags': 'SSOP 0.50 exposed pad', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Diodes_PSOP-8.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/Diodes_PSOP-8/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/Diodes_PSOP-8/kicadPcb3d_450.png

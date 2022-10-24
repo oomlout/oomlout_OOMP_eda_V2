@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Texas_S-PVQFN-N14_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N14_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNTEXASSPVQFNN14THERMALVIAS|
-|Name|name|Package_DFN_QFN : Texas_S-PVQFN-N14_ThermalVias|
+|name|name|Package_DFN_QFN : Texas_S-PVQFN-N14_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Texas_S-PVQFN-N14_ThermalVias', 'description': 'Texas_S-PVQFN-N14_ThermalVias  http://www.ti.com/lit/ds/symlink/txb0104.pdf', 'tags': 'Texas_S-PVQFN-N14_ThermalVias', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PVQFN-N14.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PVQFN-N14_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PVQFN-N14_ThermalVias/kicadPcb3d_450.png

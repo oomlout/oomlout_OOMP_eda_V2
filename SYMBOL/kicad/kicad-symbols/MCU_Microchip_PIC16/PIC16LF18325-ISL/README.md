@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16LF18325-ISL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16LF18325-ISL|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16LF18325ISL|
-|Name|name|PIC16LF18325-ISL|
+|name|name|PIC16LF18325-ISL|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC16F18325-ISL', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16LF18325-ISL', 'kicadSymbolFootprint': 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/40001795b.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller Low Power', 'kicadSymbolki_description': 'PIC16LF18325, 8192W FLASH, 1024B SRAM, SOIC14', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNDFN11EP26X26P5EP13X22THERMALVIAS|
-|Name|name|Package_DFN_QFN : DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm_ThermalVias|
+|name|name|Package_DFN_QFN : DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm_ThermalVias', 'description': 'DFN, 10 Pin (https://www.nxp.com/docs/en/data-sheet/PCF85063A.pdf#page=48), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'DFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm_ThermalVias/kicadPcb3d_450.png

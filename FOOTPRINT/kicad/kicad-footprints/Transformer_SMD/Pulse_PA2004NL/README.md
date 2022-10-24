@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Pulse_PA2004NL|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_PA2004NL|
 |Hex ID (short code)|hexID|FZKTRSMPULSEPA24NL|
-|Name|name|Transformer_SMD : Pulse_PA2004NL|
+|name|name|Transformer_SMD : Pulse_PA2004NL|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Pulse_PA2004NL', 'description': 'SMT Gate Drive Transformer, 1:1:1, 8.6x6.7x3.6mm (https://productfinder.pulseeng.com/products/datasheets/P663.pdf)', 'tags': 'pulse pa2004nl pa0264nl', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Pulse_PA2004NL.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

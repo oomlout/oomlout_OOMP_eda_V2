@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Vishay_CAST-3Pin|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Vishay_CAST-3Pin|
 |Hex ID (short code)|hexID|FZKOPVISHAYCAST3PIN|
-|Name|name|OptoDevice : Vishay_CAST-3Pin|
+|name|name|OptoDevice : Vishay_CAST-3Pin|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Vishay_CAST-3Pin', 'description': 'IR Receiver Vishay TSOP-xxxx, CAST package, see https://www.vishay.com/docs/82493/tsop311.pdf', 'tags': 'IRReceiverVishayTSOP-xxxx CAST', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Vishay_CAST-3Pin.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Vishay_CAST-3Pin/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/Vishay_CAST-3Pin/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AFBR-1624Z|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Fiber_Optic-AFBR-1624Z|
 |Hex ID (short code)|hexID|SZKFIBEROPTICAFBR1624Z|
-|Name|name|AFBR-1624Z|
+|name|name|AFBR-1624Z|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'AFBR-1624Z', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://docs.broadcom.com/docs/AV02-4369EN', 'kicadSymbolki_keywords': 'Fiber optic transmitter', 'kicadSymbolki_description': 'Versatile Link Fiber Optic Transmitter', 'kicadSymbolki_fp_filters': 'Broadcom*AFBR*16xxZ*'}]|
 ||||

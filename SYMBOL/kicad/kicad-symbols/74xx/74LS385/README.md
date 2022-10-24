@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS385|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS385|
 |Hex ID (short code)|hexID|SZK74XX74LS385|
-|Name|name|74LS385|
+|name|name|74LS385|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS385', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS385', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL ADD Arith ALU', 'kicadSymbolki_description': 'Quad serial Adder', 'kicadSymbolki_fp_filters': 'DIP?20*'}]|
 ||||

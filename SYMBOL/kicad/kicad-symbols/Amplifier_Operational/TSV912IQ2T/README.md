@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TSV912IQ2T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TSV912IQ2T|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALTSV912IQ2T|
-|Name|name|TSV912IQ2T|
+|name|name|TSV912IQ2T|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TSV912IQ2T', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP1.05x1.75mm', 'kicadSymbolDatasheet': 'www.st.com/resource/en/datasheet/tsv911.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'dual opamp', 'kicadSymbolki_description': 'Dual rail-to-rail input/output 8 MHz operational amplifiers, DFN-8', 'kicadSymbolki_fp_filters': 'DFN*2x2mm*P0.5mm*'}]|
 ||||

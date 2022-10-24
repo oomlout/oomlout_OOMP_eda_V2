@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C3D30065D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-C3D30065D|
 |Hex ID (short code)|hexID|SZKDIODEC3D365D|
-|Name|name|C3D30065D|
+|name|name|C3D30065D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'C3D16060D', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'C3D30065D', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-247-3_Vertical', 'kicadSymbolDatasheet': 'https://www.wolfspeed.com/media/downloads/969/C3D30065D.pdf', 'kicadSymbolki_keywords': 'sic diode', 'kicadSymbolki_description': '650V, 30A, SiC Schottky Diode, TO-247-3', 'kicadSymbolki_fp_filters': 'TO?247*'}]|
 ||||

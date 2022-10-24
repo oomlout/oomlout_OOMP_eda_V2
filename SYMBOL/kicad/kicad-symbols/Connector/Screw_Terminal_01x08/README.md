@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Screw_Terminal_01x08|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x08|
 |Hex ID (short code)|hexID|SZKCNSCREWTERMINAL1X8|
-|Name|name|Screw_Terminal_01x08|
+|name|name|Screw_Terminal_01x08|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Screw_Terminal_01x08', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'screw terminal', 'kicadSymbolki_description': 'Generic screw terminal, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'TerminalBlock*:*'}]|
 ||||

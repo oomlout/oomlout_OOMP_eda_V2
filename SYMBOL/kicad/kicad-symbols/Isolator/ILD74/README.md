@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ILD74|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-ILD74|
 |Hex ID (short code)|hexID|SZKISOLATORILD74|
-|Name|name|ILD74|
+|name|name|ILD74|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ILD74', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/83640/ild74.pdf', 'kicadSymbolki_keywords': 'NPN DC Dual Optocoupler', 'kicadSymbolki_description': 'Dual Optocoupler, NPN Phototransistor Output, TTL compatible, DIP8/SMD8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* DIP*W10.16mm* SMDIP*W9.53mm*Clearance8mm*'}]|
 ||||

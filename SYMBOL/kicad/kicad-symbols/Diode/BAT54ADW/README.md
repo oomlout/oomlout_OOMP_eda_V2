@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAT54ADW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAT54ADW|
 |Hex ID (short code)|hexID|SZKDIODEBAT54ADW|
-|Name|name|BAT54ADW|
+|name|name|BAT54ADW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAT54ADW', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'http://www.diodes.com/datasheets/ds30152.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Schottky diode array 2 pair Com A', 'kicadSymbolki_fp_filters': 'SOT?363*'}]|
 ||||

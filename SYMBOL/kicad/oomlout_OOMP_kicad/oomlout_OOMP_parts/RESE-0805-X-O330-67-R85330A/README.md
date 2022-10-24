@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O330-67-R85330A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O330-67-R85330A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO3367R8533A|
-|Name|name|RESE-0805-X-O330-67-R85330A|
+|name|name|RESE-0805-X-O330-67-R85330A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O330-67-R85330A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O330-67-R85330A', 'kicadSymbolDatasheet': 'oom.lt/R85330A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R85330A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

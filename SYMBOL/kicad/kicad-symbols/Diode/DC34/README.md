@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DC34|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-DC34|
 |Hex ID (short code)|hexID|SZKDIODEDC34|
-|Name|name|DC34|
+|name|name|DC34|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DB3', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'DC34', 'kicadSymbolFootprint': 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal', 'kicadSymbolDatasheet': 'http://cdn-reichelt.de/documents/datenblatt/A100/DB%203%23st.pdf', 'kicadSymbolki_keywords': 'AC diode DIAC', 'kicadSymbolki_description': '40V 2A Bidirectional trigger diode, DO-35', 'kicadSymbolki_fp_filters': 'D*DO?35*'}]|
 ||||

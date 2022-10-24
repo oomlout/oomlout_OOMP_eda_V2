@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LNK458K|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK458K|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK458K|
-|Name|name|LNK458K|
+|name|name|LNK458K|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LNK457K', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LNK458K', 'kicadSymbolFootprint': 'Package_SO:PowerIntegrations_eSOP-12B', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/linkswitch-pl_family_datasheet.pdf', 'kicadSymbolki_keywords': 'LED Driver IC with TRIAC Dimming, Single-Stage PFC and Constant Current Control for Non-Isolated Applications', 'kicadSymbolki_description': 'LinkSwitch-PL Family, 11.5W Output Power, eSOP-12B', 'kicadSymbolki_fp_filters': 'PowerIntegrations?eSOP?12B*'}]|
 ||||

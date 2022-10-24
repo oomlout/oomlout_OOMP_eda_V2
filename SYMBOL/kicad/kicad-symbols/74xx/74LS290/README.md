@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS290|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS290|
 |Hex ID (short code)|hexID|SZK74XX74LS29|
-|Name|name|74LS290|
+|name|name|74LS290|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS290', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS290', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL CNT CNT4', 'kicadSymbolki_description': '4-bit BCD counter', 'kicadSymbolki_fp_filters': 'DIP?12*'}]|
 ||||

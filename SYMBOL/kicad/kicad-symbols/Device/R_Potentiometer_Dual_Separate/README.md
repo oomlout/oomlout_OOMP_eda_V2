@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|R_Potentiometer_Dual_Separate|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Dual_Separate|
 |Hex ID (short code)|hexID|SZKDEVICERPOTENTIOMETERDUALSEPARATE|
-|Name|name|R_Potentiometer_Dual_Separate|
+|name|name|R_Potentiometer_Dual_Separate|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'RV', 'kicadSymbolValue': 'R_Potentiometer_Dual_Separate', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'resistor variable', 'kicadSymbolki_description': 'Dual potentiometer, separate units', 'kicadSymbolki_fp_filters': 'Potentiometer*'}]|
 ||||

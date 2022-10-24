@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PCA9547BS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9547BS|
 |Hex ID (short code)|hexID|SZKINTERFACEEXPANSIONPCA9547BS|
-|Name|name|PCA9547BS|
+|name|name|PCA9547BS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PCA9547BS', 'kicadSymbolFootprint': 'Package_DFN_QFN:HVQFN-24-1EP_4x4mm_P0.5mm_EP2.1x2.1mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/PCA9547.pdf', 'kicadSymbolki_keywords': 'Low voltage 8-channel I2C switch with reset', 'kicadSymbolki_description': 'Low voltage 8-channel I2C switch with reset, HVQFN-24', 'kicadSymbolki_fp_filters': 'HVQFN*4x4mm*P0.5mm*'}]|
 ||||

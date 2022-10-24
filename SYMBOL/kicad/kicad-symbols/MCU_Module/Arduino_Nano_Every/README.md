@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Arduino_Nano_Every|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Nano_Every|
 |Hex ID (short code)|hexID|SZKMCUMOARDNANOEVERY|
-|Name|name|Arduino_Nano_Every|
+|name|name|Arduino_Nano_Every|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'A', 'kicadSymbolValue': 'Arduino_Nano_Every', 'kicadSymbolFootprint': 'Module:Arduino_Nano', 'kicadSymbolDatasheet': 'https://content.arduino.cc/assets/NANOEveryV3.0_sch.pdf', 'kicadSymbolki_keywords': 'Arduino nano microcontroller module USB UPDI AATMega4809 AVR', 'kicadSymbolki_description': 'Arduino Nano Every', 'kicadSymbolki_fp_filters': 'Arduino*Nano*'}]|
 ||||

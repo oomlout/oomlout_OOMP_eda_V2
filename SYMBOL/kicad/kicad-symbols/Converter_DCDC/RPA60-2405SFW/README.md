@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RPA60-2405SFW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-RPA60-2405SFW|
 |Hex ID (short code)|hexID|SZKCONRPA6245SFW|
-|Name|name|RPA60-2405SFW|
+|name|name|RPA60-2405SFW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'RPA60-2405SFW', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_RECOM_RPA60-xxxxSFW', 'kicadSymbolDatasheet': 'https://recom-power.com/pdf/Powerline_DC-DC/RPA60-FW.pdf', 'kicadSymbolki_keywords': 'isolated isolation dc-dc converter step-down', 'kicadSymbolki_description': 'Isolated 60W 4:1 input DC/DC converter module, 9-36V input voltage, 5V output voltage, DIP', 'kicadSymbolki_fp_filters': 'Converter*DCDC*RECOM*RPA60?xxxxSFW*'}]|
 ||||

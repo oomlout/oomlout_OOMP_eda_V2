@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|D_SOD-323_HandSoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-323_HandSoldering|
 |Hex ID (short code)|hexID|FZKDIODESMDSOD323HANDSOLDERING|
-|Name|name|Diode_SMD : D_SOD-323_HandSoldering|
+|name|name|Diode_SMD : D_SOD-323_HandSoldering|
 |Footprint Kicad|footprintKicadDetails|{'name': 'D_SOD-323_HandSoldering', 'description': 'SOD-323', 'tags': 'SOD-323', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SOD-323_HandSoldering/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SOD-323_HandSoldering/kicadPcb3d_450.png

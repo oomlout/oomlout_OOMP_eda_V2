@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4050|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx-4050|
 |Hex ID (short code)|hexID|SZK4XXX45|
-|Name|name|4050|
+|name|name|4050|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4050', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.intersil.com/content/dam/intersil/documents/cd40/cd4050bms.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'CMOS BUFFER', 'kicadSymbolki_description': 'Hex Buffer', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

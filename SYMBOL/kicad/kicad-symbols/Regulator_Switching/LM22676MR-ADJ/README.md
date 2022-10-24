@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM22676MR-ADJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM22676MR-ADJ|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM22676MRADJ|
-|Name|name|LM22676MR-ADJ|
+|name|name|LM22676MR-ADJ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM22676MR-ADJ', 'kicadSymbolFootprint': 'Package_SO:TI_SO-PowerPAD-8', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm22676.pdf', 'kicadSymbolki_keywords': 'DC/DC Buck Converter 3A', 'kicadSymbolki_description': '3A Step-Down Switching Voltage Regulater, 4.5-42V Input, Adjustable Output, 500kHz Switching Frequency, SOIC-8', 'kicadSymbolki_fp_filters': 'TI*SO*PowerPAD*'}]|
 ||||

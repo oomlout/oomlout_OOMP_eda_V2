@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y|
 |Hex ID (short code)|hexID|FZKLGALGA143X5P8LAYOUTBORDER1X6Y|
-|Name|name|Package_LGA : LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y|
+|name|name|Package_LGA : LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y', 'description': 'LGA, 14 Pin (http://www.st.com/resource/en/datasheet/lsm303dlhc.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'LGA NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y/kicadPcb3d_450.png

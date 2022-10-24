@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PMEG2020EH|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-PMEG2020EH|
 |Hex ID (short code)|hexID|SZKDIODEPMEG22EH|
-|Name|name|PMEG2020EH|
+|name|name|PMEG2020EH|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PMEG2005EH', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'PMEG2020EH', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-123F', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/PMEG2020EH_EJ.pdf', 'kicadSymbolki_keywords': 'forward voltage diode', 'kicadSymbolki_description': '20V, 2A very low Vf MEGA Schottky barrier rectifier, SOD-123F', 'kicadSymbolki_fp_filters': 'D*SOD?123F*'}]|
 ||||

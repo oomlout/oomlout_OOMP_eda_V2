@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TSSOP-16-1EP_4.4x5mm_P0.65mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-16-1EP_4.4x5mm_P0.65mm|
 |Hex ID (short code)|hexID|FZKSOTSS161EP44X5P65|
-|Name|name|Package_SO : TSSOP-16-1EP_4.4x5mm_P0.65mm|
+|name|name|Package_SO : TSSOP-16-1EP_4.4x5mm_P0.65mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TSSOP-16-1EP_4.4x5mm_P0.65mm', 'description': 'FE Package; 16-Lead Plastic TSSOP (4.4mm); Exposed Pad Variation BB; (see Linear Technology 1956f.pdf)', 'tags': 'SSOP 0.65', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-16-1EP_4.4x5mm_P0.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-16-1EP_4.4x5mm_P0.65mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-16-1EP_4.4x5mm_P0.65mm/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DWM1000|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-DWM1000|
 |Hex ID (short code)|hexID|FZKRFMODWM1|
-|Name|name|RF_Module : DWM1000|
+|name|name|RF_Module : DWM1000|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DWM1000', 'description': 'IEEE802.15.4-2011 UWB', 'tags': 'UWB Module', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/DWM1000.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

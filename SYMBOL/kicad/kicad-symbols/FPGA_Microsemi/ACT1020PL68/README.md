@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ACT1020PL68|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-ACT1020PL68|
 |Hex ID (short code)|hexID|SZKFPGAMSEMIACT12PL68|
-|Name|name|ACT1020PL68|
+|name|name|ACT1020PL68|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ACT1020PL68', 'kicadSymbolFootprint': 'Package_LCC:PLCC-68_24.2x24.2mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.microsemi.com/document-portal/doc_download/130666-act-1-series-fpgas-datasheet', 'kicadSymbolki_keywords': 'Actel FPGA', 'kicadSymbolki_description': 'ACT1020-PL68, Actel ACT1 FPGA, PLCC-68', 'kicadSymbolki_fp_filters': '*PLCC*24.2x24.2mm*P1.27mm*'}]|
 ||||

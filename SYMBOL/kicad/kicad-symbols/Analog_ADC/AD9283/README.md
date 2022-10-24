@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD9283|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-AD9283|
 |Hex ID (short code)|hexID|SZKANALOGADCAD9283|
-|Name|name|AD9283|
+|name|name|AD9283|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD9283', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD9283.pdf', 'kicadSymbolki_keywords': 'ADC', 'kicadSymbolki_description': 'ADC 50MHz 8 bits, SSOP-20'}]|
 ||||

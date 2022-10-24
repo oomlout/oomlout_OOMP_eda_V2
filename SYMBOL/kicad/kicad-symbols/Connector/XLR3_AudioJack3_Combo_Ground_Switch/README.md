@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XLR3_AudioJack3_Combo_Ground_Switch|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-XLR3_AudioJack3_Combo_Ground_Switch|
 |Hex ID (short code)|hexID|SZKCNXLR3AUDIOJ3COMBOGROUNDSWITCH|
-|Name|name|XLR3_AudioJack3_Combo_Ground_Switch|
+|name|name|XLR3_AudioJack3_Combo_Ground_Switch|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'XLR3_AudioJack3_Combo_Ground_Switch', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'xlr connector', 'kicadSymbolki_description': 'XLR (Male or Female) and Audio Jack (Stereo / TRS, Switched Poles (Normalling)) Combo Connector, Discrete Ground Pin', 'kicadSymbolki_fp_filters': 'Jack*XLR*6.35mm*'}]|
 ||||

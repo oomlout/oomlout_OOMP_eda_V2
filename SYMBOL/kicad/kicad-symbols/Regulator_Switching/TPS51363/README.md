@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS51363|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS51363|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS51363|
-|Name|name|TPS51363|
+|name|name|TPS51363|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS51363', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_R-PWQFN-N28_EP2.1x3.1mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps51363.pdf', 'kicadSymbolki_keywords': 'Step-down', 'kicadSymbolki_description': 'High-voltage input, synchronous converter with integrated FET, QFN-28', 'kicadSymbolki_fp_filters': '*QFN*EP2.1x3.1mm*'}]|
 ||||

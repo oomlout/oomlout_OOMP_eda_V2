@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC5VLX155-FF1760|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VLX155-FF1760|
 |Hex ID (short code)|hexID|SZKFPGAXILINXVIRTEX5XC5VLX155FF176|
-|Name|name|XC5VLX155-FF1760|
+|name|name|XC5VLX155-FF1760|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC5VLX155-FF1760', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Virtex 5 LX 155 XC5VLX155-FF1760'}]|
 ||||

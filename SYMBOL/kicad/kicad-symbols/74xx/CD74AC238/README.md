@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CD74AC238|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-CD74AC238|
 |Hex ID (short code)|hexID|SZK74XXCD74AC238|
-|Name|name|CD74AC238|
+|name|name|CD74AC238|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74HC238', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CD74AC238', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/cd74ac238.pdf', 'kicadSymbolki_keywords': 'demux', 'kicadSymbolki_description': '3-to-8 line decoder/multiplexer, SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*3.9x9.9mm*P1.27mm*'}]|
 ||||

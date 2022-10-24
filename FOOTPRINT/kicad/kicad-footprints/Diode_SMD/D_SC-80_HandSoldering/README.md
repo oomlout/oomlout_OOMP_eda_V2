@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|D_SC-80_HandSoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SC-80_HandSoldering|
 |Hex ID (short code)|hexID|FZKDIODESMDSC8HANDSOLDERING|
-|Name|name|Diode_SMD : D_SC-80_HandSoldering|
+|name|name|Diode_SMD : D_SC-80_HandSoldering|
 |Footprint Kicad|footprintKicadDetails|{'name': 'D_SC-80_HandSoldering', 'description': 'JEITA SC-80', 'tags': 'SC-80', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SC-80.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SC-80_HandSoldering/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SC-80_HandSoldering/kicadPcb3d_450.png

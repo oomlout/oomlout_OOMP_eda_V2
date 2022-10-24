@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ISOURCE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-pspice-ISOURCE|
 |Hex ID (short code)|hexID|SZKPSPICEISOURCE|
-|Name|name|ISOURCE|
+|name|name|ISOURCE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'I', 'kicadSymbolValue': 'ISOURCE', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Current source symbol for simulation only'}]|
 ||||

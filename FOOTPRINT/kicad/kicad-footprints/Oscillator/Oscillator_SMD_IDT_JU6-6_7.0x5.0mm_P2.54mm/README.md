@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Oscillator_SMD_IDT_JU6-6_7.0x5.0mm_P2.54mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_IDT_JU6-6_7.0x5.0mm_P2.54mm|
 |Hex ID (short code)|hexID|FZKOCSOCSSMIDTJU667X5P254|
-|Name|name|Oscillator : Oscillator_SMD_IDT_JU6-6_7.0x5.0mm_P2.54mm|
+|name|name|Oscillator : Oscillator_SMD_IDT_JU6-6_7.0x5.0mm_P2.54mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Oscillator_SMD_IDT_JU6-6_7.0x5.0mm_P2.54mm', 'description': 'SMD Crystal Oscillator IDT https://www.idt.com/document/dst/xu-family-datasheet#page=17, 7.0x5.0mm', 'tags': 'SMD SMT crystal oscillator', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_IDT_JU6-6_7.0x5.0mm_P2.54mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_IDT_JU6-6_7.0x5.0mm_P2.54mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_IDT_JU6-6_7.0x5.0mm_P2.54mm/kicadPcb3d_450.png

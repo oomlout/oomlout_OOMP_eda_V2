@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TEA5115|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Video-TEA5115|
 |Hex ID (short code)|hexID|SZKVIDEOTEA5115|
-|Name|name|TEA5115|
+|name|name|TEA5115|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TEA5115', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Infineon_PG-TISON-8-5|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-Infineon_PG-TISON-8-5|
 |Hex ID (short code)|hexID|FZKSONINFINEONPGTISON85|
-|Name|name|Package_SON : Infineon_PG-TISON-8-5|
+|name|name|Package_SON : Infineon_PG-TISON-8-5|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Infineon_PG-TISON-8-5', 'description': 'Infineon, PG-TISON-8-5, 8x8x1.1mm, 1mm Pitch, https://www.infineon.com/cms/en/product/packages/PG-TISON/PG-TISON-8-5/', 'tags': 'tison', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Infineon_PG-TISON-8-5.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/Infineon_PG-TISON-8-5/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SON/Infineon_PG-TISON-8-5/kicadPcb3d_450.png

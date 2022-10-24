@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AudioJack2_Ground|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-AudioJack2_Ground|
 |Hex ID (short code)|hexID|SZKCNAUDIOJ2GROUND|
-|Name|name|AudioJack2_Ground|
+|name|name|AudioJack2_Ground|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'AudioJack2_Ground', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'audio jack receptacle mono phone headphone TS connector', 'kicadSymbolki_description': 'Audio Jack, 2 Poles (Mono / TS), Grounded Sleeve', 'kicadSymbolki_fp_filters': 'Jack*'}]|
 ||||

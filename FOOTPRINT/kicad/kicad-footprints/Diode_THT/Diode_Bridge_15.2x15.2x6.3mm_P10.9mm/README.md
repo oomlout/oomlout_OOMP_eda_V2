@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Diode_Bridge_15.2x15.2x6.3mm_P10.9mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_15.2x15.2x6.3mm_P10.9mm|
 |Hex ID (short code)|hexID|FZKDDIODEBRIDGE152X152X63P19|
-|Name|name|Diode_THT : Diode_Bridge_15.2x15.2x6.3mm_P10.9mm|
+|name|name|Diode_THT : Diode_Bridge_15.2x15.2x6.3mm_P10.9mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Diode_Bridge_15.2x15.2x6.3mm_P10.9mm', 'description': 'Single phase bridge rectifier case 15.2x15.2mm, pitch 10.9mm, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/kbpc600.pdf', 'tags': 'Diode Bridge KBPC6xx', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_15.2x15.2x6.3mm_P10.9mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_15.2x15.2x6.3mm_P10.9mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_15.2x15.2x6.3mm_P10.9mm/kicadPcb3d_450.png

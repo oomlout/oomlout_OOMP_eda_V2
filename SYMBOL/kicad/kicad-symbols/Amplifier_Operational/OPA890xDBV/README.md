@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA890xDBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA890xDBV|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA89XDBV|
-|Name|name|OPA890xDBV|
+|name|name|OPA890xDBV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA890xDBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/opa890.pdf', 'kicadSymbolki_keywords': 'single opamp wideband low-power', 'kicadSymbolki_description': 'Single Low-Power, Wideband, Voltage-Feedback Operational Amplifier with Disable, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|R_Potentiometer_Trim|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Trim|
 |Hex ID (short code)|hexID|SZKDEVICERPOTENTIOMETERTRIM|
-|Name|name|R_Potentiometer_Trim|
+|name|name|R_Potentiometer_Trim|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'RV', 'kicadSymbolValue': 'R_Potentiometer_Trim', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'resistor variable trimpot trimmer', 'kicadSymbolki_description': 'Trim-potentiometer', 'kicadSymbolki_fp_filters': 'Potentiometer*'}]|
 ||||

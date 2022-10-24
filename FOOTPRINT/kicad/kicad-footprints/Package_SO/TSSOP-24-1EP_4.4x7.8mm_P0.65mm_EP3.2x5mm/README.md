@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm|
 |Hex ID (short code)|hexID|FZKSOTSS241EP44X78P65EP32X5|
-|Name|name|Package_SO : TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm|
+|name|name|Package_SO : TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm', 'description': 'TSSOP, 24 Pin (https://www.st.com/resource/en/datasheet/led1642gw.pdf#page=37), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'TSSOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm/kicadPcb3d_450.png

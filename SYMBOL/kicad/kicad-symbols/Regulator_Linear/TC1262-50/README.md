@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TC1262-50|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1262-50|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTC12625|
-|Name|name|TC1262-50|
+|name|name|TC1262-50|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TC1262-33', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TC1262-50', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/21373C.pdf', 'kicadSymbolki_keywords': 'Voltage Regulator 5.0V 500mA Positive CMOS LDO Microchip', 'kicadSymbolki_description': '500mA Low Dropout CMOS Voltage Regulator, Fixed Output 5.0V, TO-220/SOT-223/TO-263', 'kicadSymbolki_fp_filters': 'SOT?223* TO?220* TO?263*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS54340DDA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54340DDA|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS5434DDA|
-|Name|name|TPS54340DDA|
+|name|name|TPS54340DDA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS54360DDA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS54340DDA', 'kicadSymbolFootprint': 'Package_SO:TI_SO-PowerPAD-8_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps54340.pdf', 'kicadSymbolki_keywords': 'Step-Down DC-DC Switching Regulator High Voltage High Frequency', 'kicadSymbolki_description': '3.5A, Step Down DC-DC Converter with Eco-mode, 4.5-42V Input Voltage, PowerSO-8', 'kicadSymbolki_fp_filters': 'TI*SO*PowerPAD*ThermalVias*'}]|
 ||||

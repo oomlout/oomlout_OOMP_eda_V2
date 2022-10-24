@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Converter_DCDC_Cyntec_MUN12AD03-SH|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Cyntec_MUN12AD03-SH|
 |Hex ID (short code)|hexID|FZKCONCONCYNTECMUN12AD3SH|
-|Name|name|Converter_DCDC : Converter_DCDC_Cyntec_MUN12AD03-SH|
+|name|name|Converter_DCDC : Converter_DCDC_Cyntec_MUN12AD03-SH|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_Cyntec_MUN12AD03-SH', 'description': 'http://www.cyntec.com/upfile/products/download/Cyntec%20MUN12AD03-SH_Datasheet.pdf', 'tags': 'Power Module uPOL MUN12AD03', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Cyntec_MUN12AD0x-SH.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Cyntec_MUN12AD03-SH/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Cyntec_MUN12AD03-SH/kicadPcb3d_450.png

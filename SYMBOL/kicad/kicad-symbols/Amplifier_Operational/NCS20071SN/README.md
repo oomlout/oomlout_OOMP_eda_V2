@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCS20071SN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20071SN|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALNCS271SN|
-|Name|name|NCS20071SN|
+|name|name|NCS20071SN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCS20071SN', 'kicadSymbolFootprint': 'Package_SO:TSOP-5_1.65x3.05mm_P0.95mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/NCS20071-D.PDF', 'kicadSymbolki_keywords': 'OpAmp Rail-to-rail Output Single vfa', 'kicadSymbolki_description': 'Single, 2.8V/µs, Rail-to-Rail Output, TSOP-5', 'kicadSymbolki_fp_filters': 'TSOP*1.65x3.05mm*P0.95mm*'}]|
 ||||

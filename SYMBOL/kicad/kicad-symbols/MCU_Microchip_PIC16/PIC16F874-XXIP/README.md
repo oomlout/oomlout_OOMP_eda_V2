@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F874-XXIP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F874-XXIP|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F874XXIP|
-|Name|name|PIC16F874-XXIP|
+|name|name|PIC16F874-XXIP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F874-XXIP', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/30292C.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit CMOS Microcontroller', 'kicadSymbolki_description': 'PIC16F874, 4K Flash, 192B SRAM, 128B EEPROM, DIP40', 'kicadSymbolki_fp_filters': 'DIP* PDIP*'}]|
 ||||

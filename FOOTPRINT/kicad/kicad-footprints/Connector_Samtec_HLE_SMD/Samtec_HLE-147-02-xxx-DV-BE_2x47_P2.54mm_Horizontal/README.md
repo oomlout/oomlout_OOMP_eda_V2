@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Samtec_HLE-147-02-xxx-DV-BE_2x47_P2.54mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_SMD-Samtec_HLE-147-02-xxx-DV-BE_2x47_P2.54mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNSAMTECHLESMSAMTECHLE1472XXXDVBE2X47P254HORIZONTAL|
-|Name|name|Connector_Samtec_HLE_SMD : Samtec_HLE-147-02-xxx-DV-BE_2x47_P2.54mm_Horizontal|
+|name|name|Connector_Samtec_HLE_SMD : Samtec_HLE-147-02-xxx-DV-BE_2x47_P2.54mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Samtec_HLE-147-02-xxx-DV-BE_2x47_P2.54mm_Horizontal', 'description': 'Samtec HLE .100" Tiger Beam Cost-effective Single Beam Socket Strip, HLE-147-02-xxx-DV-BE, 47 Pins per row (http://suddendocs.samtec.com/prints/hle-1xx-02-xxx-dv-xx-xx-xx-mkt.pdf, http://suddendocs.samtec.com/prints/hle-dv-footprint.pdf), generated with kicad-footprint-generator', 'tags': 'connector Samtec HLE horizontal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Samtec_HLE_SMD.3dshapes/Samtec_HLE-147-02-xxx-DV_2x47_P2.54mm_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_SMD/Samtec_HLE-147-02-xxx-DV-BE_2x47_P2.54mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_SMD/Samtec_HLE-147-02-xxx-DV-BE_2x47_P2.54mm_Horizontal/kicadPcb3d_450.png

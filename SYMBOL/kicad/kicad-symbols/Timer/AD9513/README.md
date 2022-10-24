@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD9513|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-AD9513|
 |Hex ID (short code)|hexID|SZKTIMERAD9513|
-|Name|name|AD9513|
+|name|name|AD9513|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD9513', 'kicadSymbolFootprint': 'Package_CSP:LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD9513.pdf', 'kicadSymbolki_keywords': 'clock distribution LVDS CMOS', 'kicadSymbolki_description': '800 MHz, 3 Outputs, Clock Distribution IC, Divider, Delay Adjust, LFCSP-32', 'kicadSymbolki_fp_filters': 'LFCSP*1EP*5x5mm*P0.5mm*'}]|
 ||||

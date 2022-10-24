@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Fuseholder_Clip-6.3x32mm_Littelfuse_122_Inline_P34.21x7.62mm_D2.54mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Clip-6.3x32mm_Littelfuse_122_Inline_P34.21x7.62mm_D2.54mm_Horizontal|
 |Hex ID (short code)|hexID|FZKFUFUHOLDERCLIP63X32LITTELFU122IP3421X762D254HORIZONTAL|
-|Name|name|Fuse : Fuseholder_Clip-6.3x32mm_Littelfuse_122_Inline_P34.21x7.62mm_D2.54mm_Horizontal|
+|name|name|Fuse : Fuseholder_Clip-6.3x32mm_Littelfuse_122_Inline_P34.21x7.62mm_D2.54mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Fuseholder_Clip-6.3x32mm_Littelfuse_122_Inline_P34.21x7.62mm_D2.54mm_Horizontal', 'description': 'Fuseholder Clips, 6.3x32mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 122 Bowed Leads, https://www.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_102_122_datasheet.pdf.pdf', 'tags': 'fuse clip open', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Clip-6.3x32mm_Littelfuse_122_Inline_P34.21x7.62mm_D2.54mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Clip-6.3x32mm_Littelfuse_122_Inline_P34.21x7.62mm_D2.54mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Clip-6.3x32mm_Littelfuse_122_Inline_P34.21x7.62mm_D2.54mm_Horizontal/kicadPcb3d_450.png

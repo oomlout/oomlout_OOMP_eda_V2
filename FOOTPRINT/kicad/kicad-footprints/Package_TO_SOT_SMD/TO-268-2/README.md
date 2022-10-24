@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-268-2|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-268-2|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMTO2682|
-|Name|name|Package_TO_SOT_SMD : TO-268-2|
+|name|name|Package_TO_SOT_SMD : TO-268-2|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-268-2', 'description': 'TO-268/D3PAK SMD package, http://www.icbank.com/icbank_data/semi_package/to268aa_dim.pdf', 'tags': 'D3PAK TO-268 D3PAK-3 TO-268-3', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-268-2.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-268-2/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-268-2/kicadPcb3d_450.png

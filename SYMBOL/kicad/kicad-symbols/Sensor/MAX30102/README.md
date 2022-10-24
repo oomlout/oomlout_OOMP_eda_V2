@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX30102|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor-MAX30102|
 |Hex ID (short code)|hexID|SZKSENMAX312|
-|Name|name|MAX30102|
+|name|name|MAX30102|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX30102', 'kicadSymbolFootprint': 'OptoDevice:Maxim_OLGA-14_3.3x5.6mm_P0.8mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX30102.pdf', 'kicadSymbolki_keywords': 'Heart Rate', 'kicadSymbolki_description': 'Heart Rate Sensor, 14-OLGA', 'kicadSymbolki_fp_filters': 'Maxim*OLGA*3.3x5.6mm*P0.8mm*'}]|
 ||||

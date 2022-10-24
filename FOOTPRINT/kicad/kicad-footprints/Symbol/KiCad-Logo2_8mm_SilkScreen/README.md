@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|KiCad-Logo2_8mm_SilkScreen|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-KiCad-Logo2_8mm_SilkScreen|
 |Hex ID (short code)|hexID|FZKSZKICADL28SILKSCREEN|
-|Name|name|Symbol : KiCad-Logo2_8mm_SilkScreen|
+|name|name|Symbol : KiCad-Logo2_8mm_SilkScreen|
 |Footprint Kicad|footprintKicadDetails|{'name': 'KiCad-Logo2_8mm_SilkScreen', 'description': 'KiCad Logo', 'tags': 'Logo KiCad', 'attributeType': None, 'pins': {}}|
 ||||

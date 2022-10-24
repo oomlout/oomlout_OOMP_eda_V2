@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MT48LC32M8A2TG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_RAM-MT48LC32M8A2TG|
 |Hex ID (short code)|hexID|SZKMEMORYRAMMT48LC32M8A2TG|
-|Name|name|MT48LC32M8A2TG|
+|name|name|MT48LC32M8A2TG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MT48LC32M8A2TG', 'kicadSymbolFootprint': 'Package_SO:TSOP-II-54_22.2x10.16mm_P0.8mm', 'kicadSymbolDatasheet': 'https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/256mb_sdr.pdf', 'kicadSymbolki_keywords': 'SDRAM Synchronous DRAM PC100 PC133 256Mb 32Mbx8 MEMORY', 'kicadSymbolki_description': '256M – (32M x 8 bit) Synchronous DRAM (SDRAM), TSOP-II-54', 'kicadSymbolki_fp_filters': 'TSOP?II*22.2x10.16mm*P0.8mm*'}]|
 ||||

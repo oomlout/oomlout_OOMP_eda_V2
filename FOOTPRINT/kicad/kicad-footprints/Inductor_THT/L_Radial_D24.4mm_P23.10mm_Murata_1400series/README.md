@@ -29,6 +29,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L_Radial_D24.4mm_P23.10mm_Murata_1400series|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D24.4mm_P23.10mm_Murata_1400series|
 |Hex ID (short code)|hexID|FZKINLRD244P231M14SERIES|
-|Name|name|Inductor_THT : L_Radial_D24.4mm_P23.10mm_Murata_1400series|
+|name|name|Inductor_THT : L_Radial_D24.4mm_P23.10mm_Murata_1400series|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Radial_D24.4mm_P23.10mm_Murata_1400series', 'description': 'Inductor, Radial series, Radial, pin pitch=23.10mm, , diameter=24.4mm, muRATA, 1400series, http://www.murata-ps.com/data/magnetics/kmp_1400.pdf', 'tags': 'Inductor Radial series Radial pin pitch 23.10mm  diameter 24.4mm muRATA 1400series', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D24.4mm_P23.10mm_Murata_1400series.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

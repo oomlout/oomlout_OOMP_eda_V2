@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Altech_AK300_1x20_P5.00mm_45-Degree|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Altech-Altech_AK300_1x20_P5.00mm_45-Degree|
 |Hex ID (short code)|hexID|FZKTBALTECHALTECHAK31X2P545DEGREE|
-|Name|name|TerminalBlock_Altech : Altech_AK300_1x20_P5.00mm_45-Degree|
+|name|name|TerminalBlock_Altech : Altech_AK300_1x20_P5.00mm_45-Degree|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Altech_AK300_1x20_P5.00mm_45-Degree', 'description': 'Altech AK300 serie terminal block (Script generated with StandardBox.py) (http://www.altechcorp.com/PDFS/PCBMETRC.PDF)', 'tags': 'Altech AK300 serie connector', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/TerminalBlock_Altech.3dshapes/Altech_AK300_1x20_P5.00mm_45-Degree.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

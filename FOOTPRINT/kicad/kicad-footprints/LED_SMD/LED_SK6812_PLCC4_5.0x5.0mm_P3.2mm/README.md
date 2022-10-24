@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm|
 |Hex ID (short code)|hexID|FZKLSMLSK6812PLCC45X5P32|
-|Name|name|LED_SMD : LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm|
+|name|name|LED_SMD : LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm', 'description': 'https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf', 'tags': 'LED RGB NeoPixel', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm/kicadPcb3d_450.png

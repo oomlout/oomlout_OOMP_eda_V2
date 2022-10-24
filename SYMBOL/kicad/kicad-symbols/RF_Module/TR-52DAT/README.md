@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|TR-52DAT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Module-TR-52DAT|
 |Hex ID (short code)|hexID|SZKRFMOTR52DAT|
-|Name|name|TR-52DAT|
+|name|name|TR-52DAT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TR-52DA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TR-52DAT', 'kicadSymbolFootprint': 'RF_Module:IQRF_TRx2DA_KON-SIM-01', 'kicadSymbolDatasheet': 'https://iqrf.org/weben/downloads.php?id=213', 'kicadSymbolki_keywords': 'IQRF common transceiver, PCB antenna, thermometer, FSK modulation', 'kicadSymbolki_description': 'IQRF common transceiver with PCB antenna and thermometer, FSK modulation', 'kicadSymbolki_fp_filters': 'IQRF?TRx2DA?KON?SIM?01*'}]|
 ||||

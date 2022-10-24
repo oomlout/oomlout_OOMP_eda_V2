@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IAM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IAM|
 |Hex ID (short code)|hexID|SZKSIMULATIONSPICEIAM|
-|Name|name|IAM|
+|name|name|IAM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'I', 'kicadSymbolValue': 'IAM', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolSpice_Netlist_Enabled': 'Y', 'kicadSymbolSpice_Primitive': 'I', 'kicadSymbolSpice_Model': 'am(1 0 100k 1k 1n)', 'kicadSymbolki_keywords': 'simulation amplitude modulated', 'kicadSymbolki_description': 'Current source, AM'}]|
 ||||

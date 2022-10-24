@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|LT5560|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Mixer-LT5560|
 |Hex ID (short code)|hexID|SZKRFMIXERLT556|
-|Name|name|LT5560|
+|name|name|LT5560|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT5560', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.5mm_EP1.66x2.38mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/5560f.pdf', 'kicadSymbolki_keywords': 'rf mixer', 'kicadSymbolki_description': '0.01MHz to 4GHz Low Power Active Mixer, DFN-8', 'kicadSymbolki_fp_filters': 'DFN*3x3mm*P0.5mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BUK9M14-40EX|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK9M14-40EX|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBUK9M144EX|
-|Name|name|BUK9M14-40EX|
+|name|name|BUK9M14-40EX|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BUK9M53-60EX', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BUK9M14-40EX', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:LFPAK33', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BUK9M14-40E.pdf', 'kicadSymbolki_keywords': 'Power MOSFET N-MOS', 'kicadSymbolki_description': '44A Id, 40V Vds, N-Channel TrenchMOS MOSFET, 11mOhm Ron, 11.3nC Qqd, -55 to 175 °C, LFPAK33', 'kicadSymbolki_fp_filters': 'LFPAK33*'}]|
 ||||

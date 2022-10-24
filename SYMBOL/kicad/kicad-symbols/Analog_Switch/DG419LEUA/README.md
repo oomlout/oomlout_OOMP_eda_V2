@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DG419LEUA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-DG419LEUA|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHDG419LEUA|
-|Name|name|DG419LEUA|
+|name|name|DG419LEUA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DG419LEUA', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/DG417-DG419.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Single SPDT 3V Logic Compatible CMOS Analog Switch, 35Ohm Ron, with Vlogic, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
 ||||

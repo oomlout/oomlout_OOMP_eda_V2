@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS197|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS197|
 |Hex ID (short code)|hexID|SZK74XX74LS197|
-|Name|name|74LS197|
+|name|name|74LS197|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LS196', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS197', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS197', 'kicadSymbolki_keywords': 'TTL CNT CNT4', 'kicadSymbolki_description': '4 (3+1)-bit presettable binary counter', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

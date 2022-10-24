@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F84-XXSO|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F84-XXSO|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F84XXSO|
-|Name|name|PIC16F84-XXSO|
+|name|name|PIC16F84-XXSO|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC16F83-XXSO', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F84-XXSO', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/30430c.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit Microcontroller', 'kicadSymbolki_description': 'PIC16F84, 1KB Flash, 68B SRAM, 64B EEPROM, SOIC18', 'kicadSymbolki_fp_filters': 'SO*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP4012-xxxxCH|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4012-xxxxCH|
 |Hex ID (short code)|hexID|SZKPOTENTIOMETERDIGITALMCP412XXXXCH|
-|Name|name|MCP4012-xxxxCH|
+|name|name|MCP4012-xxxxCH|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP4012-xxxxCH', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/21978c.pdf, SOT-23-6', 'kicadSymbolki_keywords': 'Digital Pot Potentiometer Up Down', 'kicadSymbolki_description': 'Low-Cost 64-Step Volatile Digital Potentiometer', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

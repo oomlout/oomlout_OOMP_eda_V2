@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IH4812D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH4812D|
 |Hex ID (short code)|hexID|SZKCONIH4812D|
-|Name|name|IH4812D|
+|name|name|IH4812D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IH0503D', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'IH4812D', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_XP_POWER-IHxxxxD_THT', 'kicadSymbolDatasheet': 'https://www.xppower.com/pdfs/SF_IH.pdf', 'kicadSymbolki_keywords': 'XP_POWER DC/DC isolated Converter module', 'kicadSymbolki_description': 'XP Power 2W, 1000 VDC Isolated DC/DC Converter Module, Dual Output Voltage ±12V, ±84mA, 48V Input Voltage, DIP', 'kicadSymbolki_fp_filters': '*XP?POWER?IHxxxxD*'}]|
 ||||

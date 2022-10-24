@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TQFP-52-1EP_10x10mm_P0.65mm_EP6.5x6.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-52-1EP_10x10mm_P0.65mm_EP6.5x6.5mm|
 |Hex ID (short code)|hexID|FZKQFPTQFP521EP1X1P65EP65X65|
-|Name|name|Package_QFP : TQFP-52-1EP_10x10mm_P0.65mm_EP6.5x6.5mm|
+|name|name|Package_QFP : TQFP-52-1EP_10x10mm_P0.65mm_EP6.5x6.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TQFP-52-1EP_10x10mm_P0.65mm_EP6.5x6.5mm', 'description': 'TQFP, 52 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/tqfp_edsv/sv_52_1.pdf), generated with kicad-footprint-generator ipc_qfp_generator.py', 'tags': 'TQFP QFP', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-52-1EP_10x10mm_P0.65mm_EP6.5x6.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/TQFP-52-1EP_10x10mm_P0.65mm_EP6.5x6.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_QFP/TQFP-52-1EP_10x10mm_P0.65mm_EP6.5x6.5mm/kicadPcb3d_450.png

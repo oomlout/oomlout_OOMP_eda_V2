@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FDMT80060DC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMT80060DC|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETFDMT86DC|
-|Name|name|FDMT80060DC|
+|name|name|FDMT80060DC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FDMT80060DC', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:PQFN_8x8', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FDMT80060DC-D.pdf', 'kicadSymbolki_keywords': 'PowerTrench Power MOSFET N-MOS', 'kicadSymbolki_description': '43A Id, 60V Vds, PowerTrench N-Channel Power MOSFET, 6.9mOhm Ron, Qg (typ) 7.9nC 8x8mm MLP', 'kicadSymbolki_fp_filters': 'PQFN*8x8*'}]|
 ||||

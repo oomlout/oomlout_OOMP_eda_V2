@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|-48V|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power--48V|
 |Hex ID (short code)|hexID|SZKPOWER48V|
-|Name|name|-48V|
+|name|name|-48V|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': '-48V', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "-48V"'}]|
 ||||

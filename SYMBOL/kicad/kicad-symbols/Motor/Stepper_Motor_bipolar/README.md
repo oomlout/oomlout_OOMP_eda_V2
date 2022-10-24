@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Stepper_Motor_bipolar|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Motor-Stepper_Motor_bipolar|
 |Hex ID (short code)|hexID|SZKMOTORSTEPPERMOTORBIPOLAR|
-|Name|name|Stepper_Motor_bipolar|
+|name|name|Stepper_Motor_bipolar|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'M', 'kicadSymbolValue': 'Stepper_Motor_bipolar', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.infineon.com/dgdl/Application-Note-TLE8110EE_driving_UniPolarStepperMotor_V1.1.pdf?fileId=db3a30431be39b97011be5d0aa0a00b0', 'kicadSymbolki_keywords': 'bipolar stepper motor', 'kicadSymbolki_description': '4-wire bipolar stepper motor', 'kicadSymbolki_fp_filters': 'PinHeader*P2.54mm*Vertical* TerminalBlock* Motor*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DF01S1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Bridge-DF01S1|
 |Hex ID (short code)|hexID|SZKDIODEBRIDGEDF1S1|
-|Name|name|DF01S1|
+|name|name|DF01S1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ABS2', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'DF01S1', 'kicadSymbolFootprint': 'Diode_SMD:Diode_Bridge_OnSemi_SDIP-4L', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pdf/datasheet/df10s1-d.pdf', 'kicadSymbolki_keywords': 'rectifier acdc', 'kicadSymbolki_description': 'Bridge Rectifier, 70V Vrms, 1.0A If, SMDIP-4', 'kicadSymbolki_fp_filters': 'Diode*Bridge*OnSemi*SDIP*4L*'}]|
 ||||

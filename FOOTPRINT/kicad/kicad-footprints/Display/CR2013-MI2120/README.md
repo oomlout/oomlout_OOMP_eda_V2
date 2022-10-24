@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|CR2013-MI2120|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-CR2013-MI2120|
 |Hex ID (short code)|hexID|FZKDICR213MI212|
-|Name|name|Display : CR2013-MI2120|
+|name|name|Display : CR2013-MI2120|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CR2013-MI2120', 'description': 'CR2013-MI2120 ILI9341 LCD Breakout http://pan.baidu.com/s/11Y990', 'tags': 'CR2013-MI2120 ILI9341 LCD Breakout', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display.3dshapes/CR2013-MI2120.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/CR2013-MI2120/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Display/CR2013-MI2120/kicadPcb3d_450.png

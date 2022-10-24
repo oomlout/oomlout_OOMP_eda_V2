@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|8087|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Intel-8087|
 |Hex ID (short code)|hexID|SZKMCUINTEL887|
-|Name|name|8087|
+|name|name|8087|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '8087', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://datasheets.chipdb.org/Intel/x86/808x/datashts/8087/205835-007.pdf', 'kicadSymbolki_keywords': 'FPU', 'kicadSymbolki_description': 'Math Coprocessor for Intel 8086/8088/80186/80188 microprocessors, PDIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

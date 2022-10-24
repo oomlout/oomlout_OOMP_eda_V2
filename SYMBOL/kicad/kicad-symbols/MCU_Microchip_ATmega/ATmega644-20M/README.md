@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega644-20M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega644-20M|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA6442M|
-|Name|name|ATmega644-20M|
+|name|name|ATmega644-20M|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATmega644V-10M', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega644-20M', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc2593.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR', 'kicadSymbolki_description': '20MHz, 64kB Flash, 4kB SRAM, 2kB EEPROM, JTAG, QFN-44', 'kicadSymbolki_fp_filters': 'QFN*1EP*7x7mm*P0.5mm*'}]|
 ||||

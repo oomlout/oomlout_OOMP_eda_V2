@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Z1SMAxxx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-Z1SMAxxx|
 |Hex ID (short code)|hexID|SZKDIODEZ1SXXX|
-|Name|name|Z1SMAxxx|
+|name|name|Z1SMAxxx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZPYxx', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'Z1SMAxxx', 'kicadSymbolFootprint': 'Diode_SMD:D_SMA', 'kicadSymbolDatasheet': 'https://diotec.com/tl_files/diotec/files/pdf/datasheets/z1sma1.pdf', 'kicadSymbolki_keywords': 'zener diode', 'kicadSymbolki_description': '1000mW Zener Diode, SMA(DO-214AC)', 'kicadSymbolki_fp_filters': 'D?SMA*'}]|
 ||||

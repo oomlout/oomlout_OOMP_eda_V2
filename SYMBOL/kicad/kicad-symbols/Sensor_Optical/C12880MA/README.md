@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C12880MA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-C12880MA|
 |Hex ID (short code)|hexID|SZKSENOPTICALC1288MA|
-|Name|name|C12880MA|
+|name|name|C12880MA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'C12880MA', 'kicadSymbolFootprint': 'OptoDevice:Hamamatsu_C12880', 'kicadSymbolDatasheet': 'http://www.hamamatsu.com/resources/pdf/ssd/c12880ma_kacc1226e.pdf', 'kicadSymbolki_keywords': 'spectrometer', 'kicadSymbolki_description': 'Micro spectrometer 340 to 850nm resolution 15nm', 'kicadSymbolki_fp_filters': 'Hamamatsu*C12880*'}]|
 ||||

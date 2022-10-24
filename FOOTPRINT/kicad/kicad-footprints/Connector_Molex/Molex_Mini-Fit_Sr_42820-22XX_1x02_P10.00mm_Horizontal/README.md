@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Molex_Mini-Fit_Sr_42820-22XX_1x02_P10.00mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Sr_42820-22XX_1x02_P10.00mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNMXMXMFITSR428222XX1X2P1HORIZONTAL|
-|Name|name|Connector_Molex : Molex_Mini-Fit_Sr_42820-22XX_1x02_P10.00mm_Horizontal|
+|name|name|Connector_Molex : Molex_Mini-Fit_Sr_42820-22XX_1x02_P10.00mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Molex_Mini-Fit_Sr_42820-22XX_1x02_P10.00mm_Horizontal', 'description': 'Molex Mini-Fit Sr. Power Connectors, 42820-22XX, 2 Pins per row (http://www.molex.com/pdm_docs/sd/428202214_sd.pdf), generated with kicad-footprint-generator', 'tags': 'connector Molex Mini-Fit_Sr top entry', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Mini-Fit_Sr_42820-22XX_1x02_P10.00mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_42820-22XX_1x02_P10.00mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_42820-22XX_1x02_P10.00mm_Horizontal/kicadPcb3d_450.png

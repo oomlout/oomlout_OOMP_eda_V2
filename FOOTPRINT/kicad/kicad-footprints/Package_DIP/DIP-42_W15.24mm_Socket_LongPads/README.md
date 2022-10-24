@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DIP-42_W15.24mm_Socket_LongPads|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-42_W15.24mm_Socket_LongPads|
 |Hex ID (short code)|hexID|FZKDIPDIP42W1524SOL|
-|Name|name|Package_DIP : DIP-42_W15.24mm_Socket_LongPads|
+|name|name|Package_DIP : DIP-42_W15.24mm_Socket_LongPads|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DIP-42_W15.24mm_Socket_LongPads', 'description': '42-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket, LongPads', 'tags': 'THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket LongPads', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-42_W15.24mm_Socket.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-42_W15.24mm_Socket_LongPads/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-42_W15.24mm_Socket_LongPads/kicadPcb3d_450.png

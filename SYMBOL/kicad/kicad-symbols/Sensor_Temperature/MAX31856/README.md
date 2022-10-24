@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX31856|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31856|
 |Hex ID (short code)|hexID|SZKSENTEMPERATUREMAX31856|
-|Name|name|MAX31856|
+|name|name|MAX31856|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX31856', 'kicadSymbolFootprint': 'Package_SO:TSSOP-14_4.4x5mm_P0.65mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX31856.pdf', 'kicadSymbolki_keywords': 'Thermocouple converter serial', 'kicadSymbolki_description': 'Precision Thermocouple to Digital Converter with Linearization, TSSOP-14', 'kicadSymbolki_fp_filters': 'TSSOP*14*4.4x5mm*P0.65mm*'}]|
 ||||

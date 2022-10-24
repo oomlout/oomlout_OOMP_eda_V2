@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|M2GL090T-FG484|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-M2GL090T-FG484|
 |Hex ID (short code)|hexID|SZKFPGAMSEMIM2GL9TFG484|
-|Name|name|M2GL090T-FG484|
+|name|name|M2GL090T-FG484|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'M2GL090T-FG484', 'kicadSymbolFootprint': 'Package_BGA:BGA-484_23.0x23.0mm_Layout22x22_P1.0mm', 'kicadSymbolDatasheet': 'https://www.microsemi.com/document-portal/doc_download/132042-ds0128-igloo2-and-smartfusion2-datasheet', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA Igloo2 BGA', 'kicadSymbolki_description': ' IGLOO2 FPGA and SmartFusion2 SoC FPGA', 'kicadSymbolki_fp_filters': 'BGA*484*23.0x23.0mm*Layout22x22*P1.0mm*'}]|
 ||||

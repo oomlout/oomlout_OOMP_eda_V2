@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Crystal_SMD_MicroCrystal_CC4V-T1A-2Pin_5.0x1.9mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_MicroCrystal_CC4V-T1A-2Pin_5.0x1.9mm|
 |Hex ID (short code)|hexID|FZKXXSMMXCC4VT1A2PIN5X19|
-|Name|name|Crystal : Crystal_SMD_MicroCrystal_CC4V-T1A-2Pin_5.0x1.9mm|
+|name|name|Crystal : Crystal_SMD_MicroCrystal_CC4V-T1A-2Pin_5.0x1.9mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_MicroCrystal_CC4V-T1A-2Pin_5.0x1.9mm', 'description': 'SMD Crystal MicroCrystal CC4V-T1A series http://cdn-reichelt.de/documents/datenblatt/B400/CC4V-T1A.pdf, 5.0x1.9mm^2 package', 'tags': 'SMD SMT crystal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_MicroCrystal_CC4V-T1A-2Pin_5.0x1.9mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_MicroCrystal_CC4V-T1A-2Pin_5.0x1.9mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_MicroCrystal_CC4V-T1A-2Pin_5.0x1.9mm/kicadPcb3d_450.png

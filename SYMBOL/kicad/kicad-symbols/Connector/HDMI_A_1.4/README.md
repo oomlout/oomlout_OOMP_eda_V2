@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HDMI_A_1.4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-HDMI_A_1.4|
 |Hex ID (short code)|hexID|SZKCNHDMIA14|
-|Name|name|HDMI_A_1.4|
+|name|name|HDMI_A_1.4|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HDMI_A_1.4', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://en.wikipedia.org/wiki/HDMI', 'kicadSymbolki_keywords': 'hdmi conn', 'kicadSymbolki_description': 'HDMI 1.4+ type A connector', 'kicadSymbolki_fp_filters': 'HDMI*A*'}]|
 ||||

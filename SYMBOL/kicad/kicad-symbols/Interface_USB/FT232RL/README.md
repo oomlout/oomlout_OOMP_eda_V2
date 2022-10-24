@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FT232RL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-FT232RL|
 |Hex ID (short code)|hexID|SZKINTERFACEUFT232RL|
-|Name|name|FT232RL|
+|name|name|FT232RL|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FT232RL', 'kicadSymbolFootprint': 'Package_SO:SSOP-28_5.3x10.2mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf', 'kicadSymbolki_keywords': 'FTDI USB Serial', 'kicadSymbolki_description': 'USB to Serial Interface, SSOP-28', 'kicadSymbolki_fp_filters': 'SSOP*5.3x10.2mm*P0.65mm*'}]|
 ||||

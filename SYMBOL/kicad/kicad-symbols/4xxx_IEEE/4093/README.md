@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4093|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4093|
 |Hex ID (short code)|hexID|SZK4XXXIEEE493|
-|Name|name|4093|
+|name|name|4093|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4093', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TMP100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP100|
 |Hex ID (short code)|hexID|SZKSENTEMPERATURETMP1|
-|Name|name|TMP100|
+|name|name|TMP100|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TMP100', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/tmp100', 'kicadSymbolki_keywords': 'temperature sensor i2c smbus', 'kicadSymbolki_description': 'Temperature Sensor with I2C/SMBus Interface, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|MODULE-CONN-OOBB-BA-01|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_modules-MODULE-CONN-OOBB-BA-01|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPMOSMOCONNOOBBBA1|
-|Name|name|MODULE-CONN-OOBB-BA-01|
+|name|name|MODULE-CONN-OOBB-BA-01|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'MODULE-CONN-OOBB-BA-01', 'kicadSymbolFootprint': 'oomlout_OOMP_modules:MODULE-CONN-OOBB-BA-01', 'kicadSymbolDatasheet': 'oom.lt/MCOBA'}]|
 ||||

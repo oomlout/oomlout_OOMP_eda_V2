@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BQ27750|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-BQ27750|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTBQ2775|
-|Name|name|BQ27750|
+|name|name|BQ27750|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BQ27750', 'kicadSymbolFootprint': 'Package_SON:Texas_S-PDSO-N12', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/bq27750.pdf', 'kicadSymbolki_keywords': 'Fuel Gauge', 'kicadSymbolki_description': 'System Side Li Ion/Polymer Fuel Gauge, VSON-12', 'kicadSymbolki_fp_filters': 'Texas*PDSO*N12*'}]|
 ||||

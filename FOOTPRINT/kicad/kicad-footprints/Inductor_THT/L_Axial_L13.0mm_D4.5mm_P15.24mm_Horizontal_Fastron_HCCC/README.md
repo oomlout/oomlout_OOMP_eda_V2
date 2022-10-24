@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Axial_L13.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_HCCC|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L13.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_HCCC|
 |Hex ID (short code)|hexID|FZKINLAXIALL13D45P1524HORIZONTALFASTRONHCCC|
-|Name|name|Inductor_THT : L_Axial_L13.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_HCCC|
+|name|name|Inductor_THT : L_Axial_L13.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_HCCC|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Axial_L13.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_HCCC', 'description': 'Inductor, Axial series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=13*4.5mm^2, Fastron, HCCC, http://www.fastrongroup.com/image-show/19/HCCC.pdf?type=Complete-DataSheet&productType=series', 'tags': 'Inductor Axial series Axial Horizontal pin pitch 15.24mm  length 13mm diameter 4.5mm Fastron HCCC', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L13.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_HCCC.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L13.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_HCCC/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L13.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_HCCC/kicadPcb3d_450.png

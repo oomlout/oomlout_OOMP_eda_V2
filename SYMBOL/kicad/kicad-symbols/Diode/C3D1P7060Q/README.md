@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C3D1P7060Q|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-C3D1P7060Q|
 |Hex ID (short code)|hexID|SZKDIODEC3D1P76Q|
-|Name|name|C3D1P7060Q|
+|name|name|C3D1P7060Q|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'C3D1P7060Q', 'kicadSymbolFootprint': 'Diode_SMD:D_QFN_3.3x3.3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.wolfspeed.com/media/downloads/846/C3D1P7060Q.pdf', 'kicadSymbolki_keywords': 'sic diode', 'kicadSymbolki_description': '600V, 1.7A, SiC Schottky Diode, QFN', 'kicadSymbolki_fp_filters': 'D*QFN*3.3x3.3mm*P0.65mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS248|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS248|
 |Hex ID (short code)|hexID|SZK74XX74LS248|
-|Name|name|74LS248|
+|name|name|74LS248|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS248', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS248', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL DECOD', 'kicadSymbolki_description': 'BCD to 7-segment Decoder, Active High', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

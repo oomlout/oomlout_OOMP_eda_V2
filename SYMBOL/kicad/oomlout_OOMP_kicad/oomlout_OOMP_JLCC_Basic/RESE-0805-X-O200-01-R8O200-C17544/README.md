@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O200-01-R8O200-C17544|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O200-01-R8O200-C17544|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE85XO21R8O2C17544|
-|Name|name|RESE-0805-X-O200-01-R8O200-C17544|
+|name|name|RESE-0805-X-O200-01-R8O200-C17544|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O200-01-R8O200-C17544', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O200-01-R8O200-C17544', 'kicadSymbolDatasheet': 'oom.lt/R8O200', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R8O200;PARTL C-JLCC;C17544;MANUF C-XXXX;0805W8F200JT5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

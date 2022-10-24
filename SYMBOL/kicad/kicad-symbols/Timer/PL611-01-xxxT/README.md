@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PL611-01-xxxT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-PL611-01-xxxT|
 |Hex ID (short code)|hexID|SZKTIMERPL6111XXXT|
-|Name|name|PL611-01-xxxT|
+|name|name|PL611-01-xxxT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PL611-01-xxxT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/PL611-01.pdf', 'kicadSymbolki_keywords': 'clock generator dual programmable', 'kicadSymbolki_description': 'Programmable Clock, Dual Programmable Clock Outputs, Up To 200MHz, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

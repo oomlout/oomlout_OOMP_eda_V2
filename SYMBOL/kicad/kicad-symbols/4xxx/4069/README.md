@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4069|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx-4069|
 |Hex ID (short code)|hexID|SZK4XXX469|
-|Name|name|4069|
+|name|name|4069|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4069', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4069ubms.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'CMOS NOT', 'kicadSymbolki_description': 'Hex inverter', 'kicadSymbolki_fp_filters': 'DIP?14*'}]|
 ||||

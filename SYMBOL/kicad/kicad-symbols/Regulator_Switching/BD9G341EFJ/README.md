@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BD9G341EFJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-BD9G341EFJ|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGBD9G341EFJ|
-|Name|name|BD9G341EFJ|
+|name|name|BD9G341EFJ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BD9G341EFJ', 'kicadSymbolFootprint': 'Package_SO:HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm_ThermalVias', 'kicadSymbolDatasheet': 'https://media.digikey.com/pdf/Data%20Sheets/Rohm%20PDFs/BD9G341EFJ.pdf', 'kicadSymbolki_keywords': 'Buck Converter', 'kicadSymbolki_description': '12V-76V input voltage range 3A output current, Buck Converter, Integrated FET, HTSOP-8', 'kicadSymbolki_fp_filters': 'HTSOP*EP*3.9x4.9mm*P1.27mm*ThermalVias*'}]|
 ||||

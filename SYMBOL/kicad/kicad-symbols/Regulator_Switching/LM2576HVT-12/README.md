@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM2576HVT-12|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2576HVT-12|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM2576HVT12|
-|Name|name|LM2576HVT-12|
+|name|name|LM2576HVT-12|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2576HVT-12', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-5_Vertical', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm2576.pdf', 'kicadSymbolki_keywords': 'Step-Down Voltage Regulator 12V 3A High Voltage', 'kicadSymbolki_description': '12V, 3A SIMPLE SWITCHER® Step-Down Voltage Regulator, High Voltage Input, TO-220-5', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

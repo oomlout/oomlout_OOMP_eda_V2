@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4520|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx-4520|
 |Hex ID (short code)|hexID|SZK4XXX452|
-|Name|name|4520|
+|name|name|4520|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4520', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.intersil.com/content/dam/Intersil/documents/cd45/cd4518bms-20bms.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'CMOS', 'kicadSymbolki_description': 'Dual Binary Up-Counter', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HF3-51|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-HF3-51|
 |Hex ID (short code)|hexID|SZKRELAYHF351|
-|Name|name|HF3-51|
+|name|name|HF3-51|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'HF3-51', 'kicadSymbolFootprint': 'Relay_SMD:Relay_SPDT_AXICOM_HF3Series_50ohms_Pitch1.27mm', 'kicadSymbolDatasheet': 'http://hiqsdr.com/images/3/3e/Axicom-HF3.pdf', 'kicadSymbolki_keywords': 'Single Pole Relay SPDT', 'kicadSymbolki_description': 'AXICOM HF3 relay, 3GHz, SPDT RF Switching Relay, 50ohm, 3Vdc, Single-Side Stable', 'kicadSymbolki_fp_filters': 'Relay*SPDT*AXICOM*HF3Series*50ohms*Pitch1.27mm*'}]|
 ||||

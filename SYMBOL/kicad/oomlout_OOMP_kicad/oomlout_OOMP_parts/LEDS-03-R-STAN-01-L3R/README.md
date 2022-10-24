@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|LEDS-03-R-STAN-01-L3R|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-03-R-STAN-01-L3R|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS3RSTAN1L3R|
-|Name|name|LEDS-03-R-STAN-01-L3R|
+|name|name|LEDS-03-R-STAN-01-L3R|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LEDS-03-R-STAN-01-L3R', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:LEDS-03-R-STAN-01-L3R', 'kicadSymbolDatasheet': 'oom.lt/L3R', 'kicadSymbolki_keywords': 'LED diode', 'kicadSymbolki_description': 'hexID: L3R;Light emitting diode', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

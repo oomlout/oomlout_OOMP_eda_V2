@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FQP27P06|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-FQP27P06|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETFQP27P6|
-|Name|name|FQP27P06|
+|name|name|FQP27P06|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IRF9540N', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FQP27P06', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FQP27P06-D.PDF', 'kicadSymbolki_keywords': 'QFET P-Channel MOSFET', 'kicadSymbolki_description': '-27A Id, -60V Vds, QFET P-Channel MOSFET, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

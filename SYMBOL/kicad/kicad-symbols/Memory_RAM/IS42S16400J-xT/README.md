@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IS42S16400J-xT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_RAM-IS42S16400J-xT|
 |Hex ID (short code)|hexID|SZKMEMORYRAMIS42S164JXT|
-|Name|name|IS42S16400J-xT|
+|name|name|IS42S16400J-xT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IS42S16400J-xC', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IS42S16400J-xT', 'kicadSymbolFootprint': 'Package_SO:TSOP-II-54_22.2x10.16mm_P0.8mm', 'kicadSymbolDatasheet': 'http://www.issi.com/WW/pdf/42-45S16400J.pdf', 'kicadSymbolki_keywords': 'DRAM MEMORY', 'kicadSymbolki_description': '64Mb Synchronous DRAM, 1 Mb x 16 b x 4 Banks, Alloy42 leadframe plated with matte Sn, TSOP-II-54', 'kicadSymbolki_fp_filters': 'TSOP?II*22.2x10.16mm*P0.8mm*'}]|
 ||||

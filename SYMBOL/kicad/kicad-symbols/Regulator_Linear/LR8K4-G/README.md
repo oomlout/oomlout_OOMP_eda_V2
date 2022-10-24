@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LR8K4-G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LR8K4-G|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLR8K4G|
-|Name|name|LR8K4-G|
+|name|name|LR8K4-G|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LR8K4-G', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-2', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20005399B.pdf', 'kicadSymbolki_keywords': 'High-Voltage Regulator Adjustable Positive', 'kicadSymbolki_description': '30mA 450V High-Voltage Linear Regulator (Adjustable), TO-252 (D-PAK)', 'kicadSymbolki_fp_filters': 'TO*252*'}]|
 ||||

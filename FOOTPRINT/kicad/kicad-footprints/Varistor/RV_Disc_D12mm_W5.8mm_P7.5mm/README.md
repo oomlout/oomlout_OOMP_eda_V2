@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RV_Disc_D12mm_W5.8mm_P7.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Varistor-RV_Disc_D12mm_W5.8mm_P7.5mm|
 |Hex ID (short code)|hexID|FZKVRVDISCD12W58P75|
-|Name|name|Varistor : RV_Disc_D12mm_W5.8mm_P7.5mm|
+|name|name|Varistor : RV_Disc_D12mm_W5.8mm_P7.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RV_Disc_D12mm_W5.8mm_P7.5mm', 'description': 'Varistor, diameter 12mm, width 5.8mm, pitch 7.5mm', 'tags': 'varistor SIOV', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Varistor.3dshapes/RV_Disc_D12mm_W5.8mm_P7.5mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

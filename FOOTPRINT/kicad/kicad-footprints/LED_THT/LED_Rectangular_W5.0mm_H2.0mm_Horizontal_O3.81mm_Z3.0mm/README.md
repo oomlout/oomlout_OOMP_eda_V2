@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O3.81mm_Z3.0mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O3.81mm_Z3.0mm|
 |Hex ID (short code)|hexID|FZKLLRW5H2HORIZONTALO381Z3|
-|Name|name|LED_THT : LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O3.81mm_Z3.0mm|
+|name|name|LED_THT : LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O3.81mm_Z3.0mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O3.81mm_Z3.0mm', 'description': 'LED_Rectangular, Rectangular,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins', 'tags': 'LED_Rectangular Rectangular  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O3.81mm_Z3.0mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O3.81mm_Z3.0mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O3.81mm_Z3.0mm/kicadPcb3d_450.png

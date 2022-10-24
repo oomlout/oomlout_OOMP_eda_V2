@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM8AF6223|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8AF6223|
 |Hex ID (short code)|hexID|SZKMCUSTSTM8STM8AF6223|
-|Name|name|STM8AF6223|
+|name|name|STM8AF6223|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM8AF6223', 'kicadSymbolFootprint': 'Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/stm8af6223.pdf', 'kicadSymbolki_keywords': 'STM8 Microcontroller Automotive Line', 'kicadSymbolki_description': '16MHz, 8K Flash, 1K RAM, 640 EEPROM, USART, LIN,  I²C, SPI, ADC, TSSOP-20', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x6.5mm*P0.65mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MIC5353YMT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5353YMT|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMIC5353YMT|
-|Name|name|MIC5353YMT|
+|name|name|MIC5353YMT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MIC5353YMT', 'kicadSymbolFootprint': 'Package_DFN_QFN:MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/mic5353.pdf', 'kicadSymbolki_keywords': 'Single LDO', 'kicadSymbolki_description': 'High-performance, single-output,  ultra-low  LDO regulator', 'kicadSymbolki_fp_filters': 'MLF?6?1EP*1.6x1.6mm*P0.5mm*'}]|
 ||||

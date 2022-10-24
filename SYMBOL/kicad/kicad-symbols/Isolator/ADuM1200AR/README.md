@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADuM1200AR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-ADuM1200AR|
 |Hex ID (short code)|hexID|SZKISOLATORADUM12AR|
-|Name|name|ADuM1200AR|
+|name|name|ADuM1200AR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADuM1200AR', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM1200_1201.pdf', 'kicadSymbolki_keywords': 'Dual-channel digital isolator', 'kicadSymbolki_description': 'Dual-channel digital isolator, Bidirectional communication, 3V/5V level translation, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

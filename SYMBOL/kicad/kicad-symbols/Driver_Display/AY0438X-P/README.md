@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AY0438X-P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Display-AY0438X-P|
 |Hex ID (short code)|hexID|SZKDRIVERDIAY438XP|
-|Name|name|AY0438X-P|
+|name|name|AY0438X-P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AY0438X-P', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://www.farnell.com/datasheets/43336.pdf', 'kicadSymbolki_keywords': 'driver display', 'kicadSymbolki_description': '32-Segment CMOS LCD Driver, CMOS and TTL-compatible inputs, VDD +3.0V to +8.5V, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

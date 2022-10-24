@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|R_Array_SIP14|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Array_SIP14|
 |Hex ID (short code)|hexID|FZKRRARRAYSIP14|
-|Name|name|Resistor_THT : R_Array_SIP14|
+|name|name|Resistor_THT : R_Array_SIP14|
 |Footprint Kicad|footprintKicadDetails|{'name': 'R_Array_SIP14', 'description': '14-pin Resistor SIP pack', 'tags': 'R', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Array_SIP14.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Array_SIP14/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Array_SIP14/kicadPcb3d_450.png

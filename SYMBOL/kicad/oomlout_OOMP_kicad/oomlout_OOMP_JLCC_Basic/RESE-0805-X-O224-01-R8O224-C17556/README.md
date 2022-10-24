@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O224-01-R8O224-C17556|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O224-01-R8O224-C17556|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE85XO2241R8O224C17556|
-|Name|name|RESE-0805-X-O224-01-R8O224-C17556|
+|name|name|RESE-0805-X-O224-01-R8O224-C17556|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O224-01-R8O224-C17556', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O224-01-R8O224-C17556', 'kicadSymbolDatasheet': 'oom.lt/R8O224', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R8O224;PARTL C-JLCC;C17556;MANUF C-XXXX;0805W8F2203T5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

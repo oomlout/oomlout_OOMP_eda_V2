@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_Audio|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Transformer_Audio|
 |Hex ID (short code)|hexID|SZKDEVICETRAUDIO|
-|Name|name|Transformer_Audio|
+|name|name|Transformer_Audio|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'T', 'kicadSymbolValue': 'Transformer_Audio', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'transformer coil magnet sound', 'kicadSymbolki_description': 'Audio transformer'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAS16TW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAS16TW|
 |Hex ID (short code)|hexID|SZKDIODEBAS16TW|
-|Name|name|BAS16TW|
+|name|name|BAS16TW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAS16TW', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'http://www.diodes.com/datasheets/ds30154.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Fast switching diode array 3 independent', 'kicadSymbolki_fp_filters': '*SOT?363*'}]|
 ||||

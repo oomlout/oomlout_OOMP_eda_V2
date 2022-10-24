@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-L|
 |Hex ID (short code)|hexID|SZKDEVICEL|
-|Name|name|L|
+|name|name|L|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'L', 'kicadSymbolValue': 'L', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'inductor choke coil reactor magnetic', 'kicadSymbolki_description': 'Inductor', 'kicadSymbolki_fp_filters': 'Choke_* *Coil* Inductor_* L_*'}]|
 ||||

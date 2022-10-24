@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Mount_Lodestone_VTM254|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Mount_Lodestone_VTM254|
 |Hex ID (short code)|hexID|FZKINLMOUNTLODESTONEVTM254|
-|Name|name|Inductor_THT : L_Mount_Lodestone_VTM254|
+|name|name|Inductor_THT : L_Mount_Lodestone_VTM254|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Mount_Lodestone_VTM254', 'description': 'Lodestone Pacific, 64.51mm diameter vertical toroid mount, 16AWG/1.27mm holes, http://www.lodestonepacific.com/CatKpdf/VTM_Series.pdf', 'tags': 'vertical inductor toroid mount', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Mount_Lodestone_VTM254.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Mount_Lodestone_VTM254/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Mount_Lodestone_VTM254/kicadPcb3d_450.png

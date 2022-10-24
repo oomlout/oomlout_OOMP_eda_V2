@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NC7SVU04P5X|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-NC7SVU04P5X|
 |Hex ID (short code)|hexID|SZK74XGXXNC7SVU4P5X|
-|Name|name|NC7SVU04P5X|
+|name|name|NC7SVU04P5X|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NC7SVU04P5X', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-353_SC-70-5', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/NC7SVU04-D.pdf', 'kicadSymbolki_keywords': 'inverter', 'kicadSymbolki_description': 'High-Speed Logic Inverter, SOT-353', 'kicadSymbolki_fp_filters': 'SOT*353*SC*70*'}]|
 ||||

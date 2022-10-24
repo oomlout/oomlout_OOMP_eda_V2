@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|QFN-24-1EP_3x4mm_P0.4mm_EP1.65x2.65mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-24-1EP_3x4mm_P0.4mm_EP1.65x2.65mm|
 |Hex ID (short code)|hexID|FZKDFNQFN241EP3X4P4EP165X265|
-|Name|name|Package_DFN_QFN : QFN-24-1EP_3x4mm_P0.4mm_EP1.65x2.65mm|
+|name|name|Package_DFN_QFN : QFN-24-1EP_3x4mm_P0.4mm_EP1.65x2.65mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'QFN-24-1EP_3x4mm_P0.4mm_EP1.65x2.65mm', 'description': 'QFN, 24 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/QFN_20_05-08-1742.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-24-1EP_3x4mm_P0.4mm_EP1.65x2.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_3x4mm_P0.4mm_EP1.65x2.65mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_3x4mm_P0.4mm_EP1.65x2.65mm/kicadPcb3d_450.png

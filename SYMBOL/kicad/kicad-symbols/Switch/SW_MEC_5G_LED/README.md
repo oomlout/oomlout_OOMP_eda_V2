@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_MEC_5G_LED|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_MEC_5G_LED|
 |Hex ID (short code)|hexID|SZKSWITCHSWMEC5GL|
-|Name|name|SW_MEC_5G_LED|
+|name|name|SW_MEC_5G_LED|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_MEC_5G_LED', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.apem.com/int/index.php?controller=attachment&id_attachment=488', 'kicadSymbolki_keywords': 'switch normally-open pushbutton push-button LED', 'kicadSymbolki_description': 'MEC 5G single pole normally-open illuminated tactile switch', 'kicadSymbolki_fp_filters': 'SW*MEC*5G*'}]|
 ||||

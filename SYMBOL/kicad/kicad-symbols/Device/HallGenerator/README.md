@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HallGenerator|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-HallGenerator|
 |Hex ID (short code)|hexID|SZKDEVICEHALLGENERATOR|
-|Name|name|HallGenerator|
+|name|name|HallGenerator|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'HG', 'kicadSymbolValue': 'HallGenerator', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'Hall generator magnet', 'kicadSymbolki_description': 'Hall effect generator'}]|
 ||||

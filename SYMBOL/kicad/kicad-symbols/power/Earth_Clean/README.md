@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Earth_Clean|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-Earth_Clean|
 |Hex ID (short code)|hexID|SZKPOWEREARTHCLEAN|
-|Name|name|Earth_Clean|
+|name|name|Earth_Clean|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'Earth_Clean', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'power-flag ground gnd clean signal', 'kicadSymbolki_description': 'Power symbol creates a global label with name "Earth_Clean"'}]|
 ||||

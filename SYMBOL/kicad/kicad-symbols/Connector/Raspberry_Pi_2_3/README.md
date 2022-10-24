@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|Raspberry_Pi_2_3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Raspberry_Pi_2_3|
 |Hex ID (short code)|hexID|SZKCNRASPBERRYPI23|
-|Name|name|Raspberry_Pi_2_3|
+|name|name|Raspberry_Pi_2_3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Raspberry_Pi_2_3', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.raspberrypi.org/documentation/hardware/raspberrypi/schematics/rpi_SCH_3bplus_1p0_reduced.pdf', 'kicadSymbolki_keywords': 'raspberrypi gpio', 'kicadSymbolki_description': 'expansion header for Raspberry Pi 2 & 3', 'kicadSymbolki_fp_filters': 'PinHeader*2x20*P2.54mm*Vertical* PinSocket*2x20*P2.54mm*Vertical*'}]|
 ||||

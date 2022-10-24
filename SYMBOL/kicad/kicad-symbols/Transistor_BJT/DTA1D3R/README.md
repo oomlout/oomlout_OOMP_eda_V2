@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DTA1D3R|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA1D3R|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTDTA1D3R|
-|Name|name|DTA1D3R|
+|name|name|DTA1D3R|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DTA1D3R', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'ROHM Digital PNP Transistor', 'kicadSymbolki_description': 'Digital PNP Transistor, 2k7/1k, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23* SC?59*'}]|
 ||||

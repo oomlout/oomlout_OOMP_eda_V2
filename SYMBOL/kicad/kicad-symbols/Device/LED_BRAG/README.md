@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_BRAG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_BRAG|
 |Hex ID (short code)|hexID|SZKDEVICELBRAG|
-|Name|name|LED_BRAG|
+|name|name|LED_BRAG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_BRAG', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED RGB diode', 'kicadSymbolki_description': 'RGB LED, blue/red/anode/green', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VDDA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-VDDA|
 |Hex ID (short code)|hexID|SZKPOWERVDDA|
-|Name|name|VDDA|
+|name|name|VDDA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'VDDA', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "VDDA"'}]|
 ||||

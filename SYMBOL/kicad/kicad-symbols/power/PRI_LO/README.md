@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PRI_LO|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-PRI_LO|
 |Hex ID (short code)|hexID|SZKPOWERPRILO|
-|Name|name|PRI_LO|
+|name|name|PRI_LO|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'PRI_LO', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "PRI_LO"'}]|
 ||||

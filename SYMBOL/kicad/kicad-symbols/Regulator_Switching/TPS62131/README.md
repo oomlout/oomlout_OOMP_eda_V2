@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS62131|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62131|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS62131|
-|Name|name|TPS62131|
+|name|name|TPS62131|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS62130', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS62131', 'kicadSymbolFootprint': 'Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.68x1.68mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps62130.pdf', 'kicadSymbolki_keywords': 'step-down dcdc', 'kicadSymbolki_description': '3A Step-Down Converter with DCS-Control, Fixed 1.8V Output Voltage, 3-17V Input Voltage, QFN-16', 'kicadSymbolki_fp_filters': 'VQFN*1EP*3x3mm*P0.5mm*'}]|
 ||||

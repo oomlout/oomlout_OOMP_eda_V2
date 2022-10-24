@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O821-01-R8O821-C17837|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O821-01-R8O821-C17837|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE85XO8211R8O821C17837|
-|Name|name|RESE-0805-X-O821-01-R8O821-C17837|
+|name|name|RESE-0805-X-O821-01-R8O821-C17837|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O821-01-R8O821-C17837', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O821-01-R8O821-C17837', 'kicadSymbolDatasheet': 'oom.lt/R8O821', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R8O821;PARTL C-JLCC;C17837;MANUF C-XXXX;0805W8F8200T5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

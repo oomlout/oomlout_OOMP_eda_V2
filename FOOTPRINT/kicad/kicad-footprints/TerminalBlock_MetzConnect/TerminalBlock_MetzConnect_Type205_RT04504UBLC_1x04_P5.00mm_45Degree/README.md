@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TerminalBlock_MetzConnect_Type205_RT04504UBLC_1x04_P5.00mm_45Degree|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_Type205_RT04504UBLC_1x04_P5.00mm_45Degree|
 |Hex ID (short code)|hexID|FZKTBMETZCONNECTTBMETZCONNECTTYPE25RT454UBLC1X4P545DEGREE|
-|Name|name|TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_Type205_RT04504UBLC_1x04_P5.00mm_45Degree|
+|name|name|TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_Type205_RT04504UBLC_1x04_P5.00mm_45Degree|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TerminalBlock_MetzConnect_Type205_RT04504UBLC_1x04_P5.00mm_45Degree', 'description': 'terminal block Metz Connect Type205_RT04504UBLC, 45Degree (cable under 45degree), 4 pins, pitch 5mm, size 20x12.5mm^2, drill diamater 1.4mm, pad diameter 2.7mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_312051_RT045xxUBLC_OFF-022759T.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect', 'tags': 'THT terminal block Metz Connect Type205_RT04504UBLC 45Degree pitch 5mm size 20x12.5mm^2 drill 1.4mm pad 2.7mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type205_RT04504UBLC_1x04_P5.00mm_45Degree.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DB15_Female|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DB15_Female|
 |Hex ID (short code)|hexID|SZKCNDB15FEMALE|
-|Name|name|DB15_Female|
+|name|name|DB15_Female|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DB15_Female', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'female D-SUB connector', 'kicadSymbolki_description': '15-pin female D-SUB connector (low-density/2 columns)', 'kicadSymbolki_fp_filters': 'DSUB*Female*'}]|
 ||||

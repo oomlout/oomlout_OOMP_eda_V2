@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BSR56|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BSR56|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBSR56|
-|Name|name|BSR56|
+|name|name|BSR56|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BSR56', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/BSR56_57_58.pdf', 'kicadSymbolki_keywords': 'N-Channel FET Transistor', 'kicadSymbolki_description': '50mA min, 40V, 25mOhm max, 4-10V Vgs(off), N-Channel JFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

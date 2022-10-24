@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM3478MA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-LM3478MA|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERLM3478MA|
-|Name|name|LM3478MA|
+|name|name|LM3478MA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM3478MA', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/gpn/lm3478', 'kicadSymbolki_keywords': 'Boost flyback SEPIC DC-DC controller', 'kicadSymbolki_description': '2.97~40V Wide Input Range Boost/SEPIC/Flyback DC-DC Controller, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC-8*3.9x4.9mm_P1.27mm*'}]|
 ||||

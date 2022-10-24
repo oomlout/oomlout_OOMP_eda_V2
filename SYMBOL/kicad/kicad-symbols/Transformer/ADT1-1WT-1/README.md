@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADT1-1WT-1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-ADT1-1WT-1|
 |Hex ID (short code)|hexID|SZKTRADT11WT1|
-|Name|name|ADT1-1WT-1|
+|name|name|ADT1-1WT-1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TR', 'kicadSymbolValue': 'ADT1-1WT-1', 'kicadSymbolFootprint': 'RF_Mini-Circuits:Mini-Circuits_CD542_H2.84mm', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/ADT1-1WT-1+.pdf', 'kicadSymbolki_keywords': 'Mini-Circuits RF Transformer', 'kicadSymbolki_description': '1-400MHz 1:1 RF Transformer, Unbalanced to Balanced Center Tap, CD542', 'kicadSymbolki_fp_filters': 'Mini?Circuits*CD542*'}]|
 ||||

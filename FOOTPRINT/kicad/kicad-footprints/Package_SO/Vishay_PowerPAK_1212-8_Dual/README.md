@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Vishay_PowerPAK_1212-8_Dual|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-Vishay_PowerPAK_1212-8_Dual|
 |Hex ID (short code)|hexID|FZKSOVISHAYPOWERPAK12128DUAL|
-|Name|name|Package_SO : Vishay_PowerPAK_1212-8_Dual|
+|name|name|Package_SO : Vishay_PowerPAK_1212-8_Dual|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Vishay_PowerPAK_1212-8_Dual', 'description': 'PowerPAK 1212-8 Dual (https://www.vishay.com/docs/71656/ppak12128.pdf, https://www.vishay.com/docs/72598/72598.pdf)', 'tags': 'Vishay_PowerPAK_1212-8_Dual', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Vishay_PowerPAK_1212-8_Dual.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/Vishay_PowerPAK_1212-8_Dual/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/Vishay_PowerPAK_1212-8_Dual/kicadPcb3d_450.png

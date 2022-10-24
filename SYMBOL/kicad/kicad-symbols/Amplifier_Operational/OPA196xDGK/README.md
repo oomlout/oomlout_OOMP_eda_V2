@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA196xDGK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA196xDGK|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA196XDGK|
-|Name|name|OPA196xDGK|
+|name|name|OPA196xDGK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'OPA197xDGK', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA196xDGK', 'kicadSymbolFootprint': 'Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/opa4196.pdf', 'kicadSymbolki_keywords': 'single opamp rtor', 'kicadSymbolki_description': 'Single, Low-Power, Low Offset Voltage, Rail-to-Rail Operational Amplifier, VSSOP-8', 'kicadSymbolki_fp_filters': 'VSSOP*3.0x3.0mm*P0.65mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAV99|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAV99|
 |Hex ID (short code)|hexID|SZKDIODEBAV99|
-|Name|name|BAV99|
+|name|name|BAV99|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAV99', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'BAV99 High-speed switching diodes, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

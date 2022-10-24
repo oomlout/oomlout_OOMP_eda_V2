@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PMEG40T30ER|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-PMEG40T30ER|
 |Hex ID (short code)|hexID|SZKDIODEPMEG4T3ER|
-|Name|name|PMEG40T30ER|
+|name|name|PMEG40T30ER|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PMEG40T10ER', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'PMEG40T30ER', 'kicadSymbolFootprint': 'Diode_SMD:Nexperia_CFP3_SOD-123W', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/PMEG40T30ER.pdf', 'kicadSymbolki_keywords': 'forward voltage diode', 'kicadSymbolki_description': '40V, 3A low Vf Trench MEGA Schottky barrier rectifier, SOD-123W', 'kicadSymbolki_fp_filters': 'Nexperia*CFP3*SOD?123W*'}]|
 ||||

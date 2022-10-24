@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AH1806-W|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AH1806-W|
 |Hex ID (short code)|hexID|SZKSENMAGNETICAH186W|
-|Name|name|AH1806-W|
+|name|name|AH1806-W|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AH1806-W', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SC-59', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/AH1806.pdf', 'kicadSymbolki_keywords': 'hall switch', 'kicadSymbolki_description': 'High Sensitivity Micropower Omnipolar Hall-Effect Switch, SC-59', 'kicadSymbolki_fp_filters': 'SC?59*'}]|
 ||||

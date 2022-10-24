@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF6714M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6714M|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF6714M|
-|Name|name|IRF6714M|
+|name|name|IRF6714M|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSB008NE2LX', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF6714M', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_MX', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irf6714mpbf.pdf?fileId=5546d462533600a4015355ed04be1a80', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '29A Id, 25V Vds, 2.1mOhm Rds, N-Channel MOSFET, DirectFET MX', 'kicadSymbolki_fp_filters': 'DirectFET*MX*'}]|
 ||||

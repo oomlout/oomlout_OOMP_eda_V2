@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Galvanometer|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Galvanometer|
 |Hex ID (short code)|hexID|SZKDEVICEGALVANOMETER|
-|Name|name|Galvanometer|
+|name|name|Galvanometer|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'MES', 'kicadSymbolValue': 'Galvanometer', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'galvanometer', 'kicadSymbolki_description': 'Galvanometer'}]|
 ||||

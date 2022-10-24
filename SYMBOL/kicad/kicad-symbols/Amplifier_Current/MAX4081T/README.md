@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX4081T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Current-MAX4081T|
 |Hex ID (short code)|hexID|SZKAMPLIFIERCURRENTMAX481T|
-|Name|name|MAX4081T|
+|name|name|MAX4081T|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX4081F', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX4081T', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/MAX4080-MAX4081.pdf', 'kicadSymbolki_keywords': 'current sense amplifier', 'kicadSymbolki_description': '76V, High-Side, Current-Sense Amplifiers with Voltage Output, Bidirectional, 20V/V Gain, SOIC-8/uMAX-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* MSOP*3x3mm*P0.65mm*'}]|
 ||||

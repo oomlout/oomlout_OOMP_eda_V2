@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Fuse_Bourns_MF-RG300|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-RG300|
 |Hex ID (short code)|hexID|FZKFUFUBOURNSMFRG3|
-|Name|name|Fuse : Fuse_Bourns_MF-RG300|
+|name|name|Fuse : Fuse_Bourns_MF-RG300|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Fuse_Bourns_MF-RG300', 'description': 'PTC Resettable Fuse, Ihold = 3.0A, Itrip=5.1A, http://www.bourns.com/docs/Product-Datasheets/mfrg.pdf', 'tags': 'ptc resettable fuse polyfuse THT', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Bourns_MF-RG300.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Bourns_MF-RG300/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Bourns_MF-RG300/kicadPcb3d_450.png

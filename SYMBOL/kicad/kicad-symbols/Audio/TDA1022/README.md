@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TDA1022|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-TDA1022|
 |Hex ID (short code)|hexID|SZKAUDIOTDA122|
-|Name|name|TDA1022|
+|name|name|TDA1022|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDA1022', 'kicadSymbolFootprint': 'Package_DIP:DIP-16_W7.62mm', 'kicadSymbolDatasheet': 'http://thmq.mysteria.cz/em1022/TDA1022.pdf', 'kicadSymbolki_keywords': 'PHILIPS BBD MOS monolithic delay analogue', 'kicadSymbolki_description': 'BUCKET BRIGADE DELAY LINE FOR ANALOGUE SIGNALS, 512 stages, delay time 0.512ms to 51.2ms, signal frequency range 0 to 45KHz, clock frequency range 5KHz to 500KHz, DIP-16', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

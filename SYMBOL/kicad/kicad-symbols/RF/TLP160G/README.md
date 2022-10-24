@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|TLP160G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF-TLP160G|
 |Hex ID (short code)|hexID|SZKRFTLP16G|
-|Name|name|TLP160G|
+|name|name|TLP160G|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLP160G', 'kicadSymbolFootprint': 'Package_SO:MFSOP6-4_4.4x3.6mm_P1.27mm', 'kicadSymbolDatasheet': 'https://toshiba.semicon-storage.com/info/docget.jsp?did=16916&prodName=TLP160G', 'kicadSymbolki_keywords': 'Opto-Triac Opto Triac Random', 'kicadSymbolki_description': 'Random Phase Opto-Triac, Vdrm 400V, Ift 5mA, SOP6', 'kicadSymbolki_fp_filters': 'MFSOP6*4.4x3.6mm*P1.27mm*'}]|
 ||||

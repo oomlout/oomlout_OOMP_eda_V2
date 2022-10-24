@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLV6001DCK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV6001DCK|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALTLV61DCK|
-|Name|name|TLV6001DCK|
+|name|name|TLV6001DCK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TLV172IDCK', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV6001DCK', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-353_SC-70-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tlv6001.pdf', 'kicadSymbolki_keywords': 'op amp operational amplifier', 'kicadSymbolki_description': 'Low-power, Rail-to-rail, 1MHz Operational Amplifier, SOT-353', 'kicadSymbolki_fp_filters': 'SOT*353*SC*70*'}]|
 ||||

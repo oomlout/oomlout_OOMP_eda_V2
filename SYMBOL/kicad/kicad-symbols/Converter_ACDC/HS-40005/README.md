@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HS-40005|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_ACDC-HS-40005|
 |Hex ID (short code)|hexID|SZKCONHS45|
-|Name|name|HS-40005|
+|name|name|HS-40005|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HS-40003', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'HS-40005', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_Hahn_HS-400xx_THT', 'kicadSymbolDatasheet': 'http://www.tme.eu/de/Document/996b08915f81126361ce1f9c12d2f8b9/HS40005.pdf', 'kicadSymbolki_keywords': '5V 3W AC-DC module power supply', 'kicadSymbolki_description': '5V, 3W, AC-DC module power supply, Hahn', 'kicadSymbolki_fp_filters': 'Converter*ACDC*Hahn*HS*400xx*'}]|
 ||||

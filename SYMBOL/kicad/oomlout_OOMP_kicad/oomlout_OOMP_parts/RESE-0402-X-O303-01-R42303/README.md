@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O303-01-R42303|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O303-01-R42303|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO331R4233|
-|Name|name|RESE-0402-X-O303-01-R42303|
+|name|name|RESE-0402-X-O303-01-R42303|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O303-01-R42303', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O303-01-R42303', 'kicadSymbolDatasheet': 'oom.lt/R42303', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R42303;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

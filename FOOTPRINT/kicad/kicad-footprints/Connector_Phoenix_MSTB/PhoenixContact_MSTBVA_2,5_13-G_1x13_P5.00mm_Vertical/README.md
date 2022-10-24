@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PhoenixContact_MSTBVA_2,5_13-G_1x13_P5.00mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MSTB-PhoenixContact_MSTBVA_2,5_13-G_1x13_P5.00mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNPHOENIXMSTBPHOENIXCONTACTMSTBVA2513G1X13P5VERTICAL|
-|Name|name|Connector_Phoenix_MSTB : PhoenixContact_MSTBVA_2,5_13-G_1x13_P5.00mm_Vertical|
+|name|name|Connector_Phoenix_MSTB : PhoenixContact_MSTBVA_2,5_13-G_1x13_P5.00mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PhoenixContact_MSTBVA_2,5_13-G_1x13_P5.00mm_Vertical', 'description': 'Generic Phoenix Contact connector footprint for: MSTBVA_2,5/13-G; number of pins: 13; pin pitch: 5.00mm; Vertical \|\| order number: 1755613 12A', 'tags': 'phoenix_contact connector MSTBVA_01x13_G_5.00mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MSTB.3dshapes/PhoenixContact_MSTBVA_2,5_13-G_1x13_P5.00mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBVA_2,5_13-G_1x13_P5.00mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBVA_2,5_13-G_1x13_P5.00mm_Vertical/kicadPcb3d_450.png

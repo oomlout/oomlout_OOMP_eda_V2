@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CD4148W|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-CD4148W|
 |Hex ID (short code)|hexID|SZKDIODECD4148W|
-|Name|name|CD4148W|
+|name|name|CD4148W|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'CD4148W', 'kicadSymbolFootprint': 'Diode_SMD:D_0805_2012Metric', 'kicadSymbolDatasheet': 'https://www.dccomponents.com/upload/product/original/806236332588.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '75V 0.15A Switching Diode, 0805', 'kicadSymbolki_fp_filters': 'D*0805*'}]|
 ||||

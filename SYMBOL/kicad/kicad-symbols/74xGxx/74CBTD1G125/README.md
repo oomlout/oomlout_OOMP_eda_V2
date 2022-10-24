@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74CBTD1G125|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-74CBTD1G125|
 |Hex ID (short code)|hexID|SZK74XGXX74CBTD1G125|
-|Name|name|74CBTD1G125|
+|name|name|74CBTD1G125|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74CBT1G125', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74CBTD1G125', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf', 'kicadSymbolki_keywords': 'Single FET Bus Switch', 'kicadSymbolki_description': 'Single FET Bus Switch', 'kicadSymbolki_fp_filters': 'SOT* SC*'}]|
 ||||

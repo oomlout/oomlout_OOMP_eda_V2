@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PhoenixContact_MCV_1,5_9-GF-5.08_1x09_P5.08mm_Vertical_ThreadedFlange|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC_HighVoltage-PhoenixContact_MCV_1,5_9-GF-5.08_1x09_P5.08mm_Vertical_ThreadedFlange|
 |Hex ID (short code)|hexID|FZKCNPHOENIXMCHIGHVOLTAGEPHOENIXCONTACTMCV159GF581X9P58VERTICALTHREADEDFLANGE|
-|Name|name|Connector_Phoenix_MC_HighVoltage : PhoenixContact_MCV_1,5_9-GF-5.08_1x09_P5.08mm_Vertical_ThreadedFlange|
+|name|name|Connector_Phoenix_MC_HighVoltage : PhoenixContact_MCV_1,5_9-GF-5.08_1x09_P5.08mm_Vertical_ThreadedFlange|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PhoenixContact_MCV_1,5_9-GF-5.08_1x09_P5.08mm_Vertical_ThreadedFlange', 'description': 'Generic Phoenix Contact connector footprint for: MCV_1,5/9-GF-5.08; number of pins: 09; pin pitch: 5.08mm; Vertical; threaded flange \|\| order number: 1847686 8A 320V', 'tags': 'phoenix_contact connector MCV_01x09_GF_5.08mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MC_HighVoltage.3dshapes/PhoenixContact_MCV_1,5_9-GF-5.08_1x09_P5.08mm_Vertical_ThreadedFlange.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MCV_1,5_9-GF-5.08_1x09_P5.08mm_Vertical_ThreadedFlange/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MCV_1,5_9-GF-5.08_1x09_P5.08mm_Vertical_ThreadedFlange/kicadPcb3d_450.png

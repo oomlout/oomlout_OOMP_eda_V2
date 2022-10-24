@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ISO1212|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-ISO1212|
 |Hex ID (short code)|hexID|SZKISOLATORISO1212|
-|Name|name|ISO1212|
+|name|name|ISO1212|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ISO1212', 'kicadSymbolFootprint': 'Package_SO:SSOP-16_3.9x4.9mm_P0.635mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/iso1212.pdf', 'kicadSymbolki_keywords': 'isolated digital input', 'kicadSymbolki_description': 'Isolated, 2 Channels, 24 to 60V Digital Inputs Receiver, SSOP-16', 'kicadSymbolki_fp_filters': 'SSOP*3.9x4.9mm*P0.635mm*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm_Relief2x|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm_Relief2x|
 |Hex ID (short code)|hexID|FZKCNWIRESOLDERWIRE1SQ1X1D4OD1RELIEF2X|
-|Name|name|Connector_Wire : SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm_Relief2x|
+|name|name|Connector_Wire : SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm_Relief2x|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm_Relief2x', 'description': 'Soldered wire connection with double feed through strain relief, for a single 0.1 mm² wire, basic insulation, conductor diameter 0.4mm, outer diameter 1mm, size source Multi-Contact FLEXI-E 0.1 (https://ec.staubli.com/AcroFiles/Catalogues/TM_Cab-Main-11014119_(en)_hi.pdf), bend radius 3 times outer diameter, generated with kicad-footprint-generator', 'tags': 'connector wire 0.1sqmm double-strain-relief', 'attributeType': None, 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Wire.3dshapes/SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm_Relief2x.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm_Relief2x/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm_Relief2x/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PLCC-84_SMD-Socket|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-84_SMD-Socket|
 |Hex ID (short code)|hexID|FZKLCCPLCC84SMSO|
-|Name|name|Package_LCC : PLCC-84_SMD-Socket|
+|name|name|Package_LCC : PLCC-84_SMD-Socket|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PLCC-84_SMD-Socket', 'description': 'PLCC, 84 pins, surface mount', 'tags': 'plcc smt', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LCC.3dshapes/PLCC-84_SMD-Socket.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-84_SMD-Socket/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-84_SMD-Socket/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Bourns_SDR1806|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SDR1806|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLBOURNSSDR186|
-|Name|name|Inductor_SMD : L_Bourns_SDR1806|
+|name|name|Inductor_SMD : L_Bourns_SDR1806|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Bourns_SDR1806', 'description': 'https://www.bourns.com/docs/Product-Datasheets/SDR1806.pdf', 'tags': 'Bourns SDR1806', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns_SDR1806.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns_SDR1806/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns_SDR1806/kicadPcb3d_450.png

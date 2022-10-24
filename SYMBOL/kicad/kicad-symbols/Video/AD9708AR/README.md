@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD9708AR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Video-AD9708AR|
 |Hex ID (short code)|hexID|SZKVIDEOAD978AR|
-|Name|name|AD9708AR|
+|name|name|AD9708AR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD9708AR', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD9708.pdf', 'kicadSymbolki_keywords': 'DAC CNA VIDEO', 'kicadSymbolki_description': 'Video DAC (32 MHz), SOIC/TSSOP-28'}]|
 ||||

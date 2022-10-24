@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP6L01x-xLT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L01x-xLT|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALMCP6L1XXLT|
-|Name|name|MCP6L01x-xLT|
+|name|name|MCP6L01x-xLT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP6001x-LT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP6L01x-xLT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-353_SC-70-5', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/22140b.pdf', 'kicadSymbolki_keywords': 'opamp vfa r2r rtr', 'kicadSymbolki_description': 'Single, 1 MHz, Rail-to-Rail input and output, SC-70-5', 'kicadSymbolki_fp_filters': '*SC?70*'}]|
 ||||

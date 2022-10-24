@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_Push|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_Push|
 |Hex ID (short code)|hexID|SZKSWITCHSWPUSH|
-|Name|name|SW_Push|
+|name|name|SW_Push|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_Push', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'switch normally-open pushbutton push-button', 'kicadSymbolki_description': 'Push button switch, generic, two pins'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Dual_Series_KCA_Parallel|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Dual_Series_KCA_Parallel|
 |Hex ID (short code)|hexID|SZKDEVICEDDUALSERIESKCAPARALLEL|
-|Name|name|D_Dual_Series_KCA_Parallel|
+|name|name|D_Dual_Series_KCA_Parallel|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Dual_Series_KCA_Parallel', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Dual diode, cathode/center/anode'}]|
 ||||

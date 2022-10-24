@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PhoenixContact_MCV_1,5_11-G-3.81_1x11_P3.81mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC-PhoenixContact_MCV_1,5_11-G-3.81_1x11_P3.81mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNPHOENIXMCPHOENIXCONTACTMCV1511G3811X11P381VERTICAL|
-|Name|name|Connector_Phoenix_MC : PhoenixContact_MCV_1,5_11-G-3.81_1x11_P3.81mm_Vertical|
+|name|name|Connector_Phoenix_MC : PhoenixContact_MCV_1,5_11-G-3.81_1x11_P3.81mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PhoenixContact_MCV_1,5_11-G-3.81_1x11_P3.81mm_Vertical', 'description': 'Generic Phoenix Contact connector footprint for: MCV_1,5/11-G-3.81; number of pins: 11; pin pitch: 3.81mm; Vertical \|\| order number: 1803510 8A 160V', 'tags': 'phoenix_contact connector MCV_01x11_G_3.81mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MC.3dshapes/PhoenixContact_MCV_1,5_11-G-3.81_1x11_P3.81mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_11-G-3.81_1x11_P3.81mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_11-G-3.81_1x11_P3.81mm_Vertical/kicadPcb3d_450.png

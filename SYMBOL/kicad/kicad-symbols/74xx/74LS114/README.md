@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS114|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS114|
 |Hex ID (short code)|hexID|SZK74XX74LS114|
-|Name|name|74LS114|
+|name|name|74LS114|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS114', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS114', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL JK', 'kicadSymbolki_description': 'Dual JK flip-flop, common Clock & Reset, Set', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

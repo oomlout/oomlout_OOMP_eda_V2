@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|G6SU-2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-G6SU-2|
 |Hex ID (short code)|hexID|SZKRELAYG6SU2|
-|Name|name|G6SU-2|
+|name|name|G6SU-2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'G6SU-2', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6s.pdf', 'kicadSymbolki_keywords': 'Miniature Relay Dual Pole DPDT Omron', 'kicadSymbolki_description': 'Compact, Industry-Standard 2-pole relay, designed to switch 2A Signal Loads, Single-winding Latching', 'kicadSymbolki_fp_filters': 'Relay*DPDT*Omron*G6S?2*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD623|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD623|
 |Hex ID (short code)|hexID|SZKAMPLIFIERINSTRUMENTATIONAD623|
-|Name|name|AD623|
+|name|name|AD623|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AD620', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD623', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD623.pdf', 'kicadSymbolki_keywords': 'single instumentation amplifier', 'kicadSymbolki_description': 'Single Rail-to-Rail, Low Cost Instrumentation Amplifier, DIP-8/SOIC-8/MSOP-8', 'kicadSymbolki_fp_filters': 'SOIC*P1.27mm* DIP*W7.62mm*'}]|
 ||||

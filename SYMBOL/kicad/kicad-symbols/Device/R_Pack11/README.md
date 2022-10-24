@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|R_Pack11|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-R_Pack11|
 |Hex ID (short code)|hexID|SZKDEVICERPACK11|
-|Name|name|R_Pack11|
+|name|name|R_Pack11|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'RN', 'kicadSymbolValue': 'R_Pack11', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'R network parallel topology isolated', 'kicadSymbolki_description': '11 resistor network, parallel topology', 'kicadSymbolki_fp_filters': 'DIP* SOIC* R*Array*Concave* R*Array*Convex*'}]|
 ||||

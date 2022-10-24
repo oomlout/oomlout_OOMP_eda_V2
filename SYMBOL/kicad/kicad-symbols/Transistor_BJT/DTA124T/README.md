@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DTA124T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA124T|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTDTA124T|
-|Name|name|DTA124T|
+|name|name|DTA124T|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DTA124T', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'ROHM Digital PNP Transistor', 'kicadSymbolki_description': 'Digital PNP Transistor, 22k/NONE, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23* SC?59*'}]|
 ||||

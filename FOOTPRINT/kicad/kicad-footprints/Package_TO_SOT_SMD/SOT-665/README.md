@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOT-665|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-665|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT665|
-|Name|name|Package_TO_SOT_SMD : SOT-665|
+|name|name|Package_TO_SOT_SMD : SOT-665|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOT-665', 'description': 'SOT665', 'tags': 'SOT-665', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-665.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-665/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-665/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX3218|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3218|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTMAX3218|
-|Name|name|MAX3218|
+|name|name|MAX3218|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX3218', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX3218.pdf', 'kicadSymbolki_keywords': '1μA Supply Current', 'kicadSymbolki_description': 'Dual RS-232 Transceiver, 1.8V to 4.25V, AutoShutdown, DIP-20/SSOP-20', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SSOP*5.3x7.2mm*P0.65mm*'}]|
 ||||

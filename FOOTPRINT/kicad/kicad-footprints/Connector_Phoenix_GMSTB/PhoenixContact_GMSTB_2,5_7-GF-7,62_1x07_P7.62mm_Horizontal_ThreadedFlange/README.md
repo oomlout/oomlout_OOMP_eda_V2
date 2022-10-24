@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PhoenixContact_GMSTB_2,5_7-GF-7,62_1x07_P7.62mm_Horizontal_ThreadedFlange|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_GMSTB-PhoenixContact_GMSTB_2,5_7-GF-7,62_1x07_P7.62mm_Horizontal_ThreadedFlange|
 |Hex ID (short code)|hexID|FZKCNPHOENIXGMSTBPHOENIXCONTACTGMSTB257GF7621X7P762HORIZONTALTHREADEDFLANGE|
-|Name|name|Connector_Phoenix_GMSTB : PhoenixContact_GMSTB_2,5_7-GF-7,62_1x07_P7.62mm_Horizontal_ThreadedFlange|
+|name|name|Connector_Phoenix_GMSTB : PhoenixContact_GMSTB_2,5_7-GF-7,62_1x07_P7.62mm_Horizontal_ThreadedFlange|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PhoenixContact_GMSTB_2,5_7-GF-7,62_1x07_P7.62mm_Horizontal_ThreadedFlange', 'description': 'Generic Phoenix Contact connector footprint for: GMSTB_2,5/7-GF-7,62; number of pins: 07; pin pitch: 7.62mm; Angled; threaded flange \|\| order number: 1806274 12A 630V', 'tags': 'phoenix_contact connector GMSTB_01x07_GF_7.62mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Phoenix_GMSTB.3dshapes/PhoenixContact_GMSTB_2,5_7-GF-7,62_1x07_P7.62mm_Horizontal_ThreadedFlange.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTB_2,5_7-GF-7,62_1x07_P7.62mm_Horizontal_ThreadedFlange/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTB_2,5_7-GF-7,62_1x07_P7.62mm_Horizontal_ThreadedFlange/kicadPcb3d_450.png

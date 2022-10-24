@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SFH480|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-LED-SFH480|
 |Hex ID (short code)|hexID|SZKLSFH48|
-|Name|name|SFH480|
+|name|name|SFH480|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SFH482', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SFH480', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-18-2_Window', 'kicadSymbolDatasheet': 'http://www.osram-os.com/Graphics/XPic1/00083613_0.pdf', 'kicadSymbolki_keywords': 'IR LED Opto', 'kicadSymbolki_description': 'GaAlAs Infrared LED (880 nm), TO-18 package', 'kicadSymbolki_fp_filters': 'TO?18*Window*'}]|
 ||||

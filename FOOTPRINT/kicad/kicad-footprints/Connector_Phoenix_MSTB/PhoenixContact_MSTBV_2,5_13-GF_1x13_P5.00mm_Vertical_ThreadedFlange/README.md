@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PhoenixContact_MSTBV_2,5_13-GF_1x13_P5.00mm_Vertical_ThreadedFlange|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MSTB-PhoenixContact_MSTBV_2,5_13-GF_1x13_P5.00mm_Vertical_ThreadedFlange|
 |Hex ID (short code)|hexID|FZKCNPHOENIXMSTBPHOENIXCONTACTMSTBV2513GF1X13P5VERTICALTHREADEDFLANGE|
-|Name|name|Connector_Phoenix_MSTB : PhoenixContact_MSTBV_2,5_13-GF_1x13_P5.00mm_Vertical_ThreadedFlange|
+|name|name|Connector_Phoenix_MSTB : PhoenixContact_MSTBV_2,5_13-GF_1x13_P5.00mm_Vertical_ThreadedFlange|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PhoenixContact_MSTBV_2,5_13-GF_1x13_P5.00mm_Vertical_ThreadedFlange', 'description': 'Generic Phoenix Contact connector footprint for: MSTBV_2,5/13-GF; number of pins: 13; pin pitch: 5.00mm; Vertical; threaded flange \|\| order number: 1776993 12A', 'tags': 'phoenix_contact connector MSTBV_01x13_GF_5.00mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MSTB.3dshapes/PhoenixContact_MSTBV_2,5_13-GF_1x13_P5.00mm_Vertical_ThreadedFlange.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_13-GF_1x13_P5.00mm_Vertical_ThreadedFlange/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_13-GF_1x13_P5.00mm_Vertical_ThreadedFlange/kicadPcb3d_450.png

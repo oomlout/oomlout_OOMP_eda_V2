@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Fuse_Small|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Fuse_Small|
 |Hex ID (short code)|hexID|SZKDEVICEFUSLL|
-|Name|name|Fuse_Small|
+|name|name|Fuse_Small|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'F', 'kicadSymbolValue': 'Fuse_Small', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'fuse', 'kicadSymbolki_description': 'Fuse, small symbol', 'kicadSymbolki_fp_filters': 'SM*'}]|
 ||||

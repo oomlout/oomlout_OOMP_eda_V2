@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLV62568DBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TLV62568DBV|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTLV62568DBV|
-|Name|name|TLV62568DBV|
+|name|name|TLV62568DBV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV62568DBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tlv62568.pdf', 'kicadSymbolki_keywords': 'Step-Down Buck DC-DC Regulator Adjustable', 'kicadSymbolki_description': 'High Efficiency Synchronous Buck Converter, Adjustable Output 0.6V-5.5V, 1A, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EP600|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP600|
 |Hex ID (short code)|hexID|SZKCPLDALTERAEP6|
-|Name|name|EP600|
+|name|name|EP600|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EP600', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'EPLD', 'kicadSymbolki_description': 'EPLD'}]|
 ||||

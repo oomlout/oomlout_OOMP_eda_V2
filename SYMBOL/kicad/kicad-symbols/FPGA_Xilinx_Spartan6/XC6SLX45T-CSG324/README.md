@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC6SLX45T-CSG324|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX45T-CSG324|
 |Hex ID (short code)|hexID|SZKFPGAXILINXSPARTAN6XC6SLX45TCSG324|
-|Name|name|XC6SLX45T-CSG324|
+|name|name|XC6SLX45T-CSG324|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC6SLX45T-CSG324', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Spartan 6 LXT 45 XC6SLX45T-CSG324'}]|
 ||||

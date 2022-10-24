@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-HT|
 |Hex ID (short code)|hexID|SZKPOWERHT|
-|Name|name|HT|
+|name|name|HT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'HT', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "HT"'}]|
 ||||

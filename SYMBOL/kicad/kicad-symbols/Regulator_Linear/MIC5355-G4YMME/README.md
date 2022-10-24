@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MIC5355-G4YMME|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5355-G4YMME|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMIC5355G4YE|
-|Name|name|MIC5355-G4YMME|
+|name|name|MIC5355-G4YMME|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MIC5355-S4YMME', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MIC5355-G4YMME', 'kicadSymbolFootprint': 'Package_SO:MSOP-8-1EP_3x3mm_P0.65mm_EP2.5x3mm_Mask1.73x2.36mm_ThermalVias', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/mic5355_6.pdf', 'kicadSymbolki_keywords': 'Dual LDO 500mA MSOP-8', 'kicadSymbolki_description': 'Dual 500mA μCap Low Dropout Micropower Linear Regulator, 1.8V/1.2V, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*1EP*3x3mm*P0.65mm*'}]|
 ||||

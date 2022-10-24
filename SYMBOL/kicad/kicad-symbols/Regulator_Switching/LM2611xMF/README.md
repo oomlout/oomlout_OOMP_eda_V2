@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM2611xMF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2611xMF|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM2611XMF|
-|Name|name|LM2611xMF|
+|name|name|LM2611xMF|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2611xMF', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/lm2611.pdf', 'kicadSymbolki_keywords': 'switched converter inverter PWM', 'kicadSymbolki_description': '1.4MHz Cuk Converter, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

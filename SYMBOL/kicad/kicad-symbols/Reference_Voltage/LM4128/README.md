@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM4128|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4128|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGELM4128|
-|Name|name|LM4128|
+|name|name|LM4128|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM4128', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm4128.pdf', 'kicadSymbolki_keywords': 'Precision Micropower Low Dropout Voltage Reference 2.5V', 'kicadSymbolki_description': '2.5V ±0.2% Precision Micropower Low Dropout Voltage Reference, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

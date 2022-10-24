@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Conn_ARM_JTAG_SWD_10|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Conn_ARM_JTAG_SWD_10|
 |Hex ID (short code)|hexID|SZKCNCONNARMJTAGSWD1|
-|Name|name|Conn_ARM_JTAG_SWD_10|
+|name|name|Conn_ARM_JTAG_SWD_10|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Conn_ARM_JTAG_SWD_10', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://infocenter.arm.com/help/topic/com.arm.doc.ddi0314h/DDI0314H_coresight_components_trm.pdf', 'kicadSymbolki_keywords': 'Cortex Debug Connector ARM SWD JTAG', 'kicadSymbolki_description': 'Cortex Debug Connector, standard ARM Cortex-M SWD and JTAG interface', 'kicadSymbolki_fp_filters': 'PinHeader?2x05?P1.27mm*'}]|
 ||||

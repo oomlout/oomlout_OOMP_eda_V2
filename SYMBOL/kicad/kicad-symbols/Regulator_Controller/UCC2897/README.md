@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|UCC2897|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC2897|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERUCC2897|
-|Name|name|UCC2897|
+|name|name|UCC2897|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'UCC2897', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ucc2897.pdf', 'kicadSymbolki_keywords': 'SMPS PWM Controller', 'kicadSymbolki_description': 'SMPS Advanced Current-Mode Active Clamp PWM Controller, TSSOP-20/QFN-20', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x6.5mm*P0.65mm* QFN*4x4mm*P0.5mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TXB0104RUT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0104RUT|
 |Hex ID (short code)|hexID|SZKLOGICLEVELTRANSLATORTXB14RUT|
-|Name|name|TXB0104RUT|
+|name|name|TXB0104RUT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TXB0104RUT', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_R_PUQFN-N12', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/txb0104.pdf', 'kicadSymbolki_keywords': 'Level-Shifter CMOS-TTL-Translation', 'kicadSymbolki_description': '4-Bit Bidirectional Voltage-Level Translator, Auto Direction Sensing and ±15-kV ESD Protection, 1.2 - 3.6V APort, 1.65 - 5.5V BPort, Texas_PUQFN-12', 'kicadSymbolki_fp_filters': 'Texas*R*PUQFN*N12*'}]|
 ||||

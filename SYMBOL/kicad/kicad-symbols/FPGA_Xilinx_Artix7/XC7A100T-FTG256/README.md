@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC7A100T-FTG256|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Artix7-XC7A100T-FTG256|
 |Hex ID (short code)|hexID|SZKFPGAXILINXARTIX7XC7A1TFTG256|
-|Name|name|XC7A100T-FTG256|
+|name|name|XC7A100T-FTG256|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC7A100T-FTG256', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Artix 7 T 100 XC7A100T-FTG256'}]|
 ||||

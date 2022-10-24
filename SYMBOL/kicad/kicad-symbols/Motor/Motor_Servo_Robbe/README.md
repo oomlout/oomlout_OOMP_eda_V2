@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Motor_Servo_Robbe|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_Robbe|
 |Hex ID (short code)|hexID|SZKMOTORMOTORSERVOROBBE|
-|Name|name|Motor_Servo_Robbe|
+|name|name|Motor_Servo_Robbe|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'Motor_Servo', 'kicadSymbolReference': 'M', 'kicadSymbolValue': 'Motor_Servo_Robbe', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://forums.parallax.com/uploads/attachments/46831/74481.png', 'kicadSymbolki_keywords': 'Servo Motor', 'kicadSymbolki_description': 'Servo Motor (Robbe connector)', 'kicadSymbolki_fp_filters': 'PinHeader*P2.54mm*'}]|
 ||||

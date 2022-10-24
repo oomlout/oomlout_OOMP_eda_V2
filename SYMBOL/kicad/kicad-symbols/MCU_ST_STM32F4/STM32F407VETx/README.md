@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F407VETx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F407VETx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F4STM32F47VETX|
-|Name|name|STM32F407VETx|
+|name|name|STM32F407VETx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F407VETx', 'kicadSymbolFootprint': 'Package_QFP:LQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00037051.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32F4 STM32F407/417', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 168MHz, 1.8-3.6V, 82 GPIO, LQFP-100', 'kicadSymbolki_fp_filters': 'LQFP*14x14mm*P0.5mm*'}]|
 ||||

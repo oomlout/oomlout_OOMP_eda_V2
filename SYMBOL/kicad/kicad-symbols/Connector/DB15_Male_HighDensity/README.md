@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DB15_Male_HighDensity|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DB15_Male_HighDensity|
 |Hex ID (short code)|hexID|SZKCNDB15MALEHIGHDENSITY|
-|Name|name|DB15_Male_HighDensity|
+|name|name|DB15_Male_HighDensity|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DB15_Male_HighDensity', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'connector male VGA D-SUB', 'kicadSymbolki_description': '15-pin male D-SUB connector, High density (3 columns), Triple Row, Generic, VGA-connector', 'kicadSymbolki_fp_filters': 'DSUB*Male*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|UA9638CDG4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_LineDriver-UA9638CDG4|
 |Hex ID (short code)|hexID|SZKINTERFACELINEDRIVERUA9638CDG4|
-|Name|name|UA9638CDG4|
+|name|name|UA9638CDG4|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'UA9638CD', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'UA9638CDG4', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ua9638.pdf', 'kicadSymbolki_keywords': 'Dual high-speed differential line driver', 'kicadSymbolki_description': 'Dual high-speed differential line driver, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

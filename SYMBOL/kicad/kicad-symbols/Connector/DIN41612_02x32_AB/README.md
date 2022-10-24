@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DIN41612_02x32_AB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x32_AB|
 |Hex ID (short code)|hexID|SZKCNDIN416122X32AB|
-|Name|name|DIN41612_02x32_AB|
+|name|name|DIN41612_02x32_AB|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DIN41612_02x32_AB', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'DIN41612 connector, double row (AB), 02x32, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'DIN41612*2x*'}]|
 ||||

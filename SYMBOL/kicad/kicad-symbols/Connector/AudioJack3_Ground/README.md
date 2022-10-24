@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AudioJack3_Ground|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-AudioJack3_Ground|
 |Hex ID (short code)|hexID|SZKCNAUDIOJ3GROUND|
-|Name|name|AudioJack3_Ground|
+|name|name|AudioJack3_Ground|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'AudioJack3_Ground', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'audio jack receptacle stereo headphones phones TRS connector', 'kicadSymbolki_description': 'Audio Jack, 3 Poles (Stereo / TRS), Grounded Sleeve', 'kicadSymbolki_fp_filters': 'Jack*'}]|
 ||||

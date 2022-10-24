@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LVC1GU04DRL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-74LVC1GU04DRL|
 |Hex ID (short code)|hexID|SZK74XGXX74LVC1GU4DRL|
-|Name|name|74LVC1GU04DRL|
+|name|name|74LVC1GU04DRL|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LVC1GU04DRL', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-553', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/sn74lvc1gu04.pdf', 'kicadSymbolki_keywords': 'inverter cmos', 'kicadSymbolki_description': 'Single Inverter Gate, SOT-553', 'kicadSymbolki_fp_filters': 'SOT*553*'}]|
 ||||

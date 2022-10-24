@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VIPer26LD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-VIPer26LD|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGVIPER26LD|
-|Name|name|VIPer26LD|
+|name|name|VIPer26LD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'VIPer26LD', 'kicadSymbolFootprint': 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/viper26.pdf', 'kicadSymbolki_keywords': 'SMPS Controller with MOSFET', 'kicadSymbolki_description': '800V, 10-20W, 60kHz, SMPS Controller, SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*3.9x9.9mm*P1.27mm*'}]|
 ||||

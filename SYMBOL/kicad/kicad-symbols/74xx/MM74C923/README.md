@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MM74C923|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-MM74C923|
 |Hex ID (short code)|hexID|SZK74XX74C923|
-|Name|name|MM74C923|
+|name|name|MM74C923|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MM74C923', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/snMM74C923', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'encoder', 'kicadSymbolki_description': '20-key encoder', 'kicadSymbolki_fp_filters': 'DIP?20*'}]|
 ||||

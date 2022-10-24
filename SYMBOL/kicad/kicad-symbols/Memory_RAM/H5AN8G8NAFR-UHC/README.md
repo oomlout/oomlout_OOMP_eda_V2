@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|H5AN8G8NAFR-UHC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_RAM-H5AN8G8NAFR-UHC|
 |Hex ID (short code)|hexID|SZKMEMORYRAMH5AN8G8NAFRUHC|
-|Name|name|H5AN8G8NAFR-UHC|
+|name|name|H5AN8G8NAFR-UHC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'H5AN8G8NAFR-UHC', 'kicadSymbolFootprint': 'Package_BGA:FBGA-78_7.5x11mm_Layout2x3x13_P0.8mm', 'kicadSymbolDatasheet': 'https://www.skhynix.com/product/filedata/fileDownload.do?seq=7687', 'kicadSymbolki_keywords': 'DDR4 DRAM MEMORY', 'kicadSymbolki_description': '8Gb CMOS Double Data Rate IV Synchronous RAM', 'kicadSymbolki_fp_filters': 'FBGA*7.5x11mm*P0.8mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP2050-500-ESL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2050-500-ESL|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINMCP255ESL|
-|Name|name|MCP2050-500-ESL|
+|name|name|MCP2050-500-ESL|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP2050-330-ESL', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP2050-500-ESL', 'kicadSymbolFootprint': 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/22299B.pdf', 'kicadSymbolki_keywords': 'LIN transceiver regulator', 'kicadSymbolki_description': 'LIN Transceiver with Voltage Regulator, 5V, SOIC-14', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm*'}]|
 ||||

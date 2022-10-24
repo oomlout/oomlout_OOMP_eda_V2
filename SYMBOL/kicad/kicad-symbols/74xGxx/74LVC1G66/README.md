@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LVC1G66|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-74LVC1G66|
 |Hex ID (short code)|hexID|SZK74XGXX74LVC1G66|
-|Name|name|74LVC1G66|
+|name|name|74LVC1G66|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LVC1G66', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/sn74lvc1g66.pdf', 'kicadSymbolki_keywords': 'Single Bilateral Analog Switch', 'kicadSymbolki_description': 'Single Bilateral Analog Switch, SOT-23-5/SC-70-5', 'kicadSymbolki_fp_filters': 'SOT* SC*'}]|
 ||||

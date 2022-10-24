@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS170|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS170|
 |Hex ID (short code)|hexID|SZK74XX74LS17|
-|Name|name|74LS170|
+|name|name|74LS170|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS170', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS170', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL Register OpenCol', 'kicadSymbolki_description': '4 x 4 Register Files Open Collector', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

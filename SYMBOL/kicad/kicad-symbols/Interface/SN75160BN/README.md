@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SN75160BN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-SN75160BN|
 |Hex ID (short code)|hexID|SZKINTERFACESN7516BN|
-|Name|name|SN75160BN|
+|name|name|SN75160BN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SN75160BN', 'kicadSymbolFootprint': 'Package_DIP:DIP-20_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/sn75160b.pdf', 'kicadSymbolki_keywords': 'gpib bidirectional bus transceiver', 'kicadSymbolki_description': 'Octal general-purpose interface bus transceiver, DIP-20', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

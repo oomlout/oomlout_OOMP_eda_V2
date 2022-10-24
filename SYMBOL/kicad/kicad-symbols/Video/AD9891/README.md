@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD9891|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Video-AD9891|
 |Hex ID (short code)|hexID|SZKVIDEOAD9891|
-|Name|name|AD9891|
+|name|name|AD9891|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD9891', 'kicadSymbolFootprint': 'Package_BGA:BGA-64_9.0x9.0mm_Layout10x10_P0.8mm', 'kicadSymbolDatasheet': 'https://www.analog.com/static/imported-files/data_sheets/AD9891_9895.pdf', 'kicadSymbolki_keywords': 'CCD Signal Processor', 'kicadSymbolki_description': 'CCD Signal Processor, 20MHz 10bits, CSPBGA-64', 'kicadSymbolki_fp_filters': 'BGA*9.0x9.0mm*Layout10x10*P0.8mm*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-220F-5_P3.4x2.06mm_StaggerEven_Lead1.86mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220F-5_P3.4x2.06mm_StaggerEven_Lead1.86mm_Vertical|
 |Hex ID (short code)|hexID|FZKSOTTO22F5P34X26STAGGEREVENLEAD186VERTICAL|
-|Name|name|Package_TO_SOT_THT : TO-220F-5_P3.4x2.06mm_StaggerEven_Lead1.86mm_Vertical|
+|name|name|Package_TO_SOT_THT : TO-220F-5_P3.4x2.06mm_StaggerEven_Lead1.86mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-220F-5_P3.4x2.06mm_StaggerEven_Lead1.86mm_Vertical', 'description': 'TO-220F-5, Vertical, RM 1.7mm, PentawattF-, MultiwattF-5, staggered type-2', 'tags': 'TO-220F-5 Vertical RM 1.7mm PentawattF- MultiwattF-5 staggered type-2', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220F-5_P3.4x2.06mm_StaggerEven_Lead1.86mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220F-5_P3.4x2.06mm_StaggerEven_Lead1.86mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220F-5_P3.4x2.06mm_StaggerEven_Lead1.86mm_Vertical/kicadPcb3d_450.png

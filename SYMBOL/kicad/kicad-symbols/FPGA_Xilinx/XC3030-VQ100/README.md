@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC3030-VQ100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3030-VQ100|
 |Hex ID (short code)|hexID|SZKFPGAXILINXXC33VQ1|
-|Name|name|XC3030-VQ100|
+|name|name|XC3030-VQ100|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC3030-VQ100', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

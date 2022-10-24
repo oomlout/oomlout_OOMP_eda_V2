@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Q_PNP_Darlington_ECB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Q_PNP_Darlington_ECB|
 |Hex ID (short code)|hexID|SZKDEVICEQPNPDARLINGTONECB|
-|Name|name|Q_PNP_Darlington_ECB|
+|name|name|Q_PNP_Darlington_ECB|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Q_PNP_Darlington_ECB', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'transistor PNP Darlington', 'kicadSymbolki_description': 'PNP Darlington transistor, emitter/collector/base'}]|
 ||||

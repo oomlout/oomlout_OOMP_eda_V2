@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC68B09E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPU_NXP_6800-MC68B09E|
 |Hex ID (short code)|hexID|SZKCPUNXP68MC68B9E|
-|Name|name|MC68B09E|
+|name|name|MC68B09E|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC6809E', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC68B09E', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://pdf.datasheetcatalog.com/datasheet/motorola/MC68B09S.pdf', 'kicadSymbolki_keywords': 'MCU', 'kicadSymbolki_description': '8-Bit Microprocessing unit 2.0MHz, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

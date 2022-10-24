@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLV75733PDBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV75733PDBV|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTLV75733PDBV|
-|Name|name|TLV75733PDBV|
+|name|name|TLV75733PDBV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TLV70012_SOT23-5', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV75733PDBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/tlv757p.pdf', 'kicadSymbolki_keywords': 'LDO Regulator Fixed Positive', 'kicadSymbolki_description': '1A Low IQ Small Size Low Dropout Voltage Regulator, Fixed Output 3.3V, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|KTY85|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-KTY85|
 |Hex ID (short code)|hexID|SZKSENTEMPERATUREKTY85|
-|Name|name|KTY85|
+|name|name|KTY85|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TH', 'kicadSymbolValue': 'KTY85', 'kicadSymbolFootprint': 'Diode_SMD:D_MiniMELF', 'kicadSymbolDatasheet': 'http://www.nxp.com/documents/other/SC17_GENERAL_TEMP_1996_3.pdf', 'kicadSymbolki_keywords': 'silicon temperature sensor diode', 'kicadSymbolki_description': 'KTY85 series silicon temperature sensors, polarized, SOD80', 'kicadSymbolki_fp_filters': 'SOD80*'}]|
 ||||

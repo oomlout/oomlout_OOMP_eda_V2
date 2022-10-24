@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_Toroid_Tapped_Horizontal_D9.0mm_Amidon-T30|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Toroid_Tapped_Horizontal_D9.0mm_Amidon-T30|
 |Hex ID (short code)|hexID|FZKTRTRTOROIDTAPPEDHORIZONTALD9AMIDONT3|
-|Name|name|Transformer_THT : Transformer_Toroid_Tapped_Horizontal_D9.0mm_Amidon-T30|
+|name|name|Transformer_THT : Transformer_Toroid_Tapped_Horizontal_D9.0mm_Amidon-T30|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_Toroid_Tapped_Horizontal_D9.0mm_Amidon-T30', 'description': 'Transformer, Toroid, tapped, horizontal, laying, Diameter 9mm, Amidon, T30,', 'tags': 'Transformer Toroid tapped horizontal laying Diameter 9mm Amidon T30 ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_Toroid_Tapped_Horizontal_D9.0mm_Amidon-T30.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

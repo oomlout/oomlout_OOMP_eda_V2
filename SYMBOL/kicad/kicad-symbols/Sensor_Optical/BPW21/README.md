@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BPW21|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW21|
 |Hex ID (short code)|hexID|SZKSENOPTICALBPW21|
-|Name|name|BPW21|
+|name|name|BPW21|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BPW21', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-5-2_Window', 'kicadSymbolDatasheet': 'http://techwww.in.tu-clausthal.de/site/Dokumentation/Dioden/Fotodioden/BPW21-Fotodiode.pdf', 'kicadSymbolki_keywords': 'opto photodiode', 'kicadSymbolki_description': 'Silicon Photodiode for the visible spectral range, TO-5 package', 'kicadSymbolki_fp_filters': 'TO?5*Window*'}]|
 ||||

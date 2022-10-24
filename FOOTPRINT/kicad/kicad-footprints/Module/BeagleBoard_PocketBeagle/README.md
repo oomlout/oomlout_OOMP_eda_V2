@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|BeagleBoard_PocketBeagle|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Module-BeagleBoard_PocketBeagle|
 |Hex ID (short code)|hexID|FZKMOBEAGLEBOARDPOCKETBEAGLE|
-|Name|name|Module : BeagleBoard_PocketBeagle|
+|name|name|Module : BeagleBoard_PocketBeagle|
 |Footprint Kicad|footprintKicadDetails|{'name': 'BeagleBoard_PocketBeagle', 'description': 'PocketBeagle, https://github.com/beagleboard/pocketbeagle/wiki/System-Reference-Manual#71_Expansion_Header_Connectors', 'tags': 'PocketBeagle', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Module.3dshapes/BeagleBoard_PocketBeagle.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/BeagleBoard_PocketBeagle/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Module/BeagleBoard_PocketBeagle/kicadPcb3d_450.png

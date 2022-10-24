@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DMN6075S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN6075S|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETDMN675S|
-|Name|name|DMN6075S|
+|name|name|DMN6075S|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSS138', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DMN6075S', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.diodes.com/assets/Datasheets/DMN6075S.pdf', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '2.5A Id, 60V Vds, N-Channel MOSFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

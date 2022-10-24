@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|RJ45_Ninigi_GE|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Ninigi_GE|
 |Hex ID (short code)|hexID|FZKCNRJRJ45NINIGIGE|
-|Name|name|Connector_RJ : RJ45_Ninigi_GE|
+|name|name|Connector_RJ : RJ45_Ninigi_GE|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RJ45_Ninigi_GE', 'description': '1 port ethernet throughhole connector, https://en.ninigi.com/product/rj45ge/pdf', 'tags': 'RJ45 ethernet 8p8c', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Ninigi_GE.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Ninigi_GE/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Ninigi_GE/kicadPcb3d_450.png

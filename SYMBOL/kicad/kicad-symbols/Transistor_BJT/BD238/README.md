@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BD238|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD238|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBD238|
-|Name|name|BD238|
+|name|name|BD238|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BD140', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BD238', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-126-3_Vertical', 'kicadSymbolDatasheet': 'http://www.electronica-pt.com/datasheets/bd/BD234.pdf', 'kicadSymbolki_keywords': 'Low Voltage Transistor', 'kicadSymbolki_description': '2A Ic, 80V Vce, Low Voltage Transistor, TO-126', 'kicadSymbolki_fp_filters': 'TO?126*'}]|
 ||||

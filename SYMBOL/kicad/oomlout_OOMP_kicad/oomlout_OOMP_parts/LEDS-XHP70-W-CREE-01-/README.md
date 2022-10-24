@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|LEDS-XHP70-W-CREE-01-|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-XHP70-W-CREE-01-|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLSXHP7WCREE1|
-|Name|name|LEDS-XHP70-W-CREE-01-|
+|name|name|LEDS-XHP70-W-CREE-01-|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LEDS-XHP70-W-CREE-01-', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:LEDS-XHP70-W-CREE-01-', 'kicadSymbolDatasheet': 'oom.lt/', 'kicadSymbolki_keywords': 'LED diode', 'kicadSymbolki_description': 'hexID: ;Light emitting diode', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

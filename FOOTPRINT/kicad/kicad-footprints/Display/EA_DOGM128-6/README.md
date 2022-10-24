@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|EA_DOGM128-6|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-EA_DOGM128-6|
 |Hex ID (short code)|hexID|FZKDIEADOGM1286|
-|Name|name|Display : EA_DOGM128-6|
+|name|name|Display : EA_DOGM128-6|
 |Footprint Kicad|footprintKicadDetails|{'name': 'EA_DOGM128-6', 'description': 'Graphical,Display,LCD,128x64 https://www.lcd-module.de/eng/pdf/grafik/dogm128e.pdf', 'tags': 'EA DOGM128-6', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display.3dshapes/EA_DOGM128-6.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/EA_DOGM128-6/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Display/EA_DOGM128-6/kicadPcb3d_450.png

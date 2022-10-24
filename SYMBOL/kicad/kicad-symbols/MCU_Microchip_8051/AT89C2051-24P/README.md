@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AT89C2051-24P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_8051-AT89C2051-24P|
 |Hex ID (short code)|hexID|SZKMCUMCHIP851AT89C25124P|
-|Name|name|AT89C2051-24P|
+|name|name|AT89C2051-24P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AT89C2051-12P', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AT89C2051-24P', 'kicadSymbolFootprint': 'Package_DIP:DIP-20_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc0368.pdf', 'kicadSymbolki_keywords': 'MCS-51 8bit Flash Microcontroller', 'kicadSymbolki_description': '24MHz, 2kB Flash, 128B SRAM, DIP-20', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_Coilcraft_Q4434-B_Rhombus-T1311|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Coilcraft_Q4434-B_Rhombus-T1311|
 |Hex ID (short code)|hexID|FZKTRTRCOILCRAFTQ4434BRHOMBUST1311|
-|Name|name|Transformer_THT : Transformer_Coilcraft_Q4434-B_Rhombus-T1311|
+|name|name|Transformer_THT : Transformer_Coilcraft_Q4434-B_Rhombus-T1311|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_Coilcraft_Q4434-B_Rhombus-T1311', 'description': 'Transformator, Transformer, Flyback, Coilcraft Q4434-B, Rgombus T1311,', 'tags': 'Transformator Transformer Flyback Coilcraft Q4434-B Rgombus T1311 ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_Coilcraft_Q4434-B_Rhombus-T1311.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

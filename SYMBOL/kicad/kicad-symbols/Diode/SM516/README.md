@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SM516|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-SM516|
 |Hex ID (short code)|hexID|SZKDIODESM516|
-|Name|name|SM516|
+|name|name|SM516|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SM4001', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SM516', 'kicadSymbolFootprint': 'Diode_SMD:D_MELF', 'kicadSymbolDatasheet': 'http://cdn-reichelt.de/documents/datenblatt/A400/SMD1N400%23DIO.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '1600V 1A General Purpose Rectifier Diode, MELF', 'kicadSymbolki_fp_filters': 'D*MELF*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS623|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS623|
 |Hex ID (short code)|hexID|SZK74XXIEEE74LS623|
-|Name|name|74LS623|
+|name|name|74LS623|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS623', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

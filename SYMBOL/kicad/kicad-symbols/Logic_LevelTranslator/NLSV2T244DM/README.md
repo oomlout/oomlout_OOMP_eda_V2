@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NLSV2T244DM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-NLSV2T244DM|
 |Hex ID (short code)|hexID|SZKLOGICLEVELTRANSLATORNLSV2T244DM|
-|Name|name|NLSV2T244DM|
+|name|name|NLSV2T244DM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NLSV2T244DM', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/NLSV2T244-D.PDF', 'kicadSymbolki_keywords': 'Level-Shifter CMOS-TTL-Translation', 'kicadSymbolki_description': 'Dual-Bit Dual-Supply Non-Inverting Level Translator, Output Enable, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
 ||||

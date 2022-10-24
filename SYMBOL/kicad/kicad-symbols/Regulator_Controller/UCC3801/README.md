@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|UCC3801|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC3801|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERUCC381|
-|Name|name|UCC3801|
+|name|name|UCC3801|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'UCC3800', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'UCC3801', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ucc3800.pdf', 'kicadSymbolki_keywords': 'SMPS PWM Controller', 'kicadSymbolki_description': 'Low-Power BiCMOS Current-Mode PWM Controllers, 50% Duty Cycle, 9.4V/7.4V UVLO, DIP-8/SOIC-8/TSSOP-8', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x3mm*P0.65mm* SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'}]|
 ||||

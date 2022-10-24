@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX232|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-MAX232|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTMAX232|
-|Name|name|MAX232|
+|name|name|MAX232|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX232', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/max232.pdf', 'kicadSymbolki_keywords': 'rs232 uart transceiver line-driver', 'kicadSymbolki_description': 'Dual RS232 driver/receiver, 5V supply, 120kb/s, 0C-70C', 'kicadSymbolki_fp_filters': 'SOIC*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm*'}]|
 ||||

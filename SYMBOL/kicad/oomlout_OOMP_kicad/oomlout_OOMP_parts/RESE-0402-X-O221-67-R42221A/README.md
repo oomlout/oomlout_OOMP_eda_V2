@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O221-67-R42221A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O221-67-R42221A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO22167R42221A|
-|Name|name|RESE-0402-X-O221-67-R42221A|
+|name|name|RESE-0402-X-O221-67-R42221A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O221-67-R42221A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O221-67-R42221A', 'kicadSymbolDatasheet': 'oom.lt/R42221A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R42221A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

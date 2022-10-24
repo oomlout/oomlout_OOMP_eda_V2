@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS78|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS78|
 |Hex ID (short code)|hexID|SZK74XX74LS78|
-|Name|name|74LS78|
+|name|name|74LS78|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS78', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS78', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL JK JKFF', 'kicadSymbolki_description': 'Dual JK Flip-flop, Set, Common clock & reset', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

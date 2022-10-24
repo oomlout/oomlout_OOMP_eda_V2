@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_NF_ETAL_P3000|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P3000|
 |Hex ID (short code)|hexID|FZKTRSMTRNFETALP3|
-|Name|name|Transformer_SMD : Transformer_NF_ETAL_P3000|
+|name|name|Transformer_SMD : Transformer_NF_ETAL_P3000|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_NF_ETAL_P3000', 'description': 'NF-Reansformer, ETAL, P3000, SMD,', 'tags': 'NF-Reansformer ETAL P3000 SMD ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_NF_ETAL_P3000.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

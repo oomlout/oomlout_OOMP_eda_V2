@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Crystal_HC52-6mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC52-6mm_Horizontal|
 |Hex ID (short code)|hexID|FZKXXHC526HORIZONTAL|
-|Name|name|Crystal : Crystal_HC52-6mm_Horizontal|
+|name|name|Crystal : Crystal_HC52-6mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_HC52-6mm_Horizontal', 'description': 'Crystal THT HC-51/6mm http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf', 'tags': 'THT crystal', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC52-6mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_HC52-6mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_HC52-6mm_Horizontal/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC68A44|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-MC68A44|
 |Hex ID (short code)|hexID|SZKINTERFACEMC68A44|
-|Name|name|MC68A44|
+|name|name|MC68A44|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC6844', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC68A44', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://pdf.datasheetcatalog.com/datasheets/560/501527_DS.pdf', 'kicadSymbolki_keywords': 'Direct Memory Access Controller', 'kicadSymbolki_description': 'Direct Memory Access Controller 1.5MHz, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

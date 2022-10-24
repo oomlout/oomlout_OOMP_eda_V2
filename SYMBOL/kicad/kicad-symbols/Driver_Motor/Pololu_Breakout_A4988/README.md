@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Pololu_Breakout_A4988|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-Pololu_Breakout_A4988|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORPOLOLUBREAKOUTA4988|
-|Name|name|Pololu_Breakout_A4988|
+|name|name|Pololu_Breakout_A4988|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'A', 'kicadSymbolValue': 'Pololu_Breakout_A4988', 'kicadSymbolFootprint': 'Module:Pololu_Breakout-16_15.2x20.3mm', 'kicadSymbolDatasheet': 'https://www.pololu.com/product/2980/pictures', 'kicadSymbolki_keywords': 'Pololu Breakout Board Stepper Driver A4988', 'kicadSymbolki_description': 'Pololu Breakout Board, Stepper Driver A4988', 'kicadSymbolki_fp_filters': 'Pololu*Breakout*15.2x20.3mm*'}]|
 ||||

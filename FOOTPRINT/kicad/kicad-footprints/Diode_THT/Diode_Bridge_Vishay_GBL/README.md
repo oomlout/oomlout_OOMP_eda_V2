@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Diode_Bridge_Vishay_GBL|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Vishay_GBL|
 |Hex ID (short code)|hexID|FZKDDIODEBRIDGEVISHAYGBL|
-|Name|name|Diode_THT : Diode_Bridge_Vishay_GBL|
+|name|name|Diode_THT : Diode_Bridge_Vishay_GBL|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Diode_Bridge_Vishay_GBL', 'description': 'Vishay GBL rectifier package, 5.08mm pitch, see http://www.vishay.com/docs/88609/gbl005.pdf', 'tags': 'Vishay GBL rectifier diode bridge', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_Vishay_GBL.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_Vishay_GBL/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_Vishay_GBL/kicadPcb3d_450.png

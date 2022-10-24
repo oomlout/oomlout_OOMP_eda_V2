@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNSILICONLABSQFN21EP3X3P5EP18X18THERMALVIAS|
-|Name|name|Package_DFN_QFN : SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm_ThermalVias|
+|name|name|Package_DFN_QFN : SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm_ThermalVias', 'description': '20-Lead Plastic Quad Flat, No Lead Package - 3x3 mm Body [QFN] with corner pads and thermal vias; see figure 8.2 of https://www.silabs.com/documents/public/data-sheets/efm8bb1-datasheet.pdf', 'tags': 'QFN 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm_ThermalVias/kicadPcb3d_450.png

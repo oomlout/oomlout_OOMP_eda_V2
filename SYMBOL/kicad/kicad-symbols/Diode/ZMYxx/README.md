@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ZMYxx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-ZMYxx|
 |Hex ID (short code)|hexID|SZKDIODEZMYXX|
-|Name|name|ZMYxx|
+|name|name|ZMYxx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZPYxx', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'ZMYxx', 'kicadSymbolFootprint': 'Diode_SMD:D_MELF', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/85788/zmy3v9.pdf', 'kicadSymbolki_keywords': 'zener diode', 'kicadSymbolki_description': '1300mW Zener Diode, MELF', 'kicadSymbolki_fp_filters': 'D*MELF*'}]|
 ||||

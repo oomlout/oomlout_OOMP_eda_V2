@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HDMI_B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-HDMI_B|
 |Hex ID (short code)|hexID|SZKCNHDMIB|
-|Name|name|HDMI_B|
+|name|name|HDMI_B|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HDMI_B', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://pinouts.ru/Video/hdmi_pinout.shtml', 'kicadSymbolki_keywords': 'hdmi conn', 'kicadSymbolki_description': 'HDMI type B connector', 'kicadSymbolki_fp_filters': 'HDMI*B*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|R_Pack06_Split|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-R_Pack06_Split|
 |Hex ID (short code)|hexID|SZKDEVICERPACK6SPLIT|
-|Name|name|R_Pack06_Split|
+|name|name|R_Pack06_Split|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'RN', 'kicadSymbolValue': 'R_Pack06_Split', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'R network parallel topology isolated', 'kicadSymbolki_description': '6 resistor network, parallel topology, split', 'kicadSymbolki_fp_filters': 'DIP* SOIC* R*Array*Concave* R*Array*Convex*'}]|
 ||||

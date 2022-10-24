@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TOP270EG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP270EG|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTOP27EG|
-|Name|name|TOP270EG|
+|name|name|TOP270EG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TOP264EG', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TOP270EG', 'kicadSymbolFootprint': 'Package_SIP:PowerIntegrations_eSIP-7C', 'kicadSymbolDatasheet': 'https://ac-dc.power.com/sites/default/files/product-docs/topswitch-jx_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Integrated Off-Line Switcher with EcoSmart™ Technology', 'kicadSymbolki_description': 'TOPSwitch-JX Family, 140W Output Power, eSIP-7C', 'kicadSymbolki_fp_filters': 'PowerIntegrations?eSIP?7C*'}]|
 ||||

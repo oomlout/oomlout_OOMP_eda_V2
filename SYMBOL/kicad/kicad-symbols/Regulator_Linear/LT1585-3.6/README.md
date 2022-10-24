@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1585-3.6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1585-3.6|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLT158536|
-|Name|name|LT1585-3.6|
+|name|name|LT1585-3.6|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LT1585-3.3', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1585-3.6', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/158457a.pdf', 'kicadSymbolki_keywords': 'Voltage Regulator 4.6A Positive Fixed', 'kicadSymbolki_description': 'Positive 4.6A 35V Low Dropout Fast Response Linear Regulator, Fixed Output 3.6V, TO-220/TO-263', 'kicadSymbolki_fp_filters': 'TO?220* TO?263*'}]|
 ||||

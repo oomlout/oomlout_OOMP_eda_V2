@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|80186|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Intel-80186|
 |Hex ID (short code)|hexID|SZKMCUINTEL8186|
-|Name|name|80186|
+|name|name|80186|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '80186', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://datasheets.chipdb.org/Intel/x86/8018x/datashts/27243002.PDF', 'kicadSymbolki_keywords': 'MPRO', 'kicadSymbolki_description': 'High-Integration 16-Bit Microprocessor', 'kicadSymbolki_fp_filters': 'PLCC* PGA*Layout11x11*P2.54mm* LCC*'}]|
 ||||

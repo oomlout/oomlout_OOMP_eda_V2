@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TCXO3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-TCXO3|
 |Hex ID (short code)|hexID|SZKOCSTCXO3|
-|Name|name|TCXO3|
+|name|name|TCXO3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'X', 'kicadSymbolValue': 'TCXO3', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.hcelectronics.cz/PDF/TCXO3_A.pdf', 'kicadSymbolki_keywords': 'Temperature compensated crystal oscillator', 'kicadSymbolki_description': 'Temperature compensated crystal oscillator'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Symbol_CC-PublicDomain_SilkScreenTop_Big|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CC-PublicDomain_SilkScreenTop_Big|
 |Hex ID (short code)|hexID|FZKSZSYCCPUBLICDOMAINSILKSCREENTOPBIG|
-|Name|name|Symbol : Symbol_CC-PublicDomain_SilkScreenTop_Big|
+|name|name|Symbol : Symbol_CC-PublicDomain_SilkScreenTop_Big|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Symbol_CC-PublicDomain_SilkScreenTop_Big', 'description': 'Symbol, CC-PublicDomain, SilkScreen Top, Big,', 'tags': 'Symbol, CC-PublicDomain, SilkScreen Top, Big,', 'attributeType': None, 'pins': {}}|
 ||||

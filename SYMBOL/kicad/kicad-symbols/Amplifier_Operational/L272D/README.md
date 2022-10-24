@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L272D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-L272D|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALL272D|
-|Name|name|L272D|
+|name|name|L272D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'L272D', 'kicadSymbolFootprint': 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'www.st.com/resource/en/datasheet/l272.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'dual power opamp', 'kicadSymbolki_description': 'Dual Power Operation Amplifier, SOIC-16', 'kicadSymbolki_fp_filters': '*SOIC*3.9x9.9mm*P1.27mm*'}]|
 ||||

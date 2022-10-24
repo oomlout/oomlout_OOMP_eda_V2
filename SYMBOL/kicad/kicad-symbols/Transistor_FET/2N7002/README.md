@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|2N7002|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-2N7002|
 |Hex ID (short code)|hexID|SZKTRANSISTORFET2N72|
-|Name|name|2N7002|
+|name|name|2N7002|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSS138', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': '2N7002', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF', 'kicadSymbolki_keywords': 'N-Channel Switching MOSFET', 'kicadSymbolki_description': '0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

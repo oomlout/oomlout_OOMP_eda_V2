@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DTA115T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA115T|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTDTA115T|
-|Name|name|DTA115T|
+|name|name|DTA115T|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DTA115T', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'ROHM Digital PNP Transistor', 'kicadSymbolki_description': 'Digital PNP Transistor, 100k/NONE, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23* SC?59*'}]|
 ||||

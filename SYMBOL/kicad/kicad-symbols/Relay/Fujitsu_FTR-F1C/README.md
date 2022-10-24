@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Fujitsu_FTR-F1C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-Fujitsu_FTR-F1C|
 |Hex ID (short code)|hexID|SZKRELAYFUJITSUFTRF1C|
-|Name|name|Fujitsu_FTR-F1C|
+|name|name|Fujitsu_FTR-F1C|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'Fujitsu_FTR-F1C', 'kicadSymbolFootprint': 'Relay_THT:Relay_DPDT_Fujitsu_FTR-F1C', 'kicadSymbolDatasheet': 'https://www.fujitsu.com/downloads/MICRO/fcai/relays/ftr-f1.pdf', 'kicadSymbolki_keywords': 'double pole double throw relay', 'kicadSymbolki_description': 'Fujitsu Low Profile Power Relay', 'kicadSymbolki_fp_filters': '*Relay*DPDT*Fujitsu*FTR*F1C*'}]|
 ||||

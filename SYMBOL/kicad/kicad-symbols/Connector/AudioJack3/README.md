@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AudioJack3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-AudioJack3|
 |Hex ID (short code)|hexID|SZKCNAUDIOJ3|
-|Name|name|AudioJack3|
+|name|name|AudioJack3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'AudioJack3', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'audio jack receptacle stereo headphones phones TRS connector', 'kicadSymbolki_description': 'Audio Jack, 3 Poles (Stereo / TRS)', 'kicadSymbolki_fp_filters': 'Jack*'}]|
 ||||

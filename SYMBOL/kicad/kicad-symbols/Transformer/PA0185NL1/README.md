@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PA0185NL1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-PA0185NL1|
 |Hex ID (short code)|hexID|SZKTRPA185NL1|
-|Name|name|PA0185NL1|
+|name|name|PA0185NL1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PA3493NL', 'kicadSymbolReference': 'T', 'kicadSymbolValue': 'PA0185NL1', 'kicadSymbolFootprint': 'Transformer_SMD:Pulse_PA3493NL', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'pulse', 'kicadSymbolki_description': 'SMT Gate Drive Transformer, 1.25:1', 'kicadSymbolki_fp_filters': 'Pulse*PA3493NL*'}]|
 ||||

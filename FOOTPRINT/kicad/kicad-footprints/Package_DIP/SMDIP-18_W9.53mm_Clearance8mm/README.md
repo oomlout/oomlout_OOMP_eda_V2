@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SMDIP-18_W9.53mm_Clearance8mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-SMDIP-18_W9.53mm_Clearance8mm|
 |Hex ID (short code)|hexID|FZKDIPSMIP18W953CLEARANCE8|
-|Name|name|Package_DIP : SMDIP-18_W9.53mm_Clearance8mm|
+|name|name|Package_DIP : SMDIP-18_W9.53mm_Clearance8mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SMDIP-18_W9.53mm_Clearance8mm', 'description': '18-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils), Clearance8mm', 'tags': 'SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil Clearance8mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/SMDIP-18_W9.53mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/SMDIP-18_W9.53mm_Clearance8mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DIP/SMDIP-18_W9.53mm_Clearance8mm/kicadPcb3d_450.png

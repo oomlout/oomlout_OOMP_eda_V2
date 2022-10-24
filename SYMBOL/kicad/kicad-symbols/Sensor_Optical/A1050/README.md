@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|A1050|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-A1050|
 |Hex ID (short code)|hexID|SZKSENOPTICALA15|
-|Name|name|A1050|
+|name|name|A1050|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'A1050', 'kicadSymbolFootprint': 'OptoDevice:R_LDR_D6.4mm_P3.4mm_Vertical', 'kicadSymbolDatasheet': 'http://cdn-reichelt.de/documents/datenblatt/A500/A106012.pdf', 'kicadSymbolki_keywords': 'light dependent photo resistor LDR', 'kicadSymbolki_description': 'light dependent resistor', 'kicadSymbolki_fp_filters': 'R*LDR*D6.4*P3.4*'}]|
 ||||

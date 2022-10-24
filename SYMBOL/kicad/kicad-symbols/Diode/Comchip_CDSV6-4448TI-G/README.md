@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Comchip_CDSV6-4448TI-G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-Comchip_CDSV6-4448TI-G|
 |Hex ID (short code)|hexID|SZKDIODECOMCHIPCDSV64448TIG|
-|Name|name|Comchip_CDSV6-4448TI-G|
+|name|name|Comchip_CDSV6-4448TI-G|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BAS16TW', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'Comchip_CDSV6-4448TI-G', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'http://www.comchiptech.com/cms/UserFiles/CDSV6-4448XX-G%20RevC285574.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'High speed switching diode array 3 independent', 'kicadSymbolki_fp_filters': '*SOT?363*'}]|
 ||||

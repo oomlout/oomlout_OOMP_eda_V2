@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRM-20-24|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-20-24|
 |Hex ID (short code)|hexID|SZKCONIRM224|
-|Name|name|IRM-20-24|
+|name|name|IRM-20-24|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IRM-20-3.3', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'IRM-20-24', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_MeanWell_IRM-20-xx_THT', 'kicadSymbolDatasheet': 'http://www.meanwell.com/Upload/PDF/IRM-20/IRM-20-SPEC.PDF', 'kicadSymbolki_keywords': 'Miniature Module-type Power Supply MeanWell', 'kicadSymbolki_description': '24V, 900mA, 21.6W, Isolated, AC-DC, 219A(IRM20)', 'kicadSymbolki_fp_filters': 'Converter*ACDC*MeanWell*IRM*20*THT*'}]|
 ||||

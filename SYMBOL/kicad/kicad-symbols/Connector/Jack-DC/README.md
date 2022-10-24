@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Jack-DC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Jack-DC|
 |Hex ID (short code)|hexID|SZKCNJDC|
-|Name|name|Jack-DC|
+|name|name|Jack-DC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'Barrel_Jack', 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Jack-DC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'DC power barrel jack connector', 'kicadSymbolki_description': 'DC Barrel Jack', 'kicadSymbolki_fp_filters': 'BarrelJack*'}]|
 ||||

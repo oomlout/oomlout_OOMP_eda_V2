@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74AUC2G06|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-74AUC2G06|
 |Hex ID (short code)|hexID|SZK74XGXX74AUC2G6|
-|Name|name|74AUC2G06|
+|name|name|74AUC2G06|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LVC2G06', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AUC2G06', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf', 'kicadSymbolki_keywords': 'Dual Gate NOT Open Drain LVC CMOS', 'kicadSymbolki_description': 'Dual NOT Gate w/ Open Drain, Low-Voltage CMOS', 'kicadSymbolki_fp_filters': 'SG-* SOT*'}]|
 ||||

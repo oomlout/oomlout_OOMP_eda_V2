@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP3301|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3301|
 |Hex ID (short code)|hexID|SZKANALOGADCMCP331|
-|Name|name|MCP3301|
+|name|name|MCP3301|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP3301', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/21700D.pdf', 'kicadSymbolki_keywords': '13-Bit Differential ADC SPI  1ch', 'kicadSymbolki_description': '13-Bit Differential Input, Low Power A/D Converter with SPI Interface', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

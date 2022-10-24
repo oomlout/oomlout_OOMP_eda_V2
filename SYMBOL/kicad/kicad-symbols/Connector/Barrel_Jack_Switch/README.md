@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Barrel_Jack_Switch|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Barrel_Jack_Switch|
 |Hex ID (short code)|hexID|SZKCNBARRELJSWITCH|
-|Name|name|Barrel_Jack_Switch|
+|name|name|Barrel_Jack_Switch|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Barrel_Jack_Switch', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'DC power barrel jack connector', 'kicadSymbolki_description': 'DC Barrel Jack with an internal switch', 'kicadSymbolki_fp_filters': 'BarrelJack*'}]|
 ||||

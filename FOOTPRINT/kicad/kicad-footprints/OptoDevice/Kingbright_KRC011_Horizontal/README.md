@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Kingbright_KRC011_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kingbright_KRC011_Horizontal|
 |Hex ID (short code)|hexID|FZKOPKINGBRIGHTKRC11HORIZONTAL|
-|Name|name|OptoDevice : Kingbright_KRC011_Horizontal|
+|name|name|OptoDevice : Kingbright_KRC011_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Kingbright_KRC011_Horizontal', 'description': 'Subminiature Reflective Optical Sensor, http://www.kingbright.com/attachments/file/psearch/000/00/00/KRC011(Ver.15).pdf', 'tags': 'Subminiature Reflective Optical Sensor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Kingbright_KRC011_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Kingbright_KRC011_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/Kingbright_KRC011_Horizontal/kicadPcb3d_450.png

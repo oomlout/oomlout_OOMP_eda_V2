@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TSOP17xx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP17xx|
 |Hex ID (short code)|hexID|SZKINTERFACEOPTICALTS17XX|
-|Name|name|TSOP17xx|
+|name|name|TSOP17xx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TSOP17xx', 'kicadSymbolFootprint': 'OptoDevice:Vishay_CAST-3Pin', 'kicadSymbolDatasheet': 'http://www.micropik.com/PDF/tsop17xx.pdf', 'kicadSymbolki_keywords': 'opto IR receiver', 'kicadSymbolki_description': 'Photo Modules for PCM Remote Control Systems', 'kicadSymbolki_fp_filters': 'Vishay*CAST*'}]|
 ||||

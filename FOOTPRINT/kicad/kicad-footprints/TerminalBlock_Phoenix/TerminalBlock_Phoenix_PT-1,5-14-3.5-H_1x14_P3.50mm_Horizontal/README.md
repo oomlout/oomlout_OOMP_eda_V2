@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TerminalBlock_Phoenix_PT-1,5-14-3.5-H_1x14_P3.50mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Phoenix-TerminalBlock_Phoenix_PT-1,5-14-3.5-H_1x14_P3.50mm_Horizontal|
 |Hex ID (short code)|hexID|FZKTBPHOENIXTBPHOENIXPT151435H1X14P35HORIZONTAL|
-|Name|name|TerminalBlock_Phoenix : TerminalBlock_Phoenix_PT-1,5-14-3.5-H_1x14_P3.50mm_Horizontal|
+|name|name|TerminalBlock_Phoenix : TerminalBlock_Phoenix_PT-1,5-14-3.5-H_1x14_P3.50mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TerminalBlock_Phoenix_PT-1,5-14-3.5-H_1x14_P3.50mm_Horizontal', 'description': 'Terminal Block Phoenix PT-1,5-14-3.5-H, 14 pins, pitch 3.5mm, size 49x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix', 'tags': 'THT Terminal Block Phoenix PT-1,5-14-3.5-H pitch 3.5mm size 49x7.6mm^2 drill 1.2mm pad 2.4mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-1,5-14-3.5-H_1x14_P3.50mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

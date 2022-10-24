@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Q_NMOS_SGD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Q_NMOS_SGD|
 |Hex ID (short code)|hexID|SZKDEVICEQNMOSSGD|
-|Name|name|Q_NMOS_SGD|
+|name|name|Q_NMOS_SGD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Q_NMOS_SGD', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'transistor NMOS N-MOS N-MOSFET', 'kicadSymbolki_description': 'N-MOSFET transistor, source/gate/drain'}]|
 ||||

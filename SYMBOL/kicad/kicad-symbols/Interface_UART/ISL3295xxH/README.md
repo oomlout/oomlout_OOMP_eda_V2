@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ISL3295xxH|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-ISL3295xxH|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTISL3295XXH|
-|Name|name|ISL3295xxH|
+|name|name|ISL3295xxH|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ISL3295xxH', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'https://www.renesas.com/sg/en/www/doc/datasheet/isl3295e-98e.pdf', 'kicadSymbolki_keywords': 'RS485 RS422 transceiver', 'kicadSymbolki_description': 'RS485, RS422, 20Mbps Transceiver, 3.0V to 7V, Low-Power, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

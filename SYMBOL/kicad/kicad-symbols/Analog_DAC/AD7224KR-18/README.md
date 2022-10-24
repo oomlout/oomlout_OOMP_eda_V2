@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD7224KR-18|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7224KR-18|
 |Hex ID (short code)|hexID|SZKANALOGDACAD7224KR18|
-|Name|name|AD7224KR-18|
+|name|name|AD7224KR-18|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD7224KR-18', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/static/imported-files/data_sheets/AD7224.pdf', 'kicadSymbolki_keywords': '8bit DAC Dual Single Supply', 'kicadSymbolki_description': '8bit DAC, Dual or Single Supply, SOIC-18', 'kicadSymbolki_fp_filters': 'SO*'}]|
 ||||

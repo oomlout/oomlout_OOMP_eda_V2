@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega168PV-10P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega168PV-10P|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA168PV1P|
-|Name|name|ATmega168PV-10P|
+|name|name|ATmega168PV-10P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATmega48PV-10P', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega168PV-10P', 'kicadSymbolFootprint': 'Package_DIP:DIP-28_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8025-8-bit-AVR-Microcontroller-ATmega48P-88P-168P_Datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR', 'kicadSymbolki_description': '10MHz, 16kB Flash, 1kB SRAM, 512B EEPROM, DIP-28', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

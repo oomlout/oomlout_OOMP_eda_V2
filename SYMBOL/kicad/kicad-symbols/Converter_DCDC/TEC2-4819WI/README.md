@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TEC2-4819WI|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-TEC2-4819WI|
 |Hex ID (short code)|hexID|SZKCONTEC24819WI|
-|Name|name|TEC2-4819WI|
+|name|name|TEC2-4819WI|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TMR-0510', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TEC2-4819WI', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_TRACO_TMR-xxxx_THT', 'kicadSymbolDatasheet': 'https://www.tracopower.com/products/tec2wi.pdf', 'kicadSymbolki_keywords': 'Traco isolated isolation dc-dc converter transformer', 'kicadSymbolki_description': '222mA Regulated 2W DC/DC converter with 1.5kV isolation, 18V-75V input, 9V fixed Output Voltage, SIP-8', 'kicadSymbolki_fp_filters': 'Converter*DCDC*TRACO*TMR*xxxx*'}]|
 ||||

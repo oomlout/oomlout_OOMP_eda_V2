@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Converter_DCDC_Murata_MEE1SxxxxSC_THT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Murata_MEE1SxxxxSC_THT|
 |Hex ID (short code)|hexID|FZKCONCONMMEE1SXXXXSCTHT|
-|Name|name|Converter_DCDC : Converter_DCDC_Murata_MEE1SxxxxSC_THT|
+|name|name|Converter_DCDC : Converter_DCDC_Murata_MEE1SxxxxSC_THT|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_Murata_MEE1SxxxxSC_THT', 'description': 'https://power.murata.com/pub/data/power/ncl/kdc_mee1.pdf', 'tags': 'murata dc-dc transformer', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Murata_MEE1SxxxxSC_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Murata_MEE1SxxxxSC_THT/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Murata_MEE1SxxxxSC_THT/kicadPcb3d_450.png

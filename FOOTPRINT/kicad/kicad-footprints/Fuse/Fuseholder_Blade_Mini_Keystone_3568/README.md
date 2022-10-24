@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Fuseholder_Blade_Mini_Keystone_3568|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Blade_Mini_Keystone_3568|
 |Hex ID (short code)|hexID|FZKFUFUHOLDERBLADEMKEYSTONE3568|
-|Name|name|Fuse : Fuseholder_Blade_Mini_Keystone_3568|
+|name|name|Fuse : Fuseholder_Blade_Mini_Keystone_3568|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Fuseholder_Blade_Mini_Keystone_3568', 'description': 'fuse holder, car blade fuse mini, http://www.keyelco.com/product-pdf.cfm?p=306', 'tags': 'car blade fuse mini', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Blade_Mini_Keystone_3568.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Blade_Mini_Keystone_3568/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Blade_Mini_Keystone_3568/kicadPcb3d_450.png

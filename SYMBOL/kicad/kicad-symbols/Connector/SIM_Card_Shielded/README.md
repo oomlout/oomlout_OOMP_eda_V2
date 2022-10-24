@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SIM_Card_Shielded|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-SIM_Card_Shielded|
 |Hex ID (short code)|hexID|SZKCNSIMCARDSHED|
-|Name|name|SIM_Card_Shielded|
+|name|name|SIM_Card_Shielded|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'SIM_Card_Shielded', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'SIM card UICC', 'kicadSymbolki_description': 'SIM Card', 'kicadSymbolki_fp_filters': '*SIM*Card*Holder*'}]|
 ||||

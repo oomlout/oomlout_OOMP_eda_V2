@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VSS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-VSS|
 |Hex ID (short code)|hexID|SZKPOWERVSS|
-|Name|name|VSS|
+|name|name|VSS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'VSS', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "VSS"'}]|
 ||||

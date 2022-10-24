@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AVR-ISP-10|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-AVR-ISP-10|
 |Hex ID (short code)|hexID|SZKCNAVRISP1|
-|Name|name|AVR-ISP-10|
+|name|name|AVR-ISP-10|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'AVR-ISP-10', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'AVR ISP Connector', 'kicadSymbolki_description': 'Atmel 10-pin ISP connector', 'kicadSymbolki_fp_filters': 'IDC?Header*2x05* Pin?Header*2x05*'}]|
 ||||

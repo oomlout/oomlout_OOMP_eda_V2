@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC9S08QB4xGK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08QB4xGK|
 |Hex ID (short code)|hexID|SZKMCUNXPS8MC9S8QB4XGK|
-|Name|name|MC9S08QB4xGK|
+|name|name|MC9S08QB4xGK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC9S08QB8xGK', 'kicadSymbolReference': 'IC', 'kicadSymbolValue': 'MC9S08QB4xGK', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-24-1EP_5x5mm_P0.65mm_EP3.6x3.6mm', 'kicadSymbolDatasheet': 'http://cache.nxp.com/files/microcontrollers/doc/ref_manual/MC9S08QB8RM.pdf', 'kicadSymbolki_keywords': 'NXP S08 Microcontroller', 'kicadSymbolki_description': '8-bit General Purpose Microcontroller, S08 core, 4kB Flash, 256B RAM, QFN-24', 'kicadSymbolki_fp_filters': 'QFN*1EP*5x5mm*P0.65mm*'}]|
 ||||

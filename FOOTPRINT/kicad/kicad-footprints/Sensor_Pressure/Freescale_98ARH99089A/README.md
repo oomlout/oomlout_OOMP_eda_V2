@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Freescale_98ARH99089A|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Pressure-Freescale_98ARH99089A|
 |Hex ID (short code)|hexID|FZKSENPRESSUREFREESCALE98ARH9989A|
-|Name|name|Sensor_Pressure : Freescale_98ARH99089A|
+|name|name|Sensor_Pressure : Freescale_98ARH99089A|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Freescale_98ARH99089A', 'description': 'https://www.nxp.com/docs/en/data-sheet/MPXH6250A.pdf', 'tags': 'sensor pressure ssop 98ARH99089A', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Pressure.3dshapes/Freescale_98ARH99089A.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

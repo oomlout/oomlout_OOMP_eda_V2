@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|AFF_2x7SEG-DIGIT_10mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-AFF_2x7SEG-DIGIT_10mm|
 |Hex ID (short code)|hexID|FZKDI7SAFF2X7SEGDIGIT1|
-|Name|name|Display_7Segment : AFF_2x7SEG-DIGIT_10mm|
+|name|name|Display_7Segment : AFF_2x7SEG-DIGIT_10mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'AFF_2x7SEG-DIGIT_10mm', 'description': 'Afficheur 7 segments 10mm DIGIT', 'tags': 'AFFICHEUR', 'attributeType': 'through_hole', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/AFF_2x7SEG-DIGIT_10mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Display_7Segment/AFF_2x7SEG-DIGIT_10mm/kicadPcb3d_450.png

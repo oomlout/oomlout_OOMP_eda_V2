@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCL4448|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-MCL4448|
 |Hex ID (short code)|hexID|SZKDIODEMCL4448|
-|Name|name|MCL4448|
+|name|name|MCL4448|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCL4148', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'MCL4448', 'kicadSymbolFootprint': 'Diode_SMD:D_MicroMELF', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/85566/mlc4148.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '75V 0.2A Switching Diode, MicroMELF', 'kicadSymbolki_fp_filters': 'D*MicroMELF*'}]|
 ||||

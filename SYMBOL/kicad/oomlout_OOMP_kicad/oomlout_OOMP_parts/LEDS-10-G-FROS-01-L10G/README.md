@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|LEDS-10-G-FROS-01-L10G|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-10-G-FROS-01-L10G|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS1GFROS1L1G|
-|Name|name|LEDS-10-G-FROS-01-L10G|
+|name|name|LEDS-10-G-FROS-01-L10G|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LEDS-10-G-FROS-01-L10G', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:LEDS-10-G-FROS-01-L10G', 'kicadSymbolDatasheet': 'oom.lt/L10G', 'kicadSymbolki_keywords': 'LED diode', 'kicadSymbolki_description': 'hexID: L10G;Light emitting diode', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

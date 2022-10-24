@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TSL2550D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-TSL2550D|
 |Hex ID (short code)|hexID|SZKSENOPTICALTSL255D|
-|Name|name|TSL2550D|
+|name|name|TSL2550D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TSL2550D', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ams.com/eng/content/download/250130/975613/142977', 'kicadSymbolki_keywords': 'opto ambient light sensor', 'kicadSymbolki_description': 'Ambient Light Sensor with SMbus Interface, SO-8 interface', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

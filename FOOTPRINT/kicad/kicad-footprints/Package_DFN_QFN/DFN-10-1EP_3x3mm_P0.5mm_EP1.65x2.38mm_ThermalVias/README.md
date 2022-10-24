@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNDFN11EP3X3P5EP165X238THERMALVIAS|
-|Name|name|Package_DFN_QFN : DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm_ThermalVias|
+|name|name|Package_DFN_QFN : DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm_ThermalVias', 'description': 'DFN, 10 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/3471fb.pdf#page=15), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'DFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm_ThermalVias/kicadPcb3d_450.png

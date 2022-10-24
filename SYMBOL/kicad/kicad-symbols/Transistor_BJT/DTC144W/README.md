@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DTC144W|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC144W|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTDTC144W|
-|Name|name|DTC144W|
+|name|name|DTC144W|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DTC144W', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'ROHM Digital NPN Transistor', 'kicadSymbolki_description': 'Digital NPN Transistor, 47k/22k, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23* SC?59*'}]|
 ||||

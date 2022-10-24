@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MEE3S1212SC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-MEE3S1212SC|
 |Hex ID (short code)|hexID|SZKCONMEE3S1212SC|
-|Name|name|MEE3S1212SC|
+|name|name|MEE3S1212SC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MEE3S0505SC', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'MEE3S1212SC', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_Murata_MEE3SxxxxSC_THT', 'kicadSymbolDatasheet': 'https://power.murata.com/pub/data/power/ncl/kdc_mee3.pdf', 'kicadSymbolki_keywords': 'murata DC/DC isolated converter', 'kicadSymbolki_description': '3W, 1000 VDC isolated DC/DC converter, 12V input, 12V output, SIP', 'kicadSymbolki_fp_filters': 'Converter*DCDC*Murata*MEE3SxxxxSC*THT*'}]|
 ||||

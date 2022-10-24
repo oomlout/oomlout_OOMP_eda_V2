@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BD49LxxG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-BD49LxxG|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTBD49LXXG|
-|Name|name|BD49LxxG|
+|name|name|BD49LxxG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BD48LxxG', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BD49LxxG', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.rohm.de/datasheet/BD4830FVE/bd48xxg-e', 'kicadSymbolki_keywords': 'voltage detector cmos SSOP3', 'kicadSymbolki_description': 'Standard CMOS Voltage Detector IC, CMOS Output, SSOP3(3pin GND)', 'kicadSymbolki_fp_filters': '*SOT-23*'}]|
 ||||

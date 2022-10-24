@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AT45DB161D-SU|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_Flash-AT45DB161D-SU|
 |Hex ID (short code)|hexID|SZKMEMORYFLASHAT45DB161DSU|
-|Name|name|AT45DB161D-SU|
+|name|name|AT45DB161D-SU|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AT45DB161D-SU', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_5.275x5.275mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.adestotech.com/wp-content/uploads/doc3500.pdf', 'kicadSymbolki_keywords': 'Adesto Flash Memory DataFlash', 'kicadSymbolki_description': '16Mb Serial DataFlash, 2.5V Vcc, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*P1.27mm*'}]|
 ||||

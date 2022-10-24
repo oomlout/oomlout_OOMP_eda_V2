@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BDW94B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BDW94B|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBDW94B|
-|Name|name|BDW94B|
+|name|name|BDW94B|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BDW94', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BDW94B', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'http://www.bourns.com/data/global/pdfs/bdw94.pdf', 'kicadSymbolki_keywords': 'Darlington PNP Transistor', 'kicadSymbolki_description': '12A Ic, 80V Vce, Power Darlington PNP Transistor, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CMWX1ZZABZ-078|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Module-CMWX1ZZABZ-078|
 |Hex ID (short code)|hexID|SZKRFMOCMWX1ZZABZ78|
-|Name|name|CMWX1ZZABZ-078|
+|name|name|CMWX1ZZABZ-078|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CMWX1ZZABZ-078', 'kicadSymbolFootprint': 'RF_Module:CMWX1ZZABZ', 'kicadSymbolDatasheet': 'https://wireless.murata.com/RFM/data/type_abz.pdf', 'kicadSymbolki_keywords': 'iot lora sigfox', 'kicadSymbolki_description': 'LoRa/SigFox Module, STM32L082 MCU, Murata CMWX1ZZABZ', 'kicadSymbolki_fp_filters': 'CMWX1ZZABZ*'}]|
 ||||

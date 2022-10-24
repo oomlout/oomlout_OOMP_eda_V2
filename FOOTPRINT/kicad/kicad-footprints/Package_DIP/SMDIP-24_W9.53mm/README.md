@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SMDIP-24_W9.53mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-SMDIP-24_W9.53mm|
 |Hex ID (short code)|hexID|FZKDIPSMIP24W953|
-|Name|name|Package_DIP : SMDIP-24_W9.53mm|
+|name|name|Package_DIP : SMDIP-24_W9.53mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SMDIP-24_W9.53mm', 'description': '24-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)', 'tags': 'SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/SMDIP-24_W9.53mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/SMDIP-24_W9.53mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DIP/SMDIP-24_W9.53mm/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LPC11U24FBD48-401|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC11U24FBD48-401|
 |Hex ID (short code)|hexID|SZKMCUNXPLPCLPC11U24FBD4841|
-|Name|name|LPC11U24FBD48-401|
+|name|name|LPC11U24FBD48-401|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LPC11U12FBD48-201', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LPC11U24FBD48-401', 'kicadSymbolFootprint': 'Package_QFP:LQFP-48_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/documents/data_sheet/LPC11U2X.pdf', 'kicadSymbolki_keywords': 'ARM, 32-bit, Cortex-M0, M0, NXP, microcontroller', 'kicadSymbolki_description': '32-bit ARM Cortex-M0 microcontroller, USB, 32KB flash, 10KB SRAM', 'kicadSymbolki_fp_filters': '*QFP*7x7mm*P0.5mm*'}]|
 ||||

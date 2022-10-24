@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SPX2920U-3.3_TO220|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX2920U-3.3_TO220|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARSPX292U33TO22|
-|Name|name|SPX2920U-3.3_TO220|
+|name|name|SPX2920U-3.3_TO220|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM7805_TO220', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SPX2920U-3.3_TO220', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'http://www.zlgmcu.com/Sipex/LDO/PDF/spx2920.pdf', 'kicadSymbolki_keywords': 'REGULATOR LDO 3.3V', 'kicadSymbolki_description': '400mA Low drop-out regulator, Fixed Output 3.3V, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

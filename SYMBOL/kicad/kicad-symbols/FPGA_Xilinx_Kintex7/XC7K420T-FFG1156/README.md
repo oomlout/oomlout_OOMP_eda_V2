@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC7K420T-FFG1156|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Kintex7-XC7K420T-FFG1156|
 |Hex ID (short code)|hexID|SZKFPGAXILINXKINTEX7XC7K42TFFG1156|
-|Name|name|XC7K420T-FFG1156|
+|name|name|XC7K420T-FFG1156|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC7K420T-FFG1156', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Kintex 7 T 420 XC7K420T-FFG1156'}]|
 ||||

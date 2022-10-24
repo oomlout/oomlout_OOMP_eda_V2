@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCV214|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Current-NCV214|
 |Hex ID (short code)|hexID|SZKAMPLIFIERCURRENTNCV214|
-|Name|name|NCV214|
+|name|name|NCV214|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NCS210', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCV214', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/NCS210R-D.PDF', 'kicadSymbolki_keywords': 'Current shunt monitor', 'kicadSymbolki_description': 'Current-Shunt Monitor, Voltage Output, Bi-Directional Zero-Drift, 100V/V Gain, SC-70-6', 'kicadSymbolki_fp_filters': '*SC?70*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MBR1020VL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-MBR1020VL|
 |Hex ID (short code)|hexID|SZKDIODEMBR12VL|
-|Name|name|MBR1020VL|
+|name|name|MBR1020VL|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PMEG2005EH', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'MBR1020VL', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-123F', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MBR1020VL-D.PDF', 'kicadSymbolki_keywords': 'forward voltage diode', 'kicadSymbolki_description': '20V, 1A, 340 mV, Schottky Diode Rectifier, SOD-123F', 'kicadSymbolki_fp_filters': 'D*SOD?123F*'}]|
 ||||

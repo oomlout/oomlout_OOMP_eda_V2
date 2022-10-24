@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP9804_DFN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9804_DFN|
 |Hex ID (short code)|hexID|SZKSENTEMPERATUREMCP984DFN|
-|Name|name|MCP9804_DFN|
+|name|name|MCP9804_DFN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP9804_DFN', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.7x1.4mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/22203b.pdf', 'kicadSymbolki_keywords': 'temperature sensor I2C', 'kicadSymbolki_description': '+/-0.25C (+/-1C) Typical (Maximum), Digital Temperature Sensor, DFN-8', 'kicadSymbolki_fp_filters': 'DFN*1EP*3x2mm*P0.5mm*'}]|
 ||||

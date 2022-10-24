@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|BFCN-5100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-5100|
 |Hex ID (short code)|hexID|SZKRFFILBFCN51|
-|Name|name|BFCN-5100|
+|name|name|BFCN-5100|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'FL', 'kicadSymbolValue': 'BFCN-5100', 'kicadSymbolFootprint': 'Filter:Filter_Mini-Circuits_FV1206-6', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/BFCN-5100+.pdf', 'kicadSymbolki_keywords': 'Mini-Circuits band pass filter', 'kicadSymbolki_description': '3100-7100MHz 50 Ohm Passive Band Pass Filter, FV1206-6', 'kicadSymbolki_fp_filters': 'Filter*Mini?Circuits*FV1206?6*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|VQFN-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-VQFN-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm|
 |Hex ID (short code)|hexID|FZKDFNVQFN481EP7X7P5EP41X41|
-|Name|name|Package_DFN_QFN : VQFN-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm|
+|name|name|Package_DFN_QFN : VQFN-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'VQFN-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm', 'description': 'VQFN, 48 Pin (http://www.ti.com/lit/ds/symlink/cc430f5137.pdf#page=128), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'VQFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/VQFN-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/VQFN-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/VQFN-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm/kicadPcb3d_450.png

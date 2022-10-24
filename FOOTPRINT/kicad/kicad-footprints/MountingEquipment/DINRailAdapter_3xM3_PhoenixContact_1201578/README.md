@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DINRailAdapter_3xM3_PhoenixContact_1201578|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingEquipment-DINRailAdapter_3xM3_PhoenixContact_1201578|
 |Hex ID (short code)|hexID|FZKMONDINRAILADAPTER3XM3PHOENIXCONTACT121578|
-|Name|name|MountingEquipment : DINRailAdapter_3xM3_PhoenixContact_1201578|
+|name|name|MountingEquipment : DINRailAdapter_3xM3_PhoenixContact_1201578|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DINRailAdapter_3xM3_PhoenixContact_1201578', 'description': 'https://www.phoenixcontact.com/online/portal/us?uri=pxc-oc-itemdetail:pid=1201578&library=usen&tab=1', 'tags': 'DIN rail adapter universal three M3 clearance holes', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/MountingEquipment.3dshapes/DINRailAdapter_3xM3_PhoenixContact_1201578.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingEquipment/DINRailAdapter_3xM3_PhoenixContact_1201578/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/MountingEquipment/DINRailAdapter_3xM3_PhoenixContact_1201578/kicadPcb3d_450.png

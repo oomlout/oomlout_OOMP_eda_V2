@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX5436|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MAX5436|
 |Hex ID (short code)|hexID|SZKPOTENTIOMETERDIGITALMAX5436|
-|Name|name|MAX5436|
+|name|name|MAX5436|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX5436', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX5436-MAX5439.pdf', 'kicadSymbolki_keywords': 'digital potentiometer resistor variable', 'kicadSymbolki_description': 'Low-Drift Digital Potentiometer'}]|
 ||||

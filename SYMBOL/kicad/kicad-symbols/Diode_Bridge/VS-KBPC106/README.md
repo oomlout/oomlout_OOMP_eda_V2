@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VS-KBPC106|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Bridge-VS-KBPC106|
 |Hex ID (short code)|hexID|SZKDIODEBRIDGEVSKBPC16|
-|Name|name|VS-KBPC106|
+|name|name|VS-KBPC106|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'VS-KBPC1005', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'VS-KBPC106', 'kicadSymbolFootprint': 'Diode_THT:Diode_Bridge_Vishay_KBPC1', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/93585/vs-kbpc1series.pdf', 'kicadSymbolki_keywords': 'rectifier acdc', 'kicadSymbolki_description': 'Single-Phase Bridge Rectifier, 250V Vrms, 3.0A If, KBPC1 package', 'kicadSymbolki_fp_filters': 'D*Bridge*Vishay*KBPC1*'}]|
 ||||

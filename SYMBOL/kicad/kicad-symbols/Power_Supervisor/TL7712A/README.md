@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TL7712A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Supervisor-TL7712A|
 |Hex ID (short code)|hexID|SZKPOWERSUPERVISORTL7712A|
-|Name|name|TL7712A|
+|name|name|TL7712A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TL7702A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TL7712A', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com.cn/cn/lit/ds/symlink/tl7705a.pdf', 'kicadSymbolki_keywords': 'voltage supervisor', 'kicadSymbolki_description': 'Supply-Voltage Supervisors, 10.8V, PDIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'}]|
 ||||

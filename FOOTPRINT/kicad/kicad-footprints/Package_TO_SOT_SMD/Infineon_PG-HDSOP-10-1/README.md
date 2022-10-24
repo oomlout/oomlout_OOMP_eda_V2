@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Infineon_PG-HDSOP-10-1|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Infineon_PG-HDSOP-10-1|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMINFINEONPGHDS11|
-|Name|name|Package_TO_SOT_SMD : Infineon_PG-HDSOP-10-1|
+|name|name|Package_TO_SOT_SMD : Infineon_PG-HDSOP-10-1|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Infineon_PG-HDSOP-10-1', 'description': 'Infineon PG-HDSOP-10-1 (DDPAK), 20.96x6.5x2.3mm, slug up (https://www.infineon.com/cms/en/product/packages/PG-HDSOP/PG-HDSOP-10-1/)', 'tags': 'hdsop 10 ddpak', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Infineon_PG-HDSOP-10-1.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Infineon_PG-HDSOP-10-1/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Infineon_PG-HDSOP-10-1/kicadPcb3d_450.png

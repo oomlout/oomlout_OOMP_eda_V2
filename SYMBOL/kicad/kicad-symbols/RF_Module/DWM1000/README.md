@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|DWM1000|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Module-DWM1000|
 |Hex ID (short code)|hexID|SZKRFMODWM1|
-|Name|name|DWM1000|
+|name|name|DWM1000|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'DWM', 'kicadSymbolValue': 'DWM1000', 'kicadSymbolFootprint': 'RF_Module:DWM1000', 'kicadSymbolDatasheet': 'https://www.decawave.com/sites/default/files/resources/dwm1000-datasheet-v1.3.pdf', 'kicadSymbolki_keywords': 'DWM1000,Decawave,RF,ranging,UWB', 'kicadSymbolki_description': 'Ultra wide band RF module With ranging location capabilities', 'kicadSymbolki_fp_filters': '*DWM1000*'}]|
 ||||

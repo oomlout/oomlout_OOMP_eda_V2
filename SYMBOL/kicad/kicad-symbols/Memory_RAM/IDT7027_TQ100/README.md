@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IDT7027_TQ100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7027_TQ100|
 |Hex ID (short code)|hexID|SZKMEMORYRAMIDT727TQ1|
-|Name|name|IDT7027_TQ100|
+|name|name|IDT7027_TQ100|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IDT7027_TQ100', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

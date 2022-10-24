@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BSC13DN30NSFD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC13DN30NSFD|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBSC13DN3NSFD|
-|Name|name|BSC13DN30NSFD|
+|name|name|BSC13DN30NSFD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BSC13DN30NSFD', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TDSON-8-1', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-BSC13DN30NSFD-DS-v02_01-EN.pdf?fileId=5546d46259b0420a0159d5c940fc0d9a', 'kicadSymbolki_keywords': 'NexFET Power MOSFET N-MOS', 'kicadSymbolki_description': '16A Id, 300V Vds, OptiMOS N-Channel Power MOSFET, 130mOhm Ron, Qg (typ) 30.0nC, PG-TDSON-8', 'kicadSymbolki_fp_filters': 'TDSON*'}]|
 ||||

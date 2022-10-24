@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TIC226|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Triac_Thyristor-TIC226|
 |Hex ID (short code)|hexID|SZKTRIACTHYRISTORTIC226|
-|Name|name|TIC226|
+|name|name|TIC226|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'TIC226', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'http://pdf.datasheetcatalog.com/datasheet/PowerInnovations/mXuqxvy.pdf', 'kicadSymbolki_keywords': 'Triac', 'kicadSymbolki_description': '8A RMS, 400-800V Off-State Voltage, Triac, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

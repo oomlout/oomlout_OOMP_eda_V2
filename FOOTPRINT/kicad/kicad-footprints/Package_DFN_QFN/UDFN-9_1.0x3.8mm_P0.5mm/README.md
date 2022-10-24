@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|UDFN-9_1.0x3.8mm_P0.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-UDFN-9_1.0x3.8mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKDFNUDFN91X38P5|
-|Name|name|Package_DFN_QFN : UDFN-9_1.0x3.8mm_P0.5mm|
+|name|name|Package_DFN_QFN : UDFN-9_1.0x3.8mm_P0.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'UDFN-9_1.0x3.8mm_P0.5mm', 'description': '9-pin UDFN package, 1.0x3.8mm, (Ref: https://katalog.we-online.de/pbs/datasheet/824014881.pdf)', 'tags': 'UDFN SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/UDFN-9_1.0x3.8mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UDFN-9_1.0x3.8mm_P0.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UDFN-9_1.0x3.8mm_P0.5mm/kicadPcb3d_450.png

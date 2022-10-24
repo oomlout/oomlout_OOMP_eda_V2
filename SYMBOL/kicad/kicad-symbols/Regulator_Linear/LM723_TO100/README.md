@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM723_TO100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM723_TO100|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM723TO1|
-|Name|name|LM723_TO100|
+|name|name|LM723_TO100|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM723_TO100', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-100-10', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm723.pdf', 'kicadSymbolki_keywords': 'POWER REGUL', 'kicadSymbolki_description': 'Linear Regulator (adjustable), TO-100', 'kicadSymbolki_fp_filters': 'TO?100*'}]|
 ||||

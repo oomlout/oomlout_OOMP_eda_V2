@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Fuse_Schurter_UMZ250|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Schurter_UMZ250|
 |Hex ID (short code)|hexID|FZKFUFUSCHURTERUMZ25|
-|Name|name|Fuse : Fuse_Schurter_UMZ250|
+|name|name|Fuse : Fuse_Schurter_UMZ250|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Fuse_Schurter_UMZ250', 'description': 'Surface Mount Fuse with Clip, 4.2 x 11.1 mm, Time-Lag T, 250 VAC, 125 VDC (https://us.schurter.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_UMZ_250.pdf)', 'tags': 'fuse smd mount holder', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Schurter_UMZ250.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Schurter_UMZ250/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Schurter_UMZ250/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|ST_Morpho_Connector_144_STLink|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Module-ST_Morpho_Connector_144_STLink|
 |Hex ID (short code)|hexID|FZKMOSTMORPHOCN144STLINK|
-|Name|name|Module : ST_Morpho_Connector_144_STLink|
+|name|name|Module : ST_Morpho_Connector_144_STLink|
 |Footprint Kicad|footprintKicadDetails|{'name': 'ST_Morpho_Connector_144_STLink', 'description': 'ST Morpho Connector 144 With STLink', 'tags': 'ST Morpho Connector 144 STLink', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Module.3dshapes/ST_Morpho_Connector_144_STLink.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/ST_Morpho_Connector_144_STLink/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Module/ST_Morpho_Connector_144_STLink/kicadPcb3d_450.png

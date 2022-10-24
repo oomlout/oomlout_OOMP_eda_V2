@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BYV79-150|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BYV79-150|
 |Hex ID (short code)|hexID|SZKDIODEBYV7915|
-|Name|name|BYV79-150|
+|name|name|BYV79-150|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BYV79-100', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BYV79-150', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-2_Vertical', 'kicadSymbolDatasheet': 'http://pdf.datasheetcatalog.com/datasheet/philips/BYV79-100.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '150V 14A Ultrafast Rectifier Diode, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

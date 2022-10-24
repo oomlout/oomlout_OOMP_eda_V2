@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ST1S10PUR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-ST1S10PUR|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGST1S1PUR|
-|Name|name|ST1S10PUR|
+|name|name|ST1S10PUR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ST1S10PUR', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_4x4mm_P0.8mm_EP2.5x3.6mm', 'kicadSymbolDatasheet': 'http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00169322.pdf', 'kicadSymbolki_keywords': 'DC/DC Buck Conwerter 3A Low Voltage Input', 'kicadSymbolki_description': '3A monolithic synchronous step-down regulator, Adjustable Output Voltage, 2.5-18V Input Voltage, 900kHz, DFN-8', 'kicadSymbolki_fp_filters': 'DFN*EP*4x4mm*P0.8mm*'}]|
 ||||

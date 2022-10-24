@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Pulse_PA2777NL|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_PA2777NL|
 |Hex ID (short code)|hexID|FZKTRSMPULSEPA2777NL|
-|Name|name|Transformer_SMD : Pulse_PA2777NL|
+|name|name|Transformer_SMD : Pulse_PA2777NL|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Pulse_PA2777NL', 'description': 'SMT Gate Drive Transformer, 1:1, 7.1x6.1x5.5mm (https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf)', 'tags': 'pulse pa2777nl', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Pulse_PA2777NL.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4543|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx-4543|
 |Hex ID (short code)|hexID|SZK4XXX4543|
-|Name|name|4543|
+|name|name|4543|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4543', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/cd4543b.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'CMOS 7-segment latch decoder driver', 'kicadSymbolki_description': 'BCD to 7-segment latch/decoder/driver', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x9.9mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm*'}]|
 ||||

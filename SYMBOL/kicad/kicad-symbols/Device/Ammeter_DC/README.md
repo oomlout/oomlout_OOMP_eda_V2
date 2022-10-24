@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Ammeter_DC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Ammeter_DC|
 |Hex ID (short code)|hexID|SZKDEVICEAETERDC|
-|Name|name|Ammeter_DC|
+|name|name|Ammeter_DC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'MES', 'kicadSymbolValue': 'Ammeter_DC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'ammeter DC ampere meter', 'kicadSymbolki_description': 'DC ammeter'}]|
 ||||

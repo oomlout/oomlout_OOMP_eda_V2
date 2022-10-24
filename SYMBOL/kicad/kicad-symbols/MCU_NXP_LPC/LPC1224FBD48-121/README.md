@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LPC1224FBD48-121|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1224FBD48-121|
 |Hex ID (short code)|hexID|SZKMCUNXPLPCLPC1224FBD48121|
-|Name|name|LPC1224FBD48-121|
+|name|name|LPC1224FBD48-121|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LPC1224FBD48-101', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LPC1224FBD48-121', 'kicadSymbolFootprint': 'Package_QFP:LQFP-48_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/LPC122X.pdf', 'kicadSymbolki_keywords': 'ARM, 32-bit, Cortex-M0, M0, NXP, microcontroller', 'kicadSymbolki_description': 'LPC122x 32-bit ARM Cortex-M0 microcontroller, 48 kB FLASH, 4 kB SRAM, LQFP-48', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.5mm*'}]|
 ||||

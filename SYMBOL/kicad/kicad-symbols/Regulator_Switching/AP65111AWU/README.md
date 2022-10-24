@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AP65111AWU|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP65111AWU|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGAP65111AWU|
-|Name|name|AP65111AWU|
+|name|name|AP65111AWU|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AP65111AWU', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-6', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/AP65111A.pdf', 'kicadSymbolki_keywords': '1.5A 500kHz PWM Buck DC/DC', 'kicadSymbolki_description': '1.5A, 500kHz Buck DC/DC Converter, adjustable output voltage, TSOT-23-6', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
 ||||

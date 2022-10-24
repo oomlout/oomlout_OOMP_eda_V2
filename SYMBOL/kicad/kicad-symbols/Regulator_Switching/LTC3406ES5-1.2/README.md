@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC3406ES5-1.2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3406ES5-1.2|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLTC346ES512|
-|Name|name|LTC3406ES5-1.2|
+|name|name|LTC3406ES5-1.2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LTC3406BES5-1.2', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC3406ES5-1.2', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-5', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/3406b12fs.pdf', 'kicadSymbolki_keywords': 'Regulator step-down', 'kicadSymbolki_description': '600mA Synchronous Step-Down Regulator, 1.5MHz, Fixed 1.2V Output Voltage, Burst Mode, ThinSOT-23', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
 ||||

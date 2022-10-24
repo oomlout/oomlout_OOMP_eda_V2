@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PinHeader_2x20_P1.00mm_Vertical_SMD|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.00mm-PinHeader_2x20_P1.00mm_Vertical_SMD|
 |Hex ID (short code)|hexID|FZKCNPINHEADER1PINHEADER2X2P1VERTICALSM|
-|Name|name|Connector_PinHeader_1.00mm : PinHeader_2x20_P1.00mm_Vertical_SMD|
+|name|name|Connector_PinHeader_1.00mm : PinHeader_2x20_P1.00mm_Vertical_SMD|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PinHeader_2x20_P1.00mm_Vertical_SMD', 'description': 'surface-mounted straight pin header, 2x20, 1.00mm pitch, double rows', 'tags': 'Surface mounted pin header SMD 2x20 1.00mm double row', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PinHeader_1.00mm.3dshapes/PinHeader_2x20_P1.00mm_Vertical_SMD.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.00mm/PinHeader_2x20_P1.00mm_Vertical_SMD/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.00mm/PinHeader_2x20_P1.00mm_Vertical_SMD/kicadPcb3d_450.png

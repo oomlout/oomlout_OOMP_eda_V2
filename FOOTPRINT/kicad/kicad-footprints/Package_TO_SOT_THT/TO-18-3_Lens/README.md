@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-18-3_Lens|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-18-3_Lens|
 |Hex ID (short code)|hexID|FZKSOTTO183LENS|
-|Name|name|Package_TO_SOT_THT : TO-18-3_Lens|
+|name|name|Package_TO_SOT_THT : TO-18-3_Lens|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-18-3_Lens', 'description': 'TO-18-3_Lens, Lens', 'tags': 'TO-18-3_Lens Lens', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-18-3_Lens.wrl', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-18-3_Lens/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-18-3_Lens/kicadPcb3d_450.png

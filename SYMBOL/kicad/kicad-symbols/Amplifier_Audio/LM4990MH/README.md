@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM4990MH|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4990MH|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOLM499MH|
-|Name|name|LM4990MH|
+|name|name|LM4990MH|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM4990MH', 'kicadSymbolFootprint': 'Package_SO:MSOP-10-1EP_3x3mm_P0.5mm_EP1.68x1.88mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm4990.pdf', 'kicadSymbolki_keywords': 'audio amplifier class d', 'kicadSymbolki_description': 'Boomer 2 Watt Audio Power Amplifier with Selectable Shutdown Logic Level, MSOP-10', 'kicadSymbolki_fp_filters': 'MSOP*EP*3x3mm*P0.5mm*'}]|
 ||||

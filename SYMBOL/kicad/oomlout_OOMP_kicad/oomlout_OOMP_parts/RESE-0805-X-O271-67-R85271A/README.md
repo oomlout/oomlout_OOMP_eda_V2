@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O271-67-R85271A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O271-67-R85271A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO27167R85271A|
-|Name|name|RESE-0805-X-O271-67-R85271A|
+|name|name|RESE-0805-X-O271-67-R85271A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O271-67-R85271A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O271-67-R85271A', 'kicadSymbolDatasheet': 'oom.lt/R85271A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R85271A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

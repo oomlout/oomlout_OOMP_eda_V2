@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TCM809|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Supervisor-TCM809|
 |Hex ID (short code)|hexID|SZKPOWERSUPERVISORTCM89|
-|Name|name|TCM809|
+|name|name|TCM809|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TCM809', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/21661E.pdf', 'kicadSymbolki_keywords': 'supervisor reset push-pull', 'kicadSymbolki_description': 'Microcontroller reset monitor, active low output', 'kicadSymbolki_fp_filters': 'SOT?23* *SC?70*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_Cree-PLCC4_3.2x2.8mm_CCW|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-PLCC4_3.2x2.8mm_CCW|
 |Hex ID (short code)|hexID|FZKLSMLCREEPLCC432X28CCW|
-|Name|name|LED_SMD : LED_Cree-PLCC4_3.2x2.8mm_CCW|
+|name|name|LED_SMD : LED_Cree-PLCC4_3.2x2.8mm_CCW|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_Cree-PLCC4_3.2x2.8mm_CCW', 'description': '3.2mm x 2.8mm PLCC4 LED, http://www.cree.com/led-components/media/documents/CLV1AFKB(874).pdf', 'tags': 'LED Cree PLCC-4', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Cree-PLCC4_3.2x2.8mm_CCW.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-PLCC4_3.2x2.8mm_CCW/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-PLCC4_3.2x2.8mm_CCW/kicadPcb3d_450.png

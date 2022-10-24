@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AP6502|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP6502|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGAP652|
-|Name|name|AP6502|
+|name|name|AP6502|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AP6502', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/AP6502.pdf', 'kicadSymbolki_keywords': 'buck switching converter', 'kicadSymbolki_description': '340kHz 18V 2A Synchronous DC/DC Buck Converter', 'kicadSymbolki_fp_filters': 'Diodes_SO-8EP*'}]|
 ||||

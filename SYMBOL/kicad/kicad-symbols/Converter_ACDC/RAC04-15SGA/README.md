@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RAC04-15SGA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC04-15SGA|
 |Hex ID (short code)|hexID|SZKCONRAC415SGA|
-|Name|name|RAC04-15SGA|
+|name|name|RAC04-15SGA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'RAC04-xxSGA', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'RAC04-15SGA', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_RECOM_RAC04-xxSGx_THT', 'kicadSymbolDatasheet': 'https://www.recom-power.com/pdf/Powerline-AC-DC/RAC04-GA.pdf', 'kicadSymbolki_keywords': 'ac dc power supply', 'kicadSymbolki_description': '4 Watt Single Output EMC Class A - 15V 270mA', 'kicadSymbolki_fp_filters': 'Converter*ACDC*RECOM*RAC04*SG*'}]|
 ||||

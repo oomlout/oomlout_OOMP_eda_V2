@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Q_Dual_NPN_C2C1E1E2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Q_Dual_NPN_C2C1E1E2|
 |Hex ID (short code)|hexID|SZKDEVICEQDUALNPNC2C1E1E2|
-|Name|name|Q_Dual_NPN_C2C1E1E2|
+|name|name|Q_Dual_NPN_C2C1E1E2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Q_Dual_NPN_C2C1E1E2', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'transistor NPN', 'kicadSymbolki_description': 'Double NPN transistors, current mirror configuration', 'kicadSymbolki_fp_filters': 'SOT?143*'}]|
 ||||

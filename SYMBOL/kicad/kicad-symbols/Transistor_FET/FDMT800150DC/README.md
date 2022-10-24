@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FDMT800150DC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMT800150DC|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETFDMT815DC|
-|Name|name|FDMT800150DC|
+|name|name|FDMT800150DC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'FDMT80060DC', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FDMT800150DC', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:PQFN_8x8', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FDMT800150DC-D.pdf', 'kicadSymbolki_keywords': 'dual-cool-powertrench MOSFET fairchild', 'kicadSymbolki_description': '15A Id, 150V Vds, N-Channel Dual cool PowerTrench MOSFET, 6.5mOhm Ron, 108nC Qgmax, -55 to 150 °C, 8x8mm MLP', 'kicadSymbolki_fp_filters': 'PQFN*8x8*'}]|
 ||||

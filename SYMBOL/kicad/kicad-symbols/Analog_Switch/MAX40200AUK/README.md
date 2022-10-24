@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX40200AUK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX40200AUK|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHMAX42AUK|
-|Name|name|MAX40200AUK|
+|name|name|MAX40200AUK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX40200AUK', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX40200.pdf', 'kicadSymbolki_keywords': 'current switch', 'kicadSymbolki_description': 'Ideal Diode, Ultra-Low Voltage Drop, 1.5-5.5V, 1A, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

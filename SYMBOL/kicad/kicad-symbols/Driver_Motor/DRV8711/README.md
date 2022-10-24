@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DRV8711|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8711|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORDRV8711|
-|Name|name|DRV8711|
+|name|name|DRV8711|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DRV8711', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/slvsc40f/slvsc40f.pdf', 'kicadSymbolki_keywords': 'Stepper driver', 'kicadSymbolki_description': 'Stepper motor controller, external N-channel MOSFET, single bipolar stepper motor, dual brushed DC motors', 'kicadSymbolki_fp_filters': 'HTSSOP-38'}]|
 ||||

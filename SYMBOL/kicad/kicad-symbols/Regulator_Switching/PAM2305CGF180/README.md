@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PAM2305CGF180|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2305CGF180|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGPAM235CGF18|
-|Name|name|PAM2305CGF180|
+|name|name|PAM2305CGF180|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PAM2305CGF330', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PAM2305CGF180', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/PAM2305.pdf', 'kicadSymbolki_keywords': 'Voltage regulator switching buck fixed output analog', 'kicadSymbolki_description': '1A, Step-Down DC/DC-Converter, 1.8V Fixed Output Voltage, 1.5MHz, DFN-6', 'kicadSymbolki_fp_filters': 'DFN*EP*2x2mm*P0.65mm*'}]|
 ||||

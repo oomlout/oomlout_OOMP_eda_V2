@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD8215|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8215|
 |Hex ID (short code)|hexID|SZKAMPLIFIERCURRENTAD8215|
-|Name|name|AD8215|
+|name|name|AD8215|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD8215', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD8215.pdf', 'kicadSymbolki_keywords': 'highside HS current sense amplifier linear buffered monitor', 'kicadSymbolki_description': '65V High Voltage, Current Shunt Monitor, 20V/V gain, bandwidth 450kHz, Vcc=5V, unidirectional, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

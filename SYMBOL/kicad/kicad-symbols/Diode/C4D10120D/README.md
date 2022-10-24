@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C4D10120D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-C4D10120D|
 |Hex ID (short code)|hexID|SZKDIODEC4D112D|
-|Name|name|C4D10120D|
+|name|name|C4D10120D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'C3D16060D', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'C4D10120D', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-247-3_Vertical', 'kicadSymbolDatasheet': 'https://www.wolfspeed.com/media/downloads/104/C4D10120D.pdf', 'kicadSymbolki_keywords': 'sic diode', 'kicadSymbolki_description': '1200V, 10A, SiC Schottky Diode, TO-247-3', 'kicadSymbolki_fp_filters': 'TO?247*'}]|
 ||||

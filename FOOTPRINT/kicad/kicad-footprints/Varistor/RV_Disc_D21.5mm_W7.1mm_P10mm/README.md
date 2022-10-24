@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RV_Disc_D21.5mm_W7.1mm_P10mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Varistor-RV_Disc_D21.5mm_W7.1mm_P10mm|
 |Hex ID (short code)|hexID|FZKVRVDISCD215W71P1|
-|Name|name|Varistor : RV_Disc_D21.5mm_W7.1mm_P10mm|
+|name|name|Varistor : RV_Disc_D21.5mm_W7.1mm_P10mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RV_Disc_D21.5mm_W7.1mm_P10mm', 'description': 'Varistor, diameter 21.5mm, width 7.1mm, pitch 10mm', 'tags': 'varistor SIOV', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Varistor.3dshapes/RV_Disc_D21.5mm_W7.1mm_P10mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

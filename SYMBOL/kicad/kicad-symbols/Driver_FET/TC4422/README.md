@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TC4422|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-TC4422|
 |Hex ID (short code)|hexID|SZKDRIVERFETTC4422|
-|Name|name|TC4422|
+|name|name|TC4422|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TC4422', 'kicadSymbolFootprint': 'Package_DIP:DIP-8-N6_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20001420F.pdf', 'kicadSymbolki_keywords': 'MOSFET IGBT driver', 'kicadSymbolki_description': '9A High-Speed non-inverting MOSFET Driver', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

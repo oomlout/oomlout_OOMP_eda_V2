@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm|
 |Hex ID (short code)|hexID|FZKBGALINEARBGA13315X15LAYOUT12X12P127|
-|Name|name|Package_BGA : Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm|
+|name|name|Package_BGA : Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm', 'description': 'Analog Devices (Linear Tech), 133-pin BGA uModule, 15.0x15.0x4.92mm, https://www.analog.com/media/en/technical-documentation/data-sheets/4637fc.pdf', 'tags': '133 pin bga', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_BGA/Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm/kicadPcb3d_450.png

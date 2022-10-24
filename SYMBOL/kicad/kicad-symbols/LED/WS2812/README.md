@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|WS2812|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-LED-WS2812|
 |Hex ID (short code)|hexID|SZKLWS2812|
-|Name|name|WS2812|
+|name|name|WS2812|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'WS2812S', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'WS2812', 'kicadSymbolFootprint': 'LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm', 'kicadSymbolDatasheet': 'https://cdn-shop.adafruit.com/datasheets/WS2812.pdf', 'kicadSymbolki_keywords': 'RGB LED NeoPixel addressable', 'kicadSymbolki_description': 'RGB LED with integrated controller', 'kicadSymbolki_fp_filters': 'LED*WS2812*PLCC*5.0x5.0mm*P1.6mm*'}]|
 ||||

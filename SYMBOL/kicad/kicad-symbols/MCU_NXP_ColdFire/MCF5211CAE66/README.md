@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCF5211CAE66|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_ColdFire-MCF5211CAE66|
 |Hex ID (short code)|hexID|SZKMCUNXPCOLDFIREMCF5211CAE66|
-|Name|name|MCF5211CAE66|
+|name|name|MCF5211CAE66|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCF5212CAE66', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCF5211CAE66', 'kicadSymbolFootprint': 'Package_QFP:LQFP-64_10x10mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/MCF5213EC.pdf', 'kicadSymbolki_keywords': 'MCU', 'kicadSymbolki_description': 'ColdFire Microcontroller, LQFP64', 'kicadSymbolki_fp_filters': 'LQFP*10x10mm*P0.5mm*'}]|
 ||||

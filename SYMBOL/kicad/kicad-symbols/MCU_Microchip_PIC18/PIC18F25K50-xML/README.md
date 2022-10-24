@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC18F25K50-xML|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F25K50-xML|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC18PIC18F25K5XML|
-|Name|name|PIC18F25K50-xML|
+|name|name|PIC18F25K50-xML|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC18F24K50-xML', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18F25K50-xML', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/30000684B.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit Microcontroller XLP', 'kicadSymbolki_description': '32K Flash, 2K SRAM, 256 EEPROM, USB, nanoWatt XLP, 2.3V to 5.5V, QFN28', 'kicadSymbolki_fp_filters': 'QFN*1EP*6x6mm*P0.65mm*'}]|
 ||||

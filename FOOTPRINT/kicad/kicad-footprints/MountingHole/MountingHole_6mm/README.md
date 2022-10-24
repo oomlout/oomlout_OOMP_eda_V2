@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MountingHole_6mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6mm|
 |Hex ID (short code)|hexID|FZKHOLHOL6|
-|Name|name|MountingHole : MountingHole_6mm|
+|name|name|MountingHole : MountingHole_6mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_6mm', 'description': 'Mounting Hole 6mm, no annular', 'tags': 'mounting hole 6mm no annular', 'attributeType': None, 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_6mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_6mm/kicadPcb3d_450.png

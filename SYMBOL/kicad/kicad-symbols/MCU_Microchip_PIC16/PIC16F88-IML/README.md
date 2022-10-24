@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F88-IML|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F88-IML|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F88IML|
-|Name|name|PIC16F88-IML|
+|name|name|PIC16F88-IML|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F88-IML', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/30487D.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller', 'kicadSymbolki_description': 'PIC16F88, 4096W Flash, 368B SRAM, 256B EEPROM, QFN-28', 'kicadSymbolki_fp_filters': 'DIP* PDIP*'}]|
 ||||

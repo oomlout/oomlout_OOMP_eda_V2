@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RAK4200|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Module-RAK4200|
 |Hex ID (short code)|hexID|SZKRFMORAK42|
-|Name|name|RAK4200|
+|name|name|RAK4200|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'RAK4200', 'kicadSymbolFootprint': 'RF_Module:RAK4200', 'kicadSymbolDatasheet': 'https://downloads.rakwireless.com/LoRa/RAK4200/Hardware-Specification/RAK4200_Module_Specifications_V1.4.pdf', 'kicadSymbolki_keywords': 'IoT, LoRa, LoRaWAN, RF', 'kicadSymbolki_description': 'LoRa Module, STM32L071,  RAKwireless', 'kicadSymbolki_fp_filters': 'RAK4200*'}]|
 ||||

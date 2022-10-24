@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HI524|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-HI524|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHHI524|
-|Name|name|HI524|
+|name|name|HI524|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HI524', 'kicadSymbolFootprint': 'Package_DIP:DIP-18_W7.62mm', 'kicadSymbolDatasheet': 'https://www.intersil.com/content/dam/Intersil/documents/hi-5/hi-524.pdf', 'kicadSymbolki_keywords': 'Video Multiplexer analog switch', 'kicadSymbolki_description': '4-Channel Wideband and Video Multiplexer, DIP-18', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

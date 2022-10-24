@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0805-X-PF70-V50-C8P70-C1743|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF70-V50-C8P70-C1743|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XPF7V5C8P7C1743|
-|Name|name|CAPC-0805-X-PF70-V50-C8P70-C1743|
+|name|name|CAPC-0805-X-PF70-V50-C8P70-C1743|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0805-X-PF70-V50-C8P70-C1743', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0805-X-PF70-V50-C8P70-C1743', 'kicadSymbolDatasheet': 'oom.lt/C8P70', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C8P70;PARTL C-JLCC;C1743;MANUF C-XXXX;0805B471K500NT;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

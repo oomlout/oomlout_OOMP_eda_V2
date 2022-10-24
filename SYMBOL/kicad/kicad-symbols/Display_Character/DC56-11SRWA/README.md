@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DC56-11SRWA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-DC56-11SRWA|
 |Hex ID (short code)|hexID|SZKDICHARACTERDC5611SRWA|
-|Name|name|DC56-11SRWA|
+|name|name|DC56-11SRWA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DC56-11SURKWA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DC56-11SRWA', 'kicadSymbolFootprint': 'Display_7Segment:DA56-11SURKWA', 'kicadSymbolDatasheet': 'http://www.kingbrightusa.com/images/catalog/SPEC/DC56-11SRWA.pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'Double digit 7 segment super bright red LED common cathode', 'kicadSymbolki_fp_filters': '*DA56*11*'}]|
 ||||

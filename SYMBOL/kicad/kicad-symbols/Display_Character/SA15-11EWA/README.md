@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SA15-11EWA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-SA15-11EWA|
 |Hex ID (short code)|hexID|SZKDICHARACTERSA1511EWA|
-|Name|name|SA15-11EWA|
+|name|name|SA15-11EWA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SA15-11SRWA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SA15-11EWA', 'kicadSymbolFootprint': 'Display_7Segment:SA15-11xxx', 'kicadSymbolDatasheet': 'http://www.kingbrightusa.com/images/catalog/SPEC/SA15-11EWA.pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'High Efficiency Red Single-digit Numeric Display with white white diffused lens, common anode', 'kicadSymbolki_fp_filters': 'SA15?11*'}]|
 ||||

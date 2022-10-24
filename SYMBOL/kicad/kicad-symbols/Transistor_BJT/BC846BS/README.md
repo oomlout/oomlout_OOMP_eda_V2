@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BC846BS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC846BS|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBC846BS|
-|Name|name|BC846BS|
+|name|name|BC846BS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC846BS', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BC846BS.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'NPN/NPN Transistor', 'kicadSymbolki_description': '100mA IC, 65V Vce, Dual NPN/NPN Transistors, SOT-363', 'kicadSymbolki_fp_filters': 'SOT?363*'}]|
 ||||

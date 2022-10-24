@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|SIM28ML|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_GPS-SIM28ML|
 |Hex ID (short code)|hexID|SZKGPSSIM28ML|
-|Name|name|SIM28ML|
+|name|name|SIM28ML|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SIM28ML', 'kicadSymbolFootprint': 'RF_GPS:SIM28ML', 'kicadSymbolDatasheet': 'https://simcom.ee/documents/SIM28ML/SIM28ML_Hardware%20Design_V1.01.pdf', 'kicadSymbolki_keywords': 'GPS A-GPS receiver', 'kicadSymbolki_description': 'Standalone GPS/A-GPS receiver module, built-in LNA, -165dBm sensitivity, 2.8-4.3V, SMD', 'kicadSymbolki_fp_filters': 'SIM28ML*'}]|
 ||||

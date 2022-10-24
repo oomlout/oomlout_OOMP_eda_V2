@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MN3102|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-MN3102|
 |Hex ID (short code)|hexID|SZKTIMERMN312|
-|Name|name|MN3102|
+|name|name|MN3102|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MN3101', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MN3102', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.experimentalistsanonymous.com/diy/Datasheets/MN3102.pdf', 'kicadSymbolki_keywords': 'Matsushita Panasonic BBD CMOS', 'kicadSymbolki_description': 'Clock Generator Driver/Driver for MN3000 Series BBD (bucket brigade device), 4V to 10V, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

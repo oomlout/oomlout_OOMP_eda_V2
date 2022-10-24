@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74HC02|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74HC02|
 |Hex ID (short code)|hexID|SZK74XX74HC2|
-|Name|name|74HC02|
+|name|name|74HC02|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LS02', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74HC02', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74hc02', 'kicadSymbolki_keywords': 'HCMOS Nor2', 'kicadSymbolki_description': 'quad 2-input NOR gate', 'kicadSymbolki_fp_filters': 'SO14* DIP*W7.62mm*'}]|
 ||||

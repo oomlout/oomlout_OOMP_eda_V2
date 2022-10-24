@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-W04-X-O152-01-R4152|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O152-01-R4152|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESEW4XO1521R4152|
-|Name|name|RESE-W04-X-O152-01-R4152|
+|name|name|RESE-W04-X-O152-01-R4152|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-W04-X-O152-01-R4152', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-W04-X-O152-01-R4152', 'kicadSymbolDatasheet': 'oom.lt/R4152', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R4152;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

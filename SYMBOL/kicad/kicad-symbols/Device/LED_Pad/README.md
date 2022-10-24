@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_Pad|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_Pad|
 |Hex ID (short code)|hexID|SZKDEVICELPAD|
-|Name|name|LED_Pad|
+|name|name|LED_Pad|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_Pad', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED diode pad', 'kicadSymbolki_description': 'Light emitting diode with pad', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

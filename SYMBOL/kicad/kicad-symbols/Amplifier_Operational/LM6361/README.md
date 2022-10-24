@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM6361|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM6361|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALLM6361|
-|Name|name|LM6361|
+|name|name|LM6361|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM6361', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm6161.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Single High Speed Operational Amplifier, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'}]|
 ||||

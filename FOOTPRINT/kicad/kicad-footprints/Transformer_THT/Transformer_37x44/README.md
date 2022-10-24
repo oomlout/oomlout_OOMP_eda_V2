@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_37x44|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_37x44|
 |Hex ID (short code)|hexID|FZKTRTR37X44|
-|Name|name|Transformer_THT : Transformer_37x44|
+|name|name|Transformer_THT : Transformer_37x44|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_37x44', 'description': 'transformer 37x44mm²', 'tags': 'transformer 37x44mm²', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_37x44.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

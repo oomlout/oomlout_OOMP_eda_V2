@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TSOP-5_1.65x3.05mm_P0.95mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-5_1.65x3.05mm_P0.95mm|
 |Hex ID (short code)|hexID|FZKSOTS5165X35P95|
-|Name|name|Package_SO : TSOP-5_1.65x3.05mm_P0.95mm|
+|name|name|Package_SO : TSOP-5_1.65x3.05mm_P0.95mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TSOP-5_1.65x3.05mm_P0.95mm', 'description': 'TSOP-5 package (comparable to TSOT-23), https://www.vishay.com/docs/71200/71200.pdf', 'tags': 'Jedec MO-193C TSOP-5L', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSOP-5_1.65x3.05mm_P0.95mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-5_1.65x3.05mm_P0.95mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-5_1.65x3.05mm_P0.95mm/kicadPcb3d_450.png

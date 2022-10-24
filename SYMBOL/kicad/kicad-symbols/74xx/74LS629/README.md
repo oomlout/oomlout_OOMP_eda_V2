@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS629|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS629|
 |Hex ID (short code)|hexID|SZK74XX74LS629|
-|Name|name|74LS629|
+|name|name|74LS629|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS629', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS629', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'VCO', 'kicadSymbolki_description': 'dual voltage-controlled oscillator, enable control, range control', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

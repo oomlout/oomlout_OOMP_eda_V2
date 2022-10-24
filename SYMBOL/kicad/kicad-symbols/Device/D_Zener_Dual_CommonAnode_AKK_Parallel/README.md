@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Zener_Dual_CommonAnode_AKK_Parallel|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonAnode_AKK_Parallel|
 |Hex ID (short code)|hexID|SZKDEVICEDZENERDUALCOONANODEAKKPARALLEL|
-|Name|name|D_Zener_Dual_CommonAnode_AKK_Parallel|
+|name|name|D_Zener_Dual_CommonAnode_AKK_Parallel|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Zener_Dual_CommonAnode_AKK_Parallel', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Dual Zener diode, common anode on pin 1'}]|
 ||||

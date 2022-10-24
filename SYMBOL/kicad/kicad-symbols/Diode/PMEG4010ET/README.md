@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PMEG4010ET|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-PMEG4010ET|
 |Hex ID (short code)|hexID|SZKDIODEPMEG41ET|
-|Name|name|PMEG4010ET|
+|name|name|PMEG4010ET|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PMEG2010AET', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'PMEG4010ET', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/PMEG4010EH_EJ_ET.pdf', 'kicadSymbolki_keywords': 'forward voltage diode', 'kicadSymbolki_description': '40V, 1A very low Vf MEGA Schottky barrier rectifier, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

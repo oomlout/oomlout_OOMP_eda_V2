@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CS5361|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-CS5361|
 |Hex ID (short code)|hexID|SZKAUDIOCS5361|
-|Name|name|CS5361|
+|name|name|CS5361|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CS5361', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://d3uzseaevmutz1.cloudfront.net/pubs/proDatasheet/CS5361_F2.pdf', 'kicadSymbolki_keywords': 'audio adc 2ch 24bit 192kHz', 'kicadSymbolki_description': '114 dB, 192 kHz, Multi-Bit Audio A/D Converter, SOIC-24/TSSOP-24', 'kicadSymbolki_fp_filters': 'SOIC*7.5x15.4mm*P1.27mm* TSSOP*4.4x7.8mm*P0.65mm*'}]|
 ||||

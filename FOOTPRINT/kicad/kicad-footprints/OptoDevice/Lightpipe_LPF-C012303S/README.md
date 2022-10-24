@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Lightpipe_LPF-C012303S|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lightpipe_LPF-C012303S|
 |Hex ID (short code)|hexID|FZKOPLIGHTPIPELPFC1233S|
-|Name|name|OptoDevice : Lightpipe_LPF-C012303S|
+|name|name|OptoDevice : Lightpipe_LPF-C012303S|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Lightpipe_LPF-C012303S', 'description': 'https://www.lumex.com/spec/LPF-C012303S.pdf', 'tags': 'lightpipe dual tower right angle 3mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Lightpipe_LPF-C012303S.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Lightpipe_LPF-C012303S/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/Lightpipe_LPF-C012303S/kicadPcb3d_450.png

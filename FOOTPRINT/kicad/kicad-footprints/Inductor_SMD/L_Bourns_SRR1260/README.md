@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Bourns_SRR1260|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRR1260|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLBOURNSSRR126|
-|Name|name|Inductor_SMD : L_Bourns_SRR1260|
+|name|name|Inductor_SMD : L_Bourns_SRR1260|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Bourns_SRR1260', 'description': 'Bourns SRR1260 series SMD inductor http://www.bourns.com/docs/Product-Datasheets/SRR1260.pdf', 'tags': 'Bourns SRR1260 SMD inductor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns_SRR1260.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns_SRR1260/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns_SRR1260/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VO2630|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-VO2630|
 |Hex ID (short code)|hexID|SZKISOLATORVO263|
-|Name|name|VO2630|
+|name|name|VO2630|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HCPL-263A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'VO2630', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://www.vishay.com/doc?84732', 'kicadSymbolki_keywords': 'High speed optically coupled gates', 'kicadSymbolki_description': 'Dual High Speed CMOS Compatible Optocoupler, dV/dt 1000/us, VCM 10, max 7V VCC, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

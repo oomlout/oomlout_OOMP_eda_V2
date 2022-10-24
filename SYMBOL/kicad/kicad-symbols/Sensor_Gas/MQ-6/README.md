@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MQ-6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Gas-MQ-6|
 |Hex ID (short code)|hexID|SZKSENGASMQ6|
-|Name|name|MQ-6|
+|name|name|MQ-6|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MQ-6', 'kicadSymbolFootprint': 'Sensor:MQ-6', 'kicadSymbolDatasheet': 'https://www.winsen-sensor.com/d/files/semiconductor/mq-6.pdf', 'kicadSymbolki_keywords': 'flammable gas sensor LPG', 'kicadSymbolki_description': 'Semiconductor Sensor for Flammable Gas', 'kicadSymbolki_fp_filters': '*MQ*6*'}]|
 ||||

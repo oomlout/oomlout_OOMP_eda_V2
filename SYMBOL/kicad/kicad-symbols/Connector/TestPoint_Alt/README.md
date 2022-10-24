@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TestPoint_Alt|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-TestPoint_Alt|
 |Hex ID (short code)|hexID|SZKCNTPALT|
-|Name|name|TestPoint_Alt|
+|name|name|TestPoint_Alt|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TP', 'kicadSymbolValue': 'TestPoint_Alt', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'test point tp', 'kicadSymbolki_description': 'test point (alternative shape)', 'kicadSymbolki_fp_filters': 'Pin* Test*'}]|
 ||||

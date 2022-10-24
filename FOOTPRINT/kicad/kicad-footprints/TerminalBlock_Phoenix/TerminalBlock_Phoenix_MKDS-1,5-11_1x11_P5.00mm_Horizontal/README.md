@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TerminalBlock_Phoenix_MKDS-1,5-11_1x11_P5.00mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Phoenix-TerminalBlock_Phoenix_MKDS-1,5-11_1x11_P5.00mm_Horizontal|
 |Hex ID (short code)|hexID|FZKTBPHOENIXTBPHOENIXMKDS15111X11P5HORIZONTAL|
-|Name|name|TerminalBlock_Phoenix : TerminalBlock_Phoenix_MKDS-1,5-11_1x11_P5.00mm_Horizontal|
+|name|name|TerminalBlock_Phoenix : TerminalBlock_Phoenix_MKDS-1,5-11_1x11_P5.00mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TerminalBlock_Phoenix_MKDS-1,5-11_1x11_P5.00mm_Horizontal', 'description': 'Terminal Block Phoenix MKDS-1,5-11, 11 pins, pitch 5mm, size 55x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix', 'tags': 'THT Terminal Block Phoenix MKDS-1,5-11 pitch 5mm size 55x9.8mm^2 drill 1.3mm pad 2.6mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS-1,5-11_1x11_P5.00mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

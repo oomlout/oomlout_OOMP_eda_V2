@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Symbol_Barrel_Polarity|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_Barrel_Polarity|
 |Hex ID (short code)|hexID|FZKSZSYBARRELPOLARITY|
-|Name|name|Symbol : Symbol_Barrel_Polarity|
+|name|name|Symbol : Symbol_Barrel_Polarity|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Symbol_Barrel_Polarity', 'description': 'Barrel connector polarity indicator', 'tags': 'barrel polarity', 'attributeType': None, 'pins': {}}|
 ||||

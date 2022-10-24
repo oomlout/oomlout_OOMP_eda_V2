@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Toroid_Vertical_L35.6mm_W17.8mm_P12.70mm_Pulse_E|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L35.6mm_W17.8mm_P12.70mm_Pulse_E|
 |Hex ID (short code)|hexID|FZKINLTOROIDVERTICALL356W178P127PULSEE|
-|Name|name|Inductor_THT : L_Toroid_Vertical_L35.6mm_W17.8mm_P12.70mm_Pulse_E|
+|name|name|Inductor_THT : L_Toroid_Vertical_L35.6mm_W17.8mm_P12.70mm_Pulse_E|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Toroid_Vertical_L35.6mm_W17.8mm_P12.70mm_Pulse_E', 'description': 'L_Toroid, Vertical series, Radial, pin pitch=12.70mm, , length*width=35.56*17.78mm^2, Pulse, E, http://datasheet.octopart.com/PE-92112KNL-Pulse-datasheet-17853305.pdf', 'tags': 'L_Toroid Vertical series Radial pin pitch 12.70mm  length 35.56mm width 17.78mm Pulse E', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Vertical_L35.6mm_W17.8mm_P12.70mm_Pulse_E.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L35.6mm_W17.8mm_P12.70mm_Pulse_E/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L35.6mm_W17.8mm_P12.70mm_Pulse_E/kicadPcb3d_450.png

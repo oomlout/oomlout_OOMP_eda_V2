@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Neosid_SM-PIC1004H|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SM-PIC1004H|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLNEOSIDSMPIC14H|
-|Name|name|Inductor_SMD : L_Neosid_SM-PIC1004H|
+|name|name|Inductor_SMD : L_Neosid_SM-PIC1004H|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Neosid_SM-PIC1004H', 'description': 'Neosid, Inductor, SM-PIC1004H, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMPIC1004H.pdf', 'tags': 'Neosid Inductor SM-PIC1004H Fixed inductor SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Neosid_SM-PIC1004H.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_SM-PIC1004H/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_SM-PIC1004H/kicadPcb3d_450.png

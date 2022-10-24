@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Relay_SPST_SANYOU_SRD_Series_Form_B|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_SANYOU_SRD_Series_Form_B|
 |Hex ID (short code)|hexID|FZKRELRELAYSPSTSANYOUSRDSERIESFORMB|
-|Name|name|Relay_THT : Relay_SPST_SANYOU_SRD_Series_Form_B|
+|name|name|Relay_THT : Relay_SPST_SANYOU_SRD_Series_Form_B|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Relay_SPST_SANYOU_SRD_Series_Form_B', 'description': 'relay Sanyou SRD series Form B opener http://www.sanyourelay.ca/public/products/pdf/SRD.pdf', 'tags': 'relay Sanyu SRD form B opener', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPST_SANYOU_SRD_Series_Form_B.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_SANYOU_SRD_Series_Form_B/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_SANYOU_SRD_Series_Form_B/kicadPcb3d_450.png

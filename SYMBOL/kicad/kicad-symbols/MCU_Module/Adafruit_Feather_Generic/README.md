@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Adafruit_Feather_Generic|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_Generic|
 |Hex ID (short code)|hexID|SZKMCUMOADAFEATHERGENERIC|
-|Name|name|Adafruit_Feather_Generic|
+|name|name|Adafruit_Feather_Generic|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'A', 'kicadSymbolValue': 'Adafruit_Feather_Generic', 'kicadSymbolFootprint': 'Module:Adafruit_Feather', 'kicadSymbolDatasheet': 'https://cdn-learn.adafruit.com/downloads/pdf/adafruit-feather.pdf', 'kicadSymbolki_keywords': 'Adafruit feather microcontroller module', 'kicadSymbolki_description': 'Microcontroller module in various flavor, generic symbol', 'kicadSymbolki_fp_filters': 'Adafruit*Feather*'}]|
 ||||

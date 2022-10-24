@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Vdrive|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-Vdrive|
 |Hex ID (short code)|hexID|SZKPOWERVDRIVE|
-|Name|name|Vdrive|
+|name|name|Vdrive|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'Vdrive', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "Vdrive"'}]|
 ||||

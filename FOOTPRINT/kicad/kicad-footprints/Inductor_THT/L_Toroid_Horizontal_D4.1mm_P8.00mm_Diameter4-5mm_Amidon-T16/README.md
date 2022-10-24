@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Toroid_Horizontal_D4.1mm_P8.00mm_Diameter4-5mm_Amidon-T16|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D4.1mm_P8.00mm_Diameter4-5mm_Amidon-T16|
 |Hex ID (short code)|hexID|FZKINLTOROIDHORIZONTALD41P8DIAMETER45AMIDONT16|
-|Name|name|Inductor_THT : L_Toroid_Horizontal_D4.1mm_P8.00mm_Diameter4-5mm_Amidon-T16|
+|name|name|Inductor_THT : L_Toroid_Horizontal_D4.1mm_P8.00mm_Diameter4-5mm_Amidon-T16|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Toroid_Horizontal_D4.1mm_P8.00mm_Diameter4-5mm_Amidon-T16', 'description': 'L_Toroid, Horizontal series, Radial, pin pitch=8.00mm, , diameter=4.064mm, Diameter4-5mm, Amidon-T16', 'tags': 'L_Toroid Horizontal series Radial pin pitch 8.00mm  diameter 4.064mm Diameter4-5mm Amidon-T16', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D4.1mm_P8.00mm_Diameter4-5mm_Amidon-T16.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Horizontal_D4.1mm_P8.00mm_Diameter4-5mm_Amidon-T16/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Horizontal_D4.1mm_P8.00mm_Diameter4-5mm_Amidon-T16/kicadPcb3d_450.png

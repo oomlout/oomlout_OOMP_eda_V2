@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_NF_ETAL_P2781|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P2781|
 |Hex ID (short code)|hexID|FZKTRSMTRNFETALP2781|
-|Name|name|Transformer_SMD : Transformer_NF_ETAL_P2781|
+|name|name|Transformer_SMD : Transformer_NF_ETAL_P2781|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_NF_ETAL_P2781', 'description': 'NF-Transformer, ETAL, P2781, SMD,', 'tags': 'NF-Transformer ETAL P2781 SMD ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_NF_ETAL_P2781.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

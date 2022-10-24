@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O514-67-R42514A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O514-67-R42514A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO51467R42514A|
-|Name|name|RESE-0402-X-O514-67-R42514A|
+|name|name|RESE-0402-X-O514-67-R42514A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O514-67-R42514A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O514-67-R42514A', 'kicadSymbolDatasheet': 'oom.lt/R42514A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R42514A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

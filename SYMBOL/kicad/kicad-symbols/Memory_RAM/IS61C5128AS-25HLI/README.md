@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IS61C5128AS-25HLI|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_RAM-IS61C5128AS-25HLI|
 |Hex ID (short code)|hexID|SZKMEMORYRAMIS61C5128AS25HLI|
-|Name|name|IS61C5128AS-25HLI|
+|name|name|IS61C5128AS-25HLI|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IS61C5128AS-25HLI', 'kicadSymbolFootprint': 'Package_SO:TSOP-I-32_11.8x8mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.issi.com/WW/pdf/61-64C5128AL.pdf', 'kicadSymbolki_keywords': 'SRAM MEMORY', 'kicadSymbolki_description': '512K x 8 HIGH-SPEED CMOS STATIC RAM, 25ns, STSOP I-32', 'kicadSymbolki_fp_filters': 'TSOP*11.8x8mm*P0.5mm*'}]|
 ||||

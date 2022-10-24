@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles|
 |Hex ID (short code)|hexID|FZKPPOTENTIOMETERALPHARD91F4DSINGLEVERTICALCIRCULARH|
-|Name|name|Potentiometer_THT : Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles|
+|name|name|Potentiometer_THT : Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles', 'description': 'Potentiometer, vertical, 9mm, single, http://www.taiwanalpha.com.tw/downloads?target=products&id=113', 'tags': 'potentiometer vertical 9mm single', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Alpha_RD901F-40-00D_Single_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles/kicadPcb3d_450.png

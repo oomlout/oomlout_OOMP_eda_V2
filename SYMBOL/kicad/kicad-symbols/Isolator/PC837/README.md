@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PC837|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-PC837|
 |Hex ID (short code)|hexID|SZKISOLATORPC837|
-|Name|name|PC837|
+|name|name|PC837|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PC837', 'kicadSymbolFootprint': 'Package_DIP:DIP-12_W7.62mm', 'kicadSymbolDatasheet': 'http://www.soselectronic.cz/a_info/resource/d/pc817.pdf', 'kicadSymbolki_keywords': 'NPN DC Triple Optocoupler', 'kicadSymbolki_description': 'DC Triple Optocoupler, Vce 35V, CTR 50-300%, DIP12', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS71533__SC70|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS71533__SC70|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTPS71533SC7|
-|Name|name|TPS71533__SC70|
+|name|name|TPS71533__SC70|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS71518__SC70', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS71533__SC70', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-353_SC-70-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps715.pdf', 'kicadSymbolki_keywords': 'LDO regulator voltage', 'kicadSymbolki_description': 'Low-drop Voltage Regulator, Io up to 50mA, Fixed Vo 3.3V, Ignd 3.2uA , SC70.', 'kicadSymbolki_fp_filters': '*SC?70*'}]|
 ||||

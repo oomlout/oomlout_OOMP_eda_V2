@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|LEDS-0805-R-STAN-01-L85R|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0805-R-STAN-01-L85R|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS85RSTAN1L85R|
-|Name|name|oomlout_OOMP_parts : LEDS-0805-R-STAN-01-L85R|
+|name|name|oomlout_OOMP_parts : LEDS-0805-R-STAN-01-L85R|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LEDS-0805-R-STAN-01-L85R', 'description': 'hexID: L85R; LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator', 'tags': 'LED', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0805_2012Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||

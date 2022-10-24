@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DIN41612_02x32_AE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x32_AE|
 |Hex ID (short code)|hexID|SZKCNDIN416122X32AE|
-|Name|name|DIN41612_02x32_AE|
+|name|name|DIN41612_02x32_AE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DIN41612_02x32_AE', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'DIN41612 connector, double row (AE), 02x32, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'DIN41612*2x*'}]|
 ||||

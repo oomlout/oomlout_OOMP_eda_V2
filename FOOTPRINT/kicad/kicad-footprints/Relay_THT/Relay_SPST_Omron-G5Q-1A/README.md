@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Relay_SPST_Omron-G5Q-1A|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_Omron-G5Q-1A|
 |Hex ID (short code)|hexID|FZKRELRELAYSPSTOMRONG5Q1A|
-|Name|name|Relay_THT : Relay_SPST_Omron-G5Q-1A|
+|name|name|Relay_THT : Relay_SPST_Omron-G5Q-1A|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Relay_SPST_Omron-G5Q-1A', 'description': 'Relay SPST-NO Omron Serie G5Q, http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5q.pdf', 'tags': 'Relay SPST-NO Omron Serie G5Q', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPST_Omron-G5Q-1A.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Omron-G5Q-1A/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Omron-G5Q-1A/kicadPcb3d_450.png

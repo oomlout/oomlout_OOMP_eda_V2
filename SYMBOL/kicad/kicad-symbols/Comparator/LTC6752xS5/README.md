@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC6752xS5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Comparator-LTC6752xS5|
 |Hex ID (short code)|hexID|SZKCOMPARATORLTC6752XS5|
-|Name|name|LTC6752xS5|
+|name|name|LTC6752xS5|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC6752xS5', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-5', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/6752fc.pdf', 'kicadSymbolki_keywords': 'single comparator high speed cmos', 'kicadSymbolki_description': 'Single 280Mhz 2.9ns Comparator, Rail-to-Rail Inputs, CMOS Output, TSOT-23-5', 'kicadSymbolki_fp_filters': 'TSOT?23?5*'}]|
 ||||

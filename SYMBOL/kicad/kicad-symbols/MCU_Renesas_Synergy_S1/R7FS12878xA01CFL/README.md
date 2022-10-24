@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|R7FS12878xA01CFL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Renesas_Synergy_S1-R7FS12878xA01CFL|
 |Hex ID (short code)|hexID|SZKMCURENESASSYNERGYS1R7FS12878XA1CFL|
-|Name|name|R7FS12878xA01CFL|
+|name|name|R7FS12878xA01CFL|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'R7FS12878xA01CFL', 'kicadSymbolFootprint': 'Package_QFP:LQFP-48_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.renesas.com/us/en/doc/products/renesas-synergy/doc/r01ds0309eu0100-synergy-s128.pdf', 'kicadSymbolki_keywords': '32-bit ARM Cortex-M0+ MCU Microcontroller', 'kicadSymbolki_description': 'ARM Cortex-M0+ MCU, 32MHz, 256KB Flash, 24KB RAM, 1.65-3.6V, 37 GPIO, LQFP-48', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.5mm*'}]|
 ||||

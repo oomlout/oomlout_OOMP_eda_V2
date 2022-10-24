@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Everlight_ITR8307|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Everlight_ITR8307|
 |Hex ID (short code)|hexID|FZKOPEVERLIGHTITR837|
-|Name|name|OptoDevice : Everlight_ITR8307|
+|name|name|OptoDevice : Everlight_ITR8307|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Everlight_ITR8307', 'description': 'package for Everlight ITR8307 with PCB cutout, light-direction upwards, see http://www.everlight.com/file/ProductFile/ITR8307.pdf', 'tags': 'refective opto couple photo coupler', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Everlight_ITR8307.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Everlight_ITR8307/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/Everlight_ITR8307/kicadPcb3d_450.png

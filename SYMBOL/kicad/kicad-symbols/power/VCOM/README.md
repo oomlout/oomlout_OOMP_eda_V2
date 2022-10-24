@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VCOM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-VCOM|
 |Hex ID (short code)|hexID|SZKPOWERVCOM|
-|Name|name|VCOM|
+|name|name|VCOM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'VCOM', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "VCOM"'}]|
 ||||

@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O204-01-R8O204|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O204-01-R8O204|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO241R8O24|
-|Name|name|RESE-0805-X-O204-01-R8O204|
+|name|name|RESE-0805-X-O204-01-R8O204|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O204-01-R8O204', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O204-01-R8O204', 'kicadSymbolDatasheet': 'oom.lt/R8O204', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R8O204;PARTL C-JLCC;C17539;MANUF C-XXXX;0805W8F2003T5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

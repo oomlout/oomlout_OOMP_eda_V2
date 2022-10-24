@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FFB3904|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-FFB3904|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTFFB394|
-|Name|name|FFB3904|
+|name|name|FFB3904|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BC846BS', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FFB3904', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MMPQ3904-D.pdf', 'kicadSymbolki_keywords': 'NPN/NPN Transistor', 'kicadSymbolki_description': '200mA IC, 40V Vce, Dual NPN/NPN Transistors, SOT-363', 'kicadSymbolki_fp_filters': 'SOT?363*'}]|
 ||||

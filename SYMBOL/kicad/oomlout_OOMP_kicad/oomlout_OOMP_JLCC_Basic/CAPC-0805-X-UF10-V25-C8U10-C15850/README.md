@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0805-X-UF10-V25-C8U10-C15850|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-UF10-V25-C8U10-C15850|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XUF1V25C8U1C1585|
-|Name|name|CAPC-0805-X-UF10-V25-C8U10-C15850|
+|name|name|CAPC-0805-X-UF10-V25-C8U10-C15850|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0805-X-UF10-V25-C8U10-C15850', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0805-X-UF10-V25-C8U10-C15850', 'kicadSymbolDatasheet': 'oom.lt/C8U10', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C8U10;PARTL C-JLCC;C15850;MANUF C-XXXX;CL21A106KAYNNNE;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

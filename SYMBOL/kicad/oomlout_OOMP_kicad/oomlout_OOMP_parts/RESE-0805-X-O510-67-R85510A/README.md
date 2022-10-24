@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O510-67-R85510A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O510-67-R85510A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO5167R8551A|
-|Name|name|RESE-0805-X-O510-67-R85510A|
+|name|name|RESE-0805-X-O510-67-R85510A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O510-67-R85510A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O510-67-R85510A', 'kicadSymbolDatasheet': 'oom.lt/R85510A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R85510A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

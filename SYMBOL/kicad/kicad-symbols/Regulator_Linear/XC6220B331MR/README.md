@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC6220B331MR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-XC6220B331MR|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARXC622B331MR|
-|Name|name|XC6220B331MR|
+|name|name|XC6220B331MR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC6220B331MR', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.torexsemi.com/file/xc6220/XC6220.pdf', 'kicadSymbolki_keywords': 'LDO Voltage Regulator 1A', 'kicadSymbolki_description': '1A, Low Drop-out Voltage Regulator, Fixed Output 3.3V, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

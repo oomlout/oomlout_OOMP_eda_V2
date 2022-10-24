@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CA3080A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-CA3080A|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALCA38A|
-|Name|name|CA3080A|
+|name|name|CA3080A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CA3080', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CA3080A', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.intersil.com/content/dam/Intersil/documents/ca30/ca3080-a.pdf', 'kicadSymbolki_keywords': 'operational transconductance amplifier ota', 'kicadSymbolki_description': '2MHz, Operational Transconductance Amplifier (OTA), gM spread 1.6:1, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

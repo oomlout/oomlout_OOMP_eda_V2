@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX14778|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX14778|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHMAX14778|
-|Name|name|MAX14778|
+|name|name|MAX14778|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX14778', 'kicadSymbolFootprint': 'Package_DFN_QFN:TQFN-20-1EP_5x5mm_P0.65mm_EP3.1x3.1mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX14778.pdf', 'kicadSymbolki_keywords': 'Analog Differential Multiplexer', 'kicadSymbolki_description': 'Dual +-25V Above- and Below-the-Rails 4:1 Analog Multiplexer, TQFN-20', 'kicadSymbolki_fp_filters': 'TQFN*1EP*5x5mm*P0.65mm*'}]|
 ||||

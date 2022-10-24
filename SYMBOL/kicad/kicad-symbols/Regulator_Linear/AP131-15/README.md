@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AP131-15|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP131-15|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARAP13115|
-|Name|name|AP131-15|
+|name|name|AP131-15|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AP131-15', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.diodes.com/_files/datasheets/AP131.pdf', 'kicadSymbolki_keywords': 'linear regulator ldo fixed positive', 'kicadSymbolki_description': '300mA low dropout linear regulator, shutdown pin, 1.5V fixed positive output, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOT-223|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-223|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT223|
-|Name|name|Package_TO_SOT_SMD : SOT-223|
+|name|name|Package_TO_SOT_SMD : SOT-223|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOT-223', 'description': 'module CMS SOT223 4 pins', 'tags': 'CMS SOT', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-223.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-223/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-223/kicadPcb3d_450.png

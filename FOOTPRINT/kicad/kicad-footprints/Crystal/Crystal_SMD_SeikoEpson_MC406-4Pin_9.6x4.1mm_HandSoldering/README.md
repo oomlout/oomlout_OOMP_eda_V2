@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Crystal_SMD_SeikoEpson_MC406-4Pin_9.6x4.1mm_HandSoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_SeikoEpson_MC406-4Pin_9.6x4.1mm_HandSoldering|
 |Hex ID (short code)|hexID|FZKXXSMSEIKOEPSONMC464PIN96X41HANDSOLDERING|
-|Name|name|Crystal : Crystal_SMD_SeikoEpson_MC406-4Pin_9.6x4.1mm_HandSoldering|
+|name|name|Crystal : Crystal_SMD_SeikoEpson_MC406-4Pin_9.6x4.1mm_HandSoldering|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_SeikoEpson_MC406-4Pin_9.6x4.1mm_HandSoldering', 'description': 'SMD Crystal Seiko Epson MC-406 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-306_en.pdf, hand-soldering, 9.6x4.1mm^2 package', 'tags': 'SMD SMT crystal hand-soldering', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_SeikoEpson_MC406-4Pin_9.6x4.1mm_HandSoldering.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MC406-4Pin_9.6x4.1mm_HandSoldering/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MC406-4Pin_9.6x4.1mm_HandSoldering/kicadPcb3d_450.png

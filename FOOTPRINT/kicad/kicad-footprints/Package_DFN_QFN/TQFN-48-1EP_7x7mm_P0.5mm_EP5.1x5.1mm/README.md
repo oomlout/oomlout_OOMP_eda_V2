@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TQFN-48-1EP_7x7mm_P0.5mm_EP5.1x5.1mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-TQFN-48-1EP_7x7mm_P0.5mm_EP5.1x5.1mm|
 |Hex ID (short code)|hexID|FZKDFNTQFN481EP7X7P5EP51X51|
-|Name|name|Package_DFN_QFN : TQFN-48-1EP_7x7mm_P0.5mm_EP5.1x5.1mm|
+|name|name|Package_DFN_QFN : TQFN-48-1EP_7x7mm_P0.5mm_EP5.1x5.1mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TQFN-48-1EP_7x7mm_P0.5mm_EP5.1x5.1mm', 'description': 'TQFN, 48 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0144.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'TQFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/TQFN-48-1EP_7x7mm_P0.5mm_EP5.1x5.1mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/TQFN-48-1EP_7x7mm_P0.5mm_EP5.1x5.1mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/TQFN-48-1EP_7x7mm_P0.5mm_EP5.1x5.1mm/kicadPcb3d_450.png

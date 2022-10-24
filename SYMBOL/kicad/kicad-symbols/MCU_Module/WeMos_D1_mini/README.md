@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|WeMos_D1_mini|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Module-WeMos_D1_mini|
 |Hex ID (short code)|hexID|SZKMCUMOWEMOSD1M|
-|Name|name|WeMos_D1_mini|
+|name|name|WeMos_D1_mini|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'WeMos_D1_mini', 'kicadSymbolFootprint': 'Module:WEMOS_D1_mini_light', 'kicadSymbolDatasheet': 'https://wiki.wemos.cc/products:d1:d1_mini#documentation', 'kicadSymbolki_keywords': 'ESP8266 WiFi microcontroller ESP8266EX', 'kicadSymbolki_description': '32-bit microcontroller module with WiFi', 'kicadSymbolki_fp_filters': 'WEMOS*D1*mini*'}]|
 ||||

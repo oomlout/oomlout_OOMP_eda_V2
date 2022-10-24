@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT3472|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3472|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLT3472|
-|Name|name|LT3472|
+|name|name|LT3472|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT3472', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/3472f.pdf', 'kicadSymbolki_keywords': 'DC/DC converter CCD Bias Boost', 'kicadSymbolki_description': 'Boost and Inverting DC/DC Converter for CCD Bias, DFN-10', 'kicadSymbolki_fp_filters': 'DFN*1EP*3x3mm*P0.5mm*'}]|
 ||||

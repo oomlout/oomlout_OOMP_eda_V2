@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-JSTSH-X-PI19-SM-HSH19|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI19-SM-HSH19|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI19SMHSH19|
-|Name|name|HEAD-JSTSH-X-PI19-SM-HSH19|
+|name|name|HEAD-JSTSH-X-PI19-SM-HSH19|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HEAD-JSTSH-X-PI19-SM-HSH19', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:HEAD-JSTSH-X-PI19-SM-HSH19', 'kicadSymbolDatasheet': 'oom.lt/HSH19', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'hexID: HSH19;Generic connector, single row, 01x19, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_1x??_*'}]|
 ||||

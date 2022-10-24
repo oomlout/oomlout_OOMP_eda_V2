@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TCM810|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Supervisor-TCM810|
 |Hex ID (short code)|hexID|SZKPOWERSUPERVISORTCM81|
-|Name|name|TCM810|
+|name|name|TCM810|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TCM810', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/21661E.pdf', 'kicadSymbolki_keywords': 'supervisor reset push-pull', 'kicadSymbolki_description': 'Microcontroller reset monitor, active high output', 'kicadSymbolki_fp_filters': 'SOT?23* *SC?70*'}]|
 ||||

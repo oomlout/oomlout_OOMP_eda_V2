@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16LF15375-xMV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16LF15375-xMV|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16LF15375XMV|
-|Name|name|PIC16LF15375-xMV|
+|name|name|PIC16LF15375-xMV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC16F15375-xMV', 'kicadSymbolReference': 'U?', 'kicadSymbolValue': 'PIC16LF15375-xMV', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-40-1EP_5x5mm_P0.4mm_EP3.8x3.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/PIC16LF15356-75-76-85-86-Data%20Sheet-40001866B.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller Low Power', 'kicadSymbolki_description': '8KW FLASH, 1024B SRAM, QFN-40(5x5mm)', 'kicadSymbolki_fp_filters': 'QFN*5x5mm*EP3.8x3.8mm*'}]|
 ||||

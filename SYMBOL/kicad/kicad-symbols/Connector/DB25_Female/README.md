@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DB25_Female|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DB25_Female|
 |Hex ID (short code)|hexID|SZKCNDB25FEMALE|
-|Name|name|DB25_Female|
+|name|name|DB25_Female|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DB25_Female', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'female D-SUB connector', 'kicadSymbolki_description': '25-pin female D-SUB connector', 'kicadSymbolki_fp_filters': 'DSUB*Female*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TJA1042TK-3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1042TK-3|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINTJA142TK3|
-|Name|name|TJA1042TK-3|
+|name|name|TJA1042TK-3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TJA1049TK-3', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TJA1042TK-3', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.65mm_EP1.55x2.4mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/documents/data_sheet/TJA1042.pdf', 'kicadSymbolki_keywords': 'High-Speed CAN Transceiver HVSON-8', 'kicadSymbolki_description': 'High-Speed CAN Transceiver, separate VIO, standby mode, DFN-8-1EP', 'kicadSymbolki_fp_filters': 'DFN*1EP*3x3mm*P0.65mm* HVSON*'}]|
 ||||

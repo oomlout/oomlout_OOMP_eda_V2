@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LF398_DIP8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog-LF398_DIP8|
 |Hex ID (short code)|hexID|SZKANALOGLF398DIP8|
-|Name|name|LF398_DIP8|
+|name|name|LF398_DIP8|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LF398_DIP8', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lf398-n.pdf', 'kicadSymbolki_keywords': 'sample hold buffer unity gain', 'kicadSymbolki_description': 'Sample And Hold Unity Gain Follower, DIP-8', 'kicadSymbolki_fp_filters': '*SOIC*3.9x4.9mm*P1.27mm* *DIP*W7.62mm*'}]|
 ||||

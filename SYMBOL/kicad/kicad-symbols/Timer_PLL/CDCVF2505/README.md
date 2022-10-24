@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CDCVF2505|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer_PLL-CDCVF2505|
 |Hex ID (short code)|hexID|SZKTIMERPLLCDCVF255|
-|Name|name|CDCVF2505|
+|name|name|CDCVF2505|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CDCVF2505', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/cdcvf2505.pdf', 'kicadSymbolki_keywords': 'pll clock driver', 'kicadSymbolki_description': 'Clock Phase-Lock Loop Clock Driver, 24-200MHz, 3.3V, SOIC-8/TSSOP-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* TSSOP*4.4x3mm*P0.65mm*'}]|
 ||||

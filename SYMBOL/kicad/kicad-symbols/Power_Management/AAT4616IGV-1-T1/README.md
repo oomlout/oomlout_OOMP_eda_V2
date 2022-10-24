@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AAT4616IGV-1-T1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-AAT4616IGV-1-T1|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTAAT4616IGV1T1|
-|Name|name|AAT4616IGV-1-T1|
+|name|name|AAT4616IGV-1-T1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AAT4616IGV-1-T1', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.skyworksinc.com/uploads/documents/AAT4616_201940E.pdf', 'kicadSymbolki_keywords': 'Limit USB Active High', 'kicadSymbolki_description': 'Adjustable Current Limited Load Switch, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

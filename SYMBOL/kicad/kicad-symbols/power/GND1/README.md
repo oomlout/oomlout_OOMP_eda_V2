@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|GND1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-GND1|
 |Hex ID (short code)|hexID|SZKPOWERGND1|
-|Name|name|GND1|
+|name|name|GND1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'GND1', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "GND1" , ground'}]|
 ||||

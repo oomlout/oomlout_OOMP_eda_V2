@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RC1602A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-RC1602A|
 |Hex ID (short code)|hexID|SZKDICHARACTERRC162A|
-|Name|name|RC1602A|
+|name|name|RC1602A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'RC1602A', 'kicadSymbolFootprint': 'Display:RC1602A', 'kicadSymbolDatasheet': 'http://www.raystar-optronics.com/down.php?ProID=18', 'kicadSymbolki_keywords': 'display LCD dot-matrix', 'kicadSymbolki_description': 'LCD 16x2 Alphanumeric gray backlight, 3 or 5V VDD', 'kicadSymbolki_fp_filters': '*RC1602A*'}]|
 ||||

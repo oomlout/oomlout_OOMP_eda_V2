@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TJA1145T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1145T|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINTJA1145T|
-|Name|name|TJA1145T|
+|name|name|TJA1145T|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TJA1145T', 'kicadSymbolFootprint': 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/TJA1145.pdf', 'kicadSymbolki_keywords': 'CAN FD High Speed CAN Transceiver Sleep VIO Partial Networking SPI', 'kicadSymbolki_description': 'High-speed CAN transceiver for partial networking, SOIC-14', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm*'}]|
 ||||

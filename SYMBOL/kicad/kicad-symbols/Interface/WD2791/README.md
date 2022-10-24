@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|WD2791|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-WD2791|
 |Hex ID (short code)|hexID|SZKINTERFACEWD2791|
-|Name|name|WD2791|
+|name|name|WD2791|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'WD2791', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://pdf.datasheetcatalog.com/datasheets2/12/1229802_1.pdf', 'kicadSymbolki_keywords': 'Floppy disk controller', 'kicadSymbolki_description': 'Floppy disk controller, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

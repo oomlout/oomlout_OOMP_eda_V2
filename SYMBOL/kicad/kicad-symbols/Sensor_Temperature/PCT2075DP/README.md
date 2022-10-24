@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PCT2075DP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-PCT2075DP|
 |Hex ID (short code)|hexID|SZKSENTEMPERATUREPCT275DP|
-|Name|name|PCT2075DP|
+|name|name|PCT2075DP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PCT2075DP', 'kicadSymbolFootprint': 'Package_SO:TSSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/PCT2075.pdf', 'kicadSymbolki_keywords': 'temperature sensor I2C single channel', 'kicadSymbolki_description': 'NXP I2C-bus Fm+ digital temperature sensor and thermal watchdog, TSSOP-8', 'kicadSymbolki_fp_filters': 'TSSOP*3x3mm*P0.65mm*'}]|
 ||||

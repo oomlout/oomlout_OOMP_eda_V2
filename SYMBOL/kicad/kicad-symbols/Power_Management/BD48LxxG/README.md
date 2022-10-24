@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BD48LxxG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-BD48LxxG|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTBD48LXXG|
-|Name|name|BD48LxxG|
+|name|name|BD48LxxG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BD48LxxG', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.rohm.de/datasheet/BD4830FVE/bd48xxg-e', 'kicadSymbolki_keywords': 'voltage detector open drain SSOP3', 'kicadSymbolki_description': 'Standard CMOS Voltage Detector IC, Open Drain Output, SSOP3(3pin GND)', 'kicadSymbolki_fp_filters': '*SOT-23*'}]|
 ||||

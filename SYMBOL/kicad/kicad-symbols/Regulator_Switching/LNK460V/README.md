@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LNK460V|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK460V|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK46V|
-|Name|name|LNK460V|
+|name|name|LNK460V|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LNK457V', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LNK460V', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_eDIP-12B', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/linkswitch-pl_family_datasheet.pdf', 'kicadSymbolki_keywords': 'LED Driver IC with TRIAC Dimming, Single-Stage PFC and Constant Current Control for Non-Isolated Applications', 'kicadSymbolki_description': 'LinkSwitch-PL Family, 8W Output Power, eDIP-12B', 'kicadSymbolki_fp_filters': 'PowerIntegrations?eDIP?12B*'}]|
 ||||

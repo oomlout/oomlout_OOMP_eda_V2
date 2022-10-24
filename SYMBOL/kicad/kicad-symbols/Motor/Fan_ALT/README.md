@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Fan_ALT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Motor-Fan_ALT|
 |Hex ID (short code)|hexID|SZKMOTORFANALT|
-|Name|name|Fan_ALT|
+|name|name|Fan_ALT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'M', 'kicadSymbolValue': 'Fan_ALT', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'Fan Motor', 'kicadSymbolki_description': 'Fan without PWM or tach, alternative symbol', 'kicadSymbolki_fp_filters': 'PinHeader*P2.54mm* TerminalBlock*'}]|
 ||||

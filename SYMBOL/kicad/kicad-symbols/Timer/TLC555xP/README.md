@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLC555xP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-TLC555xP|
 |Hex ID (short code)|hexID|SZKTIMERTLC555XP|
-|Name|name|TLC555xP|
+|name|name|TLC555xP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NE555P', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLC555xP', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tlc555.pdf', 'kicadSymbolki_keywords': 'single timer 555', 'kicadSymbolki_description': 'Single LinCMOS Timer, 555 compatible, PDIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

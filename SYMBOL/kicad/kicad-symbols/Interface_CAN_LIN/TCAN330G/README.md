@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TCAN330G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TCAN330G|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINTCAN33G|
-|Name|name|TCAN330G|
+|name|name|TCAN330G|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TCAN330', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TCAN330G', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tcan337.pdf', 'kicadSymbolki_keywords': 'High-Speed CAN Transceiver', 'kicadSymbolki_description': 'High-Speed CAN Transceiver with CAN FD, 5Mbps, 3.3V supply, silent mode, shutdown mode, SOT-23-8/SOIC-8', 'kicadSymbolki_fp_filters': '*TSOT?23* *SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

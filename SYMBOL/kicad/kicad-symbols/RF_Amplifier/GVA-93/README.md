@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|GVA-93|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Amplifier-GVA-93|
 |Hex ID (short code)|hexID|SZKRFAMPLIFIERGVA93|
-|Name|name|GVA-93|
+|name|name|GVA-93|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SPF5189Z', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'GVA-93', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-89-3', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/GVA-93+.pdf', 'kicadSymbolki_keywords': 'RF amplifier', 'kicadSymbolki_description': '10-9000MHz +16.9dB Gain Block, SOT-89', 'kicadSymbolki_fp_filters': 'SOT?89*'}]|
 ||||

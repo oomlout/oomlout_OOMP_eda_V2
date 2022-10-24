@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADG417BR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG417BR|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHADG417BR|
-|Name|name|ADG417BR|
+|name|name|ADG417BR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DG418xY', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADG417BR', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADG417.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Single SPST Monolithic LC²MOS Analog Switch, normally OFF, 25Ohm Ron, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

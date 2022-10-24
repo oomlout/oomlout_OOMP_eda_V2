@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRLB8721PBF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLB8721PBF|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRLB8721PBF|
-|Name|name|IRLB8721PBF|
+|name|name|IRLB8721PBF|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BUZ11', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRLB8721PBF', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'http://www.infineon.com/dgdl/irlb8721pbf.pdf?fileId=5546d462533600a40153566056732591', 'kicadSymbolki_keywords': 'N-Channel HEXFET MOSFET Logic-Level', 'kicadSymbolki_description': '62A Id, 30V Vds, 8.7 mOhm Rds, N-Channel HEXFET Power MOSFET, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AT24CS32-XHM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS32-XHM|
 |Hex ID (short code)|hexID|SZKMEMORYEEPROMAT24CS32XHM|
-|Name|name|AT24CS32-XHM|
+|name|name|AT24CS32-XHM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AT24CS32-XHM', 'kicadSymbolFootprint': 'Package_SO:TSSOP-8_4.4x3mm_P0.65mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8869-SEEPROM-AT24CS32-Datasheet.pdf', 'kicadSymbolki_keywords': 'I2C Serial EEPROM Nonvolatile Memory', 'kicadSymbolki_description': 'I2C Serial EEPROM, 32Kb (4096x8) with Unique Serial Number, TSSOP8', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x3mm*P0.65mm*'}]|
 ||||

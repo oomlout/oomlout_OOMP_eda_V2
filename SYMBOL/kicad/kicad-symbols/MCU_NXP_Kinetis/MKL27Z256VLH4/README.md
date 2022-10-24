@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MKL27Z256VLH4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL27Z256VLH4|
 |Hex ID (short code)|hexID|SZKMCUNXPKINETISMKL27Z256VLH4|
-|Name|name|MKL27Z256VLH4|
+|name|name|MKL27Z256VLH4|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MKL27Z256VLH4', 'kicadSymbolFootprint': 'Package_QFP:LQFP-64_10x10mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/docs/en/data-sheet/KL27P64M48SF6.pdf', 'kicadSymbolki_keywords': 'Kinetis KL27 ARM Cortex M0+', 'kicadSymbolki_description': 'Kinetis KL27 series, 48-MHz/32-bit ARM Cortex-M0+, 256 kB flash, 32 kB SRAM, USB FS Device (xtal-less)/OTG, LQFP-64', 'kicadSymbolki_fp_filters': 'LQFP*10x10mm*P0.5mm*'}]|
 ||||

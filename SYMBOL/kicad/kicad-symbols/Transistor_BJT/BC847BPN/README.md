@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BC847BPN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC847BPN|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBC847BPN|
-|Name|name|BC847BPN|
+|name|name|BC847BPN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BC846BPN', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC847BPN', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BC847BPN.pdf', 'kicadSymbolki_keywords': 'NPN/PNP Transistor', 'kicadSymbolki_description': '100mA IC, 45V Vce, Dual NPN/PNP Transistors, SOT-363', 'kicadSymbolki_fp_filters': 'SOT?363*'}]|
 ||||

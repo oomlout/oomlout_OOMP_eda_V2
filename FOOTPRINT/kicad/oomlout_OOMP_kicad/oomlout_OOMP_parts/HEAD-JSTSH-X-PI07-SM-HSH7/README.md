@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-JSTSH-X-PI07-SM-HSH7|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI07-SM-HSH7|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI7SMHSH7|
-|Name|name|oomlout_OOMP_parts : HEAD-JSTSH-X-PI07-SM-HSH7|
+|name|name|oomlout_OOMP_parts : HEAD-JSTSH-X-PI07-SM-HSH7|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HEAD-JSTSH-X-PI07-SM-HSH7', 'description': 'hexID: HSH7; JST SH series connector, BM07B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST SH side entry', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_SH_BM07B-SRSS-TB_1x07-1MP_P1.00mm_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||

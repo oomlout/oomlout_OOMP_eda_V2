@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|A20_OLINUXINO_LIME2|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Module-A20_OLINUXINO_LIME2|
 |Hex ID (short code)|hexID|FZKMOA2OLINUXINOLIME2|
-|Name|name|Module : A20_OLINUXINO_LIME2|
+|name|name|Module : A20_OLINUXINO_LIME2|
 |Footprint Kicad|footprintKicadDetails|{'name': 'A20_OLINUXINO_LIME2', 'description': 'A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet', 'tags': 'A20 Olimex Olinuxino LIME2 development board', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Module.3dshapes/A20_OLINUXINO_LIME2.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/A20_OLINUXINO_LIME2/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Module/A20_OLINUXINO_LIME2/kicadPcb3d_450.png

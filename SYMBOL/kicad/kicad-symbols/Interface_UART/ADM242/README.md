@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADM242|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-ADM242|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTADM242|
-|Name|name|ADM242|
+|name|name|ADM242|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADM242', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADM222_232A_242.pdf', 'kicadSymbolki_keywords': 'rs232 uart transceiver', 'kicadSymbolki_description': 'Dual RS232 driver/receiver, 5V supply, 200kb/s, separate shutdown/enable pins', 'kicadSymbolki_fp_filters': 'SO* DIP*W7.62mm*'}]|
 ||||

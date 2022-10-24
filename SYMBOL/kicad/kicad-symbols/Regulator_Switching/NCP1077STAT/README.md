@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCP1077STAT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCP1077STAT|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGNCP177STAT|
-|Name|name|NCP1077STAT|
+|name|name|NCP1077STAT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NCP1070STAT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCP1077STAT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/NCP1070-D.PDF', 'kicadSymbolki_keywords': 'SMPS Converter', 'kicadSymbolki_description': 'High-Voltage Switcher for Low Power Offline SMPS, 700V Vds, 25W/15W, 230V/85-265V, 65kHz, 4.7Ohm Rds(on), 800mA Ipk, SOT-223', 'kicadSymbolki_fp_filters': 'SOT?223*'}]|
 ||||

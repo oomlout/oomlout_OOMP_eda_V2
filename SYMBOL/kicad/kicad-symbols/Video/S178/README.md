@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|S178|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Video-S178|
 |Hex ID (short code)|hexID|SZKVIDEOS178|
-|Name|name|S178|
+|name|name|S178|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'S178', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

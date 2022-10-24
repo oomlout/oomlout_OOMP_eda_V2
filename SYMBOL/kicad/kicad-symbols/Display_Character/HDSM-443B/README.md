@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HDSM-443B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-HDSM-443B|
 |Hex ID (short code)|hexID|SZKDICHARACTERHDSM443B|
-|Name|name|HDSM-443B|
+|name|name|HDSM-443B|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HDSM-443B', 'kicadSymbolFootprint': 'Display:HDSM-441B_HDSM-443B', 'kicadSymbolDatasheet': 'https://docs.broadcom.com/docs/AV02-1589EN', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'Double 7 segment Blue LED common cathode SMD mount', 'kicadSymbolki_fp_filters': '*HDSM*441B*'}]|
 ||||

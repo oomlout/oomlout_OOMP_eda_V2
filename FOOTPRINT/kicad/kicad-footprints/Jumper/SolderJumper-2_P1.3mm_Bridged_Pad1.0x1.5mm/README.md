@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Jumper-SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm|
 |Hex ID (short code)|hexID|FZKJSOLDERJ2P13BRIDGEDPAD1X15|
-|Name|name|Jumper : SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm|
+|name|name|Jumper : SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm', 'description': 'SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 1 copper strip', 'tags': 'net tie solder jumper bridged', 'attributeType': None, 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm/kicadPcb3d_450.png

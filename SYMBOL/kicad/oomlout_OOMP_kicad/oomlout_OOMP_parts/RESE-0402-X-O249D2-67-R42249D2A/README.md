@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O249D2-67-R42249D2A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O249D2-67-R42249D2A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO249D267R42249D2A|
-|Name|name|RESE-0402-X-O249D2-67-R42249D2A|
+|name|name|RESE-0402-X-O249D2-67-R42249D2A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O249D2-67-R42249D2A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O249D2-67-R42249D2A', 'kicadSymbolDatasheet': 'oom.lt/R42249D2A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R42249D2A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

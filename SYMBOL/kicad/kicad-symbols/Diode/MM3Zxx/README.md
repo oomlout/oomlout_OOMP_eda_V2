@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MM3Zxx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-MM3Zxx|
 |Hex ID (short code)|hexID|SZKDIODE3ZXX|
-|Name|name|MM3Zxx|
+|name|name|MM3Zxx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZPYxx', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'MM3Zxx', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-323F', 'kicadSymbolDatasheet': 'https://diotec.com/tl_files/diotec/files/pdf/datasheets/mm3z2v4.pdf', 'kicadSymbolki_keywords': 'zener diode', 'kicadSymbolki_description': '300mW Zener Diode, SOD-323F', 'kicadSymbolki_fp_filters': 'D?SOD?323F*'}]|
 ||||

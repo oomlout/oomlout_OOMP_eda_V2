@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DFN-10_2x2mm_P0.4mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-10_2x2mm_P0.4mm|
 |Hex ID (short code)|hexID|FZKDFNDFN12X2P4|
-|Name|name|Package_DFN_QFN : DFN-10_2x2mm_P0.4mm|
+|name|name|Package_DFN_QFN : DFN-10_2x2mm_P0.4mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DFN-10_2x2mm_P0.4mm', 'description': '10-Lead Plastic DFN (2mm x 2mm)  0.40mm pitch', 'tags': 'DFN 10 0.4mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-10_2x2mm_P0.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/DFN-10_2x2mm_P0.4mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/DFN-10_2x2mm_P0.4mm/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|40163|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40163|
 |Hex ID (short code)|hexID|SZK4XXXIEEE4163|
-|Name|name|40163|
+|name|name|40163|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '4163', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '40163', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

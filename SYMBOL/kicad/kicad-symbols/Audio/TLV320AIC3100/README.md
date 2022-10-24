@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLV320AIC3100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-TLV320AIC3100|
 |Hex ID (short code)|hexID|SZKAUDIOTLV32AIC31|
-|Name|name|TLV320AIC3100|
+|name|name|TLV320AIC3100|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV320AIC3100', 'kicadSymbolFootprint': 'Package_DFN_QFN:VQFN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tlv320aic3100.pdf', 'kicadSymbolki_keywords': 'audio codec 2ch 192kHz class-d amplifier', 'kicadSymbolki_description': 'Low Power Audio Codec with Audio Processing and Mono Class‑D Amplifier, VQFN-32', 'kicadSymbolki_fp_filters': 'VQFN*1EP*5x5mm*P0.5mm*'}]|
 ||||

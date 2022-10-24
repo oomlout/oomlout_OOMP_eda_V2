@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Unitunnel|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Unitunnel|
 |Hex ID (short code)|hexID|SZKDEVICEDUNITUNNEL|
-|Name|name|D_Unitunnel|
+|name|name|D_Unitunnel|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Unitunnel', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'unitunnel diode', 'kicadSymbolki_description': 'Unitunnel diode', 'kicadSymbolki_fp_filters': 'TO-???* *_Diode_* *SingleDiode* D_*'}]|
 ||||

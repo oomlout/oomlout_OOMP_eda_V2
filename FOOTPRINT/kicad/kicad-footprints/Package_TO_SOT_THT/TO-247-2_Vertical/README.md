@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-247-2_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-247-2_Vertical|
 |Hex ID (short code)|hexID|FZKSOTTO2472VERTICAL|
-|Name|name|Package_TO_SOT_THT : TO-247-2_Vertical|
+|name|name|Package_TO_SOT_THT : TO-247-2_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-247-2_Vertical', 'description': 'TO-247-2, Vertical, RM 10.9mm, see https://toshiba.semicon-storage.com/us/product/mosfet/to-247-4l.html', 'tags': 'TO-247-2 Vertical RM 10.9mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-247-2_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-247-2_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-247-2_Vertical/kicadPcb3d_450.png

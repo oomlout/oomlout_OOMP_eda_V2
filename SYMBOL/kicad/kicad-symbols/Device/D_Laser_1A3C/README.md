@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Laser_1A3C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Laser_1A3C|
 |Hex ID (short code)|hexID|SZKDEVICEDLASER1A3C|
-|Name|name|D_Laser_1A3C|
+|name|name|D_Laser_1A3C|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'LD', 'kicadSymbolValue': 'D_Laser_1A3C', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'opto laserdiode', 'kicadSymbolki_description': 'Laser diode, cathode on pin 3, anode on pin 1', 'kicadSymbolki_fp_filters': '*LaserDiode*'}]|
 ||||

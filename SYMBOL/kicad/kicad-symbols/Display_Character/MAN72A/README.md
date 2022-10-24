@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAN72A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-MAN72A|
 |Hex ID (short code)|hexID|SZKDICHARACTERMAN72A|
-|Name|name|MAN72A|
+|name|name|MAN72A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAN72A', 'kicadSymbolFootprint': 'Display_7Segment:MAN72A', 'kicadSymbolDatasheet': 'https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'Single digit 7 segment red LED common anode left hand decimal', 'kicadSymbolki_fp_filters': 'MAN72A*'}]|
 ||||

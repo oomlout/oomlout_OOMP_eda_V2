@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD8422BRMZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8422BRMZ|
 |Hex ID (short code)|hexID|SZKAMPLIFIERINSTRUMENTATIONAD8422BRMZ|
-|Name|name|AD8422BRMZ|
+|name|name|AD8422BRMZ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AD8422ARMZ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD8422BRMZ', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD8422.pdf', 'kicadSymbolki_keywords': 'ad8422 instumentation amplifier msop-8', 'kicadSymbolki_description': 'Low Power, Rail to Rail, Instumentation Amplifier, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP-8*'}]|
 ||||

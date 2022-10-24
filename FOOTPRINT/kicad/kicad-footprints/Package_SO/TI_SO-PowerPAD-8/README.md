@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TI_SO-PowerPAD-8|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-TI_SO-PowerPAD-8|
 |Hex ID (short code)|hexID|FZKSOTISOPOWERPAD8|
-|Name|name|Package_SO : TI_SO-PowerPAD-8|
+|name|name|Package_SO : TI_SO-PowerPAD-8|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TI_SO-PowerPAD-8', 'description': '8-Lead Plastic PSOP, Exposed Die Pad (TI DDA0008B, see http://www.ti.com/lit/ds/symlink/lm3404.pdf)', 'tags': 'SSOP 0.50 exposed pad', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TI_SO-PowerPAD-8.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/TI_SO-PowerPAD-8/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/TI_SO-PowerPAD-8/kicadPcb3d_450.png

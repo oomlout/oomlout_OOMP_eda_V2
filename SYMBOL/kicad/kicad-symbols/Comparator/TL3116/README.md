@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TL3116|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Comparator-TL3116|
 |Hex ID (short code)|hexID|SZKCOMPARATORTL3116|
-|Name|name|TL3116|
+|name|name|TL3116|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TL3116', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tl3116.pdf', 'kicadSymbolki_keywords': 'cmp push-pull complementary', 'kicadSymbolki_description': 'Single Ultra-Fast Low-Power Precision Comparators, SOIC-8/TSSOP-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* TSSOP*4.4x3mm*P0.65mm*'}]|
 ||||

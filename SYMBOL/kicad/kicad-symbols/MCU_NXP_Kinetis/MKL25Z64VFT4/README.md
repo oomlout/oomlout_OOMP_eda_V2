@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MKL25Z64VFT4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL25Z64VFT4|
 |Hex ID (short code)|hexID|SZKMCUNXPKINETISMKL25Z64VFT4|
-|Name|name|MKL25Z64VFT4|
+|name|name|MKL25Z64VFT4|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MKL25Z128VFT4', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MKL25Z64VFT4', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/docs/en/data-sheet/KL25P80M48SF0.pdf', 'kicadSymbolki_keywords': 'Kinetis KL25 ARM Cortex M0+', 'kicadSymbolki_description': 'Kinetis KL25 series, 48-MHz/32-bit ARM Cortex-M0+, 64 kB flash, 8 kB SRAM, USB FS Device/OTG, QFN-48', 'kicadSymbolki_fp_filters': 'QFN*7x7mm*P0.5mm*'}]|
 ||||

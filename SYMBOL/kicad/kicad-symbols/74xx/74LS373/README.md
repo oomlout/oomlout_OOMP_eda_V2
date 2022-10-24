@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS373|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS373|
 |Hex ID (short code)|hexID|SZK74XX74LS373|
-|Name|name|74LS373|
+|name|name|74LS373|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS373', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS373', 'kicadSymbolki_keywords': 'TTL REG DFF DFF8 LATCH', 'kicadSymbolki_description': '8-bit Latch, 3-state outputs', 'kicadSymbolki_fp_filters': 'DIP?20* SOIC?20* SO?20* SSOP?20* TSSOP?20*'}]|
 ||||

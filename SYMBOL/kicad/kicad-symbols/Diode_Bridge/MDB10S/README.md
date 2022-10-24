@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MDB10S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Bridge-MDB10S|
 |Hex ID (short code)|hexID|SZKDIODEBRIDGEMDB1S|
-|Name|name|MDB10S|
+|name|name|MDB10S|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MDB6S', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'MDB10S', 'kicadSymbolFootprint': 'Package_SO:TSSOP-4_4.4x5mm_P4mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MDB8S-D.PDF', 'kicadSymbolki_keywords': 'bridge diode rectifier ac dc acdc ac-dc', 'kicadSymbolki_description': 'Single-Phase Bridge Rectifier, 700V Vrms, 1A If, TSSOP-4', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x5mm*P4mm*'}]|
 ||||

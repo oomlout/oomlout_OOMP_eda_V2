@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RJ25|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-RJ25|
 |Hex ID (short code)|hexID|SZKCNRJ25|
-|Name|name|RJ25|
+|name|name|RJ25|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '6P6C', 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'RJ25', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': '6P6C RJ female connector', 'kicadSymbolki_description': 'RJ connector, 6P6C (6 positions 6 connected)', 'kicadSymbolki_fp_filters': '6P6C* RJ12* RJ18* RJ25*'}]|
 ||||

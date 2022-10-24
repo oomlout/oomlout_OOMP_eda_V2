@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PhoenixContact_MCV_1,5_16-GF-3.81_1x16_P3.81mm_Vertical_ThreadedFlange|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC-PhoenixContact_MCV_1,5_16-GF-3.81_1x16_P3.81mm_Vertical_ThreadedFlange|
 |Hex ID (short code)|hexID|FZKCNPHOENIXMCPHOENIXCONTACTMCV1516GF3811X16P381VERTICALTHREADEDFLANGE|
-|Name|name|Connector_Phoenix_MC : PhoenixContact_MCV_1,5_16-GF-3.81_1x16_P3.81mm_Vertical_ThreadedFlange|
+|name|name|Connector_Phoenix_MC : PhoenixContact_MCV_1,5_16-GF-3.81_1x16_P3.81mm_Vertical_ThreadedFlange|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PhoenixContact_MCV_1,5_16-GF-3.81_1x16_P3.81mm_Vertical_ThreadedFlange', 'description': 'Generic Phoenix Contact connector footprint for: MCV_1,5/16-GF-3.81; number of pins: 16; pin pitch: 3.81mm; Vertical; threaded flange \|\| order number: 1830732 8A 160V', 'tags': 'phoenix_contact connector MCV_01x16_GF_3.81mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MC.3dshapes/PhoenixContact_MCV_1,5_16-GF-3.81_1x16_P3.81mm_Vertical_ThreadedFlange.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_16-GF-3.81_1x16_P3.81mm_Vertical_ThreadedFlange/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_16-GF-3.81_1x16_P3.81mm_Vertical_ThreadedFlange/kicadPcb3d_450.png

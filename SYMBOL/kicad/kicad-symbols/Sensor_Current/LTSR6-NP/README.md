@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTSR6-NP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-LTSR6-NP|
 |Hex ID (short code)|hexID|SZKSENCURRENTLTSR6NP|
-|Name|name|LTSR6-NP|
+|name|name|LTSR6-NP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTSR6-NP', 'kicadSymbolFootprint': 'Sensor_Current:LEM_LTSR-NP', 'kicadSymbolDatasheet': 'https://www.lem.com/sites/default/files/products_datasheets/ltsr_6-np.pdf', 'kicadSymbolki_keywords': 'current transducer', 'kicadSymbolki_description': 'Current Transducer, Unipolar, 6A, 5V supply, DC, AC, pulsed', 'kicadSymbolki_fp_filters': 'LEM*LTSR*NP*'}]|
 ||||

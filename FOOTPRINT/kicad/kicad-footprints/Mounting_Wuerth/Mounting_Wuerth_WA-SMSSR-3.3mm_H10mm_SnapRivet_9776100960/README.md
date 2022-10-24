@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Mounting_Wuerth_WA-SMSSR-3.3mm_H10mm_SnapRivet_9776100960|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSSR-3.3mm_H10mm_SnapRivet_9776100960|
 |Hex ID (short code)|hexID|FZKMONMONWASMSSR33H1SNAPRIVET9776196|
-|Name|name|Mounting_Wuerth : Mounting_Wuerth_WA-SMSSR-3.3mm_H10mm_SnapRivet_9776100960|
+|name|name|Mounting_Wuerth : Mounting_Wuerth_WA-SMSSR-3.3mm_H10mm_SnapRivet_9776100960|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Mounting_Wuerth_WA-SMSSR-3.3mm_H10mm_SnapRivet_9776100960', 'description': 'Mounting Hardware, inside through hole 3.3mm, height 10, Wuerth electronics 9776100960 (https://katalog.we-online.com/em/datasheet/9776100960R.pdf), generated with kicad-footprint-generator', 'tags': 'Mounting 3.3mm 9776100960', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSSR-3.3mm_H10mm_SnapRivet_9776100960.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSSR-3.3mm_H10mm_SnapRivet_9776100960/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSSR-3.3mm_H10mm_SnapRivet_9776100960/kicadPcb3d_450.png

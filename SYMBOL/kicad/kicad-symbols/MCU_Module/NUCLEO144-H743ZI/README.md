@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NUCLEO144-H743ZI|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-H743ZI|
 |Hex ID (short code)|hexID|SZKMCUMONUCLEO144H743ZI|
-|Name|name|NUCLEO144-H743ZI|
+|name|name|NUCLEO144-H743ZI|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NUCLEO144-F429ZI', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NUCLEO144-H743ZI', 'kicadSymbolFootprint': 'Module:ST_Morpho_Connector_144_STLink', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/user_manual/dm00244518-stm32-nucleo144-boards-stmicroelectronics.pdf', 'kicadSymbolki_keywords': 'STM32 Nucleo ST', 'kicadSymbolki_description': 'Nucleo 144 Development Board with STM32H743ZIT6 MCU, 1024kB RAM, 2Mb FLASH', 'kicadSymbolki_fp_filters': 'ST*Morpho*Connector*144*STLink*'}]|
 ||||

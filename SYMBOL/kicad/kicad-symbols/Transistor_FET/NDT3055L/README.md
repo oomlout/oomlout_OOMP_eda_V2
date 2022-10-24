@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NDT3055L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-NDT3055L|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETNDT355L|
-|Name|name|NDT3055L|
+|name|name|NDT3055L|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSP89', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'NDT3055L', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223-3_TabPin2', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pdf/datasheet/ndt3055l-d.pdf', 'kicadSymbolki_keywords': 'n channel fet', 'kicadSymbolki_description': '4A Id, 60V Vds, N-Channel Logic Level Enhancement Mode MOSFET, SOT-223', 'kicadSymbolki_fp_filters': 'SOT?223*'}]|
 ||||

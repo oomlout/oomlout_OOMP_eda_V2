@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|UCC2895DW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC2895DW|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERUCC2895DW|
-|Name|name|UCC2895DW|
+|name|name|UCC2895DW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'UCC3895DW', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'UCC2895DW', 'kicadSymbolFootprint': 'Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ucc3895.pdf', 'kicadSymbolki_keywords': 'Phase-shift full-bridge converter', 'kicadSymbolki_description': 'BiCMOS, Advanced Phase-ShiftPWM Controller, SOIC-20', 'kicadSymbolki_fp_filters': 'SOIC*7.5x12.8mm*P1.27mm*'}]|
 ||||

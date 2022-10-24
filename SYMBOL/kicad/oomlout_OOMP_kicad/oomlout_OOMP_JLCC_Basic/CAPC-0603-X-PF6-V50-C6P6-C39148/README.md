@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0603-X-PF6-V50-C6P6-C39148|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-PF6-V50-C6P6-C39148|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XPF6V5C6P6C39148|
-|Name|name|CAPC-0603-X-PF6-V50-C6P6-C39148|
+|name|name|CAPC-0603-X-PF6-V50-C6P6-C39148|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0603-X-PF6-V50-C6P6-C39148', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0603-X-PF6-V50-C6P6-C39148', 'kicadSymbolDatasheet': 'oom.lt/C6P6', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C6P6;PARTL C-JLCC;C39148;MANUF C-XXXX;CL10C560JB8NNNC;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F469VITx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F469VITx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F4STM32F469VITX|
-|Name|name|STM32F469VITx|
+|name|name|STM32F469VITx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F469VITx', 'kicadSymbolFootprint': 'Package_QFP:LQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00219980.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32F4 STM32F469/479', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 2048KB flash, 320KB RAM, 180MHz, 1.7-3.6V, 71 GPIO, LQFP-100', 'kicadSymbolki_fp_filters': 'LQFP*14x14mm*P0.5mm*'}]|
 ||||

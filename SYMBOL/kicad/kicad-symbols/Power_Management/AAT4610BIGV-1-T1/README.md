@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AAT4610BIGV-1-T1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-AAT4610BIGV-1-T1|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTAAT461BIGV1T1|
-|Name|name|AAT4610BIGV-1-T1|
+|name|name|AAT4610BIGV-1-T1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AAT4610BIGV-1-T1', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.skyworksinc.com/uploads/documents/201937A.pdf', 'kicadSymbolki_keywords': 'Limit USB Active High', 'kicadSymbolki_description': 'Current Limited Load Switch, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

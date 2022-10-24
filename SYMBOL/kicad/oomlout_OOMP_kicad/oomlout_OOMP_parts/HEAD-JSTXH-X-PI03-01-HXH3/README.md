@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-JSTXH-X-PI03-01-HXH3|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI03-01-HXH3|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTXHXPI31HXH3|
-|Name|name|HEAD-JSTXH-X-PI03-01-HXH3|
+|name|name|HEAD-JSTXH-X-PI03-01-HXH3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HEAD-JSTXH-X-PI03-01-HXH3', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:HEAD-JSTXH-X-PI03-01-HXH3', 'kicadSymbolDatasheet': 'oom.lt/HXH3', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'hexID: HXH3;Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_1x??_*'}]|
 ||||

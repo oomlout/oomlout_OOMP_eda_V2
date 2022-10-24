@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TSSOP-28-1EP_4.4x9.7mm_P0.65mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-28-1EP_4.4x9.7mm_P0.65mm|
 |Hex ID (short code)|hexID|FZKSOTSS281EP44X97P65|
-|Name|name|Package_SO : TSSOP-28-1EP_4.4x9.7mm_P0.65mm|
+|name|name|Package_SO : TSSOP-28-1EP_4.4x9.7mm_P0.65mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TSSOP-28-1EP_4.4x9.7mm_P0.65mm', 'description': 'TSSOP28: plastic thin shrink small outline package; 28 leads; body width 4.4 mm; Exposed Pad Variation; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot361-1_po.pdf)', 'tags': 'SSOP 0.65', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-28_4.4x9.7mm_Pitch0.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-28-1EP_4.4x9.7mm_P0.65mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-28-1EP_4.4x9.7mm_P0.65mm/kicadPcb3d_450.png

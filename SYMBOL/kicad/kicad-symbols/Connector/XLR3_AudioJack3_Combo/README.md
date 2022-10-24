@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XLR3_AudioJack3_Combo|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-XLR3_AudioJack3_Combo|
 |Hex ID (short code)|hexID|SZKCNXLR3AUDIOJ3COMBO|
-|Name|name|XLR3_AudioJack3_Combo|
+|name|name|XLR3_AudioJack3_Combo|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'XLR3_AudioJack3_Combo', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'xlr connector', 'kicadSymbolki_description': 'XLR (Male or Female) and Audio Jack (Stereo / TRS) Combo Connector, Discrete Ground Pin', 'kicadSymbolki_fp_filters': 'Jack*XLR*6.35mm*'}]|
 ||||

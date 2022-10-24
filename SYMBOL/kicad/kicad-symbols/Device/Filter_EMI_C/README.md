@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Filter_EMI_C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Filter_EMI_C|
 |Hex ID (short code)|hexID|SZKDEVICEFILEMIC|
-|Name|name|Filter_EMI_C|
+|name|name|Filter_EMI_C|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'C_Feedthrough', 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'Filter_EMI_C', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb', 'kicadSymbolki_keywords': 'EMI filter feedthrough capacitor', 'kicadSymbolki_description': 'EMI filter, single capacitor'}]|
 ||||

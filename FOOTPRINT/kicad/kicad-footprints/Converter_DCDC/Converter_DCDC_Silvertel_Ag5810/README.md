@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Converter_DCDC_Silvertel_Ag5810|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Silvertel_Ag5810|
 |Hex ID (short code)|hexID|FZKCONCONSILVERTELAG581|
-|Name|name|Converter_DCDC : Converter_DCDC_Silvertel_Ag5810|
+|name|name|Converter_DCDC : Converter_DCDC_Silvertel_Ag5810|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_Silvertel_Ag5810', 'description': 'DCDC-Converter, 60W POE, Silvertel, pitch 2.54mm, package size 69.98x30x15.64mm, https://silvertel.com/images/datasheets/Ag5810-datasheet-IEEE802_3bt-Power-over-Ethernet-4-pair-PD.pdf', 'tags': 'DCDC-Converter Silvertel Ag5810 single output POE', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Silvertel_Ag5810.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Silvertel_Ag5810/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Silvertel_Ag5810/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DB15_Male|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DB15_Male|
 |Hex ID (short code)|hexID|SZKCNDB15MALE|
-|Name|name|DB15_Male|
+|name|name|DB15_Male|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DB15_Male', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'male D-SUB connector', 'kicadSymbolki_description': '15-pin male D-SUB connector (low-density/2 columns)', 'kicadSymbolki_fp_filters': 'DSUB*Male*'}]|
 ||||

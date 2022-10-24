@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC6957xMS-4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-LTC6957xMS-4|
 |Hex ID (short code)|hexID|SZKINTERFACELTC6957XMS4|
-|Name|name|LTC6957xMS-4|
+|name|name|LTC6957xMS-4|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LTC6957xMS-3', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC6957xMS-4', 'kicadSymbolFootprint': 'Package_SO:MSOP-12_3x4mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/6957fb.pdf', 'kicadSymbolki_keywords': 'LTC clock converter', 'kicadSymbolki_description': 'Low Phase Noise, Dual Output Buffer/Driver/Logic Converter, CMOS Complementary Outputs, MSOP-12', 'kicadSymbolki_fp_filters': 'MSOP*3x4mm*P0.65mm*'}]|
 ||||

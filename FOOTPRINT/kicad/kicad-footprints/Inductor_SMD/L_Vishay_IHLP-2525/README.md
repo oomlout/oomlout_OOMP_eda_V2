@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Vishay_IHLP-2525|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHLP-2525|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLVISHAYIHLP2525|
-|Name|name|Inductor_SMD : L_Vishay_IHLP-2525|
+|name|name|Inductor_SMD : L_Vishay_IHLP-2525|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Vishay_IHLP-2525', 'description': 'Inductor, Vishay, IHLP series, 6.3mmx6.3mm', 'tags': 'inductor vishay ihlp smd', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Vishay_IHLP-2525.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Vishay_IHLP-2525/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Vishay_IHLP-2525/kicadPcb3d_450.png

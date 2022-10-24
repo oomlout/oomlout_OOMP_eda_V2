@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AS3340|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-AS3340|
 |Hex ID (short code)|hexID|SZKAUDIOAS334|
-|Name|name|AS3340|
+|name|name|AS3340|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AS3340', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.alfarzpp.lv/eng/sc/AS3340.pdf', 'kicadSymbolki_keywords': 'VCO CEM340 ALFA', 'kicadSymbolki_description': 'Voltage Controlled Oscillator (VCO), DIP-16/SOIC-16', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x9.9mm*P1.27mm*'}]|
 ||||

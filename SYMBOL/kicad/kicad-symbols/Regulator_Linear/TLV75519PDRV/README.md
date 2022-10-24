@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLV75519PDRV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV75519PDRV|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTLV75519PDRV|
-|Name|name|TLV75519PDRV|
+|name|name|TLV75519PDRV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TLV75509PDRV', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV75519PDRV', 'kicadSymbolFootprint': 'Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tlv755p.pdf', 'kicadSymbolki_keywords': 'LDO Regulator Fixed Positive', 'kicadSymbolki_description': '500mA Low Dropout Voltage Regulator, Fixed Output 1.9V, WSON6', 'kicadSymbolki_fp_filters': 'WSON*1EP*2x2mm*P0.65mm*'}]|
 ||||

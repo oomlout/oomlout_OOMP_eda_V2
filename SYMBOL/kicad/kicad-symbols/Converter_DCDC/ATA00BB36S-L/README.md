@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATA00BB36S-L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-ATA00BB36S-L|
 |Hex ID (short code)|hexID|SZKCONATABB36SL|
-|Name|name|ATA00BB36S-L|
+|name|name|ATA00BB36S-L|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATA00AA18S-L', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATA00BB36S-L', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_Artesyn_ATA_SMD', 'kicadSymbolDatasheet': 'https://www.artesyn.com/power/assets/ata_series_ds_01apr2015_79c25814fd.pdf', 'kicadSymbolki_keywords': 'DC/DC converter dual', 'kicadSymbolki_description': 'Artesyn 3W Isolated DC/DC Converter Module, ±12V Output Voltage, 18-75V Input Voltage', 'kicadSymbolki_fp_filters': '*Artesyn*ATA*SMD*'}]|
 ||||

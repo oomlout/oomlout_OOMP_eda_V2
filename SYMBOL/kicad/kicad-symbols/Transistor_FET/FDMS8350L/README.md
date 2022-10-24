@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FDMS8350L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS8350L|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETFDMS835L|
-|Name|name|FDMS8350L|
+|name|name|FDMS8350L|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CSD17578Q5A', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FDMS8350L', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TDSON-8-1', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FDMS8350L-D.pdf', 'kicadSymbolki_keywords': 'powertrench MOSFET fairchild', 'kicadSymbolki_description': '47A Id, 40V Vds, N-Channel PowerTrench MOSFET, 0.85mOhm Ron, 242nC Qgmax, -55 to 150 °C, 5x6mm SON8', 'kicadSymbolki_fp_filters': 'TDSON*'}]|
 ||||

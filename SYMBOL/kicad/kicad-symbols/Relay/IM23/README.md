@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IM23|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-IM23|
 |Hex ID (short code)|hexID|SZKRELAYIM23|
-|Name|name|IM23|
+|name|name|IM23|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IM21', 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'IM23', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=108-98001&DocType=SS&DocLang=EN', 'kicadSymbolki_keywords': 'relay monastable sensitive', 'kicadSymbolki_description': 'IM Relay, high sensitive version, monostable, switching current 2/5A, power 60W/62.5VA, voltage 220VDC/250VAC', 'kicadSymbolki_fp_filters': 'Relay*DPDT*AXICOM*IMSeries*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TSM2301ACX|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-TSM2301ACX|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETTSM231ACX|
-|Name|name|TSM2301ACX|
+|name|name|TSM2301ACX|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TP0610T', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'TSM2301ACX', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.taiwansemi.com/products/datasheet/TSM2301A_C15.pdf', 'kicadSymbolki_keywords': 'P-Channel MOSFET', 'kicadSymbolki_description': '-2.8A Id, -20V Vds, P-Channel MOSFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

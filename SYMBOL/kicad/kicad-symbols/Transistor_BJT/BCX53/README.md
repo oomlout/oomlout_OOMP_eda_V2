@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BCX53|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCX53|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBCX53|
-|Name|name|BCX53|
+|name|name|BCX53|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BCX51', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BCX53', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-89-3', 'kicadSymbolDatasheet': 'http://www.infineon.com/dgdl/bcx51_bcx52_bcx53.pdf', 'kicadSymbolki_keywords': 'PNP Transistor', 'kicadSymbolki_description': '1A Ic, 80V Vce, PNP Medium Power Transistor, SOT-89', 'kicadSymbolki_fp_filters': 'SOT?89*'}]|
 ||||

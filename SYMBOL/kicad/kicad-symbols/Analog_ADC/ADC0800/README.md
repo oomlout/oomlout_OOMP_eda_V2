@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADC0800|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC0800|
 |Hex ID (short code)|hexID|SZKANALOGADCADC8|
-|Name|name|ADC0800|
+|name|name|ADC0800|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADC0800', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/snas562/snas562.pdf', 'kicadSymbolki_keywords': 'CAD', 'kicadSymbolki_description': 'Analog to Digital 8 bits converter, DIP-18 (Hermetic)'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CXD3400N|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Video-CXD3400N|
 |Hex ID (short code)|hexID|SZKVIDEOCXD34N|
-|Name|name|CXD3400N|
+|name|name|CXD3400N|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CXD3400N', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'videocxd3400n.pdf', 'kicadSymbolki_keywords': 'CCD Clock Driver', 'kicadSymbolki_description': '6-channel Vertical Clock Driver for CCD Image Sensor, SSOP-20', 'kicadSymbolki_fp_filters': 'SSOP*'}]|
 ||||

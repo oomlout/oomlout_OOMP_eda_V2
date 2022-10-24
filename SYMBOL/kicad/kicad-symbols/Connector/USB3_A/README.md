@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|USB3_A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-USB3_A|
 |Hex ID (short code)|hexID|SZKCNU3A|
-|Name|name|USB3_A|
+|name|name|USB3_A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'USB3_A', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'usb universal serial bus', 'kicadSymbolki_description': 'USB 3.0 A connector'}]|
 ||||

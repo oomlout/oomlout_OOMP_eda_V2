@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-TQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm|
 |Hex ID (short code)|hexID|FZKDFNTQFN321EP5X5P5EP31X31|
-|Name|name|Package_DFN_QFN : TQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm|
+|name|name|Package_DFN_QFN : TQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm', 'description': 'TQFN, 32 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0140.PDF (T3255-3)), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'TQFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/TQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/TQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/TQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm/kicadPcb3d_450.png

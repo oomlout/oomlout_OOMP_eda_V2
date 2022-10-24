@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LVC1G3157|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-74LVC1G3157|
 |Hex ID (short code)|hexID|SZK74XGXX74LVC1G3157|
-|Name|name|74LVC1G3157|
+|name|name|74LVC1G3157|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LVC1G3157', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf', 'kicadSymbolki_keywords': 'SPDT Analog Switch CMOS', 'kicadSymbolki_description': 'SPDT Analog Switch, Low-Voltage CMOS', 'kicadSymbolki_fp_filters': 'SOT* SC*'}]|
 ||||

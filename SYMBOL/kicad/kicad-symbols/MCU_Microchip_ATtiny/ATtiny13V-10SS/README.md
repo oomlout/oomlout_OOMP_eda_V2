@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATtiny13V-10SS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny13V-10SS|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATTINYATTINY13V1SS|
-|Name|name|ATtiny13V-10SS|
+|name|name|ATtiny13V-10SS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATtiny13V-10SS', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc2535.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller tinyAVR', 'kicadSymbolki_description': '10MHz, 1kB Flash, 64B SRAM, 64B EEPROM, debugWIRE, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

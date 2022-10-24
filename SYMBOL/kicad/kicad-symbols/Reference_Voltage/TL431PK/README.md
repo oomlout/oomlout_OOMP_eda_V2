@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TL431PK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-TL431PK|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGETL431PK|
-|Name|name|TL431PK|
+|name|name|TL431PK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TL431PK', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-89-3', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tl431.pdf', 'kicadSymbolki_keywords': 'diode device shunt regulator', 'kicadSymbolki_description': 'Shunt Regulator, SOT-89', 'kicadSymbolki_fp_filters': 'SOT*89*'}]|
 ||||

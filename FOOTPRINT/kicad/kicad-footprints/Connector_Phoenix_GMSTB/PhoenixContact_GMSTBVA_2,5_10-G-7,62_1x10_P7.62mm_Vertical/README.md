@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PhoenixContact_GMSTBVA_2,5_10-G-7,62_1x10_P7.62mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_GMSTB-PhoenixContact_GMSTBVA_2,5_10-G-7,62_1x10_P7.62mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNPHOENIXGMSTBPHOENIXCONTACTGMSTBVA251G7621X1P762VERTICAL|
-|Name|name|Connector_Phoenix_GMSTB : PhoenixContact_GMSTBVA_2,5_10-G-7,62_1x10_P7.62mm_Vertical|
+|name|name|Connector_Phoenix_GMSTB : PhoenixContact_GMSTBVA_2,5_10-G-7,62_1x10_P7.62mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PhoenixContact_GMSTBVA_2,5_10-G-7,62_1x10_P7.62mm_Vertical', 'description': 'Generic Phoenix Contact connector footprint for: GMSTBVA_2,5/10-G-7,62; number of pins: 10; pin pitch: 7.62mm; Vertical \|\| order number: 1766851 12A 630V', 'tags': 'phoenix_contact connector GMSTBVA_01x10_G_7.62mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Phoenix_GMSTB.3dshapes/PhoenixContact_GMSTBVA_2,5_10-G-7,62_1x10_P7.62mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBVA_2,5_10-G-7,62_1x10_P7.62mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBVA_2,5_10-G-7,62_1x10_P7.62mm_Vertical/kicadPcb3d_450.png

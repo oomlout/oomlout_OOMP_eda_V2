@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TMP20AIDRL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP20AIDRL|
 |Hex ID (short code)|hexID|SZKSENTEMPERATURETMP2AIDRL|
-|Name|name|TMP20AIDRL|
+|name|name|TMP20AIDRL|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TMP20AIDRL', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tmp20.pdf', 'kicadSymbolki_keywords': 'temperature sensor thermistor', 'kicadSymbolki_description': 'Analog thermistor temperature sensor, ±2.5C accuracy, -55C to +130C, SOT-563-6', 'kicadSymbolki_fp_filters': 'SOT?563*'}]|
 ||||

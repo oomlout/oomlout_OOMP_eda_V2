@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MountingHole_3.2mm_M3_Pad_Via|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3.2mm_M3_Pad_Via|
 |Hex ID (short code)|hexID|FZKHOLHOL32M3PADVIA|
-|Name|name|MountingHole : MountingHole_3.2mm_M3_Pad_Via|
+|name|name|MountingHole : MountingHole_3.2mm_M3_Pad_Via|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_3.2mm_M3_Pad_Via', 'description': 'Mounting Hole 3.2mm, M3', 'tags': 'mounting hole 3.2mm m3', 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_3.2mm_M3_Pad_Via/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_3.2mm_M3_Pad_Via/kicadPcb3d_450.png

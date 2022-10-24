@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|LEDS-05-O-TINT-01-LT5O|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-O-TINT-01-LT5O|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS5OTINT1LT5O|
-|Name|name|LEDS-05-O-TINT-01-LT5O|
+|name|name|LEDS-05-O-TINT-01-LT5O|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LEDS-05-O-TINT-01-LT5O', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:LEDS-05-O-TINT-01-LT5O', 'kicadSymbolDatasheet': 'oom.lt/LT5O', 'kicadSymbolki_keywords': 'LED diode', 'kicadSymbolki_description': 'hexID: LT5O;Light emitting diode', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

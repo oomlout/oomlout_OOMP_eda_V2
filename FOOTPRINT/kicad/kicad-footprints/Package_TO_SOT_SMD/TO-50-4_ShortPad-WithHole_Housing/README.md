@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-50-4_ShortPad-WithHole_Housing|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-50-4_ShortPad-WithHole_Housing|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMTO54SHORTPADWITHHOLEHOUSING|
-|Name|name|Package_TO_SOT_SMD : TO-50-4_ShortPad-WithHole_Housing|
+|name|name|Package_TO_SOT_SMD : TO-50-4_ShortPad-WithHole_Housing|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-50-4_ShortPad-WithHole_Housing', 'description': 'TO-50-4 Macro X Package Style M238', 'tags': 'TO-50-4 Macro X Package Style M238', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-50-4_ShortPad-WithHole_Housing.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-50-4_ShortPad-WithHole_Housing/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-50-4_ShortPad-WithHole_Housing/kicadPcb3d_450.png

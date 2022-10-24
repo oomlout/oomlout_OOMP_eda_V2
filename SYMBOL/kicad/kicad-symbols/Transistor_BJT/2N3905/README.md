@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|2N3905|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-2N3905|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJT2N395|
-|Name|name|2N3905|
+|name|name|2N3905|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '2N3906', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': '2N3905', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'https://www.nteinc.com/specs/original/2N3905_06.pdf', 'kicadSymbolki_keywords': 'PNP Transistor', 'kicadSymbolki_description': '-0.2A Ic, -40V Vce, Small Signal PNP Transistor, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Relay_1-Form-C_Schrack-RYII_RM3.2mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_1-Form-C_Schrack-RYII_RM3.2mm|
 |Hex ID (short code)|hexID|FZKRELRELAY1FORMCSCHRACKRYIIRM32|
-|Name|name|Relay_THT : Relay_1-Form-C_Schrack-RYII_RM3.2mm|
+|name|name|Relay_THT : Relay_1-Form-C_Schrack-RYII_RM3.2mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Relay_1-Form-C_Schrack-RYII_RM3.2mm', 'description': 'Relay, 1-Form-C, Schrack-RYII, RM3.2mm, SPDT', 'tags': 'Relay 1-Form-C Schrack-RYII RM3.2mm SPDT', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_1-Form-C_Schrack-RYII_RM3.2mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_1-Form-C_Schrack-RYII_RM3.2mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_1-Form-C_Schrack-RYII_RM3.2mm/kicadPcb3d_450.png

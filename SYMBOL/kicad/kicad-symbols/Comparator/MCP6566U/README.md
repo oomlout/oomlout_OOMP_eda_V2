@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP6566U|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Comparator-MCP6566U|
 |Hex ID (short code)|hexID|SZKCOMPARATORMCP6566U|
-|Name|name|MCP6566U|
+|name|name|MCP6566U|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP6566U', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/MCP6566-6R-6U-7-9-1.8V-Low-Power-Open-Drain-Output-Comparator-DS20002143G.pdf', 'kicadSymbolki_keywords': 'cmp collector', 'kicadSymbolki_description': 'Single 1.8V Low-Power Open-Drain Output Comparator, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

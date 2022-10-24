@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Vishay_MINIMOLD-3Pin|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Vishay_MINIMOLD-3Pin|
 |Hex ID (short code)|hexID|FZKOPVISHAYMMOLD3PIN|
-|Name|name|OptoDevice : Vishay_MINIMOLD-3Pin|
+|name|name|OptoDevice : Vishay_MINIMOLD-3Pin|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Vishay_MINIMOLD-3Pin', 'description': 'IR Receiver Vishay TSOP-xxxx, MINIMOLD package, see https://www.vishay.com/docs/82742/tsop331.pdf', 'tags': 'IR Receiver Vishay TSOP-xxxx MINIMOLD', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Vishay_MINIMOLD-3Pin.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Vishay_MINIMOLD-3Pin/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/Vishay_MINIMOLD-3Pin/kicadPcb3d_450.png

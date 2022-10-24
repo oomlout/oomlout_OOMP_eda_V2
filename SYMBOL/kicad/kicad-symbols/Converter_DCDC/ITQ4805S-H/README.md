@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ITQ4805S-H|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ4805S-H|
 |Hex ID (short code)|hexID|SZKCONITQ485SH|
-|Name|name|ITQ4805S-H|
+|name|name|ITQ4805S-H|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ITQ2405S-H', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'ITQ4805S-H', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_XP_POWER-ITQxxxxS-H_THT', 'kicadSymbolDatasheet': 'https://www.xppower.com/pdfs/SF_ITQ.pdf', 'kicadSymbolki_keywords': 'XP_POWER DC/DC isolated Converter module', 'kicadSymbolki_description': 'XP Power 6W, 3000 VDC Isolated DC/DC Converter Module, Dual Output Voltage ±5V, ±600mA, 48V Input Voltage, SIP', 'kicadSymbolki_fp_filters': '*XP?POWER?ITQxxxxS?H*'}]|
 ||||

@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|USR-C322|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_WiFi-USR-C322|
 |Hex ID (short code)|hexID|SZKRFUSRC322|
-|Name|name|USR-C322|
+|name|name|USR-C322|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'USR-C322', 'kicadSymbolFootprint': 'RF_WiFi:USR-C322', 'kicadSymbolDatasheet': 'https://www.usriot.com/download/WIFI/USR-C322%20User%20Manual%20V2.3.pdf', 'kicadSymbolki_keywords': 'WiFi IEEE802.11 b/g/n', 'kicadSymbolki_description': '802.11 b/g/n Wi-Fi Module', 'kicadSymbolki_fp_filters': 'USR?C322*'}]|
 ||||

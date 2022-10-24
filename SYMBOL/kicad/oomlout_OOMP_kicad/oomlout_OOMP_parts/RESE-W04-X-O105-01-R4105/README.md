@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-W04-X-O105-01-R4105|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O105-01-R4105|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESEW4XO151R415|
-|Name|name|RESE-W04-X-O105-01-R4105|
+|name|name|RESE-W04-X-O105-01-R4105|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-W04-X-O105-01-R4105', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-W04-X-O105-01-R4105', 'kicadSymbolDatasheet': 'oom.lt/R4105', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R4105;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

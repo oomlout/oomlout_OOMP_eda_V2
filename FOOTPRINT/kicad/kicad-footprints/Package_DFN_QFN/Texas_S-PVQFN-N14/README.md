@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Texas_S-PVQFN-N14|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N14|
 |Hex ID (short code)|hexID|FZKDFNTEXASSPVQFNN14|
-|Name|name|Package_DFN_QFN : Texas_S-PVQFN-N14|
+|name|name|Package_DFN_QFN : Texas_S-PVQFN-N14|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Texas_S-PVQFN-N14', 'description': 'Texas_S-PVQFN-N14  http://www.ti.com/lit/ds/symlink/txb0104.pdf', 'tags': 'Texas_S-PVQFN-N14_4.3x4.3_Pitch0.5mm_ThermalPad', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PVQFN-N14.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PVQFN-N14/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PVQFN-N14/kicadPcb3d_450.png

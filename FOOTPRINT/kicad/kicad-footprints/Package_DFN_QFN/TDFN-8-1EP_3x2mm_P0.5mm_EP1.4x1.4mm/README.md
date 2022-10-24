@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TDFN-8-1EP_3x2mm_P0.5mm_EP1.4x1.4mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-TDFN-8-1EP_3x2mm_P0.5mm_EP1.4x1.4mm|
 |Hex ID (short code)|hexID|FZKDFNTDFN81EP3X2P5EP14X14|
-|Name|name|Package_DFN_QFN : TDFN-8-1EP_3x2mm_P0.5mm_EP1.4x1.4mm|
+|name|name|Package_DFN_QFN : TDFN-8-1EP_3x2mm_P0.5mm_EP1.4x1.4mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TDFN-8-1EP_3x2mm_P0.5mm_EP1.4x1.4mm', 'description': 'TDFN, 8 Pin (http://ww1.microchip.com/downloads/en/devicedoc/20005514a.pdf#page=35), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'TDFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/TDFN-8-1EP_3x2mm_P0.5mm_EP1.4x1.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/TDFN-8-1EP_3x2mm_P0.5mm_EP1.4x1.4mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/TDFN-8-1EP_3x2mm_P0.5mm_EP1.4x1.4mm/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MSOP-16_3x4mm_P0.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-MSOP-16_3x4mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKSOMS163X4P5|
-|Name|name|Package_SO : MSOP-16_3x4mm_P0.5mm|
+|name|name|Package_SO : MSOP-16_3x4mm_P0.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MSOP-16_3x4mm_P0.5mm', 'description': 'MSOP, 16 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/436412f.pdf#page=22), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'MSOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-16_3x4mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-16_3x4mm_P0.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-16_3x4mm_P0.5mm/kicadPcb3d_450.png

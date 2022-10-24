@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Mounting_Wuerth_WA-SMST-2.25mm_H7mm_9774070943|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMST-2.25mm_H7mm_9774070943|
 |Hex ID (short code)|hexID|FZKMONMONWASMST225H797747943|
-|Name|name|Mounting_Wuerth : Mounting_Wuerth_WA-SMST-2.25mm_H7mm_9774070943|
+|name|name|Mounting_Wuerth : Mounting_Wuerth_WA-SMST-2.25mm_H7mm_9774070943|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Mounting_Wuerth_WA-SMST-2.25mm_H7mm_9774070943', 'description': 'Mounting Hardware, inside through hole 2.25mm, height 7, Wuerth electronics 9774070943 (https://katalog.we-online.de/em/datasheet/9774070943.pdf), generated with kicad-footprint-generator', 'tags': 'Mounting 2.25mm 9774070943', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMST-2.25mm_H7mm_9774070943.wrl', 'pins': {'type': 'smd', 'shape': 'custom'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMST-2.25mm_H7mm_9774070943/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMST-2.25mm_H7mm_9774070943/kicadPcb3d_450.png

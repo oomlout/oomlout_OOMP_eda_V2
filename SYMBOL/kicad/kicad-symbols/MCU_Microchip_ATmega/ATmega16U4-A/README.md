@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega16U4-A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega16U4-A|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA16U4A|
-|Name|name|ATmega16U4-A|
+|name|name|ATmega16U4-A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega16U4-A', 'kicadSymbolFootprint': 'Package_QFP:TQFP-44_10x10mm_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR USB', 'kicadSymbolki_description': '16MHz, 16kB Flash, 1.25kB SRAM, 512B EEPROM, USB 2.0, TQFP-44', 'kicadSymbolki_fp_filters': 'TQFP*10x10mm*P0.8mm*'}]|
 ||||

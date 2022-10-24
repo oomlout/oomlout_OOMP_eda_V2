@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STTH2002D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-STTH2002D|
 |Hex ID (short code)|hexID|SZKDIODESTTH22D|
-|Name|name|STTH2002D|
+|name|name|STTH2002D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'STTH2002D', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-2_Vertical', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/stth2002.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '200V 20A Ultrafast Recovery Diode, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*2*'}]|
 ||||

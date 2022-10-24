@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HFCN-3800D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-3800D|
 |Hex ID (short code)|hexID|SZKRFFILHFCN38D|
-|Name|name|HFCN-3800D|
+|name|name|HFCN-3800D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HFCN-672', 'kicadSymbolReference': 'FL', 'kicadSymbolValue': 'HFCN-3800D', 'kicadSymbolFootprint': 'Filter:Filter_Mini-Circuits_FV1206-1', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/HFCN-3800D+.pdf', 'kicadSymbolki_keywords': 'Mini-Circuits high pass filter', 'kicadSymbolki_description': '3800MHz 50 Ohm Passive High Pass Filter, DC capable, FV1206-1', 'kicadSymbolki_fp_filters': 'Filter*Mini?Circuits*FV1206?1*'}]|
 ||||

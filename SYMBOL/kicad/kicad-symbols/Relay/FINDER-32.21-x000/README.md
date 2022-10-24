@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FINDER-32.21-x000|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-FINDER-32.21-x000|
 |Hex ID (short code)|hexID|SZKRELAYFINDER3221X|
-|Name|name|FINDER-32.21-x000|
+|name|name|FINDER-32.21-x000|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'FINDER-32.21-x000', 'kicadSymbolFootprint': 'Relay_THT:Relay_SPDT_Finder_32.21-x000', 'kicadSymbolDatasheet': 'https://gfinder.findernet.com/assets/Series/355/S32EN.pdf', 'kicadSymbolki_keywords': 'Single Pole Relay', 'kicadSymbolki_description': 'FINDER 32.21-x000, Single Pole Relay, 6A', 'kicadSymbolki_fp_filters': 'Relay*SPDT*Finder*32.21*x000*'}]|
 ||||

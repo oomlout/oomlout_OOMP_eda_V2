@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EFM8BB10F8I-A-QFN20|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8BB10F8I-A-QFN20|
 |Hex ID (short code)|hexID|SZKMCUSILICONLABSEFM8BB1F8IAQFN2|
-|Name|name|EFM8BB10F8I-A-QFN20|
+|name|name|EFM8BB10F8I-A-QFN20|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'EFM8BB10F8G-A-QFN20', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EFM8BB10F8I-A-QFN20', 'kicadSymbolFootprint': 'Package_DFN_QFN:SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm', 'kicadSymbolDatasheet': 'https://www.silabs.com/documents/public/data-sheets/efm8bb1-datasheet.pdf', 'kicadSymbolki_keywords': '8051 microcontroller PWM UART SPI I2C ADC QFN20', 'kicadSymbolki_description': '8051-compatible microcontroller, 25 MHz, 2.2 to 3.6V, 8K flash, 512B RAM, -40 to +125 C, QFN20', 'kicadSymbolki_fp_filters': 'SiliconLabs*QFN*1EP*3x3mm*P0.5mm*'}]|
 ||||

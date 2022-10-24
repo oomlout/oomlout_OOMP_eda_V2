@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Xilinx_RF676|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_RF676|
 |Hex ID (short code)|hexID|FZKBGAXILINXRF676|
-|Name|name|Package_BGA : Xilinx_RF676|
+|name|name|Package_BGA : Xilinx_RF676|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Xilinx_RF676', 'description': 'Kintex-7 BGA, 26x26 grid, 27x27mm package, 1mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=297, NSMD pad definition Appendix A', 'tags': 'BGA 676 1 RF676', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_RF676.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_RF676/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_RF676/kicadPcb3d_450.png

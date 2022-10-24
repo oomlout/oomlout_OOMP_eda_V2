@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74AUP1G06|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-74AUP1G06|
 |Hex ID (short code)|hexID|SZK74XGXX74AUP1G6|
-|Name|name|74AUP1G06|
+|name|name|74AUP1G06|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LVC1G06', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AUP1G06', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf', 'kicadSymbolki_keywords': 'Single Gate NOT LVC CMOS Open Drain', 'kicadSymbolki_description': 'Single NOT Gate w/ Open Drain, Low-Voltage CMOS', 'kicadSymbolki_fp_filters': 'SOT* SG-*'}]|
 ||||

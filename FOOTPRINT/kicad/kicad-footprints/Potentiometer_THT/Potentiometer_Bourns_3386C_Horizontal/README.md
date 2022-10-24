@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Potentiometer_Bourns_3386C_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_3386C_Horizontal|
 |Hex ID (short code)|hexID|FZKPPOTENTIOMETERBOURNS3386CHORIZONTAL|
-|Name|name|Potentiometer_THT : Potentiometer_Bourns_3386C_Horizontal|
+|name|name|Potentiometer_THT : Potentiometer_Bourns_3386C_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Bourns_3386C_Horizontal', 'description': 'Potentiometer, horizontal, Bourns 3386C, https://www.bourns.com/pdfs/3386.pdf', 'tags': 'Potentiometer horizontal Bourns 3386C', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3386C_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Bourns_3386C_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Bourns_3386C_Horizontal/kicadPcb3d_450.png

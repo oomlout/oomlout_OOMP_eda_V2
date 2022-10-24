@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TB6612FNG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-TB6612FNG|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORTB6612FNG|
-|Name|name|TB6612FNG|
+|name|name|TB6612FNG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TB6612FNG', 'kicadSymbolFootprint': 'Package_SO:SSOP-24_5.3x8.2mm_P0.65mm', 'kicadSymbolDatasheet': 'https://toshiba.semicon-storage.com/us/product/linear/motordriver/detail.TB6612FNG.html', 'kicadSymbolki_keywords': 'H-bridge motor driver', 'kicadSymbolki_description': 'Driver IC for Dual DC motor, SSOP-24', 'kicadSymbolki_fp_filters': 'SSOP-24*5.3x8.2mm*P0.65mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS597|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS597|
 |Hex ID (short code)|hexID|SZK74XXIEEE74LS597|
-|Name|name|74LS597|
+|name|name|74LS597|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS597', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

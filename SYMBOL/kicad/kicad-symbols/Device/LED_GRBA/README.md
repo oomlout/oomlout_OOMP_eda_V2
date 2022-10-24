@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_GRBA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_GRBA|
 |Hex ID (short code)|hexID|SZKDEVICELGRBA|
-|Name|name|LED_GRBA|
+|name|name|LED_GRBA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_GRBA', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED RGB diode', 'kicadSymbolki_description': 'RGB LED, green/red/blue/anode', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

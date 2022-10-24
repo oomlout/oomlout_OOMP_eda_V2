@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OP07|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP07|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOP7|
-|Name|name|OP07|
+|name|name|OP07|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OP07', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/OP07.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Single Ultra-Low Offset Voltage Operational Amplifier, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm* TO*99*'}]|
 ||||

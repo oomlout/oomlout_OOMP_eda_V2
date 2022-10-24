@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADA4610-4xR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4610-4xR|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALADA4614XR|
-|Name|name|ADA4610-4xR|
+|name|name|ADA4610-4xR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'OPA4197xD', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADA4610-4xR', 'kicadSymbolFootprint': 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4610-1_4610-2_4610-4.pdf', 'kicadSymbolki_keywords': 'quad opamp low-power', 'kicadSymbolki_description': 'Quad Low Noise, Precision, Rail-to-Rail Output, JFET Single Op Amp, SOIC-14', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Potentiometer_Bourns_3269P_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3269P_Horizontal|
 |Hex ID (short code)|hexID|FZKPOTENTIOMETERSMPOTENTIOMETERBOURNS3269PHORIZONTAL|
-|Name|name|Potentiometer_SMD : Potentiometer_Bourns_3269P_Horizontal|
+|name|name|Potentiometer_SMD : Potentiometer_Bourns_3269P_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Bourns_3269P_Horizontal', 'description': 'Potentiometer, horizontal, Bourns 3269P, https://www.bourns.com/docs/Product-Datasheets/3269.pdf', 'tags': 'Potentiometer horizontal Bourns 3269P', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_SMD.3dshapes/Potentiometer_Bourns_3269P_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_Bourns_3269P_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_Bourns_3269P_Horizontal/kicadPcb3d_450.png

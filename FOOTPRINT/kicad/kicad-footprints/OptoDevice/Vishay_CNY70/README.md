@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Vishay_CNY70|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Vishay_CNY70|
 |Hex ID (short code)|hexID|FZKOPVISHAYCNY7|
-|Name|name|OptoDevice : Vishay_CNY70|
+|name|name|OptoDevice : Vishay_CNY70|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Vishay_CNY70', 'description': 'package for Vishay CNY70 refective photo coupler/interrupter', 'tags': 'Vishay CNY70 refective photo coupler', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Vishay_CNY70.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Vishay_CNY70/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/Vishay_CNY70/kicadPcb3d_450.png

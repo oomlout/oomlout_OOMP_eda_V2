@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATtiny414-SS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny414-SS|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATTINYATTINY414SS|
-|Name|name|ATtiny414-SS|
+|name|name|ATtiny414-SS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATtiny204-SS', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATtiny414-SS', 'kicadSymbolFootprint': 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/40001912A.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller tinyAVR', 'kicadSymbolki_description': '20MHz, 4kB Flash, 256B SRAM, 128B EEPROM, SOIC-14', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm*'}]|
 ||||

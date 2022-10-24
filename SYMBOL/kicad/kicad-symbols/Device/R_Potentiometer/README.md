@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|R_Potentiometer|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer|
 |Hex ID (short code)|hexID|SZKDEVICERPOTENTIOMETER|
-|Name|name|R_Potentiometer|
+|name|name|R_Potentiometer|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'RV', 'kicadSymbolValue': 'R_Potentiometer', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'resistor variable', 'kicadSymbolki_description': 'Potentiometer', 'kicadSymbolki_fp_filters': 'Potentiometer*'}]|
 ||||

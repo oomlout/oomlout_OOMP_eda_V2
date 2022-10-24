@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PLCC-32_THT-Socket|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-32_THT-Socket|
 |Hex ID (short code)|hexID|FZKLCCPLCC32THTSO|
-|Name|name|Package_LCC : PLCC-32_THT-Socket|
+|name|name|Package_LCC : PLCC-32_THT-Socket|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PLCC-32_THT-Socket', 'description': 'PLCC, 32 pins, through hole, http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0981_CO.pdf', 'tags': 'plcc leaded', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LCC.3dshapes/PLCC-32_THT-Socket.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-32_THT-Socket/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-32_THT-Socket/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA842xDBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA842xDBV|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA842XDBV|
-|Name|name|OPA842xDBV|
+|name|name|OPA842xDBV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP6L91T-EOT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA842xDBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/opa842.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': '200MHz, Low Distortion, Unity-Gain Stable, Voltage Feedback Operational Amplifier, SOT23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Thermistor_PTC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Thermistor_PTC|
 |Hex ID (short code)|hexID|SZKDEVICETHERMISTORPTC|
-|Name|name|Thermistor_PTC|
+|name|name|Thermistor_PTC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TH', 'kicadSymbolValue': 'Thermistor_PTC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'resistor PTC thermistor sensor RTD', 'kicadSymbolki_description': 'Temperature dependent resistor, positive temperature coefficient', 'kicadSymbolki_fp_filters': '*PTC* *Thermistor* PIN?ARRAY* bornier* *Terminal?Block* R_*'}]|
 ||||

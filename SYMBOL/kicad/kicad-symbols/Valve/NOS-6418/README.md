@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NOS-6418|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Valve-NOS-6418|
 |Hex ID (short code)|hexID|SZKVANOS6418|
-|Name|name|NOS-6418|
+|name|name|NOS-6418|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CK6418', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NOS-6418', 'kicadSymbolFootprint': 'Valve:Valve_Mini_Pentode_Linear', 'kicadSymbolDatasheet': 'https://frank.pocnet.net/sheets/127/6/6418.pdf', 'kicadSymbolki_keywords': 'subminiature pentode valve', 'kicadSymbolki_description': 'Subminiature Pentode', 'kicadSymbolki_fp_filters': 'VALVE*MINI*PENTODE*LINEAR*'}]|
 ||||

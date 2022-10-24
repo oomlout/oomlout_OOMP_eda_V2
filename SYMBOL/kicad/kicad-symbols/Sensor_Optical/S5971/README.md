@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|S5971|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-S5971|
 |Hex ID (short code)|hexID|SZKSENOPTICALS5971|
-|Name|name|S5971|
+|name|name|S5971|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'S5971', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-18-3', 'kicadSymbolDatasheet': 'https://www.hamamatsu.com/resources/pdf/ssd/s5971_etc_kpin1025e.pdf', 'kicadSymbolki_keywords': 'opto photodiode', 'kicadSymbolki_description': 'Si PIN Photodiode, 0.1 GHz, TO-18-3', 'kicadSymbolki_fp_filters': 'TO?18*'}]|
 ||||

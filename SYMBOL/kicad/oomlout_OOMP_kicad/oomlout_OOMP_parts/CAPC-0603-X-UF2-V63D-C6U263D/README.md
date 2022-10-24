@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0603-X-UF2-V63D-C6U263D|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF2-V63D-C6U263D|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XUF2V63DC6U263D|
-|Name|name|CAPC-0603-X-UF2-V63D-C6U263D|
+|name|name|CAPC-0603-X-UF2-V63D-C6U263D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0603-X-UF2-V63D-C6U263D', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0603-X-UF2-V63D-C6U263D', 'kicadSymbolDatasheet': 'oom.lt/C6U263D', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C6U263D;PARTL C-JLCC;C59461;MANUF C-XXXX;CL10A226MQ8NRNC;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

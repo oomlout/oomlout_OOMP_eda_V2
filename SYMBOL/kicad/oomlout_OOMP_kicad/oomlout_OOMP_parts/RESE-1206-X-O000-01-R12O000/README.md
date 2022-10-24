@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-1206-X-O000-01-R12O000|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-1206-X-O000-01-R12O000|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE126XO1R12O|
-|Name|name|RESE-1206-X-O000-01-R12O000|
+|name|name|RESE-1206-X-O000-01-R12O000|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-1206-X-O000-01-R12O000', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-1206-X-O000-01-R12O000', 'kicadSymbolDatasheet': 'oom.lt/R12O000', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R12O000;PARTL C-JLCC;C17888;MANUF C-XXXX;1206W4F0000T5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

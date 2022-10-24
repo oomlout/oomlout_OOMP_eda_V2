@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Xilinx_FBG676|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_FBG676|
 |Hex ID (short code)|hexID|FZKBGAXILINXFBG676|
-|Name|name|Package_BGA : Xilinx_FBG676|
+|name|name|Package_BGA : Xilinx_FBG676|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Xilinx_FBG676', 'description': 'Artix-7, Kintex-7 and Zynq-7000 BGA, 26x26 grid, 27x27mm package, 1mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=273, https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=284, https://www.xilinx.com/support/documentation/user_guides/ug865-Zynq-7000-Pkg-Pinout.pdf#page=84, NSMD pad definition Appendix A', 'tags': 'BGA 676 1 FB676 FBG676 FBV676', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_FBG676.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_FBG676/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_FBG676/kicadPcb3d_450.png

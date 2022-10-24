@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PCA9516|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9516|
 |Hex ID (short code)|hexID|SZKINTERFACEEXPANSIONPCA9516|
-|Name|name|PCA9516|
+|name|name|PCA9516|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PCA9516', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.nxp.com/documents/data_sheet/PCA9518.pdf', 'kicadSymbolki_keywords': 'I2C Hub', 'kicadSymbolki_description': '5 channels I2C Hub, SO/TSSOP16', 'kicadSymbolki_fp_filters': 'SO* SOIC* TSSOP*'}]|
 ||||

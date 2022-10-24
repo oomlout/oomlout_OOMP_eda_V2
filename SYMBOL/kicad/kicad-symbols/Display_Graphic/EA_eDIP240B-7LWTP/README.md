@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EA_eDIP240B-7LWTP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIP240B-7LWTP|
 |Hex ID (short code)|hexID|SZKDIGRAPHICEAEDIP24B7LWTP|
-|Name|name|EA_eDIP240B-7LWTP|
+|name|name|EA_eDIP240B-7LWTP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'EA_eDIP240B-7LW', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EA_eDIP240B-7LWTP', 'kicadSymbolFootprint': 'Display:EA_eDIP240-XXX', 'kicadSymbolDatasheet': 'http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip240-7e.pdf', 'kicadSymbolki_keywords': 'display LCD graphic', 'kicadSymbolki_description': 'LCD graphical display with white LED background and touch panel blue negative, 240x128, +5V VDD, RS-232, I2C or SPI', 'kicadSymbolki_fp_filters': '*EA*eDIP240*'}]|
 ||||

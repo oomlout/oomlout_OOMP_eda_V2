@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ublox_LEA|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_LEA|
 |Hex ID (short code)|hexID|FZKGPSUBLOXLEA|
-|Name|name|RF_GPS : ublox_LEA|
+|name|name|RF_GPS : ublox_LEA|
 |Footprint Kicad|footprintKicadDetails|{'name': 'ublox_LEA', 'description': 'ublox LEA 6/7/8, (https://www.u-blox.com/sites/default/files/LEA-M8S-M8T-FW3_HardwareIntegrationManual_%28UBX-15030060%29.pdf)', 'tags': 'GPS ublox LEA 6/7/8', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_GPS.3dshapes/ublox_LEA.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||

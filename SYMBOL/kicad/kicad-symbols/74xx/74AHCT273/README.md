@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74AHCT273|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74AHCT273|
 |Hex ID (short code)|hexID|SZK74XX74AHCT273|
-|Name|name|74AHCT273|
+|name|name|74AHCT273|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LS273', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AHCT273', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT273.pdf', 'kicadSymbolki_keywords': 'AHCTMOS DFF DFF8', 'kicadSymbolki_description': '8-bit D Flip-Flop, reset', 'kicadSymbolki_fp_filters': 'DIP?20* SO?20* SOIC?20*'}]|
 ||||

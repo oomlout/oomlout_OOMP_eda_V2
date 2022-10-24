@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IPP060N06N|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IPP060N06N|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIPP6N6N|
-|Name|name|IPP060N06N|
+|name|name|IPP060N06N|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BUZ11', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IPP060N06N', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-IPP060N06N-DS-v02_02-en.pdf?fileId=db3a30433727a44301372c06d9d7498a', 'kicadSymbolki_keywords': 'N-Channel Power MOSFET Infineon', 'kicadSymbolki_description': '45A Id, 60V Vds, Single N-Channel Power MOSFET, 6mOhm Ron, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

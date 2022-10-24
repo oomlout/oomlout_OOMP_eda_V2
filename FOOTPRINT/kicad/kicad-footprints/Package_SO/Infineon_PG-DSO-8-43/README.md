@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Infineon_PG-DSO-8-43|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-8-43|
 |Hex ID (short code)|hexID|FZKSOINFINEONPGDSO843|
-|Name|name|Package_SO : Infineon_PG-DSO-8-43|
+|name|name|Package_SO : Infineon_PG-DSO-8-43|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Infineon_PG-DSO-8-43', 'description': 'Infineon_PG-DSO-8-43', 'tags': 'DSO DSO-8 SOIC SOIC-8', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Infineon_PG-DSO-8-43.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/Infineon_PG-DSO-8-43/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/Infineon_PG-DSO-8-43/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM2574N-12|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2574N-12|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM2574N12|
-|Name|name|LM2574N-12|
+|name|name|LM2574N-12|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM2574HVN-12', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2574N-12', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.national.com/ds/LM/LM2574.pdf', 'kicadSymbolki_keywords': 'Step-Down Voltage Regulator 12V 500mA', 'kicadSymbolki_description': '12V, 0.5A SIMPLE SWITCHER® Step-Down Voltage Regulator, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

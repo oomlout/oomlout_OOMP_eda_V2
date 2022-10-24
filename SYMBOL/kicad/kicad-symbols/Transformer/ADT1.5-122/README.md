@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADT1.5-122|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-ADT1.5-122|
 |Hex ID (short code)|hexID|SZKTRADT15122|
-|Name|name|ADT1.5-122|
+|name|name|ADT1.5-122|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TR', 'kicadSymbolValue': 'ADT1.5-122', 'kicadSymbolFootprint': 'RF_Mini-Circuits:Mini-Circuits_CD542_H2.84mm', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/ADT1.5-122+.pdf', 'kicadSymbolki_keywords': 'Mini-Circuits RF Transformer', 'kicadSymbolki_description': '20-1200MHz 1:1.5 RF Transformer, Balanced Transmission Line, CD542', 'kicadSymbolki_fp_filters': 'Mini?Circuits*CD542*'}]|
 ||||

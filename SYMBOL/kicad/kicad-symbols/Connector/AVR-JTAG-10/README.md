@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AVR-JTAG-10|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-AVR-JTAG-10|
 |Hex ID (short code)|hexID|SZKCNAVRJTAG1|
-|Name|name|AVR-JTAG-10|
+|name|name|AVR-JTAG-10|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'AVR-JTAG-10', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'AVR JTAG Connector', 'kicadSymbolki_description': 'Atmel 10-pin JTAG connector', 'kicadSymbolki_fp_filters': 'IDC?Header*2x05* Pin?Header*2x05*'}]|
 ||||

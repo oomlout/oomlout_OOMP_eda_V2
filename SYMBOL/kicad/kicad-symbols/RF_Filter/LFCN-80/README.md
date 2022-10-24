@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|LFCN-80|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-80|
 |Hex ID (short code)|hexID|SZKRFFILLFCN8|
-|Name|name|LFCN-80|
+|name|name|LFCN-80|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'FL', 'kicadSymbolValue': 'LFCN-80', 'kicadSymbolFootprint': 'Filter:Filter_Mini-Circuits_FV1206', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/LFCN-80+.pdf', 'kicadSymbolki_keywords': 'Mini-Circuits low pass filter', 'kicadSymbolki_description': '80MHz 50 Ohm Passive Low Pass Filter, FV1206', 'kicadSymbolki_fp_filters': 'Filter*Mini?Circuits*FV1206*'}]|
 ||||

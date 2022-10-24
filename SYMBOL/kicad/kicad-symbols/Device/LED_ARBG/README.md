@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_ARBG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_ARBG|
 |Hex ID (short code)|hexID|SZKDEVICELARBG|
-|Name|name|LED_ARBG|
+|name|name|LED_ARBG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_ARBG', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED RGB diode', 'kicadSymbolki_description': 'RGB LED, anode/red/blue/green', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

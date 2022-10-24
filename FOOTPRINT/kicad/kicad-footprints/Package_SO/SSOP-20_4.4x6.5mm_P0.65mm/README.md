@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SSOP-20_4.4x6.5mm_P0.65mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-20_4.4x6.5mm_P0.65mm|
 |Hex ID (short code)|hexID|FZKSOSS244X65P65|
-|Name|name|Package_SO : SSOP-20_4.4x6.5mm_P0.65mm|
+|name|name|Package_SO : SSOP-20_4.4x6.5mm_P0.65mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SSOP-20_4.4x6.5mm_P0.65mm', 'description': 'SSOP20: plastic shrink small outline package; 20 leads; body width 4.4 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot266-1_po.pdf)', 'tags': 'SSOP 0.65', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SSOP-20_4.4x6.5mm_P0.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSOP-20_4.4x6.5mm_P0.65mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/SSOP-20_4.4x6.5mm_P0.65mm/kicadPcb3d_450.png

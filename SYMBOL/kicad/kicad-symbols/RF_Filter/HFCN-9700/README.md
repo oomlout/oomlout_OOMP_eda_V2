@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HFCN-9700|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-9700|
 |Hex ID (short code)|hexID|SZKRFFILHFCN97|
-|Name|name|HFCN-9700|
+|name|name|HFCN-9700|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HFCN-1322', 'kicadSymbolReference': 'FL', 'kicadSymbolValue': 'HFCN-9700', 'kicadSymbolFootprint': 'Filter:Filter_Mini-Circuits_FV1206-4', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/HFCN-9700+.pdf', 'kicadSymbolki_keywords': 'Mini-Circuits high pass filter', 'kicadSymbolki_description': '9070MHz 50 Ohm Passive High Pass Filter, FV1206-4', 'kicadSymbolki_fp_filters': 'Filter*Mini?Circuits*FV1206?4*'}]|
 ||||

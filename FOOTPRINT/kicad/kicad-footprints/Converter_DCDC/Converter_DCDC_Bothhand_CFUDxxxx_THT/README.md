@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Converter_DCDC_Bothhand_CFUDxxxx_THT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Bothhand_CFUDxxxx_THT|
 |Hex ID (short code)|hexID|FZKCONCONBOTHHANDCFUDXXXXTHT|
-|Name|name|Converter_DCDC : Converter_DCDC_Bothhand_CFUDxxxx_THT|
+|name|name|Converter_DCDC : Converter_DCDC_Bothhand_CFUDxxxx_THT|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_Bothhand_CFUDxxxx_THT', 'description': 'DCDC-Converter, BOTHHAND, Type CFxxxx-Serie,  (Very dodgy url but was the only at hand), ', 'tags': 'DCDC-Converter BOTHHAND Type CFxxxx-Serie', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Bothhand_CFUDxxxx_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Bothhand_CFUDxxxx_THT/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Bothhand_CFUDxxxx_THT/kicadPcb3d_450.png

@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O182-67-R42182A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O182-67-R42182A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO18267R42182A|
-|Name|name|RESE-0402-X-O182-67-R42182A|
+|name|name|RESE-0402-X-O182-67-R42182A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O182-67-R42182A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O182-67-R42182A', 'kicadSymbolDatasheet': 'oom.lt/R42182A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R42182A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

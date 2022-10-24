@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AON6411|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-AON6411|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETAON6411|
-|Name|name|AON6411|
+|name|name|AON6411|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'AON6411', 'kicadSymbolFootprint': 'Package_DFN_QFN:AO_DFN-8-1EP_5.55x5.2mm_P1.27mm_EP4.12x4.6mm', 'kicadSymbolDatasheet': 'http://www.aosmd.com/res/data_sheets/AON6411.pdf', 'kicadSymbolki_keywords': 'P-Channel MOSFET', 'kicadSymbolki_description': 'P-Channel MOSFET, -85A Id, -20V Vds, DFN-8', 'kicadSymbolki_fp_filters': 'AO*DFN*8*1EP*5.55x5.2mm*P1.27mm*EP4.12x4.6mm*'}]|
 ||||

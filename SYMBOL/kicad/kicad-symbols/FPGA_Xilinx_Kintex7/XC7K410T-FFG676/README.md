@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC7K410T-FFG676|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Kintex7-XC7K410T-FFG676|
 |Hex ID (short code)|hexID|SZKFPGAXILINXKINTEX7XC7K41TFFG676|
-|Name|name|XC7K410T-FFG676|
+|name|name|XC7K410T-FFG676|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC7K410T-FFG676', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Kintex 7 T 410 XC7K410T-FFG676'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|M29W008|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_Flash-M29W008|
 |Hex ID (short code)|hexID|SZKMEMORYFLASHM29W8|
-|Name|name|M29W008|
+|name|name|M29W008|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'M29W008', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'EEPROM FLASH 1MO', 'kicadSymbolki_description': 'Flash EEProm 1MO (TSOP 40 pack.) 3,3V'}]|
 ||||

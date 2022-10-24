@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRFS4127|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFS4127|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRFS4127|
-|Name|name|IRFS4127|
+|name|name|IRFS4127|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STB15N80K5', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRFS4127', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-2', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irfs4127pbf.pdf?fileId=5546d462533600a401535636ee7b2192', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '72A Id, 200V Vds, 18.6mOhm Rds, N-Channel MOSFET, 18.6mOhm Ron, D2PAK', 'kicadSymbolki_fp_filters': 'TO?263*'}]|
 ||||

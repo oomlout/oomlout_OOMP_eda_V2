@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Q_PMOS_SDGD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Q_PMOS_SDGD|
 |Hex ID (short code)|hexID|SZKDEVICEQPMOSSDGD|
-|Name|name|Q_PMOS_SDGD|
+|name|name|Q_PMOS_SDGD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Q_PMOS_SDGD', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'transistor PMOS P-MOS P-MOSFET', 'kicadSymbolki_description': 'P-MOSFET transistor, source/drain/gate, drain connected to mounting plane'}]|
 ||||

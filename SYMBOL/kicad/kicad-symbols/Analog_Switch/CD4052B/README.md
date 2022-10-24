@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CD4052B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-CD4052B|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHCD452B|
-|Name|name|CD4052B|
+|name|name|CD4052B|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CD4052B', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/cd4052b.pdf', 'kicadSymbolki_keywords': 'analog switch selector multiplexer', 'kicadSymbolki_description': 'CMOS double 4-channel analog multiplexer/demultiplexer, TSSOP-16/DIP-16/SOIC-16', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x5mm*P0.65mm* DIP*W7.62* SOIC*3.9x9.9mm*P1.27mm* SO*5.3x10.2mm*P1.27mm*'}]|
 ||||

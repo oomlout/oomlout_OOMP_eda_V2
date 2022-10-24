@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CUI_CMC-4013-SMT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Audio-CUI_CMC-4013-SMT|
 |Hex ID (short code)|hexID|FZKSENAUDIOCUICMC413S|
-|Name|name|Sensor_Audio : CUI_CMC-4013-SMT|
+|name|name|Sensor_Audio : CUI_CMC-4013-SMT|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CUI_CMC-4013-SMT', 'description': 'Omnidirectional, -42dB, reflowable, electret condenser microphone https://www.cuidevices.com/product/resource/cmc-4013-smt-tr.pdf', 'tags': 'Microphone CUI ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Audio.3dshapes/CUI_CMC-4013-SMT.wrl', 'pins': {'type': 'smd', 'shape': 'custom'}}|
 ||||

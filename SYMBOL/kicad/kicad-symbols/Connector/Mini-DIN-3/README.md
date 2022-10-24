@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Mini-DIN-3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Mini-DIN-3|
 |Hex ID (short code)|hexID|SZKCNMDIN3|
-|Name|name|Mini-DIN-3|
+|name|name|Mini-DIN-3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Mini-DIN-3', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.assmann-wsw.com/fileadmin/catalogue/10_MiniDIN_rev4-0.pdf', 'kicadSymbolki_keywords': 'Mini-DIN', 'kicadSymbolki_description': '3-pin Mini-DIN connector', 'kicadSymbolki_fp_filters': 'MINI?DIN*'}]|
 ||||

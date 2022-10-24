@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MSOP-8_3x3mm_P0.65mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-MSOP-8_3x3mm_P0.65mm|
 |Hex ID (short code)|hexID|FZKSOMS83X3P65|
-|Name|name|Package_SO : MSOP-8_3x3mm_P0.65mm|
+|name|name|Package_SO : MSOP-8_3x3mm_P0.65mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MSOP-8_3x3mm_P0.65mm', 'description': 'MSOP, 8 Pin (https://www.jedec.org/system/files/docs/mo-187F.pdf variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'MSOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-8_3x3mm_P0.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-8_3x3mm_P0.65mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-8_3x3mm_P0.65mm/kicadPcb3d_450.png

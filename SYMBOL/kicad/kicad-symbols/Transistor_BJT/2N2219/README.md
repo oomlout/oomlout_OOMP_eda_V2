@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|2N2219|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-2N2219|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJT2N2219|
-|Name|name|2N2219|
+|name|name|2N2219|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': '2N2219', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-39-3', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/2N2219-D.PDF', 'kicadSymbolki_keywords': 'NPN Transistor', 'kicadSymbolki_description': '800mA Ic, 50V Vce, NPN Transistor, TO-39', 'kicadSymbolki_fp_filters': 'TO?39*'}]|
 ||||

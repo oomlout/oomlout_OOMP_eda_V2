@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_Series|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_Series|
 |Hex ID (short code)|hexID|SZKDEVICELSERIES|
-|Name|name|LED_Series|
+|name|name|LED_Series|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_Series', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED diode', 'kicadSymbolki_description': 'Several LEDs in series', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

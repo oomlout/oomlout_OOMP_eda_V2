@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Si513A_2.5x3.2mm|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-Si513A_2.5x3.2mm|
 |Hex ID (short code)|hexID|SZKOCSSI513A25X32|
-|Name|name|Si513A_2.5x3.2mm|
+|name|name|Si513A_2.5x3.2mm|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Si513A_2.5x3.2mm', 'kicadSymbolFootprint': 'Oscillator:Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm', 'kicadSymbolDatasheet': 'https://www.silabs.com/documents/public/data-sheets/si512-13.pdf', 'kicadSymbolki_keywords': 'Dual frequency crystal oscillator', 'kicadSymbolki_description': 'Dual frequency crystal oscillator (XO) 100 kHz to 250 MHz, Single-ended CMOS output', 'kicadSymbolki_fp_filters': 'Oscillator*SMD*Silicon*Labs*LGA*2.5x3.2mm*P1.25mm*'}]|
 ||||

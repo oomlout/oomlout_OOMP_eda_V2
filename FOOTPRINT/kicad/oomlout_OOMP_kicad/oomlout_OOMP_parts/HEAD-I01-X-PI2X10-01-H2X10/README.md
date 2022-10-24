@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-I01-X-PI2X10-01-H2X10|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X10-01-H2X10|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI2X11H2X1|
-|Name|name|oomlout_OOMP_parts : HEAD-I01-X-PI2X10-01-H2X10|
+|name|name|oomlout_OOMP_parts : HEAD-I01-X-PI2X10-01-H2X10|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HEAD-I01-X-PI2X10-01-H2X10', 'description': 'hexID: H2X10; Through hole straight pin header, 2x10, 2.54mm pitch, double rows', 'tags': 'Through hole pin header THT 2x10 2.54mm double row', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x10_P2.54mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

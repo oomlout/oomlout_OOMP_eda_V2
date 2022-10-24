@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MUN5211DW1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-MUN5211DW1|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTMUN5211DW1|
-|Name|name|MUN5211DW1|
+|name|name|MUN5211DW1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'MUN5211DW1', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/DTC114ED-D.PDF', 'kicadSymbolki_keywords': 'Dual NPN Transistor', 'kicadSymbolki_description': '0.1A Ic, 50V Vce, Dual NPN Bias Resistor Transistors, SOT-363', 'kicadSymbolki_fp_filters': 'SOT*363*'}]|
 ||||

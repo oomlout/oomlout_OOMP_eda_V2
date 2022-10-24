@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_Coilcraft_CST1|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Coilcraft_CST1|
 |Hex ID (short code)|hexID|FZKTRSMTRCOILCRAFTCST1|
-|Name|name|Transformer_SMD : Transformer_Coilcraft_CST1|
+|name|name|Transformer_SMD : Transformer_Coilcraft_CST1|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_Coilcraft_CST1', 'description': 'Current sense transformer, SMD, 8.0x8.13x5.3mm (https://www.coilcraft.com/pdfs/cst.pdf)', 'tags': 'Transformer current sense SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_Coilcraft_CST.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

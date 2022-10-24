@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Senseair_S8_Up|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor-Senseair_S8_Up|
 |Hex ID (short code)|hexID|FZKSENSENSEAIRS8UP|
-|Name|name|Sensor : Senseair_S8_Up|
+|name|name|Sensor : Senseair_S8_Up|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Senseair_S8_Up', 'description': 'Sensair S8 Series CO2 sensor, 1kHz PWM output, Modbus, THT', 'tags': 'co2 gas sensor pwm modbus', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor.3dshapes/Senseair_S8_Up.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

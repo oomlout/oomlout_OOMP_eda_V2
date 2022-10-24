@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-247-2_Horizontal_TabUp|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-247-2_Horizontal_TabUp|
 |Hex ID (short code)|hexID|FZKSOTTO2472HORIZONTALTABUP|
-|Name|name|Package_TO_SOT_THT : TO-247-2_Horizontal_TabUp|
+|name|name|Package_TO_SOT_THT : TO-247-2_Horizontal_TabUp|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-247-2_Horizontal_TabUp', 'description': 'TO-247-2, Horizontal, RM 10.9mm, see https://toshiba.semicon-storage.com/us/product/mosfet/to-247-4l.html', 'tags': 'TO-247-2 Horizontal RM 10.9mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-247-2_Horizontal_TabUp.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-247-2_Horizontal_TabUp/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-247-2_Horizontal_TabUp/kicadPcb3d_450.png

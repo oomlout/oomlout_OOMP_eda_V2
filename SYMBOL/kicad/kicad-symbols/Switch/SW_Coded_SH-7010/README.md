@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_Coded_SH-7010|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_Coded_SH-7010|
 |Hex ID (short code)|hexID|SZKSWITCHSWCODEDSH71|
-|Name|name|SW_Coded_SH-7010|
+|name|name|SW_Coded_SH-7010|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_Coded_SH-7010', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf', 'kicadSymbolki_keywords': 'rotary bcd Real', 'kicadSymbolki_description': 'Rotary switch, 4-bit encoding, 10 positions, Real code', 'kicadSymbolki_fp_filters': 'Nidec*Copal*SH*7010*'}]|
 ||||

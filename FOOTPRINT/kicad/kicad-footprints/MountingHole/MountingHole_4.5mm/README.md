@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MountingHole_4.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_4.5mm|
 |Hex ID (short code)|hexID|FZKHOLHOL45|
-|Name|name|MountingHole : MountingHole_4.5mm|
+|name|name|MountingHole : MountingHole_4.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_4.5mm', 'description': 'Mounting Hole 4.5mm, no annular', 'tags': 'mounting hole 4.5mm no annular', 'attributeType': None, 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_4.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_4.5mm/kicadPcb3d_450.png

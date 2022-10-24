@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_RGB_1210|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_1210|
 |Hex ID (short code)|hexID|FZKLSMLRGB121|
-|Name|name|LED_SMD : LED_RGB_1210|
+|name|name|LED_SMD : LED_RGB_1210|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_RGB_1210', 'description': 'RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN', 'tags': 'LED 3227', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_RGB_1210.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_RGB_1210/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_RGB_1210/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TSOT-23|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TSOT-23|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMTSOT23|
-|Name|name|Package_TO_SOT_SMD : TSOT-23|
+|name|name|Package_TO_SOT_SMD : TSOT-23|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TSOT-23', 'description': '3-pin TSOT23 package, http://www.analog.com.tw/pdf/All_In_One.pdf', 'tags': 'TSOT-23', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TSOT-23.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TSOT-23/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TSOT-23/kicadPcb3d_450.png

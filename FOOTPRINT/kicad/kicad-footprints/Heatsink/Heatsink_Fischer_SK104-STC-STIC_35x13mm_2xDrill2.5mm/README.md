@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm|
 |Hex ID (short code)|hexID|FZKHHFISCHERSK14STCSTIC35X132XDRILL25|
-|Name|name|Heatsink : Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm|
+|name|name|Heatsink : Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm', 'description': 'Heatsink, 35mm x 13mm, 2x Fixation 2,5mm Drill, Soldering, Fischer SK104-STC-STIC,', 'tags': 'Heatsink fischer TO-220', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm/kicadPcb3d_450.png

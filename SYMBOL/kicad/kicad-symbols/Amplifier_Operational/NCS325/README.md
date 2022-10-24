@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCS325|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS325|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALNCS325|
-|Name|name|NCS325|
+|name|name|NCS325|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCS325', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/NCS325-D.PDF', 'kicadSymbolki_keywords': 'single opamp low-power', 'kicadSymbolki_description': 'Single operational amplifier, 50uV Offset, 0.25uV/C, 35uA Zero-Drift, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IDC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IDC|
 |Hex ID (short code)|hexID|SZKSIMULATIONSPICEIDC|
-|Name|name|IDC|
+|name|name|IDC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'I', 'kicadSymbolValue': 'IDC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolSpice_Netlist_Enabled': 'Y', 'kicadSymbolSpice_Primitive': 'I', 'kicadSymbolSpice_Model': 'dc(1)', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Current source, DC'}]|
 ||||

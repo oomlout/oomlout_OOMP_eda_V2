@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|LFCN-180|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-180|
 |Hex ID (short code)|hexID|SZKRFFILLFCN18|
-|Name|name|LFCN-180|
+|name|name|LFCN-180|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LFCN-80', 'kicadSymbolReference': 'FL', 'kicadSymbolValue': 'LFCN-180', 'kicadSymbolFootprint': 'Filter:Filter_Mini-Circuits_FV1206', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/LFCN-180+.pdf', 'kicadSymbolki_keywords': 'Mini-Circuits low pass filter', 'kicadSymbolki_description': '180MHz 50 Ohm Passive Low Pass Filter, FV1206', 'kicadSymbolki_fp_filters': 'Filter*Mini?Circuits*FV1206*'}]|
 ||||

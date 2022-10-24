@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TIP41A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP41A|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTTIP41A|
-|Name|name|TIP41A|
+|name|name|TIP41A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BD911', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'TIP41A', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=tip41.PDF', 'kicadSymbolki_keywords': 'power NPN Transistor', 'kicadSymbolki_description': '6A Ic, 60V Vce, Power NPN Transistor, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

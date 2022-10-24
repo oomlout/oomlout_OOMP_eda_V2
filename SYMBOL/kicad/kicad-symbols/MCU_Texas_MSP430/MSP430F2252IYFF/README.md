@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MSP430F2252IYFF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F2252IYFF|
 |Hex ID (short code)|hexID|SZKMCUTEXASMSP43MSP43F2252IYFF|
-|Name|name|MSP430F2252IYFF|
+|name|name|MSP430F2252IYFF|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MSP430F2232IYFF', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MSP430F2252IYFF', 'kicadSymbolFootprint': 'Package_BGA:Texas_DSBGA-49_3.33x3.488mm_Layout7x7_P0.4mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/msp430f2252.pdf', 'kicadSymbolki_keywords': 'TI MSP430 16-bit mixed signal microcontroller', 'kicadSymbolki_description': '16kB + 256B Flash, 512B RAM, BGA-49', 'kicadSymbolki_fp_filters': 'Texas*DSBGA*3.33x3.488mm*Layout7x7*P0.4mm*'}]|
 ||||

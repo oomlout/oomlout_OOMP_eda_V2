@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TestPoint_THTPad_D1.5mm_Drill0.7mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_THTPad_D1.5mm_Drill0.7mm|
 |Hex ID (short code)|hexID|FZKTPTPTHTPADD15DRILL7|
-|Name|name|TestPoint : TestPoint_THTPad_D1.5mm_Drill0.7mm|
+|name|name|TestPoint : TestPoint_THTPad_D1.5mm_Drill0.7mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TestPoint_THTPad_D1.5mm_Drill0.7mm', 'description': 'THT pad as test Point, diameter 1.5mm, hole diameter 0.7mm', 'tags': 'test point THT pad', 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

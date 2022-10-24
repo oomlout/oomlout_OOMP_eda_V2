@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|GBU4A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Bridge-GBU4A|
 |Hex ID (short code)|hexID|SZKDIODEBRIDGEGBU4A|
-|Name|name|GBU4A|
+|name|name|GBU4A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'GBU4A', 'kicadSymbolFootprint': 'Diode_THT:Diode_Bridge_Vishay_GBU', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/88656/gbu4a.pdf', 'kicadSymbolki_keywords': 'rectifier acdc', 'kicadSymbolki_description': 'Single-Phase Bridge Rectifier, 35V Vrms, 4.0A If, GBU package', 'kicadSymbolki_fp_filters': 'Diode*Bridge*Vishay*GBU*'}]|
 ||||

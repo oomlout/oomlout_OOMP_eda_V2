@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_Push_SPDT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_Push_SPDT|
 |Hex ID (short code)|hexID|SZKSWITCHSWPUSHSPDT|
-|Name|name|SW_Push_SPDT|
+|name|name|SW_Push_SPDT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_Push_SPDT', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'switch single-pole double-throw spdt ON-ON', 'kicadSymbolki_description': 'Momentary Switch, single pole double throw'}]|
 ||||

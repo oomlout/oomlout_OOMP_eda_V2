@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATtiny4313-MM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny4313-MM|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATTINYATTINY4313|
-|Name|name|ATtiny4313-MM|
+|name|name|ATtiny4313-MM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATtiny2313A-MM', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATtiny4313-MM', 'kicadSymbolFootprint': 'Package_DFN_QFN:VQFN-20-1EP_3x3mm_P0.45mm_EP1.55x1.55mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc8246.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller tinyAVR', 'kicadSymbolki_description': '20MHz, 4kB Flash, 256B SRAM, 256B EEPROM, QFN-20', 'kicadSymbolki_fp_filters': 'VQFN*1EP*3x3mm*P0.45mm*'}]|
 ||||

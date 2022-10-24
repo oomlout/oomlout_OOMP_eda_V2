@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS2514|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-TPS2514|
 |Hex ID (short code)|hexID|SZKINTERFACEUTPS2514|
-|Name|name|TPS2514|
+|name|name|TPS2514|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS2514', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps2513.pdf', 'kicadSymbolki_keywords': 'USB Charge', 'kicadSymbolki_description': 'USB Dedicated Charging Port Controller', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

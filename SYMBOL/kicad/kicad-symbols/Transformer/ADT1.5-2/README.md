@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADT1.5-2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-ADT1.5-2|
 |Hex ID (short code)|hexID|SZKTRADT152|
-|Name|name|ADT1.5-2|
+|name|name|ADT1.5-2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TR', 'kicadSymbolValue': 'ADT1.5-2', 'kicadSymbolFootprint': 'RF_Mini-Circuits:Mini-Circuits_CD636_H4.11mm', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/ADT1.5-2+.pdf', 'kicadSymbolki_keywords': 'Mini-Circuits RF Transformer', 'kicadSymbolki_description': '0.3-225MHz 1:1.5 RF Transformer, Balanced to Balanced, CD636', 'kicadSymbolki_fp_filters': 'Mini?Circuits*CD636*'}]|
 ||||

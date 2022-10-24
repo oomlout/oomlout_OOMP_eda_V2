@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCIMX6Q7CVT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPU_NXP_IMX-MCIMX6Q7CVT|
 |Hex ID (short code)|hexID|SZKCPUNXPIMXMCIMX6Q7CVT|
-|Name|name|MCIMX6Q7CVT|
+|name|name|MCIMX6Q7CVT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCIMX6QP7CVT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCIMX6Q7CVT', 'kicadSymbolFootprint': 'Package_BGA:BGA-624_21.0x21.0mm_Layout25x25_P0.8mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/IMX6DQIEC.pdf', 'kicadSymbolki_keywords': 'Quad-Core ARM Cortex A9 SOC Industrial', 'kicadSymbolki_description': 'i.MX 6Quad Application Processor for Industrial Products, BGA-624', 'kicadSymbolki_fp_filters': 'BGA*21.0x21.0mm*P0.8mm*'}]|
 ||||

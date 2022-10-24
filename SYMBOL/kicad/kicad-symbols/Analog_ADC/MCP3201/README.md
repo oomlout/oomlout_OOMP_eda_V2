@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP3201|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3201|
 |Hex ID (short code)|hexID|SZKANALOGADCMCP321|
-|Name|name|MCP3201|
+|name|name|MCP3201|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP3201', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/21290D.pdf', 'kicadSymbolki_keywords': '12-Bit Differential ADC SPI 1ch', 'kicadSymbolki_description': '2.7V 12-Bit A/D Converter with SPI™ Serial Interface, PDIP-8/SOIC-8/MSOP-8/TSSOP-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm*'}]|
 ||||

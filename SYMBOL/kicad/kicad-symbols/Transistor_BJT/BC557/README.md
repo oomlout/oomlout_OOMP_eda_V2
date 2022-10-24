@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BC557|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC557|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBC557|
-|Name|name|BC557|
+|name|name|BC557|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC557', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/BC556BTA-D.pdf', 'kicadSymbolki_keywords': 'PNP Transistor', 'kicadSymbolki_description': '0.1A Ic, 45V Vce, PNP Small Signal Transistor, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

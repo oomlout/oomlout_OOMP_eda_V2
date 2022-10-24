@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PBO-3-S3.3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_ACDC-PBO-3-S3.3|
 |Hex ID (short code)|hexID|SZKCONPBO3S33|
-|Name|name|PBO-3-S3.3|
+|name|name|PBO-3-S3.3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PBO-3-S3.3', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_CUI_PBO-3-Sxx_THT_Vertical', 'kicadSymbolDatasheet': 'https://www.cui.com/product/resource/pbo-3.pdf', 'kicadSymbolki_keywords': 'ac dc power supply', 'kicadSymbolki_description': '3.3V 0.6A 1.98W miniature AC-DC module-type power supply', 'kicadSymbolki_fp_filters': 'Converter*ACDC*CUI*PBO*3*Sxx*THT*'}]|
 ||||

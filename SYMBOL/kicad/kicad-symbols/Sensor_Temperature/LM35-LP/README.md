@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM35-LP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LM35-LP|
 |Hex ID (short code)|hexID|SZKSENTEMPERATURELM35LP|
-|Name|name|LM35-LP|
+|name|name|LM35-LP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM35-LP', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm35.pdf', 'kicadSymbolki_keywords': 'temperature sensor thermistor', 'kicadSymbolki_description': 'Precision centigrade temperature sensor, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

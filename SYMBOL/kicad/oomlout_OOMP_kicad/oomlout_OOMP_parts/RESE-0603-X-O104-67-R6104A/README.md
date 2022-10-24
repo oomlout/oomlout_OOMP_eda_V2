@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O104-67-R6104A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O104-67-R6104A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO1467R614A|
-|Name|name|RESE-0603-X-O104-67-R6104A|
+|name|name|RESE-0603-X-O104-67-R6104A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O104-67-R6104A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O104-67-R6104A', 'kicadSymbolDatasheet': 'oom.lt/R6104A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6104A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

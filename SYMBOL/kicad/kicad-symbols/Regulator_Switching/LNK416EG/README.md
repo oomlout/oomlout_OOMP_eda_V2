@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LNK416EG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK416EG|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK416EG|
-|Name|name|LNK416EG|
+|name|name|LNK416EG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LNK403EG', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LNK416EG', 'kicadSymbolFootprint': 'Package_SIP:PowerIntegrations_eSIP-7C', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/linkswitch-ph_family_datasheet.pdf', 'kicadSymbolki_keywords': 'LED Driver IC, Single-Stage PFC and Primary-Side Constant Current Control', 'kicadSymbolki_description': 'LinkSwitch-PH Family, 22W Output Power, eSIP-7C', 'kicadSymbolki_fp_filters': 'PowerIntegrations?eSIP?7C*'}]|
 ||||

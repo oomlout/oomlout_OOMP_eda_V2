@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|QSE159|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Optical-QSE159|
 |Hex ID (short code)|hexID|SZKINTERFACEOPTICALQSE159|
-|Name|name|QSE159|
+|name|name|QSE159|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'QSE159', 'kicadSymbolFootprint': 'OptoDevice:ONSemi_QSE15x', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/QSE159-D.pdf', 'kicadSymbolki_keywords': 'opto IR', 'kicadSymbolki_description': 'Plastic Silicon Photosensor', 'kicadSymbolki_fp_filters': '*QSE15*'}]|
 ||||

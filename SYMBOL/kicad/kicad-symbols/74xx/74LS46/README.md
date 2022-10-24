@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS46|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS46|
 |Hex ID (short code)|hexID|SZK74XX74LS46|
-|Name|name|74LS46|
+|name|name|74LS46|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LS47', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS46', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS46', 'kicadSymbolki_keywords': 'TTL DECOD DECOD7 OpenCol', 'kicadSymbolki_description': 'BCD to 7-segment Driver, Open Collector, 15V outputs', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

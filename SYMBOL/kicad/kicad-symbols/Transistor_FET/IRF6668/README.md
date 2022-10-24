@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF6668|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6668|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF6668|
-|Name|name|IRF6668|
+|name|name|IRF6668|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSB028N06NN3', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF6668', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_MN', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irf6668pbf.pdf?fileId=5546d462533600a4015355ec96b91a64', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '55A Id, 80V Vds, 15mOhm Rds, N-Channel MOSFET, DirectFET MN', 'kicadSymbolki_fp_filters': 'DirectFET*MN*'}]|
 ||||

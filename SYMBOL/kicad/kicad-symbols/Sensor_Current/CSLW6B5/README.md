@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CSLW6B5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-CSLW6B5|
 |Hex ID (short code)|hexID|SZKSENCURRENTCSLW6B5|
-|Name|name|CSLW6B5|
+|name|name|CSLW6B5|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CSLW6B1', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CSLW6B5', 'kicadSymbolFootprint': 'Sensor_Current:Honeywell_CSLW', 'kicadSymbolDatasheet': 'https://sensing.honeywell.com/honeywell-sensing-cslw-series-product-sheet-005861-1-en.pdf', 'kicadSymbolki_keywords': 'hall current sensor', 'kicadSymbolki_description': 'Miniature Wired Open-Loop Current Sensors, 5A', 'kicadSymbolki_fp_filters': 'Honeywell*CSLW*'}]|
 ||||

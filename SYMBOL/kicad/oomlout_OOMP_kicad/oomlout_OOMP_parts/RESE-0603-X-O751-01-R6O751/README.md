@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O751-01-R6O751|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O751-01-R6O751|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO7511R6O751|
-|Name|name|RESE-0603-X-O751-01-R6O751|
+|name|name|RESE-0603-X-O751-01-R6O751|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O751-01-R6O751', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O751-01-R6O751', 'kicadSymbolDatasheet': 'oom.lt/R6O751', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6O751;PARTL C-JLCC;C23241;MANUF C-XXXX;0603WAF7500T5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

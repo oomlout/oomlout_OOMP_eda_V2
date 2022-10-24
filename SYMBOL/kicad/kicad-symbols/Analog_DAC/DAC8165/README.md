@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DAC8165|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC8165|
 |Hex ID (short code)|hexID|SZKANALOGDACDAC8165|
-|Name|name|DAC8165|
+|name|name|DAC8165|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DAC8165', 'kicadSymbolFootprint': 'Package_SO:TSSOP-16_4.4x5mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/dac8165.pdf', 'kicadSymbolki_keywords': '14-bit quad DAC voltage reference', 'kicadSymbolki_description': '14-bit quad-channel voltage output DAC with 2.5V internal reference', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x5mm*P0.65mm*'}]|
 ||||

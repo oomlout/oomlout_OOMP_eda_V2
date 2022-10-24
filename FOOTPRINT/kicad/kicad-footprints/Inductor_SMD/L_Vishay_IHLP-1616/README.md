@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Vishay_IHLP-1616|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHLP-1616|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLVISHAYIHLP1616|
-|Name|name|Inductor_SMD : L_Vishay_IHLP-1616|
+|name|name|Inductor_SMD : L_Vishay_IHLP-1616|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Vishay_IHLP-1616', 'description': 'Inductor, Vishay, IHLP series, 4.1mmx4.1mm', 'tags': 'inductor vishay ihlp smd', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Vishay_IHLP-1616.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Vishay_IHLP-1616/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Vishay_IHLP-1616/kicadPcb3d_450.png

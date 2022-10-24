@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCP4308DMN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP4308DMN|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERNCP438DMN|
-|Name|name|NCP4308DMN|
+|name|name|NCP4308DMN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCP4308DMN', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_4x4mm_P0.8mm_EP2.39x2.21mm', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/NCP4308-D.PDF', 'kicadSymbolki_keywords': 'synchronous rectifier controller', 'kicadSymbolki_description': 'Synchronous Rectifier Controller, 4A/8A, 4V UVLO, DFN-8', 'kicadSymbolki_fp_filters': 'DFN*1EP*4x4mm*P0.8mm*EP2.39x2.21mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LF156|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LF156|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALLF156|
-|Name|name|LF156|
+|name|name|LF156|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM741', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LF156', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lf357.pdf', 'kicadSymbolki_keywords': 'single jfet opamp', 'kicadSymbolki_description': 'Single JFET Input Operational Amplifiers, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TSSOP*3x3mm*P0.65mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Conn_01x30_Shielded|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_01x30_Shielded|
 |Hex ID (short code)|hexID|SZKCNGENERICSHEDCONN1X3SHED|
-|Name|name|Conn_01x30_Shielded|
+|name|name|Conn_01x30_Shielded|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Conn_01x30_Shielded', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'Generic shielded connector, single row, 01x30, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_1x??-1SH*'}]|
 ||||

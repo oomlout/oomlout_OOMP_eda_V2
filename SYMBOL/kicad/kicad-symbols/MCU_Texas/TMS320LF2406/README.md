@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TMS320LF2406|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Texas-TMS320LF2406|
 |Hex ID (short code)|hexID|SZKMCUTEXASTMS32LF246|
-|Name|name|TMS320LF2406|
+|name|name|TMS320LF2406|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TMS320LF2406', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TQFP-32_7x7mm_P0.8mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-32_7x7mm_P0.8mm|
 |Hex ID (short code)|hexID|FZKQFPTQFP327X7P8|
-|Name|name|Package_QFP : TQFP-32_7x7mm_P0.8mm|
+|name|name|Package_QFP : TQFP-32_7x7mm_P0.8mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TQFP-32_7x7mm_P0.8mm', 'description': '32-Lead Plastic Thin Quad Flatpack (PT) - 7x7x1.0 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)', 'tags': 'QFP 0.8', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-32_7x7mm_P0.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/TQFP-32_7x7mm_P0.8mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_QFP/TQFP-32_7x7mm_P0.8mm/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L200|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-L200|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARL2|
-|Name|name|L200|
+|name|name|L200|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'L200', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-5_P3.4x3.8mm_StaggerOdd_Lead7.13mm_TabDown', 'kicadSymbolDatasheet': 'http://www.zen22142.zen.co.uk/Circuits/Power/l200.pdf', 'kicadSymbolki_keywords': '2A Regulator Adjustable Positive', 'kicadSymbolki_description': 'Adjustable voltage and current regulator, 2A, 36V', 'kicadSymbolki_fp_filters': 'TO?220*StaggerOdd*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADG419BR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG419BR|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHADG419BR|
-|Name|name|ADG419BR|
+|name|name|ADG419BR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DG419xY', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADG419BR', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADG419.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Single SPDT Monolithic LC²MOS Analog Switch, 25Ohm Ron, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

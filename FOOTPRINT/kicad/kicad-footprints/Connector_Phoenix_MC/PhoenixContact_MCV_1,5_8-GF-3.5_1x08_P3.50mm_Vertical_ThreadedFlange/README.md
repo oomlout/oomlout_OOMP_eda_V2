@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PhoenixContact_MCV_1,5_8-GF-3.5_1x08_P3.50mm_Vertical_ThreadedFlange|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC-PhoenixContact_MCV_1,5_8-GF-3.5_1x08_P3.50mm_Vertical_ThreadedFlange|
 |Hex ID (short code)|hexID|FZKCNPHOENIXMCPHOENIXCONTACTMCV158GF351X8P35VERTICALTHREADEDFLANGE|
-|Name|name|Connector_Phoenix_MC : PhoenixContact_MCV_1,5_8-GF-3.5_1x08_P3.50mm_Vertical_ThreadedFlange|
+|name|name|Connector_Phoenix_MC : PhoenixContact_MCV_1,5_8-GF-3.5_1x08_P3.50mm_Vertical_ThreadedFlange|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PhoenixContact_MCV_1,5_8-GF-3.5_1x08_P3.50mm_Vertical_ThreadedFlange', 'description': 'Generic Phoenix Contact connector footprint for: MCV_1,5/8-GF-3.5; number of pins: 08; pin pitch: 3.50mm; Vertical; threaded flange \|\| order number: 1843282 8A 160V', 'tags': 'phoenix_contact connector MCV_01x08_GF_3.5mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MC.3dshapes/PhoenixContact_MCV_1,5_8-GF-3.5_1x08_P3.50mm_Vertical_ThreadedFlange.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_8-GF-3.5_1x08_P3.50mm_Vertical_ThreadedFlange/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_8-GF-3.5_1x08_P3.50mm_Vertical_ThreadedFlange/kicadPcb3d_450.png

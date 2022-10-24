@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|WC1602A|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-WC1602A|
 |Hex ID (short code)|hexID|FZKDIWC162A|
-|Name|name|Display : WC1602A|
+|name|name|Display : WC1602A|
 |Footprint Kicad|footprintKicadDetails|{'name': 'WC1602A', 'description': 'LCD 16x2 http://www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf', 'tags': 'LCD 16x2 Alphanumeric 16pin', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display.3dshapes/WC1602A.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/WC1602A/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Display/WC1602A/kicadPcb3d_450.png

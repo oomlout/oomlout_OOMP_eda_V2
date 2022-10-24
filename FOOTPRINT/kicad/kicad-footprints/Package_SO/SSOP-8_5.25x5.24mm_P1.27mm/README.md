@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SSOP-8_5.25x5.24mm_P1.27mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-8_5.25x5.24mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKSOSS8525X524P127|
-|Name|name|Package_SO : SSOP-8_5.25x5.24mm_P1.27mm|
+|name|name|Package_SO : SSOP-8_5.25x5.24mm_P1.27mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SSOP-8_5.25x5.24mm_P1.27mm', 'description': 'SSOP, 8 Pin (http://www.fujitsu.com/ca/en/Images/MB85RS2MT-DS501-00023-1v0-E.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'SSOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SSOP-8_5.25x5.24mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSOP-8_5.25x5.24mm_P1.27mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/SSOP-8_5.25x5.24mm_P1.27mm/kicadPcb3d_450.png

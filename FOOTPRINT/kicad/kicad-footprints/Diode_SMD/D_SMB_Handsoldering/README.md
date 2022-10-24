@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|D_SMB_Handsoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMB_Handsoldering|
 |Hex ID (short code)|hexID|FZKDIODESMDSMBHANDSOLDERING|
-|Name|name|Diode_SMD : D_SMB_Handsoldering|
+|name|name|Diode_SMD : D_SMB_Handsoldering|
 |Footprint Kicad|footprintKicadDetails|{'name': 'D_SMB_Handsoldering', 'description': 'Diode SMB (DO-214AA) Handsoldering', 'tags': 'Diode SMB (DO-214AA) Handsoldering', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMB.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SMB_Handsoldering/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SMB_Handsoldering/kicadPcb3d_450.png

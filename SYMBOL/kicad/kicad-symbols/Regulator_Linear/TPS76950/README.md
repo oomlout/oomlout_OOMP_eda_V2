@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS76950|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS76950|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTPS7695|
-|Name|name|TPS76950|
+|name|name|TPS76950|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS76912', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS76950', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps769.pdf', 'kicadSymbolki_keywords': 'Ultra Low Power Fixed LDO 100mA 5V', 'kicadSymbolki_description': 'Ultra Low Power 100mA Low Drop Out Regulator 5.0V, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

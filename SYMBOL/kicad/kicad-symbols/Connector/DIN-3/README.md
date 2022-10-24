@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DIN-3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DIN-3|
 |Hex ID (short code)|hexID|SZKCNDIN3|
-|Name|name|DIN-3|
+|name|name|DIN-3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DIN-3', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf', 'kicadSymbolki_keywords': 'circular DIN connector', 'kicadSymbolki_description': '3-pin DIN connector', 'kicadSymbolki_fp_filters': 'DIN*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega324PV-10M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega324PV-10M|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA324PV1M|
-|Name|name|ATmega324PV-10M|
+|name|name|ATmega324PV-10M|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATmega164PV-10M', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega324PV-10M', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42743-ATmega324P_Datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR PicoPower', 'kicadSymbolki_description': '10MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, JTAG, QFN-44', 'kicadSymbolki_fp_filters': 'QFN*1EP*7x7mm*P0.5mm*'}]|
 ||||

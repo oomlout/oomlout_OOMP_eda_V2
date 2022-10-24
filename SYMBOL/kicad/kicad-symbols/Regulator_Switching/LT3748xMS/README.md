@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT3748xMS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3748xMS|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLT3748XMS|
-|Name|name|LT3748xMS|
+|name|name|LT3748xMS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT3748xMS', 'kicadSymbolFootprint': 'Package_SO:Linear_MSOP-12-16_3x4mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/3748fb.pdf', 'kicadSymbolki_keywords': 'isolated flyback controller', 'kicadSymbolki_description': '100V Isolated Flyback Controller, MSOP-16', 'kicadSymbolki_fp_filters': 'Linear*MSOP*3x4mm*P0.5mm*'}]|
 ||||

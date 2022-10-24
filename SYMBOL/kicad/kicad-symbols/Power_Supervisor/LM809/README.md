@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM809|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Supervisor-LM809|
 |Hex ID (short code)|hexID|SZKPOWERSUPERVISORLM89|
-|Name|name|LM809|
+|name|name|LM809|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM809', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm809.pdf', 'kicadSymbolki_keywords': 'reset supervisor', 'kicadSymbolki_description': 'Microprocessor Reset (active-low) Circuit, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

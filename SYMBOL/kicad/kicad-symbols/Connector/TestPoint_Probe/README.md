@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TestPoint_Probe|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-TestPoint_Probe|
 |Hex ID (short code)|hexID|SZKCNTPPROBE|
-|Name|name|TestPoint_Probe|
+|name|name|TestPoint_Probe|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TP', 'kicadSymbolValue': 'TestPoint_Probe', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'test point tp', 'kicadSymbolki_description': 'test point (alternative probe-style design)', 'kicadSymbolki_fp_filters': 'Pin* Test*'}]|
 ||||

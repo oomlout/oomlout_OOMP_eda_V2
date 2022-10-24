@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|UL865|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_GSM-UL865|
 |Hex ID (short code)|hexID|SZKGSMUL865|
-|Name|name|UL865|
+|name|name|UL865|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'UL865', 'kicadSymbolFootprint': 'RF_GSM:Telit_xL865', 'kicadSymbolDatasheet': 'http://www.telit.com/fileadmin/user_upload/products/Downloads/3G/Telit_UL865_Hardware_User_Guide_r8.pdf', 'kicadSymbolki_keywords': 'gsm 3g gprs umts hspa', 'kicadSymbolki_description': 'Telit 3G Module (GSM/GPRS/UMTS/HSPA), 3.8V, Digital voice and SMS, I2S, USB 2.0, UART, SPI. Manufacturer package', 'kicadSymbolki_fp_filters': '*Telit*xL865*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|R_MELF_MMB-0207|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_MELF_MMB-0207|
 |Hex ID (short code)|hexID|FZKRESISTORSMRMELFB27|
-|Name|name|Resistor_SMD : R_MELF_MMB-0207|
+|name|name|Resistor_SMD : R_MELF_MMB-0207|
 |Footprint Kicad|footprintKicadDetails|{'name': 'R_MELF_MMB-0207', 'description': 'Resistor, MELF, MMB-0207, http://www.vishay.com/docs/28713/melfprof.pdf', 'tags': 'MELF Resistor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_MELF_MMB-0207.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_MELF_MMB-0207/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_MELF_MMB-0207/kicadPcb3d_450.png

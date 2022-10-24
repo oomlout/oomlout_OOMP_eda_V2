@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKSONVSON11EP3X3P5EP165X24THERMALVIAS|
-|Name|name|Package_SON : VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias|
+|name|name|Package_SON : VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias', 'description': 'VSON 10 Thermal on 11 3x3mm Pitch 0.5mm http://chip.tomsk.ru/chip/chipdoc.nsf/Package/D8A64DD165C2AAD9472579400024FC41!OpenDocument', 'tags': 'VSON 10 Thermal on 11 3x3mm Pitch 0.5mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SON/VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias/kicadPcb3d_450.png

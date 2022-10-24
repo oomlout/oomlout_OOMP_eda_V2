@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX98306xDT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MAX98306xDT|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOMAX9836XDT|
-|Name|name|MAX98306xDT|
+|name|name|MAX98306xDT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX98306xDT', 'kicadSymbolFootprint': 'Package_DFN_QFN:TDFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX98306.pdf', 'kicadSymbolki_keywords': 'Class-D stereo amplifier', 'kicadSymbolki_description': 'Stereo 3.7 W Class D Amplifier, TDFN-14', 'kicadSymbolki_fp_filters': 'TDFN*1EP*3x3mm*P0.4mm*'}]|
 ||||

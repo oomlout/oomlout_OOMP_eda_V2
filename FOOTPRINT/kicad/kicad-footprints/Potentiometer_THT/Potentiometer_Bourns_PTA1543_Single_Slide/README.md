@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Potentiometer_Bourns_PTA1543_Single_Slide|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_PTA1543_Single_Slide|
 |Hex ID (short code)|hexID|FZKPPOTENTIOMETERBOURNSPTA1543SINGLESLIDE|
-|Name|name|Potentiometer_THT : Potentiometer_Bourns_PTA1543_Single_Slide|
+|name|name|Potentiometer_THT : Potentiometer_Bourns_PTA1543_Single_Slide|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Bourns_PTA1543_Single_Slide', 'description': 'Bourns single-gang slide potentiometer, 15.0mm travel, https://www.bourns.com/docs/Product-Datasheets/pta.pdf', 'tags': 'Bourns single-gang slide potentiometer 15.0mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_PTA1543_Single_Slide.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Bourns_PTA1543_Single_Slide/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Bourns_PTA1543_Single_Slide/kicadPcb3d_450.png

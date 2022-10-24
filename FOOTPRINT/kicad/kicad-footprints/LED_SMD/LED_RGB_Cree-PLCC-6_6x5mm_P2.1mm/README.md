@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm|
 |Hex ID (short code)|hexID|FZKLSMLRGBCREEPLCC66X5P21|
-|Name|name|LED_SMD : LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm|
+|name|name|LED_SMD : LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm', 'description': 'http://www.farnell.com/datasheets/2003905.pdf', 'tags': 'LED RGB PLCC-6 CLP6C-FBK', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm/kicadPcb3d_450.png

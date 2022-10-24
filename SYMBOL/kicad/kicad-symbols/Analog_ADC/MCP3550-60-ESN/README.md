@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP3550-60-ESN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3550-60-ESN|
 |Hex ID (short code)|hexID|SZKANALOGADCMCP3556ESN|
-|Name|name|MCP3550-60-ESN|
+|name|name|MCP3550-60-ESN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP3550-60-ESN', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/21950c.pdf', 'kicadSymbolki_keywords': 'Sigma-Delta ADC Converter 22bit SPI 1ch', 'kicadSymbolki_description': 'Single Delta-Sigma 22bit Analog to Digital Converter, SPI Interface, 60Hz Rejection, MSOP-8', 'kicadSymbolki_fp_filters': 'SO*'}]|
 ||||

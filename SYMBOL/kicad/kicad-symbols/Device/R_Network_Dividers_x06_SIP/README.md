@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|R_Network_Dividers_x06_SIP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-R_Network_Dividers_x06_SIP|
 |Hex ID (short code)|hexID|SZKDEVICERNETWORKDIVIDERSX6SIP|
-|Name|name|R_Network_Dividers_x06_SIP|
+|name|name|R_Network_Dividers_x06_SIP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'RN', 'kicadSymbolValue': 'R_Network_Dividers_x06_SIP', 'kicadSymbolFootprint': 'Resistor_THT:R_Array_SIP8', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/31509/csc.pdf', 'kicadSymbolki_keywords': 'R network divider topology', 'kicadSymbolki_description': '6 voltage divider network, dual terminator, SIP package', 'kicadSymbolki_fp_filters': 'R?Array?SIP*'}]|
 ||||

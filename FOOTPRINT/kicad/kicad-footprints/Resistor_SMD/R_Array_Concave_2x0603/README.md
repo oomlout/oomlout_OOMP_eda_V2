@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|R_Array_Concave_2x0603|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Array_Concave_2x0603|
 |Hex ID (short code)|hexID|FZKRESISTORSMRARRAYCONCAVE2X63|
-|Name|name|Resistor_SMD : R_Array_Concave_2x0603|
+|name|name|Resistor_SMD : R_Array_Concave_2x0603|
 |Footprint Kicad|footprintKicadDetails|{'name': 'R_Array_Concave_2x0603', 'description': 'Thick Film Chip Resistor Array, Wave soldering, Vishay CRA06P (see cra06p.pdf)', 'tags': 'resistor array', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Array_Concave_2x0603.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Array_Concave_2x0603/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Array_Concave_2x0603/kicadPcb3d_450.png

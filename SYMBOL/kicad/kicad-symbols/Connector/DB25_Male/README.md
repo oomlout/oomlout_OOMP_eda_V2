@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DB25_Male|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DB25_Male|
 |Hex ID (short code)|hexID|SZKCNDB25MALE|
-|Name|name|DB25_Male|
+|name|name|DB25_Male|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DB25_Male', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'male D-SUB connector', 'kicadSymbolki_description': '25-pin male D-SUB connector', 'kicadSymbolki_fp_filters': 'DSUB*Male*'}]|
 ||||

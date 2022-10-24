@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Lamp|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Lamp|
 |Hex ID (short code)|hexID|SZKDEVICELAMP|
-|Name|name|Lamp|
+|name|name|Lamp|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'LA', 'kicadSymbolValue': 'Lamp', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'lamp', 'kicadSymbolki_description': 'Lamp'}]|
 ||||

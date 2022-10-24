@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|OLED-128O064D|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-OLED-128O064D|
 |Hex ID (short code)|hexID|FZKDIOL128O64D|
-|Name|name|Display : OLED-128O064D|
+|name|name|Display : OLED-128O064D|
 |Footprint Kicad|footprintKicadDetails|{'name': 'OLED-128O064D', 'description': '128x64 OLED display', 'tags': 'display oled', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display.3dshapes/OLED-128O064D.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/OLED-128O064D/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Display/OLED-128O064D/kicadPcb3d_450.png

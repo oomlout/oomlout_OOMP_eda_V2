@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Ohmmeter|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Ohmmeter|
 |Hex ID (short code)|hexID|SZKDEVICEOHETER|
-|Name|name|Ohmmeter|
+|name|name|Ohmmeter|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'MES', 'kicadSymbolValue': 'Ohmmeter', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'ohmmeter resistance', 'kicadSymbolki_description': 'Ohmmeter'}]|
 ||||

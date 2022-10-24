@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|R_Pack04_SIP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-R_Pack04_SIP|
 |Hex ID (short code)|hexID|SZKDEVICERPACK4SIP|
-|Name|name|R_Pack04_SIP|
+|name|name|R_Pack04_SIP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'RN', 'kicadSymbolValue': 'R_Pack04_SIP', 'kicadSymbolFootprint': 'Resistor_THT:R_Array_SIP8', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/31509/csc.pdf', 'kicadSymbolki_keywords': 'R network parallel topology isolated', 'kicadSymbolki_description': '4 resistor network, parallel topology, SIP package', 'kicadSymbolki_fp_filters': 'R?Array?SIP*'}]|
 ||||

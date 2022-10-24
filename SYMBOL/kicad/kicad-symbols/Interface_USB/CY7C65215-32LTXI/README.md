@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CY7C65215-32LTXI|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-CY7C65215-32LTXI|
 |Hex ID (short code)|hexID|SZKINTERFACEUCY7C6521532LTXI|
-|Name|name|CY7C65215-32LTXI|
+|name|name|CY7C65215-32LTXI|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CY7C65215-32LTXI', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm', 'kicadSymbolDatasheet': 'http://www.cypress.com/file/129956/download', 'kicadSymbolki_keywords': 'USB-Serial single channel bridge', 'kicadSymbolki_description': 'USB-Serial Dual Channel Bridge with CapSense Full-Speed 12 Mbps, +1.71V to +5.5V VDD, UART/I2C/SPI/RS232/RS422/JTAG, QFN-32', 'kicadSymbolki_fp_filters': 'QFN*1EP*5x5mm*P0.5mm*'}]|
 ||||

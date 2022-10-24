@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLV9004xRUCR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV9004xRUCR|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALTLV94XRUCR|
-|Name|name|TLV9004xRUCR|
+|name|name|TLV9004xRUCR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV9004xRUCR', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PX2QFN-14', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tlv9004.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'quad opamp', 'kicadSymbolki_description': 'Low-Power, Quad-Operational Amplifiers, Texas S-PX2QFN-14', 'kicadSymbolki_fp_filters': 'Texas*S*PX2QFN*'}]|
 ||||

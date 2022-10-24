@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC5VTX150T-FF1156|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VTX150T-FF1156|
 |Hex ID (short code)|hexID|SZKFPGAXILINXVIRTEX5XC5VTX15TFF1156|
-|Name|name|XC5VTX150T-FF1156|
+|name|name|XC5VTX150T-FF1156|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC5VTX150T-FF1156', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Virtex 5 TXT 150 XC5VTX150T-FF1156'}]|
 ||||

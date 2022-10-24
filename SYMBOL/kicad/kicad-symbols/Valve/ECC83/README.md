@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ECC83|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Valve-ECC83|
 |Hex ID (short code)|hexID|SZKVAECC83|
-|Name|name|ECC83|
+|name|name|ECC83|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ECC81', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ECC83', 'kicadSymbolFootprint': 'Valve:Valve_Noval_P', 'kicadSymbolDatasheet': 'http://www.r-type.org/pdfs/ecc83.pdf', 'kicadSymbolki_keywords': 'triode valve', 'kicadSymbolki_description': 'double triode', 'kicadSymbolki_fp_filters': 'VALVE*NOVAL*P*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC6268xS6-10|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6268xS6-10|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALLTC6268XS61|
-|Name|name|LTC6268xS6-10|
+|name|name|LTC6268xS6-10|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC6268xS6-10', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-6', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/626810f.pdf', 'kicadSymbolki_keywords': 'single opamp transimpedance', 'kicadSymbolki_description': '4GHz, Ultra-Low Bias Current, FET Input, Op Amp, TSOT-23', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
 ||||

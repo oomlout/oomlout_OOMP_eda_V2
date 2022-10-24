@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ACS758xCB-150B-PSS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS758xCB-150B-PSS|
 |Hex ID (short code)|hexID|SZKSENCURRENTACS758XCB15BPSS|
-|Name|name|ACS758xCB-150B-PSS|
+|name|name|ACS758xCB-150B-PSS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ACS758xCB-150B-PSS', 'kicadSymbolFootprint': 'Sensor_Current:Allegro_CB_PSS', 'kicadSymbolDatasheet': 'http://www.allegromicro.com/~/media/Files/Datasheets/ACS758-Datasheet.ashx?la=en', 'kicadSymbolki_keywords': 'hall effect current monitor sensor isolated', 'kicadSymbolki_description': '±150A Bidirectional Hall-Effect Current Sensor, +5.0V supply, 13.3mV/A, CB-5 PSS', 'kicadSymbolki_fp_filters': 'Allegro*CB*PSS*'}]|
 ||||

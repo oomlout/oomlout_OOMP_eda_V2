@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|GNDS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-GNDS|
 |Hex ID (short code)|hexID|SZKPOWERGNDS|
-|Name|name|GNDS|
+|name|name|GNDS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'GNDS', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "GNDS" , signal ground'}]|
 ||||

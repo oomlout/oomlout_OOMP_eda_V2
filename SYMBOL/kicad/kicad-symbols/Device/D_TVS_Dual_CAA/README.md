@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_TVS_Dual_CAA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_TVS_Dual_CAA|
 |Hex ID (short code)|hexID|SZKDEVICEDTVSDUALCAA|
-|Name|name|D_TVS_Dual_CAA|
+|name|name|D_TVS_Dual_CAA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_TVS_Dual_CAA', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'diode TVS thyrector', 'kicadSymbolki_description': 'Bidirectional dual transient-voltage-suppression diode, center on pin 1'}]|
 ||||

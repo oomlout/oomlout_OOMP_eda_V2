@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TSSP58038SS1XB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Proximity-TSSP58038SS1XB|
 |Hex ID (short code)|hexID|SZKSENPROXIMITYTSSP5838SS1XB|
-|Name|name|TSSP58038SS1XB|
+|name|name|TSSP58038SS1XB|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TSSP58P38', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TSSP58038SS1XB', 'kicadSymbolFootprint': 'OptoDevice:Vishay_MINICAST-3Pin', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/82740/tssp58038ss1xb.pdf', 'kicadSymbolki_keywords': 'opto IR receiver light barrier', 'kicadSymbolki_description': 'IR Receiver Module for Light Barrier Systems', 'kicadSymbolki_fp_filters': 'Vishay*MINICAST*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BDW93|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BDW93|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBDW93|
-|Name|name|BDW93|
+|name|name|BDW93|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BDW93', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/BDW93C-D.pdf', 'kicadSymbolki_keywords': 'Darlington NPN Transistor', 'kicadSymbolki_description': '12A Ic, 45V Vce, Power Darlington NPN Transistor, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

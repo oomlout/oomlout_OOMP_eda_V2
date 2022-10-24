@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DS1210|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-DS1210|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTDS121|
-|Name|name|DS1210|
+|name|name|DS1210|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DS1210', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/DS1210.pdf', 'kicadSymbolki_keywords': 'Nonvolatile, RAM, Controller, Battery, Power', 'kicadSymbolki_description': 'Nonvolatile Controller, PDIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

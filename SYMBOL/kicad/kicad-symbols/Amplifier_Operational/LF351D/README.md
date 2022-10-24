@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LF351D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LF351D|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALLF351D|
-|Name|name|LF351D|
+|name|name|LF351D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LF351D', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/lf351.pdf', 'kicadSymbolki_keywords': 'Single OpAmp JFET', 'kicadSymbolki_description': 'Wide bandwidth single JFET operational amplifier, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

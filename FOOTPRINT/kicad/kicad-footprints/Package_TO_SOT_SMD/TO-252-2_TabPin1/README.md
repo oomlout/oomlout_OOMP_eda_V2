@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-252-2_TabPin1|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-252-2_TabPin1|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMTO2522TABPIN1|
-|Name|name|Package_TO_SOT_SMD : TO-252-2_TabPin1|
+|name|name|Package_TO_SOT_SMD : TO-252-2_TabPin1|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-252-2_TabPin1', 'description': 'TO-252-2, tab to pin 1 https://www.wolfspeed.com/media/downloads/87/CSD01060.pdf', 'tags': 'TO-252-2 diode', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-252-2.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-252-2_TabPin1/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-252-2_TabPin1/kicadPcb3d_450.png

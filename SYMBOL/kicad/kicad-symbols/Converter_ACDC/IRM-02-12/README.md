@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRM-02-12|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-02-12|
 |Hex ID (short code)|hexID|SZKCONIRM212|
-|Name|name|IRM-02-12|
+|name|name|IRM-02-12|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IRM-02-3.3', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'IRM-02-12', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_MeanWell_IRM-02-xx_THT', 'kicadSymbolDatasheet': 'https://www.meanwell.com/Upload/PDF/IRM-02/IRM-02-SPEC.PDF', 'kicadSymbolki_keywords': 'Miniature Module-type Power Supply MeanWell', 'kicadSymbolki_description': '12V, 167mA, 2W, Isolated, AC-DC, IRM02', 'kicadSymbolki_fp_filters': 'Converter*ACDC*MeanWell*IRM*02*THT*'}]|
 ||||

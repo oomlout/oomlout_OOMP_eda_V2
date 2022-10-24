@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MIC5219YM5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5219YM5|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMIC5219YM5|
-|Name|name|MIC5219YM5|
+|name|name|MIC5219YM5|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MIC5205YM5', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MIC5219YM5', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/MIC5219-500mA-Peak-Output-LDO-Regulator-DS20006021A.pdf', 'kicadSymbolki_keywords': '500mA ultra-low-noise LDO linear voltage regulator adjustable positive', 'kicadSymbolki_description': '500mA low dropout linear regulator, adjustable output, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

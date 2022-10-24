@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRS21064|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-IRS21064|
 |Hex ID (short code)|hexID|SZKDRIVERFETIRS2164|
-|Name|name|IRS21064|
+|name|name|IRS21064|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IR21064', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IRS21064', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irs2106.pdf?fileId=5546d462533600a4015356763aa527a3', 'kicadSymbolki_keywords': 'Gate Driver', 'kicadSymbolki_description': 'High and Low Side Driver, 600V, 290/600mA, PDIP-14/SOIC-14', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm*'}]|
 ||||

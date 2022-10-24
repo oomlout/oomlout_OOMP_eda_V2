@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O304-01-R6O304|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O304-01-R6O304|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO341R6O34|
-|Name|name|RESE-0603-X-O304-01-R6O304|
+|name|name|RESE-0603-X-O304-01-R6O304|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O304-01-R6O304', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O304-01-R6O304', 'kicadSymbolDatasheet': 'oom.lt/R6O304', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6O304;PARTL C-JLCC;C23024;MANUF C-XXXX;0603WAF3003T5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

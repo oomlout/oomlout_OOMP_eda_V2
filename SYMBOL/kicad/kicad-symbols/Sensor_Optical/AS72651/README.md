@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AS72651|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-AS72651|
 |Hex ID (short code)|hexID|SZKSENOPTICALAS72651|
-|Name|name|AS72651|
+|name|name|AS72651|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AS72651', 'kicadSymbolFootprint': 'Package_LGA:AMS_LGA-20_4.7x4.5mm_P0.65mm', 'kicadSymbolDatasheet': 'https://ams.com/documents/20143/36005/AS7265x_DS000612_1-00.pdf/08051c8a-a7f6-6231-7993-2d3fe0bf38b8', 'kicadSymbolki_keywords': 'Smart Spectral Sensor', 'kicadSymbolki_description': 'Smart 18-Channel VIS+NIR Spectral_ID Sensor with Electronic Shutter, LGA-20', 'kicadSymbolki_fp_filters': 'AMS?LGA*4.7x4.5mm*P0.65mm*'}]|
 ||||

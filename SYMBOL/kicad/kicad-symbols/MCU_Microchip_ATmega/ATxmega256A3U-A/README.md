@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATxmega256A3U-A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega256A3U-A|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATXMEGA256A3UA|
-|Name|name|ATxmega256A3U-A|
+|name|name|ATxmega256A3U-A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATxmega64A3U-A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATxmega256A3U-A', 'kicadSymbolFootprint': 'Package_QFP:TQFP-64_14x14mm_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8386-8-and-16-bit-AVR-Microcontroller-ATxmega64A3U-128A3U-192A3U-256A3U_datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8/16bit Microcontroller XMegaAVR', 'kicadSymbolki_description': '32MHz, 256kB Flash, 8kB Boot, 16kB SRAM, 4kB EEPROM, JTAG, USB, TQFP-64', 'kicadSymbolki_fp_filters': 'TQFP*14x14mm*P0.8mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_SPDT_MSM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_SPDT_MSM|
 |Hex ID (short code)|hexID|SZKSWITCHSWSPDTMSM|
-|Name|name|SW_SPDT_MSM|
+|name|name|SW_SPDT_MSM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_SPDT_MSM', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'switch spdt single-pole double-throw ON-OFF-ON', 'kicadSymbolki_description': 'Switch, single pole double throw, center OFF position'}]|
 ||||

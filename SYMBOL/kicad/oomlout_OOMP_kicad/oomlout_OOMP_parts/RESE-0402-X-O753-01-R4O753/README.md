@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O753-01-R4O753|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O753-01-R4O753|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO7531R4O753|
-|Name|name|RESE-0402-X-O753-01-R4O753|
+|name|name|RESE-0402-X-O753-01-R4O753|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O753-01-R4O753', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O753-01-R4O753', 'kicadSymbolDatasheet': 'oom.lt/R4O753', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R4O753;PARTL C-JLCC;C25798;MANUF C-XXXX;0402WGF7502TCE;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

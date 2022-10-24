@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS153|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS153|
 |Hex ID (short code)|hexID|SZK74XX74LS153|
-|Name|name|74LS153|
+|name|name|74LS153|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS153', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS153', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL Mux4', 'kicadSymbolki_description': 'Dual Multiplexer 4 to 1', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IR25602S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-IR25602S|
 |Hex ID (short code)|hexID|SZKDRIVERFETIR2562S|
-|Name|name|IR25602S|
+|name|name|IR25602S|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IR25602S', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/ir25602.pdf?fileId=5546d462533600a4015355c9d6c216eb', 'kicadSymbolki_keywords': 'Gate Driver', 'kicadSymbolki_description': 'Half-Bridge Driver, 600V, 210/360mA, PDIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

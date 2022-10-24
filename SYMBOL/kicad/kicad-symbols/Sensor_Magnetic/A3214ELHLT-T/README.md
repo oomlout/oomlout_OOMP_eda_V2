@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|A3214ELHLT-T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-A3214ELHLT-T|
 |Hex ID (short code)|hexID|SZKSENMAGNETICA3214ELHLTT|
-|Name|name|A3214ELHLT-T|
+|name|name|A3214ELHLT-T|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'A1301KLHLT-T', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'A3214ELHLT-T', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23W', 'kicadSymbolDatasheet': 'http://www.allegromicro.com/~/media/Files/Datasheets/A3213-4-Datasheet.ashx', 'kicadSymbolki_keywords': 'hall switch', 'kicadSymbolki_description': 'Linear Hall Effect Sensor, SOT-23W', 'kicadSymbolki_fp_filters': 'SOT?23W*'}]|
 ||||

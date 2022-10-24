@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XLR3_AudioJack2_Combo_Ground|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-XLR3_AudioJack2_Combo_Ground|
 |Hex ID (short code)|hexID|SZKCNXLR3AUDIOJ2COMBOGROUND|
-|Name|name|XLR3_AudioJack2_Combo_Ground|
+|name|name|XLR3_AudioJack2_Combo_Ground|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'XLR3_AudioJack2_Combo_Ground', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'xlr connector', 'kicadSymbolki_description': 'XLR (Male or Female) and Audio Jack (Mono / TS) Combo Connector, Discrete Ground Pin', 'kicadSymbolki_fp_filters': 'Jack*XLR*6.35mm*'}]|
 ||||

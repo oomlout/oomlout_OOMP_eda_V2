@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM337L_TO92|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM337L_TO92|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM337LTO92|
-|Name|name|LM337L_TO92|
+|name|name|LM337L_TO92|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM337L_TO92', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm337l.pdf', 'kicadSymbolki_keywords': 'Adjustable Voltage Regulator 100mA Negative', 'kicadSymbolki_description': 'Negative 100mA 35V Adjustable Linear Regulator, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

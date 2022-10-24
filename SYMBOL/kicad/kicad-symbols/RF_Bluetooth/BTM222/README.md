@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|BTM222|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Bluetooth-BTM222|
 |Hex ID (short code)|hexID|SZKRFBLUETOOTHBTM222|
-|Name|name|BTM222|
+|name|name|BTM222|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BTM222', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.tme.eu/de/Document/b90358c53cd65c9b10d2914f55812666/btm222_datasheet.pdf', 'kicadSymbolki_keywords': 'Bluetooth BT SPP Module', 'kicadSymbolki_description': 'Bluetooth SPP Module, UART, Class 1'}]|
 ||||

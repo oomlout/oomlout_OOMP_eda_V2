@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Symbol_HighVoltage_Type2_CopperTop_Big|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_HighVoltage_Type2_CopperTop_Big|
 |Hex ID (short code)|hexID|FZKSZSYHIGHVOLTAGETYPE2CTOPBIG|
-|Name|name|Symbol : Symbol_HighVoltage_Type2_CopperTop_Big|
+|name|name|Symbol : Symbol_HighVoltage_Type2_CopperTop_Big|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Symbol_HighVoltage_Type2_CopperTop_Big', 'description': 'Symbol, HighVoltage, Type2, Copper Top, Big,', 'tags': 'Symbol, HighVoltage, Type2, Copper Top, Big,', 'attributeType': None, 'pins': {}}|
 ||||

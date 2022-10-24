@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MIC29303WU|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC29303WU|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMIC2933WU|
-|Name|name|MIC29303WU|
+|name|name|MIC29303WU|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MIC29153WU', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MIC29303WU', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-5_TabPin3', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/20005685a.pdf', 'kicadSymbolki_keywords': '3A LDO linear voltage regulator adjustable positive', 'kicadSymbolki_description': '3A low dropout linear regulator, adjustable output, TO-263', 'kicadSymbolki_fp_filters': 'TO*263*'}]|
 ||||

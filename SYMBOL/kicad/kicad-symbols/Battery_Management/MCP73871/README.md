@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP73871|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-MCP73871|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTMCP73871|
-|Name|name|MCP73871|
+|name|name|MCP73871|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP73871', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm', 'kicadSymbolDatasheet': 'http://www.mouser.com/ds/2/268/22090a-52174.pdf', 'kicadSymbolki_keywords': 'battery charger lithium', 'kicadSymbolki_description': 'Single cell, Li-Ion/Li-Po charge management controller', 'kicadSymbolki_fp_filters': 'QFN*4x4mm*P0.5mm*'}]|
 ||||

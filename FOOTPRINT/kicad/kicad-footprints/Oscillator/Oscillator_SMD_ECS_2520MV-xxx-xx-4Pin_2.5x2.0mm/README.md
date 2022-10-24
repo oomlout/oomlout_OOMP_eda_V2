@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm|
 |Hex ID (short code)|hexID|FZKOCSOCSSMECS252MVXXXXX4PIN25X2|
-|Name|name|Oscillator : Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm|
+|name|name|Oscillator : Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm', 'description': 'Miniature Crystal Clock Oscillator ECS 2520MV series, https://www.ecsxtal.com/store/pdf/ECS-2520MV.pdf', 'tags': 'Miniature Crystal Clock Oscillator ECS 2520MV series SMD SMT HCMOS', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm/kicadPcb3d_450.png

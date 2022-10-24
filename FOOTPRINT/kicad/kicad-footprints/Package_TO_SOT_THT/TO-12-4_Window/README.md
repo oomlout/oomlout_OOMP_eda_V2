@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-12-4_Window|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-12-4_Window|
 |Hex ID (short code)|hexID|FZKSOTTO124WINDOW|
-|Name|name|Package_TO_SOT_THT : TO-12-4_Window|
+|name|name|Package_TO_SOT_THT : TO-12-4_Window|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-12-4_Window', 'description': 'TO-12-4_Window, Window', 'tags': 'TO-12-4_Window Window', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-12-4_Window.wrl', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-12-4_Window/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-12-4_Window/kicadPcb3d_450.png

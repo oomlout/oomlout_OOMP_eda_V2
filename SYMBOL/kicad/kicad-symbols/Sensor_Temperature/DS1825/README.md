@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DS1825|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS1825|
 |Hex ID (short code)|hexID|SZKSENTEMPERATUREDS1825|
-|Name|name|DS1825|
+|name|name|DS1825|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX31826', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DS1825', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/DS1825.pdf', 'kicadSymbolki_keywords': '1Wire OneWire Maxim Dallas', 'kicadSymbolki_description': 'Programmable Resolution 1-Wire Digital Thermometer With 4-Bit ID MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
 ||||

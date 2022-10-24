@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega169P-16MC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega169P-16MC|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA169P16MC|
-|Name|name|ATmega169P-16MC|
+|name|name|ATmega169P-16MC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATmega169PV-8MC', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega169P-16MC', 'kicadSymbolFootprint': 'Package_DFN_QFN:Microchip_DRQFN-64-1EP_7x7mm_P0.65mm_EP4.1x4.1mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc8018.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR LCD PicoPower', 'kicadSymbolki_description': '16MHz, 16kB Flash, 1kB SRAM, 512B EEPROM, DRQFN-64', 'kicadSymbolki_fp_filters': 'Microchip*DRQFN*1EP*7x7mm*P0.65mm*'}]|
 ||||

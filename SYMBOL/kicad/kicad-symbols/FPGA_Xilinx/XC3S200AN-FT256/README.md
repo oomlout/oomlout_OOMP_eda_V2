@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC3S200AN-FT256|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3S200AN-FT256|
 |Hex ID (short code)|hexID|SZKFPGAXILINXXC3S2ANFT256|
-|Name|name|XC3S200AN-FT256|
+|name|name|XC3S200AN-FT256|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC3S200AN-FT256', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_description': 'BGA256/1mm', 'kicadSymbolki_fp_filters': 'BGA256'}]|
 ||||

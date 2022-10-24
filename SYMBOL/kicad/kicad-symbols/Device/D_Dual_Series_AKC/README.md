@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Dual_Series_AKC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Dual_Series_AKC|
 |Hex ID (short code)|hexID|SZKDEVICEDDUALSERIESAKC|
-|Name|name|D_Dual_Series_AKC|
+|name|name|D_Dual_Series_AKC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Dual_Series_AKC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Dual diode, anode/cathode/center'}]|
 ||||

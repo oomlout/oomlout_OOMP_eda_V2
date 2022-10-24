@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AudioJack4_Ground|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-AudioJack4_Ground|
 |Hex ID (short code)|hexID|SZKCNAUDIOJ4GROUND|
-|Name|name|AudioJack4_Ground|
+|name|name|AudioJack4_Ground|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'AudioJack4_Ground', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'audio jack receptacle stereo headphones TRRS connector', 'kicadSymbolki_description': 'Audio Jack, 4 Poles (TRRS), Grounded Sleeve', 'kicadSymbolki_fp_filters': 'Jack*'}]|
 ||||

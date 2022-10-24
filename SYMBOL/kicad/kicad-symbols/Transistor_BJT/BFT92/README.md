@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BFT92|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BFT92|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBFT92|
-|Name|name|BFT92|
+|name|name|BFT92|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BFT92', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BFT92_CNV.pdf', 'kicadSymbolki_keywords': 'RF 5GHz NPN Transistor', 'kicadSymbolki_description': '0.025A Ic, 15V Vce, 5GHz Wideband PNP Transistor, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

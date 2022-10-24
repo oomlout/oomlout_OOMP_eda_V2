@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|7SegmentLED_LTS6760_LTS6780|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-7SegmentLED_LTS6760_LTS6780|
 |Hex ID (short code)|hexID|FZKDI7S7SLLTS676LTS678|
-|Name|name|Display_7Segment : 7SegmentLED_LTS6760_LTS6780|
+|name|name|Display_7Segment : 7SegmentLED_LTS6760_LTS6780|
 |Footprint Kicad|footprintKicadDetails|{'name': '7SegmentLED_LTS6760_LTS6780', 'description': '7-Segment Display, LTS67x0, http://optoelectronics.liteon.com/upload/download/DS30-2001-355/S6760jd.pdf', 'tags': '7Segment LED LTS6760 LTS6780', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/7SegmentLED_LTS6760_LTS6780.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/7SegmentLED_LTS6760_LTS6780/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Display_7Segment/7SegmentLED_LTS6760_LTS6780/kicadPcb3d_450.png

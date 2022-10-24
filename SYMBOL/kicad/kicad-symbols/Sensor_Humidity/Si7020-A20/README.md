@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Si7020-A20|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Humidity-Si7020-A20|
 |Hex ID (short code)|hexID|SZKSENHUMIDITYSI72A2|
-|Name|name|Si7020-A20|
+|name|name|Si7020-A20|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Si7020-A20', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-6-1EP_3x3mm_P1mm_EP1.5x2.4mm', 'kicadSymbolDatasheet': 'https://www.silabs.com/documents/public/data-sheets/Si7020-A20.pdf', 'kicadSymbolki_keywords': 'I2C Humidity Temperature Sensor', 'kicadSymbolki_description': 'I2C Humidity and Temperature Sensor, DFN-6', 'kicadSymbolki_fp_filters': 'DFN*1EP*3x3mm*P1mm*'}]|
 ||||

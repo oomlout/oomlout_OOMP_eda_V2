@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MountingHole_4.3mm_M4_ISO7380_Pad|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_4.3mm_M4_ISO7380_Pad|
 |Hex ID (short code)|hexID|FZKHOLHOL43M4ISO738PAD|
-|Name|name|MountingHole : MountingHole_4.3mm_M4_ISO7380_Pad|
+|name|name|MountingHole : MountingHole_4.3mm_M4_ISO7380_Pad|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_4.3mm_M4_ISO7380_Pad', 'description': 'Mounting Hole 4.3mm, M4, ISO7380', 'tags': 'mounting hole 4.3mm m4 iso7380', 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_4.3mm_M4_ISO7380_Pad/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_4.3mm_M4_ISO7380_Pad/kicadPcb3d_450.png

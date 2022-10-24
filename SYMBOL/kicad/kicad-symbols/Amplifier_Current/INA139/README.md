@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|INA139|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA139|
 |Hex ID (short code)|hexID|SZKAMPLIFIERCURRENTINA139|
-|Name|name|INA139|
+|name|name|INA139|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'INA138', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'INA139', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ina169.pdf', 'kicadSymbolki_keywords': 'current sense shunt monitor', 'kicadSymbolki_description': 'High-Side Measurement Current Shunt Monitor, 40V, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

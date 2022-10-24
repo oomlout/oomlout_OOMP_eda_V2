@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DG417LDJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-DG417LDJ|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHDG417LDJ|
-|Name|name|DG417LDJ|
+|name|name|DG417LDJ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DG417LDJ', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/DG417L-DG419L.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Single SPST 3V Logic Compatible CMOS Analog Switch, normally ON, 35Ohm Ron, with Vlogic, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IEXP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IEXP|
 |Hex ID (short code)|hexID|SZKSIMULATIONSPICEIEXP|
-|Name|name|IEXP|
+|name|name|IEXP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'I', 'kicadSymbolValue': 'IEXP', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolSpice_Netlist_Enabled': 'Y', 'kicadSymbolSpice_Primitive': 'I', 'kicadSymbolSpice_Model': 'exp(0 1 2n 30n 60n 40n)', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Current source, exponential'}]|
 ||||

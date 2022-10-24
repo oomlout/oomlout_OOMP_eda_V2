@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_Kingbright_APFA3010_3x1.5mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Kingbright_APFA3010_3x1.5mm_Horizontal|
 |Hex ID (short code)|hexID|FZKLSMLKINGBRIGHTAPFA313X15HORIZONTAL|
-|Name|name|LED_SMD : LED_Kingbright_APFA3010_3x1.5mm_Horizontal|
+|name|name|LED_SMD : LED_Kingbright_APFA3010_3x1.5mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_Kingbright_APFA3010_3x1.5mm_Horizontal', 'description': 'LED RGB, APFA3010, http://www.kingbrightusa.com/images/catalog/SPEC/APFA3010LSEEZGKQBKC.pdf', 'tags': 'LED RGB APFA3010 KINGBRIGHT 3x1.5mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Kingbright_APFA3010_3x1.5mm_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Kingbright_APFA3010_3x1.5mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Kingbright_APFA3010_3x1.5mm_Horizontal/kicadPcb3d_450.png

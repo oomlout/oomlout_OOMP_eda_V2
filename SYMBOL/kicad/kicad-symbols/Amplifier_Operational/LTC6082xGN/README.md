@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC6082xGN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6082xGN|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALLTC682XGN|
-|Name|name|LTC6082xGN|
+|name|name|LTC6082xGN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC6082xGN', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/60812fd.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'quad opamp', 'kicadSymbolki_description': 'Precision Quad CMOS Rail-to-Rail Input/Output Amplifiers, SSOP-16', 'kicadSymbolki_fp_filters': 'SSOP*3.9x4.9mm*P0.635mm* SOIC*3.9x9.9mm*P1.27mm* QSOP*3.9x4.9mm*P0.635mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|X0202MN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Triac_Thyristor-X0202MN|
 |Hex ID (short code)|hexID|SZKTRIACTHYRISTORX22MN|
-|Name|name|X0202MN|
+|name|name|X0202MN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'X0202MN', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/x02.pdf', 'kicadSymbolki_keywords': 'thyristor', 'kicadSymbolki_description': '1.25A Ion, 600 Voff, Silicon Controlled Rectifier (Thyristor), SOT-223', 'kicadSymbolki_fp_filters': 'SOT?223*'}]|
 ||||

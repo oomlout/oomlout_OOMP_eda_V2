@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC3487N|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_LineDriver-MC3487N|
 |Hex ID (short code)|hexID|SZKINTERFACELINEDRIVERMC3487N|
-|Name|name|MC3487N|
+|name|name|MC3487N|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC3487N', 'kicadSymbolFootprint': 'Package_DIP:DIP-16_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/mc3487.pdf', 'kicadSymbolki_keywords': 'Four independent differential line drivers', 'kicadSymbolki_description': 'Four independent differential line drivers, DIP-16', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

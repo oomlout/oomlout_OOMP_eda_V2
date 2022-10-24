@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS63060|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS63060|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS636|
-|Name|name|TPS63060|
+|name|name|TPS63060|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS63060', 'kicadSymbolFootprint': 'Package_SON:Texas_S-PWSON-N10_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps63060.pdf', 'kicadSymbolki_keywords': 'Buck-Boost adjustable converter', 'kicadSymbolki_description': 'Buck-Boost Converter, 2.5-12V Input Voltage, 2-A Switch Current, Adjustable 2.5-8V Output Voltage, S-PWSON-N10', 'kicadSymbolki_fp_filters': 'Texas*S*PWSON*N10*'}]|
 ||||

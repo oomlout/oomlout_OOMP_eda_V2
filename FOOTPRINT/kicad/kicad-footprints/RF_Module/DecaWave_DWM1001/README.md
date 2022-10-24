@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DecaWave_DWM1001|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-DecaWave_DWM1001|
 |Hex ID (short code)|hexID|FZKRFMODECAWAVEDWM11|
-|Name|name|RF_Module : DecaWave_DWM1001|
+|name|name|RF_Module : DecaWave_DWM1001|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DecaWave_DWM1001', 'description': 'https://www.decawave.com/sites/default/files/dwm1001_datasheet.pdf', 'tags': 'UWB module', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/DecaWave_DWM1001.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||

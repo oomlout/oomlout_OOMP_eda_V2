@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OSHW-Logo_11.4x12mm_SilkScreen|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo_11.4x12mm_SilkScreen|
 |Hex ID (short code)|hexID|FZKSZOSHWL114X12SILKSCREEN|
-|Name|name|Symbol : OSHW-Logo_11.4x12mm_SilkScreen|
+|name|name|Symbol : OSHW-Logo_11.4x12mm_SilkScreen|
 |Footprint Kicad|footprintKicadDetails|{'name': 'OSHW-Logo_11.4x12mm_SilkScreen', 'description': 'Open Source Hardware Logo', 'tags': 'Logo OSHW', 'attributeType': None, 'pins': {}}|
 ||||

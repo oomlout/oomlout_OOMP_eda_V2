@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATtiny441-MM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny441-MM|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATTINYATTINY441|
-|Name|name|ATtiny441-MM|
+|name|name|ATtiny441-MM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATtiny441-MM', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-20-1EP_3x3mm_P0.45mm_EP1.6x1.6mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8495-8-bit-AVR-Microcontrollers-ATtiny441-ATtiny841_Datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller tinyAVR', 'kicadSymbolki_description': '16MHz, 4kB Flash, 256B SRAM, 256B EEPROM, ADC, ACI, debugWIRE, QFN-20', 'kicadSymbolki_fp_filters': 'QFN*1EP*3x3mm*P0.45mm*'}]|
 ||||

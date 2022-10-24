@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BF244C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BF244C|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBF244C|
-|Name|name|BF244C|
+|name|name|BF244C|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BF244A', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BF244C', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'https://media.digikey.com/pdf/Data%20Sheets/Fairchild%20PDFs/BF244x.pdf', 'kicadSymbolki_keywords': 'N-Channel FET Transistor Low Voltage', 'kicadSymbolki_description': '10mA Id, 30V Vgs, N-Channel FET Transistor, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

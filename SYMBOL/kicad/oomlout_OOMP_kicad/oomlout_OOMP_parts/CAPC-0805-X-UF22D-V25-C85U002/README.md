@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0805-X-UF22D-V25-C85U002|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF22D-V25-C85U002|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XUF22DV25C85U2|
-|Name|name|CAPC-0805-X-UF22D-V25-C85U002|
+|name|name|CAPC-0805-X-UF22D-V25-C85U002|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0805-X-UF22D-V25-C85U002', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0805-X-UF22D-V25-C85U002', 'kicadSymbolDatasheet': 'oom.lt/C85U002', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C85U002;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

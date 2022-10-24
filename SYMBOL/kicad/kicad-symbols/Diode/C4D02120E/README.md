@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C4D02120E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-C4D02120E|
 |Hex ID (short code)|hexID|SZKDIODEC4D212E|
-|Name|name|C4D02120E|
+|name|name|C4D02120E|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CSD01060E', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'C4D02120E', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-2_TabPin1', 'kicadSymbolDatasheet': 'https://www.wolfspeed.com/media/downloads/128/C4D02120E.pdf', 'kicadSymbolki_keywords': 'sic diode', 'kicadSymbolki_description': '1200V, 2A, SiC Schottky Diode, TO-252', 'kicadSymbolki_fp_filters': 'TO?252*TabPin1*'}]|
 ||||

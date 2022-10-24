@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC68000FN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPU_NXP_68000-MC68000FN|
 |Hex ID (short code)|hexID|SZKCPUNXP68MC68FN|
-|Name|name|MC68000FN|
+|name|name|MC68000FN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC68000FN', 'kicadSymbolFootprint': 'Package_LCC:PLCC-68', 'kicadSymbolDatasheet': 'http://www.nxp.com/files/32bit/doc/ref_manual/MC68000UM.pdf', 'kicadSymbolki_keywords': 'MPRO', 'kicadSymbolki_description': 'Microprocessor, 16-bit bus', 'kicadSymbolki_fp_filters': 'PLCC*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TC4421|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-TC4421|
 |Hex ID (short code)|hexID|SZKDRIVERFETTC4421|
-|Name|name|TC4421|
+|name|name|TC4421|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TC4421', 'kicadSymbolFootprint': 'Package_DIP:DIP-8-N6_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20001420F.pdf', 'kicadSymbolki_keywords': 'MOSFET IGBT driver', 'kicadSymbolki_description': '9A High-Speed inverting MOSFET Driver', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

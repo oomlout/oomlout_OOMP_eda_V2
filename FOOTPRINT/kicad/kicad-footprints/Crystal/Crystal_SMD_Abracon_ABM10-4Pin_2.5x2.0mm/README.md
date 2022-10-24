@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Crystal_SMD_Abracon_ABM10-4Pin_2.5x2.0mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_Abracon_ABM10-4Pin_2.5x2.0mm|
 |Hex ID (short code)|hexID|FZKXXSMABRACONABM14PIN25X2|
-|Name|name|Crystal : Crystal_SMD_Abracon_ABM10-4Pin_2.5x2.0mm|
+|name|name|Crystal : Crystal_SMD_Abracon_ABM10-4Pin_2.5x2.0mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_Abracon_ABM10-4Pin_2.5x2.0mm', 'description': 'Abracon Miniature Ceramic Smd Crystal ABM10 http://www.abracon.com/Resonators/ABM10.pdf', 'tags': 'SMD SMT crystal Abracon ABM10', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_Abracon_ABM10-4Pin_2.5x2.0mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_Abracon_ABM10-4Pin_2.5x2.0mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_Abracon_ABM10-4Pin_2.5x2.0mm/kicadPcb3d_450.png

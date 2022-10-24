@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLV5627CPW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-TLV5627CPW|
 |Hex ID (short code)|hexID|SZKANALOGDACTLV5627CPW|
-|Name|name|TLV5627CPW|
+|name|name|TLV5627CPW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TLV5627CD', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV5627CPW', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tlv5627.pdf', 'kicadSymbolki_keywords': 'DAC 4CH 8bit', 'kicadSymbolki_description': '4-Channel DAC, 8bit, w/ Power Down, TSSOP-16'}]|
 ||||

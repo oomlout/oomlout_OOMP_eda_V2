@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|-BATT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power--BATT|
 |Hex ID (short code)|hexID|SZKPOWERBATT|
-|Name|name|-BATT|
+|name|name|-BATT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': '-BATT', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag battery', 'kicadSymbolki_description': 'Power symbol creates a global label with name "-BATT"'}]|
 ||||

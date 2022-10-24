@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM25085SD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM25085SD|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM2585SD|
-|Name|name|LM25085SD|
+|name|name|LM25085SD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM25085SD', 'kicadSymbolFootprint': 'Package_SON:WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm25085.pdf', 'kicadSymbolki_keywords': 'buck switching controller', 'kicadSymbolki_description': '42V Constant On-Time PFET Buck Switching Controller, WSON-8', 'kicadSymbolki_fp_filters': 'WSON*1EP*3x3mm*P0.5mm*EP1.6x2.0mm*'}]|
 ||||

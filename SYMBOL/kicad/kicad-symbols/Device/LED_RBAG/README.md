@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_RBAG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_RBAG|
 |Hex ID (short code)|hexID|SZKDEVICELRBAG|
-|Name|name|LED_RBAG|
+|name|name|LED_RBAG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_RBAG', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED RGB diode', 'kicadSymbolki_description': 'RGB LED, red/blue/anode/green', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

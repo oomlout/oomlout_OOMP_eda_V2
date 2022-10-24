@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IS485|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Optical-IS485|
 |Hex ID (short code)|hexID|SZKINTERFACEOPTICALIS485|
-|Name|name|IS485|
+|name|name|IS485|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IS485', 'kicadSymbolFootprint': 'OptoDevice:Sharp_IS485', 'kicadSymbolDatasheet': 'https://media.digikey.com/pdf/Data%20Sheets/Sharp%20PDFs/is485,486_e.pdf', 'kicadSymbolki_keywords': 'opto receiver amplifier light detector OPIC', 'kicadSymbolki_description': 'Built-in Amplifier Type OPIC Light Detector', 'kicadSymbolki_fp_filters': 'Sharp*IS485*'}]|
 ||||

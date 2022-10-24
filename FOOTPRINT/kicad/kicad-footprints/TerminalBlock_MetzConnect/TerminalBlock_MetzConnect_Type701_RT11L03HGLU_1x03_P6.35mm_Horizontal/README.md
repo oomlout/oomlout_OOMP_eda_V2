@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TerminalBlock_MetzConnect_Type701_RT11L03HGLU_1x03_P6.35mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_Type701_RT11L03HGLU_1x03_P6.35mm_Horizontal|
 |Hex ID (short code)|hexID|FZKTBMETZCONNECTTBMETZCONNECTTYPE71RT11L3HGLU1X3P635HORIZONTAL|
-|Name|name|TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_Type701_RT11L03HGLU_1x03_P6.35mm_Horizontal|
+|name|name|TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_Type701_RT11L03HGLU_1x03_P6.35mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TerminalBlock_MetzConnect_Type701_RT11L03HGLU_1x03_P6.35mm_Horizontal', 'description': 'terminal block Metz Connect Type701_RT11L03HGLU, 3 pins, pitch 6.35mm, size 19x12.5mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_317011_RT11LxxHGLU_OFF-022798U.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect', 'tags': 'THT terminal block Metz Connect Type701_RT11L03HGLU pitch 6.35mm size 19x12.5mm^2 drill 1.3mm pad 2.5mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type701_RT11L03HGLU_1x03_P6.35mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

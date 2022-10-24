@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AK5393VS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-AK5393VS|
 |Hex ID (short code)|hexID|SZKAUDIOAK5393VS|
-|Name|name|AK5393VS|
+|name|name|AK5393VS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AK5393VS', 'kicadSymbolFootprint': 'Package_SO:SOIC-28W_7.5x18.7mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.akm.com/akm/en/file/datasheet/AK5393VS.pdf', 'kicadSymbolki_keywords': 'audio adc 2ch 24bit 96kHz', 'kicadSymbolki_description': 'Enhanced Dual Bit Sigma-Delta 96kHz 24-Bit ADC, SOIC-28', 'kicadSymbolki_fp_filters': 'SOIC*7.5x18.7mm*P1.27mm*'}]|
 ||||

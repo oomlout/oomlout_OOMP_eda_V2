@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|QNPN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-pspice-QNPN|
 |Hex ID (short code)|hexID|SZKPSPICEQNPN|
-|Name|name|QNPN|
+|name|name|QNPN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'QNPN', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Bipolar transistor symbol for simulation only'}]|
 ||||

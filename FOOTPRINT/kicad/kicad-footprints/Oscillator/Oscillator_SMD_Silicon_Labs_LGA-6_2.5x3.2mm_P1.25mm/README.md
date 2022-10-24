@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm|
 |Hex ID (short code)|hexID|FZKOCSOCSSMSILICONLABSLGA625X32P125|
-|Name|name|Oscillator : Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm|
+|name|name|Oscillator : Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm', 'description': 'Silicon_Labs  LGA, 6 Pin (https://www.silabs.com/documents/public/data-sheets/si512-13.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'Silicon_Labs LGA NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm/kicadPcb3d_450.png

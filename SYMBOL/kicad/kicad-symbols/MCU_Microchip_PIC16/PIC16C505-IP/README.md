@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16C505-IP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16C505-IP|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16C55IP|
-|Name|name|PIC16C505-IP|
+|name|name|PIC16C505-IP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC16F505-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16C505-IP', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41236E.pdf', 'kicadSymbolki_keywords': 'ROM-Based 8bit Microcontroller', 'kicadSymbolki_description': '1024W ROM, 72B SRAM, DIP14', 'kicadSymbolki_fp_filters': 'PDIP* DIP*'}]|
 ||||

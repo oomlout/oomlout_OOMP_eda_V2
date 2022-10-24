@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_NF_ETAL_P3000_HandSoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P3000_HandSoldering|
 |Hex ID (short code)|hexID|FZKTRSMTRNFETALP3HANDSOLDERING|
-|Name|name|Transformer_SMD : Transformer_NF_ETAL_P3000_HandSoldering|
+|name|name|Transformer_SMD : Transformer_NF_ETAL_P3000_HandSoldering|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_NF_ETAL_P3000_HandSoldering', 'description': 'NF-Reansformer, ETAL, P3000, SMD, Handsoldering,', 'tags': 'NF-Reansformer ETAL P3000 SMD Handsoldering ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_NF_ETAL_P3000_HandSoldering.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

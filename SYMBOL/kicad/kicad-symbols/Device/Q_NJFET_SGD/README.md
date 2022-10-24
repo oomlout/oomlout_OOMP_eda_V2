@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Q_NJFET_SGD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Q_NJFET_SGD|
 |Hex ID (short code)|hexID|SZKDEVICEQNJFETSGD|
-|Name|name|Q_NJFET_SGD|
+|name|name|Q_NJFET_SGD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Q_NJFET_SGD', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'transistor NJFET N-JFET', 'kicadSymbolki_description': 'N-JFET transistor, source/gate/drain'}]|
 ||||

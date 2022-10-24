@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Valve_Mini_P|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Valve-Valve_Mini_P|
 |Hex ID (short code)|hexID|FZKVAVAMP|
-|Name|name|Valve : Valve_Mini_P|
+|name|name|Valve : Valve_Mini_P|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Valve_Mini_P', 'description': 'Valve mini P', 'tags': 'Valve mini P', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Valve.3dshapes/Valve_Mini_P.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

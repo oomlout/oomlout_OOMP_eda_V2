@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM1881|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Video-LM1881|
 |Hex ID (short code)|hexID|SZKVIDEOLM1881|
-|Name|name|LM1881|
+|name|name|LM1881|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM1881', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

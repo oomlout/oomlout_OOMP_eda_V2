@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TSDP343xx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Optical-TSDP343xx|
 |Hex ID (short code)|hexID|SZKINTERFACEOPTICALTSDP343XX|
-|Name|name|TSDP343xx|
+|name|name|TSDP343xx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TSDP341xx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TSDP343xx', 'kicadSymbolFootprint': 'OptoDevice:Vishay_MOLD-3Pin', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/82667/tsdp341.pdf', 'kicadSymbolki_keywords': 'opto IR receiver', 'kicadSymbolki_description': 'IR Receiver Modules for Data Transmission', 'kicadSymbolki_fp_filters': 'Vishay*MOLD*'}]|
 ||||

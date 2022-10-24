@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MT48LC16M16A2P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_RAM-MT48LC16M16A2P|
 |Hex ID (short code)|hexID|SZKMEMORYRAMMT48LC16M16A2P|
-|Name|name|MT48LC16M16A2P|
+|name|name|MT48LC16M16A2P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MT48LC16M16A2TG', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MT48LC16M16A2P', 'kicadSymbolFootprint': 'Package_SO:TSOP-II-54_22.2x10.16mm_P0.8mm', 'kicadSymbolDatasheet': 'https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/256mb_sdr.pdf', 'kicadSymbolki_keywords': 'SDRAM Synchronous DRAM PC100 PC133 256Mb 16Mbx16 MEMORY', 'kicadSymbolki_description': '256M – (16M x 16 bit) Synchronous DRAM (SDRAM), TSOP-II-54', 'kicadSymbolki_fp_filters': 'TSOP?II*22.2x10.16mm*P0.8mm*'}]|
 ||||

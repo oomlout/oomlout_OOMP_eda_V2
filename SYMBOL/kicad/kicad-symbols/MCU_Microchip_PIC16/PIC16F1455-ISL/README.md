@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F1455-ISL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1455-ISL|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F1455ISL|
-|Name|name|PIC16F1455-ISL|
+|name|name|PIC16F1455-ISL|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC16F1455-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F1455-ISL', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller Low Power', 'kicadSymbolki_description': 'PIC16F1454, 8192W FLASH, 1024B SRAM, PDIP-14', 'kicadSymbolki_fp_filters': 'DIP* PDIP* SO*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB_C_Receptacle_GCT_USB4115-03-C|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_GCT_USB4115-03-C|
 |Hex ID (short code)|hexID|FZKCNUUCRECEPTACLEGCTU41153C|
-|Name|name|Connector_USB : USB_C_Receptacle_GCT_USB4115-03-C|
+|name|name|Connector_USB : USB_C_Receptacle_GCT_USB4115-03-C|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB_C_Receptacle_GCT_USB4115-03-C', 'description': 'USB TYPE C, VERT RCPT PCB, SMT, https://gct.co/files/drawings/usb4115.pdf', 'tags': 'USB C Type-C Receptacle SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_GCT_USB4115-03-C.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_GCT_USB4115-03-C/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_GCT_USB4115-03-C/kicadPcb3d_450.png

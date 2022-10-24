@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|SARA-U280|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_GSM-SARA-U280|
 |Hex ID (short code)|hexID|SZKGSMSARAU28|
-|Name|name|SARA-U280|
+|name|name|SARA-U280|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SARA-U201', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SARA-U280', 'kicadSymbolFootprint': 'RF_GSM:ublox_SARA-G3_LGA-96', 'kicadSymbolDatasheet': 'https://www.u-blox.com/sites/default/files/SARA-U2_DataSheet_(UBX-13005287).pdf', 'kicadSymbolki_keywords': 'GSM HSPA 2G 3G', 'kicadSymbolki_description': 'Ublox HSPA GSM Quad-Band Communication Module, AT Command Set, Designed for America, LGA-96', 'kicadSymbolki_fp_filters': 'ublox*SARA*'}]|
 ||||

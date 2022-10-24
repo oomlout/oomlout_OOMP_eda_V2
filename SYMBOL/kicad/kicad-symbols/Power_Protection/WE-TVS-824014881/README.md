@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|WE-TVS-824014881|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-WE-TVS-824014881|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONWETVS82414881|
-|Name|name|WE-TVS-824014881|
+|name|name|WE-TVS-824014881|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'RCLAMP3328P', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'WE-TVS-824014881', 'kicadSymbolFootprint': 'Package_DFN_QFN:UDFN-9_1.0x3.8mm_P0.5mm', 'kicadSymbolDatasheet': 'https://katalog.we-online.de/pbs/datasheet/824014881.pdf', 'kicadSymbolki_keywords': 'usb esd protection suppression transient', 'kicadSymbolki_description': 'TVS Diode Array, 1.2V Standoff, 8 Channels, UDFN-9', 'kicadSymbolki_fp_filters': 'UDFN*1.0x3.8mm*P0.5mm*'}]|
 ||||

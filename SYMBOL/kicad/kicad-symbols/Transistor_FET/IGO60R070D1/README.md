@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IGO60R070D1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IGO60R070D1|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIGO6R7D1|
-|Name|name|IGO60R070D1|
+|name|name|IGO60R070D1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IGO60R070D1', 'kicadSymbolFootprint': 'Package_SO:Infineon_PG-DSO-20-85', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-IGO60R070D1-DataSheet-v02_01-EN.pdf?fileId=5546d46265f064ff016685f053216514', 'kicadSymbolki_keywords': 'N-Channel GaN MOSFET', 'kicadSymbolki_description': '31A Id, 600V Vds, 70mOhm, N-Channel GaN MOSFET, PD-DSO-20-85', 'kicadSymbolki_fp_filters': 'Infineon*PG*DSO*85*'}]|
 ||||

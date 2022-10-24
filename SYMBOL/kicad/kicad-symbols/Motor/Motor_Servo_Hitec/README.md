@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Motor_Servo_Hitec|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_Hitec|
 |Hex ID (short code)|hexID|SZKMOTORMOTORSERVOHITEC|
-|Name|name|Motor_Servo_Hitec|
+|name|name|Motor_Servo_Hitec|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'Motor_Servo', 'kicadSymbolReference': 'M', 'kicadSymbolValue': 'Motor_Servo_Hitec', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://forums.parallax.com/uploads/attachments/46831/74481.png', 'kicadSymbolki_keywords': 'Servo Motor', 'kicadSymbolki_description': 'Servo Motor (HiTec connector)', 'kicadSymbolki_fp_filters': 'PinHeader*P2.54mm*'}]|
 ||||

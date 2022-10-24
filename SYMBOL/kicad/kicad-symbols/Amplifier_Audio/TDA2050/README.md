@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TDA2050|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA2050|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOTDA25|
-|Name|name|TDA2050|
+|name|name|TDA2050|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TDA2030', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDA2050', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/cd00000131.pdf', 'kicadSymbolki_keywords': 'audio amplifier', 'kicadSymbolki_description': '32W Hi-Fi Audio Amplifier, TO-220-5', 'kicadSymbolki_fp_filters': 'TO*220*StaggerOdd*'}]|
 ||||

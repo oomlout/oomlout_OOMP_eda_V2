@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PMEG6030EP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-PMEG6030EP|
 |Hex ID (short code)|hexID|SZKDIODEPMEG63EP|
-|Name|name|PMEG6030EP|
+|name|name|PMEG6030EP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PMEG4050EP', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'PMEG6030EP', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-128', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/PMEG6030EP.pdf', 'kicadSymbolki_keywords': 'forward voltage diode', 'kicadSymbolki_description': '60V, 3A low Vf MEGA Schottky barrier rectifier, SOD-128', 'kicadSymbolki_fp_filters': 'D*SOD?128*'}]|
 ||||

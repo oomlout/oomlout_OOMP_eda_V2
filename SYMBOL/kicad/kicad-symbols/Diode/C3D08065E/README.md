@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C3D08065E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-C3D08065E|
 |Hex ID (short code)|hexID|SZKDIODEC3D865E|
-|Name|name|C3D08065E|
+|name|name|C3D08065E|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CSD01060E', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'C3D08065E', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-2_TabPin1', 'kicadSymbolDatasheet': 'https://www.wolfspeed.com/media/downloads/839/C3D08065E.pdf', 'kicadSymbolki_keywords': 'sic diode', 'kicadSymbolki_description': '650V, 8A, SiC Schottky Diode, TO-252', 'kicadSymbolki_fp_filters': 'TO?252*TabPin1*'}]|
 ||||

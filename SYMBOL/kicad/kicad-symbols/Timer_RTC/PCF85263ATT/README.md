@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PCF85263ATT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer_RTC-PCF85263ATT|
 |Hex ID (short code)|hexID|SZKTIMERRTCPCF85263ATT|
-|Name|name|PCF85263ATT|
+|name|name|PCF85263ATT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PCF85263ATT', 'kicadSymbolFootprint': 'Package_SO:TSSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/PCF85263A.pdf', 'kicadSymbolki_keywords': 'RTC battery I2C', 'kicadSymbolki_description': 'Tiny Real-Time Clock/calendar with alarm function, battery switch-over, time stamp input, I2C bus, TSSOP-8', 'kicadSymbolki_fp_filters': 'TSSOP*3x3mm*P0.65mm*'}]|
 ||||

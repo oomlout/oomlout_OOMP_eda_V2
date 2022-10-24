@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCS20074D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20074D|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALNCS274D|
-|Name|name|NCS20074D|
+|name|name|NCS20074D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NCS4325', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCS20074D', 'kicadSymbolFootprint': 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/NCS20071-D.PDF', 'kicadSymbolki_keywords': 'quad rail-to-rail output opamp vfa', 'kicadSymbolki_description': 'Quad, 2.8V/µs, Rail-to-Rail Output, SOIC-14', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm*'}]|
 ||||

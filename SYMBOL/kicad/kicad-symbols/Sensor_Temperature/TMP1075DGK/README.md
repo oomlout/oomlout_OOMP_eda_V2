@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TMP1075DGK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP1075DGK|
 |Hex ID (short code)|hexID|SZKSENTEMPERATURETMP175DGK|
-|Name|name|TMP1075DGK|
+|name|name|TMP1075DGK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TMP1075DGK', 'kicadSymbolFootprint': 'Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/gpn/tmp1075', 'kicadSymbolki_keywords': 'temperature sensor I2C single channel', 'kicadSymbolki_description': 'I2C-bus digital temperature sensor and thermal watchdog, VSSOP-8', 'kicadSymbolki_fp_filters': 'VSSOP*3.0x3.0mm*P0.65mm*'}]|
 ||||

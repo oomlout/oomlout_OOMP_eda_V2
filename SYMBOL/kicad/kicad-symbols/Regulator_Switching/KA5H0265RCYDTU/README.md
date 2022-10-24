@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|KA5H0265RCYDTU|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-KA5H0265RCYDTU|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGKA5H265RCYDTU|
-|Name|name|KA5H0265RCYDTU|
+|name|name|KA5H0265RCYDTU|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'KA5H0265RCYDTU', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:ONSemi_TO-220-5L_Forming', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/KA5L0265R-D.PDF', 'kicadSymbolki_keywords': 'SMPS Controller AC-DC', 'kicadSymbolki_description': 'KA5H0265RCTU, 100kHz SMPS Controller w/ Soft Start, AC-DC, TO-220F-5L(Forming)', 'kicadSymbolki_fp_filters': '*TO*220*5L*'}]|
 ||||

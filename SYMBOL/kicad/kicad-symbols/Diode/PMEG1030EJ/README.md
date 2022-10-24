@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PMEG1030EJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-PMEG1030EJ|
 |Hex ID (short code)|hexID|SZKDIODEPMEG13EJ|
-|Name|name|PMEG1030EJ|
+|name|name|PMEG1030EJ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PMEG2005EJ', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'PMEG1030EJ', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-323F', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/PMEG1030EH_EJ.pdf', 'kicadSymbolki_keywords': 'forward voltage diode', 'kicadSymbolki_description': '10V, 3A ultra low Vf MEGA Schottky barrier rectifier, SOD-323F', 'kicadSymbolki_fp_filters': 'D*SOD?323F*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LVC3G07|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-74LVC3G07|
 |Hex ID (short code)|hexID|SZK74XGXX74LVC3G7|
-|Name|name|74LVC3G07|
+|name|name|74LVC3G07|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LVC3G07', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf', 'kicadSymbolki_keywords': 'Triple Buff Open Drain LVC CMOS', 'kicadSymbolki_description': 'Triple Buffer w/ Open Drain, Low-Voltage CMOS', 'kicadSymbolki_fp_filters': 'SSOP* VSSOP*'}]|
 ||||

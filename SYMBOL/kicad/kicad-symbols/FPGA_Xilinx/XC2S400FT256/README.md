@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC2S400FT256|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2S400FT256|
 |Hex ID (short code)|hexID|SZKFPGAXILINXXC2S4FT256|
-|Name|name|XC2S400FT256|
+|name|name|XC2S400FT256|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC2S400FT256', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

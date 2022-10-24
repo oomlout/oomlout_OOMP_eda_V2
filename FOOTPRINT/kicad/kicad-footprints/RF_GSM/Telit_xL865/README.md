@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Telit_xL865|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_GSM-Telit_xL865|
 |Hex ID (short code)|hexID|FZKGSMTELITXL865|
-|Name|name|RF_GSM : Telit_xL865|
+|name|name|RF_GSM : Telit_xL865|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Telit_xL865', 'description': 'Telit xL865 familly footprint, http://www.telit.com/fileadmin/user_upload/products/Downloads/3G/Telit_UL865_Hardware_User_Guide_r8.pdf ', 'tags': 'xL865 gsm umts', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_GSM.3dshapes/Telit_xL865.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||

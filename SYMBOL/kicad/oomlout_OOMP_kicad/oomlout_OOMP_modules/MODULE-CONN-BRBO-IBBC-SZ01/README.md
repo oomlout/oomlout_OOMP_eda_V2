@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|MODULE-CONN-BRBO-IBBC-SZ01|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_modules-MODULE-CONN-BRBO-IBBC-SZ01|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPMOSMOCONNBRBOIBBCSZ1|
-|Name|name|MODULE-CONN-BRBO-IBBC-SZ01|
+|name|name|MODULE-CONN-BRBO-IBBC-SZ01|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MODULE-CONN-BRBO-IBBC-SZ01', 'kicadSymbolFootprint': 'oomlout_OOMP_modules:MODULE-CONN-BRBO-IBBC-SZ01', 'kicadSymbolDatasheet': 'oom.lt/MCBI1'}]|
 ||||

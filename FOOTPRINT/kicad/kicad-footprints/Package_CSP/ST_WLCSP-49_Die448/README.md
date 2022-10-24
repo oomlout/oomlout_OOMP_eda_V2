@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|ST_WLCSP-49_Die448|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-49_Die448|
 |Hex ID (short code)|hexID|FZKCSPSTWLCSP49DIE448|
-|Name|name|Package_CSP : ST_WLCSP-49_Die448|
+|name|name|Package_CSP : ST_WLCSP-49_Die448|
 |Footprint Kicad|footprintKicadDetails|{'name': 'ST_WLCSP-49_Die448', 'description': 'WLCSP-49, 7x7 raster, 3.277x3.109mm package, pitch 0.4mm; see section 7.4 of http://www.st.com/resource/en/datasheet/stm32f071v8.pdf', 'tags': 'BGA 49 0.4', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/ST_WLCSP-49_Die448.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/ST_WLCSP-49_Die448/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_CSP/ST_WLCSP-49_Die448/kicadPcb3d_450.png

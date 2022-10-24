@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4013|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx-4013|
 |Hex ID (short code)|hexID|SZK4XXX413|
-|Name|name|4013|
+|name|name|4013|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4013', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/MC14013B-D.PDF', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'CMOS DFF', 'kicadSymbolki_description': 'Dual D  FlipFlop, Set & reset', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x9.9mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm*'}]|
 ||||

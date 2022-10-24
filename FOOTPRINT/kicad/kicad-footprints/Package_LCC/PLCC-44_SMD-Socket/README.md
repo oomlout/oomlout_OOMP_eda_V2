@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PLCC-44_SMD-Socket|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-44_SMD-Socket|
 |Hex ID (short code)|hexID|FZKLCCPLCC44SMSO|
-|Name|name|Package_LCC : PLCC-44_SMD-Socket|
+|name|name|Package_LCC : PLCC-44_SMD-Socket|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PLCC-44_SMD-Socket', 'description': 'PLCC, 44 pins, surface mount', 'tags': 'plcc smt', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LCC.3dshapes/PLCC-44_SMD-Socket.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-44_SMD-Socket/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-44_SMD-Socket/kicadPcb3d_450.png

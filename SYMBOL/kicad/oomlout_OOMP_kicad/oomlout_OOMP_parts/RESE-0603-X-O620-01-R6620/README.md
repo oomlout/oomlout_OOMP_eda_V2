@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O620-01-R6620|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O620-01-R6620|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO621R662|
-|Name|name|RESE-0603-X-O620-01-R6620|
+|name|name|RESE-0603-X-O620-01-R6620|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O620-01-R6620', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O620-01-R6620', 'kicadSymbolDatasheet': 'oom.lt/R6620', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6620;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

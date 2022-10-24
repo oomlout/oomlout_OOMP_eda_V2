@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1761-5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1761-5|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLT17615|
-|Name|name|LT1761-5|
+|name|name|LT1761-5|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1761-5', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-5', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1761sff.pdf', 'kicadSymbolki_keywords': 'REGULATOR POSITIVE POWER LDO', 'kicadSymbolki_description': 'MICROPOWER Low Noise 5V 100mA LDO regulator, TSOT-23-5', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
 ||||

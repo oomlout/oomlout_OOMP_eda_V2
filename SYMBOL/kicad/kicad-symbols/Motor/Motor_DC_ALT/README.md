@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Motor_DC_ALT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Motor-Motor_DC_ALT|
 |Hex ID (short code)|hexID|SZKMOTORMOTORDCALT|
-|Name|name|Motor_DC_ALT|
+|name|name|Motor_DC_ALT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'M', 'kicadSymbolValue': 'Motor_DC_ALT', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'DC Motor', 'kicadSymbolki_description': 'DC Motor, alternative symbol', 'kicadSymbolki_fp_filters': 'PinHeader*P2.54mm* TerminalBlock*'}]|
 ||||

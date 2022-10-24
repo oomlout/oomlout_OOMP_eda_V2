@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|THAT2180|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-THAT2180|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOTHAT218|
-|Name|name|THAT2180|
+|name|name|THAT2180|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'THAT2180', 'kicadSymbolFootprint': 'Package_SIP:SIP-8_19x3mm_P2.54mm', 'kicadSymbolDatasheet': 'http://www.thatcorp.com/datashts/THAT_2180-Series_Datasheet.pdf', 'kicadSymbolki_keywords': 'audio vca', 'kicadSymbolki_description': 'Blackmer Pre-Trimmed IC Voltage Controlled Amplifiers, SIP-8', 'kicadSymbolki_fp_filters': 'SIP*19x3mm*P2.54mm*'}]|
 ||||

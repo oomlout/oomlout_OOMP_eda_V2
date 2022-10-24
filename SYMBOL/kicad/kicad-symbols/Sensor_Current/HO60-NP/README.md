@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HO60-NP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-HO60-NP|
 |Hex ID (short code)|hexID|SZKSENCURRENTHO6NP|
-|Name|name|HO60-NP|
+|name|name|HO60-NP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HO40-NP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HO60-NP', 'kicadSymbolFootprint': 'Sensor_Current:LEM_HO40-NP', 'kicadSymbolDatasheet': 'https://www.lem.com/sites/default/files/products_datasheets/ho-np_0100__1100_series.pdf', 'kicadSymbolki_keywords': 'current transducer', 'kicadSymbolki_description': 'Current Transducer, 60A, Unipolar, 5V', 'kicadSymbolki_fp_filters': 'LEM*HO40*NP*'}]|
 ||||

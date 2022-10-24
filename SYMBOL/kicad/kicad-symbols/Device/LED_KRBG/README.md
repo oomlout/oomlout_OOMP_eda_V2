@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_KRBG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_KRBG|
 |Hex ID (short code)|hexID|SZKDEVICELKRBG|
-|Name|name|LED_KRBG|
+|name|name|LED_KRBG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_KRBG', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED RGB diode', 'kicadSymbolki_description': 'RGB LED, cathode/red/blue/green', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

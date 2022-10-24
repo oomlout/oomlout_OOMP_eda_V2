@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|NetTie-4_THT_Pad1.0mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-NetTie-NetTie-4_THT_Pad1.0mm|
 |Hex ID (short code)|hexID|FZKNTNT4THTPAD1|
-|Name|name|NetTie : NetTie-4_THT_Pad1.0mm|
+|name|name|NetTie : NetTie-4_THT_Pad1.0mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'NetTie-4_THT_Pad1.0mm', 'description': 'Net tie, 4 pin, 1.0mm round THT pads', 'tags': 'net tie', 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/NetTie/NetTie-4_THT_Pad1.0mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/NetTie/NetTie-4_THT_Pad1.0mm/kicadPcb3d_450.png

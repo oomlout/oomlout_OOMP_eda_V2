@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC68A21|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-MC68A21|
 |Hex ID (short code)|hexID|SZKINTERFACEMC68A21|
-|Name|name|MC68A21|
+|name|name|MC68A21|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '6821', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC68A21', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://pdf.datasheetcatalog.com/datasheet/motorola/6821.pdf', 'kicadSymbolki_keywords': 'PIA', 'kicadSymbolki_description': 'Peripheral Interface Adapter 1.5MHz, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

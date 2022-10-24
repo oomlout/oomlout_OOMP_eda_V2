@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TQFP-80-1EP_14x14mm_P0.65mm_EP9.5x9.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-80-1EP_14x14mm_P0.65mm_EP9.5x9.5mm|
 |Hex ID (short code)|hexID|FZKQFPTQFP81EP14X14P65EP95X95|
-|Name|name|Package_QFP : TQFP-80-1EP_14x14mm_P0.65mm_EP9.5x9.5mm|
+|name|name|Package_QFP : TQFP-80-1EP_14x14mm_P0.65mm_EP9.5x9.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TQFP-80-1EP_14x14mm_P0.65mm_EP9.5x9.5mm', 'description': '80-Lead Plastic Thin Quad Flatpack (PF) - 14x14mm body, 9.5mm sq thermal pad (http://www.analog.com/media/en/technical-documentation/data-sheets/AD9852.pdf)', 'tags': 'QFP 0.65', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-80-1EP_14x14mm_P0.65mm_EP9.5x9.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/TQFP-80-1EP_14x14mm_P0.65mm_EP9.5x9.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_QFP/TQFP-80-1EP_14x14mm_P0.65mm_EP9.5x9.5mm/kicadPcb3d_450.png

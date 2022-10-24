@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PinHeader_1x22_P1.00mm_Vertical_SMD_Pin1Right|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.00mm-PinHeader_1x22_P1.00mm_Vertical_SMD_Pin1Right|
 |Hex ID (short code)|hexID|FZKCNPINHEADER1PINHEADER1X22P1VERTICALSMPIN1RIGHT|
-|Name|name|Connector_PinHeader_1.00mm : PinHeader_1x22_P1.00mm_Vertical_SMD_Pin1Right|
+|name|name|Connector_PinHeader_1.00mm : PinHeader_1x22_P1.00mm_Vertical_SMD_Pin1Right|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PinHeader_1x22_P1.00mm_Vertical_SMD_Pin1Right', 'description': 'surface-mounted straight pin header, 1x22, 1.00mm pitch, single row, style 2 (pin 1 right)', 'tags': 'Surface mounted pin header SMD 1x22 1.00mm single row style2 pin1 right', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PinHeader_1.00mm.3dshapes/PinHeader_1x22_P1.00mm_Vertical_SMD_Pin1Right.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.00mm/PinHeader_1x22_P1.00mm_Vertical_SMD_Pin1Right/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.00mm/PinHeader_1x22_P1.00mm_Vertical_SMD_Pin1Right/kicadPcb3d_450.png

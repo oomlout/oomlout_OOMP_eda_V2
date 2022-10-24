@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O802-01-R4O802|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O802-01-R4O802|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO821R4O82|
-|Name|name|RESE-0402-X-O802-01-R4O802|
+|name|name|RESE-0402-X-O802-01-R4O802|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O802-01-R4O802', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O802-01-R4O802', 'kicadSymbolDatasheet': 'oom.lt/R4O802', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R4O802;PARTL C-JLCC;C25917;MANUF C-XXXX;0402WGF6801TCE;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

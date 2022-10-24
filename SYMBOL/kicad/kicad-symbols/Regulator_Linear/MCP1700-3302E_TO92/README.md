@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP1700-3302E_TO92|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1700-3302E_TO92|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMCP17332ETO92|
-|Name|name|MCP1700-3302E_TO92|
+|name|name|MCP1700-3302E_TO92|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM79L05_TO92', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP1700-3302E_TO92', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20001826D.pdf', 'kicadSymbolki_keywords': 'regulator linear ldo', 'kicadSymbolki_description': '250mA Low Quiscent Current LDO, 3.3V output, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

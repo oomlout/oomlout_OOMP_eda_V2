@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Axial_L26.0mm_D9.0mm_P7.62mm_Vertical_Fastron_77A|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L26.0mm_D9.0mm_P7.62mm_Vertical_Fastron_77A|
 |Hex ID (short code)|hexID|FZKINLAXIALL26D9P762VERTICALFASTRON77A|
-|Name|name|Inductor_THT : L_Axial_L26.0mm_D9.0mm_P7.62mm_Vertical_Fastron_77A|
+|name|name|Inductor_THT : L_Axial_L26.0mm_D9.0mm_P7.62mm_Vertical_Fastron_77A|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Axial_L26.0mm_D9.0mm_P7.62mm_Vertical_Fastron_77A', 'description': 'Inductor, Axial series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=26*9mm^2, Fastron, 77A, http://cdn-reichelt.de/documents/datenblatt/B400/DS_77A.pdf', 'tags': 'Inductor Axial series Axial Vertical pin pitch 7.62mm  length 26mm diameter 9mm Fastron 77A', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L26.0mm_D9.0mm_P7.62mm_Vertical_Fastron_77A.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L26.0mm_D9.0mm_P7.62mm_Vertical_Fastron_77A/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L26.0mm_D9.0mm_P7.62mm_Vertical_Fastron_77A/kicadPcb3d_450.png

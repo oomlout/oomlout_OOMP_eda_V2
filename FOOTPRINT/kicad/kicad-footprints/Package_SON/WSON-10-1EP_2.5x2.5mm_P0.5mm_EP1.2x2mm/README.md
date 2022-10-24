@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|WSON-10-1EP_2.5x2.5mm_P0.5mm_EP1.2x2mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-10-1EP_2.5x2.5mm_P0.5mm_EP1.2x2mm|
 |Hex ID (short code)|hexID|FZKSONWSON11EP25X25P5EP12X2|
-|Name|name|Package_SON : WSON-10-1EP_2.5x2.5mm_P0.5mm_EP1.2x2mm|
+|name|name|Package_SON : WSON-10-1EP_2.5x2.5mm_P0.5mm_EP1.2x2mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'WSON-10-1EP_2.5x2.5mm_P0.5mm_EP1.2x2mm', 'description': 'WSON, 10 Pin (http://www.ti.com/lit/gpn/tps63030#page=24), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'WSON NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/WSON-10-1EP_2.5x2.5mm_P0.5mm_EP1.2x2mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-10-1EP_2.5x2.5mm_P0.5mm_EP1.2x2mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-10-1EP_2.5x2.5mm_P0.5mm_EP1.2x2mm/kicadPcb3d_450.png

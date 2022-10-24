@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|THS4631D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-THS4631D|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALTHS4631D|
-|Name|name|THS4631D|
+|name|name|THS4631D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'OPA333xxD', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'THS4631D', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'www.ti.com/lit/ds/symlink/ths4631.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Single High-voltage, High Slew Rate, Wideband, FET-input Operational Amplifier, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

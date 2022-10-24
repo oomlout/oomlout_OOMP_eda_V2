@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-50-4_LongPad-NoHole_Housing|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-50-4_LongPad-NoHole_Housing|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMTO54LONGPADNHHOUSING|
-|Name|name|Package_TO_SOT_SMD : TO-50-4_LongPad-NoHole_Housing|
+|name|name|Package_TO_SOT_SMD : TO-50-4_LongPad-NoHole_Housing|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-50-4_LongPad-NoHole_Housing', 'description': 'TO-50-4 Macro X Package Style M238', 'tags': 'TO-50-4 Macro X Package Style M238', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-50-4_LongPad-NoHole_Housing.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-50-4_LongPad-NoHole_Housing/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-50-4_LongPad-NoHole_Housing/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SC39-11YWA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-SC39-11YWA|
 |Hex ID (short code)|hexID|SZKDICHARACTERSC3911YWA|
-|Name|name|SC39-11YWA|
+|name|name|SC39-11YWA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SC39-11EWA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SC39-11YWA', 'kicadSymbolFootprint': 'Display_7Segment:Sx39-1xxxxx', 'kicadSymbolDatasheet': 'http://www.kingbrightusa.com/images/catalog/SPEC/sc39-11ywa.pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'Single digit 7 segment display, yellow, common cathode', 'kicadSymbolki_fp_filters': 'S?39?1*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Neosid_Ms50|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Ms50|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLNEOSIDMS5|
-|Name|name|Inductor_SMD : L_Neosid_Ms50|
+|name|name|Inductor_SMD : L_Neosid_Ms50|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Neosid_Ms50', 'description': 'Neosid, Power Inductor, Ms50, SMD, Fixed inductor, https://neosid.de/import-data/product-pdf/neoFestind_Ms50.pdf', 'tags': 'Neosid Power Inductor Ms50 SMD Fixed inductor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Neosid_Ms50.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_Ms50/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_Ms50/kicadPcb3d_450.png

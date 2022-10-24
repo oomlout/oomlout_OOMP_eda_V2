@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Symbol_CC-PublicDomain_CopperTop_Small|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CC-PublicDomain_CopperTop_Small|
 |Hex ID (short code)|hexID|FZKSZSYCCPUBLICDOMAINCTOPSLL|
-|Name|name|Symbol : Symbol_CC-PublicDomain_CopperTop_Small|
+|name|name|Symbol : Symbol_CC-PublicDomain_CopperTop_Small|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Symbol_CC-PublicDomain_CopperTop_Small', 'description': 'Symbol, CC-Public Domain, Copper Top, Small,', 'tags': 'Symbol, CC-Public Domain, Copper Top, Small,', 'attributeType': None, 'pins': {}}|
 ||||

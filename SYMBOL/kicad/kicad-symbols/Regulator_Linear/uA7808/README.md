@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|uA7808|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-uA7808|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARUA788|
-|Name|name|uA7808|
+|name|name|uA7808|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'uA7805', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'uA7808', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ua78.pdf', 'kicadSymbolki_keywords': 'Voltage Regulator 1A Positive', 'kicadSymbolki_description': 'Positive 1A 35V Linear Regulator, Fixed Output 8V, TO-220/TO-263', 'kicadSymbolki_fp_filters': 'TO?263* TO?220*'}]|
 ||||

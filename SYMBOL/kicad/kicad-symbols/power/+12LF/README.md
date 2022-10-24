@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|+12LF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-+12LF|
 |Hex ID (short code)|hexID|SZKPOWER+12LF|
-|Name|name|+12LF|
+|name|name|+12LF|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': '+12LF', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "+12LF"'}]|
 ||||

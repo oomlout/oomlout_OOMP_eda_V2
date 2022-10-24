@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DIAC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-DIAC|
 |Hex ID (short code)|hexID|SZKDEVICEDIAC|
-|Name|name|DIAC|
+|name|name|DIAC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'DIAC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'AC diode DIAC', 'kicadSymbolki_description': 'Diode for alternating current', 'kicadSymbolki_fp_filters': 'TO-???* *_Diode_* *SingleDiode* D_*'}]|
 ||||

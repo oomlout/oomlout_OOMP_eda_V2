@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_CommonMode_Toroid_Vertical_L21.0mm_W10.0mm_Px5.08mm_Py12.70mm_Murata_5100|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_CommonMode_Toroid_Vertical_L21.0mm_W10.0mm_Px5.08mm_Py12.70mm_Murata_5100|
 |Hex ID (short code)|hexID|FZKINLCOONMODETOROIDVERTICALL21W1PX58PY127M51|
-|Name|name|Inductor_THT : L_CommonMode_Toroid_Vertical_L21.0mm_W10.0mm_Px5.08mm_Py12.70mm_Murata_5100|
+|name|name|Inductor_THT : L_CommonMode_Toroid_Vertical_L21.0mm_W10.0mm_Px5.08mm_Py12.70mm_Murata_5100|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_CommonMode_Toroid_Vertical_L21.0mm_W10.0mm_Px5.08mm_Py12.70mm_Murata_5100', 'description': 'L_CommonMode_Toroid, Vertical series, Radial, pin pitch=5.08*12.70mm^2, , length*width=21*10mm^2, muRATA, 5100, http://www.murata-ps.com/data/magnetics/kmp_5100.pdf', 'tags': 'L_CommonMode_Toroid Vertical series Radial pin pitch 5.08*12.70mm^2  length 21mm width 10mm muRATA 5100', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_CommonMode_Toroid_Vertical_L21.0mm_W10.0mm_Px5.08mm_Py12.70mm_Murata_5100.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_Toroid_Vertical_L21.0mm_W10.0mm_Px5.08mm_Py12.70mm_Murata_5100/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_Toroid_Vertical_L21.0mm_W10.0mm_Px5.08mm_Py12.70mm_Murata_5100/kicadPcb3d_450.png

@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-1206-X-UF10-V50-C12U10|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF10-V50-C12U10|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XUF1V5C12U1|
-|Name|name|CAPC-1206-X-UF10-V50-C12U10|
+|name|name|CAPC-1206-X-UF10-V50-C12U10|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-1206-X-UF10-V50-C12U10', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-1206-X-UF10-V50-C12U10', 'kicadSymbolDatasheet': 'oom.lt/C12U10', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C12U10;PARTL C-JLCC;C13585;MANUF C-XXXX;CL31A106KBHNNNE;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

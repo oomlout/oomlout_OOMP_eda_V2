@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|R|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-pspice-R|
 |Hex ID (short code)|hexID|SZKPSPICER|
-|Name|name|R|
+|name|name|R|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'R', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'resistor simulation', 'kicadSymbolki_description': 'Resistor symbol for simulation only'}]|
 ||||

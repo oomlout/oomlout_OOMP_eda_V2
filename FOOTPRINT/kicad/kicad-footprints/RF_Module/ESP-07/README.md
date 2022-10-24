@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ESP-07|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-ESP-07|
 |Hex ID (short code)|hexID|FZKRFMOESP7|
-|Name|name|RF_Module : ESP-07|
+|name|name|RF_Module : ESP-07|
 |Footprint Kicad|footprintKicadDetails|{'name': 'ESP-07', 'description': 'Wi-Fi Module, http://wiki.ai-thinker.com/_media/esp8266/docs/a007ps01a2_esp-07_product_specification_v1.2.pdf', 'tags': 'Wi-Fi Module', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/ESP-07.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

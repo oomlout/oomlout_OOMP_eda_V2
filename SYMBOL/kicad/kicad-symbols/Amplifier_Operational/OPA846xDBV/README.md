@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA846xDBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA846xDBV|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA846XDBV|
-|Name|name|OPA846xDBV|
+|name|name|OPA846xDBV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP6L91T-EOT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA846xDBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/opa846.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': '1750MHz, Wideband, Low-Noise, Voltage Feedback Operational Amplifier, SOT23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

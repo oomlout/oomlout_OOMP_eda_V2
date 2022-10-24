@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS195|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS195|
 |Hex ID (short code)|hexID|SZK74XX74LS195|
-|Name|name|74LS195|
+|name|name|74LS195|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS195', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS195', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL SR SR4', 'kicadSymbolki_description': 'Shift Register 4-bit, parallel', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

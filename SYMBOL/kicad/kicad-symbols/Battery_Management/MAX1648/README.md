@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX1648|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-MAX1648|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTMAX1648|
-|Name|name|MAX1648|
+|name|name|MAX1648|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX1648', 'kicadSymbolFootprint': 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX1647-MAX1648.pdf', 'kicadSymbolki_keywords': 'battery charger', 'kicadSymbolki_description': 'Smart Battery Charger, 18V battery, 28V input, standalone', 'kicadSymbolki_fp_filters': 'SOIC*3.9x9.9mm*P1.27mm*'}]|
 ||||

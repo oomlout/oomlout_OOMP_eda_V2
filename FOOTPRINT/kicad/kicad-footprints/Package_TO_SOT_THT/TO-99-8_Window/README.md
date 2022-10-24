@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-99-8_Window|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-99-8_Window|
 |Hex ID (short code)|hexID|FZKSOTTO998WINDOW|
-|Name|name|Package_TO_SOT_THT : TO-99-8_Window|
+|name|name|Package_TO_SOT_THT : TO-99-8_Window|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-99-8_Window', 'description': 'TO-99-8_Window, Window', 'tags': 'TO-99-8_Window Window', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-99-8_Window.wrl', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-99-8_Window/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-99-8_Window/kicadPcb3d_450.png

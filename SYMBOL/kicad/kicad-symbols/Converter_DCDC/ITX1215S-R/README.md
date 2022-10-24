@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ITX1215S-R|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX1215S-R|
 |Hex ID (short code)|hexID|SZKCONITX1215SR|
-|Name|name|ITX1215S-R|
+|name|name|ITX1215S-R|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ITX0505S-R', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'ITX1215S-R', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_XP_POWER-ITxxxxxS_THT', 'kicadSymbolDatasheet': 'https://www.xppower.com/pdfs/SF_ITX.pdf', 'kicadSymbolki_keywords': 'XP_POWER DC/DC isolated Converter module', 'kicadSymbolki_description': 'XP Power 6W, 1000 VDC Isolated DC/DC Converter Module, Remote Control, Fully Regulated Dual Output Voltage ±15V, ±200mA, 12V Input Voltage, SIP', 'kicadSymbolki_fp_filters': '*XP?POWER?ITxxxxx*'}]|
 ||||

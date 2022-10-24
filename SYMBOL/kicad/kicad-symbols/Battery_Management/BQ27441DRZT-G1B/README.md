@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BQ27441DRZT-G1B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-BQ27441DRZT-G1B|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTBQ27441DRZTG1B|
-|Name|name|BQ27441DRZT-G1B|
+|name|name|BQ27441DRZT-G1B|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BQ27441-G1', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BQ27441DRZT-G1B', 'kicadSymbolFootprint': 'Package_SON:Texas_S-PDSO-N12', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/bq27441-g1.pdf', 'kicadSymbolki_keywords': 'Fuel Gauge', 'kicadSymbolki_description': 'System Side Li Ion/Polymer Fuel Gauge, 4.30-4.35V, PDSON-12', 'kicadSymbolki_fp_filters': '*PDSO*N12*'}]|
 ||||

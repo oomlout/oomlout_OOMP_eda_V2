@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm|
 |Hex ID (short code)|hexID|FZKXXSMABRACONABM72PIN6X35|
-|Name|name|Crystal : Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm|
+|name|name|Crystal : Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm', 'description': 'SMD Crystal Abracon ABM7, https://abracon.com/Resonators/abm7.pdf', 'tags': 'SMD SMT crystal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm/kicadPcb3d_450.png

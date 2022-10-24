@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RFM69HCW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Module-RFM69HCW|
 |Hex ID (short code)|hexID|SZKRFMORFM69HCW|
-|Name|name|RFM69HCW|
+|name|name|RFM69HCW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'RFM95W-868S2', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'RFM69HCW', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.hoperf.com/data/upload/portal/20181127/5bfcb8284d838.pdf', 'kicadSymbolki_keywords': 'low power Radio ISM Transceiver Module AES encryption SPI HopeRF', 'kicadSymbolki_description': 'Low power ISM Radio Transceiver Module, SPI interface, AES encryption, 434 or 915 MHz, up to 100mW, up to 300 kb/s, SMD-16, DIP-16', 'kicadSymbolki_fp_filters': 'HOPERF*RFM9XW*'}]|
 ||||

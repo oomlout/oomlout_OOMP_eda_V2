@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM8AL3L88T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8AL3L88T|
 |Hex ID (short code)|hexID|SZKMCUSTSTM8STM8AL3L88T|
-|Name|name|STM8AL3L88T|
+|name|name|STM8AL3L88T|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM8AL3L88T', 'kicadSymbolFootprint': 'Package_QFP:LQFP-48_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/stm8al3188.pdf', 'kicadSymbolki_keywords': 'STM8 automotive ultra-low-power', 'kicadSymbolki_description': 'Automotive 8-bit ultra-low-power MCU, 64-Kbyte Flash with LCD, LQFP-48', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.5mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L6599|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6599|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERL6599|
-|Name|name|L6599|
+|name|name|L6599|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'L6599', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'www.st.com/resource/en/datasheet/l6599.pdf', 'kicadSymbolki_keywords': 'SMPS controller', 'kicadSymbolki_description': 'High Voltage Resonant Controller, DIP-16/SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*3.9x9.9mm*P1.27mm* DIP*W7.62mm*'}]|
 ||||

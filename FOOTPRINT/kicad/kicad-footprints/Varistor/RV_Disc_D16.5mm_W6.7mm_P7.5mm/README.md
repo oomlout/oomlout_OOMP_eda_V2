@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RV_Disc_D16.5mm_W6.7mm_P7.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Varistor-RV_Disc_D16.5mm_W6.7mm_P7.5mm|
 |Hex ID (short code)|hexID|FZKVRVDISCD165W67P75|
-|Name|name|Varistor : RV_Disc_D16.5mm_W6.7mm_P7.5mm|
+|name|name|Varistor : RV_Disc_D16.5mm_W6.7mm_P7.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RV_Disc_D16.5mm_W6.7mm_P7.5mm', 'description': 'Varistor, diameter 16.5mm, width 6.7mm, pitch 5mm, https://katalog.we-online.de/pbs/datasheet/820542711.pdf', 'tags': 'varistor SIOV', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Varistor.3dshapes/RV_Disc_D16.5mm_W6.7mm_P7.5mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

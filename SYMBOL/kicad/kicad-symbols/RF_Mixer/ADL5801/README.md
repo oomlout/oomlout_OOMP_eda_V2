@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|ADL5801|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Mixer-ADL5801|
 |Hex ID (short code)|hexID|SZKRFMIXERADL581|
-|Name|name|ADL5801|
+|name|name|ADL5801|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADL5801', 'kicadSymbolFootprint': 'Package_CSP:LFCSP-VQ-24-1EP_4x4mm_P0.5mm_EP2.642x2.642mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADL5801.pdf', 'kicadSymbolki_keywords': 'mixer active', 'kicadSymbolki_description': '10 MHz to 6 GHz Active Mixer, LFCSP-24', 'kicadSymbolki_fp_filters': 'LFCSP*4x4mm*P0.5mm*EP2.642x2.642mm*'}]|
 ||||

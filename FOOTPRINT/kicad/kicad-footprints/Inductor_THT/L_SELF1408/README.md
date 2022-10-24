@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_SELF1408|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_SELF1408|
 |Hex ID (short code)|hexID|FZKINLSELF148|
-|Name|name|Inductor_THT : L_SELF1408|
+|name|name|Inductor_THT : L_SELF1408|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_SELF1408', 'description': 'Self Ferrite 14 - 08', 'tags': 'SELF', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_SELF1408.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_SELF1408/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_SELF1408/kicadPcb3d_450.png

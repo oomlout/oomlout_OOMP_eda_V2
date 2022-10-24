@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Mini-DIN-7|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Mini-DIN-7|
 |Hex ID (short code)|hexID|SZKCNMDIN7|
-|Name|name|Mini-DIN-7|
+|name|name|Mini-DIN-7|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Mini-DIN-7', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://service.powerdynamics.com/ec/Catalog17/Section%2011.pdf', 'kicadSymbolki_keywords': 'Mini-DIN', 'kicadSymbolki_description': '7-pin Mini-DIN connector', 'kicadSymbolki_fp_filters': 'MINI?DIN*'}]|
 ||||

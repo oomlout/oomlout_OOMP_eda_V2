@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1080|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-LT1080|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTLT18|
-|Name|name|LT1080|
+|name|name|LT1080|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1080', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/10801fe.pdf', 'kicadSymbolki_keywords': 'rs232 uart transceiver', 'kicadSymbolki_description': 'Dual RS232 driver/receiver, 5V supply, 120kb/s', 'kicadSymbolki_fp_filters': 'SO* DIP*W7.62mm*'}]|
 ||||

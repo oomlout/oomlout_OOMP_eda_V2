@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega8535L-8P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega8535L-8P|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA8535L8P|
-|Name|name|ATmega8535L-8P|
+|name|name|ATmega8535L-8P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega8535L-8P', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc2502.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR', 'kicadSymbolki_description': '8MHz, 8kB Flash, 512B SRAM, 512B EEPROM, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

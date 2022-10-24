@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC12F675-ISN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F675-ISN|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC12PIC12F675ISN|
-|Name|name|PIC12F675-ISN|
+|name|name|PIC12F675-ISN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC12F675-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC12F675-ISN', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41190G.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller', 'kicadSymbolki_description': 'PIC12F675, 1024W Flash, 64B SRAM, 128B EEPROM, SO8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

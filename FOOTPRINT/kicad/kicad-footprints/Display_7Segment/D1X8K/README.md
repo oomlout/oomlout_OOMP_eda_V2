@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|D1X8K|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-D1X8K|
 |Hex ID (short code)|hexID|FZKDI7SD1X8K|
-|Name|name|Display_7Segment : D1X8K|
+|name|name|Display_7Segment : D1X8K|
 |Footprint Kicad|footprintKicadDetails|{'name': 'D1X8K', 'description': 'https://ia800903.us.archive.org/24/items/CTKD1x8K/Cromatek%20D168K.pdf', 'tags': 'Single digit 7 segment ultra bright red', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/D1X8K.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/D1X8K/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Display_7Segment/D1X8K/kicadPcb3d_450.png

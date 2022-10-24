@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F1513-IMV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1513-IMV|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F1513IMV|
-|Name|name|PIC16F1513-IMV|
+|name|name|PIC16F1513-IMV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F1513-IMV', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41624A.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller XLP', 'kicadSymbolki_description': 'PIC16F1513, 4096W FLASH, 256B SRAM, UQFN-28', 'kicadSymbolki_fp_filters': 'UQFN*'}]|
 ||||

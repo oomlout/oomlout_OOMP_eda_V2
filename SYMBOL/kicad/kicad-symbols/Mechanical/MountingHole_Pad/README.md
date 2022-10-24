@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MountingHole_Pad|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Mechanical-MountingHole_Pad|
 |Hex ID (short code)|hexID|SZKMECHANICALHOLPAD|
-|Name|name|MountingHole_Pad|
+|name|name|MountingHole_Pad|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'H', 'kicadSymbolValue': 'MountingHole_Pad', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'mounting hole', 'kicadSymbolki_description': 'Mounting Hole with connection', 'kicadSymbolki_fp_filters': 'MountingHole*Pad*'}]|
 ||||

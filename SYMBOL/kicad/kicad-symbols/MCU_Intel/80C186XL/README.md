@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|80C186XL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Intel-80C186XL|
 |Hex ID (short code)|hexID|SZKMCUINTEL8C186XL|
-|Name|name|80C186XL|
+|name|name|80C186XL|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'M80C186XL', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '80C186XL', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://datasheets.chipdb.org/Intel/x86/8018x/datashts/27243104.PDF', 'kicadSymbolki_keywords': 'MPRO', 'kicadSymbolki_description': '16-Bit High-Integration Embedded Processor', 'kicadSymbolki_fp_filters': 'PLCC* PGA*Layout11x11*P2.54mm* LCC*'}]|
 ||||

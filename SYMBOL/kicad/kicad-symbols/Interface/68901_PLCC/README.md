@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|68901_PLCC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-68901_PLCC|
 |Hex ID (short code)|hexID|SZKINTERFACE6891PLCC|
-|Name|name|68901_PLCC|
+|name|name|68901_PLCC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '68901_PLCC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'MPRO', 'kicadSymbolki_description': 'Parallel Interface'}]|
 ||||

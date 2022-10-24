@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ABS6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Bridge-ABS6|
 |Hex ID (short code)|hexID|SZKDIODEBRIDGEABS6|
-|Name|name|ABS6|
+|name|name|ABS6|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ABS2', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'ABS6', 'kicadSymbolFootprint': 'Diode_SMD:Diode_Bridge_Diotec_ABS', 'kicadSymbolDatasheet': 'https://diotec.com/tl_files/diotec/files/pdf/datasheets/abs2.pdf', 'kicadSymbolki_keywords': 'rectifier acdc', 'kicadSymbolki_description': 'Miniature Glass Passivated Single-Phase Surface Mount Bridge Rectifiers, 420V Vrms, 0.8A If, ABS SMD package', 'kicadSymbolki_fp_filters': 'Diode*Bridge*Diotec*ABS*'}]|
 ||||

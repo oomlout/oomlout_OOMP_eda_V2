@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|RJ45_Bel_SI-60062-F|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Bel_SI-60062-F|
 |Hex ID (short code)|hexID|FZKCNRJRJ45BELSI662F|
-|Name|name|Connector_RJ : RJ45_Bel_SI-60062-F|
+|name|name|Connector_RJ : RJ45_Bel_SI-60062-F|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RJ45_Bel_SI-60062-F', 'description': '1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX, https://belfuse.com/resources/drawings/magneticsolutions/dr-mag-si-60062-f.pdf', 'tags': 'RJ45 Magjack', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Bel_SI-60062-F.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Bel_SI-60062-F/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Bel_SI-60062-F/kicadPcb3d_450.png

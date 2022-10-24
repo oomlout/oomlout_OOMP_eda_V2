@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MSP430G2432IPW14|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2432IPW14|
 |Hex ID (short code)|hexID|SZKMCUTEXASMSP43MSP43G2432IPW14|
-|Name|name|MSP430G2432IPW14|
+|name|name|MSP430G2432IPW14|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MSP430G2132IPW14', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MSP430G2432IPW14', 'kicadSymbolFootprint': 'Package_SO:TSSOP-14_4.4x5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/msp430g2432.pdf', 'kicadSymbolki_keywords': 'TI MSP430 16-bit mixed signal microcontroller', 'kicadSymbolki_description': '8kB Flash, 256B RAM, TSSOP-14', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x5mm*P0.65mm*'}]|
 ||||

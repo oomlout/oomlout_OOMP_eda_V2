@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM723_DIP14|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM723_DIP14|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM723DIP14|
-|Name|name|LM723_DIP14|
+|name|name|LM723_DIP14|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM723_DIP14', 'kicadSymbolFootprint': 'Package_DIP:DIP-14_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm723.pdf', 'kicadSymbolki_keywords': 'POWER REGUL', 'kicadSymbolki_description': 'Linear Regulator (adjustable), DIP-14', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

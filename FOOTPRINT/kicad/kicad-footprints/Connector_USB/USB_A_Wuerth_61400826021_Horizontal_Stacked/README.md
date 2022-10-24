@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB_A_Wuerth_61400826021_Horizontal_Stacked|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_Wuerth_61400826021_Horizontal_Stacked|
 |Hex ID (short code)|hexID|FZKCNUUAWUERTH61482621HORIZONTALSTACKED|
-|Name|name|Connector_USB : USB_A_Wuerth_61400826021_Horizontal_Stacked|
+|name|name|Connector_USB : USB_A_Wuerth_61400826021_Horizontal_Stacked|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB_A_Wuerth_61400826021_Horizontal_Stacked', 'description': 'Stacked USB A connector http://katalog.we-online.de/em/datasheet/61400826021.pdf', 'tags': 'Wuerth stacked USB_A', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_A_Wuerth_61400826021_Horizontal_Stacked.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_A_Wuerth_61400826021_Horizontal_Stacked/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_A_Wuerth_61400826021_Horizontal_Stacked/kicadPcb3d_450.png

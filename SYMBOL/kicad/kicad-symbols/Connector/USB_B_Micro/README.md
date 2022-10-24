@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|USB_B_Micro|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-USB_B_Micro|
 |Hex ID (short code)|hexID|SZKCNUBM|
-|Name|name|USB_B_Micro|
+|name|name|USB_B_Micro|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'USB_B_Micro', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'connector USB micro', 'kicadSymbolki_description': 'USB Micro Type B connector', 'kicadSymbolki_fp_filters': 'USB*'}]|
 ||||

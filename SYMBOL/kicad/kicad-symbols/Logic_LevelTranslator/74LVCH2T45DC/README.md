@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LVCH2T45DC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-74LVCH2T45DC|
 |Hex ID (short code)|hexID|SZKLOGICLEVELTRANSLATOR74LVCH2T45DC|
-|Name|name|74LVCH2T45DC|
+|name|name|74LVCH2T45DC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LVC2T45DC', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LVCH2T45DC', 'kicadSymbolFootprint': 'Package_SO:VSSOP-8_2.3x2mm_P0.5mm', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH2T45.pdf', 'kicadSymbolki_keywords': 'Level-Shifter CMOS-TTL-Translation', 'kicadSymbolki_description': 'Dual supply translating transceiver with bus-hold for unused/floating inputs, 3-state, 2-bit, VSSOP-8', 'kicadSymbolki_fp_filters': 'VSSOP*2.3x2mm*P0.5mm*'}]|
 ||||

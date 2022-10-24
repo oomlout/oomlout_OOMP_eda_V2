@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM2674N-5.0|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2674N-5.0|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM2674N5|
-|Name|name|LM2674N-5.0|
+|name|name|LM2674N-5.0|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM2674N-12', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2674N-5.0', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm2674.pdf', 'kicadSymbolki_keywords': 'Step-Down Voltage Regulator', 'kicadSymbolki_description': '5V, 500mA Step-Down Voltage Regulator, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

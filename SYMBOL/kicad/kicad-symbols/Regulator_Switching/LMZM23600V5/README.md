@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LMZM23600V5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMZM23600V5|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLMZM236V5|
-|Name|name|LMZM23600V5|
+|name|name|LMZM23600V5|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LMZM23601', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LMZM23600V5', 'kicadSymbolFootprint': 'Package_LGA:Texas_SIL0010A_MicroSiP-10-1EP_3.8x3mm_P0.6mm_EP0.7x2.9mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lmzm23600.pdf', 'kicadSymbolki_keywords': 'Step-Down DC/DC Module', 'kicadSymbolki_description': '0.5A 5V Step-Down DC/DC Power Module in 3.8x3mm, MicroSIP-10', 'kicadSymbolki_fp_filters': 'Texas*SIL*1EP*3.8x3mm*P0.6mm*'}]|
 ||||

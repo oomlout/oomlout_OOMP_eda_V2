@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TE_PCH-1xxx2M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-TE_PCH-1xxx2M|
 |Hex ID (short code)|hexID|SZKRELAYTEPCH1XXX2M|
-|Name|name|TE_PCH-1xxx2M|
+|name|name|TE_PCH-1xxx2M|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'TE_PCH-1xxx2M', 'kicadSymbolFootprint': 'Relay_THT:Relay_SPST_TE_PCH-1xxx2M', 'kicadSymbolDatasheet': 'http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FPCH_series_relay_data_sheet_E%7F1215%7Fpdf%7FEnglish%7FENG_DS_PCH_series_relay_data_sheet_E_1215.pdf%7F9-1440003-0', 'kicadSymbolki_keywords': 'Miniature Single Pole Relay', 'kicadSymbolki_description': 'TE PCH relay, Miniature Single Pole, SPST-NO', 'kicadSymbolki_fp_filters': 'Relay*SPST*TE*PCH*1***2M*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DIODE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Simulation_SPICE-DIODE|
 |Hex ID (short code)|hexID|SZKSIMULATIONSPICEDIODE|
-|Name|name|DIODE|
+|name|name|DIODE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'DIODE', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolSpice_Netlist_Enabled': 'Y', 'kicadSymbolSpice_Primitive': 'D', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Diode, anode on pin 1, for simulation only!'}]|
 ||||

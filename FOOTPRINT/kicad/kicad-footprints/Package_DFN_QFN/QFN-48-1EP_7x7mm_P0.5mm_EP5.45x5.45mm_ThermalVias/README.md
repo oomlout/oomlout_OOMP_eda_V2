@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|QFN-48-1EP_7x7mm_P0.5mm_EP5.45x5.45mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-48-1EP_7x7mm_P0.5mm_EP5.45x5.45mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNQFN481EP7X7P5EP545X545THERMALVIAS|
-|Name|name|Package_DFN_QFN : QFN-48-1EP_7x7mm_P0.5mm_EP5.45x5.45mm_ThermalVias|
+|name|name|Package_DFN_QFN : QFN-48-1EP_7x7mm_P0.5mm_EP5.45x5.45mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'QFN-48-1EP_7x7mm_P0.5mm_EP5.45x5.45mm_ThermalVias', 'description': 'QFN, 48 Pin (http://www.thatcorp.com/datashts/THAT_626x_Datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-48-1EP_7x7mm_P0.5mm_EP5.45x5.45mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-48-1EP_7x7mm_P0.5mm_EP5.45x5.45mm_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-48-1EP_7x7mm_P0.5mm_EP5.45x5.45mm_ThermalVias/kicadPcb3d_450.png

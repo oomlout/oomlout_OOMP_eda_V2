@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ESP8266EX|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Espressif-ESP8266EX|
 |Hex ID (short code)|hexID|SZKMCUESPRESSIFESP8266EX|
-|Name|name|ESP8266EX|
+|name|name|ESP8266EX|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ESP8266EX', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm', 'kicadSymbolDatasheet': 'http://espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf', 'kicadSymbolki_keywords': 'wifi soc', 'kicadSymbolki_description': 'Highly integrated Wi-Fi SoC, QFN-32', 'kicadSymbolki_fp_filters': 'QFN*1EP*5x5mm*P0.5mm*'}]|
 ||||

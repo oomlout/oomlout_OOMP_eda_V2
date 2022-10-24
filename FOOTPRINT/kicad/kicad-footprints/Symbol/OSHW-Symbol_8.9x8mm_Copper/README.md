@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OSHW-Symbol_8.9x8mm_Copper|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Symbol_8.9x8mm_Copper|
 |Hex ID (short code)|hexID|FZKSZOSHWSY89X8C|
-|Name|name|Symbol : OSHW-Symbol_8.9x8mm_Copper|
+|name|name|Symbol : OSHW-Symbol_8.9x8mm_Copper|
 |Footprint Kicad|footprintKicadDetails|{'name': 'OSHW-Symbol_8.9x8mm_Copper', 'description': 'Open Source Hardware Symbol', 'tags': 'Logo Symbol OSHW', 'attributeType': None, 'pins': {}}|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AAT1217ICA-1.2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-AAT1217ICA-1.2|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGAAT1217ICA12|
-|Name|name|AAT1217ICA-1.2|
+|name|name|AAT1217ICA-1.2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AAT1217ICA-1.2', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-6', 'kicadSymbolDatasheet': 'http://www.skyworksinc.com/uploads/documents/AAT1217_202050B.pdf', 'kicadSymbolki_keywords': 'regulator step-up adjustable', 'kicadSymbolki_description': '600mA, 2.5-5.5V, 1.2MHz, Micropower Synchronous Step-Up Converter, TSOT-23-6', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
 ||||

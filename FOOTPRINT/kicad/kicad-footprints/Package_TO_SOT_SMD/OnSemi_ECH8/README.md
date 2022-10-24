@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|OnSemi_ECH8|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-OnSemi_ECH8|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMONSEMIECH8|
-|Name|name|Package_TO_SOT_SMD : OnSemi_ECH8|
+|name|name|Package_TO_SOT_SMD : OnSemi_ECH8|
 |Footprint Kicad|footprintKicadDetails|{'name': 'OnSemi_ECH8', 'description': 'On Semiconductor ECH8, https://www.onsemi.com/pub/Collateral/318BF.PDF', 'tags': 'ECH8 SOT28-FL SOT-28-FL', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/OnSemi_ECH8.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/OnSemi_ECH8/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/OnSemi_ECH8/kicadPcb3d_450.png

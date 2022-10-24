@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM2990SX-5.0|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM2990SX-5.0|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM299SX5|
-|Name|name|LM2990SX-5.0|
+|name|name|LM2990SX-5.0|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2990SX-5.0', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm2990.pdf', 'kicadSymbolki_keywords': 'Negative voltage regulator', 'kicadSymbolki_description': 'Three termianl low-dropout 1A negative voltage regulator, Input -6V to -26V, Out -5V', 'kicadSymbolki_fp_filters': 'TO?263*TabPin2* TO?220*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADC0832|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC0832|
 |Hex ID (short code)|hexID|SZKANALOGADCADC832|
-|Name|name|ADC0832|
+|name|name|ADC0832|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADC0832', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/adc0831-n.pdf', 'kicadSymbolki_keywords': 'ADC CAN', 'kicadSymbolki_description': '2 inputs AD Converter (serial output),'}]|
 ||||

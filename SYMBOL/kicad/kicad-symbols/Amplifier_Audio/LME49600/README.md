@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LME49600|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LME49600|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOLME496|
-|Name|name|LME49600|
+|name|name|LME49600|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LME49600', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-5_TabPin3', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lme49600.pdf', 'kicadSymbolki_keywords': 'audio buffer amplifier', 'kicadSymbolki_description': 'High-Performance, High-Fidelity, High-Current Headphone Buffer, 250mA, TO-263', 'kicadSymbolki_fp_filters': 'TO?263*'}]|
 ||||

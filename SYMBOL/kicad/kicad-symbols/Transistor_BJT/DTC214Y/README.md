@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DTC214Y|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC214Y|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTDTC214Y|
-|Name|name|DTC214Y|
+|name|name|DTC214Y|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DTC214Y', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'ROHM Digital NPN Transistor', 'kicadSymbolki_description': 'Digital NPN Transistor, 10k/47k, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23* SC?59*'}]|
 ||||

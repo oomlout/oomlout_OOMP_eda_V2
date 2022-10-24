@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Conn_WallPlug_Earth|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Conn_WallPlug_Earth|
 |Hex ID (short code)|hexID|SZKCNCONNWALLPLUGEARTH|
-|Name|name|Conn_WallPlug_Earth|
+|name|name|Conn_WallPlug_Earth|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'P', 'kicadSymbolValue': 'Conn_WallPlug_Earth', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'wall plug 110VAC 220VAC', 'kicadSymbolki_description': '3-pin general wall plug, with Earth wire (110VAC, 220VAC)'}]|
 ||||

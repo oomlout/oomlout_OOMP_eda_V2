@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Laird_Technologies_BMI-S-201-F_13.66x12.70mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-201-F_13.66x12.70mm|
 |Hex ID (short code)|hexID|FZKRFSLAIRDTECHNOLOGIESBMIS21F1366X127|
-|Name|name|RF_Shielding : Laird_Technologies_BMI-S-201-F_13.66x12.70mm|
+|name|name|RF_Shielding : Laird_Technologies_BMI-S-201-F_13.66x12.70mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Laird_Technologies_BMI-S-201-F_13.66x12.70mm', 'description': 'Laird Technologies BMI-S-201-F Shielding Cabinet Two Piece SMD 13.66x12.70mm (https://assets.lairdtech.com/home/brandworld/files/Board%20Level%20Shields%20Catalog%20Download.pdf)', 'tags': 'Shielding Cabinet', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Shielding.3dshapes/Laird_Technologies_BMI-S-201-F_13.66x12.70mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATSAMD10D14A-U|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD10D14A-U|
 |Hex ID (short code)|hexID|SZKMCUMCHIPSAMDATSAMD1D14AU|
-|Name|name|ATSAMD10D14A-U|
+|name|name|ATSAMD10D14A-U|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATSAMD10D14A-U', 'kicadSymbolFootprint': 'Package_CSP:WLCSP-20_1.934x2.434mm_Layout4x5_P0.4mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42242-SAM-D10_Datasheet.pdf', 'kicadSymbolki_keywords': '32-bit ARM Cortex-M0+ MCU Microcontroller', 'kicadSymbolki_description': 'ARM Cortex-M0+ MCU, 48MHz, 16KB Flash, 4KB RAM, 1.6-3.6V, 18 GPIO, WLCSP-20', 'kicadSymbolki_fp_filters': 'WLCSP*1.934x2.434mm*Layout4x5*P0.4mm*'}]|
 ||||

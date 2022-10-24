@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC12CR509A-ISN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12CR509A-ISN|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC12PIC12CR59AISN|
-|Name|name|PIC12CR509A-ISN|
+|name|name|PIC12CR509A-ISN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC12CR509A-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC12CR509A-ISN', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/40139e.pdf', 'kicadSymbolki_keywords': '8-Bit CMOS Microcontroller', 'kicadSymbolki_description': 'PIC12CR509A, 1024W ROM, 41B SRAM, SO8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

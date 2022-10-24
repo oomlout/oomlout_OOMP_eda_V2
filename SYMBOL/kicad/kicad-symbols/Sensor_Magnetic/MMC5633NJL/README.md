@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MMC5633NJL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-MMC5633NJL|
 |Hex ID (short code)|hexID|SZKSENMAGNETICC5633NJL|
-|Name|name|MMC5633NJL|
+|name|name|MMC5633NJL|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MMC5633NJL', 'kicadSymbolFootprint': 'Package_BGA:WLP-4_0.86x0.86mm_P0.4mm', 'kicadSymbolDatasheet': 'http://www.memsic.com/uploadfiles/2020/08/20200827165106864.pdf', 'kicadSymbolki_keywords': 'I2C I3C magnetic 3-axis sensor magnetometer AMR magnetoresistance', 'kicadSymbolki_description': '3-axis AMR Magnetometer, 30 G, I2C & I3C  Interface, 2mG RMS, WLP-4', 'kicadSymbolki_fp_filters': 'WLP*0.86x0.86mm?P0.4mm*'}]|
 ||||

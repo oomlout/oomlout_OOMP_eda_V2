@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BS170|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BS170|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBS17|
-|Name|name|BS170|
+|name|name|BS170|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BS107', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BS170', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/BS170-D.PDF', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '0.5A Id, 60V Vds, N-Channel MOSFET, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

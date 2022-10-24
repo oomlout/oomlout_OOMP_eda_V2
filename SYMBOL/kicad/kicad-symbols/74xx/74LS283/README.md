@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS283|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS283|
 |Hex ID (short code)|hexID|SZK74XX74LS283|
-|Name|name|74LS283|
+|name|name|74LS283|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS283', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS283', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL ADD Arith ALU', 'kicadSymbolki_description': '4-bit full Adder', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

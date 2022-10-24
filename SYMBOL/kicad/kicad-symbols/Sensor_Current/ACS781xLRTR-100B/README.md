@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ACS781xLRTR-100B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS781xLRTR-100B|
 |Hex ID (short code)|hexID|SZKSENCURRENTACS781XLRTR1B|
-|Name|name|ACS781xLRTR-100B|
+|name|name|ACS781xLRTR-100B|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ACS780xLRTR-050B', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ACS781xLRTR-100B', 'kicadSymbolFootprint': 'Sensor_Current:Allegro_PSOF-7_4.8x6.4mm_P1.60mm', 'kicadSymbolDatasheet': 'http://www.allegromicro.com/~/media/Files/Datasheets/ACS780-Datasheet.ashx?la=en', 'kicadSymbolki_keywords': 'hall effect current monitor sensor isolated', 'kicadSymbolki_description': '±100A Bidirectional Hall-Effect Current Sensor, +3.3V supply, 13.2mV/A, PSOF-7', 'kicadSymbolki_fp_filters': 'Allegro*PSOF*4.8x6.4mm*P1.60mm*'}]|
 ||||

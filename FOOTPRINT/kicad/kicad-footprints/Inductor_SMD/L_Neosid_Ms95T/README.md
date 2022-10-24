@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Neosid_Ms95T|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Ms95T|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLNEOSIDMS95T|
-|Name|name|Inductor_SMD : L_Neosid_Ms95T|
+|name|name|Inductor_SMD : L_Neosid_Ms95T|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Neosid_Ms95T', 'description': 'Neosid,Inductor,Ms95, Ms95a, Ms95T, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_Ms95T.pdf', 'tags': 'NeosidInductorMs95 Ms95a Ms95T Fixed inductor SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Neosid_Ms95T.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_Ms95T/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_Ms95T/kicadPcb3d_450.png

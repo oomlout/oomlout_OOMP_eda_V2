@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|68681|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-68681|
 |Hex ID (short code)|hexID|SZKINTERFACE68681|
-|Name|name|68681|
+|name|name|68681|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '68681', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'MPRO', 'kicadSymbolki_description': 'Interface serie 2 voies + 1 port parallele'}]|
 ||||

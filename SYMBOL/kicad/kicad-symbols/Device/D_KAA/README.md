@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_KAA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_KAA|
 |Hex ID (short code)|hexID|SZKDEVICEDKAA|
-|Name|name|D_KAA|
+|name|name|D_KAA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_KAA', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Diode, anode on pins 2 and 3', 'kicadSymbolki_fp_filters': 'TO-???* *_Diode_* *SingleDiode* D_*'}]|
 ||||

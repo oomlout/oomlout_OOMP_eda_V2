@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOP-4_3.8x4.1mm_P2.54mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SOP-4_3.8x4.1mm_P2.54mm|
 |Hex ID (short code)|hexID|FZKSOS438X41P254|
-|Name|name|Package_SO : SOP-4_3.8x4.1mm_P2.54mm|
+|name|name|Package_SO : SOP-4_3.8x4.1mm_P2.54mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOP-4_3.8x4.1mm_P2.54mm', 'description': 'SOP, 4 Pin (http://www.ixysic.com/home/pdfs.nsf/www/CPC1017N.pdf/$file/CPC1017N.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'SOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOP-4_3.8x4.1mm_P2.54mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOP-4_3.8x4.1mm_P2.54mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/SOP-4_3.8x4.1mm_P2.54mm/kicadPcb3d_450.png

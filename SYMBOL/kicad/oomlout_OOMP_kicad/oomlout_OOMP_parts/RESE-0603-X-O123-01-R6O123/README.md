@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O123-01-R6O123|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O123-01-R6O123|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO1231R6O123|
-|Name|name|RESE-0603-X-O123-01-R6O123|
+|name|name|RESE-0603-X-O123-01-R6O123|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O123-01-R6O123', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O123-01-R6O123', 'kicadSymbolDatasheet': 'oom.lt/R6O123', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6O123;PARTL C-JLCC;C22790;MANUF C-XXXX;0603WAF1202T5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

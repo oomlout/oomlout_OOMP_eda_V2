@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EP910|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP910|
 |Hex ID (short code)|hexID|SZKCPLDALTERAEP91|
-|Name|name|EP910|
+|name|name|EP910|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EP910', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'EPLD', 'kicadSymbolki_description': 'EPLD'}]|
 ||||

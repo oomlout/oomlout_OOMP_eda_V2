@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VNP10N07|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-VNP10N07|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETVNP1N7|
-|Name|name|VNP10N07|
+|name|name|VNP10N07|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BUZ11', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'VNP10N07', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/vnp10n07.pdf', 'kicadSymbolki_keywords': 'N-Channel Power MOSFET OMNIFET', 'kicadSymbolki_description': '10A Id, 70V Vds, N-Channel Power MOSFET, fully autoprotected, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

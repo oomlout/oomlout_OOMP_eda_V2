@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD9280ARS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-AD9280ARS|
 |Hex ID (short code)|hexID|SZKANALOGADCAD928ARS|
-|Name|name|AD9280ARS|
+|name|name|AD9280ARS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD9280ARS', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD9280.pdf', 'kicadSymbolki_keywords': 'ADC CAN VIDEO', 'kicadSymbolki_description': 'Video ADC (32 Mhz), SSOP-28'}]|
 ||||

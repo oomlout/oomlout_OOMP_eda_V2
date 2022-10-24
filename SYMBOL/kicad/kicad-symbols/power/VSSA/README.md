@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VSSA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-VSSA|
 |Hex ID (short code)|hexID|SZKPOWERVSSA|
-|Name|name|VSSA|
+|name|name|VSSA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'VSSA', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "VSSA"'}]|
 ||||

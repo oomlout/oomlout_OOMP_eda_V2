@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MKV11Z128VLH7|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKV11Z128VLH7|
 |Hex ID (short code)|hexID|SZKMCUNXPKINETISMKV11Z128VLH7|
-|Name|name|MKV11Z128VLH7|
+|name|name|MKV11Z128VLH7|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MKV11Z128VLH7', 'kicadSymbolFootprint': 'Package_QFP:LQFP-64_10x10mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/KV11P64M75.pdf', 'kicadSymbolki_keywords': 'Kinetis KV11 ARM Cortex M0+', 'kicadSymbolki_description': 'Kinetis KV11 series, 75-MHz/32-bit ARM Cortex-M0+, 128 kB flash, 16 kB RAM, Entry-Level, Real-time Motor Control, LQFP-64', 'kicadSymbolki_fp_filters': 'LQFP*10x10mm*P0.5mm*'}]|
 ||||

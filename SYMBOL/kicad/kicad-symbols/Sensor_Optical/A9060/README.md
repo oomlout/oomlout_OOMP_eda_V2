@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|A9060|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-A9060|
 |Hex ID (short code)|hexID|SZKSENOPTICALA96|
-|Name|name|A9060|
+|name|name|A9060|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'A9050', 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'A9060', 'kicadSymbolFootprint': 'OptoDevice:R_LDR_5.0x4.1mm_P3mm_Vertical', 'kicadSymbolDatasheet': 'http://cdn-reichelt.de/documents/datenblatt/A500/A90xxxx%23PE.pdf', 'kicadSymbolki_keywords': 'light dependent photo resistor LDR', 'kicadSymbolki_description': 'light dependent resistor', 'kicadSymbolki_fp_filters': 'R*LDR*5.0x4.1mm*P3mm*'}]|
 ||||

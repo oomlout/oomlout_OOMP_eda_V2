@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM1117-1.8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM1117-1.8|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM111718|
-|Name|name|LM1117-1.8|
+|name|name|LM1117-1.8|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM1117-1.8', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm1117.pdf', 'kicadSymbolki_keywords': 'linear regulator ldo fixed positive', 'kicadSymbolki_description': '800mA Low-Dropout Linear Regulator, 1.8V fixed output, TO-220/TO-252/TO-263/SOT-223', 'kicadSymbolki_fp_filters': 'SOT?223* TO?263* TO?252* TO?220*'}]|
 ||||

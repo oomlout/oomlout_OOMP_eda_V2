@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DTC143X|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC143X|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTDTC143X|
-|Name|name|DTC143X|
+|name|name|DTC143X|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DTC143X', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'ROHM Digital NPN Transistor', 'kicadSymbolki_description': 'Digital NPN Transistor, 4k7/10k, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23* SC?59*'}]|
 ||||

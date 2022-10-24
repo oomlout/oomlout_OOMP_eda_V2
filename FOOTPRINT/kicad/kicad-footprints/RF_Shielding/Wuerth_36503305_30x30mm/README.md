@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Wuerth_36503305_30x30mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Wuerth_36503305_30x30mm|
 |Hex ID (short code)|hexID|FZKRFSWUERTH3653353X3|
-|Name|name|RF_Shielding : Wuerth_36503305_30x30mm|
+|name|name|RF_Shielding : Wuerth_36503305_30x30mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Wuerth_36503305_30x30mm', 'description': 'WE-SHC Shielding Cabinet THT 31x31mm', 'tags': 'Shielding Cabinet', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Shielding.3dshapes/Wuerth_36503305_30x30mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|B330|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-B330|
 |Hex ID (short code)|hexID|SZKDIODEB33|
-|Name|name|B330|
+|name|name|B330|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'B320', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'B330', 'kicadSymbolFootprint': 'Diode_SMD:D_SMC', 'kicadSymbolDatasheet': 'http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '30V 3A Schottky Barrier Rectifier Diode, SMC', 'kicadSymbolki_fp_filters': 'D*SMC*'}]|
 ||||

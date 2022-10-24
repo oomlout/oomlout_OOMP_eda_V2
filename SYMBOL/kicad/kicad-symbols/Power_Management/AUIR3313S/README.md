@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AUIR3313S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-AUIR3313S|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTAUIR3313S|
-|Name|name|AUIR3313S|
+|name|name|AUIR3313S|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AUIPS7111S', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AUIR3313S', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-4', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/auir3313.pdf?fileId=5546d462533600a4015355a83e2d1347', 'kicadSymbolki_keywords': 'high side switch', 'kicadSymbolki_description': 'Programmable Current Sense High Side Switch, 32V, 90A, D2PAK-5L', 'kicadSymbolki_fp_filters': 'TO?263*'}]|
 ||||

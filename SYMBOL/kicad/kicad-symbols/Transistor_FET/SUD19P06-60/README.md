@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SUD19P06-60|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD19P06-60|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETSUD19P66|
-|Name|name|SUD19P06-60|
+|name|name|SUD19P06-60|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'SUD19P06-60', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-2', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/69253/sud19p06.pdf', 'kicadSymbolki_keywords': 'TrenchFET P-Channel Power MOSFET', 'kicadSymbolki_description': '19A Id, 60V Vds, TrenchFET P-Channel Power MOSFET, 60mOhm Ron, 40nC Qg, -55 to 150 °C, TO-252-2', 'kicadSymbolki_fp_filters': 'TO?252*'}]|
 ||||

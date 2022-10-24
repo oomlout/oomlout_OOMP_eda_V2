@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM1084-3.3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM1084-3.3|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM18433|
-|Name|name|LM1084-3.3|
+|name|name|LM1084-3.3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM1084-3.3', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm1084.pdf', 'kicadSymbolki_keywords': 'Voltage Regulator Fixed 5A Positive', 'kicadSymbolki_description': '5A 27V Linear Regulator, Fixed Output 3.3V, TO-220/TO-263', 'kicadSymbolki_fp_filters': 'TO?220* TO?263*'}]|
 ||||

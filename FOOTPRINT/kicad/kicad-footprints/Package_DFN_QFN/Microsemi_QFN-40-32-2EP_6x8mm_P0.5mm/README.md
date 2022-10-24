@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Microsemi_QFN-40-32-2EP_6x8mm_P0.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Microsemi_QFN-40-32-2EP_6x8mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKDFNMSEMIQFN4322EP6X8P5|
-|Name|name|Package_DFN_QFN : Microsemi_QFN-40-32-2EP_6x8mm_P0.5mm|
+|name|name|Package_DFN_QFN : Microsemi_QFN-40-32-2EP_6x8mm_P0.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Microsemi_QFN-40-32-2EP_6x8mm_P0.5mm', 'description': '40-Lead (32-Lead Populated) Plastic Quad Flat, No Lead Package - 6x8x0.9mm Body (https://www.microsemi.com/document-portal/doc_download/131677-pd70224-data-sheet)', 'tags': 'QFN 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Microsemi_QFN-40-32-2EP_6x8mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Microsemi_QFN-40-32-2EP_6x8mm_P0.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Microsemi_QFN-40-32-2EP_6x8mm_P0.5mm/kicadPcb3d_450.png

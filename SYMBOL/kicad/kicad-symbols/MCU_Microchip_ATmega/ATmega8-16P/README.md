@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega8-16P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega8-16P|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA816P|
-|Name|name|ATmega8-16P|
+|name|name|ATmega8-16P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATmega8L-8P', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega8-16P', 'kicadSymbolFootprint': 'Package_DIP:DIP-28_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2486-8-bit-avr-microcontroller-atmega8_l_datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR', 'kicadSymbolki_description': '16MHz, 8kB Flash, 1kB SRAM, 512B EEPROM, DIP-28', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

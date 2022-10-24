@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DZ2S047X0L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-DZ2S047X0L|
 |Hex ID (short code)|hexID|SZKDIODEDZ2S47XL|
-|Name|name|DZ2S047X0L|
+|name|name|DZ2S047X0L|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZPYxx', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'DZ2S047X0L', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-523', 'kicadSymbolDatasheet': 'https://industrial.panasonic.com/content/data/SC/ds/ds4/DZ2S04700L_E.pdf', 'kicadSymbolki_keywords': 'zener diode', 'kicadSymbolki_description': '150mW Silicon Planar Zener Diode, 4.7V, SOD-523', 'kicadSymbolki_fp_filters': 'D?SOD?523*'}]|
 ||||

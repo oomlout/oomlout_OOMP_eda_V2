@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0402-X-UF1-V10-C42U001|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-UF1-V10-C42U001|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XUF1V1C42U1|
-|Name|name|CAPC-0402-X-UF1-V10-C42U001|
+|name|name|CAPC-0402-X-UF1-V10-C42U001|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0402-X-UF1-V10-C42U001', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0402-X-UF1-V10-C42U001', 'kicadSymbolDatasheet': 'oom.lt/C42U001', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C42U001;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

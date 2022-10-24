@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|UA9637|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_LineDriver-UA9637|
 |Hex ID (short code)|hexID|SZKINTERFACELINEDRIVERUA9637|
-|Name|name|UA9637|
+|name|name|UA9637|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'UA9637', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://pdf.datasheetcatalog.com/datasheets2/28/284473_1.pdf', 'kicadSymbolki_keywords': 'Dual differential line receiver', 'kicadSymbolki_description': 'Dual differential line receiver, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LNK615DG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK615DG|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK615DG|
-|Name|name|LNK615DG|
+|name|name|LNK615DG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LNK603DG', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LNK615DG', 'kicadSymbolFootprint': 'Package_SO:PowerIntegrations_SO-8C', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/linkswitch-ii_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Energy-Efficient, Accurate CV/CC Switcher for Adapters and Chargers', 'kicadSymbolki_description': 'LinkSwitch-II Family, 5.1W Output Power, SO-8C', 'kicadSymbolki_fp_filters': 'PowerIntegrations?SO?8C*'}]|
 ||||

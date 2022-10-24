@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HDMI_C_1.4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-HDMI_C_1.4|
 |Hex ID (short code)|hexID|SZKCNHDMIC14|
-|Name|name|HDMI_C_1.4|
+|name|name|HDMI_C_1.4|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HDMI_C_1.4', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://pinoutguide.com/PortableDevices/mini_hdmi_pinout.shtml', 'kicadSymbolki_keywords': 'hdmi conn', 'kicadSymbolki_description': 'HDMI 1.4+ type C connector', 'kicadSymbolki_fp_filters': 'HDMI*C*'}]|
 ||||

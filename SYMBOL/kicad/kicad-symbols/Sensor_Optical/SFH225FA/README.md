@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SFH225FA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH225FA|
 |Hex ID (short code)|hexID|SZKSENOPTICALSFH225FA|
-|Name|name|SFH225FA|
+|name|name|SFH225FA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SFH225FA', 'kicadSymbolFootprint': 'OptoDevice:Osram_SFH225', 'kicadSymbolDatasheet': 'http://www.osram-os.com/Graphics/XPic0/00209685_0.pdf/SFH%20225%20FA.pdf', 'kicadSymbolki_keywords': 'opto PIN photodiode IR', 'kicadSymbolki_description': 'Silicon PIN Photodiode with Daylight Blocking Filter', 'kicadSymbolki_fp_filters': 'Osram*SFH225*'}]|
 ||||

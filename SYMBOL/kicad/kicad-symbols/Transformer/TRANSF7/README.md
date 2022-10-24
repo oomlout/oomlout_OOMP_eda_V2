@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TRANSF7|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-TRANSF7|
 |Hex ID (short code)|hexID|SZKTRTRANSF7|
-|Name|name|TRANSF7|
+|name|name|TRANSF7|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TR', 'kicadSymbolValue': 'TRANSF7', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

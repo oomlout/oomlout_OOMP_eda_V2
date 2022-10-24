@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|A2C25S12M3-F|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-A2C25S12M3-F|
 |Hex ID (short code)|hexID|SZKTRANSISTORPOWERMOA2C25S12M3F|
-|Name|name|A2C25S12M3-F|
+|name|name|A2C25S12M3-F|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'A2C25S12M3', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'A2C25S12M3-F', 'kicadSymbolFootprint': 'Transistor_Power_Module:ST_ACEPACK-2-CIB_PressFIT', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/a2c25s12m3-f.pdf', 'kicadSymbolki_keywords': 'IGBT Power Module Trench Field Stop Technology M series', 'kicadSymbolki_description': '25A, 1200V, 20kHz, 197W x 6 , 3-phase, Freewheeling Diode, Brake Chopper, Diode Rectifier, 5k NTC, PressFIT, ACEPACK-2-CIB', 'kicadSymbolki_fp_filters': 'ST*ACEPACK*2*CIB*PressFIT*'}]|
 ||||

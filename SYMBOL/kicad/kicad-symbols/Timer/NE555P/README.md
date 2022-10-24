@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NE555P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-NE555P|
 |Hex ID (short code)|hexID|SZKTIMERNE555P|
-|Name|name|NE555P|
+|name|name|NE555P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NE555P', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ne555.pdf', 'kicadSymbolki_keywords': 'single timer 555', 'kicadSymbolki_description': 'Precision Timers, 555 compatible,  PDIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

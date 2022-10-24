@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP6L01Ux-xOT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L01Ux-xOT|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALMCP6L1UXXOT|
-|Name|name|MCP6L01Ux-xOT|
+|name|name|MCP6L01Ux-xOT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM321', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP6L01Ux-xOT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/22140b.pdf', 'kicadSymbolki_keywords': 'opamp vfa r2r rtr', 'kicadSymbolki_description': 'Single, 1 MHz, 85µA, Rail-to-Rail input and output, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

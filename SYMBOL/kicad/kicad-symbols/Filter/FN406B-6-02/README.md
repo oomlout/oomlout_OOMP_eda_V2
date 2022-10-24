@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FN406B-6-02|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Filter-FN406B-6-02|
 |Hex ID (short code)|hexID|SZKFILFN46B62|
-|Name|name|FN406B-6-02|
+|name|name|FN406B-6-02|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'FN406-0.5-02', 'kicadSymbolReference': 'FL', 'kicadSymbolValue': 'FN406B-6-02', 'kicadSymbolFootprint': 'Filter:Filter_Schaffner_FN406', 'kicadSymbolDatasheet': 'https://www.schaffner.com/products/download/product/datasheet/fn-406-ultra-compact-emc-filter/', 'kicadSymbolki_keywords': 'EMI mains', 'kicadSymbolki_description': '6A ultra compact EMI Filter, medical version', 'kicadSymbolki_fp_filters': 'Filter*Schaffner*FN406*'}]|
 ||||

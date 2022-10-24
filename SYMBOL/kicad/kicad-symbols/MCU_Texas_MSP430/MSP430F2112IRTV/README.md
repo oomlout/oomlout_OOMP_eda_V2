@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MSP430F2112IRTV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F2112IRTV|
 |Hex ID (short code)|hexID|SZKMCUTEXASMSP43MSP43F2112IRTV|
-|Name|name|MSP430F2112IRTV|
+|name|name|MSP430F2112IRTV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MSP430F2112IRTV', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PVQFN-N32_EP3.45x3.45mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/msp430f2112.pdf', 'kicadSymbolki_keywords': 'TI MSP430 16-bit mixed signal microcontroller', 'kicadSymbolki_description': '2kB + 256B Flash, 256B RAM, QFN-32', 'kicadSymbolki_fp_filters': 'Texas*S?PVQFN*'}]|
 ||||

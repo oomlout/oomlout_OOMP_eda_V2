@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_Reed|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_Reed|
 |Hex ID (short code)|hexID|SZKSWITCHSWREED|
-|Name|name|SW_Reed|
+|name|name|SW_Reed|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_Reed', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'reed magnetic switch', 'kicadSymbolki_description': 'reed switch'}]|
 ||||

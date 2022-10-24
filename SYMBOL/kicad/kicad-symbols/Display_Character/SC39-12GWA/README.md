@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SC39-12GWA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-SC39-12GWA|
 |Hex ID (short code)|hexID|SZKDICHARACTERSC3912GWA|
-|Name|name|SC39-12GWA|
+|name|name|SC39-12GWA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SC39-12EWA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SC39-12GWA', 'kicadSymbolFootprint': 'Display_7Segment:Sx39-1xxxxx', 'kicadSymbolDatasheet': 'http://www.kingbrightusa.com/images/catalog/SPEC/sc39-12gwa.pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'Single digit 7 segment display, green, common cathode', 'kicadSymbolki_fp_filters': 'S?39?1*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Diodes_DFN1006-3|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Diodes_DFN1006-3|
 |Hex ID (short code)|hexID|FZKDFNDIODESDFN163|
-|Name|name|Package_DFN_QFN : Diodes_DFN1006-3|
+|name|name|Package_DFN_QFN : Diodes_DFN1006-3|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Diodes_DFN1006-3', 'description': 'DFN package size 1006 3 pins', 'tags': 'DFN package size 1006 3 pins', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Diodes_DFN1006-3.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Diodes_DFN1006-3/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Diodes_DFN1006-3/kicadPcb3d_450.png

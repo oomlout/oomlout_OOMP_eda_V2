@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|6P2C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-6P2C|
 |Hex ID (short code)|hexID|SZKCN6P2C|
-|Name|name|6P2C|
+|name|name|6P2C|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': '6P2C', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': '6P2C RJ female connector', 'kicadSymbolki_description': 'RJ connector, 6P2C (6 positions 2 connected), RJ11', 'kicadSymbolki_fp_filters': '6P2C* RJ11*'}]|
 ||||

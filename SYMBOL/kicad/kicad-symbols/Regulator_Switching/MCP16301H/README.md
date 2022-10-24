@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP16301H|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP16301H|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGMCP1631H|
-|Name|name|MCP16301H|
+|name|name|MCP16301H|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP16301', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP16301H', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20005004D.pdf', 'kicadSymbolki_keywords': 'switching buck converter power-supply voltage regulator', 'kicadSymbolki_description': '1A, 4.7 to 36V Input, High Voltage Input integrated switch step-down regulator, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

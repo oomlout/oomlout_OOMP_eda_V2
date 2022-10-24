@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SYM_LASER_Large|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Graphic-SYM_LASER_Large|
 |Hex ID (short code)|hexID|SZKGRAPHICSYMLASERL|
-|Name|name|SYM_LASER_Large|
+|name|name|SYM_LASER_Large|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#SYM', 'kicadSymbolValue': 'SYM_LASER_Large', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'symbol logo laser warning', 'kicadSymbolki_description': 'Laser radiation warning symbol, large'}]|
 ||||

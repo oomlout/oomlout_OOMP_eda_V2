@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4068|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4068|
 |Hex ID (short code)|hexID|SZK4XXXIEEE468|
-|Name|name|4068|
+|name|name|4068|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4068', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/cd4068b.pdf', 'kicadSymbolki_keywords': 'cmos nand and 8-input', 'kicadSymbolki_description': 'CMOS 8-input NAND/AND Gate'}]|
 ||||

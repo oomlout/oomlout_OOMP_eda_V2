@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC79M12_TO220|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC79M12_TO220|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMC79M12TO22|
-|Name|name|MC79M12_TO220|
+|name|name|MC79M12_TO220|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM7905_TO220', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC79M12_TO220', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/MC79M00-D.PDF', 'kicadSymbolki_keywords': 'Voltage Regulator 500mA Negative', 'kicadSymbolki_description': 'Negative 500mA 35V Linear Regulator, Fixed Output -12V, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

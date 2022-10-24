@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAT160C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAT160C|
 |Hex ID (short code)|hexID|SZKDIODEBAT16C|
-|Name|name|BAT160C|
+|name|name|BAT160C|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAT160C', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BAT160_SERIES.pdf', 'kicadSymbolki_keywords': 'dual schottky diode', 'kicadSymbolki_description': 'Dual schottky barrier diode, common cathode, SOT-223', 'kicadSymbolki_fp_filters': 'SOT?223*'}]|
 ||||

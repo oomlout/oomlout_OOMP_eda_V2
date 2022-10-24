@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|USB_A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-USB_A|
 |Hex ID (short code)|hexID|SZKCNUA|
-|Name|name|USB_A|
+|name|name|USB_A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'USB_A', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'connector USB', 'kicadSymbolki_description': 'USB Type A connector', 'kicadSymbolki_fp_filters': 'USB*'}]|
 ||||

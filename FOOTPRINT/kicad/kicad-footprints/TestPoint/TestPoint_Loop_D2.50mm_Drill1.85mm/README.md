@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TestPoint_Loop_D2.50mm_Drill1.85mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Loop_D2.50mm_Drill1.85mm|
 |Hex ID (short code)|hexID|FZKTPTPLOOPD25DRILL185|
-|Name|name|TestPoint : TestPoint_Loop_D2.50mm_Drill1.85mm|
+|name|name|TestPoint : TestPoint_Loop_D2.50mm_Drill1.85mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TestPoint_Loop_D2.50mm_Drill1.85mm', 'description': 'wire loop as test point, loop diameter 2.5mm, hole diameter 1.85mm', 'tags': 'test point wire loop bead', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Loop_D2.50mm_Drill1.85mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

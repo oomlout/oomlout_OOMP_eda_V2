@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CoaxialSwitch_Testpoint|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-CoaxialSwitch_Testpoint|
 |Hex ID (short code)|hexID|SZKCNCOAXIALSWITCHTP|
-|Name|name|CoaxialSwitch_Testpoint|
+|name|name|CoaxialSwitch_Testpoint|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TP', 'kicadSymbolValue': 'CoaxialSwitch_Testpoint', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': ' Coaxial Switch RF testpoint', 'kicadSymbolki_description': 'Subminiature Coaxial Switch testpoint', 'kicadSymbolki_fp_filters': 'CoaxialSwitch*'}]|
 ||||

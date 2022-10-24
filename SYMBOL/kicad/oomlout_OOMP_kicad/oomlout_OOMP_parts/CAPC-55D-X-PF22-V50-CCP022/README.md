@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-55D-X-PF22-V50-CCP022|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-55D-X-PF22-V50-CCP022|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC55DXPF22V5CCP22|
-|Name|name|CAPC-55D-X-PF22-V50-CCP022|
+|name|name|CAPC-55D-X-PF22-V50-CCP022|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-55D-X-PF22-V50-CCP022', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-55D-X-PF22-V50-CCP022', 'kicadSymbolDatasheet': 'oom.lt/CCP022', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: CCP022;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

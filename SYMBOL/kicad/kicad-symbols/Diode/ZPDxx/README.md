@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ZPDxx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-ZPDxx|
 |Hex ID (short code)|hexID|SZKDIODEZPDXX|
-|Name|name|ZPDxx|
+|name|name|ZPDxx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZPYxx', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'ZPDxx', 'kicadSymbolFootprint': 'Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal', 'kicadSymbolDatasheet': 'http://diotec.com/tl_files/diotec/files/pdf/datasheets/zpd1', 'kicadSymbolki_keywords': 'zener diode', 'kicadSymbolki_description': '500mW Zener Diode, DO-35', 'kicadSymbolki_fp_filters': 'D*DO?35*'}]|
 ||||

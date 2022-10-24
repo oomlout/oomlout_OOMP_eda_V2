@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Bourns-SRN4018|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRN4018|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLBOURNSSRN418|
-|Name|name|Inductor_SMD : L_Bourns-SRN4018|
+|name|name|Inductor_SMD : L_Bourns-SRN4018|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Bourns-SRN4018', 'description': 'Bourns SRN4018 series SMD inductor, https://www.bourns.com/docs/Product-Datasheets/SRN4018.pdf', 'tags': 'Bourns SRN4018 SMD inductor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns-SRN4018.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns-SRN4018/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns-SRN4018/kicadPcb3d_450.png

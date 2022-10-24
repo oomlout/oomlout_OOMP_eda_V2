@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TSSOP-68_8x14mm_P0.4mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-68_8x14mm_P0.4mm|
 |Hex ID (short code)|hexID|FZKSOTSS688X14P4|
-|Name|name|Package_SO : TSSOP-68_8x14mm_P0.4mm|
+|name|name|Package_SO : TSSOP-68_8x14mm_P0.4mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TSSOP-68_8x14mm_P0.4mm', 'description': 'TSSOP, 68 Pin (JEDEC MO-153 Var JD-1 https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'TSSOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-68_8x14mm_P0.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-68_8x14mm_P0.4mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-68_8x14mm_P0.4mm/kicadPcb3d_450.png

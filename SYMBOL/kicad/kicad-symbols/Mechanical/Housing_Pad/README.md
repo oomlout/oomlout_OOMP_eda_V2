@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Housing_Pad|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Mechanical-Housing_Pad|
 |Hex ID (short code)|hexID|SZKMECHANICALHOUSINGPAD|
-|Name|name|Housing_Pad|
+|name|name|Housing_Pad|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'N', 'kicadSymbolValue': 'Housing_Pad', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'housing enclosure shield', 'kicadSymbolki_description': 'Housing with connection pin'}]|
 ||||

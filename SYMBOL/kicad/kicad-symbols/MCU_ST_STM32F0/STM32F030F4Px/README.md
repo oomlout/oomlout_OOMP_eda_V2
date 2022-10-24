@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F030F4Px|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F030F4Px|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32FSTM32F3F4PX|
-|Name|name|STM32F030F4Px|
+|name|name|STM32F030F4Px|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F030F4Px', 'kicadSymbolFootprint': 'Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00088500.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M0 STM32F0 STM32F0x0 Value Line', 'kicadSymbolki_description': 'ARM Cortex-M0 MCU, 16KB flash, 4KB RAM, 48MHz, 2.4-3.6V, 15 GPIO, TSSOP-20', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x6.5mm*P0.65mm*'}]|
 ||||

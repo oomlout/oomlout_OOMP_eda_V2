@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AS3320|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-AS3320|
 |Hex ID (short code)|hexID|SZKAUDIOAS332|
-|Name|name|AS3320|
+|name|name|AS3320|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AS3320', 'kicadSymbolFootprint': 'Package_DIP:DIP-18_W7.62mm', 'kicadSymbolDatasheet': 'http://www.alfarzpp.lv/eng/sc/AS3320.pdf', 'kicadSymbolki_keywords': 'VCF CEM3320 ALFA', 'kicadSymbolki_description': 'Voltage Controlled Filter (VCF), DIP-18', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_D5.0mm-3|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm-3|
 |Hex ID (short code)|hexID|FZKLLD53|
-|Name|name|LED_THT : LED_D5.0mm-3|
+|name|name|LED_THT : LED_D5.0mm-3|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_D5.0mm-3', 'description': 'LED, diameter 5.0mm, 2 pins, diameter 5.0mm, 3 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-59EGC(Ver.17A).pdf', 'tags': 'LED diameter 5.0mm 2 pins diameter 5.0mm 3 pins', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D5.0mm-3.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm-3/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D5.0mm-3/kicadPcb3d_450.png

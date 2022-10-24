@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|68000D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPU_NXP_68000-68000D|
 |Hex ID (short code)|hexID|SZKCPUNXP6868D|
-|Name|name|68000D|
+|name|name|68000D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '68000D', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/reference-manual/MC68000UM.pdf', 'kicadSymbolki_keywords': '68000 Microprocessor CPU', 'kicadSymbolki_description': '16/32-bit Microprocessor'}]|
 ||||

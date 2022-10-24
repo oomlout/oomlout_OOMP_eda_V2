@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NEUT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-NEUT|
 |Hex ID (short code)|hexID|SZKPOWERNEUT|
-|Name|name|NEUT|
+|name|name|NEUT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'NEUT', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "NEUT"'}]|
 ||||

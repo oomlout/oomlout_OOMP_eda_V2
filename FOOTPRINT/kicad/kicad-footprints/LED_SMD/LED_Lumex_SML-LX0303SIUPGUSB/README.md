@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_Lumex_SML-LX0303SIUPGUSB|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Lumex_SML-LX0303SIUPGUSB|
 |Hex ID (short code)|hexID|FZKLSMLLUMEXSMLLX33SIUPGU|
-|Name|name|LED_SMD : LED_Lumex_SML-LX0303SIUPGUSB|
+|name|name|LED_SMD : LED_Lumex_SML-LX0303SIUPGUSB|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_Lumex_SML-LX0303SIUPGUSB', 'description': 'Lumex RGB LED, clear, SMD, https://www.lumex.com/spec/SML-LX0303SIUPGUSB.pdf', 'tags': 'LED RGB', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Lumex_SML-LX0303SIUPGUSB.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Lumex_SML-LX0303SIUPGUSB/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Lumex_SML-LX0303SIUPGUSB/kicadPcb3d_450.png

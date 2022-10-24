@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|+12P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-+12P|
 |Hex ID (short code)|hexID|SZKPOWER+12P|
-|Name|name|+12P|
+|name|name|+12P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': '+12P', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "+12P"'}]|
 ||||

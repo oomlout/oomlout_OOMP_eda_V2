@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MJ2955|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-MJ2955|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTMJ2955|
-|Name|name|MJ2955|
+|name|name|MJ2955|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'MJ2955', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-3', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/2N3055-D.PDF', 'kicadSymbolki_keywords': 'power PNP Transistor', 'kicadSymbolki_description': '-15A Ic, -60V Vce, Power PNP Transistor, TO-3', 'kicadSymbolki_fp_filters': 'TO?3*'}]|
 ||||

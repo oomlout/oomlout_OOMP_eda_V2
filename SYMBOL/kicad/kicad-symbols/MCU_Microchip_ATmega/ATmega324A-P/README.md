@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega324A-P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega324A-P|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA324AP|
-|Name|name|ATmega324A-P|
+|name|name|ATmega324A-P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATmega164A-P', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega324A-P', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8272-8-bit-AVR-microcontroller-ATmega164A_PA-324A_PA-644A_PA-1284_P_datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR', 'kicadSymbolki_description': '20MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, JTAG, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

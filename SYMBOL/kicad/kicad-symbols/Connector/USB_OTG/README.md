@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|USB_OTG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-USB_OTG|
 |Hex ID (short code)|hexID|SZKCNUOTG|
-|Name|name|USB_OTG|
+|name|name|USB_OTG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'USB_OTG', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'connector USB', 'kicadSymbolki_description': 'USB mini/micro connector', 'kicadSymbolki_fp_filters': 'USB*'}]|
 ||||

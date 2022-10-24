@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM4132xMF-1.8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4132xMF-1.8|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGELM4132XMF18|
-|Name|name|LM4132xMF-1.8|
+|name|name|LM4132xMF-1.8|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM4132xMF-1.8', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm4132.pdf', 'kicadSymbolki_keywords': 'Precision Low Dropout Voltage Reference 1.8V', 'kicadSymbolki_description': 'Precision Low Dropout Voltage Reference, 1.8V, ±0.05% to ±0.5%, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

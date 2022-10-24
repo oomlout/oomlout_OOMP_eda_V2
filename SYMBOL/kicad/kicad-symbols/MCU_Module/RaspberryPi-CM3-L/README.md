@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RaspberryPi-CM3-L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Module-RaspberryPi-CM3-L|
 |Hex ID (short code)|hexID|SZKMCUMORASPBERRYPICM3L|
-|Name|name|RaspberryPi-CM3-L|
+|name|name|RaspberryPi-CM3-L|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'RaspberryPi-CM3+L', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'RaspberryPi-CM3-L', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.raspberrypi.org/documentation/hardware/computemodule/datasheets/rpi_DATA_CM_1p0.pdf', 'kicadSymbolki_keywords': 'raspberry pi compute module', 'kicadSymbolki_description': 'BCM2837 Broadcom 1.2 GHZ quad core, 1 GB RAM, industrial SoM computer', 'kicadSymbolki_fp_filters': '*SODIMM*'}]|
 ||||

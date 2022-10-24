@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SYM_Radioactive_Radiation_Small|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Graphic-SYM_Radioactive_Radiation_Small|
 |Hex ID (short code)|hexID|SZKGRAPHICSYMRADIOACTIVERADIATIONSLL|
-|Name|name|SYM_Radioactive_Radiation_Small|
+|name|name|SYM_Radioactive_Radiation_Small|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#SYM', 'kicadSymbolValue': 'SYM_Radioactive_Radiation_Small', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'symbol logo radioactive radiation warning', 'kicadSymbolki_description': 'Radioactive/radiation warning symbol, small'}]|
 ||||

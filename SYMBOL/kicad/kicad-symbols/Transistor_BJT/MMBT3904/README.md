@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MMBT3904|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMBT3904|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBT394|
-|Name|name|MMBT3904|
+|name|name|MMBT3904|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BC817', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'MMBT3904', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/2N3903-D.PDF', 'kicadSymbolki_keywords': 'NPN Transistor', 'kicadSymbolki_description': '0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

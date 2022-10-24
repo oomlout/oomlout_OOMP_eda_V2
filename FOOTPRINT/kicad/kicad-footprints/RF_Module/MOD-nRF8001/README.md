@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MOD-nRF8001|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-MOD-nRF8001|
 |Hex ID (short code)|hexID|FZKRFMOMODNRF81|
-|Name|name|RF_Module : MOD-nRF8001|
+|name|name|RF_Module : MOD-nRF8001|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MOD-nRF8001', 'description': 'BLE module, https://www.olimex.com/Products/Modules/RF/MOD-nRF8001/', 'tags': 'BLE module', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/MOD-nRF8001.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

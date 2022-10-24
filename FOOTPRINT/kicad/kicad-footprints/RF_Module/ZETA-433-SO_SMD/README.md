@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ZETA-433-SO_SMD|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-ZETA-433-SO_SMD|
 |Hex ID (short code)|hexID|FZKRFMOZETA433SOSM|
-|Name|name|RF_Module : ZETA-433-SO_SMD|
+|name|name|RF_Module : ZETA-433-SO_SMD|
 |Footprint Kicad|footprintKicadDetails|{'name': 'ZETA-433-SO_SMD', 'description': 'RF transceiver SMD style https://www.rfsolutions.co.uk/downloads/1456219226DS-ZETA.pdf', 'tags': 'RF transceiver SMD style', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/ZETA-433-SO_SMD.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

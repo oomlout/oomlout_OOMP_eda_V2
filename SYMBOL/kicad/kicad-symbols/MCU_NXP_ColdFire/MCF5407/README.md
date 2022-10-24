@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCF5407|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_ColdFire-MCF5407|
 |Hex ID (short code)|hexID|SZKMCUNXPCOLDFIREMCF547|
-|Name|name|MCF5407|
+|name|name|MCF5407|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCF5407', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'COLDFIRE', 'kicadSymbolki_description': 'Coldfire CPU'}]|
 ||||

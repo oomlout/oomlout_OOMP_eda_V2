@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Qorvo_DFN-8-1EP_2x2mm_P0.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Qorvo_DFN-8-1EP_2x2mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKDFNQORVODFN81EP2X2P5|
-|Name|name|Package_DFN_QFN : Qorvo_DFN-8-1EP_2x2mm_P0.5mm|
+|name|name|Package_DFN_QFN : Qorvo_DFN-8-1EP_2x2mm_P0.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Qorvo_DFN-8-1EP_2x2mm_P0.5mm', 'description': 'DFN 8 2x2mm, 0.5mm http://www.qorvo.com/products/d/da000896', 'tags': 'DFN 0.5 Qorvo 2x2mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Qorvo_DFN-8-1EP_2x2mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Qorvo_DFN-8-1EP_2x2mm_P0.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Qorvo_DFN-8-1EP_2x2mm_P0.5mm/kicadPcb3d_450.png

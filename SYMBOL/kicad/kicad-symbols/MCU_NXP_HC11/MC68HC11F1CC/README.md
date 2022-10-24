@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC68HC11F1CC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_HC11-MC68HC11F1CC|
 |Hex ID (short code)|hexID|SZKMCUNXPHC11MC68HC11F1CC|
-|Name|name|MC68HC11F1CC|
+|name|name|MC68HC11F1CC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC68HC11F1CC', 'kicadSymbolFootprint': 'Package_LCC:PLCC-68', 'kicadSymbolDatasheet': 'http://cache.freescale.com/files/microcontrollers/doc/data_sheet/MC68HC11F1.pdf', 'kicadSymbolki_keywords': 'HC11 MCU Microcontroller', 'kicadSymbolki_description': 'ROMless, 1K RAM, 512B EEPROM, PLCC-68', 'kicadSymbolki_fp_filters': 'PLCC*'}]|
 ||||

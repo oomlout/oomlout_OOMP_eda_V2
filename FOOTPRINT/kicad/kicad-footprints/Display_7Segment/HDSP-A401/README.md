@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|HDSP-A401|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-HDSP-A401|
 |Hex ID (short code)|hexID|FZKDI7SHDSPA41|
-|Name|name|Display_7Segment : HDSP-A401|
+|name|name|Display_7Segment : HDSP-A401|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HDSP-A401', 'description': 'One digit 7 segment orange, common anode, https://docs.broadcom.com/docs/AV02-2553EN', 'tags': 'One digit 7 segment orange common anode', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/HDSP-A401.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/HDSP-A401/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Display_7Segment/HDSP-A401/kicadPcb3d_450.png

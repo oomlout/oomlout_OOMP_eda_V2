@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT3080xT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3080xT|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLT38XT|
-|Name|name|LT3080xT|
+|name|name|LT3080xT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT3080xT', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/3080fc.pdf', 'kicadSymbolki_keywords': 'Adjustable 1.1A Low Dropout Regulator', 'kicadSymbolki_description': 'Adjustable 1.1A Single Resistor Low Dropout Regulator, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*StaggerOdd*'}]|
 ||||

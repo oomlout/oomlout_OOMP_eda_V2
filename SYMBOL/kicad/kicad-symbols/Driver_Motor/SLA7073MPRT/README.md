@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SLA7073MPRT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7073MPRT|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORSLA773MPRT|
-|Name|name|SLA7073MPRT|
+|name|name|SLA7073MPRT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SLA7070MPRT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SLA7073MPRT', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.semicon.sanken-ele.co.jp/sk_content/sla7073mprt_ds_en.pdf', 'kicadSymbolki_keywords': 'Stepper driver', 'kicadSymbolki_description': 'Unipolar 2-phase stepper motor driver, Full and Half step, 3A', 'kicadSymbolki_fp_filters': 'ZIP23'}]|
 ||||

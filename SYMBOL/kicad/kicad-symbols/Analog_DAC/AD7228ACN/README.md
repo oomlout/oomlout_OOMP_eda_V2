@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD7228ACN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7228ACN|
 |Hex ID (short code)|hexID|SZKANALOGDACAD7228ACN|
-|Name|name|AD7228ACN|
+|name|name|AD7228ACN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AD7228ABN', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD7228ACN', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/static/imported-files/data_sheets/AD7228.pdf', 'kicadSymbolki_keywords': '8bit DAC 8CH', 'kicadSymbolki_description': '8bit DAC 8 Channel, Single Reference, DIP-24', 'kicadSymbolki_fp_filters': 'PDIP* DIP*'}]|
 ||||

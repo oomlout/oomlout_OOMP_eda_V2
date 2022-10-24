@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC2508IDKD-32|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2508IDKD-32|
 |Hex ID (short code)|hexID|SZKANALOGADCLTC258IDKD32|
-|Name|name|LTC2508IDKD-32|
+|name|name|LTC2508IDKD-32|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LTC2508CDKD-32', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC2508IDKD-32', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-24-1EP_4x7mm_P0.5mm_EP2.64x6.44mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/250832fc.pdf', 'kicadSymbolki_keywords': 'LT ADC 32bit', 'kicadSymbolki_description': '32-Bit Oversampling ADC with Configurable Digital Filter, -40°C to 85°C, DFN-24 package', 'kicadSymbolki_fp_filters': 'DFN*1EP*4x7mm*P0.5mm*'}]|
 ||||

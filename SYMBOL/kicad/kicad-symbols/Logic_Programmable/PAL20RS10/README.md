@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PAL20RS10|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Logic_Programmable-PAL20RS10|
 |Hex ID (short code)|hexID|SZKLOGICPROGRAABLEPAL2RS1|
-|Name|name|PAL20RS10|
+|name|name|PAL20RS10|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PAL20RS10', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'PAL PLD 20RS10', 'kicadSymbolki_description': 'Programmable Logic Array, DIP-24 (Narrow)', 'kicadSymbolki_fp_filters': 'DIP* PDIP*'}]|
 ||||

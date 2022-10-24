@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Converter_ACDC_HiLink_HLK-PMxx|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_HiLink_HLK-PMxx|
 |Hex ID (short code)|hexID|FZKCONCONHILINKHLKPMXX|
-|Name|name|Converter_ACDC : Converter_ACDC_HiLink_HLK-PMxx|
+|name|name|Converter_ACDC : Converter_ACDC_HiLink_HLK-PMxx|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Converter_ACDC_HiLink_HLK-PMxx', 'description': 'ACDC-Converter, 3W, HiLink, HLK-PMxx, THT, http://www.hlktech.net/product_detail.php?ProId=54', 'tags': 'ACDC-Converter 3W THT HiLink board mount module', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_ACDC.3dshapes/Converter_ACDC_HiLink_HLK-PMxx.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_HiLink_HLK-PMxx/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_HiLink_HLK-PMxx/kicadPcb3d_450.png

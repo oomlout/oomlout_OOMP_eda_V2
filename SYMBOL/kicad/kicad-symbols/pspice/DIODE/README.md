@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DIODE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-pspice-DIODE|
 |Hex ID (short code)|hexID|SZKPSPICEDIODE|
-|Name|name|DIODE|
+|name|name|DIODE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'DIODE', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Diode symbol for simulation only. Pin order incompatible with official kicad footprints'}]|
 ||||

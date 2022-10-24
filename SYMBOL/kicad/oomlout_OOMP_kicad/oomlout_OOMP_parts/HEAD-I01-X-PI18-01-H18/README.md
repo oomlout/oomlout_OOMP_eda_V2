@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-I01-X-PI18-01-H18|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI18-01-H18|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI181H18|
-|Name|name|HEAD-I01-X-PI18-01-H18|
+|name|name|HEAD-I01-X-PI18-01-H18|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HEAD-I01-X-PI18-01-H18', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:HEAD-I01-X-PI18-01-H18', 'kicadSymbolDatasheet': 'oom.lt/H18', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'hexID: H18;Generic connector, single row, 01x18, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_1x??_*'}]|
 ||||

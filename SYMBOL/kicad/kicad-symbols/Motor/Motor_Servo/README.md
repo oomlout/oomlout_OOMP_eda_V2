@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Motor_Servo|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo|
 |Hex ID (short code)|hexID|SZKMOTORMOTORSERVO|
-|Name|name|Motor_Servo|
+|name|name|Motor_Servo|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'M', 'kicadSymbolValue': 'Motor_Servo', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://forums.parallax.com/uploads/attachments/46831/74481.png', 'kicadSymbolki_keywords': 'Servo Motor', 'kicadSymbolki_description': 'Servo Motor (Futaba, HiTec, JR connector)', 'kicadSymbolki_fp_filters': 'PinHeader*P2.54mm*'}]|
 ||||

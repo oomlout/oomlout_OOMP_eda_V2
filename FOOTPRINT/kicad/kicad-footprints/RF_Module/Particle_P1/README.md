@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Particle_P1|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-Particle_P1|
 |Hex ID (short code)|hexID|FZKRFMOPARTICLEP1|
-|Name|name|RF_Module : Particle_P1|
+|name|name|RF_Module : Particle_P1|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Particle_P1', 'description': 'https://docs.particle.io/datasheets/p1-datasheet/', 'tags': 'Particle P1', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/Particle_P1.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

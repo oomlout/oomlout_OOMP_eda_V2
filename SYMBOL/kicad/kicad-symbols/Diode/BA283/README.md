@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BA283|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BA283|
 |Hex ID (short code)|hexID|SZKDIODEBA283|
-|Name|name|BA283|
+|name|name|BA283|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N4001', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BA283', 'kicadSymbolFootprint': 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal', 'kicadSymbolDatasheet': 'http://docs-europe.electrocomponents.com/webdocs/1304/0900766b813040d6.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '35V 0.1A Band Switching Diode, DO-35', 'kicadSymbolki_fp_filters': 'D*DO?35*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SSM2220|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-SSM2220|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTSSM222|
-|Name|name|SSM2220|
+|name|name|SSM2220|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'SSM2220', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/SSM2220.pdf', 'kicadSymbolki_keywords': 'audio pnp dual', 'kicadSymbolki_description': 'Audio Dual Matched PNP transistor, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*8*3.9x4.9mm*P1.27mm* DIP*8*W7.62mm*'}]|
 ||||

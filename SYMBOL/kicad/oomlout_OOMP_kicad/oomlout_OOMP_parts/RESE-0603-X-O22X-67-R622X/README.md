@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O22X-67-R622X|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O22X-67-R622X|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO22X67R622X|
-|Name|name|RESE-0603-X-O22X-67-R622X|
+|name|name|RESE-0603-X-O22X-67-R622X|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O22X-67-R622X', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O22X-67-R622X', 'kicadSymbolDatasheet': 'oom.lt/R622X', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R622X;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

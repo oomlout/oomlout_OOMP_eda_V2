@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HN2D02FU|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-HN2D02FU|
 |Hex ID (short code)|hexID|SZKDIODEHN2D2FU|
-|Name|name|HN2D02FU|
+|name|name|HN2D02FU|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BAS16TW', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'HN2D02FU', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/HN2D02FUTW1T1-D.PDF', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Ultra high speed switching diode array 3 independent', 'kicadSymbolki_fp_filters': '*SOT?363*'}]|
 ||||

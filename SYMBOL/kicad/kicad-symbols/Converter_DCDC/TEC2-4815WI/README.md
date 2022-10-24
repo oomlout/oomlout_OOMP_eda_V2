@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TEC2-4815WI|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-TEC2-4815WI|
 |Hex ID (short code)|hexID|SZKCONTEC24815WI|
-|Name|name|TEC2-4815WI|
+|name|name|TEC2-4815WI|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TMR-0510', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TEC2-4815WI', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_TRACO_TMR-xxxx_THT', 'kicadSymbolDatasheet': 'https://www.tracopower.com/products/tec2wi.pdf', 'kicadSymbolki_keywords': 'Traco isolated isolation dc-dc converter transformer', 'kicadSymbolki_description': '83mA Regulated 2W DC/DC converter with 1.5kV isolation, 18V-75V input, 24V fixed Output Voltage, SIP-8', 'kicadSymbolki_fp_filters': 'Converter*DCDC*TRACO*TMR*xxxx*'}]|
 ||||

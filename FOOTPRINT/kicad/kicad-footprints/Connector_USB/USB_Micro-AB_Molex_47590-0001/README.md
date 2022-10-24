@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB_Micro-AB_Molex_47590-0001|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-AB_Molex_47590-0001|
 |Hex ID (short code)|hexID|FZKCNUUMABMX47591|
-|Name|name|Connector_USB : USB_Micro-AB_Molex_47590-0001|
+|name|name|Connector_USB : USB_Micro-AB_Molex_47590-0001|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB_Micro-AB_Molex_47590-0001', 'description': 'Micro USB AB receptable, right-angle inverted (https://www.molex.com/pdm_docs/sd/475900001_sd.pdf)', 'tags': 'Micro AB USB SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-AB_Molex_47590-0001.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-AB_Molex_47590-0001/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-AB_Molex_47590-0001/kicadPcb3d_450.png

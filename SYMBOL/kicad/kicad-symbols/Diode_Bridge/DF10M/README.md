@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DF10M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Bridge-DF10M|
 |Hex ID (short code)|hexID|SZKDIODEBRIDGEDF1M|
-|Name|name|DF10M|
+|name|name|DF10M|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'B40C800DM', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'DF10M', 'kicadSymbolFootprint': 'Diode_THT:Diode_Bridge_DIP-4_W7.62mm_P5.08mm', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/88571/dfm.pdf', 'kicadSymbolki_keywords': 'rectifier acdc', 'kicadSymbolki_description': 'Miniature Glass Passivated Single-Phase Bridge Rectifiers, 700V Vrms, 1.0A If, DIP-4', 'kicadSymbolki_fp_filters': 'Diode*Bridge*DIP*W7.62mm*P5.08mm*'}]|
 ||||

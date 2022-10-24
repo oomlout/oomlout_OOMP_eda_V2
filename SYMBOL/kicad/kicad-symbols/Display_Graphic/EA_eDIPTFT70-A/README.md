@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EA_eDIPTFT70-A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIPTFT70-A|
 |Hex ID (short code)|hexID|SZKDIGRAPHICEAEDIPTFT7A|
-|Name|name|EA_eDIPTFT70-A|
+|name|name|EA_eDIPTFT70-A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EA_eDIPTFT70-A', 'kicadSymbolFootprint': 'Display:EA_eDIPTFT70-XXX', 'kicadSymbolDatasheet': 'http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft70-ae.pdf', 'kicadSymbolki_keywords': 'display TFT LCD graphic', 'kicadSymbolki_description': 'TFT-graphical display with LED background, 800x480, 16-bit colours, +5V VDD, RS-232, I2C or SPI', 'kicadSymbolki_fp_filters': '*EA*eDIPTFT70*XXX*'}]|
 ||||

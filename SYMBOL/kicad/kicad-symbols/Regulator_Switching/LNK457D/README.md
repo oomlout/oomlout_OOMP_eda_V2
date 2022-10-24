@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LNK457D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK457D|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK457D|
-|Name|name|LNK457D|
+|name|name|LNK457D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LNK454D', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LNK457D', 'kicadSymbolFootprint': 'Package_SO:PowerIntegrations_SO-8C', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/linkswitch-pl_family_datasheet.pdf', 'kicadSymbolki_keywords': 'LED Driver IC with TRIAC Dimming, Single-Stage PFC and Constant Current Control for Non-Isolated Applications', 'kicadSymbolki_description': 'LinkSwitch-PL Family, 8W Output Power, SO-8C', 'kicadSymbolki_fp_filters': 'PowerIntegrations?SO?8C*'}]|
 ||||

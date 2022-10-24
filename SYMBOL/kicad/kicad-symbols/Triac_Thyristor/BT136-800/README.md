@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BT136-800|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BT136-800|
 |Hex ID (short code)|hexID|SZKTRIACTHYRISTORBT1368|
-|Name|name|BT136-800|
+|name|name|BT136-800|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TIC226', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BT136-800', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'http://www.micropik.com/PDF/BT136-600.pdf', 'kicadSymbolki_keywords': 'Triac', 'kicadSymbolki_description': '4A RMS, 800V Off-State Voltage, Triac, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

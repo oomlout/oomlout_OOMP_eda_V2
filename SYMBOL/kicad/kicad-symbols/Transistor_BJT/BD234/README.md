@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BD234|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD234|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBD234|
-|Name|name|BD234|
+|name|name|BD234|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BD140', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BD234', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-126-3_Vertical', 'kicadSymbolDatasheet': 'http://www.electronica-pt.com/datasheets/bd/BD234.pdf', 'kicadSymbolki_keywords': 'Low Voltage Transistor', 'kicadSymbolki_description': '2A Ic, 45V Vce, Low Voltage Transistor, TO-126', 'kicadSymbolki_fp_filters': 'TO?126*'}]|
 ||||

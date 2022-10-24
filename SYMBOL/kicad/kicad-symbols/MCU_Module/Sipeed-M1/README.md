@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Sipeed-M1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Module-Sipeed-M1|
 |Hex ID (short code)|hexID|SZKMCUMOSIPEEDM1|
-|Name|name|Sipeed-M1|
+|name|name|Sipeed-M1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'A', 'kicadSymbolValue': 'Sipeed-M1', 'kicadSymbolFootprint': 'Module:Sipeed-M1', 'kicadSymbolDatasheet': 'https://dl.sipeed.com/MAIX/HDK/Sipeed-M1&M1W/Specifications', 'kicadSymbolki_keywords': 'AI Kendryte K210 RISC-V', 'kicadSymbolki_description': 'AI accelerated RISC-V microcontroller', 'kicadSymbolki_fp_filters': 'Sipeed*M1*'}]|
 ||||

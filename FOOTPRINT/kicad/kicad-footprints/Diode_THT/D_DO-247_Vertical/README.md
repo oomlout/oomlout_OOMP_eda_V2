@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|D_DO-247_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-247_Vertical|
 |Hex ID (short code)|hexID|FZKDDDO247VERTICAL|
-|Name|name|Diode_THT : D_DO-247_Vertical|
+|name|name|Diode_THT : D_DO-247_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'D_DO-247_Vertical', 'description': 'Diode, DO-247 series, Vertical, P 10.9mm', 'tags': 'diode rectifier', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-247_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-247_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-247_Vertical/kicadPcb3d_450.png

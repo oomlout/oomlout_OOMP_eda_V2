@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TSOP321xx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP321xx|
 |Hex ID (short code)|hexID|SZKINTERFACEOPTICALTS321XX|
-|Name|name|TSOP321xx|
+|name|name|TSOP321xx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TSOP32S40F', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TSOP321xx', 'kicadSymbolFootprint': 'OptoDevice:Vishay_MOLD-3Pin', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/82490/tsop321.pdf', 'kicadSymbolki_keywords': 'opto IR receiver', 'kicadSymbolki_description': 'IR Receiver Modules for Remote Control Systems', 'kicadSymbolki_fp_filters': 'Vishay*MOLD*'}]|
 ||||

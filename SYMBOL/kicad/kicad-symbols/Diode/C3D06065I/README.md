@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C3D06065I|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-C3D06065I|
 |Hex ID (short code)|hexID|SZKDIODEC3D665I|
-|Name|name|C3D06065I|
+|name|name|C3D06065I|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MBR735', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'C3D06065I', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-2_Vertical', 'kicadSymbolDatasheet': 'https://www.wolfspeed.com/media/downloads/44/C3D06065I.pdf', 'kicadSymbolki_keywords': 'sic diode', 'kicadSymbolki_description': '650V, 6A, SiC Schottky Diode, Isolated TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

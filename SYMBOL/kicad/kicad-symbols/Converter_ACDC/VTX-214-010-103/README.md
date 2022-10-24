@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VTX-214-010-103|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_ACDC-VTX-214-010-103|
 |Hex ID (short code)|hexID|SZKCONVTX214113|
-|Name|name|VTX-214-010-103|
+|name|name|VTX-214-010-103|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'VTX-214-010-103', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT', 'kicadSymbolDatasheet': 'http://www.vigortronix.com/10WattACDCPCBPowerModule.aspx', 'kicadSymbolki_keywords': '3V 10W AC-DC module power supply', 'kicadSymbolki_description': '3V Vigortronix 10W ACDC Converters', 'kicadSymbolki_fp_filters': 'Converter*ACDC*Vigortronix*VTX*214*010*xxx*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|8252|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-8252|
 |Hex ID (short code)|hexID|SZKINTERFACEUART8252|
-|Name|name|8252|
+|name|name|8252|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '8252', 'kicadSymbolFootprint': 'Package_DIP:DIP-28_W15.24mm', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'UART Serial Interface', 'kicadSymbolki_description': 'Universal Asynchronous Receiver/Transmitter, PDIP-28', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

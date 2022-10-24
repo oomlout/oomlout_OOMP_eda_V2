@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L_Pack04|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-L_Pack04|
 |Hex ID (short code)|hexID|SZKDEVICELPACK4|
-|Name|name|L_Pack04|
+|name|name|L_Pack04|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'LN', 'kicadSymbolValue': 'L_Pack04', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'L network parallel topology', 'kicadSymbolki_description': '4 inductor network, parallel topology'}]|
 ||||

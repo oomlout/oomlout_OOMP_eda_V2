@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HCPL-2211|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-HCPL-2211|
 |Hex ID (short code)|hexID|SZKISOLATORHCPL2211|
-|Name|name|HCPL-2211|
+|name|name|HCPL-2211|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HCPL-2201', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HCPL-2211', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://docs.broadcom.com/docs/AV02-0674EN', 'kicadSymbolki_keywords': 'opto coupler schmitt output', 'kicadSymbolki_description': 'Opto Coupler, 5kV/us, 300V CMR, Schmitt trigger output, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

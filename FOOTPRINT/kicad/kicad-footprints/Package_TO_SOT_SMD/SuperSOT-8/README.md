@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SuperSOT-8|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SuperSOT-8|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSUPERSOT8|
-|Name|name|Package_TO_SOT_SMD : SuperSOT-8|
+|name|name|Package_TO_SOT_SMD : SuperSOT-8|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SuperSOT-8', 'description': '8-pin SuperSOT package, http://www.icbank.com/icbank_data/semi_package/ssot8_dim.pdf', 'tags': 'SuperSOT-8 SSOT-8', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SuperSOT-8.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SuperSOT-8/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SuperSOT-8/kicadPcb3d_450.png

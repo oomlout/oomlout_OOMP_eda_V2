@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|34.81-8240|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay_SolidState-34.81-8240|
 |Hex ID (short code)|hexID|SZKRELAYSOLIDSTATE3481824|
-|Name|name|34.81-8240|
+|name|name|34.81-8240|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '34.81-8240', 'kicadSymbolFootprint': 'OptoDevice:Finder_34.81', 'kicadSymbolDatasheet': 'https://gfinder.findernet.com/public/attachments/34/EN/S34USAEN.pdf', 'kicadSymbolki_keywords': 'Photo-Triac Opto Triac', 'kicadSymbolki_description': 'Ultra-slim - Solid State Relay, 2A, 240V AC output, Zero crossing switching', 'kicadSymbolki_fp_filters': 'Finder*34.81*'}]|
 ||||

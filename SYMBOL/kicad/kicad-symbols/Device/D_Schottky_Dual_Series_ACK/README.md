@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Schottky_Dual_Series_ACK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_Series_ACK|
 |Hex ID (short code)|hexID|SZKDEVICEDSCHOTTKYDUALSERIESACK|
-|Name|name|D_Schottky_Dual_Series_ACK|
+|name|name|D_Schottky_Dual_Series_ACK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Schottky_Dual_Series_ACK', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Dual Schottky diode, anode/center/cathode'}]|
 ||||

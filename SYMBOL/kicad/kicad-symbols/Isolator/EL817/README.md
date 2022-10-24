@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EL817|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-EL817|
 |Hex ID (short code)|hexID|SZKISOLATOREL817|
-|Name|name|EL817|
+|name|name|EL817|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PC817', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EL817', 'kicadSymbolFootprint': 'Package_DIP:DIP-4_W7.62mm', 'kicadSymbolDatasheet': 'http://www.everlight.com/file/ProductFile/EL817.pdf', 'kicadSymbolki_keywords': 'NPN DC Optocoupler', 'kicadSymbolki_description': 'DC Optocoupler, Vce 35V, DIP-4', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IDT7132|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7132|
 |Hex ID (short code)|hexID|SZKMEMORYRAMIDT7132|
-|Name|name|IDT7132|
+|name|name|IDT7132|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IDT7132', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HDMI_D_1.4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-HDMI_D_1.4|
 |Hex ID (short code)|hexID|SZKCNHDMID14|
-|Name|name|HDMI_D_1.4|
+|name|name|HDMI_D_1.4|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HDMI_D_1.4', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://pinoutguide.com/PortableDevices/micro_hdmi_type_d_pinout.shtml', 'kicadSymbolki_keywords': 'hdmi conn', 'kicadSymbolki_description': 'HDMI 1.4+ type D connector', 'kicadSymbolki_fp_filters': 'HDMI*D*'}]|
 ||||

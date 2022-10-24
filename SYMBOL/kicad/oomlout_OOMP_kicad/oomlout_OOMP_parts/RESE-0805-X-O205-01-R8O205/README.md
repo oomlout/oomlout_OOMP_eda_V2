@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O205-01-R8O205|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O205-01-R8O205|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO251R8O25|
-|Name|name|RESE-0805-X-O205-01-R8O205|
+|name|name|RESE-0805-X-O205-01-R8O205|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O205-01-R8O205', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O205-01-R8O205', 'kicadSymbolDatasheet': 'oom.lt/R8O205', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R8O205;PARTL C-JLCC;C26112;MANUF C-XXXX;0805W8F2004T5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

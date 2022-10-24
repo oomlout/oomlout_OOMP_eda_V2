@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DIN41612_02x05_AC_EvenPins|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x05_AC_EvenPins|
 |Hex ID (short code)|hexID|SZKCNDIN416122X5ACEVENPINS|
-|Name|name|DIN41612_02x05_AC_EvenPins|
+|name|name|DIN41612_02x05_AC_EvenPins|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DIN41612_02x05_AC_EvenPins', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'DIN41612 connector, double row (AC) even pins only, 02x05, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'DIN41612*2x*'}]|
 ||||

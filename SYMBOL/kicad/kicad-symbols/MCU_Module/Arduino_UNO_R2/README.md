@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Arduino_UNO_R2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_UNO_R2|
 |Hex ID (short code)|hexID|SZKMCUMOARDUNOR2|
-|Name|name|Arduino_UNO_R2|
+|name|name|Arduino_UNO_R2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'A', 'kicadSymbolValue': 'Arduino_UNO_R2', 'kicadSymbolFootprint': 'Module:Arduino_UNO_R2', 'kicadSymbolDatasheet': 'https://www.arduino.cc/en/Main/arduinoBoardUno', 'kicadSymbolki_keywords': 'Arduino UNO R3 Microcontroller Module Atmel AVR USB', 'kicadSymbolki_description': 'Arduino UNO Microcontroller Module, release 2', 'kicadSymbolki_fp_filters': 'Arduino*UNO*R2*'}]|
 ||||

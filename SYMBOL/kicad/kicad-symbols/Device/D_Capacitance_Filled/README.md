@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Capacitance_Filled|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Capacitance_Filled|
 |Hex ID (short code)|hexID|SZKDEVICEDCAPACITANCEFILL|
-|Name|name|D_Capacitance_Filled|
+|name|name|D_Capacitance_Filled|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Capacitance_Filled', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'capacitance diode varicap varactor', 'kicadSymbolki_description': 'Variable capacitance diode, filled shape', 'kicadSymbolki_fp_filters': 'TO-???* *_Diode_* *SingleDiode* D_*'}]|
 ||||

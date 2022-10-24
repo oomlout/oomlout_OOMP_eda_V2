@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Mini-Circuits_CK605_LandPatternPL-012|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CK605_LandPatternPL-012|
 |Hex ID (short code)|hexID|FZKRFMCIRCUITSCK65LANDPATTERNPL12|
-|Name|name|RF_Mini-Circuits : Mini-Circuits_CK605_LandPatternPL-012|
+|name|name|RF_Mini-Circuits : Mini-Circuits_CK605_LandPatternPL-012|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Mini-Circuits_CK605_LandPatternPL-012', 'description': 'Footprint for Mini-Circuits case CK605 (https://ww2.minicircuits.com/case_style/CK605.pdf) following land pattern PL-012, including GND vias (https://ww2.minicircuits.com/pcb/98-pl012.pdf)', 'tags': 'Mini-Circuits PL-012', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_CK605.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

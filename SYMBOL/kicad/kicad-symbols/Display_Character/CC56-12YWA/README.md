@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CC56-12YWA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-CC56-12YWA|
 |Hex ID (short code)|hexID|SZKDICHARACTERCC5612YWA|
-|Name|name|CC56-12YWA|
+|name|name|CC56-12YWA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CC56-12YWA', 'kicadSymbolFootprint': 'Display_7Segment:CC56-12YWA', 'kicadSymbolDatasheet': 'http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12YWA.pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': '4 digit 7 segment  yellow LED, common cathode', 'kicadSymbolki_fp_filters': 'CC56?12YWA*'}]|
 ||||

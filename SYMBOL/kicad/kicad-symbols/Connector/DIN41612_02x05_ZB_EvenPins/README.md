@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DIN41612_02x05_ZB_EvenPins|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x05_ZB_EvenPins|
 |Hex ID (short code)|hexID|SZKCNDIN416122X5ZBEVENPINS|
-|Name|name|DIN41612_02x05_ZB_EvenPins|
+|name|name|DIN41612_02x05_ZB_EvenPins|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DIN41612_02x05_ZB_EvenPins', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'DIN41612 connector, double row (ZB) even pins only, 02x05, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'DIN41612*2x*'}]|
 ||||

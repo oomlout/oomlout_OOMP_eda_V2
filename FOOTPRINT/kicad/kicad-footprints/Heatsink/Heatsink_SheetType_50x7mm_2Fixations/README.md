@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Heatsink_SheetType_50x7mm_2Fixations|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_SheetType_50x7mm_2Fixations|
 |Hex ID (short code)|hexID|FZKHHSHEETTYPE5X72FIXATIONS|
-|Name|name|Heatsink : Heatsink_SheetType_50x7mm_2Fixations|
+|name|name|Heatsink : Heatsink_SheetType_50x7mm_2Fixations|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Heatsink_SheetType_50x7mm_2Fixations', 'description': 'Heatsink, Sheet type, 50x7mm, 2 fixations (solder),', 'tags': 'Heatsink sheet', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_SheetType_50x7mm_2Fixations.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_SheetType_50x7mm_2Fixations/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_SheetType_50x7mm_2Fixations/kicadPcb3d_450.png

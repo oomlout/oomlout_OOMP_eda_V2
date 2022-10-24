@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_GABR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_GABR|
 |Hex ID (short code)|hexID|SZKDEVICELGABR|
-|Name|name|LED_GABR|
+|name|name|LED_GABR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_GABR', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED RGB diode', 'kicadSymbolki_description': 'RGB LED, green/anode/blue/red', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

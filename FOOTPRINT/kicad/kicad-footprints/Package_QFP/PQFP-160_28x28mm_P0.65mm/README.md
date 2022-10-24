@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PQFP-160_28x28mm_P0.65mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_QFP-PQFP-160_28x28mm_P0.65mm|
 |Hex ID (short code)|hexID|FZKQFPPQFP1628X28P65|
-|Name|name|Package_QFP : PQFP-160_28x28mm_P0.65mm|
+|name|name|Package_QFP : PQFP-160_28x28mm_P0.65mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PQFP-160_28x28mm_P0.65mm', 'description': 'PQFP, 160 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'PQFP QFP', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/PQFP-160_28x28mm_P0.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/PQFP-160_28x28mm_P0.65mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_QFP/PQFP-160_28x28mm_P0.65mm/kicadPcb3d_450.png

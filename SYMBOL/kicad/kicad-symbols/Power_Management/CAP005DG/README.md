@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CAP005DG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-CAP005DG|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTCAP5DG|
-|Name|name|CAP005DG|
+|name|name|CAP005DG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CAP002DG', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CAP005DG', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://ac-dc.power.com/sites/default/files/product-docs/capzero_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Automatic Capacitor Discarger', 'kicadSymbolki_description': 'CapZero Automatic Capacitor Discarger, 825V, <=1.5uF, 480kOhm, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

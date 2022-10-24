@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EA_eDIP128W-6LW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIP128W-6LW|
 |Hex ID (short code)|hexID|SZKDIGRAPHICEAEDIP128W6LW|
-|Name|name|EA_eDIP128W-6LW|
+|name|name|EA_eDIP128W-6LW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'EA_eDIP128B-6LW', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EA_eDIP128W-6LW', 'kicadSymbolFootprint': 'Display:EA-eDIP128B-XXX', 'kicadSymbolDatasheet': 'http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip128-6e.pdf', 'kicadSymbolki_keywords': 'display LCD graphic', 'kicadSymbolki_description': 'LCD-graphical display with LED backlight positive mode FSTN, 3.3V - 5V VDD, RS-232. I2C or SPI', 'kicadSymbolki_fp_filters': '*EA*eDIP128B*'}]|
 ||||

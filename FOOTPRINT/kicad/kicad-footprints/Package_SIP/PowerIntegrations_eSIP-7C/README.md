@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PowerIntegrations_eSIP-7C|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SIP-PowerIntegrations_eSIP-7C|
 |Hex ID (short code)|hexID|FZKSIPPOWERINTEGRATIONSESIP7C|
-|Name|name|Package_SIP : PowerIntegrations_eSIP-7C|
+|name|name|Package_SIP : PowerIntegrations_eSIP-7C|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PowerIntegrations_eSIP-7C', 'description': 'eSIP-7C Vertical Flat Package with Heatsink Tab, https://ac-dc.power.com/sites/default/files/product-docs/topswitch-jx_family_datasheet.pdf', 'tags': 'Power Integrations E Package', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/PowerIntegrations_eSIP-7C.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SIP/PowerIntegrations_eSIP-7C/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SIP/PowerIntegrations_eSIP-7C/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX16050xTI|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX16050xTI|
 |Hex ID (short code)|hexID|SZKPOWERSUPERVISORMAX165XTI|
-|Name|name|MAX16050xTI|
+|name|name|MAX16050xTI|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX16050xTI', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-28-1EP_4x4mm_P0.4mm_EP2.6x2.6mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX16050-MAX16051.pdf', 'kicadSymbolki_keywords': 'power sequencing', 'kicadSymbolki_description': '5 Voltage Monitor/Sequencer with Reverse-Sequencing Capability, QFN-28', 'kicadSymbolki_fp_filters': 'QFN*1EP*4x4mm*P0.4mm*'}]|
 ||||

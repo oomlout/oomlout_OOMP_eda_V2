@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|I386EX_PQFP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Intel-I386EX_PQFP|
 |Hex ID (short code)|hexID|SZKMCUINTELI386EXPQFP|
-|Name|name|I386EX_PQFP|
+|name|name|I386EX_PQFP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'I386EX_PQFP', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'MPRO', 'kicadSymbolki_description': 'Intel I386EX Embedded microprocessor, PQFP-132', 'kicadSymbolki_fp_filters': 'PQFP*'}]|
 ||||

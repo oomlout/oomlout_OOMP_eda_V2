@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CSD01060A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-CSD01060A|
 |Hex ID (short code)|hexID|SZKDIODECSD16A|
-|Name|name|CSD01060A|
+|name|name|CSD01060A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MBR735', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'CSD01060A', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-2_Vertical', 'kicadSymbolDatasheet': 'https://www.wolfspeed.com/media/downloads/87/CSD01060.pdf', 'kicadSymbolki_keywords': 'sic diode', 'kicadSymbolki_description': '600V, 1A, SiC Schottky Diode, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

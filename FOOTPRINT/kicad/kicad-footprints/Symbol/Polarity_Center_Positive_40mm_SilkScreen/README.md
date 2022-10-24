@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Polarity_Center_Positive_40mm_SilkScreen|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-Polarity_Center_Positive_40mm_SilkScreen|
 |Hex ID (short code)|hexID|FZKSZPOLARITYCENTERPOSITIVE4SILKSCREEN|
-|Name|name|Symbol : Polarity_Center_Positive_40mm_SilkScreen|
+|name|name|Symbol : Polarity_Center_Positive_40mm_SilkScreen|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Polarity_Center_Positive_40mm_SilkScreen', 'description': 'Polarity Logo, Center Positive', 'tags': 'Logo Polarity Center Positive', 'attributeType': None, 'pins': {}}|
 ||||

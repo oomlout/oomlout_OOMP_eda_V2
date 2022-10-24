@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP2221AxP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-MCP2221AxP|
 |Hex ID (short code)|hexID|SZKINTERFACEUMCP2221AXP|
-|Name|name|MCP2221AxP|
+|name|name|MCP2221AxP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP2221AxP', 'kicadSymbolFootprint': 'Package_DIP:DIP-14_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20005565B.pdf', 'kicadSymbolki_keywords': 'USB I2C UART Converter Bridge', 'kicadSymbolki_description': 'USB to I2C/UART Protocol Converter with GPIO, DIP-14', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

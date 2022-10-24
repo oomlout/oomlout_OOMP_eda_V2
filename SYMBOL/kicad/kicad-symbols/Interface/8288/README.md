@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|8288|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-8288|
 |Hex ID (short code)|hexID|SZKINTERFACE8288|
-|Name|name|8288|
+|name|name|8288|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '8288', 'kicadSymbolFootprint': 'Package_DIP:DIP-20_W7.62mm', 'kicadSymbolDatasheet': 'http://www.datasheets360.com/pdf/7208679415653955300', 'kicadSymbolki_keywords': 'Bus Controller', 'kicadSymbolki_description': 'Bus Controller for Intel 8086/8088/80186/80188 microprocessors, DIP-20', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

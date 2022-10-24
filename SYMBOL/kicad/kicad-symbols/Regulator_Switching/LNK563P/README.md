@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LNK563P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK563P|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK563P|
-|Name|name|LNK563P|
+|name|name|LNK563P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LNK562P', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LNK563P', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_PDIP-8B', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/linklp_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Energy Efficient Off-Line Switcher IC for Linear Transformer Replacement', 'kicadSymbolki_description': 'LinkSwitch-LP Family, 2.5W Output Power, DIP-8B', 'kicadSymbolki_fp_filters': 'PowerIntegrations?PDIP?8B*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IGT60R070D1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IGT60R070D1|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIGT6R7D1|
-|Name|name|IGT60R070D1|
+|name|name|IGT60R070D1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IGT60R070D1', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:Infineon_PG-HSOF-8-3_ThermalVias', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-IGT60R070D1-DataSheet-v02_01-EN.pdf?fileId=5546d46265f064ff016686028dd56526', 'kicadSymbolki_keywords': 'N-Channel GaN MOSFET', 'kicadSymbolki_description': '31A Id, 600V Vds, 70mOhm, N-Channel GaN MOSFET, HSOF-8', 'kicadSymbolki_fp_filters': 'Infineon*PG*HSOF*3*'}]|
 ||||

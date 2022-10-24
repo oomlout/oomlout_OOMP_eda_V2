@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LV25-P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Voltage-LV25-P|
 |Hex ID (short code)|hexID|SZKSENVOLTAGELV25P|
-|Name|name|LV25-P|
+|name|name|LV25-P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LV25-P', 'kicadSymbolFootprint': 'Sensor_Voltage:LEM_LV25-P', 'kicadSymbolDatasheet': 'https://www.lem.com/sites/default/files/products_datasheets/lv_25-p.pdf', 'kicadSymbolki_keywords': 'Voltage transducer', 'kicadSymbolki_description': 'LEM Voltage transducer LV 25-P', 'kicadSymbolki_fp_filters': 'LEM?LV25?P*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TestPoint_Loop_D3.80mm_Drill2.8mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Loop_D3.80mm_Drill2.8mm|
 |Hex ID (short code)|hexID|FZKTPTPLOOPD38DRILL28|
-|Name|name|TestPoint : TestPoint_Loop_D3.80mm_Drill2.8mm|
+|name|name|TestPoint : TestPoint_Loop_D3.80mm_Drill2.8mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TestPoint_Loop_D3.80mm_Drill2.8mm', 'description': 'wire loop as test point, loop diameter 3.8mm, hole diameter 2.8mm', 'tags': 'test point wire loop bead', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Loop_D3.80mm_Drill2.8mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

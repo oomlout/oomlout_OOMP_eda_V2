@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HFCN-2000|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-2000|
 |Hex ID (short code)|hexID|SZKRFFILHFCN2|
-|Name|name|HFCN-2000|
+|name|name|HFCN-2000|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HFCN-440', 'kicadSymbolReference': 'FL', 'kicadSymbolValue': 'HFCN-2000', 'kicadSymbolFootprint': 'Filter:Filter_Mini-Circuits_FV1206', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/HFCN-2000.pdf', 'kicadSymbolki_keywords': 'Mini-Circuits high pass filter', 'kicadSymbolki_description': '2000MHz 50 Ohm Passive High Pass Filter, FV1206', 'kicadSymbolki_fp_filters': 'Filter*Mini?Circuits*FV1206*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Vishay_IHSM-4825|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHSM-4825|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLVISHAYIHSM4825|
-|Name|name|Inductor_SMD : L_Vishay_IHSM-4825|
+|name|name|Inductor_SMD : L_Vishay_IHSM-4825|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Vishay_IHSM-4825', 'description': 'Inductor, Vishay, Vishay_IHSM-4825, http://www.vishay.com/docs/34019/ihsm4825.pdf, 13.7mmx6.3mm', 'tags': 'inductor vishay icsm smd', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Vishay_IHSM-4825.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Vishay_IHSM-4825/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Vishay_IHSM-4825/kicadPcb3d_450.png

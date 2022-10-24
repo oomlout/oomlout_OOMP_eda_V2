@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RF_Attenuator_Susumu_PAT1220|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Converter-RF_Attenuator_Susumu_PAT1220|
 |Hex ID (short code)|hexID|FZKRFRFATTENUATORSUSUMUPAT122|
-|Name|name|RF_Converter : RF_Attenuator_Susumu_PAT1220|
+|name|name|RF_Converter : RF_Attenuator_Susumu_PAT1220|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RF_Attenuator_Susumu_PAT1220', 'description': 'http://www.susumu-usa.com/pdf/Foot_Print_38.pdf, https://www.susumu.co.jp/common/pdf/n_catalog_partition16_en.pdf', 'tags': '2mm 1.2mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Converter.3dshapes/RF_Attenuator_Susumu_PAT1220.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

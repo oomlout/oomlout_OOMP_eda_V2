@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Abracon_APAES868R8060C16-T|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Abracon_APAES868R8060C16-T|
 |Hex ID (short code)|hexID|FZKRFABRACONAPAES868R86C16T|
-|Name|name|RF_Antenna : Abracon_APAES868R8060C16-T|
+|name|name|RF_Antenna : Abracon_APAES868R8060C16-T|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Abracon_APAES868R8060C16-T', 'description': 'Abracon RHCP ceramic patch antenna 854-882Mhz, 5dBi', 'tags': 'APAES patch antenna', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Antenna.3dshapes/Abracon_APAES868R8060C16-T.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||

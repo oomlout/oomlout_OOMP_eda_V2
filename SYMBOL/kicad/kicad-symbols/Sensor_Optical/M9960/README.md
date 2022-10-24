@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|M9960|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-M9960|
 |Hex ID (short code)|hexID|SZKSENOPTICALM996|
-|Name|name|M9960|
+|name|name|M9960|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'M9960', 'kicadSymbolFootprint': 'OptoDevice:R_LDR_5.2x5.2mm_P3.5mm_Horizontal', 'kicadSymbolDatasheet': 'http://cdn-reichelt.de/documents/datenblatt/A500/M996011a_b.pdf', 'kicadSymbolki_keywords': 'light dependent photo resistor LDR', 'kicadSymbolki_description': 'light dependent resistor', 'kicadSymbolki_fp_filters': 'R*LDR*5.2x5.2mm*P3.5mm*'}]|
 ||||

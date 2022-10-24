@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FSBH0F70A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSBH0F70A|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGFSBHF7A|
-|Name|name|FSBH0F70A|
+|name|name|FSBH0F70A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FSBH0F70A', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FSBH0270-D.PDF', 'kicadSymbolki_keywords': 'smps regulator', 'kicadSymbolki_description': 'Green Mode Fairchild Power Switch, 700V Vds, 0.5A Id, 10W/8W 230V/85-265V, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

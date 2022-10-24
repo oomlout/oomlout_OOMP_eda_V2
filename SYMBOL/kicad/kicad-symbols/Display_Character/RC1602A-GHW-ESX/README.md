@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RC1602A-GHW-ESX|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-RC1602A-GHW-ESX|
 |Hex ID (short code)|hexID|SZKDICHARACTERRC162AGHWESX|
-|Name|name|RC1602A-GHW-ESX|
+|name|name|RC1602A-GHW-ESX|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'RC1602A-GHW-ESX', 'kicadSymbolFootprint': 'Display:RC1602A', 'kicadSymbolDatasheet': 'http://www.raystar-optronics.com/down.php?ProID=18', 'kicadSymbolki_keywords': 'display LCD dot-matrix', 'kicadSymbolki_description': 'LCD 16x2 Alphanumeric 16pin Gray Backlight', 'kicadSymbolki_fp_filters': 'RC1602A*'}]|
 ||||

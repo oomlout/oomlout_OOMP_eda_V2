@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ENC28J60x-SP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Ethernet-ENC28J60x-SP|
 |Hex ID (short code)|hexID|SZKINTERFACEETHERNETENC28J6XSP|
-|Name|name|ENC28J60x-SP|
+|name|name|ENC28J60x-SP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ENC28J60x-SP', 'kicadSymbolFootprint': 'Package_DIP:DIP-28_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/39662e.pdf', 'kicadSymbolki_keywords': 'ENC Ethernet', 'kicadSymbolki_description': 'ENC28J60 Single Chip Ethernet Interface, DIP-28', 'kicadSymbolki_fp_filters': 'DIP*28*W7.62mm*'}]|
 ||||

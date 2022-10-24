@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TB5R1DW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-TB5R1DW|
 |Hex ID (short code)|hexID|SZKINTERFACETB5R1DW|
-|Name|name|TB5R1DW|
+|name|name|TB5R1DW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TB5R1DW', 'kicadSymbolFootprint': 'Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tb5r1.pdf', 'kicadSymbolki_keywords': 'differential PECL reciver', 'kicadSymbolki_description': 'Quad differential PECL reciver', 'kicadSymbolki_fp_filters': 'SOIC*7.5x10.3mm*P1.27*'}]|
 ||||

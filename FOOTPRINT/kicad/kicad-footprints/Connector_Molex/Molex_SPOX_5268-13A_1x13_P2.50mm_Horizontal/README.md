@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Molex_SPOX_5268-13A_1x13_P2.50mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SPOX_5268-13A_1x13_P2.50mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNMXMXSPOX526813A1X13P25HORIZONTAL|
-|Name|name|Connector_Molex : Molex_SPOX_5268-13A_1x13_P2.50mm_Horizontal|
+|name|name|Connector_Molex : Molex_SPOX_5268-13A_1x13_P2.50mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Molex_SPOX_5268-13A_1x13_P2.50mm_Horizontal', 'description': 'Molex SPOX Connector System, 5268-13A, 13 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator', 'tags': 'connector Molex SPOX horizontal', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_SPOX_5268-13A_1x13_P2.50mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_SPOX_5268-13A_1x13_P2.50mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_SPOX_5268-13A_1x13_P2.50mm_Horizontal/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA2333xxDRB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2333xxDRB|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA2333XXDRB|
-|Name|name|OPA2333xxDRB|
+|name|name|OPA2333xxDRB|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA2333xxDRB', 'kicadSymbolFootprint': 'Package_SON:Texas_S-PVSON-N8', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/opa333.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'dual opamp', 'kicadSymbolki_description': 'Dual 1.8V, microPower, CMOS Operational Amplifiers, Zero-Drift Series, SON-8', 'kicadSymbolki_fp_filters': 'Texas*PVSON*'}]|
 ||||

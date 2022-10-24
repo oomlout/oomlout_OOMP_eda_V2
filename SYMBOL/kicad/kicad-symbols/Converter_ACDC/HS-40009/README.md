@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HS-40009|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_ACDC-HS-40009|
 |Hex ID (short code)|hexID|SZKCONHS49|
-|Name|name|HS-40009|
+|name|name|HS-40009|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HS-40003', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'HS-40009', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_Hahn_HS-400xx_THT', 'kicadSymbolDatasheet': 'http://www.tme.eu/de/Document/cd3ff0c74e0c3bb183174aa10baf8730/HS40009.pdf', 'kicadSymbolki_keywords': '9V 3W AC-DC module power supply', 'kicadSymbolki_description': '9V, 3W, AC-DC module power supply, Hahn', 'kicadSymbolki_fp_filters': 'Converter*ACDC*Hahn*HS*400xx*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAS21|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAS21|
 |Hex ID (short code)|hexID|SZKDIODEBAS21|
-|Name|name|BAS21|
+|name|name|BAS21|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BAS16W', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAS21', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/Ds12004.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '250V, 0.4A, High-speed Switching Diode, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

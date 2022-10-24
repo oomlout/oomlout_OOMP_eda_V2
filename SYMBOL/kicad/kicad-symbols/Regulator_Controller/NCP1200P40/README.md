@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCP1200P40|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1200P40|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERNCP12P4|
-|Name|name|NCP1200P40|
+|name|name|NCP1200P40|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCP1200P40', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/NCP1200-D.PDF', 'kicadSymbolki_keywords': 'SMPS Controller AC-DC', 'kicadSymbolki_description': 'PWM Current-Mode Controller for Off-Line Supplies, AC-DC, 40kHz, PDIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

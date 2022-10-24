@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Heatsink|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Mechanical-Heatsink|
 |Hex ID (short code)|hexID|SZKMECHANICALH|
-|Name|name|Heatsink|
+|name|name|Heatsink|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'HS', 'kicadSymbolValue': 'Heatsink', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'thermal heat temperature', 'kicadSymbolki_description': 'Heatsink', 'kicadSymbolki_fp_filters': 'Heatsink_*'}]|
 ||||

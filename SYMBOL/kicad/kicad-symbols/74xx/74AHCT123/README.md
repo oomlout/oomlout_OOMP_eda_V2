@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74AHCT123|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74AHCT123|
 |Hex ID (short code)|hexID|SZK74XX74AHCT123|
-|Name|name|74AHCT123|
+|name|name|74AHCT123|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LS123', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AHCT123', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74ahct123a', 'kicadSymbolki_keywords': 'TTL monostable, multivibrator', 'kicadSymbolki_description': 'Dual retriggerable monostable multivibrator', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

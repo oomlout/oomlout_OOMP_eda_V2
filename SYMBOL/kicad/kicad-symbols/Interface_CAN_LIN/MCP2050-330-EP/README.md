@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP2050-330-EP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2050-330-EP|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINMCP2533EP|
-|Name|name|MCP2050-330-EP|
+|name|name|MCP2050-330-EP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP2050-330-EP', 'kicadSymbolFootprint': 'Package_DIP:DIP-14_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/22299B.pdf', 'kicadSymbolki_keywords': 'LIN transceiver regulator', 'kicadSymbolki_description': 'LIN Transceiver with Voltage Regulator, 3.3V, PDIP', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

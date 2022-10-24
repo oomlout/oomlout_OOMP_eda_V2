@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LMV7271|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Comparator-LMV7271|
 |Hex ID (short code)|hexID|SZKCOMPARATORLMV7271|
-|Name|name|LMV7271|
+|name|name|LMV7271|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LMV7271', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lmv7271.pdf', 'kicadSymbolki_keywords': 'cmp', 'kicadSymbolki_description': 'Single, 1.8V Low Power, Rail-to-Rail Input, Push-Pull Output Comparator, SOT-23-5/SC-70-5', 'kicadSymbolki_fp_filters': 'SOT?23* *SC?70*'}]|
 ||||

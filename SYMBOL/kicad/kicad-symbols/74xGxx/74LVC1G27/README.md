@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LVC1G27|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-74LVC1G27|
 |Hex ID (short code)|hexID|SZK74XGXX74LVC1G27|
-|Name|name|74LVC1G27|
+|name|name|74LVC1G27|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LVC1G27', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf', 'kicadSymbolki_keywords': 'Single Gate NOR triple LVC CMOS', 'kicadSymbolki_description': 'Single NOR 3 Input Gate, Low-Voltage CMOS', 'kicadSymbolki_fp_filters': 'SOT* SG-*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|8080A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Intel-8080A|
 |Hex ID (short code)|hexID|SZKMCUINTEL88A|
-|Name|name|8080A|
+|name|name|8080A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '8080', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '8080A', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://datasheets.chipdb.org/Intel/MCS-80/intel-8080.pdf', 'kicadSymbolki_keywords': 'cpu mpu microprocessor', 'kicadSymbolki_description': '8-bit N-channel Microprocessor, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24*'}]|
 ||||

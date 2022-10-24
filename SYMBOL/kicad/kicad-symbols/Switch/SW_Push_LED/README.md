@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_Push_LED|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_Push_LED|
 |Hex ID (short code)|hexID|SZKSWITCHSWPUSHL|
-|Name|name|SW_Push_LED|
+|name|name|SW_Push_LED|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_Push_LED', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'switch normally-open pushbutton push-button LED', 'kicadSymbolki_description': 'Push button switch with LED, generic'}]|
 ||||

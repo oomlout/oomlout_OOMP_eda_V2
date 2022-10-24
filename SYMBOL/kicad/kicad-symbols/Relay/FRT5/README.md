@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FRT5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-FRT5|
 |Hex ID (short code)|hexID|SZKRELAYFRT5|
-|Name|name|FRT5|
+|name|name|FRT5|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'FRT5', 'kicadSymbolFootprint': 'Relay_THT:Relay_DPDT_FRT5', 'kicadSymbolDatasheet': 'https://www.elpro.org/de/index.php?controller=attachment&id_attachment=8663', 'kicadSymbolki_keywords': 'relay monostable', 'kicadSymbolki_description': 'FORWARD INDUSTRIAL, Miniature Dual Pole Relay, DIP-like package', 'kicadSymbolki_fp_filters': 'Relay*DPDT*FRT5*'}]|
 ||||

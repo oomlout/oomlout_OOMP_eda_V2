@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MMDT2222A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMDT2222A|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTDT2222A|
-|Name|name|MMDT2222A|
+|name|name|MMDT2222A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BC846BS', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'MMDT2222A', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'http://www.diodes.com/_files/datasheets/ds30125.pdf', 'kicadSymbolki_keywords': 'NPN/NPN Transistor', 'kicadSymbolki_description': '600mA IC, 40V Vce, Dual NPN/NPN Transistors, SOT-363', 'kicadSymbolki_fp_filters': 'SOT?363*'}]|
 ||||

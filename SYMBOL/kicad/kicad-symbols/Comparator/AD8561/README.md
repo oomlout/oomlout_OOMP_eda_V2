@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD8561|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Comparator-AD8561|
 |Hex ID (short code)|hexID|SZKCOMPARATORAD8561|
-|Name|name|AD8561|
+|name|name|AD8561|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD8561', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ad8561.pdf', 'kicadSymbolki_keywords': 'cmp complementary push-pull', 'kicadSymbolki_description': 'Ultrafast 7 ns Single Supply Comparator, DIP-8/SOIC-8/TSSOP-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* TSSOP*4.4x3mm*P0.65mm* DIP*W7.62mm*'}]|
 ||||

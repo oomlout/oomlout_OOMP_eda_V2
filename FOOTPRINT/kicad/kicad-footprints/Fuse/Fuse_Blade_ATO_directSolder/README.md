@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Fuse_Blade_ATO_directSolder|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Blade_ATO_directSolder|
 |Hex ID (short code)|hexID|FZKFUFUBLADEATODIRECTSOLDER|
-|Name|name|Fuse : Fuse_Blade_ATO_directSolder|
+|name|name|Fuse : Fuse_Blade_ATO_directSolder|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Fuse_Blade_ATO_directSolder', 'description': 'car blade fuse direct solder', 'tags': 'car blade fuse', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Blade_ATO_directSolder.wrl', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Blade_ATO_directSolder/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Blade_ATO_directSolder/kicadPcb3d_450.png

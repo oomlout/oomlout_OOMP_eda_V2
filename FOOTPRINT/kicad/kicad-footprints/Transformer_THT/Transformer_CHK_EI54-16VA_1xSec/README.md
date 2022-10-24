@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_CHK_EI54-16VA_1xSec|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_EI54-16VA_1xSec|
 |Hex ID (short code)|hexID|FZKTRTRCHKEI5416VA1XSEC|
-|Name|name|Transformer_THT : Transformer_CHK_EI54-16VA_1xSec|
+|name|name|Transformer_THT : Transformer_CHK_EI54-16VA_1xSec|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_CHK_EI54-16VA_1xSec', 'description': 'Trafo, Printtrafo, CHK, EI54, 16VA, 1x Sec,http://www.eratransformers.com/product-detail/19', 'tags': 'Trafo Printtrafo CHK EI54 16VA 1x Sec ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_CHK_EI54-16VA_1xSec.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||

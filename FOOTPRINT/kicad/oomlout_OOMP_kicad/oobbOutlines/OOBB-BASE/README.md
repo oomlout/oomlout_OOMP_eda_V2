@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|OOBB-BASE|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oobbOutlines-OOBB-BASE|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOBBOUTLINESOOBBBASE|
-|Name|name|oobbOutlines : OOBB-BASE|
+|name|name|oobbOutlines : OOBB-BASE|
 |Footprint Kicad|footprintKicadDetails|{'name': 'OOBB-BASE', 'tags': None, 'attributeType': None, 'pins': {}}|
 ||||

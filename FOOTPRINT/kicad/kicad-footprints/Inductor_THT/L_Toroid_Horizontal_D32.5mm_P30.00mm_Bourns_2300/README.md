@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Toroid_Horizontal_D32.5mm_P30.00mm_Bourns_2300|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D32.5mm_P30.00mm_Bourns_2300|
 |Hex ID (short code)|hexID|FZKINLTOROIDHORIZONTALD325P3BOURNS23|
-|Name|name|Inductor_THT : L_Toroid_Horizontal_D32.5mm_P30.00mm_Bourns_2300|
+|name|name|Inductor_THT : L_Toroid_Horizontal_D32.5mm_P30.00mm_Bourns_2300|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Toroid_Horizontal_D32.5mm_P30.00mm_Bourns_2300', 'description': 'L_Toroid, Horizontal series, Radial, pin pitch=30.00mm, , diameter=32.5mm, Bourns, 2300, http://www.bourns.com/docs/Product-Datasheets/2300_series.pdf?sfvrsn=3', 'tags': 'L_Toroid Horizontal series Radial pin pitch 30.00mm  diameter 32.5mm Bourns 2300', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D32.5mm_P30.00mm_Bourns_2300.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Horizontal_D32.5mm_P30.00mm_Bourns_2300/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Horizontal_D32.5mm_P30.00mm_Bourns_2300/kicadPcb3d_450.png

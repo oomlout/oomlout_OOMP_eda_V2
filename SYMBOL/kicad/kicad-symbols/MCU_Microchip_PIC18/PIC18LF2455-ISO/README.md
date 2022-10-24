@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC18LF2455-ISO|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF2455-ISO|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC18PIC18LF2455ISO|
-|Name|name|PIC18LF2455-ISO|
+|name|name|PIC18LF2455-ISO|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC18F2455-ISO', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18LF2455-ISO', 'kicadSymbolFootprint': 'Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/39632c.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit Microcontroller XLP', 'kicadSymbolki_description': '24K Flash, 2K SRAM, 256 EEPROM, USB, nanoWatt XLP, SOIC28', 'kicadSymbolki_fp_filters': 'SO*W*7.5x17.9mm_P1.27mm*'}]|
 ||||

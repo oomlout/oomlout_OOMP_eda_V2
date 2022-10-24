@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD9515|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-AD9515|
 |Hex ID (short code)|hexID|SZKTIMERAD9515|
-|Name|name|AD9515|
+|name|name|AD9515|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD9515', 'kicadSymbolFootprint': 'Package_CSP:LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD9515.pdf', 'kicadSymbolki_keywords': 'clock distribution LVPECL LVDS CMOS', 'kicadSymbolki_description': '1.6 GHz, 2 Outputs, Clock Distribution IC, Divider, Delay Adjust, LFCSP-32', 'kicadSymbolki_fp_filters': 'LFCSP*1EP*5x5mm*P0.5mm*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|D_QFN_3.3x3.3mm_P0.65mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_QFN_3.3x3.3mm_P0.65mm|
 |Hex ID (short code)|hexID|FZKDIODESMDQFN33X33P65|
-|Name|name|Diode_SMD : D_QFN_3.3x3.3mm_P0.65mm|
+|name|name|Diode_SMD : D_QFN_3.3x3.3mm_P0.65mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'D_QFN_3.3x3.3mm_P0.65mm', 'description': 'QFN, diode, 3.3x3.3x1mm (https://www.wolfspeed.com/media/downloads/846/C3D1P7060Q.pdf)', 'tags': 'diode qfn 3.3', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_QFN_3.3x3.3mm_P0.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_QFN_3.3x3.3mm_P0.65mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_QFN_3.3x3.3mm_P0.65mm/kicadPcb3d_450.png

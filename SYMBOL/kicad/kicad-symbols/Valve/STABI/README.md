@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STABI|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Valve-STABI|
 |Hex ID (short code)|hexID|SZKVASTABI|
-|Name|name|STABI|
+|name|name|STABI|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STABI', 'kicadSymbolFootprint': 'Valve:Valve_Glimm', 'kicadSymbolDatasheet': '', 'kicadSymbolki_fp_filters': 'VALVE*GLIMM*'}]|
 ||||

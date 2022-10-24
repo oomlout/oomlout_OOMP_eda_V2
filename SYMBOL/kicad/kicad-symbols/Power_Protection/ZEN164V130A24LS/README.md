@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ZEN164V130A24LS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-ZEN164V130A24LS|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONZEN164V13A24LS|
-|Name|name|ZEN164V130A24LS|
+|name|name|ZEN164V130A24LS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZEN056V130A24LS', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'ZEN164V130A24LS', 'kicadSymbolFootprint': 'Diode_SMD:Littelfuse_PolyZen-LS', 'kicadSymbolDatasheet': 'http://m.littelfuse.com/~/media/electronics/datasheets/polyzen_devices/littelfuse_polyzen_standard_polyzen_catalog_datasheet.pdf.pdf', 'kicadSymbolki_keywords': 'Polymer zener', 'kicadSymbolki_description': 'Polymer Protected Zener Diode, 16.4V, 1.30A, 24V, LS', 'kicadSymbolki_fp_filters': 'Littelfuse*PolyZen*LS*'}]|
 ||||

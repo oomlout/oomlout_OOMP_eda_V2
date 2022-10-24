@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NHS3100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_NTAG-NHS3100|
 |Hex ID (short code)|hexID|SZKMCUNXPNTAGNHS31|
-|Name|name|NHS3100|
+|name|name|NHS3100|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NHS3100', 'kicadSymbolFootprint': 'Package_DFN_QFN:HVQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/NHS3100.pdf', 'kicadSymbolki_keywords': 'NFC Cortex-M0', 'kicadSymbolki_description': 'Temperature logger, VQFN-24', 'kicadSymbolki_fp_filters': 'HVQFN*1EP*4x4mm*P0.5mm*'}]|
 ||||

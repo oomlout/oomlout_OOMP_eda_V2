@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC24FV32KA304-IPT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC24-PIC24FV32KA304-IPT|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC24PIC24FV32KA34IPT|
-|Name|name|PIC24FV32KA304-IPT|
+|name|name|PIC24FV32KA304-IPT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'IC', 'kicadSymbolValue': 'PIC24FV32KA304-IPT', 'kicadSymbolFootprint': 'Package_QFP:TQFP-44_10x10mm_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/39995d.pdf', 'kicadSymbolki_keywords': 'Flash-Based 16-Bit Microcontroller', 'kicadSymbolki_description': '32K Flash, 2048B SRAM, 512B EEPROM, nanoWatt XLP, 12-bit ADC, PWM, RTCC, TQFP44', 'kicadSymbolki_fp_filters': 'TQFP*10x10mm*P0.8mm*'}]|
 ||||

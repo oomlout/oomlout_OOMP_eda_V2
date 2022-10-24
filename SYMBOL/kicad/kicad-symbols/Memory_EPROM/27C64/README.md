@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|27C64|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_EPROM-27C64|
 |Hex ID (short code)|hexID|SZKMEMORYEPROM27C64|
-|Name|name|27C64|
+|name|name|27C64|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '27C64', 'kicadSymbolFootprint': 'Package_DIP:DIP-28_W15.24mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/11107M.pdf', 'kicadSymbolki_keywords': 'OTP EPROM 64KiBit', 'kicadSymbolki_description': 'OTP EPROM 64 KiBit, [Obsolete 2004-01]', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|THAT2181|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-THAT2181|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOTHAT2181|
-|Name|name|THAT2181|
+|name|name|THAT2181|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'THAT2181', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.thatcorp.com/datashts/THAT_2181-Series_Datasheet.pdf', 'kicadSymbolki_keywords': 'audio vca', 'kicadSymbolki_description': 'Blackmer Trimmable IC Voltage Controlled Amplifiers, SIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'SIP*19x3mm*P2.54mm* SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

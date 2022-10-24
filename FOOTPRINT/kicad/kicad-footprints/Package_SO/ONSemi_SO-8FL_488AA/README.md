@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|ONSemi_SO-8FL_488AA|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-ONSemi_SO-8FL_488AA|
 |Hex ID (short code)|hexID|FZKSOONSEMISO8FL488AA|
-|Name|name|Package_SO : ONSemi_SO-8FL_488AA|
+|name|name|Package_SO : ONSemi_SO-8FL_488AA|
 |Footprint Kicad|footprintKicadDetails|{'name': 'ONSemi_SO-8FL_488AA', 'description': 'ON Semi DFN5 5x6mm 1.27P SO-8FL CASE 488A https://www.onsemi.com/pub/Collateral/488AA.PDF', 'tags': 'ON Semi DFN5 5x6mm 1.27P SO-8FL CASE 488A ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/ONSemi_SO-8FL_488AA.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/ONSemi_SO-8FL_488AA/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/ONSemi_SO-8FL_488AA/kicadPcb3d_450.png

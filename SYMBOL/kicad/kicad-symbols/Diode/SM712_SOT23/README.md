@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SM712_SOT23|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-SM712_SOT23|
 |Hex ID (short code)|hexID|SZKDIODESM712SOT23|
-|Name|name|SM712_SOT23|
+|name|name|SM712_SOT23|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SM712_SOT23', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sm712_datasheet.pdf.pdf', 'kicadSymbolki_keywords': 'transient voltage suppressor thyrector transil', 'kicadSymbolki_description': '7V/12V, 600W Asymmetrical TVS Diode Array, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

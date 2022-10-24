@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPAMP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-pspice-OPAMP|
 |Hex ID (short code)|hexID|SZKPSPICEOPAMP|
-|Name|name|OPAMP|
+|name|name|OPAMP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPAMP', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'OPAmp symbol for simulation only'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD5272BRM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-AD5272BRM|
 |Hex ID (short code)|hexID|SZKPOTENTIOMETERDIGITALAD5272BRM|
-|Name|name|AD5272BRM|
+|name|name|AD5272BRM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD5272BRM', 'kicadSymbolFootprint': 'Package_SO:MSOP-10_3x3mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD5272_5274.pdf', 'kicadSymbolki_keywords': 'digital potentiometer', 'kicadSymbolki_description': 'Digital potentiometer, 1024 position, 1% Resistor Tolerance, I2C interface, MSOP-10', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.5mm*'}]|
 ||||

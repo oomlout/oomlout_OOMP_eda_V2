@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AO3401A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-AO3401A|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETAO341A|
-|Name|name|AO3401A|
+|name|name|AO3401A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TP0610T', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'AO3401A', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf', 'kicadSymbolki_keywords': 'P-Channel MOSFET', 'kicadSymbolki_description': '-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

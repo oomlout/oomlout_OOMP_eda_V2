@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TS5A23159RSE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A23159RSE|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHTS5A23159RSE|
-|Name|name|TS5A23159RSE|
+|name|name|TS5A23159RSE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TS5A23159RSE', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_R-PUQFN-N10', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ts5a23159.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'switch analog SPDT', 'kicadSymbolki_description': 'Dual SPDT 1ohm Bidirectional Analog Switch with Off protection, UQFN-10', 'kicadSymbolki_fp_filters': 'Texas?R*PUQFN*'}]|
 ||||

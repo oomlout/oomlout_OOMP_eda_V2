@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F101VDTx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F101VDTx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F1STM32F11VDTX|
-|Name|name|STM32F101VDTx|
+|name|name|STM32F101VDTx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STM32F101VCTx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F101VDTx', 'kicadSymbolFootprint': 'Package_QFP:LQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00191174.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M3 STM32F1 STM32F101', 'kicadSymbolki_description': 'ARM Cortex-M3 MCU, 384KB flash, 48KB RAM, 36MHz, 2-3.6V, 82 GPIO, LQFP-100', 'kicadSymbolki_fp_filters': 'LQFP*14x14mm*P0.5mm*'}]|
 ||||

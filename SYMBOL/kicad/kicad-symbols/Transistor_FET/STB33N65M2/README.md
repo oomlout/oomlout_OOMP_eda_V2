@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STB33N65M2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-STB33N65M2|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETSTB33N65M2|
-|Name|name|STB33N65M2|
+|name|name|STB33N65M2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STB15N80K5', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'STB33N65M2', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-2', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/stb33n65m2.pdf', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '24A Id, 650V Vds, N-Channel MDmesh M2 MOSFET, 140mOhm Ron, D2PAK', 'kicadSymbolki_fp_filters': 'TO?263*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|VDFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.7mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-VDFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.7mm|
 |Hex ID (short code)|hexID|FZKDFNVDFN81EP2X2P5EP9X17|
-|Name|name|Package_DFN_QFN : VDFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.7mm|
+|name|name|Package_DFN_QFN : VDFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.7mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'VDFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.7mm', 'description': '8-Lead Very Thin Dual Flatpack No-Lead (LZ) - 2x3x0.9 mm Body [VDFN] (see Microchip Packaging Specification 00000049BS.pdf)', 'tags': 'DFN 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/VDFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.7mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/VDFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.7mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/VDFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.7mm/kicadPcb3d_450.png

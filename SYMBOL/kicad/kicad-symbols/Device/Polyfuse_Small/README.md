@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Polyfuse_Small|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Polyfuse_Small|
 |Hex ID (short code)|hexID|SZKDEVICEPOLYFUSLL|
-|Name|name|Polyfuse_Small|
+|name|name|Polyfuse_Small|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'F', 'kicadSymbolValue': 'Polyfuse_Small', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'resettable fuse PTC PPTC polyfuse polyswitch', 'kicadSymbolki_description': 'Resettable fuse, polymeric positive temperature coefficient, small symbol', 'kicadSymbolki_fp_filters': '*polyfuse* *PTC*'}]|
 ||||

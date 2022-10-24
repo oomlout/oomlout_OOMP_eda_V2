@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX884|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX884|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMAX884|
-|Name|name|MAX884|
+|name|name|MAX884|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX883', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX884', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX882-MAX884.pdf', 'kicadSymbolki_keywords': 'Linear LDO Regulator', 'kicadSymbolki_description': '200mA Linear LDO Regulator, Fixed Output 3.3V or Adjustable with Shutdown Mode, 0C to +70C, DIP-8/SO-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

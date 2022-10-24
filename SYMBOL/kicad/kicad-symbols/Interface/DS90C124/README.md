@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DS90C124|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-DS90C124|
 |Hex ID (short code)|hexID|SZKINTERFACEDS9C124|
-|Name|name|DS90C124|
+|name|name|DS90C124|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DS90C124', 'kicadSymbolFootprint': 'Package_QFP:TQFP-48_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ds90c241.pdf', 'kicadSymbolki_keywords': 'DC-Balanced 24-Bit FPD-Link II Deserializer', 'kicadSymbolki_description': 'DC-Balanced 24-Bit FPD-Link II Deserializer, TQFP-48', 'kicadSymbolki_fp_filters': 'TQFP*7x7mm*P0.5mm*'}]|
 ||||

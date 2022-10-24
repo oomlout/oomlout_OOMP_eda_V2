@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D3V3XA4B10LP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-D3V3XA4B10LP|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIOND3V3XA4B1LP|
-|Name|name|D3V3XA4B10LP|
+|name|name|D3V3XA4B10LP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'D3V3XA4B10LP', 'kicadSymbolFootprint': 'Package_DFN_QFN:Diodes_UDFN-10_1.0x2.5mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/D3V3XA4B10LP.pdf', 'kicadSymbolki_keywords': 'ESD protection TVS', 'kicadSymbolki_description': '4-Channel Low Capacitance TVS Diode Array, DFN-10', 'kicadSymbolki_fp_filters': 'Diodes*UDFN*1.0x2.5mm*P0.5mm*'}]|
 ||||

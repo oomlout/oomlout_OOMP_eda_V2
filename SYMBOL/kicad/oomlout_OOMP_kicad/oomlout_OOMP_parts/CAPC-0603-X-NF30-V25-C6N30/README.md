@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0603-X-NF30-V25-C6N30|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-NF30-V25-C6N30|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XNF3V25C6N3|
-|Name|name|CAPC-0603-X-NF30-V25-C6N30|
+|name|name|CAPC-0603-X-NF30-V25-C6N30|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0603-X-NF30-V25-C6N30', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0603-X-NF30-V25-C6N30', 'kicadSymbolDatasheet': 'oom.lt/C6N30', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C6N30;PARTL C-JLCC;C1615;MANUF C-XXXX;0603B334K250NT;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM1084-5.0|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM1084-5.0|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM1845|
-|Name|name|LM1084-5.0|
+|name|name|LM1084-5.0|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM1084-3.3', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM1084-5.0', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm1084.pdf', 'kicadSymbolki_keywords': 'Voltage Regulator 5A Positive', 'kicadSymbolki_description': '5A 27V Linear Regulator, Fixed Output 5.0V, TO-220/TO-263', 'kicadSymbolki_fp_filters': 'TO?220* TO?263*'}]|
 ||||

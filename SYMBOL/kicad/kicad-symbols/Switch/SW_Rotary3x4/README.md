@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_Rotary3x4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_Rotary3x4|
 |Hex ID (short code)|hexID|SZKSWITCHSWROTARY3X4|
-|Name|name|SW_Rotary3x4|
+|name|name|SW_Rotary3x4|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_Rotary3x4', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf', 'kicadSymbolki_keywords': 'rotary switch', 'kicadSymbolki_description': '3 rotary switches with 4 positions'}]|
 ||||

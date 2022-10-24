@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O000-01-R4O000-C17168|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O000-01-R4O000-C17168|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE42XO1R4OC17168|
-|Name|name|RESE-0402-X-O000-01-R4O000-C17168|
+|name|name|RESE-0402-X-O000-01-R4O000-C17168|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O000-01-R4O000-C17168', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O000-01-R4O000-C17168', 'kicadSymbolDatasheet': 'oom.lt/R4O000', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R4O000;PARTL C-JLCC;C17168;MANUF C-XXXX;0402WGF0000TCE;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

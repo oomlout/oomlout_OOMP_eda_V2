@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Texas_S-PVQFN-N40_EP4.15x4.15mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N40_EP4.15x4.15mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNTEXASSPVQFNN4EP415X415THERMALVIAS|
-|Name|name|Package_DFN_QFN : Texas_S-PVQFN-N40_EP4.15x4.15mm_ThermalVias|
+|name|name|Package_DFN_QFN : Texas_S-PVQFN-N40_EP4.15x4.15mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Texas_S-PVQFN-N40_EP4.15x4.15mm_ThermalVias', 'description': 'QFN, 40 Pin (http://www.ti.com/lit/ds/symlink/msp430g2755.pdf#page=70 JEDEC MO-220 variation VJJD-2), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PVQFN-N40_EP4.15x4.15mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PVQFN-N40_EP4.15x4.15mm_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PVQFN-N40_EP4.15x4.15mm_ThermalVias/kicadPcb3d_450.png

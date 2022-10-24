@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O221-01-R4O221-C25091|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O221-01-R4O221-C25091|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE42XO2211R4O221C2591|
-|Name|name|RESE-0402-X-O221-01-R4O221-C25091|
+|name|name|RESE-0402-X-O221-01-R4O221-C25091|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O221-01-R4O221-C25091', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O221-01-R4O221-C25091', 'kicadSymbolDatasheet': 'oom.lt/R4O221', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R4O221;PARTL C-JLCC;C25091;MANUF C-XXXX;0402WGF2200TCE;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

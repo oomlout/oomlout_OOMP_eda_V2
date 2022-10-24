@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DAC121C081CIMK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC121C081CIMK|
 |Hex ID (short code)|hexID|SZKANALOGDACDAC121C81CIMK|
-|Name|name|DAC121C081CIMK|
+|name|name|DAC121C081CIMK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DAC081C081CIMK', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DAC121C081CIMK', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/dac121c081.pdf', 'kicadSymbolki_keywords': 'I2C DAC 12-bit', 'kicadSymbolki_description': '12-bit Micropower DAC with I2C-Compatible Interface, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

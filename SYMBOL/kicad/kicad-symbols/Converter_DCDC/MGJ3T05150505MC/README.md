@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MGJ3T05150505MC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-MGJ3T05150505MC|
 |Hex ID (short code)|hexID|SZKCONMGJ3T51555MC|
-|Name|name|MGJ3T05150505MC|
+|name|name|MGJ3T05150505MC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MGJ3T05150505MC', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_Murata_MGJ3', 'kicadSymbolDatasheet': 'https://power.murata.com/datasheet?/data/power/ncl/kdc_mgj3.pdf', 'kicadSymbolki_keywords': 'DC/DC converter', 'kicadSymbolki_description': '5.2kVDC Isolated 3W Gate Drive, 4.5-9V Vin, +15V/-5V or +15V/-10V or +20V/-5V Vout', 'kicadSymbolki_fp_filters': 'Converter*DCDC*Murata*MGJ3*'}]|
 ||||

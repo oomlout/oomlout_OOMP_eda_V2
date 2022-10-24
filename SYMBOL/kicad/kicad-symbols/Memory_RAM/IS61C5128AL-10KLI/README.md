@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IS61C5128AL-10KLI|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_RAM-IS61C5128AL-10KLI|
 |Hex ID (short code)|hexID|SZKMEMORYRAMIS61C5128AL1KLI|
-|Name|name|IS61C5128AL-10KLI|
+|name|name|IS61C5128AL-10KLI|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IS61C5128AL-10KLI', 'kicadSymbolFootprint': 'Package_SO:SOJ-36_10.16x23.49mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.issi.com/WW/pdf/61-64C5128AL.pdf', 'kicadSymbolki_keywords': 'SRAM MEMORY', 'kicadSymbolki_description': '512K x 8 HIGH-SPEED CMOS STATIC RAM, 10ns, SOJ-36', 'kicadSymbolki_fp_filters': 'SOJ*10.16x23.49mm*P1.27mm*'}]|
 ||||

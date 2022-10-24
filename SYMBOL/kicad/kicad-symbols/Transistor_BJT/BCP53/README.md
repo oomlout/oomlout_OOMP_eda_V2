@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BCP53|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCP53|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBCP53|
-|Name|name|BCP53|
+|name|name|BCP53|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PZT3906', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BCP53', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223-3_TabPin2', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/BCP53T1-D.PDF', 'kicadSymbolki_keywords': 'PNP Transistor', 'kicadSymbolki_description': '1A Ic, 80V Vce, PNP Medium Power Transistor, SOT-223', 'kicadSymbolki_fp_filters': 'SOT?223*'}]|
 ||||

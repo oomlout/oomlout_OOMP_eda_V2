@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74AUC2G125|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-74AUC2G125|
 |Hex ID (short code)|hexID|SZK74XGXX74AUC2G125|
-|Name|name|74AUC2G125|
+|name|name|74AUC2G125|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LVC2G125', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AUC2G125', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf', 'kicadSymbolki_keywords': 'Dual Buff Tri-State LVC CMOS', 'kicadSymbolki_description': 'Dual Buffer Tri-State, Low-Voltage CMOS', 'kicadSymbolki_fp_filters': 'VSSOP*'}]|
 ||||

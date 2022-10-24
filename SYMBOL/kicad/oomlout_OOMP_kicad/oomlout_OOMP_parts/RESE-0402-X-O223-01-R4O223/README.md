@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O223-01-R4O223|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O223-01-R4O223|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO2231R4O223|
-|Name|name|RESE-0402-X-O223-01-R4O223|
+|name|name|RESE-0402-X-O223-01-R4O223|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O223-01-R4O223', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O223-01-R4O223', 'kicadSymbolDatasheet': 'oom.lt/R4O223', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R4O223;PARTL C-JLCC;C25768;MANUF C-XXXX;0402WGF2202TCE;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

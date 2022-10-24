@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SLA7042M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7042M|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORSLA742M|
-|Name|name|SLA7042M|
+|name|name|SLA7042M|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SLA7044M', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SLA7042M', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'www.sumzi.com/upload/files/2007/07/2007073114282034189.PDF', 'kicadSymbolki_keywords': 'Stepper driver', 'kicadSymbolki_description': 'Unipolar PWM high-current motor driver', 'kicadSymbolki_fp_filters': 'SLA704XM'}]|
 ||||

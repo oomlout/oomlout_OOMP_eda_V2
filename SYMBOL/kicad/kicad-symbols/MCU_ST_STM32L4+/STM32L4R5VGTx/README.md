@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32L4R5VGTx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4+-STM32L4R5VGTx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32L4+STM32L4R5VGTX|
-|Name|name|STM32L4R5VGTx|
+|name|name|STM32L4R5VGTx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32L4R5VGTx', 'kicadSymbolFootprint': 'Package_QFP:LQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00366448.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32L4+ STM32L4R5/S5', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 1024KB flash, 640KB RAM, 120MHz, 1.71-3.6V, 83 GPIO, LQFP-100', 'kicadSymbolki_fp_filters': 'LQFP*14x14mm*P0.5mm*'}]|
 ||||

@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O392-67-R6392A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O392-67-R6392A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO39267R6392A|
-|Name|name|RESE-0603-X-O392-67-R6392A|
+|name|name|RESE-0603-X-O392-67-R6392A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O392-67-R6392A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O392-67-R6392A', 'kicadSymbolDatasheet': 'oom.lt/R6392A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6392A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC7K160T-FBG484|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Kintex7-XC7K160T-FBG484|
 |Hex ID (short code)|hexID|SZKFPGAXILINXKINTEX7XC7K16TFBG484|
-|Name|name|XC7K160T-FBG484|
+|name|name|XC7K160T-FBG484|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC7K160T-FBG484', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Kintex 7 T 160 XC7K160T-FBG484'}]|
 ||||

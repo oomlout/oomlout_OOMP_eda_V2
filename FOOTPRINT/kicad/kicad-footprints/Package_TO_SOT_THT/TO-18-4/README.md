@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-18-4|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-18-4|
 |Hex ID (short code)|hexID|FZKSOTTO184|
-|Name|name|Package_TO_SOT_THT : TO-18-4|
+|name|name|Package_TO_SOT_THT : TO-18-4|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-18-4', 'description': 'TO-18-4', 'tags': 'TO-18-4', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-18-4.wrl', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-18-4/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-18-4/kicadPcb3d_450.png

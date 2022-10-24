@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SO-20_12.8x7.5mm_P1.27mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SO-20_12.8x7.5mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKSOSO2128X75P127|
-|Name|name|Package_SO : SO-20_12.8x7.5mm_P1.27mm|
+|name|name|Package_SO : SO-20_12.8x7.5mm_P1.27mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SO-20_12.8x7.5mm_P1.27mm', 'description': 'SO-20, 12.8x7.5mm, https://www.nxp.com/docs/en/data-sheet/SA605.pdf', 'tags': 'S0-20 ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SO-20_12.8x7.5mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SO-20_12.8x7.5mm_P1.27mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/SO-20_12.8x7.5mm_P1.27mm/kicadPcb3d_450.png

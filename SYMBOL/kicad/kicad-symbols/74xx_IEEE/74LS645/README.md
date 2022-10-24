@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS645|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS645|
 |Hex ID (short code)|hexID|SZK74XXIEEE74LS645|
-|Name|name|74LS645|
+|name|name|74LS645|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LS623', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS645', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

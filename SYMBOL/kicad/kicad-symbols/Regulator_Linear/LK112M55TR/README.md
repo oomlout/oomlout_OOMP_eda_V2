@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LK112M55TR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LK112M55TR|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLK112M55TR|
-|Name|name|LK112M55TR|
+|name|name|LK112M55TR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LK112M15TR', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LK112M55TR', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.st.com/resource/ja/datasheet/lk112.pdf', 'kicadSymbolki_keywords': 'LDO regulator voltage', 'kicadSymbolki_description': 'Low noise and low drop voltage regulator with shutdown function, 150mA, Vout = 5.5V, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP4921|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4921|
 |Hex ID (short code)|hexID|SZKANALOGDACMCP4921|
-|Name|name|MCP4921|
+|name|name|MCP4921|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP4901', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP4921', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/22248a.pdf', 'kicadSymbolki_keywords': '12-Bit DAC SPI 1ch', 'kicadSymbolki_description': '12-Bit D/A Converters with SPI Interface', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* MSOP*3x3mm*P0.65mm* SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

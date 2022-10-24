@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADS8684|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS8684|
 |Hex ID (short code)|hexID|SZKANALOGADCADS8684|
-|Name|name|ADS8684|
+|name|name|ADS8684|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADS8684', 'kicadSymbolFootprint': 'Package_SO:TSSOP-38_4.4x9.7mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ads8688.pdf', 'kicadSymbolki_keywords': 'adc analog digital spi bipolar input', 'kicadSymbolki_description': '16-Bit, 500-kSPS, 4-Channels, Single-Supply, SAR ADC with Bipolar Input Range, TSSOP-38', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x9.7mm*P0.5mm*'}]|
 ||||

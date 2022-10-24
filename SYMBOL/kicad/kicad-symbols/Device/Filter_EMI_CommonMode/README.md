@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Filter_EMI_CommonMode|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Filter_EMI_CommonMode|
 |Hex ID (short code)|hexID|SZKDEVICEFILEMICOONMODE|
-|Name|name|Filter_EMI_CommonMode|
+|name|name|Filter_EMI_CommonMode|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'Filter_EMI_LL', 'kicadSymbolReference': 'FL', 'kicadSymbolValue': 'Filter_EMI_CommonMode', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'EMI common mode filter', 'kicadSymbolki_description': 'EMI 2-inductor common mode filter', 'kicadSymbolki_fp_filters': 'L_* L_CommonMode*'}]|
 ||||

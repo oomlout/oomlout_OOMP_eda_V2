@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|US1J|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-US1J|
 |Hex ID (short code)|hexID|SZKDIODEUS1J|
-|Name|name|US1J|
+|name|name|US1J|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MRA4003T3G', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'US1J', 'kicadSymbolFootprint': 'Diode_SMD:D_SMA', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/ds16008.pdf', 'kicadSymbolki_keywords': 'Ultra Fast', 'kicadSymbolki_description': '600V, 1A, General Purpose Rectifier Diode, SMA(DO-214AC)', 'kicadSymbolki_fp_filters': 'D*SMA*'}]|
 ||||

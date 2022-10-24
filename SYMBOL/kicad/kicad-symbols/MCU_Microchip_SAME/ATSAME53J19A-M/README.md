@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATSAME53J19A-M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAME-ATSAME53J19A-M|
 |Hex ID (short code)|hexID|SZKMCUMCHIPSAMEATSAME53J19AM|
-|Name|name|ATSAME53J19A-M|
+|name|name|ATSAME53J19A-M|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATSAME53J18A-M', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATSAME53J19A-M', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP4.7x4.7mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/60001507E.pdf', 'kicadSymbolki_keywords': '32-bit ARM Cortex-M4F MCU Microcontroller', 'kicadSymbolki_description': 'SAM E53 Microchip SMART ARM Cortex-M4F based MCU, 512K Flash, 128K SRAM, QFN-64', 'kicadSymbolki_fp_filters': 'QFN*1EP*9x9mm*P0.5mm*'}]|
 ||||

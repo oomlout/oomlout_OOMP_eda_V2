@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTV-817|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-LTV-817|
 |Hex ID (short code)|hexID|SZKISOLATORLTV817|
-|Name|name|LTV-817|
+|name|name|LTV-817|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTV-817', 'kicadSymbolFootprint': 'Package_DIP:DIP-4_W7.62mm', 'kicadSymbolDatasheet': 'http://www.us.liteon.com/downloads/LTV-817-827-847.PDF', 'kicadSymbolki_keywords': 'NPN DC Optocoupler', 'kicadSymbolki_description': 'DC Optocoupler, Vce 35V, CTR 50%, DIP-4', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

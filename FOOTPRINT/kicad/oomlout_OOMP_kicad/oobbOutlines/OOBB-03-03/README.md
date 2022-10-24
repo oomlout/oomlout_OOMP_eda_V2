@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|OOBB-03-03|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oobbOutlines-OOBB-03-03|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOBBOUTLINESOOBB33|
-|Name|name|oobbOutlines : OOBB-03-03|
+|name|name|oobbOutlines : OOBB-03-03|
 |Footprint Kicad|footprintKicadDetails|{'name': 'OOBB-03-03', 'tags': None, 'attributeType': None, 'pins': {}}|
 ||||

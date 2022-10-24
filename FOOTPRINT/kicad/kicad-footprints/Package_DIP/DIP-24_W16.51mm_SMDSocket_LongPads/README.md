@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DIP-24_W16.51mm_SMDSocket_LongPads|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-24_W16.51mm_SMDSocket_LongPads|
 |Hex ID (short code)|hexID|FZKDIPDIP24W1651SMSOL|
-|Name|name|Package_DIP : DIP-24_W16.51mm_SMDSocket_LongPads|
+|name|name|Package_DIP : DIP-24_W16.51mm_SMDSocket_LongPads|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DIP-24_W16.51mm_SMDSocket_LongPads', 'description': '24-lead though-hole mounted DIP package, row spacing 16.51 mm (650 mils), SMDSocket, LongPads', 'tags': 'THT DIP DIL PDIP 2.54mm 16.51mm 650mil SMDSocket LongPads', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-24_W16.51mm_SMDSocket.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-24_W16.51mm_SMDSocket_LongPads/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-24_W16.51mm_SMDSocket_LongPads/kicadPcb3d_450.png

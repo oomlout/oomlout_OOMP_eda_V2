@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Crystal_C26-LF_D2.1mm_L6.5mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_C26-LF_D2.1mm_L6.5mm_Vertical|
 |Hex ID (short code)|hexID|FZKXXC26LFD21L65VERTICAL|
-|Name|name|Crystal : Crystal_C26-LF_D2.1mm_L6.5mm_Vertical|
+|name|name|Crystal : Crystal_C26-LF_D2.1mm_L6.5mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_C26-LF_D2.1mm_L6.5mm_Vertical', 'description': 'Crystal THT C26-LF 6.5mm length 2.06mm diameter', 'tags': "['C26-LF']", 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_C26-LF_D2.1mm_L6.5mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_C26-LF_D2.1mm_L6.5mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_C26-LF_D2.1mm_L6.5mm_Vertical/kicadPcb3d_450.png

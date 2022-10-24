@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AS7261|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-AS7261|
 |Hex ID (short code)|hexID|SZKSENOPTICALAS7261|
-|Name|name|AS7261|
+|name|name|AS7261|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AS7261', 'kicadSymbolFootprint': 'Package_LGA:AMS_LGA-20_4.7x4.5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://ams.com/eng/content/download/1008631/2361759/498838', 'kicadSymbolki_keywords': '6-Channel XYZ Spectral_ID Device Electronic Shutter Smart Interface i2c uart', 'kicadSymbolki_description': 'Spectral Sensing Engine, 6-Channel XYZ Spectral_ID', 'kicadSymbolki_fp_filters': 'AMS?LGA*4.7x4.5mm*P0.65mm*'}]|
 ||||

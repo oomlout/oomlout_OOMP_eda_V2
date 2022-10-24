@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TEN20-4823WIN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-TEN20-4823WIN|
 |Hex ID (short code)|hexID|SZKCONTEN24823WIN|
-|Name|name|TEN20-4823WIN|
+|name|name|TEN20-4823WIN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TEN20-2421WIN', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TEN20-4823WIN', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_TRACO_TEN20-xxxx_THT', 'kicadSymbolDatasheet': 'http://www.tracopower.com/products/ten20win.pdf', 'kicadSymbolki_keywords': 'Traco isolated DC/DC Converter module', 'kicadSymbolki_description': '665mA Isolated DC/DC Dual Supply Converter Module, fixed +-15V Output Voltage, 18-75V Input Voltage', 'kicadSymbolki_fp_filters': '*TRACO*TEN20*xxxx*'}]|
 ||||

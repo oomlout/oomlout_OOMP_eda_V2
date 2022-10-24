@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB_A_Stewart_SS-52100-001_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_Stewart_SS-52100-001_Horizontal|
 |Hex ID (short code)|hexID|FZKCNUUASTEWARTSS5211HORIZONTAL|
-|Name|name|Connector_USB : USB_A_Stewart_SS-52100-001_Horizontal|
+|name|name|Connector_USB : USB_A_Stewart_SS-52100-001_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB_A_Stewart_SS-52100-001_Horizontal', 'description': 'USB A connector https://belfuse.com/resources/drawings/stewartconnector/dr-stw-ss-52100-001.pdf', 'tags': 'USB_A Female Connector receptacle', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_A_Stewart_SS-52100-001_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_A_Stewart_SS-52100-001_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_A_Stewart_SS-52100-001_Horizontal/kicadPcb3d_450.png

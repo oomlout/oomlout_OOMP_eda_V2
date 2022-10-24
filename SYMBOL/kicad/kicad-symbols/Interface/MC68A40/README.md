@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC68A40|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-MC68A40|
 |Hex ID (short code)|hexID|SZKINTERFACEMC68A4|
-|Name|name|MC68A40|
+|name|name|MC68A40|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC6840', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC68A40', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://pdf.datasheetcatalog.com/datasheet/motorola/MC6840.pdf', 'kicadSymbolki_keywords': 'PIA', 'kicadSymbolki_description': 'Peripheral Interface Adapter 1.5MHz, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

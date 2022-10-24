@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AS3310|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-AS3310|
 |Hex ID (short code)|hexID|SZKAUDIOAS331|
-|Name|name|AS3310|
+|name|name|AS3310|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AS3310', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.alfarzpp.lv/eng/sc/AS3310.pdf', 'kicadSymbolki_keywords': 'VCEG CEM3310 ALFA', 'kicadSymbolki_description': 'ADSR Voltage Controlled Envelope Generator, DIP-16/SOIC-16', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x9.9mm*P1.27mm*'}]|
 ||||

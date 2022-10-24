@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LINE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-LINE|
 |Hex ID (short code)|hexID|SZKPOWERLINE|
-|Name|name|LINE|
+|name|name|LINE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'LINE', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "LINE"'}]|
 ||||

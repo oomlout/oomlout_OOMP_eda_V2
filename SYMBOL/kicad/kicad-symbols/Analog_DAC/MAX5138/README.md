@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX5138|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5138|
 |Hex ID (short code)|hexID|SZKANALOGDACMAX5138|
-|Name|name|MAX5138|
+|name|name|MAX5138|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX5139', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX5138', 'kicadSymbolFootprint': 'Package_DFN_QFN:TQFN-16-1EP_3x3mm_P0.5mm_EP1.23x1.23mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX5138-MAX5139.pdf', 'kicadSymbolki_keywords': '16-bit DAC 1CH', 'kicadSymbolki_description': 'Low-Power, Single, 16-Bit, Buffered Voltage-Output DAC', 'kicadSymbolki_fp_filters': 'TQFN*1EP*3x3mm*P0.5mm*'}]|
 ||||

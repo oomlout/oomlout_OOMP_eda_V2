@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TEZ6.0-D-1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-TEZ6.0-D-1|
 |Hex ID (short code)|hexID|SZKTRTEZ6D1|
-|Name|name|TEZ6.0-D-1|
+|name|name|TEZ6.0-D-1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TR', 'kicadSymbolValue': 'TEZ6.0-D-1', 'kicadSymbolFootprint': 'Transformer_THT:Transformer_Breve_TEZ-38x45', 'kicadSymbolDatasheet': 'http://www.breve.pl/pdf/ANG/TEZ_ang.pdf', 'kicadSymbolki_keywords': '6VA PCB Transformer Single Secondary', 'kicadSymbolki_description': 'TEZ6.0/D/x, 6VA, Single Secondary, Cast Resin Transformer, PCB', 'kicadSymbolki_fp_filters': 'Transformer*Breve*TEZ*38x45*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ZXMN2B14FH|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMN2B14FH|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETZXMN2B14FH|
-|Name|name|ZXMN2B14FH|
+|name|name|ZXMN2B14FH|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSS138', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'ZXMN2B14FH', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.diodes.com/assets/Datasheets/ZXMN2B14FH.pdf', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '4.3A Id, 20V Vds, N-Channel MOSFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

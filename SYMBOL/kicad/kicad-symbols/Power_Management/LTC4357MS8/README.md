@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC4357MS8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-LTC4357MS8|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTLTC4357MS8|
-|Name|name|LTC4357MS8|
+|name|name|LTC4357MS8|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC4357MS8', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/4357fd.pdf', 'kicadSymbolki_keywords': 'ideal-diode or-ing', 'kicadSymbolki_description': 'Ideal diode controller, 9-80V operation, MSOP-8 package', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
 ||||

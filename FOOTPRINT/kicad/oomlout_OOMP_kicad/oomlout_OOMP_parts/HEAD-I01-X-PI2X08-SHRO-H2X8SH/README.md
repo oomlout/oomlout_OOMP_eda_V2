@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-I01-X-PI2X08-SHRO-H2X8SH|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X08-SHRO-H2X8SH|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI2X8SHROH2X8SH|
-|Name|name|oomlout_OOMP_parts : HEAD-I01-X-PI2X08-SHRO-H2X8SH|
+|name|name|oomlout_OOMP_parts : HEAD-I01-X-PI2X08-SHRO-H2X8SH|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HEAD-I01-X-PI2X08-SHRO-H2X8SH', 'description': 'hexID: H2X8SH; Through hole IDC box header, 2x08, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0', 'tags': 'Through hole vertical IDC box header THT 2x08 2.54mm double row', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_IDC.3dshapes/IDC-Header_2x08_P2.54mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||

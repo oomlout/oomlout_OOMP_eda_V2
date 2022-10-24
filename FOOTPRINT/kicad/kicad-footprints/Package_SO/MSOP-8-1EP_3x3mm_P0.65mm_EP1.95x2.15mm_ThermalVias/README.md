@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MSOP-8-1EP_3x3mm_P0.65mm_EP1.95x2.15mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-MSOP-8-1EP_3x3mm_P0.65mm_EP1.95x2.15mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKSOMS81EP3X3P65EP195X215THERMALVIAS|
-|Name|name|Package_SO : MSOP-8-1EP_3x3mm_P0.65mm_EP1.95x2.15mm_ThermalVias|
+|name|name|Package_SO : MSOP-8-1EP_3x3mm_P0.65mm_EP1.95x2.15mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MSOP-8-1EP_3x3mm_P0.65mm_EP1.95x2.15mm_ThermalVias', 'description': 'MSOP, 8 Pin (http://www.st.com/resource/en/datasheet/pm8834.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'MSOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-8-1EP_3x3mm_P0.65mm_EP1.95x2.15mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-8-1EP_3x3mm_P0.65mm_EP1.95x2.15mm_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-8-1EP_3x3mm_P0.65mm_EP1.95x2.15mm_ThermalVias/kicadPcb3d_450.png

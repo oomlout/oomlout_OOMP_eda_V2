@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TDA9513|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Video-TDA9513|
 |Hex ID (short code)|hexID|SZKVIDEOTDA9513|
-|Name|name|TDA9513|
+|name|name|TDA9513|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TDA9500', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDA9513', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

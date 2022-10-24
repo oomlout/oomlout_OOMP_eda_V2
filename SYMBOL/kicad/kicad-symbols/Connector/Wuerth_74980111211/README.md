@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Wuerth_74980111211|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Wuerth_74980111211|
 |Hex ID (short code)|hexID|SZKCNWUERTH7498111211|
-|Name|name|Wuerth_74980111211|
+|name|name|Wuerth_74980111211|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Wuerth_74980111211', 'kicadSymbolFootprint': 'Connector_RJ:RJ45_Wuerth_74980111211_Horizontal', 'kicadSymbolDatasheet': 'https://www.we-online.de/katalog/datasheet/74980111211.pdf', 'kicadSymbolki_keywords': 'lan jack transformer smt', 'kicadSymbolki_description': 'LAN Transformer Jack, RJ45, 10/100 BaseT', 'kicadSymbolki_fp_filters': 'RJ45*Wuerth*74980111211*'}]|
 ||||

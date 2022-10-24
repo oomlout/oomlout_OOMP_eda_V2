@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LVC3G14|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-74LVC3G14|
 |Hex ID (short code)|hexID|SZK74XGXX74LVC3G14|
-|Name|name|74LVC3G14|
+|name|name|74LVC3G14|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LVC3G14', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/sn74lvc3g14.pdf', 'kicadSymbolki_keywords': 'Triple NOT Schmitt LVC CMOS', 'kicadSymbolki_description': 'Triple NOT Gate Schmitt, Low-Voltage CMOS', 'kicadSymbolki_fp_filters': 'SSOP* VSSOP*'}]|
 ||||

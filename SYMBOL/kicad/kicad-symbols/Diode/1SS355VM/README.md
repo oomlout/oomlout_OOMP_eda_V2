@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|1SS355VM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-1SS355VM|
 |Hex ID (short code)|hexID|SZKDIODE1SS355VM|
-|Name|name|1SS355VM|
+|name|name|1SS355VM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N4001', 'kicadSymbolReference': 'D', 'kicadSymbolValue': '1SS355VM', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-323F', 'kicadSymbolDatasheet': 'https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/switching/1ss355vmte-17-e.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '90V 0.1A high speed switching Diode, SOD-323F', 'kicadSymbolki_fp_filters': 'D*SOD?323F*'}]|
 ||||

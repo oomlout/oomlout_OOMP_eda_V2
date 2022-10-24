@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|QFN-36-1EP_6x6mm_P0.5mm_EP4.1x4.1mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-36-1EP_6x6mm_P0.5mm_EP4.1x4.1mm|
 |Hex ID (short code)|hexID|FZKDFNQFN361EP6X6P5EP41X41|
-|Name|name|Package_DFN_QFN : QFN-36-1EP_6x6mm_P0.5mm_EP4.1x4.1mm|
+|name|name|Package_DFN_QFN : QFN-36-1EP_6x6mm_P0.5mm_EP4.1x4.1mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'QFN-36-1EP_6x6mm_P0.5mm_EP4.1x4.1mm', 'description': 'QFN, 36 Pin (www.st.com/resource/en/datasheet/stm32f101t6.pdf#page=72), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-36-1EP_6x6mm_P0.5mm_EP4.1x4.1mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-36-1EP_6x6mm_P0.5mm_EP4.1x4.1mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-36-1EP_6x6mm_P0.5mm_EP4.1x4.1mm/kicadPcb3d_450.png

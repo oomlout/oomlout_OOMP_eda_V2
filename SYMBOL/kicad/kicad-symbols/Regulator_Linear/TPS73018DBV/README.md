@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS73018DBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS73018DBV|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTPS7318DBV|
-|Name|name|TPS73018DBV|
+|name|name|TPS73018DBV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS73625DBV', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS73018DBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/tps730.pdf', 'kicadSymbolki_keywords': 'Fixed LDO 200mA', 'kicadSymbolki_description': 'Low Noise, High PSRR, 200mA Low Drop 1.8V Regulator, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

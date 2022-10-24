@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS253|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS253|
 |Hex ID (short code)|hexID|SZK74XX74LS253|
-|Name|name|74LS253|
+|name|name|74LS253|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS253', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS253', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL MUX MUX4 3State', 'kicadSymbolki_description': 'Dual Multiplexer 4 to 1, 3-State Outputs', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

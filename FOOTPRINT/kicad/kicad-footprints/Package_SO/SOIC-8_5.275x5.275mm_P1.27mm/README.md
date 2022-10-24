@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOIC-8_5.275x5.275mm_P1.27mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-8_5.275x5.275mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKSOSOIC85275X5275P127|
-|Name|name|Package_SO : SOIC-8_5.275x5.275mm_P1.27mm|
+|name|name|Package_SO : SOIC-8_5.275x5.275mm_P1.27mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOIC-8_5.275x5.275mm_P1.27mm', 'description': 'SOIC, 8 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/20005045C.pdf#page=23), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'SOIC SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_5.275x5.275mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-8_5.275x5.275mm_P1.27mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-8_5.275x5.275mm_P1.27mm/kicadPcb3d_450.png

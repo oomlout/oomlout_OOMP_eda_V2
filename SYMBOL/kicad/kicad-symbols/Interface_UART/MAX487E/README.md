@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX487E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-MAX487E|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTMAX487E|
-|Name|name|MAX487E|
+|name|name|MAX487E|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX481E', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX487E', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX1487E-MAX491E.pdf', 'kicadSymbolki_keywords': 'Half duplex RS-485/RS-422, 0.25 Mbps, ±15kV electro-static discharge (ESD) protection, with slew-rate, with low-power shutdown, with receiver/driver enable, 128 receiver drive kapacitity, DIP-8 and SOIC-8', 'kicadSymbolki_description': 'Half duplex RS-485/RS-422, 0.25 Mbps, ±15kV electro-static discharge (ESD) protection, with slew-rate, with low-power shutdown, with receiver/driver enable, 128 receiver drive kapacitity, DIP-8 and SOIC-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

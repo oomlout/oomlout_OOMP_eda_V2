@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Mounting_Wuerth_WA-SMSI-M3_H2mm_9774020360|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSI-M3_H2mm_9774020360|
 |Hex ID (short code)|hexID|FZKMONMONWASMSIM3H29774236|
-|Name|name|Mounting_Wuerth : Mounting_Wuerth_WA-SMSI-M3_H2mm_9774020360|
+|name|name|Mounting_Wuerth : Mounting_Wuerth_WA-SMSI-M3_H2mm_9774020360|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Mounting_Wuerth_WA-SMSI-M3_H2mm_9774020360', 'description': 'Mounting Hardware, inside through hole M3, height 2, Wuerth electronics 9774020360 (https://katalog.we-online.de/em/datasheet/9774020360.pdf), generated with kicad-footprint-generator', 'tags': 'Mounting M3 9774020360', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSI-M3_H2mm_9774020360.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSI-M3_H2mm_9774020360/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSI-M3_H2mm_9774020360/kicadPcb3d_450.png

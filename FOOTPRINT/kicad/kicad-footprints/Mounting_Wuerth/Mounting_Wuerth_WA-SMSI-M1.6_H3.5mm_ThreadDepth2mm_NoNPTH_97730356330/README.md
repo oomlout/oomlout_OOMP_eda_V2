@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Mounting_Wuerth_WA-SMSI-M1.6_H3.5mm_ThreadDepth2mm_NoNPTH_97730356330|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSI-M1.6_H3.5mm_ThreadDepth2mm_NoNPTH_97730356330|
 |Hex ID (short code)|hexID|FZKMONMONWASMSIM16H35THREADDEP2NONP977335633|
-|Name|name|Mounting_Wuerth : Mounting_Wuerth_WA-SMSI-M1.6_H3.5mm_ThreadDepth2mm_NoNPTH_97730356330|
+|name|name|Mounting_Wuerth : Mounting_Wuerth_WA-SMSI-M1.6_H3.5mm_ThreadDepth2mm_NoNPTH_97730356330|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Mounting_Wuerth_WA-SMSI-M1.6_H3.5mm_ThreadDepth2mm_NoNPTH_97730356330', 'description': 'Mounting Hardware, inside blind hole M1.6, height 3.5, Wuerth electronics 97730356330 (https://katalog.we-online.com/em/datasheet/97730356330.pdf), generated with kicad-footprint-generator', 'tags': 'Mounting M1.6 97730356330', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSI-M1.6_H3.5mm_ThreadDepth2mm_NoNPTH_97730356330.wrl', 'pins': {'type': 'smd', 'shape': 'custom'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSI-M1.6_H3.5mm_ThreadDepth2mm_NoNPTH_97730356330/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSI-M1.6_H3.5mm_ThreadDepth2mm_NoNPTH_97730356330/kicadPcb3d_450.png

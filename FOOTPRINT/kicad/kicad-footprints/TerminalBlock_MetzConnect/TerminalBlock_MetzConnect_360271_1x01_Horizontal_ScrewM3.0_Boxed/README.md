@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed|
 |Hex ID (short code)|hexID|FZKTBMETZCONNECTTBMETZCONNECT362711X1HORIZONTALSCREWM3BOXED|
-|Name|name|TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed|
+|name|name|TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed', 'description': 'single screw terminal block Metz Connect 360271, block size 9x7.3mm^2, drill diamater 1.5mm, 1 pads, pad diameter 3mm, see http://www.metz-connect.com/de/system/files/METZ_CONNECT_U_Contact_Katalog_Anschlusssysteme_fuer_Leiterplatten_DE_31_07_2017_OFF_024803.pdf?language=en page 134, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect', 'tags': 'THT single screw terminal block Metz Connect 360271 size 9x7.3mm^2 drill 1.5mm pad 3mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

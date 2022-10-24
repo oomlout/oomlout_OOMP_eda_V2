@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Texas_RWH0032A_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RWH0032A_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNTEXASRWH32ATHERMALVIAS|
-|Name|name|Package_DFN_QFN : Texas_RWH0032A_ThermalVias|
+|name|name|Package_DFN_QFN : Texas_RWH0032A_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Texas_RWH0032A_ThermalVias', 'description': 'Texas Instruments, RWH0032A, 8x8x0.9mm (http://www.ti.com/lit/ds/snosd10c/snosd10c.pdf)', 'tags': 'ti rwh0032a', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_RWH0032A.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_RWH0032A_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_RWH0032A_ThermalVias/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Bus_PCI_32bit_5V|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Bus_PCI_32bit_5V|
 |Hex ID (short code)|hexID|SZKCNBUSPCI32BIT5V|
-|Name|name|Bus_PCI_32bit_5V|
+|name|name|Bus_PCI_32bit_5V|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Bus_PCI_32bit_5V', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://pinouts.ru/Slots/PCI_pinout.shtml', 'kicadSymbolki_keywords': 'PCI 5V', 'kicadSymbolki_description': 'PCI bus connector for 5V cards'}]|
 ||||

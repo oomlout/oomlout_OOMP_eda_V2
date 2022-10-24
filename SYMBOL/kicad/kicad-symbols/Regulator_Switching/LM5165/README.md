@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM5165|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5165|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM5165|
-|Name|name|LM5165|
+|name|name|LM5165|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM5165', 'kicadSymbolFootprint': 'Package_SON:Texas_S-PVSON-N10_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm5165.pdf', 'kicadSymbolki_keywords': 'step-down dc-dc buck regulator adjustable', 'kicadSymbolki_description': '150mA Synchronous Buck Converter With Ultra-Low IQ, 3V-65V input, adjustable output voltage, DFN-10', 'kicadSymbolki_fp_filters': 'Texas*PVSON*N10*'}]|
 ||||

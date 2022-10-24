@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|APE8865U5-23-HF-3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-APE8865U5-23-HF-3|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARAPE8865U523HF3|
-|Name|name|APE8865U5-23-HF-3|
+|name|name|APE8865U5-23-HF-3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'APE8865U5-12-HF-3', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'APE8865U5-23-HF-3', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-353_SC-70-5', 'kicadSymbolDatasheet': 'http://www.tme.eu/fr/Document/ced3461ed31ea70a3c416fb648e0cde7/APE8865-3.pdf', 'kicadSymbolki_keywords': '300mA LDO Regulator Fixed Positive', 'kicadSymbolki_description': '300mA Low Dropout Voltage Regulator, Fixed Output 2.3V, SC-70-5', 'kicadSymbolki_fp_filters': '*SC?70*'}]|
 ||||

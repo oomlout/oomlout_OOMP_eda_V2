@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OSHW-Symbol_33.5x30mm_Copper|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Symbol_33.5x30mm_Copper|
 |Hex ID (short code)|hexID|FZKSZOSHWSY335X3C|
-|Name|name|Symbol : OSHW-Symbol_33.5x30mm_Copper|
+|name|name|Symbol : OSHW-Symbol_33.5x30mm_Copper|
 |Footprint Kicad|footprintKicadDetails|{'name': 'OSHW-Symbol_33.5x30mm_Copper', 'description': 'Open Source Hardware Symbol', 'tags': 'Logo Symbol OSHW', 'attributeType': None, 'pins': {}}|
 ||||

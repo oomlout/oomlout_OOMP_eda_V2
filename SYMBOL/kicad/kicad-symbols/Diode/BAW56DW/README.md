@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAW56DW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAW56DW|
 |Hex ID (short code)|hexID|SZKDIODEBAW56DW|
-|Name|name|BAW56DW|
+|name|name|BAW56DW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'Rohm_UMP11N', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAW56DW', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'http://www.diodes.com/datasheets/ds30146.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Switching diode array 2 pair Com A', 'kicadSymbolki_fp_filters': 'SOT?363*'}]|
 ||||

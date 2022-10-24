@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX17263xxTE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-MAX17263xxTE|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTMAX17263XXTE|
-|Name|name|MAX17263xxTE|
+|name|name|MAX17263xxTE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX17263xxTE', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX17263.pdf', 'kicadSymbolki_keywords': 'fuel-gauge', 'kicadSymbolki_description': 'Single/Multi-Cell Fuel Gauge, ModelGauge m5 EZ, Integrated LED Control, TDFN-14', 'kicadSymbolki_fp_filters': 'DFN*1EP*3x3mm*P0.4mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATSAMD11D14A-SS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD11D14A-SS|
 |Hex ID (short code)|hexID|SZKMCUMCHIPSAMDATSAMD11D14ASS|
-|Name|name|ATSAMD11D14A-SS|
+|name|name|ATSAMD11D14A-SS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATSAMD10D13A-SS', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATSAMD11D14A-SS', 'kicadSymbolFootprint': 'Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42363-SAM-D11_Datasheet.pdf', 'kicadSymbolki_keywords': '32-bit ARM Cortex-M0+ MCU Microcontroller', 'kicadSymbolki_description': 'ARM Cortex-M0+ MCU, 48MHz, 16KB Flash, 4KB RAM, 1.6-3.6V, 18 GPIO, SOIC-20', 'kicadSymbolki_fp_filters': 'SOIC*7.5x12.8mm*P1.27mm*'}]|
 ||||

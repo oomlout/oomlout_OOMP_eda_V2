@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-5-3|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-5-3|
 |Hex ID (short code)|hexID|FZKSOTTO53|
-|Name|name|Package_TO_SOT_THT : TO-5-3|
+|name|name|Package_TO_SOT_THT : TO-5-3|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-5-3', 'description': 'TO-5-3', 'tags': 'TO-5-3', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-5-3.wrl', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-5-3/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-5-3/kicadPcb3d_450.png

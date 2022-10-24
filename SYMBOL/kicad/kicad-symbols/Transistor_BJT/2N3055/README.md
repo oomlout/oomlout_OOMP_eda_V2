@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|2N3055|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-2N3055|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJT2N355|
-|Name|name|2N3055|
+|name|name|2N3055|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': '2N3055', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-3', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/2N3055-D.PDF', 'kicadSymbolki_keywords': 'power NPN Transistor', 'kicadSymbolki_description': '15A Ic, 60V Vce, Power NPN Transistor, TO-3', 'kicadSymbolki_fp_filters': 'TO?3*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD8422ARZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8422ARZ|
 |Hex ID (short code)|hexID|SZKAMPLIFIERINSTRUMENTATIONAD8422ARZ|
-|Name|name|AD8422ARZ|
+|name|name|AD8422ARZ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD8422ARZ', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD8422.pdf', 'kicadSymbolki_keywords': 'ad8422 instumentation amplifier soic-8', 'kicadSymbolki_description': 'Low Power, Rail to Rail, Instumentation Amplifier, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC-8*'}]|
 ||||

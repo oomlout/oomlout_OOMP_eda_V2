@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADA4940-1xCP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Difference-ADA4940-1xCP|
 |Hex ID (short code)|hexID|SZKAMPLIFIERDIFFERENCEADA4941XCP|
-|Name|name|ADA4940-1xCP|
+|name|name|ADA4940-1xCP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADA4940-1xCP', 'kicadSymbolFootprint': 'Package_CSP:LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm_ThermalVias', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4940-1_4940-2.pdf', 'kicadSymbolki_keywords': 'differential amplifier', 'kicadSymbolki_description': 'Ultralow Power, Low Distortion, Fully Differential ADC Drivers, LFCSP-16', 'kicadSymbolki_fp_filters': 'LFCSP*1EP*3x3mm*P0.5mm*'}]|
 ||||

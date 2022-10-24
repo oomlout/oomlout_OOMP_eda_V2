@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O390-01-R6390|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O390-01-R6390|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO391R639|
-|Name|name|RESE-0603-X-O390-01-R6390|
+|name|name|RESE-0603-X-O390-01-R6390|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O390-01-R6390', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O390-01-R6390', 'kicadSymbolDatasheet': 'oom.lt/R6390', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6390;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

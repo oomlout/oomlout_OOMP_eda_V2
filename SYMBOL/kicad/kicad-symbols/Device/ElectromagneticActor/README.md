@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ElectromagneticActor|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-ElectromagneticActor|
 |Hex ID (short code)|hexID|SZKDEVICEELECTROMAGNETICACTOR|
-|Name|name|ElectromagneticActor|
+|name|name|ElectromagneticActor|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'L', 'kicadSymbolValue': 'ElectromagneticActor', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'electromagnet coil inductor', 'kicadSymbolki_description': 'Electromagnetic actor', 'kicadSymbolki_fp_filters': 'Inductor_* L_*'}]|
 ||||

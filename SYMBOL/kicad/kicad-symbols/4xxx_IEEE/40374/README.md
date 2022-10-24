@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|40374|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40374|
 |Hex ID (short code)|hexID|SZK4XXXIEEE4374|
-|Name|name|40374|
+|name|name|40374|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '40374', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.digchip.com/datasheets/download_datasheet.php?id=369790&part-number=HEF40374BDB', 'kicadSymbolki_keywords': 'CMOS BUFFER 3State', 'kicadSymbolki_description': '8-bit D-flip-flop with 3-State outputs'}]|
 ||||

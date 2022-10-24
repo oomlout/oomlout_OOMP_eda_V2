@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Heatsink_Pad|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Mechanical-Heatsink_Pad|
 |Hex ID (short code)|hexID|SZKMECHANICALHPAD|
-|Name|name|Heatsink_Pad|
+|name|name|Heatsink_Pad|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'HS', 'kicadSymbolValue': 'Heatsink_Pad', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'thermal heat temperature', 'kicadSymbolki_description': 'Heatsink with electrical connection, 1 pin', 'kicadSymbolki_fp_filters': 'Heatsink_*'}]|
 ||||

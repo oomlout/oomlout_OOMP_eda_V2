@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|0|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-pspice-0|
 |Hex ID (short code)|hexID|SZKPSPICE|
-|Name|name|0|
+|name|name|0|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#GND', 'kicadSymbolValue': '0', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': '0V reference potential for simulation'}]|
 ||||

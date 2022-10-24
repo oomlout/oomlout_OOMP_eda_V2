@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRL6283M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRL6283M|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRL6283M|
-|Name|name|IRL6283M|
+|name|name|IRL6283M|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRL6283M', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_MD', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irl6283mpbf.pdf?fileId=5546d462533600a40153565fe9452573', 'kicadSymbolki_keywords': 'N-Channel HEXFET MOSFET IRFET', 'kicadSymbolki_description': '38A Id, 20V Vds, 0.75mOhm Rds, N-Channel HEXFET Power MOSFET, DirectFET MD', 'kicadSymbolki_fp_filters': 'DirectFET*MD*'}]|
 ||||

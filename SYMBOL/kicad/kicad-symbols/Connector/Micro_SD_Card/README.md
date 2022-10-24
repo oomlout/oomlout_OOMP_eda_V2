@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Micro_SD_Card|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Micro_SD_Card|
 |Hex ID (short code)|hexID|SZKCNMSDCARD|
-|Name|name|Micro_SD_Card|
+|name|name|Micro_SD_Card|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Micro_SD_Card', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://katalog.we-online.de/em/datasheet/693072010801.pdf', 'kicadSymbolki_keywords': 'connector SD microsd', 'kicadSymbolki_description': 'Micro SD Card Socket', 'kicadSymbolki_fp_filters': 'microSD*'}]|
 ||||

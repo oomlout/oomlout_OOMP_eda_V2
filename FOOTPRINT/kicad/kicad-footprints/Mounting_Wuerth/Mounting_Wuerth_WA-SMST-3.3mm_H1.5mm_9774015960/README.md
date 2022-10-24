@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Mounting_Wuerth_WA-SMST-3.3mm_H1.5mm_9774015960|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMST-3.3mm_H1.5mm_9774015960|
 |Hex ID (short code)|hexID|FZKMONMONWASMST33H1597741596|
-|Name|name|Mounting_Wuerth : Mounting_Wuerth_WA-SMST-3.3mm_H1.5mm_9774015960|
+|name|name|Mounting_Wuerth : Mounting_Wuerth_WA-SMST-3.3mm_H1.5mm_9774015960|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Mounting_Wuerth_WA-SMST-3.3mm_H1.5mm_9774015960', 'description': 'Mounting Hardware, inside through hole 3.3mm, height 1.5, Wuerth electronics 9774015960 (https://katalog.we-online.de/em/datasheet/9774015960.pdf,), generated with kicad-footprint-generator', 'tags': 'Mounting 3.3mm 9774015960', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMST-3.3mm_H1.5mm_9774015960.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMST-3.3mm_H1.5mm_9774015960/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMST-3.3mm_H1.5mm_9774015960/kicadPcb3d_450.png

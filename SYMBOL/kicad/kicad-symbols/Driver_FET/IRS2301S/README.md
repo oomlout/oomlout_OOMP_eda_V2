@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRS2301S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2301S|
 |Hex ID (short code)|hexID|SZKDRIVERFETIRS231S|
-|Name|name|IRS2301S|
+|name|name|IRS2301S|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IR25604S', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IRS2301S', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irs2301pbf.pdf?fileId=5546d462533600a40153567a7ec527fe', 'kicadSymbolki_keywords': 'Gate Driver', 'kicadSymbolki_description': 'High and Low Side Driver, 600V, 200/350mA, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

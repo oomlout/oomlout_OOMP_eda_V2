@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FT201XQ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-FT201XQ|
 |Hex ID (short code)|hexID|SZKINTERFACEUFT21XQ|
-|Name|name|FT201XQ|
+|name|name|FT201XQ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FT201XQ', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm', 'kicadSymbolDatasheet': 'https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT201X.pdf', 'kicadSymbolki_keywords': 'FTDI USB I2C interface Converter', 'kicadSymbolki_description': 'Full Speed USB to I2C Bridge, QFN-10', 'kicadSymbolki_fp_filters': 'QFN*1EP*4x4mm*P0.65mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IDT7203|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7203|
 |Hex ID (short code)|hexID|SZKMEMORYRAMIDT723|
-|Name|name|IDT7203|
+|name|name|IDT7203|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IDT7204', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IDT7203', 'kicadSymbolFootprint': 'Package_DIP:DIP-28_W7.62mm', 'kicadSymbolDatasheet': 'http://www.idt.com/document/7203-7208-datasheet', 'kicadSymbolki_keywords': 'asynchronous fifo memory', 'kicadSymbolki_description': '2048x9 CMOS Asynchronous FIFO, DIP-28', 'kicadSymbolki_fp_filters': 'DIP*7.62mm*'}]|
 ||||

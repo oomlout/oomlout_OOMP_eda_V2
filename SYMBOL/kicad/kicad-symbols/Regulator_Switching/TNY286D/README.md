@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TNY286D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY286D|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTNY286D|
-|Name|name|TNY286D|
+|name|name|TNY286D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TNY284D', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TNY286D', 'kicadSymbolFootprint': 'Package_SO:PowerIntegrations_SO-8C', 'kicadSymbolDatasheet': 'https://ac-dc.power.com/sites/default/files/product-docs/tinyswitch-4_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Energy-Efficient, Off-Line Switcher With Line Compensated Overload Power', 'kicadSymbolki_description': 'TinySwitch-4 Family, 15W Output Power, SO-8C', 'kicadSymbolki_fp_filters': 'PowerIntegrations?SO?8C*'}]|
 ||||

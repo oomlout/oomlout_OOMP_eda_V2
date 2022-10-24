@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O243-01-R8O243|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O243-01-R8O243|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO2431R8O243|
-|Name|name|RESE-0805-X-O243-01-R8O243|
+|name|name|RESE-0805-X-O243-01-R8O243|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O243-01-R8O243', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O243-01-R8O243', 'kicadSymbolDatasheet': 'oom.lt/R8O243', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R8O243;PARTL C-JLCC;C17575;MANUF C-XXXX;0805W8F2402T5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

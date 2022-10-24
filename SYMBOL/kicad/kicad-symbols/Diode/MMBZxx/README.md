@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MMBZxx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-MMBZxx|
 |Hex ID (short code)|hexID|SZKDIODEBZXX|
-|Name|name|MMBZxx|
+|name|name|MMBZxx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '2BZX84Cxx', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'MMBZxx', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/MMBZ5V6ALT1-D.PDF', 'kicadSymbolki_keywords': 'dual zener diode', 'kicadSymbolki_description': 'Double Zener Diode, Common Anode, 225mW, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VAC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-VAC|
 |Hex ID (short code)|hexID|SZKPOWERVAC|
-|Name|name|VAC|
+|name|name|VAC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'VAC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "VAC"'}]|
 ||||

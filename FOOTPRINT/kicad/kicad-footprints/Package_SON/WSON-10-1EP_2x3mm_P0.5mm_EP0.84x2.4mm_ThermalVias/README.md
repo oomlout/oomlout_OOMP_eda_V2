@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|WSON-10-1EP_2x3mm_P0.5mm_EP0.84x2.4mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-10-1EP_2x3mm_P0.5mm_EP0.84x2.4mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKSONWSON11EP2X3P5EP84X24THERMALVIAS|
-|Name|name|Package_SON : WSON-10-1EP_2x3mm_P0.5mm_EP0.84x2.4mm_ThermalVias|
+|name|name|Package_SON : WSON-10-1EP_2x3mm_P0.5mm_EP0.84x2.4mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'WSON-10-1EP_2x3mm_P0.5mm_EP0.84x2.4mm_ThermalVias', 'description': 'WSON-10 package 2x3mm body, pitch 0.5mm, thermal vias and counter-pad, see http://www.ti.com/lit/ds/symlink/tps62177.pdf', 'tags': 'WSON 0.5 thermal vias', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/WSON-10-1EP_2x3mm_Pitch0.5mm_EP0.84x2.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-10-1EP_2x3mm_P0.5mm_EP0.84x2.4mm_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-10-1EP_2x3mm_P0.5mm_EP0.84x2.4mm_ThermalVias/kicadPcb3d_450.png

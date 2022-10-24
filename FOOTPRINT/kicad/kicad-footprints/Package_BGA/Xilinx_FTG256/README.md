@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Xilinx_FTG256|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_FTG256|
 |Hex ID (short code)|hexID|FZKBGAXILINXFTG256|
-|Name|name|Package_BGA : Xilinx_FTG256|
+|name|name|Package_BGA : Xilinx_FTG256|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Xilinx_FTG256', 'description': 'Artix-7 BGA, 16x16 grid, 17x17mm package, 1mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=269, NSMD pad definition Appendix A', 'tags': 'BGA 256 1 FT256 FTG256', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_FTG256.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_FTG256/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_BGA/Xilinx_FTG256/kicadPcb3d_450.png

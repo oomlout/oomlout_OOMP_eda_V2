@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|-10V|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power--10V|
 |Hex ID (short code)|hexID|SZKPOWER1V|
-|Name|name|-10V|
+|name|name|-10V|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': '-10V', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "-10V"'}]|
 ||||

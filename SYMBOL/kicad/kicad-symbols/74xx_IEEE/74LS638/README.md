@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS638|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS638|
 |Hex ID (short code)|hexID|SZK74XXIEEE74LS638|
-|Name|name|74LS638|
+|name|name|74LS638|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS638', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0805-X-NF47D-V50-C8N47D|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-NF47D-V50-C8N47D|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XNF47DV5C8N47D|
-|Name|name|CAPC-0805-X-NF47D-V50-C8N47D|
+|name|name|CAPC-0805-X-NF47D-V50-C8N47D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0805-X-NF47D-V50-C8N47D', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0805-X-NF47D-V50-C8N47D', 'kicadSymbolDatasheet': 'oom.lt/C8N47D', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C8N47D;PARTL C-JLCC;C1744;MANUF C-XXXX;0805B472K500NT;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM5060|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-LM5060|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTLM56|
-|Name|name|LM5060|
+|name|name|LM5060|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM5060', 'kicadSymbolFootprint': 'Package_SO:MSOP-10_3x3mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm5060.pdf', 'kicadSymbolki_keywords': 'high-voltage mosfet-driver hot-swap', 'kicadSymbolki_description': 'High side protection controller, +5.5V to +65V operation, VSSOP-10 package', 'kicadSymbolki_fp_filters': '*SOP*3x3mm*P0.5mm*'}]|
 ||||

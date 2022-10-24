@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PZT3906|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-PZT3906|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTPZT396|
-|Name|name|PZT3906|
+|name|name|PZT3906|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'PZT3906', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223-3_TabPin2', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/2N3906-D.PDF', 'kicadSymbolki_keywords': 'PNP Transistor', 'kicadSymbolki_description': '-0.2A Ic, -40V Vce, Small Signal PNP Transistor, SOT-223', 'kicadSymbolki_fp_filters': 'SOT?223*'}]|
 ||||

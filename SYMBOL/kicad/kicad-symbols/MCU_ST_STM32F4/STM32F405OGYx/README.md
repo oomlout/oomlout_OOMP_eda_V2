@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F405OGYx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F405OGYx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F4STM32F45OGYX|
-|Name|name|STM32F405OGYx|
+|name|name|STM32F405OGYx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STM32F405OEYx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F405OGYx', 'kicadSymbolFootprint': 'Package_CSP:ST_WLCSP-90_Die413', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00037051.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32F4 STM32F405/415', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 1024KB flash, 128KB RAM, 168MHz, 1.8-3.6V, 72 GPIO, WLCSP-90', 'kicadSymbolki_fp_filters': 'ST_WLCSP*Die413*'}]|
 ||||

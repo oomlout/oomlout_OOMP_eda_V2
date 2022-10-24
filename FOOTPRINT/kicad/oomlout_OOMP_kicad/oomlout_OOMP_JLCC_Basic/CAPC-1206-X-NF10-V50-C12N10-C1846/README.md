@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-1206-X-NF10-V50-C12N10-C1846|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-1206-X-NF10-V50-C12N10-C1846|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC126XNF1V5C12N1C1846|
-|Name|name|oomlout_OOMP_JLCC_Basic : CAPC-1206-X-NF10-V50-C12N10-C1846|
+|name|name|oomlout_OOMP_JLCC_Basic : CAPC-1206-X-NF10-V50-C12N10-C1846|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CAPC-1206-X-NF10-V50-C12N10-C1846', 'description': 'hexID: C12N10;PARTL C-JLCC;C1846;MANUF C-XXXX;1206B103K500NT; Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator', 'tags': 'capacitor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LGA-16_3x3mm_P0.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-16_3x3mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKLGALGA163X3P5|
-|Name|name|Package_LGA : LGA-16_3x3mm_P0.5mm|
+|name|name|Package_LGA : LGA-16_3x3mm_P0.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LGA-16_3x3mm_P0.5mm', 'description': 'http://www.memsic.com/userfiles/files/DataSheets/Magnetic-Sensors-Datasheets/MMC5883MA-RevC.pdf', 'tags': 'lga land grid array', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/LGA-16_3x3mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-16_3x3mm_P0.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-16_3x3mm_P0.5mm/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F685-ISO|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F685-ISO|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F685ISO|
-|Name|name|PIC16F685-ISO|
+|name|name|PIC16F685-ISO|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F685-ISO', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41262E.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit CMOS Microcontroller nanoWatt', 'kicadSymbolki_description': 'PIC16F685, 4096W Flash, 256B SRAM, 256B EEPROM, SO20', 'kicadSymbolki_fp_filters': 'SO*'}]|
 ||||

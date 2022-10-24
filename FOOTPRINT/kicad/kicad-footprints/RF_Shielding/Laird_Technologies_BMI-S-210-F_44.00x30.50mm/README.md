@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Laird_Technologies_BMI-S-210-F_44.00x30.50mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-210-F_44.00x30.50mm|
 |Hex ID (short code)|hexID|FZKRFSLAIRDTECHNOLOGIESBMIS21F44X35|
-|Name|name|RF_Shielding : Laird_Technologies_BMI-S-210-F_44.00x30.50mm|
+|name|name|RF_Shielding : Laird_Technologies_BMI-S-210-F_44.00x30.50mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Laird_Technologies_BMI-S-210-F_44.00x30.50mm', 'description': 'Laird Technologies BMI-S-210-F Shielding Cabinet Two Piece SMD 44.00x30.50mm (https://assets.lairdtech.com/home/brandworld/files/Board%20Level%20Shields%20Catalog%20Download.pdf)', 'tags': 'Shielding Cabinet', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Shielding.3dshapes/Laird_Technologies_BMI-S-210-F_44.00x30.50mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

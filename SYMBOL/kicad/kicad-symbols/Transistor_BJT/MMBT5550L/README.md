@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MMBT5550L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMBT5550L|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBT555L|
-|Name|name|MMBT5550L|
+|name|name|MMBT5550L|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BC817', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'MMBT5550L', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'www.onsemi.com/pub/Collateral/MMBT5550LT1-D.PDF', 'kicadSymbolki_keywords': 'NPN Transistor', 'kicadSymbolki_description': '0.6A Ic, 140V Vce, NPN Transistor, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

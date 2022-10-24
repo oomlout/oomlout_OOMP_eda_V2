@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|AQH1223A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF-AQH1223A|
 |Hex ID (short code)|hexID|SZKRFAQH1223A|
-|Name|name|AQH1223A|
+|name|name|AQH1223A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AQH0223A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AQH1223A', 'kicadSymbolFootprint': 'Package_SO:SSO-7-8_6.4x9.78mm_P2.54mm', 'kicadSymbolDatasheet': 'https://b2b-api.panasonic.eu/file_stream/pids/fileversion/2787', 'kicadSymbolki_keywords': 'Opto-Triac Opto Triac Random Phase', 'kicadSymbolki_description': 'Random Phase Opto-Triac, Vdrm 600V, Ift 10mA, IT 600mA, SOIC-7', 'kicadSymbolki_fp_filters': 'SSO*6.4x9.78mm*P2.54mm*'}]|
 ||||

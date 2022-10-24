@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TMR2-4813WI|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-TMR2-4813WI|
 |Hex ID (short code)|hexID|SZKCONTMR24813WI|
-|Name|name|TMR2-4813WI|
+|name|name|TMR2-4813WI|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TMR2-2410WI', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TMR2-4813WI', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_TRACO_TMR-2xxxxWI_THT', 'kicadSymbolDatasheet': 'https://www.tracopower.com/products/tmr2wi.pdf', 'kicadSymbolki_keywords': 'Traco isolated isolation dc-dc converter transformer', 'kicadSymbolki_description': '135mA Regulated 2W DC/DC converter with 1.5kV isolation, 18V-75V input, 15V fixed Output Voltage, SIP-9', 'kicadSymbolki_fp_filters': 'Converter*DCDC*TRACO*TMR*2xxxxWI*'}]|
 ||||

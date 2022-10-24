@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SGTL5000XNAA3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-SGTL5000XNAA3|
 |Hex ID (short code)|hexID|SZKAUDIOSGTL5XNAA3|
-|Name|name|SGTL5000XNAA3|
+|name|name|SGTL5000XNAA3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SGTL5000XNAA3', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/SGTL5000.pdf', 'kicadSymbolki_keywords': 'Codec', 'kicadSymbolki_description': 'Low Power Stereo Codec with Headphone Amp, QFN-32', 'kicadSymbolki_fp_filters': 'QFN*1EP*5x5mm*P0.5mm*'}]|
 ||||

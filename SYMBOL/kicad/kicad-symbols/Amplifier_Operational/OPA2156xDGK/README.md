@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA2156xDGK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2156xDGK|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA2156XDGK|
-|Name|name|OPA2156xDGK|
+|name|name|OPA2156xDGK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'OPA2197xDGK', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA2156xDGK', 'kicadSymbolFootprint': 'Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/opa2156.pdf', 'kicadSymbolki_keywords': 'dual opamp low-noise r2r', 'kicadSymbolki_description': 'Dual 36V, Ultra Low Noise, Rail-to-Rail Input/Output, Low Offset Voltage, Operational Amplifier, VSSOP-8', 'kicadSymbolki_fp_filters': 'VSSOP*3.0x3.0mm*P0.65mm*'}]|
 ||||

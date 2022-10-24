@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|68C681|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-68C681|
 |Hex ID (short code)|hexID|SZKINTERFACEUART68C681|
-|Name|name|68C681|
+|name|name|68C681|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '68C681', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.elektronik.ropla.eu/pdf/stock/exa/xr68c681.pdf', 'kicadSymbolki_keywords': 'UART serial', 'kicadSymbolki_description': 'CMOS Dual Channel UART'}]|
 ||||

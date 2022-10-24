@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|29W040|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_Flash-29W040|
 |Hex ID (short code)|hexID|SZKMEMORYFLASH29W4|
-|Name|name|29W040|
+|name|name|29W040|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '29W040', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'EEPROM FLASH 512KO', 'kicadSymbolki_description': 'Flash EEProm 512PP (TSOP 32) 3,3V'}]|
 ||||

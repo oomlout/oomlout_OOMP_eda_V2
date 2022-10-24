@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|KSZ9031RNXCA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Ethernet-KSZ9031RNXCA|
 |Hex ID (short code)|hexID|SZKINTERFACEETHERNETKSZ931RNXCA|
-|Name|name|KSZ9031RNXCA|
+|name|name|KSZ9031RNXCA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'KSZ9031RNXCA', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/00002117C.pdf', 'kicadSymbolki_keywords': 'ETHERNET PHY RGMII WOL IEEE 802.3 MICROCHIP', 'kicadSymbolki_description': '10/100/1000Mbps Ethernet Transceiver with RGMII Interface, QFN-48', 'kicadSymbolki_fp_filters': 'QFN*1EP*7x7mm*P0.5mm*'}]|
 ||||

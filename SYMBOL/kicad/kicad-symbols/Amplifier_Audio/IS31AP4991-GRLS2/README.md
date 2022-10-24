@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IS31AP4991-GRLS2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IS31AP4991-GRLS2|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOIS31AP4991GRLS2|
-|Name|name|IS31AP4991-GRLS2|
+|name|name|IS31AP4991-GRLS2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IS31AP4991-GRLS2', 'kicadSymbolFootprint': 'Package_SO:SOP-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.issi.com/WW/pdf/31AP4991.pdf', 'kicadSymbolki_keywords': 'ultra low consumption distortion', 'kicadSymbolki_description': '1.2W, 2.7-5.5V, Audio Power Amplifier, Active-Low Standby, SOP-8', 'kicadSymbolki_fp_filters': 'SOP*3.9x4.9mm*P1.27mm*'}]|
 ||||

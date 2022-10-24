@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS5430DDA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS5430DDA|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS543DDA|
-|Name|name|TPS5430DDA|
+|name|name|TPS5430DDA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS5430DDA', 'kicadSymbolFootprint': 'Package_SO:TI_SO-PowerPAD-8_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps5430.pdf', 'kicadSymbolki_keywords': 'Step-Down DC-DC Switching Regulator', 'kicadSymbolki_description': '3A, Step Down Swift Converter, Adjustable Output Voltage, 5.5-36V Input Voltage, PowerSO-8', 'kicadSymbolki_fp_filters': 'TI*SO*PowerPAD*ThermalVias*'}]|
 ||||

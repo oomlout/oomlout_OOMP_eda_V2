@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RV_Disc_D9mm_W6.1mm_P5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Varistor-RV_Disc_D9mm_W6.1mm_P5mm|
 |Hex ID (short code)|hexID|FZKVRVDISCD9W61P5|
-|Name|name|Varistor : RV_Disc_D9mm_W6.1mm_P5mm|
+|name|name|Varistor : RV_Disc_D9mm_W6.1mm_P5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RV_Disc_D9mm_W6.1mm_P5mm', 'description': 'Varistor, diameter 9mm, width 6.1mm, pitch 5mm', 'tags': 'varistor SIOV', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Varistor.3dshapes/RV_Disc_D9mm_W6.1mm_P5mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

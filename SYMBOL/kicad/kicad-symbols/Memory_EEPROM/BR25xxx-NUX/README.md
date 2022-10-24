@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BR25xxx-NUX|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_EEPROM-BR25xxx-NUX|
 |Hex ID (short code)|hexID|SZKMEMORYEEPROMBR25XXXNUX|
-|Name|name|BR25xxx-NUX|
+|name|name|BR25xxx-NUX|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '25LCxxx-MC', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BR25xxx-NUX', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.45mm', 'kicadSymbolDatasheet': 'http://www.rohm.com/web/global/products/-/product/BR25G128F-3', 'kicadSymbolki_keywords': 'EEPROM memory SPI serial', 'kicadSymbolki_description': 'ROHM Semiconductor SPI Serial EEPROM, DFN8', 'kicadSymbolki_fp_filters': 'DFN*3x2mm*P0.5mm*'}]|
 ||||

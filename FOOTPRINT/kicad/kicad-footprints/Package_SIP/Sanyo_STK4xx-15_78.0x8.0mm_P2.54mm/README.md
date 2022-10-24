@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SIP-Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm|
 |Hex ID (short code)|hexID|FZKSIPSANYOSTK4XX1578X8P254|
-|Name|name|Package_SIP : Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm|
+|name|name|Package_SIP : Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm', 'description': 'Sanyo SIP-15, 78.0mm x 8.0mm bosy size, STK-437E STK-439E STK-441E STK-443E (http://datasheet.octopart.com/STK430-Sanyo-datasheet-107060.pdf)', 'tags': 'Sanyo SIP-15', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SIP/Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SIP/Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP120-xxxxSN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP120-xxxxSN|
 |Hex ID (short code)|hexID|SZKPOWERSUPERVISORMCP12XXXXSN|
-|Name|name|MCP120-xxxxSN|
+|name|name|MCP120-xxxxSN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP120-xxxxSN', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/11184d.pdf', 'kicadSymbolki_keywords': 'supervisory circuit', 'kicadSymbolki_description': 'Microcontroller supervisory circuit, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

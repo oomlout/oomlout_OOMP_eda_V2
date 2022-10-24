@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F1503-IST|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1503-IST|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F153IST|
-|Name|name|PIC16F1503-IST|
+|name|name|PIC16F1503-IST|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC16F1503-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F1503-IST', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41607A.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller Low Power', 'kicadSymbolki_description': 'PIC16F1503, 2048W FLASH, 128B SRAM, TSSOP-14', 'kicadSymbolki_fp_filters': 'DIP* PDIP* SO*'}]|
 ||||

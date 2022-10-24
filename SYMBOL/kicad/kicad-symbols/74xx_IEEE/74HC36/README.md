@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74HC36|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx_IEEE-74HC36|
 |Hex ID (short code)|hexID|SZK74XXIEEE74HC36|
-|Name|name|74HC36|
+|name|name|74HC36|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74HC36', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

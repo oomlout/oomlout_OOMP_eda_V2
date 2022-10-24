@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|2SD1047|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SD1047|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJT2SD147|
-|Name|name|2SD1047|
+|name|name|2SD1047|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': '2SD1047', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-3PB-3_Vertical', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/2sd1047.pdf', 'kicadSymbolki_keywords': 'Power NPN Transistor', 'kicadSymbolki_description': '12A Ic, 140V Vce, Silicon Power NPN Transistors, TO-3PB', 'kicadSymbolki_fp_filters': 'TO?3PB*'}]|
 ||||

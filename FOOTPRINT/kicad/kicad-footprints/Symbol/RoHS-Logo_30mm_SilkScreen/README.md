@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RoHS-Logo_30mm_SilkScreen|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-RoHS-Logo_30mm_SilkScreen|
 |Hex ID (short code)|hexID|FZKSZROHSL3SILKSCREEN|
-|Name|name|Symbol : RoHS-Logo_30mm_SilkScreen|
+|name|name|Symbol : RoHS-Logo_30mm_SilkScreen|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RoHS-Logo_30mm_SilkScreen', 'description': 'Restriction of Hazardous Substances Directive Logo', 'tags': 'Logo RoHS', 'attributeType': None, 'pins': {}}|
 ||||

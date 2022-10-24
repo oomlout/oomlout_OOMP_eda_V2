@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BQ24166RGE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24166RGE|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTBQ24166RGE|
-|Name|name|BQ24166RGE|
+|name|name|BQ24166RGE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BQ24166RGE', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_RGE0024H_EP2.7x2.7mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/bq24166.pdf', 'kicadSymbolki_keywords': 'Battery, Charger, Li-Ion, Li-Poly', 'kicadSymbolki_description': 'High efficiency switched mode Li-Ion and Li-Polymer battery charger, integrated MOSFETs, power path selector and standard temperature sensing, Texas R-RGE0024H', 'kicadSymbolki_fp_filters': 'Texas*RGE0024H*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADG419BN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG419BN|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHADG419BN|
-|Name|name|ADG419BN|
+|name|name|ADG419BN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DG419xJ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADG419BN', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADG419.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Single SPDT Monolithic LC²MOS Analog Switch, 25Ohm Ron, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SPL_PL90|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Laser-SPL_PL90|
 |Hex ID (short code)|hexID|SZKDIODELASERSPLPL9|
-|Name|name|SPL_PL90|
+|name|name|SPL_PL90|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'LD', 'kicadSymbolValue': 'SPL_PL90', 'kicadSymbolFootprint': 'LED_THT:LED_D5.0mm', 'kicadSymbolDatasheet': 'http://www.osram-os.com/Graphics/XPic0/00194565_0.pdf/SPL%20PL90.pdf', 'kicadSymbolki_keywords': 'opto laserdiode', 'kicadSymbolki_description': 'Pulsed Laser Diode in Plastic Package 25W Peak Power', 'kicadSymbolki_fp_filters': 'LED*5.0mm*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TSOP-I-56_14.4x14mm_P0.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-I-56_14.4x14mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKSOTSI56144X14P5|
-|Name|name|Package_SO : TSOP-I-56_14.4x14mm_P0.5mm|
+|name|name|Package_SO : TSOP-I-56_14.4x14mm_P0.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TSOP-I-56_14.4x14mm_P0.5mm', 'description': 'TSOP-I, 56 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d variation EA), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'TSOP-I SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSOP-I-56_14.4x14mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-I-56_14.4x14mm_P0.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-I-56_14.4x14mm_P0.5mm/kicadPcb3d_450.png

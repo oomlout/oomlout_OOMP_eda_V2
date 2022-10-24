@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BQ51051BRHL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-BQ51051BRHL|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTBQ5151BRHL|
-|Name|name|BQ51051BRHL|
+|name|name|BQ51051BRHL|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BQ51050BRHL', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BQ51051BRHL', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_VQFN-RHL-20', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/bq51051b.pdf', 'kicadSymbolki_keywords': 'Qi Wireless Power Receiver Battery Charger 4.35V', 'kicadSymbolki_description': 'Qi v1.2, Wireless Power Receiver and Battery Charger, Vout 4.35V, VQFN-20', 'kicadSymbolki_fp_filters': 'Texas?VQFN?RHL*'}]|
 ||||

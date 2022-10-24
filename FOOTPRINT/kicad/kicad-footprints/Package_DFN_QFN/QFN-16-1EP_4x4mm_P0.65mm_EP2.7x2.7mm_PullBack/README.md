@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|QFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm_PullBack|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm_PullBack|
 |Hex ID (short code)|hexID|FZKDFNQFN161EP4X4P65EP27X27PULLBACK|
-|Name|name|Package_DFN_QFN : QFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm_PullBack|
+|name|name|Package_DFN_QFN : QFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm_PullBack|
 |Footprint Kicad|footprintKicadDetails|{'name': 'QFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm_PullBack', 'description': 'QFN, 16 Pin (https://ams.com/documents/20143/36005/AS5055A_DS000304_2-00.pdf#page=24), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm_PullBack.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm_PullBack/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm_PullBack/kicadPcb3d_450.png

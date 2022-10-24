@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BC856|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC856|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBC856|
-|Name|name|BC856|
+|name|name|BC856|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BC807', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC856', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/BC860-D.pdf', 'kicadSymbolki_keywords': 'PNP transistor', 'kicadSymbolki_description': '0.1A Ic, 65V Vce, PNP Transistor, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

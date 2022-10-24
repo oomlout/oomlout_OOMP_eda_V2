@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BC818W|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC818W|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBC818W|
-|Name|name|BC818W|
+|name|name|BC818W|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BC817W', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC818W', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-323_SC-70', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/BC818-D.pdf', 'kicadSymbolki_keywords': 'NPN Transistor', 'kicadSymbolki_description': '0.8A Ic, 25V Vce, NPN Transistor, SOT-323', 'kicadSymbolki_fp_filters': 'SOT?323*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Central_Semi_CMKD4448|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-Central_Semi_CMKD4448|
 |Hex ID (short code)|hexID|SZKDIODECENTRALSEMICMKD4448|
-|Name|name|Central_Semi_CMKD4448|
+|name|name|Central_Semi_CMKD4448|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BAS16TW', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'Central_Semi_CMKD4448', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'http://www.centralsemi.com/PDFs/products/CMKD4448.PDF', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'High speed switching diode array 3 independent', 'kicadSymbolki_fp_filters': '*SOT?363*'}]|
 ||||

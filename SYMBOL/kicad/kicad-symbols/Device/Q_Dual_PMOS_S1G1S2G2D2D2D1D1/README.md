@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Q_Dual_PMOS_S1G1S2G2D2D2D1D1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Q_Dual_PMOS_S1G1S2G2D2D2D1D1|
 |Hex ID (short code)|hexID|SZKDEVICEQDUALPMOSS1G1S2G2D2D2D1D1|
-|Name|name|Q_Dual_PMOS_S1G1S2G2D2D2D1D1|
+|name|name|Q_Dual_PMOS_S1G1S2G2D2D2D1D1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Q_Dual_PMOS_S1G1S2G2D2D2D1D1', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'transistor PMOS P-MOS P-MOSFET', 'kicadSymbolki_description': 'Dual PMOS transistor, 8 pin package', 'kicadSymbolki_fp_filters': 'SO*'}]|
 ||||

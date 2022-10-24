@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED-APA102-2020|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED-APA102-2020|
 |Hex ID (short code)|hexID|FZKLSMLAPA1222|
-|Name|name|LED_SMD : LED-APA102-2020|
+|name|name|LED_SMD : LED-APA102-2020|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED-APA102-2020', 'description': 'http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf', 'tags': 'LED RGB SPI', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED-APA102-2020.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED-APA102-2020/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED-APA102-2020/kicadPcb3d_450.png

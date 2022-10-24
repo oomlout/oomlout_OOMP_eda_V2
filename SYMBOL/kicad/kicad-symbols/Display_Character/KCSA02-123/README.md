@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|KCSA02-123|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-KCSA02-123|
 |Hex ID (short code)|hexID|SZKDICHARACTERKCSA2123|
-|Name|name|KCSA02-123|
+|name|name|KCSA02-123|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'KCSA02-123', 'kicadSymbolFootprint': 'Display_7Segment:KCSC02-123', 'kicadSymbolDatasheet': 'http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSA02-123(Ver.9A).pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'One digit 7 segment green LED, common anode', 'kicadSymbolki_fp_filters': 'KCSC02?123*'}]|
 ||||

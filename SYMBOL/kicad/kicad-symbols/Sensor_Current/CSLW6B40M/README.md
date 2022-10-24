@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CSLW6B40M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-CSLW6B40M|
 |Hex ID (short code)|hexID|SZKSENCURRENTCSLW6B4M|
-|Name|name|CSLW6B40M|
+|name|name|CSLW6B40M|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CSLW6B1', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CSLW6B40M', 'kicadSymbolFootprint': 'Sensor_Current:Honeywell_CSLW', 'kicadSymbolDatasheet': 'https://sensing.honeywell.com/honeywell-sensing-cslw-series-product-sheet-005861-1-en.pdf', 'kicadSymbolki_keywords': 'hall current sensor', 'kicadSymbolki_description': 'Miniature Wired Open-Loop Current Sensors, 40mA', 'kicadSymbolki_fp_filters': 'Honeywell*CSLW*'}]|
 ||||

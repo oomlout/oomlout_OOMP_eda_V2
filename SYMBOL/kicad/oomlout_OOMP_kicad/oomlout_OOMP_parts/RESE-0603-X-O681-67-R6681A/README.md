@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O681-67-R6681A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O681-67-R6681A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO68167R6681A|
-|Name|name|RESE-0603-X-O681-67-R6681A|
+|name|name|RESE-0603-X-O681-67-R6681A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O681-67-R6681A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O681-67-R6681A', 'kicadSymbolDatasheet': 'oom.lt/R6681A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6681A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

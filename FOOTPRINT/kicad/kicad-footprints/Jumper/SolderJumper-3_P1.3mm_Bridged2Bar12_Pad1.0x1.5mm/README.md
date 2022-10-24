@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SolderJumper-3_P1.3mm_Bridged2Bar12_Pad1.0x1.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Jumper-SolderJumper-3_P1.3mm_Bridged2Bar12_Pad1.0x1.5mm|
 |Hex ID (short code)|hexID|FZKJSOLDERJ3P13BRIDGED2BAR12PAD1X15|
-|Name|name|Jumper : SolderJumper-3_P1.3mm_Bridged2Bar12_Pad1.0x1.5mm|
+|name|name|Jumper : SolderJumper-3_P1.3mm_Bridged2Bar12_Pad1.0x1.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SolderJumper-3_P1.3mm_Bridged2Bar12_Pad1.0x1.5mm', 'description': 'SMD Solder 3-pad Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip', 'tags': 'net tie solder jumper bridged', 'attributeType': None, 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Bridged2Bar12_Pad1.0x1.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Bridged2Bar12_Pad1.0x1.5mm/kicadPcb3d_450.png

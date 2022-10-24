@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPD3E001DRLR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-TPD3E001DRLR|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONTPD3E1DRLR|
-|Name|name|TPD3E001DRLR|
+|name|name|TPD3E001DRLR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPD3E001DRLR', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-553', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tpd3e001.pdf', 'kicadSymbolki_keywords': 'ESD-Protection', 'kicadSymbolki_description': 'TPD3E001 Low-Capacitance 3-Channel ESD-Protection for High-Speed Data Interfaces', 'kicadSymbolki_fp_filters': 'SOT?553*'}]|
 ||||

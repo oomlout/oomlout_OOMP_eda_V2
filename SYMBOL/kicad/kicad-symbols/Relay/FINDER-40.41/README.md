@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FINDER-40.41|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-FINDER-40.41|
 |Hex ID (short code)|hexID|SZKRELAYFINDER441|
-|Name|name|FINDER-40.41|
+|name|name|FINDER-40.41|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'FINDER-40.41', 'kicadSymbolFootprint': 'Relay_THT:Relay_SPDT_Finder_40.41', 'kicadSymbolDatasheet': 'https://www.finder-relais.net/de/finder-relais-serie-40.pdf', 'kicadSymbolki_keywords': 'Single Pole Relay SPDT Finder', 'kicadSymbolki_description': 'PCB SPDT relay, 10A', 'kicadSymbolki_fp_filters': 'Relay*SPDT*Finder*40.41*'}]|
 ||||

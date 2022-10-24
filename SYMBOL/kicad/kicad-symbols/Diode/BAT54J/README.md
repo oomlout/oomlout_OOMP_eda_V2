@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAT54J|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAT54J|
 |Hex ID (short code)|hexID|SZKDIODEBAT54J|
-|Name|name|BAT54J|
+|name|name|BAT54J|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAT54J', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-323F', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BAT54J.pdf', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '30V 200mA Schottky diode, SOD-323F', 'kicadSymbolki_fp_filters': 'D*SOD?323F*'}]|
 ||||

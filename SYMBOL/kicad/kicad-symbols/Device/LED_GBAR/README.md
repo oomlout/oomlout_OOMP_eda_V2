@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_GBAR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_GBAR|
 |Hex ID (short code)|hexID|SZKDEVICELGBAR|
-|Name|name|LED_GBAR|
+|name|name|LED_GBAR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_GBAR', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED RGB diode', 'kicadSymbolki_description': 'RGB LED, green/blue/anode/red', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0805-X-PF70-V50-C8P70-C1743|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF70-V50-C8P70-C1743|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XPF7V5C8P7C1743|
-|Name|name|oomlout_OOMP_JLCC_Basic : CAPC-0805-X-PF70-V50-C8P70-C1743|
+|name|name|oomlout_OOMP_JLCC_Basic : CAPC-0805-X-PF70-V50-C8P70-C1743|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CAPC-0805-X-PF70-V50-C8P70-C1743', 'description': 'hexID: C8P70;PARTL C-JLCC;C1743;MANUF C-XXXX;0805B471K500NT; Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator', 'tags': 'capacitor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Bridge_+A-A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Bridge_+A-A|
 |Hex ID (short code)|hexID|SZKDEVICEDBRIDGE+AA|
-|Name|name|D_Bridge_+A-A|
+|name|name|D_Bridge_+A-A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Bridge_+A-A', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'rectifier ACDC', 'kicadSymbolki_description': 'Diode bridge, +ve/AC/-ve/AC', 'kicadSymbolki_fp_filters': 'D*Bridge* D*Rectifier*'}]|
 ||||

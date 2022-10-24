@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Axial_L17.5mm_D12.0mm_P20.32mm_Horizontal_Vishay_IM-10-46|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L17.5mm_D12.0mm_P20.32mm_Horizontal_Vishay_IM-10-46|
 |Hex ID (short code)|hexID|FZKINLAXIALL175D12P232HORIZONTALVISHAYIM146|
-|Name|name|Inductor_THT : L_Axial_L17.5mm_D12.0mm_P20.32mm_Horizontal_Vishay_IM-10-46|
+|name|name|Inductor_THT : L_Axial_L17.5mm_D12.0mm_P20.32mm_Horizontal_Vishay_IM-10-46|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Axial_L17.5mm_D12.0mm_P20.32mm_Horizontal_Vishay_IM-10-46', 'description': 'Inductor, Axial series, Axial, Horizontal, pin pitch=20.32mm, , length*diameter=17.5*12mm^2, Vishay, IM-10-46, http://www.vishay.com/docs/34030/im10.pdf', 'tags': 'Inductor Axial series Axial Horizontal pin pitch 20.32mm  length 17.5mm diameter 12mm Vishay IM-10-46', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L17.5mm_D12.0mm_P20.32mm_Horizontal_Vishay_IM-10-46.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L17.5mm_D12.0mm_P20.32mm_Horizontal_Vishay_IM-10-46/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L17.5mm_D12.0mm_P20.32mm_Horizontal_Vishay_IM-10-46/kicadPcb3d_450.png

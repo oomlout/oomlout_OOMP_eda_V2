@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CDCLVP1102RGT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-CDCLVP1102RGT|
 |Hex ID (short code)|hexID|SZKINTERFACECDCLVP112RGT|
-|Name|name|CDCLVP1102RGT|
+|name|name|CDCLVP1102RGT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CDCLVP1102RGT', 'kicadSymbolFootprint': 'Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/cdclvp1102.pdf', 'kicadSymbolki_keywords': 'Clock Buffer LVDS', 'kicadSymbolki_description': 'Two-LVPECL Output, High-Performance Clock Buffer, VQFN-16', 'kicadSymbolki_fp_filters': 'VQFN*1EP*3x3mm*P0.5mm*'}]|
 ||||

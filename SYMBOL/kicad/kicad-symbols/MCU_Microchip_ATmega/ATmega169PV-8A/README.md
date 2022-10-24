@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega169PV-8A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega169PV-8A|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA169PV8A|
-|Name|name|ATmega169PV-8A|
+|name|name|ATmega169PV-8A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega169PV-8A', 'kicadSymbolFootprint': 'Package_QFP:TQFP-64_14x14mm_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc8018.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR LCD PicoPower', 'kicadSymbolki_description': '8MHz, 16kB Flash, 1kB SRAM, 512B EEPROM, TQFP-64', 'kicadSymbolki_fp_filters': 'TQFP*14x14mm*P0.8mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PAL16L8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Logic_Programmable-PAL16L8|
 |Hex ID (short code)|hexID|SZKLOGICPROGRAABLEPAL16L8|
-|Name|name|PAL16L8|
+|name|name|PAL16L8|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PAL16L8', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'PAL PLD 16L8', 'kicadSymbolki_description': 'Programmable Logic Array, DIP-20', 'kicadSymbolki_fp_filters': 'DIP* PDIP*'}]|
 ||||

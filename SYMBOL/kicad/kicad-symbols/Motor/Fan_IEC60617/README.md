@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Fan_IEC60617|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Motor-Fan_IEC60617|
 |Hex ID (short code)|hexID|SZKMOTORFANIEC6617|
-|Name|name|Fan_IEC60617|
+|name|name|Fan_IEC60617|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'M', 'kicadSymbolValue': 'Fan_IEC60617', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'Fan Motor IEC-60617', 'kicadSymbolki_description': 'Fan (according to IEC-60617)', 'kicadSymbolki_fp_filters': 'PinHeader*P2.54mm* TerminalBlock*'}]|
 ||||

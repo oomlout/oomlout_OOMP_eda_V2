@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_RBGK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_RBGK|
 |Hex ID (short code)|hexID|SZKDEVICELRBGK|
-|Name|name|LED_RBGK|
+|name|name|LED_RBGK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_RBGK', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED RGB diode', 'kicadSymbolki_description': 'RGB LED, red/blue/green/cathode', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

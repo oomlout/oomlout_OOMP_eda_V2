@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-1206-X-UF47D-V50-C12U47D|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF47D-V50-C12U47D|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XUF47DV5C12U47D|
-|Name|name|oomlout_OOMP_parts : CAPC-1206-X-UF47D-V50-C12U47D|
+|name|name|oomlout_OOMP_parts : CAPC-1206-X-UF47D-V50-C12U47D|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CAPC-1206-X-UF47D-V50-C12U47D', 'description': 'hexID: C12U47D;PARTL C-JLCC;C29823;MANUF C-XXXX;1206B475K500NT; Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator', 'tags': 'capacitor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||

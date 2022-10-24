@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CQ-330F|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-330F|
 |Hex ID (short code)|hexID|SZKSENCURRENTCQ33F|
-|Name|name|CQ-330F|
+|name|name|CQ-330F|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CQ-3200', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CQ-330F', 'kicadSymbolFootprint': 'Sensor_Current:AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.akm.com/akm/en/file/datasheet/CQ-330F.pdf', 'kicadSymbolki_keywords': 'hall effect current sensor', 'kicadSymbolki_description': 'High-Speed Response Coreless Current Sensor, Unidirectional, -2.0A to +42.0A, 80mV/A, VSOP-24', 'kicadSymbolki_fp_filters': 'AKM*CQ*VSOP*5.6x7.9mm*P0.65mm*'}]|
 ||||

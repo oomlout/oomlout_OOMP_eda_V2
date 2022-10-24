@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Microphone|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Microphone|
 |Hex ID (short code)|hexID|SZKDEVICEMPHONE|
-|Name|name|Microphone|
+|name|name|Microphone|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'MK', 'kicadSymbolValue': 'Microphone', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'microphone', 'kicadSymbolki_description': 'Microphone'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SparkGap|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-SparkGap|
 |Hex ID (short code)|hexID|SZKDEVICESPARKGAP|
-|Name|name|SparkGap|
+|name|name|SparkGap|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'E', 'kicadSymbolValue': 'SparkGap', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'spark gap ESD electrostatic suppression', 'kicadSymbolki_description': 'Spark gap', 'kicadSymbolki_fp_filters': 'SG*'}]|
 ||||

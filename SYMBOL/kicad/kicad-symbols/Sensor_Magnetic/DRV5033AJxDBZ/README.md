@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DRV5033AJxDBZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-DRV5033AJxDBZ|
 |Hex ID (short code)|hexID|SZKSENMAGNETICDRV533AJXDBZ|
-|Name|name|DRV5033AJxDBZ|
+|name|name|DRV5033AJxDBZ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DRV5055A1xDBZxQ1', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DRV5033AJxDBZ', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/drv5033.pdf', 'kicadSymbolki_keywords': 'Digital Omnipolar Switch Hall Effect Sensor', 'kicadSymbolki_description': '±6.9 / ±3.5 mT, 20-kHz, 2-38V, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O510-01-R8O510|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O510-01-R8O510|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO511R8O51|
-|Name|name|RESE-0805-X-O510-01-R8O510|
+|name|name|RESE-0805-X-O510-01-R8O510|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O510-01-R8O510', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O510-01-R8O510', 'kicadSymbolDatasheet': 'oom.lt/R8O510', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R8O510;PARTL C-JLCC;C17738;MANUF C-XXXX;0805W8F510JT5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

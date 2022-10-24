@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O474-67-R42474A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O474-67-R42474A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO47467R42474A|
-|Name|name|RESE-0402-X-O474-67-R42474A|
+|name|name|RESE-0402-X-O474-67-R42474A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O474-67-R42474A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O474-67-R42474A', 'kicadSymbolDatasheet': 'oom.lt/R42474A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R42474A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

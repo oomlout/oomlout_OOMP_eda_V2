@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC4003-VQ100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC4003-VQ100|
 |Hex ID (short code)|hexID|SZKFPGAXILINXXC43VQ1|
-|Name|name|XC4003-VQ100|
+|name|name|XC4003-VQ100|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC4003-VQ100', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'xilinx/xc400x-pinout.pdf'}]|
 ||||

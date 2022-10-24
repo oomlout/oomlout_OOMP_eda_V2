@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Crystal_SMD_HC49-SD_HandSoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_HC49-SD_HandSoldering|
 |Hex ID (short code)|hexID|FZKXXSMHC49SDHANDSOLDERING|
-|Name|name|Crystal : Crystal_SMD_HC49-SD_HandSoldering|
+|name|name|Crystal : Crystal_SMD_HC49-SD_HandSoldering|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_HC49-SD_HandSoldering', 'description': 'SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, hand-soldering, 11.4x4.7mm^2 package', 'tags': 'SMD SMT crystal hand-soldering', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_HC49-SD.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_HC49-SD_HandSoldering/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_HC49-SD_HandSoldering/kicadPcb3d_450.png

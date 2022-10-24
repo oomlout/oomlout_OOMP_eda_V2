@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_Wuerth_750315371|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Wuerth_750315371|
 |Hex ID (short code)|hexID|FZKTRSMTRWUERTH75315371|
-|Name|name|Transformer_SMD : Transformer_Wuerth_750315371|
+|name|name|Transformer_SMD : Transformer_Wuerth_750315371|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_Wuerth_750315371', 'description': 'Power Transformer, horizontal core with bobbin, 6 pin, 2.54mm pitch, 11.24mm row spacing, 12.6x8.3x4.1mm', 'tags': 'transformer flyback', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_Wuerth_750315371.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

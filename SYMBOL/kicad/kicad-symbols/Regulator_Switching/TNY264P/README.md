@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TNY264P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY264P|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTNY264P|
-|Name|name|TNY264P|
+|name|name|TNY264P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TNY263P', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TNY264P', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_PDIP-8B', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/tny263_268.pdf', 'kicadSymbolki_keywords': 'Enhanced, Energy Efficient, Low Power Off-line Switcher', 'kicadSymbolki_description': 'TinySwitch-II Family, 6W Output Power, DIP-8B', 'kicadSymbolki_fp_filters': 'PowerIntegrations?PDIP?8B*'}]|
 ||||

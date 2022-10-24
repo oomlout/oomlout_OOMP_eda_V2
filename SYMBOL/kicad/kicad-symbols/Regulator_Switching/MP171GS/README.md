@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MP171GS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-MP171GS|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGMP171GS|
-|Name|name|MP171GS|
+|name|name|MP171GS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MP171GS', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.monolithicpower.com/pub/media/document/m/p/mp171_r1.01.pdf', 'kicadSymbolki_keywords': 'regulator switching adjustable', 'kicadSymbolki_description': '60mA Non-Isolated Off-Line Regulator, 700V Input Voltage, Adjustable Output Voltage, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

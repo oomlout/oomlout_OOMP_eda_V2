@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ILQ74|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-ILQ74|
 |Hex ID (short code)|hexID|SZKISOLATORILQ74|
-|Name|name|ILQ74|
+|name|name|ILQ74|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ILQ74', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/83640/ild74.pdf', 'kicadSymbolki_keywords': 'NPN DC Dual Optocoupler', 'kicadSymbolki_description': 'Quad Optocoupler, NPN Phototransistor Output, TTL compatible, DIP16/SMD16', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* DIP*W10.16mm* SMDIP*W9.53mm*Clearance8mm*'}]|
 ||||

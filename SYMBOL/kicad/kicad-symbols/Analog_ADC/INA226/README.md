@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|INA226|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-INA226|
 |Hex ID (short code)|hexID|SZKANALOGADCINA226|
-|Name|name|INA226|
+|name|name|INA226|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'INA226', 'kicadSymbolFootprint': 'Package_SO:VSSOP-10_3x3mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ina226.pdf', 'kicadSymbolki_keywords': 'ADC I2C 16-Bit Oversampling Current Shunt', 'kicadSymbolki_description': 'High-Side or Low-Side Measurement, Bi-Directional Current and Power Monitor (0-36V) with I2C Compatible Interface, VSSOP-10', 'kicadSymbolki_fp_filters': 'VSSOP*3x3mm*P0.5mm*'}]|
 ||||

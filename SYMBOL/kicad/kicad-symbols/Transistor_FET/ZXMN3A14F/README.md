@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ZXMN3A14F|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMN3A14F|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETZXMN3A14F|
-|Name|name|ZXMN3A14F|
+|name|name|ZXMN3A14F|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSS138', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'ZXMN3A14F', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.diodes.com/assets/Datasheets/ZXMN3A14F.pdf', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '3.2A Id, 30V Vds, N-Channel MOSFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

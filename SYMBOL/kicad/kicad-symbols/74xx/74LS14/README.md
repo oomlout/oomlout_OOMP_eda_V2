@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS14|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS14|
 |Hex ID (short code)|hexID|SZK74XX74LS14|
-|Name|name|74LS14|
+|name|name|74LS14|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74HC14', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS14', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS14', 'kicadSymbolki_keywords': 'TTL not inverter', 'kicadSymbolki_description': 'Hex inverter schmitt trigger', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

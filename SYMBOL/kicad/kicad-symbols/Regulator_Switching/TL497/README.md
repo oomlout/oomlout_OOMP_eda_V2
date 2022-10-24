@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TL497|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TL497|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTL497|
-|Name|name|TL497|
+|name|name|TL497|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TL497', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tl497a.pdf', 'kicadSymbolki_keywords': 'buck regulator', 'kicadSymbolki_description': '500mA step up/step down/inverting switching voltage regulator, SIP-14/SOIC-14(W)', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*7.5x9.0mm*P1.27mm* SOIC*3.9x8.7mm*P1.27mm*'}]|
 ||||

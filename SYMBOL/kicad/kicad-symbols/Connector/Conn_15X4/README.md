@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Conn_15X4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Conn_15X4|
 |Hex ID (short code)|hexID|SZKCNCONN15X4|
-|Name|name|Conn_15X4|
+|name|name|Conn_15X4|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Conn_15X4', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'Connector Europe, 60 contacts, ranges A,B,C,D'}]|
 ||||

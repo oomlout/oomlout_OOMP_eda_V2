@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|OnSemi_CASE100CY|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-OnSemi_CASE100CY|
 |Hex ID (short code)|hexID|FZKOPONSEMICASE1CY|
-|Name|name|OptoDevice : OnSemi_CASE100CY|
+|name|name|OptoDevice : OnSemi_CASE100CY|
 |Footprint Kicad|footprintKicadDetails|{'name': 'OnSemi_CASE100CY', 'description': 'OnSemi CASE 100CY, light-direction upwards, see http://www.onsemi.com/pub/Collateral/QRE1113-D.PDF', 'tags': 'refective opto couple photo coupler', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/OnSemi_CASE100CY.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/OnSemi_CASE100CY/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/OnSemi_CASE100CY/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LR8N8-G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LR8N8-G|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLR8N8G|
-|Name|name|LR8N8-G|
+|name|name|LR8N8-G|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LR8N8-G', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-89-3', 'kicadSymbolDatasheet': 'http://www.supertex.com/pdf/datasheets/LR8.pdf', 'kicadSymbolki_keywords': 'High-Voltage Regulator Adjustable Positive', 'kicadSymbolki_description': '30mA 450V High-Voltage Linear Regulator (Adjustable), SOT-89', 'kicadSymbolki_fp_filters': 'SOT*'}]|
 ||||

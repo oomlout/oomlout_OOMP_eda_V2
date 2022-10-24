@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0603-X-PF100-V50-C6P100|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF100-V50-C6P100|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XPF1V5C6P1|
-|Name|name|CAPC-0603-X-PF100-V50-C6P100|
+|name|name|CAPC-0603-X-PF100-V50-C6P100|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0603-X-PF100-V50-C6P100', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0603-X-PF100-V50-C6P100', 'kicadSymbolDatasheet': 'oom.lt/C6P100', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C6P100;PARTL C-JLCC;C14858;MANUF C-XXXX;CL10C101JB8NNNC;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

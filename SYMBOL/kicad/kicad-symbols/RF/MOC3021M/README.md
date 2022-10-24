@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|MOC3021M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF-MOC3021M|
 |Hex ID (short code)|hexID|SZKRFMOC321M|
-|Name|name|MOC3021M|
+|name|name|MOC3021M|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MOC3010M', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MOC3021M', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MOC3023M-D.PDF', 'kicadSymbolki_keywords': 'Opto-Triac Opto Triac Random Phase', 'kicadSymbolki_description': 'Random Phase Opto-Triac, Vdrm 400V, Ift 15mA, DIP6', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SMDIP*W9.53mm* DIP*W10.16mm*'}]|
 ||||

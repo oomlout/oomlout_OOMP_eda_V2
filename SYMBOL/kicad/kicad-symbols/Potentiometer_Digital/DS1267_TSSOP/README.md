@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DS1267_TSSOP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-DS1267_TSSOP|
 |Hex ID (short code)|hexID|SZKPOTENTIOMETERDIGITALDS1267TSS|
-|Name|name|DS1267_TSSOP|
+|name|name|DS1267_TSSOP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DS1267_TSSOP', 'kicadSymbolFootprint': 'Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/DS1267.pdf', 'kicadSymbolki_keywords': 'Dual Digital Potentiometer Maxim', 'kicadSymbolki_description': 'Dual Digital Potentiometer, Serial, 256 Steps, TSSOP-20', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x6.5mm*0.65mm*'}]|
 ||||

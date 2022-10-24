@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TSM102|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-TSM102|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTTSM12|
-|Name|name|TSM102|
+|name|name|TSM102|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TSM102', 'kicadSymbolFootprint': 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/tsm102.pdf', 'kicadSymbolki_keywords': 'dual opamp comparator reference', 'kicadSymbolki_description': 'Dual Operational Amplifier and Dual Comparator and 1% Voltage Reference, SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*3.9x9.9mm*P1.27mm*'}]|
 ||||

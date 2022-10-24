@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX1658ESA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX1658ESA|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMAX1658ESA|
-|Name|name|MAX1658ESA|
+|name|name|MAX1658ESA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX1658ESA', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/MAX1658-MAX1659.pdf', 'kicadSymbolki_keywords': 'Linear LDO Regulator 350mA 3.3V', 'kicadSymbolki_description': '350mA Linear LDO Regulator, Fixed Output 3.3V, SO-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

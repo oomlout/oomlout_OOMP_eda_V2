@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|KSZ9563RNX|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Ethernet-KSZ9563RNX|
 |Hex ID (short code)|hexID|SZKINTERFACEETHERNETKSZ9563RNX|
-|Name|name|KSZ9563RNX|
+|name|name|KSZ9563RNX|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'KSZ9563RNX', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-64-1EP_8x8mm_P0.4mm_EP6.5x6.5mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/KSZ9563R-Data-Sheet-DS00002419C.pdf', 'kicadSymbolki_keywords': 'Gigabit Ethernet Switch RGMII MII RMII ieee1588v2', 'kicadSymbolki_description': '3-Port Gigabit Ethernet Switch with RGMII/MII/RMII Interface and IEEE 1588v2, QFN-64', 'kicadSymbolki_fp_filters': 'QFN*1EP*8x8mm*P0.4mm*'}]|
 ||||

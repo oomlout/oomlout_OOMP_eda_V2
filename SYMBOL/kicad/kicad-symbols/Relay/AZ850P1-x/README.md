@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AZ850P1-x|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-AZ850P1-x|
 |Hex ID (short code)|hexID|SZKRELAYAZ85P1X|
-|Name|name|AZ850P1-x|
+|name|name|AZ850P1-x|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AZ850-x', 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'AZ850P1-x', 'kicadSymbolFootprint': 'Relay_THT:Relay_DPDT_FRT5', 'kicadSymbolDatasheet': 'http://www.azettler.com/pdfs/az850.pdf', 'kicadSymbolki_keywords': 'Miniature Polarised Relay Dual Pole Bistable', 'kicadSymbolki_description': 'American Zettler, Microminiature Polarised Dual Pole Relay Bistable', 'kicadSymbolki_fp_filters': 'Relay*DPDT*FRT5*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BTS50080-1TEA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-BTS50080-1TEA|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTBTS581TEA|
-|Name|name|BTS50080-1TEA|
+|name|name|BTS50080-1TEA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BTS50080-1TEA', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-4', 'kicadSymbolDatasheet': 'http://www.infineon.com/dgdl/Infineon-BTS50080-1TEA-DS-v01_00-EN.pdf?fileId=5546d4625a888733015aa435f2d2115b', 'kicadSymbolki_keywords': 'infineon power switch', 'kicadSymbolki_description': 'Smart High-Side Power Switch, PROFET, Single, 16mOhm, 10A, 30V, TO252-5', 'kicadSymbolki_fp_filters': 'TO*252*'}]|
 ||||

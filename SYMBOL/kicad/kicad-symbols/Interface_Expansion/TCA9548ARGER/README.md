@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TCA9548ARGER|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9548ARGER|
 |Hex ID (short code)|hexID|SZKINTERFACEEXPANSIONTCA9548ARGER|
-|Name|name|TCA9548ARGER|
+|name|name|TCA9548ARGER|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TCA9548AMRGER', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TCA9548ARGER', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_RGE0024C_EP2.1x2.1mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tca9548a.pdf', 'kicadSymbolki_keywords': 'Low voltage 8-channel I2C switch with reset', 'kicadSymbolki_description': 'Low voltage 8-channel I2C switch with reset, QFN-24', 'kicadSymbolki_fp_filters': 'Texas*RGE0024C*'}]|
 ||||

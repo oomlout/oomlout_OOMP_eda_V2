@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AKM_CQ_7S|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Current-AKM_CQ_7S|
 |Hex ID (short code)|hexID|FZKSENCURRENTAKMCQ7S|
-|Name|name|Sensor_Current : AKM_CQ_7S|
+|name|name|Sensor_Current : AKM_CQ_7S|
 |Footprint Kicad|footprintKicadDetails|{'name': 'AKM_CQ_7S', 'description': 'AKM Current Sensor, 7 pin, SMD (http://www.akm.com/akm/en/file/datasheet/CQ-236B.pdf)', 'tags': 'akm current sensor smd', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/AKM_CQ_7S.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

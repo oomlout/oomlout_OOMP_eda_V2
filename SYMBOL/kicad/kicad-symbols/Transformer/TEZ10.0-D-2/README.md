@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TEZ10.0-D-2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-TEZ10.0-D-2|
 |Hex ID (short code)|hexID|SZKTRTEZ1D2|
-|Name|name|TEZ10.0-D-2|
+|name|name|TEZ10.0-D-2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TR', 'kicadSymbolValue': 'TEZ10.0-D-2', 'kicadSymbolFootprint': 'Transformer_THT:Transformer_Breve_TEZ-44x52', 'kicadSymbolDatasheet': 'http://www.breve.pl/pdf/ANG/TEZ_ang.pdf', 'kicadSymbolki_keywords': '10VA PCB Transformer Dual Secondary', 'kicadSymbolki_description': 'TEZ10.0/D/x-x, 10VA, Dual Secondary, Cast Resin Transformer, PCB', 'kicadSymbolki_fp_filters': 'Transformer*Breve*TEZ*44x52*'}]|
 ||||

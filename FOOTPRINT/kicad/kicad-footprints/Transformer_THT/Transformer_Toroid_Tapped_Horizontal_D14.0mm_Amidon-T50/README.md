@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_Toroid_Tapped_Horizontal_D14.0mm_Amidon-T50|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Toroid_Tapped_Horizontal_D14.0mm_Amidon-T50|
 |Hex ID (short code)|hexID|FZKTRTRTOROIDTAPPEDHORIZONTALD14AMIDONT5|
-|Name|name|Transformer_THT : Transformer_Toroid_Tapped_Horizontal_D14.0mm_Amidon-T50|
+|name|name|Transformer_THT : Transformer_Toroid_Tapped_Horizontal_D14.0mm_Amidon-T50|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_Toroid_Tapped_Horizontal_D14.0mm_Amidon-T50', 'description': 'Transformer, Toroid, tapped, horizontal, laying, Diameter 14mm, Amidon T50,', 'tags': 'Transformer Toroid tapped horizontal laying Diameter 14mm Amidon T50 ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_Toroid_Tapped_Horizontal_D14.0mm_Amidon-T50.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

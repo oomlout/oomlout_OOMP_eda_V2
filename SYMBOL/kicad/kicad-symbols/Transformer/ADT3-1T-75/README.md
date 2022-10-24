@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADT3-1T-75|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-ADT3-1T-75|
 |Hex ID (short code)|hexID|SZKTRADT31T75|
-|Name|name|ADT3-1T-75|
+|name|name|ADT3-1T-75|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ADT2-1T', 'kicadSymbolReference': 'TR', 'kicadSymbolValue': 'ADT3-1T-75', 'kicadSymbolFootprint': 'RF_Mini-Circuits:Mini-Circuits_CD542_H2.84mm', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/ADT3-1T-75+.pdf', 'kicadSymbolki_keywords': 'Mini-Circuits RF Transformer', 'kicadSymbolki_description': '1-500MHz 1:3 RF Transformer, Unbalanced to Balanced Center Tap, CD542', 'kicadSymbolki_fp_filters': 'Mini?Circuits*CD542*'}]|
 ||||

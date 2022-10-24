@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IDT7201|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7201|
 |Hex ID (short code)|hexID|SZKMEMORYRAMIDT721|
-|Name|name|IDT7201|
+|name|name|IDT7201|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IDT7201', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

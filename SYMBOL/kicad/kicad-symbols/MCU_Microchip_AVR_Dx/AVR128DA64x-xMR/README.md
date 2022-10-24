@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AVR128DA64x-xMR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR128DA64x-xMR|
 |Hex ID (short code)|hexID|SZKMCUMCHIPAVRDXAVR128DA64XXMR|
-|Name|name|AVR128DA64x-xMR|
+|name|name|AVR128DA64x-xMR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AVR64DA64x-xMR', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AVR128DA64x-xMR', 'kicadSymbolFootprint': 'Package_DFN_QFN:VQFN-64-1EP_9x9mm_P0.5mm_EP7.15x7.15mm', 'kicadSymbolDatasheet': 'https://ww1.microchip.com/downloads/en/DeviceDoc/AVR128DA28-32-48-64-DataSheet-DS40002183B.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller AVR-DA', 'kicadSymbolki_description': '24MHz, 128kB Flash, 16kB SRAM, EEPROM with Touch Sensing, VQFN-64', 'kicadSymbolki_fp_filters': 'VQFN*1EP*9x9mm*P0.5mm*EP7.15x7.15mm*'}]|
 ||||

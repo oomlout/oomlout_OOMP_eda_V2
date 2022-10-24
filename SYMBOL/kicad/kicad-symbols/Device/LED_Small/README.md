@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_Small|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_Small|
 |Hex ID (short code)|hexID|SZKDEVICELSLL|
-|Name|name|LED_Small|
+|name|name|LED_Small|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_Small', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED diode light-emitting-diode', 'kicadSymbolki_description': 'Light emitting diode, small symbol', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

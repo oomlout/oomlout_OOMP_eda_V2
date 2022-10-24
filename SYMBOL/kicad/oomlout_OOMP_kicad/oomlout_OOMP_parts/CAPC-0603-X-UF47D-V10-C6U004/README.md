@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0603-X-UF47D-V10-C6U004|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF47D-V10-C6U004|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XUF47DV1C6U4|
-|Name|name|CAPC-0603-X-UF47D-V10-C6U004|
+|name|name|CAPC-0603-X-UF47D-V10-C6U004|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0603-X-UF47D-V10-C6U004', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0603-X-UF47D-V10-C6U004', 'kicadSymbolDatasheet': 'oom.lt/C6U004', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C6U004;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

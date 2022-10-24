@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PerkinElmer_VTL5Cx2|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-PerkinElmer_VTL5Cx2|
 |Hex ID (short code)|hexID|FZKOPPERKINELMERVTL5CX2|
-|Name|name|OptoDevice : PerkinElmer_VTL5Cx2|
+|name|name|OptoDevice : PerkinElmer_VTL5Cx2|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PerkinElmer_VTL5Cx2', 'description': 'Axial Vactrol (http://www.qsl.net/wa1ion/vactrol/vactrol.pdf)', 'tags': 'vactrol', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/PerkinElmer_VTL5Cx2.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/PerkinElmer_VTL5Cx2/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/PerkinElmer_VTL5Cx2/kicadPcb3d_450.png

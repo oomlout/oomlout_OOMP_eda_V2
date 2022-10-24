@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|BFCN-1860|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-1860|
 |Hex ID (short code)|hexID|SZKRFFILBFCN186|
-|Name|name|BFCN-1860|
+|name|name|BFCN-1860|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'FL', 'kicadSymbolValue': 'BFCN-1860', 'kicadSymbolFootprint': 'Filter:Filter_Mini-Circuits_FV1206-4', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/BFCN-1860+.pdf', 'kicadSymbolki_keywords': 'Mini-Circuits band pass filter', 'kicadSymbolki_description': '1580-2200MHz 50 Ohm Passive Band Pass Filter, FV1206-4', 'kicadSymbolki_fp_filters': 'Filter*Mini?Circuits*FV1206?4*'}]|
 ||||

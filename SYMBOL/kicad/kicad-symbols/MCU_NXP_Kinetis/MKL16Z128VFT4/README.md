@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MKL16Z128VFT4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL16Z128VFT4|
 |Hex ID (short code)|hexID|SZKMCUNXPKINETISMKL16Z128VFT4|
-|Name|name|MKL16Z128VFT4|
+|name|name|MKL16Z128VFT4|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MKL16Z128VFT4', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/docs/en/data-sheet/KL16P64M48SF5.pdf', 'kicadSymbolki_keywords': 'Kinetis KL16 ARM Cortex M0+', 'kicadSymbolki_description': 'Kinetis KL16 series, 48-MHz/32-bit ARM Cortex-M0+, 128 kB flash, 16 kB SRAM, I²S, TSI, QFN-48', 'kicadSymbolki_fp_filters': 'QFN*7x7mm*P0.5mm*'}]|
 ||||

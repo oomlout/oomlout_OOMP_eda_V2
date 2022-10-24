@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O104-67-R42104A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O104-67-R42104A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO1467R4214A|
-|Name|name|RESE-0402-X-O104-67-R42104A|
+|name|name|RESE-0402-X-O104-67-R42104A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O104-67-R42104A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O104-67-R42104A', 'kicadSymbolDatasheet': 'oom.lt/R42104A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R42104A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

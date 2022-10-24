@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC2C256-VQ100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2C256-VQ100|
 |Hex ID (short code)|hexID|SZKFPGAXILINXXC2C256VQ1|
-|Name|name|XC2C256-VQ100|
+|name|name|XC2C256-VQ100|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC2C256-VQ100', 'kicadSymbolFootprint': 'Package_QFP:VQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.xilinx.com/support/documentation/data_sheets/ds094.pdf', 'kicadSymbolki_keywords': 'CPLD', 'kicadSymbolki_description': 'CoolRunner-II CPLD, 256 macrocells, VQFP-100', 'kicadSymbolki_fp_filters': 'VQFP*14x14mm*P0.5mm*'}]|
 ||||

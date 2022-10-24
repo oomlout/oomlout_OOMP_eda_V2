@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX779L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX779L|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGMAX779L|
-|Name|name|MAX779L|
+|name|name|MAX779L|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX779L', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://kanga.gerbilator.org/ICs/MAX777.pdf', 'kicadSymbolki_keywords': 'switching regulator boost step-up dc-dc', 'kicadSymbolki_description': '210mA, Low voltage input, step-up DC-DC converter, adjustable output voltage, DIP-8/SO-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'}]|
 ||||

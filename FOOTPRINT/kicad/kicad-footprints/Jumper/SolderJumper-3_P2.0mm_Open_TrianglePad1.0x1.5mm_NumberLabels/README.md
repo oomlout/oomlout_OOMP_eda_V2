@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Jumper-SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels|
 |Hex ID (short code)|hexID|FZKJSOLDERJ3P2OPENTRIANGLEPAD1X15NUMBERLABELS|
-|Name|name|Jumper : SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels|
+|name|name|Jumper : SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels', 'description': 'SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open, labeled with numbers', 'tags': 'solder jumper open', 'attributeType': None, 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|UQFN-16-1EP_4x4mm_P0.65mm_EP2.6x2.6mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-UQFN-16-1EP_4x4mm_P0.65mm_EP2.6x2.6mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNUQFN161EP4X4P65EP26X26THERMALVIAS|
-|Name|name|Package_DFN_QFN : UQFN-16-1EP_4x4mm_P0.65mm_EP2.6x2.6mm_ThermalVias|
+|name|name|Package_DFN_QFN : UQFN-16-1EP_4x4mm_P0.65mm_EP2.6x2.6mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'UQFN-16-1EP_4x4mm_P0.65mm_EP2.6x2.6mm_ThermalVias', 'description': 'UQFN, 16 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/16L_UQFN_4x4x0_5mm_JQ_C04257A.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'UQFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/UQFN-16-1EP_4x4mm_P0.65mm_EP2.6x2.6mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UQFN-16-1EP_4x4mm_P0.65mm_EP2.6x2.6mm_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UQFN-16-1EP_4x4mm_P0.65mm_EP2.6x2.6mm_ThermalVias/kicadPcb3d_450.png

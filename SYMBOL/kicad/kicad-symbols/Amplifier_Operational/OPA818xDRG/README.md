@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA818xDRG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA818xDRG|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA818XDRG|
-|Name|name|OPA818xDRG|
+|name|name|OPA818xDRG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA818xDRG', 'kicadSymbolFootprint': 'Package_SON:WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/opa818.pdf', 'kicadSymbolki_keywords': 'opamp VFA', 'kicadSymbolki_description': ' 2.7 GHz, High-Voltage, FET-Input, Low Noise, Operational Amplifier, WSON-8', 'kicadSymbolki_fp_filters': 'WSON*1EP*3x3mm*EP1.45x2.4mm*'}]|
 ||||

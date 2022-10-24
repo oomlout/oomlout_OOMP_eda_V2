@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SYM_Radioactive_Large|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Graphic-SYM_Radioactive_Large|
 |Hex ID (short code)|hexID|SZKGRAPHICSYMRADIOACTIVEL|
-|Name|name|SYM_Radioactive_Large|
+|name|name|SYM_Radioactive_Large|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#SYM', 'kicadSymbolValue': 'SYM_Radioactive_Large', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'symbol logo radioactive radiation warning heat', 'kicadSymbolki_description': 'Radioactive/radiation warning symbol, large'}]|
 ||||

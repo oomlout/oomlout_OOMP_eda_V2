@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|QFN-16-1EP_5x5mm_P0.8mm_EP2.7x2.7mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-16-1EP_5x5mm_P0.8mm_EP2.7x2.7mm|
 |Hex ID (short code)|hexID|FZKDFNQFN161EP5X5P8EP27X27|
-|Name|name|Package_DFN_QFN : QFN-16-1EP_5x5mm_P0.8mm_EP2.7x2.7mm|
+|name|name|Package_DFN_QFN : QFN-16-1EP_5x5mm_P0.8mm_EP2.7x2.7mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'QFN-16-1EP_5x5mm_P0.8mm_EP2.7x2.7mm', 'description': 'QFN, 16 Pin (http://www.intersil.com/content/dam/Intersil/documents/l16_/l16.5x5.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-16-1EP_5x5mm_P0.8mm_EP2.7x2.7mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-16-1EP_5x5mm_P0.8mm_EP2.7x2.7mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-16-1EP_5x5mm_P0.8mm_EP2.7x2.7mm/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_Ethernet_Halo_N5_SO-16_7.11x12.7mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Halo_N5_SO-16_7.11x12.7mm|
 |Hex ID (short code)|hexID|FZKTRSMTRETHERNETHALON5SO16711X127|
-|Name|name|Transformer_SMD : Transformer_Ethernet_Halo_N5_SO-16_7.11x12.7mm|
+|name|name|Transformer_SMD : Transformer_Ethernet_Halo_N5_SO-16_7.11x12.7mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_Ethernet_Halo_N5_SO-16_7.11x12.7mm', 'description': 'Halo N5 SO, 16 Pin (https://www.haloelectronics.com/pdf/discrete-ultra-100baset.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'Halo SO Transformer_SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_Ethernet_Halo_N5_SO-16_7.11x12.7mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||

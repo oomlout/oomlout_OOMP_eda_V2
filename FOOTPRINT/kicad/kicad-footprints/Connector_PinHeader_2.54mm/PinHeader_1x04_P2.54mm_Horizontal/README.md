@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PinHeader_1x04_P2.54mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x04_P2.54mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNPINHEADER254PINHEADER1X4P254HORIZONTAL|
-|Name|name|Connector_PinHeader_2.54mm : PinHeader_1x04_P2.54mm_Horizontal|
+|name|name|Connector_PinHeader_2.54mm : PinHeader_1x04_P2.54mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PinHeader_1x04_P2.54mm_Horizontal', 'description': 'Through hole angled pin header, 1x04, 2.54mm pitch, 6mm pin length, single row', 'tags': 'Through hole angled pin header THT 1x04 2.54mm single row', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x04_P2.54mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x04_P2.54mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x04_P2.54mm_Horizontal/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS76301|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS76301|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTPS7631|
-|Name|name|TPS76301|
+|name|name|TPS76301|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS76301', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps763.pdf', 'kicadSymbolki_keywords': 'linear low dropout Regulator adjustable', 'kicadSymbolki_description': 'Low power 150mA LDO variable output voltage, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

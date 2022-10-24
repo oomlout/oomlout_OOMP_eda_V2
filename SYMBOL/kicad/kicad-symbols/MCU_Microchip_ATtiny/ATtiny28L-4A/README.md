@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATtiny28L-4A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny28L-4A|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATTINYATTINY28L4A|
-|Name|name|ATtiny28L-4A|
+|name|name|ATtiny28L-4A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATtiny28V-1A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATtiny28L-4A', 'kicadSymbolFootprint': 'Package_QFP:TQFP-32_7x7mm_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc1062.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller tinyAVR IR', 'kicadSymbolki_description': '4MHz, 2kB Flash, No SRAM, No EEPROM, TQFP-32', 'kicadSymbolki_fp_filters': 'TQFP*7x7mm*P0.8mm*'}]|
 ||||

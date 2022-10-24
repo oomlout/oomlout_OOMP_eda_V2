@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Diodes_PowerDI3333-8|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-Diodes_PowerDI3333-8|
 |Hex ID (short code)|hexID|FZKSONDIODESPOWERDI33338|
-|Name|name|Package_SON : Diodes_PowerDI3333-8|
+|name|name|Package_SON : Diodes_PowerDI3333-8|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Diodes_PowerDI3333-8', 'description': 'Diodes Incorporated PowerDI3333-8, Plastic Dual Flat No Lead Package, 3.3x3.3x0.8mm Body, https://www.diodes.com/assets/Package-Files/PowerDI3333-8.pdf', 'tags': 'PowerDI 0.65', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Diodes_PowerDI3333-8.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/Diodes_PowerDI3333-8/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SON/Diodes_PowerDI3333-8/kicadPcb3d_450.png

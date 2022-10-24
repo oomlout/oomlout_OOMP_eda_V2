@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP3421A0T-ECH|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3421A0T-ECH|
 |Hex ID (short code)|hexID|SZKANALOGADCMCP3421ATECH|
-|Name|name|MCP3421A0T-ECH|
+|name|name|MCP3421A0T-ECH|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP3425A0T-ECH', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP3421A0T-ECH', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/22003e.pdf', 'kicadSymbolki_keywords': 'Sigma-Delta ADC Converter 18bit I2C 1ch', 'kicadSymbolki_description': 'Single Delta-Sigma 18bit Analog to Digital Converter, I2C Interface, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23* SOT?23*'}]|
 ||||

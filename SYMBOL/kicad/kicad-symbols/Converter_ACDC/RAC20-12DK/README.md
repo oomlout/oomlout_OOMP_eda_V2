@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RAC20-12DK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC20-12DK|
 |Hex ID (short code)|hexID|SZKCONRAC212DK|
-|Name|name|RAC20-12DK|
+|name|name|RAC20-12DK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'RAC20-12DK', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_Recom_RAC20-xxDK_THT', 'kicadSymbolDatasheet': 'https://recom-power.com/pdf/Powerline_AC-DC/RAC20-K.pdf', 'kicadSymbolki_keywords': 'ac dc power supply', 'kicadSymbolki_description': '20 Watt Dual Output AC/DC power supply ±12V ±833mA', 'kicadSymbolki_fp_filters': 'Converter*ACDC*Recom*RAC20*DK*THT*'}]|
 ||||

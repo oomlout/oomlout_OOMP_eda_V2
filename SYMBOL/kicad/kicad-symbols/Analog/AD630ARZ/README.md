@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD630ARZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog-AD630ARZ|
 |Hex ID (short code)|hexID|SZKANALOGAD63ARZ|
-|Name|name|AD630ARZ|
+|name|name|AD630ARZ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD630ARZ', 'kicadSymbolFootprint': 'Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ad630.pdf', 'kicadSymbolki_keywords': 'modulator demodulator', 'kicadSymbolki_description': 'High precision Balanced Modulator/Demodulator, 2 MHz, SOIC-20W', 'kicadSymbolki_fp_filters': 'SOIC*7.5x12.8mm*P1.27mm*'}]|
 ||||

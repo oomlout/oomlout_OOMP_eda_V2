@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|JK00177|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-JK00177|
 |Hex ID (short code)|hexID|SZKCNJK177|
-|Name|name|JK00177|
+|name|name|JK00177|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'JK00177', 'kicadSymbolFootprint': 'Connector_RJ:RJ45_Pulse_JK00177NL_Horizontal', 'kicadSymbolDatasheet': 'https://productfinder.pulseeng.com/doc_type/WEB301/doc_num/J432/doc_part/J432.pdf', 'kicadSymbolki_keywords': '8P8C RJ female connector POE', 'kicadSymbolki_description': ' 1 Port RJ45 Magjack Connector Through Hole 10/100/1000 Base-T, AutoMDIX, 75W POE', 'kicadSymbolki_fp_filters': 'RJ45*Pulse*JK00177NL*'}]|
 ||||

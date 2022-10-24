@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Symbol_CC-Noncommercial_CopperTop_Big|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CC-Noncommercial_CopperTop_Big|
 |Hex ID (short code)|hexID|FZKSZSYCCNONCOERCIALCTOPBIG|
-|Name|name|Symbol : Symbol_CC-Noncommercial_CopperTop_Big|
+|name|name|Symbol : Symbol_CC-Noncommercial_CopperTop_Big|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Symbol_CC-Noncommercial_CopperTop_Big', 'description': 'Symbol, CC-Noncommercial, Copper Top, Big,', 'tags': 'Symbol, CC-Noncommercial, Copper Top, Big,', 'attributeType': None, 'pins': {}}|
 ||||

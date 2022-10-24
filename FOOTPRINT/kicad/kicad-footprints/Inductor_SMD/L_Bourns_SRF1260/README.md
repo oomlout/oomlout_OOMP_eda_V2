@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Bourns_SRF1260|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRF1260|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLBOURNSSRF126|
-|Name|name|Inductor_SMD : L_Bourns_SRF1260|
+|name|name|Inductor_SMD : L_Bourns_SRF1260|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Bourns_SRF1260', 'description': 'Inductor, Bourns, SRF1260, 12.5mmx12.5mm (Script generated with StandardBox.py) (https://www.bourns.com/docs/Product-Datasheets/SRF1260.pdf)', 'tags': 'Inductor Bourns_SRF1260', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns_SRF1260.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns_SRF1260/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns_SRF1260/kicadPcb3d_450.png

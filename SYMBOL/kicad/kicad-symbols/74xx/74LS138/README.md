@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS138|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS138|
 |Hex ID (short code)|hexID|SZK74XX74LS138|
-|Name|name|74LS138|
+|name|name|74LS138|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS138', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS138', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL DECOD DECOD8', 'kicadSymbolki_description': 'Decoder 3 to 8 active low outputs', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

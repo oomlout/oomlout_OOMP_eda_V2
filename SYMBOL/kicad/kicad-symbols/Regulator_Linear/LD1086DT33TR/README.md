@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LD1086DT33TR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1086DT33TR|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLD186DT33TR|
-|Name|name|LD1086DT33TR|
+|name|name|LD1086DT33TR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LD1086DTTR', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LD1086DT33TR', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-2', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/ld1086.pdf', 'kicadSymbolki_keywords': 'Linear Regulator 1.5A Fixed Output', 'kicadSymbolki_description': 'Positive, 1.5A 30V, Linear Regulator, Fixed Output 3.3V, TO-252', 'kicadSymbolki_fp_filters': 'TO?252?2*'}]|
 ||||

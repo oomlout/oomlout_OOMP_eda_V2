@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|D_P600_R-6_P20.00mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_P600_R-6_P20.00mm_Horizontal|
 |Hex ID (short code)|hexID|FZKDDP6R6P2HORIZONTAL|
-|Name|name|Diode_THT : D_P600_R-6_P20.00mm_Horizontal|
+|name|name|Diode_THT : D_P600_R-6_P20.00mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'D_P600_R-6_P20.00mm_Horizontal', 'description': 'Diode, P600_R-6 series, Axial, Horizontal, pin pitch=20mm, , length*diameter=9.1*9.1mm^2, , http://www.vishay.com/docs/88692/p600a.pdf, http://www.diodes.com/_files/packages/R-6.pdf', 'tags': 'Diode P600_R-6 series Axial Horizontal pin pitch 20mm  length 9.1mm diameter 9.1mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_P600_R-6_P20.00mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_P600_R-6_P20.00mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_P600_R-6_P20.00mm_Horizontal/kicadPcb3d_450.png

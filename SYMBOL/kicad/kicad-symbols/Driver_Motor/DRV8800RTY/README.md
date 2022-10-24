@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DRV8800RTY|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8800RTY|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORDRV88RTY|
-|Name|name|DRV8800RTY|
+|name|name|DRV8800RTY|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DRV8800RTY', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PWQFN-N16_EP2.1x2.1mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/drv8801.pdf', 'kicadSymbolki_keywords': 'H-Bridge Motor Driver', 'kicadSymbolki_description': 'H-Bridge Motor Driver, WQFN-16', 'kicadSymbolki_fp_filters': 'Texas*S?PWQFN?N*EP*'}]|
 ||||

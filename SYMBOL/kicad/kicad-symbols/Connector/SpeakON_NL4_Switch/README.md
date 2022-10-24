@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SpeakON_NL4_Switch|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-SpeakON_NL4_Switch|
 |Hex ID (short code)|hexID|SZKCNSPEAKONNL4SWITCH|
-|Name|name|SpeakON_NL4_Switch|
+|name|name|SpeakON_NL4_Switch|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'SpeakON_NL4_Switch', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.neutrik.com/en/speakon/', 'kicadSymbolki_keywords': 'speakon connector', 'kicadSymbolki_description': 'speakON Connector, Male or Female, NL4, Switched Pins', 'kicadSymbolki_fp_filters': 'Jack*speakON*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MBR0560|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-MBR0560|
 |Hex ID (short code)|hexID|SZKDIODEMBR56|
-|Name|name|MBR0560|
+|name|name|MBR0560|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BAT48ZFILM', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'MBR0560', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-123', 'kicadSymbolDatasheet': 'http://www.mccsemi.com/up_pdf/MBR0520~MBR0580(SOD123).pdf', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '60V 0.5A Schottky Power Rectifier Diode, SOD-123', 'kicadSymbolki_fp_filters': 'D*SOD?123*'}]|
 ||||

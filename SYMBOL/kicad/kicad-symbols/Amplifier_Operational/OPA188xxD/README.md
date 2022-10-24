@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA188xxD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA188xxD|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA188XXD|
-|Name|name|OPA188xxD|
+|name|name|OPA188xxD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'OPA333xxD', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA188xxD', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/opa188.pdf', 'kicadSymbolki_keywords': 'single opamp zero-drift', 'kicadSymbolki_description': 'Precision, Low-Noise, Rail-to-Rail Output, 36-V, Zero-Drift Operational Amplifier, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

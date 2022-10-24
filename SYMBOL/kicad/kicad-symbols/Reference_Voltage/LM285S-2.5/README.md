@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM285S-2.5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM285S-2.5|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGELM285S25|
-|Name|name|LM285S-2.5|
+|name|name|LM285S-2.5|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM285S-1.2', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM285S-2.5', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/185fc.pdf', 'kicadSymbolki_keywords': 'diode device voltage reference', 'kicadSymbolki_description': '2.500V Micropower Voltage Reference Diodes, SO-8', 'kicadSymbolki_fp_filters': 'SOIC?8*3.9x4.9m*P1.27mm*'}]|
 ||||

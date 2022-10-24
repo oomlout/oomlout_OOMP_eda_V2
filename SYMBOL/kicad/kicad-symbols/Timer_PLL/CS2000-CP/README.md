@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CS2000-CP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer_PLL-CS2000-CP|
 |Hex ID (short code)|hexID|SZKTIMERPLLCS2CP|
-|Name|name|CS2000-CP|
+|name|name|CS2000-CP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CS2000-CP', 'kicadSymbolFootprint': 'Package_SO:MSOP-10_3x3mm_P0.5mm', 'kicadSymbolDatasheet': 'https://statics.cirrus.com/pubs/proDatasheet/CS2000-CP_F3.pdf', 'kicadSymbolki_keywords': 'Clock Synthesizer Multiplier', 'kicadSymbolki_description': 'Fractional-N Clock Synthesizer & Clock Multiplier, MSOP-10', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.5mm*'}]|
 ||||

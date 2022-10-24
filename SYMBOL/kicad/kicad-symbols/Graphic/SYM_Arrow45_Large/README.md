@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SYM_Arrow45_Large|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Graphic-SYM_Arrow45_Large|
 |Hex ID (short code)|hexID|SZKGRAPHICSYMARROW45L|
-|Name|name|SYM_Arrow45_Large|
+|name|name|SYM_Arrow45_Large|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#SYM', 'kicadSymbolValue': 'SYM_Arrow45_Large', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'symbol arrow angled 45°', 'kicadSymbolki_description': 'Filled 45° arrow, 300mil'}]|
 ||||

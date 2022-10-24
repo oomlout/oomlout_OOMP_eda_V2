@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS75|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS75|
 |Hex ID (short code)|hexID|SZK74XX74LS75|
-|Name|name|74LS75|
+|name|name|74LS75|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS75', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS75', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL DFF Latch', 'kicadSymbolki_description': '4-bit Latch', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

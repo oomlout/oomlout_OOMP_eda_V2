@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM1085-12|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM1085-12|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM18512|
-|Name|name|LM1085-12|
+|name|name|LM1085-12|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM1084-3.3', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM1085-12', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm1085.pdf', 'kicadSymbolki_keywords': 'Voltage Regulator 5A Positive', 'kicadSymbolki_description': '3A 18V Linear Regulator, Fixed Output 12.0V, TO-220/TO-263', 'kicadSymbolki_fp_filters': 'TO?220* TO?263*'}]|
 ||||

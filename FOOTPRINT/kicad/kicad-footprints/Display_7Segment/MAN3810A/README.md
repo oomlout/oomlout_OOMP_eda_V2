@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MAN3810A|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-MAN3810A|
 |Hex ID (short code)|hexID|FZKDI7SMAN381A|
-|Name|name|Display_7Segment : MAN3810A|
+|name|name|Display_7Segment : MAN3810A|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MAN3810A', 'description': 'https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php', 'tags': 'One digit 7 segment yellow LED with right dot', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/MAN3810A.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/MAN3810A/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Display_7Segment/MAN3810A/kicadPcb3d_450.png

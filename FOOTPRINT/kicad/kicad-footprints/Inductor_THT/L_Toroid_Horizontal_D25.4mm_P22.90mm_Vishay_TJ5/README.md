@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5|
 |Hex ID (short code)|hexID|FZKINLTOROIDHORIZONTALD254P229VISHAYTJ5|
-|Name|name|Inductor_THT : L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5|
+|name|name|Inductor_THT : L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5', 'description': 'L_Toroid, Horizontal series, Radial, pin pitch=22.90mm, , diameter=25.4mm, Vishay, TJ5, http://www.vishay.com/docs/34079/tj.pdf', 'tags': 'L_Toroid Horizontal series Radial pin pitch 22.90mm  diameter 25.4mm Vishay TJ5', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5/kicadPcb3d_450.png

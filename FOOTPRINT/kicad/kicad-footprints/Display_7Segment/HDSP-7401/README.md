@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|HDSP-7401|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-HDSP-7401|
 |Hex ID (short code)|hexID|FZKDI7SHDSP741|
-|Name|name|Display_7Segment : HDSP-7401|
+|name|name|Display_7Segment : HDSP-7401|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HDSP-7401', 'description': 'One digit 7 segment yellow, https://docs.broadcom.com/docs/AV02-2553EN', 'tags': 'One digit 7 segment yellow', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/HDSP-7401.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/HDSP-7401/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Display_7Segment/HDSP-7401/kicadPcb3d_450.png

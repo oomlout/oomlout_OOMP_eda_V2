@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_1812_4532Metric|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1812_4532Metric|
 |Hex ID (short code)|hexID|FZKLSML18124532METRIC|
-|Name|name|LED_SMD : LED_1812_4532Metric|
+|name|name|LED_SMD : LED_1812_4532Metric|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_1812_4532Metric', 'description': 'LED SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator', 'tags': 'LED', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1812_4532Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1812_4532Metric/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1812_4532Metric/kicadPcb3d_450.png

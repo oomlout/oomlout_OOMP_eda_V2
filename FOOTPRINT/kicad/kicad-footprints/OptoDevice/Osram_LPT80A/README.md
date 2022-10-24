@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Osram_LPT80A|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_LPT80A|
 |Hex ID (short code)|hexID|FZKOPOSRAMLPT8A|
-|Name|name|OptoDevice : Osram_LPT80A|
+|name|name|OptoDevice : Osram_LPT80A|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Osram_LPT80A', 'description': 'PhotoTransistor, sidelooker package, RM2.54', 'tags': 'PhotoTransistor sidelooker package RM2.54', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Osram_LPT80A.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_LPT80A/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_LPT80A/kicadPcb3d_450.png

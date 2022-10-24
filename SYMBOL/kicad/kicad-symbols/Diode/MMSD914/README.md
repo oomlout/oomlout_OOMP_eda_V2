@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MMSD914|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-MMSD914|
 |Hex ID (short code)|hexID|SZKDIODESD914|
-|Name|name|MMSD914|
+|name|name|MMSD914|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N4001', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'MMSD914', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-123', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MMSD914T1-D.PDF', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '100V 0.2A Switching Diode, SOD-123', 'kicadSymbolki_fp_filters': 'D*SOD?123*'}]|
 ||||

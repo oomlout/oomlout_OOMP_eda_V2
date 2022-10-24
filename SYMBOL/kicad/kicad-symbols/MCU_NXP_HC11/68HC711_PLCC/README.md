@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|68HC711_PLCC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_HC11-68HC711_PLCC|
 |Hex ID (short code)|hexID|SZKMCUNXPHC1168HC711PLCC|
-|Name|name|68HC711_PLCC|
+|name|name|68HC711_PLCC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '68HC711_PLCC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'MCU Microcontroller HC11', 'kicadSymbolki_description': 'HC11 Microcontroller, PLCC-44'}]|
 ||||

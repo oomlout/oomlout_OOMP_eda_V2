@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC7VX690T-FFG1761|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VX690T-FFG1761|
 |Hex ID (short code)|hexID|SZKFPGAXILINXVIRTEX7XC7VX69TFFG1761|
-|Name|name|XC7VX690T-FFG1761|
+|name|name|XC7VX690T-FFG1761|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC7VX690T-FFG1761', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Virtex 7 XT 690 XC7VX690T-FFG1761'}]|
 ||||

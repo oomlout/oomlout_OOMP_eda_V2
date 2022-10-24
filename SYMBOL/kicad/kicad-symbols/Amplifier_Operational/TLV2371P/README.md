@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLV2371P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV2371P|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALTLV2371P|
-|Name|name|TLV2371P|
+|name|name|TLV2371P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP601-xP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV2371P', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tlv2375.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Rail-to-Rail Input/Output Operational Amplifier, PDIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

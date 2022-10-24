@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Radial_L10.2mm_W10.2mm_Px7.62mm_Py7.62mm_Pulse_LP-30|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_L10.2mm_W10.2mm_Px7.62mm_Py7.62mm_Pulse_LP-30|
 |Hex ID (short code)|hexID|FZKINLRL12W12PX762PY762PULSELP3|
-|Name|name|Inductor_THT : L_Radial_L10.2mm_W10.2mm_Px7.62mm_Py7.62mm_Pulse_LP-30|
+|name|name|Inductor_THT : L_Radial_L10.2mm_W10.2mm_Px7.62mm_Py7.62mm_Pulse_LP-30|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Radial_L10.2mm_W10.2mm_Px7.62mm_Py7.62mm_Pulse_LP-30', 'description': 'Inductor, Radial series, Radial, pin pitch=7.62*7.62mm^2, , length*width=10.16*10.16mm^2, Pulse, LP-30, http://datasheet.octopart.com/PE-54044NL-Pulse-datasheet-5313493.pdf', 'tags': 'Inductor Radial series Radial pin pitch 7.62*7.62mm^2  length 10.16mm width 10.16mm Pulse LP-30', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_L10.2mm_W10.2mm_Px7.62mm_Py7.62mm_Pulse_LP-30.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_L10.2mm_W10.2mm_Px7.62mm_Py7.62mm_Pulse_LP-30/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_L10.2mm_W10.2mm_Px7.62mm_Py7.62mm_Pulse_LP-30/kicadPcb3d_450.png

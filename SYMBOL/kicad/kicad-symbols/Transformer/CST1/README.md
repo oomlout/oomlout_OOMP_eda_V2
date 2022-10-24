@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CST1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-CST1|
 |Hex ID (short code)|hexID|SZKTRCST1|
-|Name|name|CST1|
+|name|name|CST1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'T', 'kicadSymbolValue': 'CST1', 'kicadSymbolFootprint': 'Transformer_SMD:Transformer_Coilcraft_CST1', 'kicadSymbolDatasheet': 'https://www.coilcraft.com/pdfs/cst.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'current sense transformer', 'kicadSymbolki_description': 'Coilcraft Current Sense Transformer, SMD, 20A, 1:20 to 1:125', 'kicadSymbolki_fp_filters': 'Transformer*Coilcraft*CST1*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS2044D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-TPS2044D|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTTPS244D|
-|Name|name|TPS2044D|
+|name|name|TPS2044D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS2044D', 'kicadSymbolFootprint': 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps2044.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': '4-chanel power-distribution USB', 'kicadSymbolki_description': 'Quad power-distribution switcher', 'kicadSymbolki_fp_filters': 'SOIC*3.9x9.9mm*1.27mm*'}]|
 ||||

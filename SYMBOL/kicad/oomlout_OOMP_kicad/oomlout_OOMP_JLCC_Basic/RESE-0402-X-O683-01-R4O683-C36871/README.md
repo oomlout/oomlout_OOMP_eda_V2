@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O683-01-R4O683-C36871|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O683-01-R4O683-C36871|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE42XO6831R4O683C36871|
-|Name|name|RESE-0402-X-O683-01-R4O683-C36871|
+|name|name|RESE-0402-X-O683-01-R4O683-C36871|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O683-01-R4O683-C36871', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O683-01-R4O683-C36871', 'kicadSymbolDatasheet': 'oom.lt/R4O683', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R4O683;PARTL C-JLCC;C36871;MANUF C-XXXX;0402WGF6802TCE;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

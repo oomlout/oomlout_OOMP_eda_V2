@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DS1302SN+|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer_RTC-DS1302SN+|
 |Hex ID (short code)|hexID|SZKTIMERRTCDS132SN+|
-|Name|name|DS1302SN+|
+|name|name|DS1302SN+|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DS1302S+', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DS1302SN+', 'kicadSymbolFootprint': 'Package_SO:SO-8_5.3x6.2mm_P1.27mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/DS1302.pdf', 'kicadSymbolki_keywords': 'RTC, Trickle-Charge Timekeeping Chip', 'kicadSymbolki_description': 'Trickle-Charge Timekeeping Chip, 2.0V to 5.5V VCC, -40°C to +85°C, SO-8', 'kicadSymbolki_fp_filters': 'SO*5.3x6.2mm?P1.27mm*'}]|
 ||||

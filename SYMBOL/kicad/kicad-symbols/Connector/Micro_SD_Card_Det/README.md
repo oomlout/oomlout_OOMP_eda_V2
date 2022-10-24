@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Micro_SD_Card_Det|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Micro_SD_Card_Det|
 |Hex ID (short code)|hexID|SZKCNMSDCARDDET|
-|Name|name|Micro_SD_Card_Det|
+|name|name|Micro_SD_Card_Det|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Micro_SD_Card_Det', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.hirose.com/product/en/download_file/key_name/DM3/category/Catalog/doc_file_id/49662/?file_category_id=4&item_id=195&is_series=1', 'kicadSymbolki_keywords': 'connector SD microsd', 'kicadSymbolki_description': 'Micro SD Card Socket with card detection pins', 'kicadSymbolki_fp_filters': 'microSD*'}]|
 ||||

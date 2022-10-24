@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Molex_Pico-Lock_504050-1091_1x10-1MP_P1.50mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-Lock_504050-1091_1x10-1MP_P1.50mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNMXMXPICOL5451911X11MPP15HORIZONTAL|
-|Name|name|Connector_Molex : Molex_Pico-Lock_504050-1091_1x10-1MP_P1.50mm_Horizontal|
+|name|name|Connector_Molex : Molex_Pico-Lock_504050-1091_1x10-1MP_P1.50mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Molex_Pico-Lock_504050-1091_1x10-1MP_P1.50mm_Horizontal', 'description': 'Molex Pico-Lock series connector, 504050-1091 (http://www.molex.com/pdm_docs/sd/5040500891_sd.pdf), generated with kicad-footprint-generator', 'tags': 'connector Molex Pico-Lock horizontal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Pico-Lock_504050-1091_1x10-1MP_P1.50mm_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-Lock_504050-1091_1x10-1MP_P1.50mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-Lock_504050-1091_1x10-1MP_P1.50mm_Horizontal/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_SPST_Lamp|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_SPST_Lamp|
 |Hex ID (short code)|hexID|SZKSWITCHSWSPSTLAMP|
-|Name|name|SW_SPST_Lamp|
+|name|name|SW_SPST_Lamp|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_SPST_Lamp', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'switch SPST LED OFF-ON lamp', 'kicadSymbolki_description': 'Single Pole Single Throw (SPST) switch with signal lamp, generic'}]|
 ||||

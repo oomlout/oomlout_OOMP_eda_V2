@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC9S08SH8xPJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08SH8xPJ|
 |Hex ID (short code)|hexID|SZKMCUNXPS8MC9S8SH8XPJ|
-|Name|name|MC9S08SH8xPJ|
+|name|name|MC9S08SH8xPJ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'IC', 'kicadSymbolValue': 'MC9S08SH8xPJ', 'kicadSymbolFootprint': 'Package_DIP:DIP-20_W7.62mm', 'kicadSymbolDatasheet': 'http://cache.nxp.com/files/microcontrollers/doc/data_sheet/MC9S08SH8.pdf', 'kicadSymbolki_keywords': 'NXP S08 Microcontroller', 'kicadSymbolki_description': '8-bit General Purpose Microcontroller, S08 core, 8kB Flash, 512B RAM, DIP-20', 'kicadSymbolki_fp_filters': 'DIP*7.62mm*'}]|
 ||||

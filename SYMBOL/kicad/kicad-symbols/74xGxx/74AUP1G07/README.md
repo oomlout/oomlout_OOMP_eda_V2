@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74AUP1G07|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-74AUP1G07|
 |Hex ID (short code)|hexID|SZK74XGXX74AUP1G7|
-|Name|name|74AUP1G07|
+|name|name|74AUP1G07|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LVC1G07', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AUP1G07', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf', 'kicadSymbolki_keywords': 'Single Gate Buff LVC CMOS Open Drain', 'kicadSymbolki_description': 'Single Buffer Gate w/ Open Drain, Low-Voltage CMOS', 'kicadSymbolki_fp_filters': 'SOT* SG-*'}]|
 ||||

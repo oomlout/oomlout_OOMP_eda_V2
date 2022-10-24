@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCN4555MN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-NCN4555MN|
 |Hex ID (short code)|hexID|SZKLOGICLEVELTRANSLATORNCN4555MN|
-|Name|name|NCN4555MN|
+|name|name|NCN4555MN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCN4555MN', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/NCN4555-D.PDF', 'kicadSymbolki_keywords': 'SIM Card Level Shifter', 'kicadSymbolki_description': 'SIM Card Power Supply and Level Shifter, QFN-16', 'kicadSymbolki_fp_filters': 'QFN*1EP*3x3mm*P0.5mm*'}]|
 ||||

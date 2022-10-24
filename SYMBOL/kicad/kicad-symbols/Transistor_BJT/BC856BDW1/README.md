@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BC856BDW1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC856BDW1|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBC856BDW1|
-|Name|name|BC856BDW1|
+|name|name|BC856BDW1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BC856BS', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC856BDW1', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/BC856BDW1T1-D.PDF', 'kicadSymbolki_keywords': 'PNP/PNP Transistor', 'kicadSymbolki_description': '100mA IC, 65V Vce, Dual PNP/PNP Transistors, SOT-363', 'kicadSymbolki_fp_filters': 'SOT?363*'}]|
 ||||

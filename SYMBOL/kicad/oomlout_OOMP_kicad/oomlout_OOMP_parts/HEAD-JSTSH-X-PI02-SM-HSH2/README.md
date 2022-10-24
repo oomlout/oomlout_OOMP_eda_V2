@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-JSTSH-X-PI02-SM-HSH2|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI02-SM-HSH2|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI2SMHSH2|
-|Name|name|HEAD-JSTSH-X-PI02-SM-HSH2|
+|name|name|HEAD-JSTSH-X-PI02-SM-HSH2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HEAD-JSTSH-X-PI02-SM-HSH2', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:HEAD-JSTSH-X-PI02-SM-HSH2', 'kicadSymbolDatasheet': 'oom.lt/HSH2', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'hexID: HSH2;Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_1x??_*'}]|
 ||||

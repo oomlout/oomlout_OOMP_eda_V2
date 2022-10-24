@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|ADE-6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Mixer-ADE-6|
 |Hex ID (short code)|hexID|SZKRFMIXERADE6|
-|Name|name|ADE-6|
+|name|name|ADE-6|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADE-6', 'kicadSymbolFootprint': 'RF_Mini-Circuits:Mini-Circuits_CD542_LandPatternPL-052', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/ADE-6.pdf', 'kicadSymbolki_keywords': 'mixer rf', 'kicadSymbolki_description': 'Mixer, +7 dBm LO, 0.05 to 250 MHz, CD542', 'kicadSymbolki_fp_filters': 'Mini?Circuits*CD542*'}]|
 ||||

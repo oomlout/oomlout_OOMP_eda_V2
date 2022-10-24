@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SCART-F|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-SCART-F|
 |Hex ID (short code)|hexID|SZKCNSCARTF|
-|Name|name|SCART-F|
+|name|name|SCART-F|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'SCART-F', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'Prise Peritel'}]|
 ||||

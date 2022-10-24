@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DS1821C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS1821C|
 |Hex ID (short code)|hexID|SZKSENTEMPERATUREDS1821C|
-|Name|name|DS1821C|
+|name|name|DS1821C|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX31820', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DS1821C', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/DS1821.pdf', 'kicadSymbolki_keywords': 'OneWire 1Wire Maxim Dallas', 'kicadSymbolki_description': 'Programmable Digital Thermostat and Thermometer TO-92', 'kicadSymbolki_fp_filters': 'TO*92*'}]|
 ||||

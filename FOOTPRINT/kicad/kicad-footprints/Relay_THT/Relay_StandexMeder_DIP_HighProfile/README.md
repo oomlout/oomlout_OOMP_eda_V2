@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Relay_StandexMeder_DIP_HighProfile|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_StandexMeder_DIP_HighProfile|
 |Hex ID (short code)|hexID|FZKRELRELAYSTANDEXMEDERDIPHIGHPROFILE|
-|Name|name|Relay_THT : Relay_StandexMeder_DIP_HighProfile|
+|name|name|Relay_THT : Relay_StandexMeder_DIP_HighProfile|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Relay_StandexMeder_DIP_HighProfile', 'description': 'package for Standex Meder DIP reed relay series, see https://standexelectronics.com/wp-content/uploads/datasheet_reed_relay_DIP.pdf', 'tags': 'DIL DIP PDIP 2.54mm 7.62mm 300mil reed relay', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_StandexMeder_DIP_HighProfile.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_StandexMeder_DIP_HighProfile/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_StandexMeder_DIP_HighProfile/kicadPcb3d_450.png

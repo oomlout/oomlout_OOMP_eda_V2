@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP6401RT-xOT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6401RT-xOT|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALMCP641RTXOT|
-|Name|name|MCP6401RT-xOT|
+|name|name|MCP6401RT-xOT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP6L91RT-EOT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP6401RT-xOT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/22229d.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': '1 MHz, 45 µA Op Amps, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

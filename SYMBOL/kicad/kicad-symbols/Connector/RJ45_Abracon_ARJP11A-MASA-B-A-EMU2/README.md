@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RJ45_Abracon_ARJP11A-MASA-B-A-EMU2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-RJ45_Abracon_ARJP11A-MASA-B-A-EMU2|
 |Hex ID (short code)|hexID|SZKCNRJ45ABRACONARJP11AMASABAEMU2|
-|Name|name|RJ45_Abracon_ARJP11A-MASA-B-A-EMU2|
+|name|name|RJ45_Abracon_ARJP11A-MASA-B-A-EMU2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'RJ45_Abracon_ARJP11A-MASA-B-A-EMU2', 'kicadSymbolFootprint': 'Connector_RJ:RJ45_Abracon_ARJP11A-MA_Horizontal', 'kicadSymbolDatasheet': 'https://abracon.com/Magnetics/lan/ARJP11A.PDF', 'kicadSymbolki_keywords': 'single port ethernet transformer poe center-tap', 'kicadSymbolki_description': 'RJ45 PoE 10/100 Base-TX Jack with Magnetic Module', 'kicadSymbolki_fp_filters': 'RJ45*Abracon*ARJP11A?MA*'}]|
 ||||

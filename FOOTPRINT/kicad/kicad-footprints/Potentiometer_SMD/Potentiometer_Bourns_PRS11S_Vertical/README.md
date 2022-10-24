@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Potentiometer_Bourns_PRS11S_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_PRS11S_Vertical|
 |Hex ID (short code)|hexID|FZKPOTENTIOMETERSMPOTENTIOMETERBOURNSPRS11SVERTICAL|
-|Name|name|Potentiometer_SMD : Potentiometer_Bourns_PRS11S_Vertical|
+|name|name|Potentiometer_SMD : Potentiometer_Bourns_PRS11S_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Bourns_PRS11S_Vertical', 'description': 'Potentiometer, vertical, Bourns PRS11S, http://www.bourns.com/docs/Product-Datasheets/PRS11S.pdf', 'tags': 'Potentiometer vertical Bourns PRS11S', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_SMD.3dshapes/Potentiometer_Bourns_PRS11S_Vertical.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_Bourns_PRS11S_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_Bourns_PRS11S_Vertical/kicadPcb3d_450.png

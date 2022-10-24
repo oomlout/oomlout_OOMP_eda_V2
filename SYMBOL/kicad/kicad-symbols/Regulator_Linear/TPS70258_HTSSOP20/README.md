@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS70258_HTSSOP20|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS70258_HTSSOP20|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTPS7258HTSS2|
-|Name|name|TPS70258_HTSSOP20|
+|name|name|TPS70258_HTSSOP20|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS70245_HTSSOP20', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS70258_HTSSOP20', 'kicadSymbolFootprint': 'Package_SO:HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps702.pdf', 'kicadSymbolki_keywords': 'Dual 3.3V 2.5V LDO Regulator 500mA 250mA Voltage Supervisor', 'kicadSymbolki_description': '3.3V 500mA/2.5V 250mA Dual Low Drop-out Regulator with Voltage Supervisor, PowerPAD TSSOP-20', 'kicadSymbolki_fp_filters': 'HTSSOP*4.4x6.5mm*P0.65mm*'}]|
 ||||

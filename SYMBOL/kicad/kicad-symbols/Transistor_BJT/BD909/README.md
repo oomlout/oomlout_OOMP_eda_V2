@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BD909|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD909|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBD99|
-|Name|name|BD909|
+|name|name|BD909|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BD911', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BD909', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00001277.pdf', 'kicadSymbolki_keywords': 'Power NPN Transistor', 'kicadSymbolki_description': '15A, Silicon Power NPN Transistors, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

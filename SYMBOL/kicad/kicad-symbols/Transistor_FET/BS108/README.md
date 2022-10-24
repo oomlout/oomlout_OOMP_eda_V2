@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BS108|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BS108|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBS18|
-|Name|name|BS108|
+|name|name|BS108|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BS107', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BS108', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://www.redrok.com/MOSFET_BS108_200V_250mA_8O_Vth1.5_TO-92.PDF', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '0.25A Id, 200V Vds, N-Channel MOSFET, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

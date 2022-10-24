@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-1206-X-UF2-V25-C12U2|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF2-V25-C12U2|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XUF2V25C12U2|
-|Name|name|CAPC-1206-X-UF2-V25-C12U2|
+|name|name|CAPC-1206-X-UF2-V25-C12U2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-1206-X-UF2-V25-C12U2', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-1206-X-UF2-V25-C12U2', 'kicadSymbolDatasheet': 'oom.lt/C12U2', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C12U2;PARTL C-JLCC;C12891;MANUF C-XXXX;CL31A226KAHNNNE;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

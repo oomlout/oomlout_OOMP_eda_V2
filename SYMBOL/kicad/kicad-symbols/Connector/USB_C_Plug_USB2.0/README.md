@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|USB_C_Plug_USB2.0|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-USB_C_Plug_USB2.0|
 |Hex ID (short code)|hexID|SZKCNUCPLUGU2|
-|Name|name|USB_C_Plug_USB2.0|
+|name|name|USB_C_Plug_USB2.0|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'P', 'kicadSymbolValue': 'USB_C_Plug_USB2.0', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.usb.org/sites/default/files/documents/usb_type-c.zip', 'kicadSymbolki_keywords': 'usb universal serial bus type-C USB2.0', 'kicadSymbolki_description': 'USB 2.0-only Type-C Plug connector', 'kicadSymbolki_fp_filters': 'USB*C*Plug*'}]|
 ||||

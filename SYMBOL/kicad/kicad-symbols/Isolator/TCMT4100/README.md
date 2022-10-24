@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TCMT4100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-TCMT4100|
 |Hex ID (short code)|hexID|SZKISOLATORTCMT41|
-|Name|name|TCMT4100|
+|name|name|TCMT4100|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TCMT4100', 'kicadSymbolFootprint': 'Package_SO:SOP-16_4.4x10.4mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/84181/tcmt4100.pdf', 'kicadSymbolki_keywords': 'NPN DC opto', 'kicadSymbolki_description': 'Quad Optocoupler, Vce 70V, CTR 50-600%, Viso 3750V (RMS), SOP-16', 'kicadSymbolki_fp_filters': 'SOP*4.4x10.4mm*P1.27mm*'}]|
 ||||

@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-I01-X-PI03-01-H03|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI03-01-H03|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI31H3|
-|Name|name|oomlout_OOMP_parts : HEAD-I01-X-PI03-01-H03|
+|name|name|oomlout_OOMP_parts : HEAD-I01-X-PI03-01-H03|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HEAD-I01-X-PI03-01-H03', 'description': 'hexID: H03; Through hole straight pin header, 1x03, 2.54mm pitch, single row', 'tags': 'Through hole pin header THT 1x03 2.54mm single row', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

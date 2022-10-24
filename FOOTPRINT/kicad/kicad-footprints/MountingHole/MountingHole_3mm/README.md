@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MountingHole_3mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3mm|
 |Hex ID (short code)|hexID|FZKHOLHOL3|
-|Name|name|MountingHole : MountingHole_3mm|
+|name|name|MountingHole : MountingHole_3mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_3mm', 'description': 'Mounting Hole 3mm, no annular', 'tags': 'mounting hole 3mm no annular', 'attributeType': None, 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_3mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_3mm/kicadPcb3d_450.png

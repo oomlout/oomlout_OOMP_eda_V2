@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Relay_SPDT_Finder_40.11|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_Finder_40.11|
 |Hex ID (short code)|hexID|FZKRELRELAYSPDTFINDER411|
-|Name|name|Relay_THT : Relay_SPDT_Finder_40.11|
+|name|name|Relay_THT : Relay_SPDT_Finder_40.11|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Relay_SPDT_Finder_40.11', 'description': 'Relay SPDT Finder 40.11, https://www.finder-relais.net/de/finder-relais-serie-40.pdf', 'tags': 'Relay SPDT Finder 40.11 ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_Finder_40.11.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPDT_Finder_40.11/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPDT_Finder_40.11/kicadPcb3d_450.png

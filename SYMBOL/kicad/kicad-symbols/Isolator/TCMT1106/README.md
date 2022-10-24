@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TCMT1106|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-TCMT1106|
 |Hex ID (short code)|hexID|SZKISOLATORTCMT116|
-|Name|name|TCMT1106|
+|name|name|TCMT1106|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TCMT1100', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TCMT1106', 'kicadSymbolFootprint': 'Package_SO:SOP-4_4.4x2.6mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/83510/tcmt1100.pdf', 'kicadSymbolki_keywords': 'NPN DC opto', 'kicadSymbolki_description': 'Optocoupler, Vce 70V, CTR 100-300%, Viso 3750V (RMS), SOP-4', 'kicadSymbolki_fp_filters': 'SOP*4.4x2.6mm*P1.27mm*'}]|
 ||||

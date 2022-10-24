@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TOP103YN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP103YN|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTOP13YN|
-|Name|name|TOP103YN|
+|name|name|TOP103YN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TOP100YN', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TOP103YN', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/top100.pdf', 'kicadSymbolki_keywords': 'Three-terminal Off-line PWM Switch', 'kicadSymbolki_description': 'TOPSwitch Family, 55W Max Output Power, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

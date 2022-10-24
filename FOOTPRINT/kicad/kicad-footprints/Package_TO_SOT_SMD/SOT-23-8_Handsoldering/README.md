@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOT-23-8_Handsoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23-8_Handsoldering|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT238HANDSOLDERING|
-|Name|name|Package_TO_SOT_SMD : SOT-23-8_Handsoldering|
+|name|name|Package_TO_SOT_SMD : SOT-23-8_Handsoldering|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOT-23-8_Handsoldering', 'description': '8-pin SOT-23 package, Handsoldering, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/sot-23rj/rj_8.pdf', 'tags': 'SOT-23-8 Handsoldering', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-8.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23-8_Handsoldering/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23-8_Handsoldering/kicadPcb3d_450.png

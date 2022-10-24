@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Converter_ACDC_TRACO_TMLM-05_THT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_TRACO_TMLM-05_THT|
 |Hex ID (short code)|hexID|FZKCONCONTRACOTMLM5THT|
-|Name|name|Converter_ACDC : Converter_ACDC_TRACO_TMLM-05_THT|
+|name|name|Converter_ACDC : Converter_ACDC_TRACO_TMLM-05_THT|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Converter_ACDC_TRACO_TMLM-05_THT', 'description': 'ACDC-Converter, TRACO TMLM 05,https://www.tracopower.com/products/tmlm.pdf', 'tags': 'ACDC-Converter TRACO TMLM 05', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_ACDC.3dshapes/Converter_ACDC_TRACO_TMLM-05_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_TRACO_TMLM-05_THT/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_TRACO_TMLM-05_THT/kicadPcb3d_450.png

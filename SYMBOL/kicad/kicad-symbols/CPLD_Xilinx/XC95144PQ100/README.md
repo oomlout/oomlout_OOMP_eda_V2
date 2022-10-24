@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC95144PQ100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC95144PQ100|
 |Hex ID (short code)|hexID|SZKCPLDXILINXXC95144PQ1|
-|Name|name|XC95144PQ100|
+|name|name|XC95144PQ100|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC95144PQ100', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_description': 'Xilinx CPLD, Obsolete'}]|
 ||||

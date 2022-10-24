@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SC4503TSK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-SC4503TSK|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGSC453TSK|
-|Name|name|SC4503TSK|
+|name|name|SC4503TSK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SC4503TSK', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-5', 'kicadSymbolDatasheet': 'https://www.semtech.com/uploads/documents/sc4503.pdf', 'kicadSymbolki_keywords': '1.9A 1.3MHz Step-Up DC/DC', 'kicadSymbolki_description': '1.9A, 1.3MHz Step-Up DC/DC Converter, 2.5V-20V output voltage, TSOT23', 'kicadSymbolki_fp_filters': 'TSOT*23*'}]|
 ||||

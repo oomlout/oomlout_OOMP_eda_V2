@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Dual_Series_CKA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Dual_Series_CKA|
 |Hex ID (short code)|hexID|SZKDEVICEDDUALSERIESCKA|
-|Name|name|D_Dual_Series_CKA|
+|name|name|D_Dual_Series_CKA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Dual_Series_CKA', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Dual diode, center/cathode/anode'}]|
 ||||

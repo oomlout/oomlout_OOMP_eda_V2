@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MKE16Z64VLF4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKE16Z64VLF4|
 |Hex ID (short code)|hexID|SZKMCUNXPKINETISMKE16Z64VLF4|
-|Name|name|MKE16Z64VLF4|
+|name|name|MKE16Z64VLF4|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MKE16Z64VLF4', 'kicadSymbolFootprint': 'Package_QFP:LQFP-48_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/KE1xZP48M48SF0.pdf', 'kicadSymbolki_keywords': 'Kinetis KE16 ARM Cortex M0+', 'kicadSymbolki_description': 'Kinetis KE1xZ series, 48-MHz/32-bit ARM Cortex-M0+, 64 kB flash, 8 kB RAM, Mainstream, Touch (TSI) and CAN control, LQFP-48', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.5mm*'}]|
 ||||

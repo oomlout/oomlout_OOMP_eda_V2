@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCP163ASN250T1G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP163ASN250T1G|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARNCP163ASN25T1G|
-|Name|name|NCP163ASN250T1G|
+|name|name|NCP163ASN250T1G|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NCP163ASN150T1G', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCP163ASN250T1G', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pdf/datasheet/ncp163-d.pdf', 'kicadSymbolki_keywords': 'LDO regulator voltage', 'kicadSymbolki_description': '250mA low-noise LDO, 2.2V-5.5V input, 2.5V output, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

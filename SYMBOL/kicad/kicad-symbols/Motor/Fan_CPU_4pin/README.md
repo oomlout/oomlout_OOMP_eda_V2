@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Fan_CPU_4pin|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Motor-Fan_CPU_4pin|
 |Hex ID (short code)|hexID|SZKMOTORFANCPU4PIN|
-|Name|name|Fan_CPU_4pin|
+|name|name|Fan_CPU_4pin|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'Fan_Tacho_PWM', 'kicadSymbolReference': 'M', 'kicadSymbolValue': 'Fan_CPU_4pin', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.formfactors.org/developer%5Cspecs%5Crev1_2_public.pdf', 'kicadSymbolki_keywords': 'Fan Motor tacho PWM', 'kicadSymbolki_description': 'CPU Fan, tacho output, PWM input, 4-pin connector', 'kicadSymbolki_fp_filters': 'FanPinHeader*P2.54mm*Vertical* PinHeader*P2.54mm*Vertical* TerminalBlock*'}]|
 ||||

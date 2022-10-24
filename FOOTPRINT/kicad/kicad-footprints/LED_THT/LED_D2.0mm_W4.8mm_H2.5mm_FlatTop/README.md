@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_D2.0mm_W4.8mm_H2.5mm_FlatTop|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D2.0mm_W4.8mm_H2.5mm_FlatTop|
 |Hex ID (short code)|hexID|FZKLLD2W48H25FLATTOP|
-|Name|name|LED_THT : LED_D2.0mm_W4.8mm_H2.5mm_FlatTop|
+|name|name|LED_THT : LED_D2.0mm_W4.8mm_H2.5mm_FlatTop|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_D2.0mm_W4.8mm_H2.5mm_FlatTop', 'description': 'LED, Round, FlatTop,  Rectangular size 4.8x2.5mm^2 diameter 2.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-13GD(Ver.11B).pdf', 'tags': 'LED Round FlatTop  Rectangular size 4.8x2.5mm^2 diameter 2.0mm 2 pins', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D2.0mm_W4.8mm_H2.5mm_FlatTop.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D2.0mm_W4.8mm_H2.5mm_FlatTop/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D2.0mm_W4.8mm_H2.5mm_FlatTop/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC12C508A-ISM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12C508A-ISM|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC12PIC12C58AISM|
-|Name|name|PIC12C508A-ISM|
+|name|name|PIC12C508A-ISM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC12C508A-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC12C508A-ISM', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/40139e.pdf', 'kicadSymbolki_keywords': '8-Bit CMOS Microcontroller', 'kicadSymbolki_description': 'PIC12C508A, 512W EPROM, 25B SRAM, SO8 Wide', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

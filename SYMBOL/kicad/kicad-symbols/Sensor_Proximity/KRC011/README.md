@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|KRC011|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Proximity-KRC011|
 |Hex ID (short code)|hexID|SZKSENPROXIMITYKRC11|
-|Name|name|KRC011|
+|name|name|KRC011|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'KRC011', 'kicadSymbolFootprint': 'OptoDevice:Kingbright_KRC011_Vertical', 'kicadSymbolDatasheet': 'http://www.kingbright.com/attachments/file/psearch/000/00/00/KRC011(Ver.15).pdf', 'kicadSymbolki_keywords': 'Reflective Optical Sensor Opto', 'kicadSymbolki_description': 'Subminiature Reflective Optical Sensor', 'kicadSymbolki_fp_filters': 'Kingbright?KRC011*'}]|
 ||||

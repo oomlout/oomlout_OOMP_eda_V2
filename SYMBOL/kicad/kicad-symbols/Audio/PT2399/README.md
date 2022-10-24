@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PT2399|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-PT2399|
 |Hex ID (short code)|hexID|SZKAUDIOPT2399|
-|Name|name|PT2399|
+|name|name|PT2399|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PT2399', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://sound.westhost.com/pt2399.pdf', 'kicadSymbolki_keywords': 'CMOS ADC DAC 44K Digital processing VCO', 'kicadSymbolki_description': 'Echo Processor IC', 'kicadSymbolki_fp_filters': 'DIP-16*'}]|
 ||||

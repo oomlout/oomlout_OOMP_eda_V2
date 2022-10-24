@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC1408_DIP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-MC1408_DIP|
 |Hex ID (short code)|hexID|SZKANALOGDACMC148DIP|
-|Name|name|MC1408_DIP|
+|name|name|MC1408_DIP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC1408_DIP', 'kicadSymbolFootprint': 'Package_DIP:DIP-16_W7.62mm', 'kicadSymbolDatasheet': 'http://www.pinballpcb.com/datasheets/OnMC1408-dac.pdf', 'kicadSymbolki_keywords': '8 bit multiplying DAC', 'kicadSymbolki_description': '8-bit multiplying DAC', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

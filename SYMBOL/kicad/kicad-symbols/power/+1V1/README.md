@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|+1V1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-+1V1|
 |Hex ID (short code)|hexID|SZKPOWER+1V1|
-|Name|name|+1V1|
+|name|name|+1V1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': '+1V1', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "+1V1"'}]|
 ||||

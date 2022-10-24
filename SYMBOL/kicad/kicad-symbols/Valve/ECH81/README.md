@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ECH81|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Valve-ECH81|
 |Hex ID (short code)|hexID|SZKVAECH81|
-|Name|name|ECH81|
+|name|name|ECH81|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ECH81', 'kicadSymbolFootprint': 'Valve:Valve_Noval_P', 'kicadSymbolDatasheet': 'http://www.r-type.org/pdfs/ech81.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'triode heptode valve', 'kicadSymbolki_description': 'triode heptode', 'kicadSymbolki_fp_filters': 'VALVE*NOVAL*P*'}]|
 ||||

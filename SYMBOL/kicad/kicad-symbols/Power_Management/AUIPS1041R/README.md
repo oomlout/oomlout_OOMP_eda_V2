@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AUIPS1041R|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS1041R|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTAUIPS141R|
-|Name|name|AUIPS1041R|
+|name|name|AUIPS1041R|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AUIPS1041R', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-3_TabPin2', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-AUIPS1041-DS-v01_00-EN.pdf?fileId=5546d4625a888733015aae14a0524c63', 'kicadSymbolki_keywords': 'low side switch', 'kicadSymbolki_description': 'Intelligent Power Low Side Switch, 39V, 4.5A, DPAK-5L', 'kicadSymbolki_fp_filters': 'TO?252*'}]|
 ||||

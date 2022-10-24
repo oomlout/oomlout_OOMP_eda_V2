@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CAT811TTBI-GT3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Supervisor-CAT811TTBI-GT3|
 |Hex ID (short code)|hexID|SZKPOWERSUPERVISORCAT811TTBIGT3|
-|Name|name|CAT811TTBI-GT3|
+|name|name|CAT811TTBI-GT3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MIC811LUY', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CAT811TTBI-GT3', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-143', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/CAT811-D.PDF', 'kicadSymbolki_keywords': 'Supervisor Reset', 'kicadSymbolki_description': 'Power supply supervisor, Manual reset, Threshold 3.08V, SOT-143', 'kicadSymbolki_fp_filters': 'SOT*143*'}]|
 ||||

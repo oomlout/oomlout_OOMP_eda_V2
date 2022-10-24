@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74AUP1G126|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-74AUP1G126|
 |Hex ID (short code)|hexID|SZK74XGXX74AUP1G126|
-|Name|name|74AUP1G126|
+|name|name|74AUP1G126|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LVC1G126', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AUP1G126', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf', 'kicadSymbolki_keywords': 'Single Gate Buff Tri-State LVC CMOS', 'kicadSymbolki_description': 'Single Buffer Gate Tri-State, Low-Voltage CMOS', 'kicadSymbolki_fp_filters': 'SOT* SG-*'}]|
 ||||

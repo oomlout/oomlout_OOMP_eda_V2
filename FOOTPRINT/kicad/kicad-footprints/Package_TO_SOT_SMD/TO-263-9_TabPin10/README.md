@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-263-9_TabPin10|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-263-9_TabPin10|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMTO2639TABPIN1|
-|Name|name|Package_TO_SOT_SMD : TO-263-9_TabPin10|
+|name|name|Package_TO_SOT_SMD : TO-263-9_TabPin10|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-263-9_TabPin10', 'description': 'TO-263 / D2PAK / DDPAK SMD package, http://www.ti.com/lit/ds/symlink/lm4755.pdf', 'tags': 'D2PAK DDPAK TO-263 D2PAK-9 TO-263-9', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-263-9_TabPin10.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-263-9_TabPin10/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-263-9_TabPin10/kicadPcb3d_450.png

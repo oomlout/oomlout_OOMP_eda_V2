@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DTB123Y|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTB123Y|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTDTB123Y|
-|Name|name|DTB123Y|
+|name|name|DTB123Y|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DTB123Y', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'ROHM Digital PNP Transistor', 'kicadSymbolki_description': 'Digital PNP Transistor, 2k2/10k, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23* SC?59*'}]|
 ||||

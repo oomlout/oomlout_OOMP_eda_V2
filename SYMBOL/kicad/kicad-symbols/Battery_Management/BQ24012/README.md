@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BQ24012|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24012|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTBQ2412|
-|Name|name|BQ24012|
+|name|name|BQ24012|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BQ24012', 'kicadSymbolFootprint': 'Package_SON:VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/bq24012.pdf', 'kicadSymbolki_keywords': 'Batter, Charger, Li-Ion', 'kicadSymbolki_description': 'Single-Chip Li-Ion Charge Management IC, DFN-10', 'kicadSymbolki_fp_filters': 'VSON*1EP*3x3mm*P0.5mm*'}]|
 ||||

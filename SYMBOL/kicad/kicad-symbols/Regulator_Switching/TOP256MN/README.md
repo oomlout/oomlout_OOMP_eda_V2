@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TOP256MN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP256MN|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTOP256MN|
-|Name|name|TOP256MN|
+|name|name|TOP256MN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TOP252MN', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TOP256MN', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_SDIP-10C', 'kicadSymbolDatasheet': 'https://ac-dc.power.com/sites/default/files/product-docs/topswitch-hx_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Eco Smart Off-Line Switcher, Extendend Power Range', 'kicadSymbolki_description': 'TOPSwitch-HX Family, 26W Output Power', 'kicadSymbolki_fp_filters': 'PowerIntegrations?SDIP?10C*'}]|
 ||||

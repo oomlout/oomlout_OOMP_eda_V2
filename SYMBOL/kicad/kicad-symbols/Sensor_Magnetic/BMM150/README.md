@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BMM150|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-BMM150|
 |Hex ID (short code)|hexID|SZKSENMAGNETICB15|
-|Name|name|BMM150|
+|name|name|BMM150|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BMM150', 'kicadSymbolFootprint': 'Package_CSP:WLCSP-12_1.56x1.56mm_P0.4mm', 'kicadSymbolDatasheet': 'https://www.mouser.com/datasheet/2/783/BST-BMM150-DS001-01-786480.pdf', 'kicadSymbolki_keywords': 'BOSH Geomagnetic Sensor', 'kicadSymbolki_description': 'Geomagnetic Sensor, WLCSP-12', 'kicadSymbolki_fp_filters': 'WLCSP*1.56x1.56mm*P0.4mm*'}]|
 ||||

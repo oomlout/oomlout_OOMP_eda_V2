@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS01|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS01|
 |Hex ID (short code)|hexID|SZK74XX74LS1|
-|Name|name|74LS01|
+|name|name|74LS01|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS01', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.nteinc.com/specs/7400to7499/pdf/nte74LS01.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL nand 2-input open collector', 'kicadSymbolki_description': 'quad 2-input NAND gate, open collector outputs NRND', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

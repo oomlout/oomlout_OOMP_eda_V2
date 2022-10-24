@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F303C8Yx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F303C8Yx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F3STM32F33C8YX|
-|Name|name|STM32F303C8Yx|
+|name|name|STM32F303C8Yx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F303C8Yx', 'kicadSymbolFootprint': 'Package_CSP:ST_WLCSP-49_Die438', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00092070.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32F3 STM32F303', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 64KB flash, 12KB RAM, 72MHz, 2-3.6V, 38 GPIO, WLCSP-49', 'kicadSymbolki_fp_filters': 'ST_WLCSP*Die438*'}]|
 ||||

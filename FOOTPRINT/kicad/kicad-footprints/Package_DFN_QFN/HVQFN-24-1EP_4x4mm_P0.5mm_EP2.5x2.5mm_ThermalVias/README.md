@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|HVQFN-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-HVQFN-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNHVQFN241EP4X4P5EP25X25THERMALVIAS|
-|Name|name|Package_DFN_QFN : HVQFN-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias|
+|name|name|Package_DFN_QFN : HVQFN-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HVQFN-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias', 'description': 'HVQFN, 24 Pin (https://www.nxp.com/docs/en/package-information/SOT616-3.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'HVQFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/HVQFN-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'custom'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/HVQFN-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/HVQFN-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias/kicadPcb3d_450.png

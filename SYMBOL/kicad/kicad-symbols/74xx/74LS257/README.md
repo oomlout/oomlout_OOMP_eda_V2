@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS257|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS257|
 |Hex ID (short code)|hexID|SZK74XX74LS257|
-|Name|name|74LS257|
+|name|name|74LS257|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS257', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS257', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL MUX MUX2', 'kicadSymbolki_description': 'Quad 2 to 1 Multiplexer', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BTA16-800CW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BTA16-800CW|
 |Hex ID (short code)|hexID|SZKTRIACTHYRISTORBTA168CW|
-|Name|name|BTA16-800CW|
+|name|name|BTA16-800CW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TIC226', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BTA16-800CW', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/bta16.pdf', 'kicadSymbolki_keywords': 'Triac', 'kicadSymbolki_description': '16A RMS, 800V Off-State Voltage, 35mA Sensitivity, Snubberless, Insulated, Triac, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

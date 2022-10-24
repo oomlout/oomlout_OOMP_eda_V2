@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATxmega16A4U-M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega16A4U-M|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATXMEGA16A4UM|
-|Name|name|ATxmega16A4U-M|
+|name|name|ATxmega16A4U-M|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATxmega16A4U-M', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8387-8-and16-bit-AVR-Microcontroller-XMEGA-A4U_Datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8/16bit Microcontroller XMegaAVR', 'kicadSymbolki_description': '32MHz, 16kB Flash, 4kB Boot, 2kB SRAM, 1kB EEPROM, JTAG, USB, QFN-44', 'kicadSymbolki_fp_filters': 'QFN*1EP*7x7mm*P0.5mm*'}]|
 ||||

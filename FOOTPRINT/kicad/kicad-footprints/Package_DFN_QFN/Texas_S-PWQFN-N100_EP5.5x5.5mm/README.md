@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Texas_S-PWQFN-N100_EP5.5x5.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PWQFN-N100_EP5.5x5.5mm|
 |Hex ID (short code)|hexID|FZKDFNTEXASSPWQFNN1EP55X55|
-|Name|name|Package_DFN_QFN : Texas_S-PWQFN-N100_EP5.5x5.5mm|
+|name|name|Package_DFN_QFN : Texas_S-PWQFN-N100_EP5.5x5.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Texas_S-PWQFN-N100_EP5.5x5.5mm', 'description': 'http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=szza059&fileType=pdf,http://www.ti.com/lit/ds/sllse76m/sllse76m.pdf', 'tags': 'MultiRow QFN', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PWQFN-N100_EP5.5x5.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PWQFN-N100_EP5.5x5.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PWQFN-N100_EP5.5x5.5mm/kicadPcb3d_450.png

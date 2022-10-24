@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAW75|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAW75|
 |Hex ID (short code)|hexID|SZKDIODEBAW75|
-|Name|name|BAW75|
+|name|name|BAW75|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N4001', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAW75', 'kicadSymbolFootprint': 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/85550/baw75.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '25V 0.45A Small Signal Switching Diode, DO-35', 'kicadSymbolki_fp_filters': 'D*DO?35*'}]|
 ||||

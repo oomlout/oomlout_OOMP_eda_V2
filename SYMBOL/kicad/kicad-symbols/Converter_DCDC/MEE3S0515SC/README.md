@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MEE3S0515SC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-MEE3S0515SC|
 |Hex ID (short code)|hexID|SZKCONMEE3S515SC|
-|Name|name|MEE3S0515SC|
+|name|name|MEE3S0515SC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MEE3S0505SC', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'MEE3S0515SC', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_Murata_MEE3SxxxxSC_THT', 'kicadSymbolDatasheet': 'https://power.murata.com/pub/data/power/ncl/kdc_mee3.pdf', 'kicadSymbolki_keywords': 'murata DC/DC isolated converter', 'kicadSymbolki_description': '3W, 1000 VDC isolated DC/DC converter, 5V input, 15V output, SIP', 'kicadSymbolki_fp_filters': 'Converter*DCDC*Murata*MEE3SxxxxSC*THT*'}]|
 ||||

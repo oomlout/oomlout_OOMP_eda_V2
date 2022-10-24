@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SN65240|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-SN65240|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONSN6524|
-|Name|name|SN65240|
+|name|name|SN65240|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SN75240', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SN65240', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/sn65220.pdf', 'kicadSymbolki_keywords': 'USB suppressor', 'kicadSymbolki_description': 'USB port transient suppressors', 'kicadSymbolki_fp_filters': 'DIP*7.62mm* TSSOP*4.4x3mm*0.65mm*'}]|
 ||||

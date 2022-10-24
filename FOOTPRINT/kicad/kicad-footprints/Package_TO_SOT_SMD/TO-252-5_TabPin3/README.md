@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-252-5_TabPin3|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-252-5_TabPin3|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMTO2525TABPIN3|
-|Name|name|Package_TO_SOT_SMD : TO-252-5_TabPin3|
+|name|name|Package_TO_SOT_SMD : TO-252-5_TabPin3|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-252-5_TabPin3', 'description': 'TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-5-11/', 'tags': 'DPAK TO-252 DPAK-5 TO-252-5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-252-5_TabPin3.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-252-5_TabPin3/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-252-5_TabPin3/kicadPcb3d_450.png

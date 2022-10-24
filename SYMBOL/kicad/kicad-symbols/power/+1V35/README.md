@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|+1V35|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-+1V35|
 |Hex ID (short code)|hexID|SZKPOWER+1V35|
-|Name|name|+1V35|
+|name|name|+1V35|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': '+1V35', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "+1V35"'}]|
 ||||

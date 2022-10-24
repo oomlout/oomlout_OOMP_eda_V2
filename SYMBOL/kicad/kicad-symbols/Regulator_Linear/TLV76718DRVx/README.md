@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLV76718DRVx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV76718DRVx|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTLV76718DRVX|
-|Name|name|TLV76718DRVx|
+|name|name|TLV76718DRVx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TLV76750DRVx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV76718DRVx', 'kicadSymbolFootprint': 'Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias', 'kicadSymbolDatasheet': 'www.ti.com/lit/gpn/TLV767', 'kicadSymbolki_keywords': '1A Precision Linear Voltage Regulator', 'kicadSymbolki_description': '1A Precision Linear Voltage Regulator, with enable pin, Fixed Output 1.8V, WSON6', 'kicadSymbolki_fp_filters': 'WSON*1EP*2x2mm*P0.65*'}]|
 ||||

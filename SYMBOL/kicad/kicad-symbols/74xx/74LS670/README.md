@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS670|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS670|
 |Hex ID (short code)|hexID|SZK74XX74LS67|
-|Name|name|74LS670|
+|name|name|74LS670|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LS170', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS670', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS670', 'kicadSymbolki_keywords': 'TTL Register 3State', 'kicadSymbolki_description': '4 x 4 Register Files 3-State Outputs', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

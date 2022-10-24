@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAV16W|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAV16W|
 |Hex ID (short code)|hexID|SZKDIODEBAV16W|
-|Name|name|BAV16W|
+|name|name|BAV16W|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N4001', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAV16W', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-123', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/ds30086.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '75V 0.15A Fast Switching Diode, SOD-123', 'kicadSymbolki_fp_filters': 'D*SOD?123*'}]|
 ||||

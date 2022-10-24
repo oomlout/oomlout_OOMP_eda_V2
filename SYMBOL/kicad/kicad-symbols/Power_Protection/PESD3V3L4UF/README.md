@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PESD3V3L4UF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-PESD3V3L4UF|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONPESD3V3L4UF|
-|Name|name|PESD3V3L4UF|
+|name|name|PESD3V3L4UF|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'PESD3V3L4UF', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-886', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/PESDXL4UF_G_W.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Low capacitance unidirectional quadruple ESD protection diode array, 3.3V, Common Anode, SOT-886', 'kicadSymbolki_fp_filters': 'SOT?886*'}]|
 ||||

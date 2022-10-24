@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Wuerth_7499151120|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Wuerth_7499151120|
 |Hex ID (short code)|hexID|SZKCNWUERTH749915112|
-|Name|name|Wuerth_7499151120|
+|name|name|Wuerth_7499151120|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Wuerth_7499151120', 'kicadSymbolFootprint': 'Connector_RJ:RJ45_Wuerth_7499151120_Horizontal', 'kicadSymbolDatasheet': 'http://katalog.we-online.de/pbs/datasheet/7499151120.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'dual lan jack transformer', 'kicadSymbolki_description': 'Dual LAN Transformer Jack, RJ45, 10/100/1000 BaseT', 'kicadSymbolki_fp_filters': 'RJ45*Wuerth*7499151120*'}]|
 ||||

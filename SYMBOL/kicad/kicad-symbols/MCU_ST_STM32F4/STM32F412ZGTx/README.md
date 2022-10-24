@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F412ZGTx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F412ZGTx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F4STM32F412ZGTX|
-|Name|name|STM32F412ZGTx|
+|name|name|STM32F412ZGTx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STM32F412ZETx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F412ZGTx', 'kicadSymbolFootprint': 'Package_QFP:LQFP-144_20x20mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00213872.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32F4 STM32F412', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 1024KB flash, 256KB RAM, 100MHz, 1.7-3.6V, 114 GPIO, LQFP-144', 'kicadSymbolki_fp_filters': 'LQFP*20x20mm*P0.5mm*'}]|
 ||||

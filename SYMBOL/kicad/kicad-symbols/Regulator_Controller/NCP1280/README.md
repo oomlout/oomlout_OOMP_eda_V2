@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCP1280|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1280|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERNCP128|
-|Name|name|NCP1280|
+|name|name|NCP1280|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCP1280', 'kicadSymbolFootprint': 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/NCP1280-D.PDF', 'kicadSymbolki_keywords': 'SMPS Controller AC-DC', 'kicadSymbolki_description': 'Active Clamp Voltage Mode PWM Controller for Off-Line Applications, SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*3.9x9.9mm*P1.27mm*'}]|
 ||||

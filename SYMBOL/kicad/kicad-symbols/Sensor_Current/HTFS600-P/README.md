@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HTFS600-P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-HTFS600-P|
 |Hex ID (short code)|hexID|SZKSENCURRENTHTFS6P|
-|Name|name|HTFS600-P|
+|name|name|HTFS600-P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HTFS200-P', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HTFS600-P', 'kicadSymbolFootprint': 'Sensor_Current:LEM_HTFS', 'kicadSymbolDatasheet': 'https://www.lem.com/sites/default/files/products_datasheets/htfs_200_800-p.pdf', 'kicadSymbolki_keywords': 'current transducer', 'kicadSymbolki_description': 'Current Transducer, 600A, Unipolar, 5V', 'kicadSymbolki_fp_filters': 'LEM*HTFS*'}]|
 ||||

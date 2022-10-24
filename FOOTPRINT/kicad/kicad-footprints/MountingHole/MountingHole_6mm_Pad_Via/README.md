@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MountingHole_6mm_Pad_Via|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6mm_Pad_Via|
 |Hex ID (short code)|hexID|FZKHOLHOL6PADVIA|
-|Name|name|MountingHole : MountingHole_6mm_Pad_Via|
+|name|name|MountingHole : MountingHole_6mm_Pad_Via|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_6mm_Pad_Via', 'description': 'Mounting Hole 6mm', 'tags': 'mounting hole 6mm', 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_6mm_Pad_Via/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_6mm_Pad_Via/kicadPcb3d_450.png

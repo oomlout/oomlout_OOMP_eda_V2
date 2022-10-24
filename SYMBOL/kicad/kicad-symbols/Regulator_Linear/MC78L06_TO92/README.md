@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC78L06_TO92|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC78L06_TO92|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMC78L6TO92|
-|Name|name|MC78L06_TO92|
+|name|name|MC78L06_TO92|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC78L05_TO92', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC78L06_TO92', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MC78L00A-D.PDF', 'kicadSymbolki_keywords': 'Voltage Regulator 100mA Positive', 'kicadSymbolki_description': 'Positive 100mA 30V Linear Regulator, Fixed Output 6V, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

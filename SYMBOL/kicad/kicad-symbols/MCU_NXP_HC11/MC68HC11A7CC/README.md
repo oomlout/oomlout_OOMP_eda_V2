@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC68HC11A7CC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_HC11-MC68HC11A7CC|
 |Hex ID (short code)|hexID|SZKMCUNXPHC11MC68HC11A7CC|
-|Name|name|MC68HC11A7CC|
+|name|name|MC68HC11A7CC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC68HC11A8CC', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC68HC11A7CC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'HC11 MCU Microcotroller', 'kicadSymbolki_description': '8K ROM, 256B RAM, 512B EEPROM'}]|
 ||||

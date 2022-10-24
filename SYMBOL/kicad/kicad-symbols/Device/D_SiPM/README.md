@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_SiPM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_SiPM|
 |Hex ID (short code)|hexID|SZKDEVICEDSIPM|
-|Name|name|D_SiPM|
+|name|name|D_SiPM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_SiPM', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'SiPM MPPC SPAD photon counting', 'kicadSymbolki_description': 'Silicon photomultiplier', 'kicadSymbolki_fp_filters': 'MPPC*'}]|
 ||||

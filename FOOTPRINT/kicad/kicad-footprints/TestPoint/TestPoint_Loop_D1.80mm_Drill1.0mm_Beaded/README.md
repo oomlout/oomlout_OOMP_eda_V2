@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded|
 |Hex ID (short code)|hexID|FZKTPTPLOOPD18DRILL1BEADED|
-|Name|name|TestPoint : TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded|
+|name|name|TestPoint : TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded', 'description': 'wire loop with bead as test point, loop diameter 1.8mm, hole diameter 1.0mm', 'tags': 'test point wire loop bead', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

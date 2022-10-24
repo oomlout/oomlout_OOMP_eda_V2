@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LMV331|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Comparator-LMV331|
 |Hex ID (short code)|hexID|SZKCOMPARATORLMV331|
-|Name|name|LMV331|
+|name|name|LMV331|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LMV331', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lmv331.pdf', 'kicadSymbolki_keywords': 'single comparator', 'kicadSymbolki_description': 'Single General-Purpose Low-Voltage Comparator, SOT-23-5/SC-70-5', 'kicadSymbolki_fp_filters': 'SOT?23* *SC?70*'}]|
 ||||

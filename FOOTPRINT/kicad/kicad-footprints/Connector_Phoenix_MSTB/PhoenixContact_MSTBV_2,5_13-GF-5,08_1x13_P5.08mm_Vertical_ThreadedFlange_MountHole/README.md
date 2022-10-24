@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PhoenixContact_MSTBV_2,5_13-GF-5,08_1x13_P5.08mm_Vertical_ThreadedFlange_MountHole|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MSTB-PhoenixContact_MSTBV_2,5_13-GF-5,08_1x13_P5.08mm_Vertical_ThreadedFlange_MountHole|
 |Hex ID (short code)|hexID|FZKCNPHOENIXMSTBPHOENIXCONTACTMSTBV2513GF581X13P58VERTICALTHREADEDFLANGEMOUNTHOLE|
-|Name|name|Connector_Phoenix_MSTB : PhoenixContact_MSTBV_2,5_13-GF-5,08_1x13_P5.08mm_Vertical_ThreadedFlange_MountHole|
+|name|name|Connector_Phoenix_MSTB : PhoenixContact_MSTBV_2,5_13-GF-5,08_1x13_P5.08mm_Vertical_ThreadedFlange_MountHole|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PhoenixContact_MSTBV_2,5_13-GF-5,08_1x13_P5.08mm_Vertical_ThreadedFlange_MountHole', 'description': 'Generic Phoenix Contact connector footprint for: MSTBV_2,5/13-GF-5,08; number of pins: 13; pin pitch: 5.08mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) \|\| order number: 1777183 12A', 'tags': 'phoenix_contact connector MSTBV_01x13_GF_5.08mm_MH', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MSTB.3dshapes/PhoenixContact_MSTBV_2,5_13-GF-5,08_1x13_P5.08mm_Vertical_ThreadedFlange_MountHole.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_13-GF-5,08_1x13_P5.08mm_Vertical_ThreadedFlange_MountHole/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_13-GF-5,08_1x13_P5.08mm_Vertical_ThreadedFlange_MountHole/kicadPcb3d_450.png

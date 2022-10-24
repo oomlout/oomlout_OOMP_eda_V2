@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|APE8865NR-25-HF-3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-APE8865NR-25-HF-3|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARAPE8865NR25HF3|
-|Name|name|APE8865NR-25-HF-3|
+|name|name|APE8865NR-25-HF-3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'APE8865NR-12-HF-3', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'APE8865NR-25-HF-3', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.tme.eu/fr/Document/ced3461ed31ea70a3c416fb648e0cde7/APE8865-3.pdf', 'kicadSymbolki_keywords': '300mA LDO Regulator Fixed Positive', 'kicadSymbolki_description': '300mA Low Dropout Voltage Regulator, Fixed Output 2.5V, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

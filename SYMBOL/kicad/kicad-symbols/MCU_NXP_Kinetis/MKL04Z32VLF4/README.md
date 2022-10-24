@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MKL04Z32VLF4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL04Z32VLF4|
 |Hex ID (short code)|hexID|SZKMCUNXPKINETISMKL4Z32VLF4|
-|Name|name|MKL04Z32VLF4|
+|name|name|MKL04Z32VLF4|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MKL04Z32VLF4', 'kicadSymbolFootprint': 'Package_QFP:LQFP-48_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/docs/en/data-sheet/KL04P48M48SF1.pdf', 'kicadSymbolki_keywords': 'Kinetis KL04 ARM Cortex M0+', 'kicadSymbolki_description': 'Kinetis KL04 series, 48-MHz/32-bit ARM Cortex-M0+, 32 kB flash, 4 kB SRAM, LQFP-48', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.5mm*'}]|
 ||||

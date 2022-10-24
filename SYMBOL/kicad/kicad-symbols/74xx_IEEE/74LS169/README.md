@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS169|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS169|
 |Hex ID (short code)|hexID|SZK74XXIEEE74LS169|
-|Name|name|74LS169|
+|name|name|74LS169|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LS168', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS169', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

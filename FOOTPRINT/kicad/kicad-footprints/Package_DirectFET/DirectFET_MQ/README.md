@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DirectFET_MQ|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_MQ|
 |Hex ID (short code)|hexID|FZKDFETDIRECTFETMQ|
-|Name|name|Package_DirectFET : DirectFET_MQ|
+|name|name|Package_DirectFET : DirectFET_MQ|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DirectFET_MQ', 'description': 'DirectFET MQ https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=29', 'tags': 'DirectFET MQ MOSFET Infineon', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DirectFET.3dshapes/DirectFET_MQ.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DirectFET/DirectFET_MQ/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DirectFET/DirectFET_MQ/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-220-4_P5.08x2.54mm_StaggerOdd_Lead5.84mm_TabDown|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-4_P5.08x2.54mm_StaggerOdd_Lead5.84mm_TabDown|
 |Hex ID (short code)|hexID|FZKSOTTO224P58X254STAGGERODDLEAD584TABDOWN|
-|Name|name|Package_TO_SOT_THT : TO-220-4_P5.08x2.54mm_StaggerOdd_Lead5.84mm_TabDown|
+|name|name|Package_TO_SOT_THT : TO-220-4_P5.08x2.54mm_StaggerOdd_Lead5.84mm_TabDown|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-220-4_P5.08x2.54mm_StaggerOdd_Lead5.84mm_TabDown', 'description': 'TO-220-4, Horizontal, RM 2.54mm, staggered type-1', 'tags': 'TO-220-4 Horizontal RM 2.54mm staggered type-1', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220-4_P5.08x2.54mm_StaggerOdd_Lead5.84mm_TabDown.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-4_P5.08x2.54mm_StaggerOdd_Lead5.84mm_TabDown/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-4_P5.08x2.54mm_StaggerOdd_Lead5.84mm_TabDown/kicadPcb3d_450.png

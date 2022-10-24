@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA2156xD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2156xD|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA2156XD|
-|Name|name|OPA2156xD|
+|name|name|OPA2156xD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NCS2325D', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA2156xD', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/opa2156.pdf', 'kicadSymbolki_keywords': 'dual opamp low-noise r2r', 'kicadSymbolki_description': 'Dual 36V, Ultra Low Noise, Rail-to-Rail Input/Output, Low Offset Voltage, Operational Amplifier, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

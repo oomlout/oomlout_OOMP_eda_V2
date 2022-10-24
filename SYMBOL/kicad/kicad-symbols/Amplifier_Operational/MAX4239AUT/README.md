@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX4239AUT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MAX4239AUT|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALMAX4239AUT|
-|Name|name|MAX4239AUT|
+|name|name|MAX4239AUT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX4238AUT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX4239AUT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/MAX4238-MAX4239.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Ultra-Low Offset/Drift, Low-Noise, Precision Amplifiers, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

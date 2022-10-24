@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|FODM3011|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF-FODM3011|
 |Hex ID (short code)|hexID|SZKRFFODM311|
-|Name|name|FODM3011|
+|name|name|FODM3011|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FODM3011', 'kicadSymbolFootprint': 'Package_DIP:SMDIP-4_W7.62mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FODM3053_NF098-D.PDF', 'kicadSymbolki_keywords': 'Opto-Triac Opto Triac Random Phase Mini-Flat', 'kicadSymbolki_description': 'Full Pitch Mini-Flat Random Phase Opto-Triac, Vdrm 250V, Ift 10mA, MFP 4L', 'kicadSymbolki_fp_filters': 'SMDIP*W7.62mm*'}]|
 ||||

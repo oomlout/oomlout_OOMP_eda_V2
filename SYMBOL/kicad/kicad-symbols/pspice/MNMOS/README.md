@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MNMOS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-pspice-MNMOS|
 |Hex ID (short code)|hexID|SZKPSPICEMNMOS|
-|Name|name|MNMOS|
+|name|name|MNMOS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'M', 'kicadSymbolValue': 'MNMOS', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'mosfet nmos simulation', 'kicadSymbolki_description': 'N-channel MOSFET symbol for simulation only'}]|
 ||||

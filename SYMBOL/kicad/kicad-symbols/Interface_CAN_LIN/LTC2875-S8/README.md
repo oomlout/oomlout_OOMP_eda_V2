@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC2875-S8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-LTC2875-S8|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINLTC2875S8|
-|Name|name|LTC2875-S8|
+|name|name|LTC2875-S8|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC2875-S8', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/2875f.pdf', 'kicadSymbolki_keywords': 'High-Speed CAN Transceiver', 'kicadSymbolki_description': 'High-Speed CAN Transceiver, 4Mbps, 3.3V or 5V supply, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*P1.27mm*'}]|
 ||||

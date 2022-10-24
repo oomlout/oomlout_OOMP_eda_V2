@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC12LF1822-IP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12LF1822-IP|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC12PIC12LF1822IP|
-|Name|name|PIC12LF1822-IP|
+|name|name|PIC12LF1822-IP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC12F1822-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC12LF1822-IP', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41413B.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller XLP', 'kicadSymbolki_description': '2kW FLASH, 128B SRAM, 256 EEPROM, PDIP8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

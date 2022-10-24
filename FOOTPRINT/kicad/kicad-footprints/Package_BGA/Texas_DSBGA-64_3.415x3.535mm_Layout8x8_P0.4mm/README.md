@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Texas_DSBGA-64_3.415x3.535mm_Layout8x8_P0.4mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_DSBGA-64_3.415x3.535mm_Layout8x8_P0.4mm|
 |Hex ID (short code)|hexID|FZKBGATEXASDSBGA643415X3535LAYOUT8X8P4|
-|Name|name|Package_BGA : Texas_DSBGA-64_3.415x3.535mm_Layout8x8_P0.4mm|
+|name|name|Package_BGA : Texas_DSBGA-64_3.415x3.535mm_Layout8x8_P0.4mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Texas_DSBGA-64_3.415x3.535mm_Layout8x8_P0.4mm', 'description': 'Texas Instruments, DSBGA, 3.415x3.535x0.625mm, 64 ball 8x8 area grid, NSMD pad definition (http://www.ti.com/lit/ds/slas718g/slas718g.pdf, http://www.ti.com/lit/an/snva009ag/snva009ag.pdf)', 'tags': 'texas dsbga 64', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Texas_DSBGA-64_3.415x3.535mm_Layout8x8_P0.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-64_3.415x3.535mm_Layout8x8_P0.4mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-64_3.415x3.535mm_Layout8x8_P0.4mm/kicadPcb3d_450.png

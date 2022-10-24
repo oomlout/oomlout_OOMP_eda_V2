@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MKL16Z256VLH4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL16Z256VLH4|
 |Hex ID (short code)|hexID|SZKMCUNXPKINETISMKL16Z256VLH4|
-|Name|name|MKL16Z256VLH4|
+|name|name|MKL16Z256VLH4|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MKL16Z256VLH4', 'kicadSymbolFootprint': 'Package_QFP:LQFP-64_10x10mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/docs/en/data-sheet/KL16P64M48SF4.pdf', 'kicadSymbolki_keywords': 'Kinetis KL16 ARM Cortex M0+', 'kicadSymbolki_description': 'Kinetis KL16 series, 48-MHz/32-bit ARM Cortex-M0+, 256 kB flash, 32 kB SRAM, I²S, TSI, LQFP-64', 'kicadSymbolki_fp_filters': 'LQFP*10x10mm*P0.5mm*'}]|
 ||||

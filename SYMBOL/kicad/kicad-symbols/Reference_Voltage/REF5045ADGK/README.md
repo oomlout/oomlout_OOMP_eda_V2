@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|REF5045ADGK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF5045ADGK|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGEREF545ADGK|
-|Name|name|REF5045ADGK|
+|name|name|REF5045ADGK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'REF5020ADGK', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'REF5045ADGK', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ref5030.pdf', 'kicadSymbolki_keywords': 'Low Noise Precision Voltage Reference 4.5V', 'kicadSymbolki_description': '4.5V 0.1% 10mA Low Noise Precision Voltage Reference, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
 ||||

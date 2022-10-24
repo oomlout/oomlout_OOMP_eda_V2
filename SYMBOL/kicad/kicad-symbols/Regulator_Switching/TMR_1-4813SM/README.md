@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TMR_1-4813SM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TMR_1-4813SM|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTMR14813SM|
-|Name|name|TMR_1-4813SM|
+|name|name|TMR_1-4813SM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TMR_1-0511SM', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TMR_1-4813SM', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_TRACO_TMR-1SM_SMD', 'kicadSymbolDatasheet': 'http://assets.tracopower.com/TMR1SM/documents/tmr1sm-datasheet.pdf', 'kicadSymbolki_keywords': 'Murata isolated isolation dc-dc converter transformer', 'kicadSymbolki_description': '67mA Regulated 1W DC/DC converter with 1.5kV isolation, 36V-75V input, 15V fixed Output Voltage, SMD', 'kicadSymbolki_fp_filters': 'Converter*DCDC*TRACO*TMR?1SM*'}]|
 ||||

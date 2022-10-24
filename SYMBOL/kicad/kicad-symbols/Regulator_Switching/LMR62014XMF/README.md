@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LMR62014XMF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR62014XMF|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLMR6214XMF|
-|Name|name|LMR62014XMF|
+|name|name|LMR62014XMF|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LMR10510XMF', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LMR62014XMF', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lmr62014.pdf', 'kicadSymbolki_keywords': 'Miniature Step-Up Boost Voltage Regulator', 'kicadSymbolki_description': '1.4A, 20Vout Step-Up Voltage Regulator, 1.6MHz Frequency, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

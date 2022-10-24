@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCP718xSN330|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP718xSN330|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARNCP718XSN33|
-|Name|name|NCP718xSN330|
+|name|name|NCP718xSN330|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LP5907MFX-1.2', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCP718xSN330', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/NCP718-D.PDF', 'kicadSymbolki_keywords': 'Single Output LDO Wide Input', 'kicadSymbolki_description': '300-mA, Wide Input Voltage, Low-IQ LDO, 3.3V, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

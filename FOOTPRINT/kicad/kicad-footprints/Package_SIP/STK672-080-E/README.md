@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|STK672-080-E|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SIP-STK672-080-E|
 |Hex ID (short code)|hexID|FZKSIPSTK6728E|
-|Name|name|Package_SIP : STK672-080-E|
+|name|name|Package_SIP : STK672-080-E|
 |Footprint Kicad|footprintKicadDetails|{'name': 'STK672-080-E', 'description': 'SIP-15 (http://www.onsemi.com/pub_link/Collateral/EN6507-D.PDF)', 'tags': 'SIP-15', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/STK672-080-E.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SIP/STK672-080-E/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SIP/STK672-080-E/kicadPcb3d_450.png

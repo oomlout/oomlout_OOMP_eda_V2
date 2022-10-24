@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|UCC2894|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC2894|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERUCC2894|
-|Name|name|UCC2894|
+|name|name|UCC2894|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'UCC2892', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'UCC2894', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ucc2894.pdf', 'kicadSymbolki_keywords': 'SMPS PWM Controller', 'kicadSymbolki_description': 'SMPS Current-Mode Active Clamp PWM Controller, SOIC-16/TSSOP-16', 'kicadSymbolki_fp_filters': 'SOIC*3.9x9.9mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm*'}]|
 ||||

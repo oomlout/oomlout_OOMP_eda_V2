@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm|
 |Hex ID (short code)|hexID|FZKSOETSS21EP44X65P65EP3X42|
-|Name|name|Package_SO : ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm|
+|name|name|Package_SO : ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm', 'description': '20-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body with Exposed Pad [eTSSOP] (see Microchip Packaging Specification 00000049BS.pdf)', 'tags': 'SSOP 0.65', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm/kicadPcb3d_450.png

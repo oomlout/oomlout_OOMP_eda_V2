@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SILxx-1Axx-71x|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-SILxx-1Axx-71x|
 |Hex ID (short code)|hexID|SZKRELAYSILXX1AXX71X|
-|Name|name|SILxx-1Axx-71x|
+|name|name|SILxx-1Axx-71x|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'SILxx-1Axx-71x', 'kicadSymbolFootprint': 'Relay_THT:Relay_SPST_StandexMeder_SIL_Form1A', 'kicadSymbolDatasheet': 'https://standexelectronics.com/wp-content/uploads/datasheet_reed_relay_SIL.pdf', 'kicadSymbolki_keywords': 'Single Pole Reed Relay SPST', 'kicadSymbolki_description': 'Standex Meder SIL reed relay, SPST, Closing Contact', 'kicadSymbolki_fp_filters': 'Relay*SPST*StandexMeder*SIL*Form1A*'}]|
 ||||

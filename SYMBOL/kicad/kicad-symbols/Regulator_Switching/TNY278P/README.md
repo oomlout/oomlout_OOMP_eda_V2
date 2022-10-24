@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TNY278P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY278P|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTNY278P|
-|Name|name|TNY278P|
+|name|name|TNY278P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TNY274P', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TNY278P', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_PDIP-8C', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/tny274-280.pdf', 'kicadSymbolki_keywords': 'Energy-Efficient, Off-Line Switcher With Enhanced Flexibility and Extended Power Range', 'kicadSymbolki_description': 'TinySwitch-III Family, 21.5W Output Power, DIP-8C', 'kicadSymbolki_fp_filters': 'PowerIntegrations?PDIP?8C*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|REF5010IDGK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF5010IDGK|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGEREF51IDGK|
-|Name|name|REF5010IDGK|
+|name|name|REF5010IDGK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'REF5020ADGK', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'REF5010IDGK', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ref5030.pdf', 'kicadSymbolki_keywords': 'Low Noise Precision Voltage Reference 10V', 'kicadSymbolki_description': '10V 0.05% 10mA Low Noise Precision Voltage Reference, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
 ||||

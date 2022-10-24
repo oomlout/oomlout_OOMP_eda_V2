@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BC636|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC636|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBC636|
-|Name|name|BC636|
+|name|name|BC636|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC636', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/BC636-D.pdf', 'kicadSymbolki_keywords': 'PNP Transistor', 'kicadSymbolki_description': '1A Ic, 45V Vce, PNP Medium Power Transistor, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

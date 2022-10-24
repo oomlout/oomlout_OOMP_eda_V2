@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74AUC1G86|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-74AUC1G86|
 |Hex ID (short code)|hexID|SZK74XGXX74AUC1G86|
-|Name|name|74AUC1G86|
+|name|name|74AUC1G86|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LVC1G86', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AUC1G86', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf', 'kicadSymbolki_keywords': 'Single Gate EX-OR LVC CMOS', 'kicadSymbolki_description': 'Single EX-OR Gate, Low-Voltage CMOS', 'kicadSymbolki_fp_filters': 'SOT* SG-*'}]|
 ||||

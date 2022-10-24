@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPIC6595|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Expansion-TPIC6595|
 |Hex ID (short code)|hexID|SZKINTERFACEEXPANSIONTPIC6595|
-|Name|name|TPIC6595|
+|name|name|TPIC6595|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPIC6595', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tpic6595.pdf', 'kicadSymbolki_keywords': 'shift register 8bit', 'kicadSymbolki_description': 'Power Logic 8-bit Shift Register, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*7.5x12.8mm*P1.27mm* DIP*W7.62mm*'}]|
 ||||

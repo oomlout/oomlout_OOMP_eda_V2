@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|INA219AxDCN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-INA219AxDCN|
 |Hex ID (short code)|hexID|SZKANALOGADCINA219AXDCN|
-|Name|name|INA219AxDCN|
+|name|name|INA219AxDCN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'INA219AxDCN', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-8', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ina219.pdf', 'kicadSymbolki_keywords': 'ADC I2C 16-Bit Oversampling Current Shunt', 'kicadSymbolki_description': 'Zero-Drift, Bidirectional Current/Power Monitor (0-26V) With I2C Interface, SOT-23-8', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

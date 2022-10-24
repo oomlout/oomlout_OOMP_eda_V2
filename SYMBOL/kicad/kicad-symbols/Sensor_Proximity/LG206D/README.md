@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LG206D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Proximity-LG206D|
 |Hex ID (short code)|hexID|SZKSENPROXIMITYLG26D|
-|Name|name|LG206D|
+|name|name|LG206D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LG206D', 'kicadSymbolFootprint': 'OptoDevice:Kodenshi_LG206D', 'kicadSymbolDatasheet': 'http://kodenshi.co.jp/products/pdf/sensor/photointerrupter_ic/LG206D.pdf', 'kicadSymbolki_keywords': 'Photointerrupter infrared LED with photo IC, non-inverting output, -0.5V to 17V VDD, -20 to +85 degree Celsius, LG206D', 'kicadSymbolki_description': 'Photointerrupter infrared LED with photo IC, non-inverting output, -0.5V to 17V VDD, -20 to +85 degree Celsius, LG206D', 'kicadSymbolki_fp_filters': 'Kodenshi?LG206D*'}]|
 ||||

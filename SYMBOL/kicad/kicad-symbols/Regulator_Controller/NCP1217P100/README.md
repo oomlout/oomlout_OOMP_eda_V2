@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCP1217P100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1217P100|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERNCP1217P1|
-|Name|name|NCP1217P100|
+|name|name|NCP1217P100|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NCP1200P40', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCP1217P100', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/NCP1217-D.PDF', 'kicadSymbolki_keywords': 'SMPS Controller AC-DC', 'kicadSymbolki_description': 'Enhanced PWM Current-Mode Controller for High-Power Universal Off-Line Supplies, AC-DC, 100kHz, PDIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

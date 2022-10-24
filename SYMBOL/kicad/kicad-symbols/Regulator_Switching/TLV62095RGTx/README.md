@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLV62095RGTx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TLV62095RGTx|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTLV6295RGTX|
-|Name|name|TLV62095RGTx|
+|name|name|TLV62095RGTx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV62095RGTx', 'kicadSymbolFootprint': 'Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.68x1.68mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tlv62095.pdf', 'kicadSymbolki_keywords': 'Synchronous Buck', 'kicadSymbolki_description': 'High efficiency step-down converter', 'kicadSymbolki_fp_filters': 'VQFN*1EP*3x3mm*P0.5mm*'}]|
 ||||

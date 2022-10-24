@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD7228ACR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7228ACR|
 |Hex ID (short code)|hexID|SZKANALOGDACAD7228ACR|
-|Name|name|AD7228ACR|
+|name|name|AD7228ACR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AD7228ABR', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD7228ACR', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/static/imported-files/data_sheets/AD7228.pdf', 'kicadSymbolki_keywords': '8bit DAC 8CH', 'kicadSymbolki_description': '8bit DAC 8 Channel, Single Reference, SOIC-24', 'kicadSymbolki_fp_filters': 'SO*'}]|
 ||||

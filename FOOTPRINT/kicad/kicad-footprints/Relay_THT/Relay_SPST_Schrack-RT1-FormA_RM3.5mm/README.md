@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Relay_SPST_Schrack-RT1-FormA_RM3.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_Schrack-RT1-FormA_RM3.5mm|
 |Hex ID (short code)|hexID|FZKRELRELAYSPSTSCHRACKRT1FORMARM35|
-|Name|name|Relay_THT : Relay_SPST_Schrack-RT1-FormA_RM3.5mm|
+|name|name|Relay_THT : Relay_SPST_Schrack-RT1-FormA_RM3.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Relay_SPST_Schrack-RT1-FormA_RM3.5mm', 'description': 'Relay SPST Schrack-RT1 RM3.5mm 8A 250V AC Form A', 'tags': 'Relay SPST Schrack-RT1 RM3.5mm 8A 250V AC Relay', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPST_Schrack-RT1-FormA_RM3.5mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Schrack-RT1-FormA_RM3.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Schrack-RT1-FormA_RM3.5mm/kicadPcb3d_450.png

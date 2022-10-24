@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PhoenixContact_MSTBA_2,5_14-G_1x14_P5.00mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MSTB-PhoenixContact_MSTBA_2,5_14-G_1x14_P5.00mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNPHOENIXMSTBPHOENIXCONTACTMSTBA2514G1X14P5HORIZONTAL|
-|Name|name|Connector_Phoenix_MSTB : PhoenixContact_MSTBA_2,5_14-G_1x14_P5.00mm_Horizontal|
+|name|name|Connector_Phoenix_MSTB : PhoenixContact_MSTBA_2,5_14-G_1x14_P5.00mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PhoenixContact_MSTBA_2,5_14-G_1x14_P5.00mm_Horizontal', 'description': 'Generic Phoenix Contact connector footprint for: MSTBA_2,5/14-G; number of pins: 14; pin pitch: 5.00mm; Angled \|\| order number: 1757585 12A', 'tags': 'phoenix_contact connector MSTBA_01x14_G_5.00mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MSTB.3dshapes/PhoenixContact_MSTBA_2,5_14-G_1x14_P5.00mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBA_2,5_14-G_1x14_P5.00mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBA_2,5_14-G_1x14_P5.00mm_Horizontal/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_BGAR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_BGAR|
 |Hex ID (short code)|hexID|SZKDEVICELBGAR|
-|Name|name|LED_BGAR|
+|name|name|LED_BGAR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_BGAR', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED RGB diode', 'kicadSymbolki_description': 'RGB LED, blue/green/anode/red', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

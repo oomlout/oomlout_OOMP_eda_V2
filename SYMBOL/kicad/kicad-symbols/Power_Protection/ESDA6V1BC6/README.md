@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ESDA6V1BC6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-ESDA6V1BC6|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONESDA6V1BC6|
-|Name|name|ESDA6V1BC6|
+|name|name|ESDA6V1BC6|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'ESDA6V1BC6', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.st.com/content/ccc/resource/technical/document/datasheet/21/07/21/e3/a8/df/42/a2/CD00001906.pdf/files/CD00001906.pdf/jcr:content/translations/en.CD00001906.pdf', 'kicadSymbolki_keywords': 'ESD protection suppression transient', 'kicadSymbolki_description': 'Quad bidirectional transil, Suppressor for ESD protection, 5V Standoff, 4 Channels, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADC1173|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC1173|
 |Hex ID (short code)|hexID|SZKANALOGADCADC1173|
-|Name|name|ADC1173|
+|name|name|ADC1173|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADC1173', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/adc1173.pdf', 'kicadSymbolki_keywords': 'ADC CAN VIDEO', 'kicadSymbolki_description': 'Fast ADC  (15 Mhz), TSSOP-24'}]|
 ||||

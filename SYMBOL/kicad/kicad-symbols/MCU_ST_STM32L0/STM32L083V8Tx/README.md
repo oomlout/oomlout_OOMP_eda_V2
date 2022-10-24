@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32L083V8Tx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L083V8Tx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32LSTM32L83V8TX|
-|Name|name|STM32L083V8Tx|
+|name|name|STM32L083V8Tx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32L083V8Tx', 'kicadSymbolFootprint': 'Package_QFP:LQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00140762.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M0+ STM32L0 STM32L0x3', 'kicadSymbolki_description': 'ARM Cortex-M0+ MCU, 64KB flash, 20KB RAM, 32MHz, 1.65-3.6V, 84 GPIO, LQFP-100', 'kicadSymbolki_fp_filters': 'LQFP*14x14mm*P0.5mm*'}]|
 ||||

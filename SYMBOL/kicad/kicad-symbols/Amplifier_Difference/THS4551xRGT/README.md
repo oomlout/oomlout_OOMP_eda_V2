@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|THS4551xRGT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Difference-THS4551xRGT|
 |Hex ID (short code)|hexID|SZKAMPLIFIERDIFFERENCETHS4551XRGT|
-|Name|name|THS4551xRGT|
+|name|name|THS4551xRGT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'THS4551xRGT', 'kicadSymbolFootprint': 'Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.68x1.68mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/ths4551.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'differential amplifier', 'kicadSymbolki_description': 'Low-Noise Precision Fully Differential Amplifier, VQFN-16', 'kicadSymbolki_fp_filters': 'VQFN*1EP*3x3mm*P0.5mm*'}]|
 ||||

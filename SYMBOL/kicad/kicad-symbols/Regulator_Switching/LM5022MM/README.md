@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM5022MM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5022MM|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM522|
-|Name|name|LM5022MM|
+|name|name|LM5022MM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM5022MM', 'kicadSymbolFootprint': 'Package_SO:MSOP-10_3x3mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm5022.pdf', 'kicadSymbolki_keywords': 'boost switching controller', 'kicadSymbolki_description': '60-V Low-Side Controller for Boost and SEPIC, MSOP-10', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.5mm*'}]|
 ||||

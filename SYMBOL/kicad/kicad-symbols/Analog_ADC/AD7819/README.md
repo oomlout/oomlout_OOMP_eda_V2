@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD7819|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7819|
 |Hex ID (short code)|hexID|SZKANALOGADCAD7819|
-|Name|name|AD7819|
+|name|name|AD7819|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD7819', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD7819.pdf', 'kicadSymbolki_keywords': 'CAD', 'kicadSymbolki_description': 'Analog to Digital 8 bits converter, PDIP/SOIC/TSSOP-16'}]|
 ||||

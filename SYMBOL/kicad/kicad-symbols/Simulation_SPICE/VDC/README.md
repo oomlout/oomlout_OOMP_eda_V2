@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VDC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VDC|
 |Hex ID (short code)|hexID|SZKSIMULATIONSPICEVDC|
-|Name|name|VDC|
+|name|name|VDC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'V', 'kicadSymbolValue': 'VDC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolSpice_Netlist_Enabled': 'Y', 'kicadSymbolSpice_Primitive': 'V', 'kicadSymbolSpice_Model': 'dc(1)', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Voltage source, DC'}]|
 ||||

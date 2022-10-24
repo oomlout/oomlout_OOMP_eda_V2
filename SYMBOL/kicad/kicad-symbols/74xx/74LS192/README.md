@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS192|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS192|
 |Hex ID (short code)|hexID|SZK74XX74LS192|
-|Name|name|74LS192|
+|name|name|74LS192|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS192', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/sn74ls193.pdf', 'kicadSymbolki_keywords': 'TTL CNT CNT4', 'kicadSymbolki_description': 'Synchronous 4-bit Up/Down (2 clk) counter', 'kicadSymbolki_fp_filters': 'SOIC*3.9x9.9mm*P1.27mm* DIP*W7.62mm*'}]|
 ||||

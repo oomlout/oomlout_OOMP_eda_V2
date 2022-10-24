@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32L011F3Px|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L011F3Px|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32LSTM32L11F3PX|
-|Name|name|STM32L011F3Px|
+|name|name|STM32L011F3Px|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32L011F3Px', 'kicadSymbolFootprint': 'Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00206508.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M0+ STM32L0 STM32L0x1', 'kicadSymbolki_description': 'ARM Cortex-M0+ MCU, 8KB flash, 2KB RAM, 32MHz, 1.65-3.6V, 16 GPIO, TSSOP-20', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x6.5mm*P0.65mm*'}]|
 ||||

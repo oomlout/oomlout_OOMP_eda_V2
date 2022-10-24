@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NetTie_4_Cross|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-NetTie_4_Cross|
 |Hex ID (short code)|hexID|SZKDEVICENT4CROSS|
-|Name|name|NetTie_4_Cross|
+|name|name|NetTie_4_Cross|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'NT', 'kicadSymbolValue': 'NetTie_4_Cross', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'net tie short', 'kicadSymbolki_description': 'Net tie, 4 pins, cross', 'kicadSymbolki_fp_filters': 'Net*Tie*'}]|
 ||||

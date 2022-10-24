@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|BGA-625_21.0x21.0mm_Layout25x25_P0.8mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-625_21.0x21.0mm_Layout25x25_P0.8mm|
 |Hex ID (short code)|hexID|FZKBGABGA62521X21LAYOUT25X25P8|
-|Name|name|Package_BGA : BGA-625_21.0x21.0mm_Layout25x25_P0.8mm|
+|name|name|Package_BGA : BGA-625_21.0x21.0mm_Layout25x25_P0.8mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'BGA-625_21.0x21.0mm_Layout25x25_P0.8mm', 'description': 'BGA-625', 'tags': 'BGA-625', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-625_21.0x21.0mm_Layout25x25_P0.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-625_21.0x21.0mm_Layout25x25_P0.8mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-625_21.0x21.0mm_Layout25x25_P0.8mm/kicadPcb3d_450.png

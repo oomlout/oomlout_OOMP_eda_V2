@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ICE2PCS04|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-ICE2PCS04|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERICE2PCS4|
-|Name|name|ICE2PCS04|
+|name|name|ICE2PCS04|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ICE1PCS02', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ICE2PCS04', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-ICE2PCS04-DS-v02_01-en.pdf?fileId=db3a30431936bc4b01193b4e467952a9', 'kicadSymbolki_keywords': 'SMPS pfc controller', 'kicadSymbolki_description': 'Standalone PFC Controller in CCM With Input Brown-Out Protection, 133kHz, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'}]|
 ||||

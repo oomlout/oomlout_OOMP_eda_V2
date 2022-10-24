@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BPW34|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW34|
 |Hex ID (short code)|hexID|SZKSENOPTICALBPW34|
-|Name|name|BPW34|
+|name|name|BPW34|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BPW34', 'kicadSymbolFootprint': 'OptoDevice:Osram_DIL2_4.3x4.65mm_P5.08mm', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/81521/bpw34.pdf', 'kicadSymbolki_keywords': 'opto PIN photodiode', 'kicadSymbolki_description': 'Silicon PIN Photodiode', 'kicadSymbolki_fp_filters': 'Osram*DIL2*4.3x4.65mm*P5.08*'}]|
 ||||

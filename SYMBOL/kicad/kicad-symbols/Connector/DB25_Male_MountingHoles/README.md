@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DB25_Male_MountingHoles|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DB25_Male_MountingHoles|
 |Hex ID (short code)|hexID|SZKCNDB25MALEHOLS|
-|Name|name|DB25_Male_MountingHoles|
+|name|name|DB25_Male_MountingHoles|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DB25_Male_MountingHoles', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'male D-SUB connector', 'kicadSymbolki_description': '25-pin male D-SUB connector, Mounting Hole', 'kicadSymbolki_fp_filters': 'DSUB*Male*'}]|
 ||||

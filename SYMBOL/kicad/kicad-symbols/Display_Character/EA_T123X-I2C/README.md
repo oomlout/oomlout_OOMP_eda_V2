@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EA_T123X-I2C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-EA_T123X-I2C|
 |Hex ID (short code)|hexID|SZKDICHARACTEREAT123XI2C|
-|Name|name|EA_T123X-I2C|
+|name|name|EA_T123X-I2C|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EA_T123X-I2C', 'kicadSymbolFootprint': 'Display:EA_T123X-I2C', 'kicadSymbolDatasheet': 'http://www.lcd-module.de/pdf/doma/t123-i2c.pdf', 'kicadSymbolki_keywords': 'display LCD 7-segment', 'kicadSymbolki_description': '3 Lines, 12 character alpha numeric LCD, transreflective STN and FSTN Gray, I2C, single or dual power', 'kicadSymbolki_fp_filters': 'EA?T123X?I2C*'}]|
 ||||

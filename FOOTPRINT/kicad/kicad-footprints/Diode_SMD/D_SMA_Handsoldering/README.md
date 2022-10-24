@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|D_SMA_Handsoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMA_Handsoldering|
 |Hex ID (short code)|hexID|FZKDIODESMDSHANDSOLDERING|
-|Name|name|Diode_SMD : D_SMA_Handsoldering|
+|name|name|Diode_SMD : D_SMA_Handsoldering|
 |Footprint Kicad|footprintKicadDetails|{'name': 'D_SMA_Handsoldering', 'description': 'Diode SMA (DO-214AC) Handsoldering', 'tags': 'Diode SMA (DO-214AC) Handsoldering', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMA.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SMA_Handsoldering/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SMA_Handsoldering/kicadPcb3d_450.png

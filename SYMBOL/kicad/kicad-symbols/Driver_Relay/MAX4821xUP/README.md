@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX4821xUP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Relay-MAX4821xUP|
 |Hex ID (short code)|hexID|SZKDRIVERRELAYMAX4821XUP|
-|Name|name|MAX4821xUP|
+|name|name|MAX4821xUP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX4821xUP', 'kicadSymbolFootprint': 'Package_SO:HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP2.85x4mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX4820-MAX4821.pdf', 'kicadSymbolki_keywords': 'Relay Driver', 'kicadSymbolki_description': '8-Channel Parallel Interface Low-Side Driver, TSSOP-20', 'kicadSymbolki_fp_filters': '*TSSOP*4.4x6.5mm*P0.65mm*'}]|
 ||||

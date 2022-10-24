@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|UMS05-1A80-75L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-UMS05-1A80-75L|
 |Hex ID (short code)|hexID|SZKRELAYUMS51A875L|
-|Name|name|UMS05-1A80-75L|
+|name|name|UMS05-1A80-75L|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'UMS05-1A80-75L', 'kicadSymbolFootprint': 'Relay_THT:Relay_StandexMeder_UMS', 'kicadSymbolDatasheet': 'https://standexelectronics.com/de/produkte/ums-reed-relais/', 'kicadSymbolki_keywords': 'Single Pole Reed Relay SPST', 'kicadSymbolki_description': 'Standex Meder UMS reed relay, SPST, Closing Contact', 'kicadSymbolki_fp_filters': 'Relay*StandexMeder*UMS*'}]|
 ||||

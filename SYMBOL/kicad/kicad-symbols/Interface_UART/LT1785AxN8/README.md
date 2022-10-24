@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1785AxN8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-LT1785AxN8|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTLT1785AXN8|
-|Name|name|LT1785AxN8|
+|name|name|LT1785AxN8|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LT1785xN8', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1785AxN8', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/LT1785-1785A-1791-1791A.pdf', 'kicadSymbolki_keywords': 'RS485 RS422 transceiver half duplex', 'kicadSymbolki_description': 'RS-485, RS-422 Half duplex 250kbps transceiver, fail-safe receiver, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

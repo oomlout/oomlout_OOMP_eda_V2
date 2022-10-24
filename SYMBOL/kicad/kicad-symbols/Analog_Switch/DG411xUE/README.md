@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DG411xUE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-DG411xUE|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHDG411XUE|
-|Name|name|DG411xUE|
+|name|name|DG411xUE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DG411xUE', 'kicadSymbolFootprint': 'Package_SO:TSSOP-16_4.4x5mm_P0.65mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/DG411-DG413.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Quad SPST Monolithic CMOS Analog Switches, normally ON, 17Ohm Ron, TSSOP-16', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x5mm*P0.65mm*'}]|
 ||||

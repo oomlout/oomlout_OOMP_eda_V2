@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA551U|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA551U|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA551U|
-|Name|name|OPA551U|
+|name|name|OPA551U|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA551U', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/opa551.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'High-Voltage High-Current Operational Amplifier, bandwidth 3MHz, slew-rate 15V/us, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

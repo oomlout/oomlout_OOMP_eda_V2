@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F405RGTx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F405RGTx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F4STM32F45RGTX|
-|Name|name|STM32F405RGTx|
+|name|name|STM32F405RGTx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F405RGTx', 'kicadSymbolFootprint': 'Package_QFP:LQFP-64_10x10mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00037051.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32F4 STM32F405/415', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 1024KB flash, 128KB RAM, 168MHz, 1.8-3.6V, 51 GPIO, LQFP-64', 'kicadSymbolki_fp_filters': 'LQFP*10x10mm*P0.5mm*'}]|
 ||||

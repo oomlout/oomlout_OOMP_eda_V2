@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Zener_Dual_CommonAnode_KKA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonAnode_KKA|
 |Hex ID (short code)|hexID|SZKDEVICEDZENERDUALCOONANODEKKA|
-|Name|name|D_Zener_Dual_CommonAnode_KKA|
+|name|name|D_Zener_Dual_CommonAnode_KKA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Zener_Dual_CommonAnode_KKA', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'diode zener dual', 'kicadSymbolki_description': 'Dual Zener diode, common anode on pin 3', 'kicadSymbolki_fp_filters': 'SOT* SC*'}]|
 ||||

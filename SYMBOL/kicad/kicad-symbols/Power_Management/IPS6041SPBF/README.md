@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IPS6041SPBF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-IPS6041SPBF|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTIPS641SPBF|
-|Name|name|IPS6041SPBF|
+|name|name|IPS6041SPBF|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IPS6011SPBF', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IPS6041SPBF', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-5_TabPin3', 'kicadSymbolDatasheet': 'http://www.irf.com/product-info/datasheets/data/ips6041pbf.pdf', 'kicadSymbolki_keywords': 'Intelligent Power Switch High Side MOSFET', 'kicadSymbolki_description': '39V, 5A, Intelligent Power Switch High Side, D2PAK 5pin', 'kicadSymbolki_fp_filters': 'TO?263*'}]|
 ||||

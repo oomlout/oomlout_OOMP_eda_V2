@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC5VLX85-FF1153|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VLX85-FF1153|
 |Hex ID (short code)|hexID|SZKFPGAXILINXVIRTEX5XC5VLX85FF1153|
-|Name|name|XC5VLX85-FF1153|
+|name|name|XC5VLX85-FF1153|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC5VLX85-FF1153', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Virtex 5 LX 85 XC5VLX85-FF1153'}]|
 ||||

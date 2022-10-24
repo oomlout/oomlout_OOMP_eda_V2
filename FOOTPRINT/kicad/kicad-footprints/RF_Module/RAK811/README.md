@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RAK811|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-RAK811|
 |Hex ID (short code)|hexID|FZKRFMORAK811|
-|Name|name|RF_Module : RAK811|
+|name|name|RF_Module : RAK811|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RAK811', 'description': 'RAK811 LPWAN Module https://downloads.rakwireless.com/LoRa/RAK811/Hardware_Specification/RAK811_LoRa_Module_Datasheet_V1.4.pdf', 'tags': 'LoRa LoRaWAN RAK811', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/RAK811.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LIS3DH|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Motion-LIS3DH|
 |Hex ID (short code)|hexID|SZKSENMOTIONLIS3DH|
-|Name|name|LIS3DH|
+|name|name|LIS3DH|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LIS3DH', 'kicadSymbolFootprint': 'Package_LGA:LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/cd00274221.pdf', 'kicadSymbolki_keywords': '3-axis accelerometer i2c spi mems', 'kicadSymbolki_description': '3-Axis Accelerometer, 2/4/8/16g range, I2C/SPI interface, LGA-16', 'kicadSymbolki_fp_filters': 'LGA*3x3mm*P0.5mm*LayoutBorder3x5y*'}]|
 ||||

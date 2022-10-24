@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC7VX550T-FFG1927|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VX550T-FFG1927|
 |Hex ID (short code)|hexID|SZKFPGAXILINXVIRTEX7XC7VX55TFFG1927|
-|Name|name|XC7VX550T-FFG1927|
+|name|name|XC7VX550T-FFG1927|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC7VX550T-FFG1927', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Virtex 7 XT 550 XC7VX550T-FFG1927'}]|
 ||||

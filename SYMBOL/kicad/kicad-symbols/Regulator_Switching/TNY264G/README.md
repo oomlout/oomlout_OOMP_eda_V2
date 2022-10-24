@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TNY264G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY264G|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTNY264G|
-|Name|name|TNY264G|
+|name|name|TNY264G|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TNY263G', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TNY264G', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_SMD-8B', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/tny263_268.pdf', 'kicadSymbolki_keywords': 'Enhanced, Energy Efficient, Low Power Off-line Switcher', 'kicadSymbolki_description': 'TinySwitch-II Family, 6W Output Power, SMD-8B', 'kicadSymbolki_fp_filters': 'PowerIntegrations?SMD?8B*'}]|
 ||||

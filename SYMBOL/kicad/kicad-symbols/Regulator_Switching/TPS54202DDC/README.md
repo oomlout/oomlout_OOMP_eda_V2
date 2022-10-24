@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS54202DDC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54202DDC|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS5422DDC|
-|Name|name|TPS54202DDC|
+|name|name|TPS54202DDC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS54302', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS54202DDC', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps54202.pdf', 'kicadSymbolki_keywords': 'switching buck converter power-supply voltage regulator emi spread spectrum', 'kicadSymbolki_description': '2A, 4.5 to 28V Input, EMI Friendly integrated switch synchronous step-down regulator, pulse-skipping, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

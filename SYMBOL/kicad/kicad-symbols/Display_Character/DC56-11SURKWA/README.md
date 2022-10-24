@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DC56-11SURKWA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-DC56-11SURKWA|
 |Hex ID (short code)|hexID|SZKDICHARACTERDC5611SURKWA|
-|Name|name|DC56-11SURKWA|
+|name|name|DC56-11SURKWA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DC56-11SURKWA', 'kicadSymbolFootprint': 'Display_7Segment:DA56-11SURKWA', 'kicadSymbolDatasheet': 'http://www.kingbright.com/attachments/file/psearch/000/00/00/DC56-11SURKWA(Ver.8A).pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'Double digit 7 segment hyper red LED common cathode', 'kicadSymbolki_fp_filters': '*DA56*11*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TDA7052A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7052A|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOTDA752A|
-|Name|name|TDA7052A|
+|name|name|TDA7052A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDA7052A', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.nxp.com/docs/en/data-sheet/TDA7052A_AT.pdf', 'kicadSymbolki_keywords': 'audio amplifier', 'kicadSymbolki_description': '1W BTL mono audio amplifier with DC volume control, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*7.5x9mm*P1.27mm* DIP*W7.62mm*'}]|
 ||||

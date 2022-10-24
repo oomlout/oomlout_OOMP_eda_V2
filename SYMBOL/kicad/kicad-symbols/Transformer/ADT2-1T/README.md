@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADT2-1T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-ADT2-1T|
 |Hex ID (short code)|hexID|SZKTRADT21T|
-|Name|name|ADT2-1T|
+|name|name|ADT2-1T|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TR', 'kicadSymbolValue': 'ADT2-1T', 'kicadSymbolFootprint': 'RF_Mini-Circuits:Mini-Circuits_CD542_H2.84mm', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/ADT2-1T+.pdf', 'kicadSymbolki_keywords': 'Mini-Circuits RF Transformer', 'kicadSymbolki_description': '0.40-450MHz 1:2 RF Transformer, Unbalanced to Balanced Center Tap, CD542', 'kicadSymbolki_fp_filters': 'Mini?Circuits*CD542*'}]|
 ||||

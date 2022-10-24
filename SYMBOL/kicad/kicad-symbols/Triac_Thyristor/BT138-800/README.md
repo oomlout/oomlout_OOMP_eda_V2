@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BT138-800|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BT138-800|
 |Hex ID (short code)|hexID|SZKTRIACTHYRISTORBT1388|
-|Name|name|BT138-800|
+|name|name|BT138-800|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TIC226', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BT138-800', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BT138_SER_D_E.pdf', 'kicadSymbolki_keywords': 'Triac', 'kicadSymbolki_description': '12A RMS, 800V Off-State Voltage, Triac, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

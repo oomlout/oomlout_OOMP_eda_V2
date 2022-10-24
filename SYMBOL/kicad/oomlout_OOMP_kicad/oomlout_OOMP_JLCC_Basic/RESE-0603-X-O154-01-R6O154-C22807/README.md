@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O154-01-R6O154-C22807|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O154-01-R6O154-C22807|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE63XO1541R6O154C2287|
-|Name|name|RESE-0603-X-O154-01-R6O154-C22807|
+|name|name|RESE-0603-X-O154-01-R6O154-C22807|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O154-01-R6O154-C22807', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O154-01-R6O154-C22807', 'kicadSymbolDatasheet': 'oom.lt/R6O154', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6O154;PARTL C-JLCC;C22807;MANUF C-XXXX;0603WAF1503T5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-W04-X-O102-01-R4102|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O102-01-R4102|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESEW4XO121R412|
-|Name|name|RESE-W04-X-O102-01-R4102|
+|name|name|RESE-W04-X-O102-01-R4102|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-W04-X-O102-01-R4102', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-W04-X-O102-01-R4102', 'kicadSymbolDatasheet': 'oom.lt/R4102', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R4102;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

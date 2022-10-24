@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L78L09_TO92|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-L78L09_TO92|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARL78L9TO92|
-|Name|name|L78L09_TO92|
+|name|name|L78L09_TO92|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC78L05_TO92', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'L78L09_TO92', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf', 'kicadSymbolki_keywords': 'Voltage Regulator 100mA Positive', 'kicadSymbolki_description': 'Positive 100mA 30V Linear Regulator, Fixed Output 9V, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

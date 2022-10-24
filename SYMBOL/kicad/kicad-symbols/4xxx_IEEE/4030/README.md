@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4030|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4030|
 |Hex ID (short code)|hexID|SZK4XXXIEEE43|
-|Name|name|4030|
+|name|name|4030|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4030', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

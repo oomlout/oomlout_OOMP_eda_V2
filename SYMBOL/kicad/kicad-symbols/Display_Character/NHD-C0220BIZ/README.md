@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NHD-C0220BIZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-NHD-C0220BIZ|
 |Hex ID (short code)|hexID|SZKDICHARACTERNHDC22BIZ|
-|Name|name|NHD-C0220BIZ|
+|name|name|NHD-C0220BIZ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NHD-C0220BIZ', 'kicadSymbolFootprint': 'Display:NHD-C0220BiZ', 'kicadSymbolDatasheet': 'http://www.newhavendisplay.com/specs/NHD-C0220BiZ-FSW-FBW-3V3M.pdf', 'kicadSymbolki_keywords': 'display LCD 20x2', 'kicadSymbolki_description': 'LCD 20x2 Alphanumeric 10pin Blue/White/Green Backlight, i2c, 3.3V VDD', 'kicadSymbolki_fp_filters': 'NHD*C0220BiZ*'}]|
 ||||

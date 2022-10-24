@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF6894M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6894M|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF6894M|
-|Name|name|IRF6894M|
+|name|name|IRF6894M|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSB008NE2LX', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF6894M', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_MX', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-IRF6894M-DS-v02_00-EN.pdf?fileId=5546d462533600a4015355f0cc041abc', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '37A Id, 25V Vds, 1.3mOhm Rds, N-Channel MOSFET, DirectFET MX', 'kicadSymbolki_fp_filters': 'DirectFET*MX*'}]|
 ||||

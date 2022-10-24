@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LR8N3-G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LR8N3-G|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLR8N3G|
-|Name|name|LR8N3-G|
+|name|name|LR8N3-G|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LR8N3-G', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://www.supertex.com/pdf/datasheets/LR8.pdf', 'kicadSymbolki_keywords': 'High-Voltage Regulator Adjustable Positive', 'kicadSymbolki_description': '30mA 450V High-Voltage Linear Regulator (Adjustable), TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

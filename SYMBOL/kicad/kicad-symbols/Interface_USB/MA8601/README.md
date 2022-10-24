@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MA8601|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-MA8601|
 |Hex ID (short code)|hexID|SZKINTERFACEUMA861|
-|Name|name|MA8601|
+|name|name|MA8601|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MA8601', 'kicadSymbolFootprint': 'Package_SO:SSOP-28_3.9x9.9mm_P0.635mm', 'kicadSymbolDatasheet': 'https://datasheetspdf.com/pdf-file/1312067/Prolific/MA8601/1', 'kicadSymbolki_keywords': '4-Port, EEPROM, High Speed, Hub, USB2.0', 'kicadSymbolki_description': 'USB 2.0 High Speed 4-Port Hub Controller, SSOP-28', 'kicadSymbolki_fp_filters': 'SSOP*3.9x9.9mm*P0.635mm*'}]|
 ||||

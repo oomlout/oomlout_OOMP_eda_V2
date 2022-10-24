@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|JTE0624D12|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-JTE0624D12|
 |Hex ID (short code)|hexID|SZKCONJTE624D12|
-|Name|name|JTE0624D12|
+|name|name|JTE0624D12|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'JTE0624D03', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'JTE0624D12', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_XP_POWER_JTExxxxDxx_THT', 'kicadSymbolDatasheet': 'https://www.xppower.com/Portals/0/pdfs/SF_JTE06.pdf', 'kicadSymbolki_keywords': 'XP_POWER isolated DC/DC Converter module', 'kicadSymbolki_description': 'XP Power 6W Isolated DC/DC Converter Module, Dual Output Voltage ±12V, 9-36V Input Voltage', 'kicadSymbolki_fp_filters': '*XP?POWER*JTExxxxDxx*'}]|
 ||||

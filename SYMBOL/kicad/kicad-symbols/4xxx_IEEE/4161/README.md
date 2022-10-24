@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4161|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4161|
 |Hex ID (short code)|hexID|SZK4XXXIEEE4161|
-|Name|name|4161|
+|name|name|4161|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4161', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

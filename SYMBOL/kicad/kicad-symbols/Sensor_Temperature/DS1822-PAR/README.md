@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DS1822-PAR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS1822-PAR|
 |Hex ID (short code)|hexID|SZKSENTEMPERATUREDS1822PAR|
-|Name|name|DS1822-PAR|
+|name|name|DS1822-PAR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX31820PAR', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DS1822-PAR', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/DS1822-PAR.pdf', 'kicadSymbolki_keywords': 'OneWire 1Wire Maxim Dallas', 'kicadSymbolki_description': 'Econo 1-Wire Parasite-Power Digital Thermometer TO-92', 'kicadSymbolki_fp_filters': 'TO*92*'}]|
 ||||

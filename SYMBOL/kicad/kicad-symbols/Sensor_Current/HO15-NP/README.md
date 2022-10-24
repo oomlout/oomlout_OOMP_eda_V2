@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HO15-NP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-HO15-NP|
 |Hex ID (short code)|hexID|SZKSENCURRENTHO15NP|
-|Name|name|HO15-NP|
+|name|name|HO15-NP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HO8-NP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HO15-NP', 'kicadSymbolFootprint': 'Sensor_Current:LEM_HO8-NP', 'kicadSymbolDatasheet': 'https://www.lem.com/sites/default/files/products_datasheets/ho-np-0000_series.pdf', 'kicadSymbolki_keywords': 'current transducer', 'kicadSymbolki_description': 'Current Transducer, 15A, Unipolar, 5V', 'kicadSymbolki_fp_filters': 'LEM*HO8*NP*'}]|
 ||||

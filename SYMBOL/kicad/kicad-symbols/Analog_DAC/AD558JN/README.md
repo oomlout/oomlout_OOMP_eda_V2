@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD558JN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-AD558JN|
 |Hex ID (short code)|hexID|SZKANALOGDACAD558JN|
-|Name|name|AD558JN|
+|name|name|AD558JN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD558JN', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/static/imported-files/data_sheets/AD558.pdf', 'kicadSymbolki_keywords': '8bit DAC Reference Single Supply', 'kicadSymbolki_description': 'Single 8-bit DAC, Internal Reference, Output Amp, Single Supply, DIP-16', 'kicadSymbolki_fp_filters': 'DIP* PDIP*'}]|
 ||||

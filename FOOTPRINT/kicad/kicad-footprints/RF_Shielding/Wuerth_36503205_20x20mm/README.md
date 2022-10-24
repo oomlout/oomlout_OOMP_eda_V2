@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Wuerth_36503205_20x20mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Wuerth_36503205_20x20mm|
 |Hex ID (short code)|hexID|FZKRFSWUERTH3653252X2|
-|Name|name|RF_Shielding : Wuerth_36503205_20x20mm|
+|name|name|RF_Shielding : Wuerth_36503205_20x20mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Wuerth_36503205_20x20mm', 'description': 'WE-SHC Shielding Cabinet THT 21x21mm', 'tags': 'Shielding Cabinet', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Shielding.3dshapes/Wuerth_36503205_20x20mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

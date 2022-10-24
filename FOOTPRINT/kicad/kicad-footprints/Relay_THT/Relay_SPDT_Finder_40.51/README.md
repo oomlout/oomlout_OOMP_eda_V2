@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Relay_SPDT_Finder_40.51|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_Finder_40.51|
 |Hex ID (short code)|hexID|FZKRELRELAYSPDTFINDER451|
-|Name|name|Relay_THT : Relay_SPDT_Finder_40.51|
+|name|name|Relay_THT : Relay_SPDT_Finder_40.51|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Relay_SPDT_Finder_40.51', 'description': 'Relay DPDT Finder 40.51, Pitch 5mm/7.5mm, https://www.finder-relais.net/de/finder-relais-serie-40.pdf', 'tags': 'Relay DPDT Finder 40.51 Pitch 5mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_Finder_40.51.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPDT_Finder_40.51/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPDT_Finder_40.51/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX31855NASA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31855NASA|
 |Hex ID (short code)|hexID|SZKSENTEMPERATUREMAX31855NASA|
-|Name|name|MAX31855NASA|
+|name|name|MAX31855NASA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX31855KASA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX31855NASA', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/MAX31855.pdf', 'kicadSymbolki_keywords': 'Cold Junction Termocouple Interface SPI', 'kicadSymbolki_description': 'Cold Junction N-type Termocouple Interface, SPI, SO8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

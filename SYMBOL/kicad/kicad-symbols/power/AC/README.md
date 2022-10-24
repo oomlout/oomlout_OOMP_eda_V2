@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-AC|
 |Hex ID (short code)|hexID|SZKPOWERAC|
-|Name|name|AC|
+|name|name|AC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'AC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "AC"'}]|
 ||||

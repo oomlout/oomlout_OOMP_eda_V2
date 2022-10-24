@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LNK613PG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK613PG|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK613PG|
-|Name|name|LNK613PG|
+|name|name|LNK613PG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LNK603PG', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LNK613PG', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_PDIP-8C', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/linkswitch-ii_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Energy-Efficient, Accurate CV/CC Switcher for Adapters and Chargers', 'kicadSymbolki_description': 'LinkSwitch-II Family, 3.3W Output Power, DIP-8C', 'kicadSymbolki_fp_filters': 'PowerIntegrations?PDIP?8C*'}]|
 ||||

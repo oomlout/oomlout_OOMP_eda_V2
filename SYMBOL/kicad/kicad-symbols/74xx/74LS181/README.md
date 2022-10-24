@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS181|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS181|
 |Hex ID (short code)|hexID|SZK74XX74LS181|
-|Name|name|74LS181|
+|name|name|74LS181|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS181', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '74xx/74F181.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL ALU ARITH', 'kicadSymbolki_description': 'Arithmetic logic unit', 'kicadSymbolki_fp_filters': 'DIP?24*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Current-AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm|
 |Hex ID (short code)|hexID|FZKSENCURRENTAKMCQVS2456X79P65|
-|Name|name|Sensor_Current : AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm|
+|name|name|Sensor_Current : AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm', 'description': 'AKM VSOP-24 current sensor, 5.6x7.9mm body, 0.65mm pitch (http://www.akm.com/akm/en/file/datasheet/CQ-330J.pdf)', 'tags': 'akm vsop 24', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

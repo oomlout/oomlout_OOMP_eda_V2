@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_Dialight_591|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Dialight_591|
 |Hex ID (short code)|hexID|FZKLSMLDIALIGHT591|
-|Name|name|LED_SMD : LED_Dialight_591|
+|name|name|LED_SMD : LED_Dialight_591|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_Dialight_591', 'description': 'LED SMD 3mm Right Angle series (http://www.dialightsignalsandcomponents.com/Assets/Drawings/2D_Drawings_DrawingDetailedSpec/C17354.pdf)', 'tags': 'LED Dialight 591', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Dialight_591.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Dialight_591/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Dialight_591/kicadPcb3d_450.png

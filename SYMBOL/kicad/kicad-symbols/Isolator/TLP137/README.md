@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLP137|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-TLP137|
 |Hex ID (short code)|hexID|SZKISOLATORTLP137|
-|Name|name|TLP137|
+|name|name|TLP137|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLP137', 'kicadSymbolFootprint': 'Package_SO:MFSOP6-5_4.4x3.6mm_P1.27mm', 'kicadSymbolDatasheet': 'https://toshiba.semicon-storage.com/info/docget.jsp?did=16744&prodName=TLP137', 'kicadSymbolki_keywords': 'NPN DC Optocoupler Base Connected', 'kicadSymbolki_description': 'DC Optocoupler Base Connected, Vce 80V, CTR 100-200%, MFSOP6', 'kicadSymbolki_fp_filters': 'MFSOP6*4.4x3.6mm*P1.27mm*'}]|
 ||||

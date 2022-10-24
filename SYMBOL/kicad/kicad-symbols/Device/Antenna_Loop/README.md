@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Antenna_Loop|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Antenna_Loop|
 |Hex ID (short code)|hexID|SZKDEVICEANTENNALOOP|
-|Name|name|Antenna_Loop|
+|name|name|Antenna_Loop|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'AE', 'kicadSymbolValue': 'Antenna_Loop', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'loop antenna', 'kicadSymbolki_description': 'Loop antenna'}]|
 ||||

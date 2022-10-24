@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Panasonic_HQFN-16-1EP_4x4mm_P0.65mm_EP2.9x2.9mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Panasonic_HQFN-16-1EP_4x4mm_P0.65mm_EP2.9x2.9mm|
 |Hex ID (short code)|hexID|FZKDFNPHQFN161EP4X4P65EP29X29|
-|Name|name|Package_DFN_QFN : Panasonic_HQFN-16-1EP_4x4mm_P0.65mm_EP2.9x2.9mm|
+|name|name|Package_DFN_QFN : Panasonic_HQFN-16-1EP_4x4mm_P0.65mm_EP2.9x2.9mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Panasonic_HQFN-16-1EP_4x4mm_P0.65mm_EP2.9x2.9mm', 'description': 'Panasonic HQFN-16, 4x4x0.85mm (https://industrial.panasonic.com/content/data/SC/ds/ds7/c0/PKG_HQFN016-A-0404XZL_EN.pdf)', 'tags': 'panasonic hqfn', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Panasonic_HQFN-16-1EP_4x4mm_P0.65mm_EP2.9x2.9mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Panasonic_HQFN-16-1EP_4x4mm_P0.65mm_EP2.9x2.9mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Panasonic_HQFN-16-1EP_4x4mm_P0.65mm_EP2.9x2.9mm/kicadPcb3d_450.png

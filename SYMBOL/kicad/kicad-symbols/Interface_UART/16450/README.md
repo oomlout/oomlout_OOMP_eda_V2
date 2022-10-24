@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|16450|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-16450|
 |Hex ID (short code)|hexID|SZKINTERFACEUART1645|
-|Name|name|16450|
+|name|name|16450|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '16450', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': '1ch UART', 'kicadSymbolki_description': 'PC16450, Universal Asynchronous Receiver/Transmitter, PDIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

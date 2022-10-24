@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS595|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS595|
 |Hex ID (short code)|hexID|SZK74XXIEEE74LS595|
-|Name|name|74LS595|
+|name|name|74LS595|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS595', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega164PA-P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega164PA-P|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA164PAP|
-|Name|name|ATmega164PA-P|
+|name|name|ATmega164PA-P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATmega164A-P', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega164PA-P', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8272-8-bit-AVR-microcontroller-ATmega164A_PA-324A_PA-644A_PA-1284_P_datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR PicoPower', 'kicadSymbolki_description': '20MHz, 16kB Flash, 1kB SRAM, 512B EEPROM, JTAG, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

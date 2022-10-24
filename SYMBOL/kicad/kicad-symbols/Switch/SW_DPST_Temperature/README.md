@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_DPST_Temperature|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_DPST_Temperature|
 |Hex ID (short code)|hexID|SZKSWITCHSWDPSTTEMPERATURE|
-|Name|name|SW_DPST_Temperature|
+|name|name|SW_DPST_Temperature|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_DPST_Temperature', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'temperature switch dual double-pole single-throw OFF-ON', 'kicadSymbolki_description': 'Double Pole Single Throw (DPST) Switch, temperature dependent'}]|
 ||||

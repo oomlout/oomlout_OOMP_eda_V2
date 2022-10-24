@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O274-01-R6O274-C22965|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O274-01-R6O274-C22965|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE63XO2741R6O274C22965|
-|Name|name|RESE-0603-X-O274-01-R6O274-C22965|
+|name|name|RESE-0603-X-O274-01-R6O274-C22965|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O274-01-R6O274-C22965', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O274-01-R6O274-C22965', 'kicadSymbolDatasheet': 'oom.lt/R6O274', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6O274;PARTL C-JLCC;C22965;MANUF C-XXXX;0603WAF2703T5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

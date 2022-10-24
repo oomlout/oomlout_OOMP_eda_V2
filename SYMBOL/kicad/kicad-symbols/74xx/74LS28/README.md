@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS28|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS28|
 |Hex ID (short code)|hexID|SZK74XX74LS28|
-|Name|name|74LS28|
+|name|name|74LS28|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LS02', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS28', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://eeshop.unl.edu/pdf/74ls28.pdf', 'kicadSymbolki_keywords': 'TTL Nor2 Buffer', 'kicadSymbolki_description': 'quad 2-input NOR buffer NRND', 'kicadSymbolki_fp_filters': 'SO14* DIP*W7.62mm*'}]|
 ||||

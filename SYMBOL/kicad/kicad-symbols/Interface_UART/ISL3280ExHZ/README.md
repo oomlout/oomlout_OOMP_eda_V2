@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ISL3280ExHZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-ISL3280ExHZ|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTISL328EXHZ|
-|Name|name|ISL3280ExHZ|
+|name|name|ISL3280ExHZ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ISL3280ExHZ', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.renesas.com/us/en/www/doc/datasheet/isl3280e-81e-82e-83e-84e-85e.pdf', 'kicadSymbolki_keywords': 'Interface Driver Receiver Transceiver', 'kicadSymbolki_description': 'RS485, RS422, 20Mbps Transceiver, 3.0V to 5.5V, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MN3007|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-MN3007|
 |Hex ID (short code)|hexID|SZKAUDIOMN37|
-|Name|name|MN3007|
+|name|name|MN3007|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MN3007', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.experimentalistsanonymous.com/diy/Datasheets/MN3007.pdf', 'kicadSymbolki_keywords': 'Matsushita Panasonic BBD', 'kicadSymbolki_description': '1024-STAGE LOW NOISE BBD (bucket brigade device), delay time 5.12ms to 51.2ms, S/N 80dB, clock frequency range 10KHz to 100KHz', 'kicadSymbolki_fp_filters': 'DIP-8*'}]|
 ||||

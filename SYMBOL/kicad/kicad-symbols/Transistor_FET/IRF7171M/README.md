@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF7171M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7171M|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF7171M|
-|Name|name|IRF7171M|
+|name|name|IRF7171M|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSB028N06NN3', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF7171M', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_MN', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irf7171mpbf.pdf?fileId=5546d462533600a4015355f1326f1ad6', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '93A Id, 100V Vds, 6.5mOhm Rds, N-Channel MOSFET, DirectFET MN', 'kicadSymbolki_fp_filters': 'DirectFET*MN*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|D_MELF-RM10_Universal_Handsoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MELF-RM10_Universal_Handsoldering|
 |Hex ID (short code)|hexID|FZKDIODESMDMELFRM1UNIVERSALHANDSOLDERING|
-|Name|name|Diode_SMD : D_MELF-RM10_Universal_Handsoldering|
+|name|name|Diode_SMD : D_MELF-RM10_Universal_Handsoldering|
 |Footprint Kicad|footprintKicadDetails|{'name': 'D_MELF-RM10_Universal_Handsoldering', 'description': 'Diode, Universal, MELF, RM10, Handsoldering, SMD, Thruhole,', 'tags': 'Diode Universal MELF RM10 Handsoldering SMD Thruhole ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_MELF.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_MELF-RM10_Universal_Handsoldering/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_MELF-RM10_Universal_Handsoldering/kicadPcb3d_450.png

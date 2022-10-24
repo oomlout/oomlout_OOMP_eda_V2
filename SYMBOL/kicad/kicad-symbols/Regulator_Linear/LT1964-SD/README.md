@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1964-SD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1964-SD|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLT1964SD|
-|Name|name|LT1964-SD|
+|name|name|LT1964-SD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1964-SD', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-5', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1964fb.pdf', 'kicadSymbolki_keywords': 'REGULATOR POSITIVE POWER LDO adjustable', 'kicadSymbolki_description': 'MICROPOWER 200mA Low Noise LDO negative regulator, adjustable output, TSOT-23-5', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
 ||||

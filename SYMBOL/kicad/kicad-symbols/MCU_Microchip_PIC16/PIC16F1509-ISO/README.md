@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F1509-ISO|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1509-ISO|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F159ISO|
-|Name|name|PIC16F1509-ISO|
+|name|name|PIC16F1509-ISO|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC16F1509-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F1509-ISO', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41609A.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller XLP', 'kicadSymbolki_description': 'PIC16F1509, 8192W FLASH, 512B SRAM, SO-20', 'kicadSymbolki_fp_filters': 'DIP* PDIP* SO* SSOP*'}]|
 ||||

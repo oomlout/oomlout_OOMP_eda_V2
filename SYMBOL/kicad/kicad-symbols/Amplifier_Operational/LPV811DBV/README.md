@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LPV811DBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LPV811DBV|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALLPV811DBV|
-|Name|name|LPV811DBV|
+|name|name|LPV811DBV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP6L91T-EOT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LPV811DBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/lpv812.pdf', 'kicadSymbolki_keywords': 'single opamp low-power rail-to-rail', 'kicadSymbolki_description': 'Single operational amplifier, 8kHz GBW, 425 nA/channel quiescent, 100 fA input bias, 300 uV offset max, 1 uV/C, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

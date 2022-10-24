@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RAK811-LF-CN470|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Module-RAK811-LF-CN470|
 |Hex ID (short code)|hexID|SZKRFMORAK811LFCN47|
-|Name|name|RAK811-LF-CN470|
+|name|name|RAK811-LF-CN470|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'RAK811-LF-EU433', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'RAK811-LF-CN470', 'kicadSymbolFootprint': 'RF_Module:RAK811', 'kicadSymbolDatasheet': 'https://downloads.rakwireless.com/LoRa/RAK811/Hardware_Specification/RAK811_LoRa_Module_Datasheet_V1.4.pdf', 'kicadSymbolki_keywords': 'IoT LoRa LoRaWAN RF', 'kicadSymbolki_description': 'LoRa Module, STM32L151, CN470, RAKwireless', 'kicadSymbolki_fp_filters': 'RAK811*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AUIPS6011R|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS6011R|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTAUIPS611R|
-|Name|name|AUIPS6011R|
+|name|name|AUIPS6011R|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AUIPS6011R', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-4', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/auips6011.pdf?fileId=5546d462533600a4015355a787bf1309', 'kicadSymbolki_keywords': 'high side switch', 'kicadSymbolki_description': 'Intelligent Power High Side Switch, 39V, 60A, DPAK-5L', 'kicadSymbolki_fp_filters': 'TO?252*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FDMS8050|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS8050|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETFDMS85|
-|Name|name|FDMS8050|
+|name|name|FDMS8050|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CSD17578Q5A', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FDMS8050', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TDSON-8-1', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FDMS8050-D.pdf', 'kicadSymbolki_keywords': 'powertrench MOSFET fairchild', 'kicadSymbolki_description': '55A Id, 30V Vds, N-Channel PowerTrench MOSFET, 0.65mOhm Ron, 285nC Qgmax, -55 to 150 °C, 5x6mm SON8', 'kicadSymbolki_fp_filters': 'TDSON*'}]|
 ||||

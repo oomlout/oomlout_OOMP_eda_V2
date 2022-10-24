@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FINDER-36.11|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-FINDER-36.11|
 |Hex ID (short code)|hexID|SZKRELAYFINDER3611|
-|Name|name|FINDER-36.11|
+|name|name|FINDER-36.11|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'FINDER-36.11', 'kicadSymbolFootprint': 'Relay_THT:Relay_SPDT_Finder_36.11', 'kicadSymbolDatasheet': 'https://gfinder.findernet.com/public/attachments/36/EN/S36EN.pdf', 'kicadSymbolki_keywords': 'spdt relay', 'kicadSymbolki_description': 'FINDER 36.11, SPDT relay, 10A', 'kicadSymbolki_fp_filters': 'Relay*SPDT*Finder*36.11*'}]|
 ||||

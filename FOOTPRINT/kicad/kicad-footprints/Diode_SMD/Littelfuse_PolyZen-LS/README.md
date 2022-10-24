@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Littelfuse_PolyZen-LS|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Littelfuse_PolyZen-LS|
 |Hex ID (short code)|hexID|FZKDIODESMLITTELFUPOLYZENLS|
-|Name|name|Diode_SMD : Littelfuse_PolyZen-LS|
+|name|name|Diode_SMD : Littelfuse_PolyZen-LS|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Littelfuse_PolyZen-LS', 'description': 'http://m.littelfuse.com/~/media/electronics/datasheets/polyzen_devices/littelfuse_polyzen_standard_polyzen_catalog_datasheet.pdf.pdf', 'tags': 'Diode Polymer Protected Zener Diode Littelfuse LS', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/Littelfuse_PolyZen-LS.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Littelfuse_PolyZen-LS/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Littelfuse_PolyZen-LS/kicadPcb3d_450.png

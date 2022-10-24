@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADR420ARMZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-ADR420ARMZ|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGEADR42ARMZ|
-|Name|name|ADR420ARMZ|
+|name|name|ADR420ARMZ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADR420ARMZ', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/adr420_421_423_425.pdf', 'kicadSymbolki_keywords': 'voltage reference Ultraprecision Low Noise', 'kicadSymbolki_description': '2.048V Voltage Reference, Ultraprecision, Low Noise, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
 ||||

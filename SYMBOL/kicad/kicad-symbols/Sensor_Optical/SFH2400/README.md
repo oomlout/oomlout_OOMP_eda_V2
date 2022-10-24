@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SFH2400|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH2400|
 |Hex ID (short code)|hexID|SZKSENOPTICALSFH24|
-|Name|name|SFH2400|
+|name|name|SFH2400|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SFH2400', 'kicadSymbolFootprint': 'OptoDevice:Osram_SMD-SmartDIL', 'kicadSymbolDatasheet': 'http://www.osram-os.com/Graphics/XPic5/00215665_0.pdf/SFH%202400.pdf', 'kicadSymbolki_keywords': 'opto photodiode', 'kicadSymbolki_description': 'Silicon PIN Photodiode, SMD package', 'kicadSymbolki_fp_filters': 'Osram*SMD*SmartDIL*'}]|
 ||||

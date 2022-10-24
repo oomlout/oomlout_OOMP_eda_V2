@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NA556|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-NA556|
 |Hex ID (short code)|hexID|SZKTIMERNA556|
-|Name|name|NA556|
+|name|name|NA556|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM556', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NA556', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/se556.pdf', 'kicadSymbolki_keywords': 'dual timer', 'kicadSymbolki_description': 'Dual Precision Timers, DIP-14/SOIC-14/SSOP-14', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* TSSOP*5.3x6.2mm*P0.65mm* SOIC*3.9x8.7mm*P1.27mm*'}]|
 ||||

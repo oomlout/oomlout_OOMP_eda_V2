@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|EA_DOGXL160-7|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-EA_DOGXL160-7|
 |Hex ID (short code)|hexID|FZKDIEADOGXL167|
-|Name|name|Display : EA_DOGXL160-7|
+|name|name|Display : EA_DOGXL160-7|
 |Footprint Kicad|footprintKicadDetails|{'name': 'EA_DOGXL160-7', 'description': 'Grapchical,Display,LCD,160x104 http://www.lcd-module.com/eng/pdf/grafik/dogxl160-7e.pdf', 'tags': 'EA_DOGXL160-7', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display.3dshapes/EA_DOGXL160-7.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/EA_DOGXL160-7/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Display/EA_DOGXL160-7/kicadPcb3d_450.png

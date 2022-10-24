@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TDA9503|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Video-TDA9503|
 |Hex ID (short code)|hexID|SZKVIDEOTDA953|
-|Name|name|TDA9503|
+|name|name|TDA9503|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TDA9500', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDA9503', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

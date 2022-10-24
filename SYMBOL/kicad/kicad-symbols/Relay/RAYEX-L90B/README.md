@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RAYEX-L90B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-RAYEX-L90B|
 |Hex ID (short code)|hexID|SZKRELAYRAYEXL9B|
-|Name|name|RAYEX-L90B|
+|name|name|RAYEX-L90B|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'RAYEX-L90B', 'kicadSymbolFootprint': 'Relay_THT:Relay_SPST_RAYEX-L90B', 'kicadSymbolDatasheet': 'https://a3.sofastcdn.com/attachment/7jioKBjnRiiSrjrjknRiwS77gwbf3zmp/L90-SERIES.pdf', 'kicadSymbolki_keywords': '30A Single Pole Relay', 'kicadSymbolki_description': 'Power relay, NC, SPST, 30A', 'kicadSymbolki_fp_filters': 'Relay*SPST*RAYEX*L90B*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS22993|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-TPS22993|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTTPS22993|
-|Name|name|TPS22993|
+|name|name|TPS22993|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS22993', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PWQFN-N20', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/tps22993', 'kicadSymbolki_keywords': 'quad channel power distribution/load switch', 'kicadSymbolki_description': 'Quad Channel Load Switch with GPIO and I2C Control, Bias voltage: 4.5V-17.2V, Input voltage: 1.0V-3.6V, Max 1.2A per channel, WQFN-20', 'kicadSymbolki_fp_filters': 'Texas*PWQFN*'}]|
 ||||

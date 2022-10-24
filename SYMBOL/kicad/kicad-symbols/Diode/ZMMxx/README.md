@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ZMMxx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-ZMMxx|
 |Hex ID (short code)|hexID|SZKDIODEZXX|
-|Name|name|ZMMxx|
+|name|name|ZMMxx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZPYxx', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'ZMMxx', 'kicadSymbolFootprint': 'Diode_SMD:D_MiniMELF', 'kicadSymbolDatasheet': 'https://diotec.com/tl_files/diotec/files/pdf/datasheets/zmm1.pdf', 'kicadSymbolki_keywords': 'zener diode', 'kicadSymbolki_description': '500mW Zener Diode, MiniMELF', 'kicadSymbolki_fp_filters': 'D*MiniMELF*'}]|
 ||||

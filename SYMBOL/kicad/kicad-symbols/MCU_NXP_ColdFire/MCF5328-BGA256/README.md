@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCF5328-BGA256|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_ColdFire-MCF5328-BGA256|
 |Hex ID (short code)|hexID|SZKMCUNXPCOLDFIREMCF5328BGA256|
-|Name|name|MCF5328-BGA256|
+|name|name|MCF5328-BGA256|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCF5328-BGA256', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

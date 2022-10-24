@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|UC3854|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-UC3854|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERUC3854|
-|Name|name|UC3854|
+|name|name|UC3854|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'UC3854', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/uc3854.pdf', 'kicadSymbolki_keywords': 'PFC SMPS Controller', 'kicadSymbolki_description': 'High-Power Factor Preregulator, DIP-16/SOIC-16W', 'kicadSymbolki_fp_filters': 'SOIC*7.5x10.3mm*P1.27mm* DIP*W7.62mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SiS454DN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-SiS454DN|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETSIS454DN|
-|Name|name|SiS454DN|
+|name|name|SiS454DN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'SiS454DN', 'kicadSymbolFootprint': 'Package_SO:Vishay_PowerPAK_1212-8_Single', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/66707/sis454dn.pdf', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '35A Id, 20V Vds, N-Channel MOSFET, PowerPAK 1212-8 Single', 'kicadSymbolki_fp_filters': 'Vishay*PowerPAK*1212*Single*'}]|
 ||||

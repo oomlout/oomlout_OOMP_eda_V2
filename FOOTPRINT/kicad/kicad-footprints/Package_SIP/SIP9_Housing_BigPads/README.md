@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SIP9_Housing_BigPads|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP9_Housing_BigPads|
 |Hex ID (short code)|hexID|FZKSIPSIP9HOUSINGBIGPADS|
-|Name|name|Package_SIP : SIP9_Housing_BigPads|
+|name|name|Package_SIP : SIP9_Housing_BigPads|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SIP9_Housing_BigPads', 'description': 'SIP9, large pads', 'tags': 'SIP9', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/SIP9_Housing_BigPads.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP9_Housing_BigPads/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP9_Housing_BigPads/kicadPcb3d_450.png

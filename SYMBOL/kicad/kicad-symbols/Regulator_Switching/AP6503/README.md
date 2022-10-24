@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AP6503|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP6503|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGAP653|
-|Name|name|AP6503|
+|name|name|AP6503|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AP6502', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AP6503', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/AP6503.pdf', 'kicadSymbolki_keywords': 'buck switching converter', 'kicadSymbolki_description': '340kHz 23V 3A Synchonous DC/DC Buck Converter', 'kicadSymbolki_fp_filters': 'Diodes_SO-8EP*'}]|
 ||||

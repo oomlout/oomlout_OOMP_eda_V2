@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC9S08LG32J0xLK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08LG32J0xLK|
 |Hex ID (short code)|hexID|SZKMCUNXPS8MC9S8LG32JXLK|
-|Name|name|MC9S08LG32J0xLK|
+|name|name|MC9S08LG32J0xLK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'IC', 'kicadSymbolValue': 'MC9S08LG32J0xLK', 'kicadSymbolFootprint': 'Package_QFP:TQFP-80_14x14mm_P0.65mm', 'kicadSymbolDatasheet': 'http://cache.nxp.com/files/microcontrollers/doc/ref_manual/MC9S08LG32RM.pdf', 'kicadSymbolki_keywords': 'NXP S08 Microcontroller', 'kicadSymbolki_description': '8-bit Segment LCD Microcontroller, S08 core, 32kB Flash, 1984B RAM, LQFP-80', 'kicadSymbolki_fp_filters': 'TQFP*14x14mm*P0.65mm*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MSOP-12-1EP_3x4mm_P0.65mm_EP1.65x2.85mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-MSOP-12-1EP_3x4mm_P0.65mm_EP1.65x2.85mm|
 |Hex ID (short code)|hexID|FZKSOMS121EP3X4P65EP165X285|
-|Name|name|Package_SO : MSOP-12-1EP_3x4mm_P0.65mm_EP1.65x2.85mm|
+|name|name|Package_SO : MSOP-12-1EP_3x4mm_P0.65mm_EP1.65x2.85mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MSOP-12-1EP_3x4mm_P0.65mm_EP1.65x2.85mm', 'description': 'MSOP, 12 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/3652fe.pdf#page=24), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'MSOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-12-1EP_3x4mm_P0.65mm_EP1.65x2.85mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-12-1EP_3x4mm_P0.65mm_EP1.65x2.85mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-12-1EP_3x4mm_P0.65mm_EP1.65x2.85mm/kicadPcb3d_450.png

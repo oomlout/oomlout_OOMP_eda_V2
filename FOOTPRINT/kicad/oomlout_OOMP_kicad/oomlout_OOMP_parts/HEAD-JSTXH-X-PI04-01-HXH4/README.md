@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-JSTXH-X-PI04-01-HXH4|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTXH-X-PI04-01-HXH4|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTXHXPI41HXH4|
-|Name|name|oomlout_OOMP_parts : HEAD-JSTXH-X-PI04-01-HXH4|
+|name|name|oomlout_OOMP_parts : HEAD-JSTXH-X-PI04-01-HXH4|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HEAD-JSTXH-X-PI04-01-HXH4', 'description': 'hexID: HXH4; JST XH series connector, B4B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST XH vertical boss', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XH_B4B-XH-AM_1x04_P2.50mm_Vertical.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||

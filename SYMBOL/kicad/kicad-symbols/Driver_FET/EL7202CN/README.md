@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EL7202CN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-EL7202CN|
 |Hex ID (short code)|hexID|SZKDRIVERFETEL722CN|
-|Name|name|EL7202CN|
+|name|name|EL7202CN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EL7202CN', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.intersil.com/content/dam/Intersil/documents/el72/el7202-12-22.pdf', 'kicadSymbolki_keywords': 'Driver, Dual MOSFET', 'kicadSymbolki_description': 'High Speed, Dual Channel Power MOSFET Driver, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

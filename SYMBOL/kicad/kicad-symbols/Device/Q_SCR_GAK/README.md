@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Q_SCR_GAK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Q_SCR_GAK|
 |Hex ID (short code)|hexID|SZKDEVICEQSCRGAK|
-|Name|name|Q_SCR_GAK|
+|name|name|Q_SCR_GAK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'Q_SCR_GAK', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'SCR thyristor', 'kicadSymbolki_description': 'Silicon controlled rectifier, gate/anode/cathode'}]|
 ||||

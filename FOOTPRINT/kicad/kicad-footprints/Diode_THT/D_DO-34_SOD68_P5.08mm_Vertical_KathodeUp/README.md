@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp|
 |Hex ID (short code)|hexID|FZKDDDO34SOD68P58VERTICALKATHODEUP|
-|Name|name|Diode_THT : D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp|
+|name|name|Diode_THT : D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp|
 |Footprint Kicad|footprintKicadDetails|{'name': 'D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp', 'description': 'Diode, DO-34_SOD68 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf', 'tags': 'Diode DO-34_SOD68 series Axial Vertical pin pitch 5.08mm  length 3.04mm diameter 1.6mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp/kicadPcb3d_450.png

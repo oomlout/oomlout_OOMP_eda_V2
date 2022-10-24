@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MPU-6050|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Motion-MPU-6050|
 |Hex ID (short code)|hexID|SZKSENMOTIONMPU65|
-|Name|name|MPU-6050|
+|name|name|MPU-6050|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MPU-6050', 'kicadSymbolFootprint': 'Sensor_Motion:InvenSense_QFN-24_4x4mm_P0.5mm', 'kicadSymbolDatasheet': 'https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf', 'kicadSymbolki_keywords': 'mems', 'kicadSymbolki_description': 'InvenSense 6-Axis Motion Sensor, Gyroscope, Accelerometer, I2C', 'kicadSymbolki_fp_filters': '*QFN*4x4mm*P0.5mm*'}]|
 ||||

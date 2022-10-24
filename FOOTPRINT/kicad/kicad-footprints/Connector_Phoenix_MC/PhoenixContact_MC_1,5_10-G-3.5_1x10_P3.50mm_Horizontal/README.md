@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PhoenixContact_MC_1,5_10-G-3.5_1x10_P3.50mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC-PhoenixContact_MC_1,5_10-G-3.5_1x10_P3.50mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNPHOENIXMCPHOENIXCONTACTMC151G351X1P35HORIZONTAL|
-|Name|name|Connector_Phoenix_MC : PhoenixContact_MC_1,5_10-G-3.5_1x10_P3.50mm_Horizontal|
+|name|name|Connector_Phoenix_MC : PhoenixContact_MC_1,5_10-G-3.5_1x10_P3.50mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PhoenixContact_MC_1,5_10-G-3.5_1x10_P3.50mm_Horizontal', 'description': 'Generic Phoenix Contact connector footprint for: MC_1,5/10-G-3.5; number of pins: 10; pin pitch: 3.50mm; Angled \|\| order number: 1844294 8A 160V', 'tags': 'phoenix_contact connector MC_01x10_G_3.5mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MC.3dshapes/PhoenixContact_MC_1,5_10-G-3.5_1x10_P3.50mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_10-G-3.5_1x10_P3.50mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_10-G-3.5_1x10_P3.50mm_Horizontal/kicadPcb3d_450.png

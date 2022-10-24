@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LQFP-52-1EP_10x10mm_P0.65mm_EP4.8x4.8mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_QFP-LQFP-52-1EP_10x10mm_P0.65mm_EP4.8x4.8mm|
 |Hex ID (short code)|hexID|FZKQFPLQFP521EP1X1P65EP48X48|
-|Name|name|Package_QFP : LQFP-52-1EP_10x10mm_P0.65mm_EP4.8x4.8mm|
+|name|name|Package_QFP : LQFP-52-1EP_10x10mm_P0.65mm_EP4.8x4.8mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LQFP-52-1EP_10x10mm_P0.65mm_EP4.8x4.8mm', 'description': 'LQFP, 52 Pin (https://www.onsemi.com/pub/Collateral/848H-01.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'LQFP QFP', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/LQFP-52-1EP_10x10mm_P0.65mm_EP4.8x4.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/LQFP-52-1EP_10x10mm_P0.65mm_EP4.8x4.8mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_QFP/LQFP-52-1EP_10x10mm_P0.65mm_EP4.8x4.8mm/kicadPcb3d_450.png

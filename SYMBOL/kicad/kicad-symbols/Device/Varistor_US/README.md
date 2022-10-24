@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Varistor_US|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Varistor_US|
 |Hex ID (short code)|hexID|SZKDEVICEVUS|
-|Name|name|Varistor_US|
+|name|name|Varistor_US|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'RV', 'kicadSymbolValue': 'Varistor_US', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'VDR resistance', 'kicadSymbolki_description': 'Voltage dependent resistor, US symbol', 'kicadSymbolki_fp_filters': 'RV_* Varistor*'}]|
 ||||

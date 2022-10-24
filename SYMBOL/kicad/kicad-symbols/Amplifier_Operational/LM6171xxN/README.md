@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM6171xxN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM6171xxN|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALLM6171XXN|
-|Name|name|LM6171xxN|
+|name|name|LM6171xxN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP601-xP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM6171xxN', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm6171.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Single High Speed Low Power Low Distortion Voltage Feedback Amplifier, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

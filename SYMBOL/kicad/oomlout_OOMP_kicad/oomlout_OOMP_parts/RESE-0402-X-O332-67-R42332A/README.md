@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O332-67-R42332A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O332-67-R42332A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO33267R42332A|
-|Name|name|RESE-0402-X-O332-67-R42332A|
+|name|name|RESE-0402-X-O332-67-R42332A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O332-67-R42332A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O332-67-R42332A', 'kicadSymbolDatasheet': 'oom.lt/R42332A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R42332A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

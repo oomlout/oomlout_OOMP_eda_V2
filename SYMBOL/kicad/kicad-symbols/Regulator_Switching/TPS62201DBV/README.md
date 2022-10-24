@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS62201DBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62201DBV|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS6221DBV|
-|Name|name|TPS62201DBV|
+|name|name|TPS62201DBV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS62200DBV', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS62201DBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps62201.pdf', 'kicadSymbolki_keywords': 'Step-Down DC-DC Converter', 'kicadSymbolki_description': '300mA High-Efficiency Step-Down DC-DC Converter, fixed 1.5V output voltage, 2.5-6V input voltage, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

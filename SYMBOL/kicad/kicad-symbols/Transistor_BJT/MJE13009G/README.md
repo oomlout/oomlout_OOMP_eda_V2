@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MJE13009G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-MJE13009G|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTMJE139G|
-|Name|name|MJE13009G|
+|name|name|MJE13009G|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MJE13007G', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'MJE13009G', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/MJE13009-D.PDF', 'kicadSymbolki_keywords': 'Switching Power NPN Transistor', 'kicadSymbolki_description': '12A Ic, 400V Vce, Silicon Switching Power NPN Transistors, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

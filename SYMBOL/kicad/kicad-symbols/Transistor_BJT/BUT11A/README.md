@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BUT11A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BUT11A|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBUT11A|
-|Name|name|BUT11A|
+|name|name|BUT11A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BUT11', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BUT11A', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/BUT11A-D.pdf', 'kicadSymbolki_keywords': 'High Voltage Power NPN Transistor', 'kicadSymbolki_description': '5A Ic, 450V Vce, Silicon Power NPN Transistors, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

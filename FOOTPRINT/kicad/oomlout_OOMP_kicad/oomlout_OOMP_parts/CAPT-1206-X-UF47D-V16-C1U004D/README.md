@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPT-1206-X-UF47D-V16-C1U004D|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPT-1206-X-UF47D-V16-C1U004D|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPT126XUF47DV16C1U4D|
-|Name|name|oomlout_OOMP_parts : CAPT-1206-X-UF47D-V16-C1U004D|
+|name|name|oomlout_OOMP_parts : CAPT-1206-X-UF47D-V16-C1U004D|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CAPT-1206-X-UF47D-V16-C1U004D', 'description': 'hexID: C1U004D; Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator', 'tags': 'capacitor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||

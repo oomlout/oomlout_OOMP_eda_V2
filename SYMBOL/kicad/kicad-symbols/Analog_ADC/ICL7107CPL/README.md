@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ICL7107CPL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-ICL7107CPL|
 |Hex ID (short code)|hexID|SZKANALOGADCICL717CPL|
-|Name|name|ICL7107CPL|
+|name|name|ICL7107CPL|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ICL7106CPL', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ICL7107CPL', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'https://www.renesas.com/eu/en/www/doc/datasheet/icl7106-07-07s.pdf', 'kicadSymbolki_keywords': 'LED ADC', 'kicadSymbolki_description': '3 1/2 Digit, LED Display, A/D Converter, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24*'}]|
 ||||

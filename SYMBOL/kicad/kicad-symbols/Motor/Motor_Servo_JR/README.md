@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Motor_Servo_JR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_JR|
 |Hex ID (short code)|hexID|SZKMOTORMOTORSERVOJR|
-|Name|name|Motor_Servo_JR|
+|name|name|Motor_Servo_JR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'Motor_Servo', 'kicadSymbolReference': 'M', 'kicadSymbolValue': 'Motor_Servo_JR', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://forums.parallax.com/uploads/attachments/46831/74481.png', 'kicadSymbolki_keywords': 'Servo Motor', 'kicadSymbolki_description': 'Servo Motor (JR connector)', 'kicadSymbolki_fp_filters': 'PinHeader*P2.54mm*'}]|
 ||||

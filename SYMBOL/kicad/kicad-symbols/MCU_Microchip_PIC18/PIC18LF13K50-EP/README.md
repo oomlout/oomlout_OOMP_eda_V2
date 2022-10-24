@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC18LF13K50-EP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF13K50-EP|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC18PIC18LF13K5EP|
-|Name|name|PIC18LF13K50-EP|
+|name|name|PIC18LF13K50-EP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC18F13K50-EP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18LF13K50-EP', 'kicadSymbolFootprint': 'Package_DIP:DIP-20_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/41350c.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8bit CMOS Microcontroller XLP', 'kicadSymbolki_description': '8K Flash, 512 SRAM, 256 EEPROM, USB, nanoWatt XLP, DIP20', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* PDIP*W7.62mm*'}]|
 ||||

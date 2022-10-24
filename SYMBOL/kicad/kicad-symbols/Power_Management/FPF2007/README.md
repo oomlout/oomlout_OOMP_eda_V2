@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FPF2007|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-FPF2007|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTFPF27|
-|Name|name|FPF2007|
+|name|name|FPF2007|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'FPF2000', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FPF2007', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-353_SC-70-5', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FPF2001-D.pdf', 'kicadSymbolki_keywords': '1-chanel power-distribution USB', 'kicadSymbolki_description': 'Single power-distribution switcher, current limit = 100mA, blanking time = 0 ms, w/o auto-restart, ON Pin Polarity = HIGH, SOT-353', 'kicadSymbolki_fp_filters': 'SOT?353*'}]|
 ||||

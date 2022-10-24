@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC7906|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC7906|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMC796|
-|Name|name|MC7906|
+|name|name|MC7906|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'L7905', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC7906', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/MC7900-D.PDF', 'kicadSymbolki_keywords': 'Voltage Regulator 1.5A Negative', 'kicadSymbolki_description': 'Negative 1A 35V Linear Regulator, Fixed Output -6V, TO-220/TO-263', 'kicadSymbolki_fp_filters': 'TO?220* TO?263*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|GAL16V8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Logic_Programmable-GAL16V8|
 |Hex ID (short code)|hexID|SZKLOGICPROGRAABLEGAL16V8|
-|Name|name|GAL16V8|
+|name|name|GAL16V8|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'GAL16V8', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'GAL PLD 16V8', 'kicadSymbolki_description': 'Programmable Logic Array, DIP-20/SOIC-20/PLCC-20', 'kicadSymbolki_fp_filters': 'DIP* PDIP* SOIC* SO* PLCC*'}]|
 ||||

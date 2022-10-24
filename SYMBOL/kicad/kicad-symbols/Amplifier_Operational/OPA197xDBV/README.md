@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA197xDBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA197xDBV|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA197XDBV|
-|Name|name|OPA197xDBV|
+|name|name|OPA197xDBV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP6L91T-EOT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA197xDBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/opa197.pdf', 'kicadSymbolki_keywords': 'single opamp rtor', 'kicadSymbolki_description': 'Single 36V, Precision, Rail-to-Rail Input/Output, Low Offset Voltage, Operational Amplifier, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

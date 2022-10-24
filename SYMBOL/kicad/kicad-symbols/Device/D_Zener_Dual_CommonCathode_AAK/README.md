@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Zener_Dual_CommonCathode_AAK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonCathode_AAK|
 |Hex ID (short code)|hexID|SZKDEVICEDZENERDUALCOONCATHODEAAK|
-|Name|name|D_Zener_Dual_CommonCathode_AAK|
+|name|name|D_Zener_Dual_CommonCathode_AAK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Zener_Dual_CommonCathode_AAK', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'diode zener dual', 'kicadSymbolki_description': 'Dual Zener diode, common cathode on pin 3', 'kicadSymbolki_fp_filters': 'SOT* SC*'}]|
 ||||

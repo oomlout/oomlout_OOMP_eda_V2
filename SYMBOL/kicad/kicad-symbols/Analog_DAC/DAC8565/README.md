@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DAC8565|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC8565|
 |Hex ID (short code)|hexID|SZKANALOGDACDAC8565|
-|Name|name|DAC8565|
+|name|name|DAC8565|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DAC8165', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DAC8565', 'kicadSymbolFootprint': 'Package_SO:TSSOP-16_4.4x5mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/dac8565.pdf', 'kicadSymbolki_keywords': '16-bit quad DAC voltage reference', 'kicadSymbolki_description': '16-bit quad-channel voltage output DAC with 2.5V internal reference', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x5mm*P0.65mm*'}]|
 ||||

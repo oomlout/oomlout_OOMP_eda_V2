@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O301-67-R85301A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O301-67-R85301A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO3167R8531A|
-|Name|name|RESE-0805-X-O301-67-R85301A|
+|name|name|RESE-0805-X-O301-67-R85301A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O301-67-R85301A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O301-67-R85301A', 'kicadSymbolDatasheet': 'oom.lt/R85301A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R85301A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

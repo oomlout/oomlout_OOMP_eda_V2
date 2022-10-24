@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BSP129|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BSP129|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBSP129|
-|Name|name|BSP129|
+|name|name|BSP129|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BSP129', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223-3_TabPin2', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-BSP129-DS-v01_42-en.pdf?fileId=db3a30433c1a8752013c1fc296d2395f', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '0.35A Id, 240V Vds, N-Channel MOSFET, SOT-223', 'kicadSymbolki_fp_filters': 'SOT?223*'}]|
 ||||

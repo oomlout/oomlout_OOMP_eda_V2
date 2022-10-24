@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|UC3842_SOIC16|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-UC3842_SOIC16|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERUC3842SOIC16|
-|Name|name|UC3842_SOIC16|
+|name|name|UC3842_SOIC16|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'UC3842_SOIC16', 'kicadSymbolFootprint': 'Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/uc2843a.pdf', 'kicadSymbolki_keywords': 'SMPS PWM Controller', 'kicadSymbolki_description': 'Current-Mode PWM Controllers, 100% Duty Cycle, 16V/10V UVLO, SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*7.5x10.3mm*P1.27mm*'}]|
 ||||

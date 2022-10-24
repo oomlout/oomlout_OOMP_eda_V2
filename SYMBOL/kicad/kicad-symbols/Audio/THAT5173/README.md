@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|THAT5173|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-THAT5173|
 |Hex ID (short code)|hexID|SZKAUDIOTHAT5173|
-|Name|name|THAT5173|
+|name|name|THAT5173|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'THAT5173', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm', 'kicadSymbolDatasheet': 'http://www.thatcorp.com/datashts/THAT_5173_Datasheet.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'mic preamp gain controller', 'kicadSymbolki_description': 'Audio Preamplifier Digital Controller IC, QFN-24', 'kicadSymbolki_fp_filters': 'QFN*1EP*5x5mm*P0.65mm*'}]|
 ||||

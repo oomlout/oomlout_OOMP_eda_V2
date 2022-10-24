@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS156|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS156|
 |Hex ID (short code)|hexID|SZK74XX74LS156|
-|Name|name|74LS156|
+|name|name|74LS156|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LS155', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS156', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS156', 'kicadSymbolki_keywords': 'TTL DECOD8 DECOD4 DEMUX4 DEMUX8 OpenCol', 'kicadSymbolki_description': 'Dual 2 to 4 lines Decoder/Demultiplexer, Open Collector', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

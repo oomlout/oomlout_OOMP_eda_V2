@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CK548DX|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Valve-CK548DX|
 |Hex ID (short code)|hexID|SZKVACK548DX|
-|Name|name|CK548DX|
+|name|name|CK548DX|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CK6418', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CK548DX', 'kicadSymbolFootprint': 'Valve:Valve_Mini_Pentode_Linear', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'subminiature pentode valve', 'kicadSymbolki_description': 'Subminiature Pentode', 'kicadSymbolki_fp_filters': 'VALVE*MINI*PENTODE*LINEAR*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C3M0120100J|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-C3M0120100J|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETC3M121J|
-|Name|name|C3M0120100J|
+|name|name|C3M0120100J|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'C3M0065090J', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'C3M0120100J', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-7_TabPin8', 'kicadSymbolDatasheet': 'https://www.wolfspeed.com/media/downloads/957/C3M0120100J.pdf', 'kicadSymbolki_keywords': 'N-Channel SiC MOSFET', 'kicadSymbolki_description': '22A Id, 1000V Vds, 120mOhm, N-Channel SiC MOSFET, TO-263-7', 'kicadSymbolki_fp_filters': 'TO?263*TabPin8*'}]|
 ||||

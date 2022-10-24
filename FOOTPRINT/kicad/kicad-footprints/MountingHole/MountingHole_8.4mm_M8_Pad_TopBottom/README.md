@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MountingHole_8.4mm_M8_Pad_TopBottom|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_8.4mm_M8_Pad_TopBottom|
 |Hex ID (short code)|hexID|FZKHOLHOL84M8PADTOPBOTTOM|
-|Name|name|MountingHole : MountingHole_8.4mm_M8_Pad_TopBottom|
+|name|name|MountingHole : MountingHole_8.4mm_M8_Pad_TopBottom|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_8.4mm_M8_Pad_TopBottom', 'description': 'Mounting Hole 8.4mm, M8', 'tags': 'mounting hole 8.4mm m8', 'attributeType': None, 'pins': {'type': 'connect', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_8.4mm_M8_Pad_TopBottom/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_8.4mm_M8_Pad_TopBottom/kicadPcb3d_450.png

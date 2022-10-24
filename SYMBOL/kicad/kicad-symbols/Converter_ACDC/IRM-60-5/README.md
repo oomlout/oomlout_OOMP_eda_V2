@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRM-60-5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-60-5|
 |Hex ID (short code)|hexID|SZKCONIRM65|
-|Name|name|IRM-60-5|
+|name|name|IRM-60-5|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'IRM-60-5', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_MeanWell_IRM-60-xx_THT', 'kicadSymbolDatasheet': 'http://www.meanwellusa.com/productPdf.aspx?i=687', 'kicadSymbolki_keywords': 'Miniature Module-type Power Supply MeanWell', 'kicadSymbolki_description': '5V, 10A, 50W, Isolated, AC-DC, IRM60', 'kicadSymbolki_fp_filters': 'Converter*ACDC*MeanWell*IRM*60*THT*'}]|
 ||||

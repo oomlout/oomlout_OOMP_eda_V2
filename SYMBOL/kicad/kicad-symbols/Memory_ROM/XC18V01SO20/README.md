@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC18V01SO20|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_ROM-XC18V01SO20|
 |Hex ID (short code)|hexID|SZKMEMORYROMXC18V1SO2|
-|Name|name|XC18V01SO20|
+|name|name|XC18V01SO20|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC18V01SO20', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'xilinx/xc18v00proms.pdf'}]|
 ||||

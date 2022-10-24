@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DMN32D2LDF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN32D2LDF|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETDMN32D2LDF|
-|Name|name|DMN32D2LDF|
+|name|name|DMN32D2LDF|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DMN32D2LDF', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-353_SC-70-5', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/ds31238.pdf', 'kicadSymbolki_keywords': 'N-FET', 'kicadSymbolki_description': 'Common Source Dual 400mA Id, 30V Vds, N-Channel MOSFET, 1.5Ohm Ron, SOT-353', 'kicadSymbolki_fp_filters': 'SOT?353*'}]|
 ||||

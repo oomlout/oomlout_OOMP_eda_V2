@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32L021K4Tx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L021K4Tx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32LSTM32L21K4TX|
-|Name|name|STM32L021K4Tx|
+|name|name|STM32L021K4Tx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32L021K4Tx', 'kicadSymbolFootprint': 'Package_QFP:LQFP-32_7x7mm_P0.8mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00206858.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M0+ STM32L0 STM32L0x1', 'kicadSymbolki_description': 'ARM Cortex-M0+ MCU, 16KB flash, 2KB RAM, 32MHz, 1.65-3.6V, 26 GPIO, LQFP-32', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.8mm*'}]|
 ||||

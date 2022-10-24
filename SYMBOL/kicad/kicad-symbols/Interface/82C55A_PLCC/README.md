@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|82C55A_PLCC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-82C55A_PLCC|
 |Hex ID (short code)|hexID|SZKINTERFACE82C55APLCC|
-|Name|name|82C55A_PLCC|
+|name|name|82C55A_PLCC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '82C55A_PLCC', 'kicadSymbolFootprint': 'Package_LCC:PLCC-44', 'kicadSymbolDatasheet': 'http://jap.hu/electronic/8255.pdf', 'kicadSymbolki_keywords': '8255 PPI', 'kicadSymbolki_description': 'CHMOS Programmable Peripheral Interface, PLCC-44', 'kicadSymbolki_fp_filters': '*PLCC?44*'}]|
 ||||

@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|BFCN-152W-75|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-152W-75|
 |Hex ID (short code)|hexID|SZKRFFILBFCN152W75|
-|Name|name|BFCN-152W-75|
+|name|name|BFCN-152W-75|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'FL', 'kicadSymbolValue': 'BFCN-152W-75', 'kicadSymbolFootprint': 'Filter:Filter_Mini-Circuits_FV1206-7', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/BFCN-1445+.pdf', 'kicadSymbolki_keywords': 'Mini-Circuits band pass filter', 'kicadSymbolki_description': '950-1970MHz 75 Ohm Passive Band Pass Filter, FV1206-7', 'kicadSymbolki_fp_filters': 'Filter*Mini?Circuits*FV1206?7*'}]|
 ||||

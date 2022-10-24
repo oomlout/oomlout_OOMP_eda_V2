@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TC7662Bx0A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-TC7662Bx0A|
 |Hex ID (short code)|hexID|SZKCONTC7662BXA|
-|Name|name|TC7662Bx0A|
+|name|name|TC7662Bx0A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TC7662Bx0A', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/21469a.pdf', 'kicadSymbolki_keywords': 'charge pump DC-to-DC converter', 'kicadSymbolki_description': 'Charge Pump DC-to-DC Converter, 1.5 - 15V, 100mA, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Allegro_CB_PSS|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_CB_PSS|
 |Hex ID (short code)|hexID|FZKSENCURRENTALLEGROCBPSS|
-|Name|name|Sensor_Current : Allegro_CB_PSS|
+|name|name|Sensor_Current : Allegro_CB_PSS|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Allegro_CB_PSS', 'description': 'Allegro MicroSystems, CB-PSS Package (http://www.allegromicro.com/en/Products/Current-Sensor-ICs/Fifty-To-Two-Hundred-Amp-Integrated-Conductor-Sensor-ICs/ACS758.aspx)', 'tags': 'Allegro CB-PSS', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/Allegro_CB_PSS.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

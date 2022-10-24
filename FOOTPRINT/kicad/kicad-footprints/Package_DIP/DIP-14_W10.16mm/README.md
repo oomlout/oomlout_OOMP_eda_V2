@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DIP-14_W10.16mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-14_W10.16mm|
 |Hex ID (short code)|hexID|FZKDIPDIP14W116|
-|Name|name|Package_DIP : DIP-14_W10.16mm|
+|name|name|Package_DIP : DIP-14_W10.16mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DIP-14_W10.16mm', 'description': '14-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils)', 'tags': 'THT DIP DIL PDIP 2.54mm 10.16mm 400mil', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-14_W10.16mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-14_W10.16mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-14_W10.16mm/kicadPcb3d_450.png

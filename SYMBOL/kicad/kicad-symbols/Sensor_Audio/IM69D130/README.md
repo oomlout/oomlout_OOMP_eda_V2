@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IM69D130|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Audio-IM69D130|
 |Hex ID (short code)|hexID|SZKSENAUDIOIM69D13|
-|Name|name|IM69D130|
+|name|name|IM69D130|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IM69D120', 'kicadSymbolReference': 'MK', 'kicadSymbolValue': 'IM69D130', 'kicadSymbolFootprint': 'Sensor_Audio:Infineon_PG-LLGA-5-1', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-IM69D130-DS-v01_00-EN.pdf?fileId=5546d462602a9dc801607a0e46511a2e', 'kicadSymbolki_keywords': 'mems microphone', 'kicadSymbolki_description': 'High performance digital XENSIV MEMS microphone, -36 dBFS Sensitivity, LLGA-5', 'kicadSymbolki_fp_filters': 'Infineon*PG*LLGA*'}]|
 ||||

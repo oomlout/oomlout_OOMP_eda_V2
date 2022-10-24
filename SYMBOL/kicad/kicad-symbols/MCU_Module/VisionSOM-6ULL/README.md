@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VisionSOM-6ULL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Module-VisionSOM-6ULL|
 |Hex ID (short code)|hexID|SZKMCUMOVISIONSOM6ULL|
-|Name|name|VisionSOM-6ULL|
+|name|name|VisionSOM-6ULL|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'VisionSOM-6UL', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'VisionSOM-6ULL', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://wiki.somlabs.com/extensions/JZPDFGen/pdf/VisionSOM-6ULL%20Datasheet%20and%20Pinout-21.pdf', 'kicadSymbolki_keywords': 'somlabs module', 'kicadSymbolki_description': 'i.MX6-ULL NXP ARM Cortex-A7 900MHz single core industrial SoM computer', 'kicadSymbolki_fp_filters': '*SODIMM*'}]|
 ||||

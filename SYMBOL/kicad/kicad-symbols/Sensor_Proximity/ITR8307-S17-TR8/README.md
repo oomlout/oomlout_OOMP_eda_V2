@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ITR8307-S17-TR8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Proximity-ITR8307-S17-TR8|
 |Hex ID (short code)|hexID|SZKSENPROXIMITYITR837S17TR8|
-|Name|name|ITR8307-S17-TR8|
+|name|name|ITR8307-S17-TR8|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ITR1201SR10AR', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ITR8307-S17-TR8', 'kicadSymbolFootprint': 'OptoDevice:Everlight_ITR1201SR10AR', 'kicadSymbolDatasheet': 'https://datasheet.lcsc.com/szlcsc/1810010232_Everlight-Elec-ITR8307-S17-TR8-B_C81632.pdf', 'kicadSymbolki_keywords': 'Reflective Optical Sensor Opto reflex coupler', 'kicadSymbolki_description': 'Miniature Reflective Optical Object Sensor, SMD-4', 'kicadSymbolki_fp_filters': 'Everlight*ITR1201SR10AR*'}]|
 ||||

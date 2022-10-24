@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|OnSemi_DFN-8_2x2mm_P0.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_DFN-8_2x2mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKDFNONSEMIDFN82X2P5|
-|Name|name|Package_DFN_QFN : OnSemi_DFN-8_2x2mm_P0.5mm|
+|name|name|Package_DFN_QFN : OnSemi_DFN-8_2x2mm_P0.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'OnSemi_DFN-8_2x2mm_P0.5mm', 'description': 'DFN8 2x2, 0.5P (https://www.onsemi.com/pub/Collateral/511AT.PDF)', 'tags': 'DFN 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/OnSemi_DFN-8_2x2mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/OnSemi_DFN-8_2x2mm_P0.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/OnSemi_DFN-8_2x2mm_P0.5mm/kicadPcb3d_450.png

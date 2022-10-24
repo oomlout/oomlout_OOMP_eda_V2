@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS568215RNN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS568215RNN|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS568215RNN|
-|Name|name|TPS568215RNN|
+|name|name|TPS568215RNN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS568215RNN', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_RNN0018A', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps568215.pdf', 'kicadSymbolki_keywords': 'switching buck converter step-down', 'kicadSymbolki_description': '4.5V-17V Input, 8A Synchronous Step-Down SWIFT Converter, Adjustable Output, 400kHz/800kHz/1.2MHz Switching Frequency, Texas VQFN-18', 'kicadSymbolki_fp_filters': 'Texas*RNN0018A*'}]|
 ||||

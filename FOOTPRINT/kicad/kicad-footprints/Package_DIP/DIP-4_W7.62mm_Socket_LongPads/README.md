@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DIP-4_W7.62mm_Socket_LongPads|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-4_W7.62mm_Socket_LongPads|
 |Hex ID (short code)|hexID|FZKDIPDIP4W762SOL|
-|Name|name|Package_DIP : DIP-4_W7.62mm_Socket_LongPads|
+|name|name|Package_DIP : DIP-4_W7.62mm_Socket_LongPads|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DIP-4_W7.62mm_Socket_LongPads', 'description': '4-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads', 'tags': 'THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-4_W7.62mm_Socket.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-4_W7.62mm_Socket_LongPads/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-4_W7.62mm_Socket_LongPads/kicadPcb3d_450.png

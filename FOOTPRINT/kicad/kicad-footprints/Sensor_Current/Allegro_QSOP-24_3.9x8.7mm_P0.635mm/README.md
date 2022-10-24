@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Allegro_QSOP-24_3.9x8.7mm_P0.635mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_QSOP-24_3.9x8.7mm_P0.635mm|
 |Hex ID (short code)|hexID|FZKSENCURRENTALLEGROQS2439X87P635|
-|Name|name|Sensor_Current : Allegro_QSOP-24_3.9x8.7mm_P0.635mm|
+|name|name|Sensor_Current : Allegro_QSOP-24_3.9x8.7mm_P0.635mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Allegro_QSOP-24_3.9x8.7mm_P0.635mm', 'description': 'Allegro Microsystems 24-Lead Plastic Shrink Small Outline Narrow Body Body [QSOP] (http://www.allegromicro.com/~/media/Files/Datasheets/ACS726-Datasheet.ashx?la=en)', 'tags': 'Allegro QSOP 0.635', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/QSOP-24_3.9x8.7mm_P0.635mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

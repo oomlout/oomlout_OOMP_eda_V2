@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PSOP-44_16.9x27.17mm_P1.27mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-PSOP-44_16.9x27.17mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKSOPS44169X2717P127|
-|Name|name|Package_SO : PSOP-44_16.9x27.17mm_P1.27mm|
+|name|name|Package_SO : PSOP-44_16.9x27.17mm_P1.27mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PSOP-44_16.9x27.17mm_P1.27mm', 'description': 'PSOP44: plastic thin shrink small outline package; 44 leads; body width 16.90 mm', 'tags': 'PSOP 1.27', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/PSOP-44_16.9x27.17mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/PSOP-44_16.9x27.17mm_P1.27mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/PSOP-44_16.9x27.17mm_P1.27mm/kicadPcb3d_450.png

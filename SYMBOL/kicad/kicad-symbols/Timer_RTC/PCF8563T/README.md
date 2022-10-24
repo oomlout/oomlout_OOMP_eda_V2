@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PCF8563T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer_RTC-PCF8563T|
 |Hex ID (short code)|hexID|SZKTIMERRTCPCF8563T|
-|Name|name|PCF8563T|
+|name|name|PCF8563T|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PCF8563T', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/PCF8563.pdf', 'kicadSymbolki_keywords': 'I2C RTC Clock Calendar', 'kicadSymbolki_description': 'Realtime Clock/Calendar I2C Interface, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

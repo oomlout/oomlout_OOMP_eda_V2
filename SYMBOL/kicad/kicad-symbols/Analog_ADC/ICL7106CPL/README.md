@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ICL7106CPL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-ICL7106CPL|
 |Hex ID (short code)|hexID|SZKANALOGADCICL716CPL|
-|Name|name|ICL7106CPL|
+|name|name|ICL7106CPL|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ICL7106CPL', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'https://www.renesas.com/eu/en/www/doc/datasheet/icl7106-07-07s.pdf', 'kicadSymbolki_keywords': 'LCD ADC', 'kicadSymbolki_description': '3 1/2 Digit, LCD Display, A/D Converter, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24*'}]|
 ||||

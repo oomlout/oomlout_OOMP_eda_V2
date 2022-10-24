@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC32MX110F016D-IPT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MX110F016D-IPT|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC32PIC32MX11F16DIPT|
-|Name|name|PIC32MX110F016D-IPT|
+|name|name|PIC32MX110F016D-IPT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC32MX110F016D-IPT', 'kicadSymbolFootprint': 'Package_QFP:TQFP-44_10x10mm_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/60001168F.pdf', 'kicadSymbolki_keywords': 'Microchip PIC32 Microcontroller MIPS', 'kicadSymbolki_description': '32-bit Microcontrollers (16KB Flash and 4KB SRAM TQFP-44) with Audio and Graphics Interfaces, USB, and Advanced Analog', 'kicadSymbolki_fp_filters': 'TQFP*10x10mm*P0.8mm*'}]|
 ||||

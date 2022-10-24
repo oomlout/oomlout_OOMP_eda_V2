@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AT45DB161-JC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_Flash-AT45DB161-JC|
 |Hex ID (short code)|hexID|SZKMEMORYFLASHAT45DB161JC|
-|Name|name|AT45DB161-JC|
+|name|name|AT45DB161-JC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AT45DB161-JC', 'kicadSymbolFootprint': 'Package_LCC:PLCC-32_11.4x14.0mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/doc0807.pdf', 'kicadSymbolki_keywords': 'Atmel DataFlash', 'kicadSymbolki_description': '16Mb Serial DataFlash, 2.7V Vcc, PLCC-32', 'kicadSymbolki_fp_filters': 'PLCC?32*11.4x14.0mm*P1.27mm*'}]|
 ||||

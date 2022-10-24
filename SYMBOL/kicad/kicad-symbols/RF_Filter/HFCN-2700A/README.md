@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HFCN-2700A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-2700A|
 |Hex ID (short code)|hexID|SZKRFFILHFCN27A|
-|Name|name|HFCN-2700A|
+|name|name|HFCN-2700A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HFCN-672', 'kicadSymbolReference': 'FL', 'kicadSymbolValue': 'HFCN-2700A', 'kicadSymbolFootprint': 'Filter:Filter_Mini-Circuits_FV1206-1', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/HFCN-2700A+.pdf', 'kicadSymbolki_keywords': 'Mini-Circuits high pass filter', 'kicadSymbolki_description': '2700MHz 50 Ohm Passive High Pass Filter, FV1206-1', 'kicadSymbolki_fp_filters': 'Filter*Mini?Circuits*FV1206?1*'}]|
 ||||

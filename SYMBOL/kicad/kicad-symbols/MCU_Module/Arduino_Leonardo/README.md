@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Arduino_Leonardo|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Leonardo|
 |Hex ID (short code)|hexID|SZKMCUMOARDLEONARDO|
-|Name|name|Arduino_Leonardo|
+|name|name|Arduino_Leonardo|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'A', 'kicadSymbolValue': 'Arduino_Leonardo', 'kicadSymbolFootprint': 'Module:Arduino_UNO_R3', 'kicadSymbolDatasheet': 'https://www.arduino.cc/en/Main/ArduinoBoardLeonardo', 'kicadSymbolki_keywords': 'Arduino LEONARDO Microcontroller Module Atmel AVR USB', 'kicadSymbolki_description': 'Arduino LEONARDO Microcontroller Module', 'kicadSymbolki_fp_filters': 'Arduino*UNO*R3*'}]|
 ||||

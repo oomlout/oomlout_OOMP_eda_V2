@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS15|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS15|
 |Hex ID (short code)|hexID|SZK74XX74LS15|
-|Name|name|74LS15|
+|name|name|74LS15|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS15', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS15', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL And3', 'kicadSymbolki_description': 'Triple 3-input AND', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

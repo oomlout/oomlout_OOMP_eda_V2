@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD7224KP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7224KP|
 |Hex ID (short code)|hexID|SZKANALOGDACAD7224KP|
-|Name|name|AD7224KP|
+|name|name|AD7224KP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD7224KP', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/static/imported-files/data_sheets/AD7224.pdf', 'kicadSymbolki_keywords': '8bit DAC Dual Single Supply', 'kicadSymbolki_description': '8bit DAC, Dual or Single Supply, PLCC-20', 'kicadSymbolki_fp_filters': 'PLCC*'}]|
 ||||

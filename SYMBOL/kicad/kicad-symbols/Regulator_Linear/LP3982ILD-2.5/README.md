@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LP3982ILD-2.5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP3982ILD-2.5|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLP3982ILD25|
-|Name|name|LP3982ILD-2.5|
+|name|name|LP3982ILD-2.5|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LP3982ILD-1.8', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LP3982ILD-2.5', 'kicadSymbolFootprint': 'Package_SON:WSON-8-1EP_3x2.5mm_P0.5mm_EP1.2x1.5mm_PullBack_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lp3982.pdf', 'kicadSymbolki_keywords': 'linear regulator', 'kicadSymbolki_description': '2.5V, 300mA, Micropower, Ultra-Low-Dropout, Low-Noise CMOS Regulator, WSON-8', 'kicadSymbolki_fp_filters': 'WSON*1EP*3x2.5mm*P0.5mm*'}]|
 ||||

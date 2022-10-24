@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC6VHX380T-FF1154|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VHX380T-FF1154|
 |Hex ID (short code)|hexID|SZKFPGAXILINXVIRTEX6XC6VHX38TFF1154|
-|Name|name|XC6VHX380T-FF1154|
+|name|name|XC6VHX380T-FF1154|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC6VHX380T-FF1154', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Virtex 6 HXT 380 XC6VHX380T-FF1154'}]|
 ||||

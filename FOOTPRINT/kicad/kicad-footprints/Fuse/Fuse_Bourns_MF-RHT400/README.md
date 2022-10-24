@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Fuse_Bourns_MF-RHT400|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-RHT400|
 |Hex ID (short code)|hexID|FZKFUFUBOURNSMFRHT4|
-|Name|name|Fuse : Fuse_Bourns_MF-RHT400|
+|name|name|Fuse : Fuse_Bourns_MF-RHT400|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Fuse_Bourns_MF-RHT400', 'description': 'PTC Resettable Fuse, Ihold = 4.0A, Itrip=7.5A, http://www.bourns.com/docs/product-datasheets/mfrht.pdf', 'tags': 'ptc resettable fuse polyfuse THT', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Bourns_MF-RHT400.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Bourns_MF-RHT400/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Bourns_MF-RHT400/kicadPcb3d_450.png

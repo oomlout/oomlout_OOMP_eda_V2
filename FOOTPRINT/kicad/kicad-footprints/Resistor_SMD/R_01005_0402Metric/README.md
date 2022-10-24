@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|R_01005_0402Metric|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_01005_0402Metric|
 |Hex ID (short code)|hexID|FZKRESISTORSMR1542METRIC|
-|Name|name|Resistor_SMD : R_01005_0402Metric|
+|name|name|Resistor_SMD : R_01005_0402Metric|
 |Footprint Kicad|footprintKicadDetails|{'name': 'R_01005_0402Metric', 'description': 'Resistor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator', 'tags': 'resistor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_01005_0402Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_01005_0402Metric/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_01005_0402Metric/kicadPcb3d_450.png

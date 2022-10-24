@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP4801-EMC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4801-EMC|
 |Hex ID (short code)|hexID|SZKANALOGDACMCP481EMC|
-|Name|name|MCP4801-EMC|
+|name|name|MCP4801-EMC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP4801-EMC', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.45mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/22244B.pdf', 'kicadSymbolki_keywords': '8-Bit DAC SPI Reference 1ch', 'kicadSymbolki_description': '8-Bit D/A Converters with SPI Interface, internal Reference (2.048V)', 'kicadSymbolki_fp_filters': 'DFN*1EP*3x2mm*P0.5mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74HC14|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74HC14|
 |Hex ID (short code)|hexID|SZK74XX74HC14|
-|Name|name|74HC14|
+|name|name|74HC14|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74HC14', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74HC14', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'HCMOS not inverter', 'kicadSymbolki_description': 'Hex inverter schmitt trigger', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

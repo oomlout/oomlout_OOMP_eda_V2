@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MountingHole_4.3mm_M4|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_4.3mm_M4|
 |Hex ID (short code)|hexID|FZKHOLHOL43M4|
-|Name|name|MountingHole : MountingHole_4.3mm_M4|
+|name|name|MountingHole : MountingHole_4.3mm_M4|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_4.3mm_M4', 'description': 'Mounting Hole 4.3mm, no annular, M4', 'tags': 'mounting hole 4.3mm no annular m4', 'attributeType': None, 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_4.3mm_M4/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_4.3mm_M4/kicadPcb3d_450.png

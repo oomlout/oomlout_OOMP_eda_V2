@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCV8114BSN300T1G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCV8114BSN300T1G|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARNCV8114BSN3T1G|
-|Name|name|NCV8114BSN300T1G|
+|name|name|NCV8114BSN300T1G|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NCV8114ASN120T1G', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCV8114BSN300T1G', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-5', 'kicadSymbolDatasheet': 'https://ru.mouser.com/datasheet/2/308/NCV8114-D-1107616.pdf', 'kicadSymbolki_keywords': 'linear regulator ldo fixed positive', 'kicadSymbolki_description': '300mA, Low Noise, Linear Regulator without output active discharge function, 1.7-5.5V input voltage range, 3.0V fixed positive output, TSOT-23-5', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
 ||||

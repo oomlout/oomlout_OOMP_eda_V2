@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLE2425xLP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-TLE2425xLP|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGETLE2425XLP|
-|Name|name|TLE2425xLP|
+|name|name|TLE2425xLP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TLE2426xLP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLE2425xLP', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tle2425.pdf', 'kicadSymbolki_keywords': 'Rail splitter precision virtual ground 2.5V', 'kicadSymbolki_description': 'Precision virtual ground, 2.5V output, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

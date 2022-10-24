@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADP7182AUJZ-3.3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-ADP7182AUJZ-3.3|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARADP7182AUJZ33|
-|Name|name|ADP7182AUJZ-3.3|
+|name|name|ADP7182AUJZ-3.3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ADP7182AUJZ-1.8', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADP7182AUJZ-3.3', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-5', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADP7182.pdf', 'kicadSymbolki_keywords': 'linear regulator ldo fixed negative', 'kicadSymbolki_description': '200mA, Low Noise, CMOS Low Dropout Regulator, Negative, -3.3V Fixed Output, TSOT-23-5', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
 ||||

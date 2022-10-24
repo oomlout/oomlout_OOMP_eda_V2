@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATSAMD21E16A-A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD21E16A-A|
 |Hex ID (short code)|hexID|SZKMCUMCHIPSAMDATSAMD21E16AA|
-|Name|name|ATSAMD21E16A-A|
+|name|name|ATSAMD21E16A-A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATSAMD21E15A-A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATSAMD21E16A-A', 'kicadSymbolFootprint': 'Package_QFP:TQFP-32_7x7mm_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D21_DA1_Family_Data%20Sheet_DS40001882E.pdf', 'kicadSymbolki_keywords': '32-bit ARM Cortex-M0+ MCU Microcontroller', 'kicadSymbolki_description': 'SAM D21 Microchip SMART ARM-based Flash MCU, 48Mhz, 64K Flash, 8K SRAM, TQFP-32', 'kicadSymbolki_fp_filters': 'TQFP*7x7mm*P0.8mm*'}]|
 ||||

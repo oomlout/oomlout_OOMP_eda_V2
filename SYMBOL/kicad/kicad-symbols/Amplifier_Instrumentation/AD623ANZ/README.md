@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD623ANZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD623ANZ|
 |Hex ID (short code)|hexID|SZKAMPLIFIERINSTRUMENTATIONAD623ANZ|
-|Name|name|AD623ANZ|
+|name|name|AD623ANZ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AD623AN', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD623ANZ', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD623.pdf', 'kicadSymbolki_keywords': 'ad623 instumentation amplifier dip-8', 'kicadSymbolki_description': 'Single Supply, Rail to Rail, Instumentation Amplifier, RoHS, DIP-8', 'kicadSymbolki_fp_filters': 'DIP-8*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|R_Shunt|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-R_Shunt|
 |Hex ID (short code)|hexID|SZKDEVICERSHUNT|
-|Name|name|R_Shunt|
+|name|name|R_Shunt|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'R_Shunt', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'R res shunt resistor', 'kicadSymbolki_description': 'Shunt resistor', 'kicadSymbolki_fp_filters': 'R_*Shunt*'}]|
 ||||

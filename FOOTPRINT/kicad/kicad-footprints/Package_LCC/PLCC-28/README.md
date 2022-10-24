@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PLCC-28|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-28|
 |Hex ID (short code)|hexID|FZKLCCPLCC28|
-|Name|name|Package_LCC : PLCC-28|
+|name|name|Package_LCC : PLCC-28|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PLCC-28', 'description': 'PLCC, 28 pins, surface mount', 'tags': 'plcc smt', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LCC.3dshapes/PLCC-28.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-28/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-28/kicadPcb3d_450.png

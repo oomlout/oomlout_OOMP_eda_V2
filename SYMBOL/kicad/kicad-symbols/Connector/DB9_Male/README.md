@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DB9_Male|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DB9_Male|
 |Hex ID (short code)|hexID|SZKCNDB9MALE|
-|Name|name|DB9_Male|
+|name|name|DB9_Male|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DB9_Male', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'connector male D-SUB', 'kicadSymbolki_description': '9-pin male D-SUB connector', 'kicadSymbolki_fp_filters': 'DSUB*Male*'}]|
 ||||

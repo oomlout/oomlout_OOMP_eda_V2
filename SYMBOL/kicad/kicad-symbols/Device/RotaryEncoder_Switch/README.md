@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RotaryEncoder_Switch|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-RotaryEncoder_Switch|
 |Hex ID (short code)|hexID|SZKDEVICEROTARYENCODERSWITCH|
-|Name|name|RotaryEncoder_Switch|
+|name|name|RotaryEncoder_Switch|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'RotaryEncoder_Switch', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'rotary switch encoder switch push button', 'kicadSymbolki_description': 'Rotary encoder, dual channel, incremental quadrate outputs, with switch', 'kicadSymbolki_fp_filters': 'RotaryEncoder*Switch*'}]|
 ||||

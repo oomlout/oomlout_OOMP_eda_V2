@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Potentiometer_Alps_RK09L_Double_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alps_RK09L_Double_Vertical|
 |Hex ID (short code)|hexID|FZKPPOTENTIOMETERALPSRK9LDOUBLEVERTICAL|
-|Name|name|Potentiometer_THT : Potentiometer_Alps_RK09L_Double_Vertical|
+|name|name|Potentiometer_THT : Potentiometer_Alps_RK09L_Double_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Alps_RK09L_Double_Vertical', 'description': '1240015 1240019 12D0A1W 12D0A1T Potentiometer, vertical, Alps RK09L Double, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09l/rk09l.pdf', 'tags': 'Potentiometer vertical Alps RK09L Double', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK09L_Double_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Alps_RK09L_Double_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Alps_RK09L_Double_Vertical/kicadPcb3d_450.png

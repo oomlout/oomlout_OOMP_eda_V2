@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|+3.3VDAC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-+3.3VDAC|
 |Hex ID (short code)|hexID|SZKPOWER+33VDAC|
-|Name|name|+3.3VDAC|
+|name|name|+3.3VDAC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': '+3.3VDAC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "+3.3VDAC"'}]|
 ||||

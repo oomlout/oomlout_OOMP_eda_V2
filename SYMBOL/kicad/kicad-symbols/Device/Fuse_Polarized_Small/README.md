@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Fuse_Polarized_Small|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Fuse_Polarized_Small|
 |Hex ID (short code)|hexID|SZKDEVICEFUPOLARIZEDSLL|
-|Name|name|Fuse_Polarized_Small|
+|name|name|Fuse_Polarized_Small|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'F', 'kicadSymbolValue': 'Fuse_Polarized_Small', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'fuse', 'kicadSymbolki_description': 'Polarized fuse, small symbol', 'kicadSymbolki_fp_filters': 'SM*'}]|
 ||||

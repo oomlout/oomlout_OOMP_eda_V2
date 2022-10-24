@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Osram_BP104-SMD|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_BP104-SMD|
 |Hex ID (short code)|hexID|FZKOPOSRAMBP14SM|
-|Name|name|OptoDevice : Osram_BP104-SMD|
+|name|name|OptoDevice : Osram_BP104-SMD|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Osram_BP104-SMD', 'description': 'PhotoDiode, plastic SMD DIL, 4.5x4mm, area: 2.2x2.2mm, https://dammedia.osram.info/media/resource/hires/osram-dam-5989350/BP%20104%20FAS_EN.pdf', 'tags': 'PhotoDiode plastic SMD DIL', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Osram_BP104-SMD.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_BP104-SMD/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_BP104-SMD/kicadPcb3d_450.png

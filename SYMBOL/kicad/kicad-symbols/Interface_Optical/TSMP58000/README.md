@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TSMP58000|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Optical-TSMP58000|
 |Hex ID (short code)|hexID|SZKINTERFACEOPTICALTSMP58|
-|Name|name|TSMP58000|
+|name|name|TSMP58000|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TSMP58138', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TSMP58000', 'kicadSymbolFootprint': 'OptoDevice:Vishay_MINICAST-3Pin', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/82485/tsmp58000.pdf', 'kicadSymbolki_keywords': 'opto IR receiver', 'kicadSymbolki_description': 'Photo Module (Amplify&Condition) for PCM Remote Control Systems', 'kicadSymbolki_fp_filters': 'Vishay*MINICAST*'}]|
 ||||

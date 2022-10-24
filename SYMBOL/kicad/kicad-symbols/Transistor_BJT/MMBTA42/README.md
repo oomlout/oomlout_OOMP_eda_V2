@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MMBTA42|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMBTA42|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBTA42|
-|Name|name|MMBTA42|
+|name|name|MMBTA42|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'MMBTA42', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MMBTA42LT1-D.PDF', 'kicadSymbolki_keywords': 'NPN High Voltage Transistor', 'kicadSymbolki_description': '0.5A Ic, 300V Vce, NPN High Voltage Transistor, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

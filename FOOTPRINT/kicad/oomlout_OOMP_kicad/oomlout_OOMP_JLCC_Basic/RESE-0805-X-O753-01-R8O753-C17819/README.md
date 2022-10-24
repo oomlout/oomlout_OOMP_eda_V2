@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O753-01-R8O753-C17819|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O753-01-R8O753-C17819|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE85XO7531R8O753C17819|
-|Name|name|oomlout_OOMP_JLCC_Basic : RESE-0805-X-O753-01-R8O753-C17819|
+|name|name|oomlout_OOMP_JLCC_Basic : RESE-0805-X-O753-01-R8O753-C17819|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RESE-0805-X-O753-01-R8O753-C17819', 'description': 'hexID: R8O753;PARTL C-JLCC;C17819;MANUF C-XXXX;0805W8F7502T5E; Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator', 'tags': 'resistor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FT221XQ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-FT221XQ|
 |Hex ID (short code)|hexID|SZKINTERFACEUFT221XQ|
-|Name|name|FT221XQ|
+|name|name|FT221XQ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FT221XQ', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm', 'kicadSymbolDatasheet': 'https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT221X.pdf', 'kicadSymbolki_keywords': 'FTDI USB SPI FT1248 interface converter', 'kicadSymbolki_description': 'Full Speed USB to 8-Bit SPI / FT1248 Bridge, QFN-20', 'kicadSymbolki_fp_filters': 'QFN*4x4mm*P0.5mm*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_Cree-PLCC4_5x5mm_CW|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-PLCC4_5x5mm_CW|
 |Hex ID (short code)|hexID|FZKLSMLCREEPLCC45X5CW|
-|Name|name|LED_SMD : LED_Cree-PLCC4_5x5mm_CW|
+|name|name|LED_SMD : LED_Cree-PLCC4_5x5mm_CW|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_Cree-PLCC4_5x5mm_CW', 'description': '5.0mm x 5.0mm PLCC4 LED', 'tags': 'LED Cree PLCC-4', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Cree-PLCC4_5x5mm_CW.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-PLCC4_5x5mm_CW/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-PLCC4_5x5mm_CW/kicadPcb3d_450.png

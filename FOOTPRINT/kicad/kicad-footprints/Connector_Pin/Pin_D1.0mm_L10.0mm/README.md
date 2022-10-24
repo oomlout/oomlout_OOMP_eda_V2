@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Pin_D1.0mm_L10.0mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D1.0mm_L10.0mm|
 |Hex ID (short code)|hexID|FZKCNPINPIND1L1|
-|Name|name|Connector_Pin : Pin_D1.0mm_L10.0mm|
+|name|name|Connector_Pin : Pin_D1.0mm_L10.0mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Pin_D1.0mm_L10.0mm', 'description': 'solder Pin_ diameter 1.0mm, hole diameter 1.0mm (press fit), length 10.0mm', 'tags': 'solder Pin_ press fit', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Pin.3dshapes/Pin_D1.0mm_L10.0mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.0mm_L10.0mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.0mm_L10.0mm/kicadPcb3d_450.png

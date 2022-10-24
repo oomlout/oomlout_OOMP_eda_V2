@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CY7C199|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_RAM-CY7C199|
 |Hex ID (short code)|hexID|SZKMEMORYRAMCY7C199|
-|Name|name|CY7C199|
+|name|name|CY7C199|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CY7C199', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

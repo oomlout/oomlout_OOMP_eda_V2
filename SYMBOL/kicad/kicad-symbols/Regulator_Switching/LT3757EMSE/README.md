@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT3757EMSE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3757EMSE|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLT3757EMSE|
-|Name|name|LT3757EMSE|
+|name|name|LT3757EMSE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT3757EMSE', 'kicadSymbolFootprint': 'Package_SO:MSOP-10-1EP_3x3mm_P0.5mm_EP1.68x1.88mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/3757Afe.pdf', 'kicadSymbolki_keywords': 'Boost flyback SEPIC inverting DC/DC regulator', 'kicadSymbolki_description': 'Boost, flyback, SEPIC and inverting regulator. MSOP-10', 'kicadSymbolki_fp_filters': 'MSOP*EP*3x3mm*P0.5mm*'}]|
 ||||

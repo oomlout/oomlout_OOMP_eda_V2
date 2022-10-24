@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MPC8641D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPU_PowerPC-MPC8641D|
 |Hex ID (short code)|hexID|SZKCPUPOWERPCMPC8641D|
-|Name|name|MPC8641D|
+|name|name|MPC8641D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MPC8641D', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'POWERPC', 'kicadSymbolki_description': 'Freescale PowerPC E600 core, package BGA1023 pins pitch 1mm'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS147|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS147|
 |Hex ID (short code)|hexID|SZK74XX74LS147|
-|Name|name|74LS147|
+|name|name|74LS147|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS147', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS147', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL ENCOD', 'kicadSymbolki_description': 'Priority Encoder, 10 to 4', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

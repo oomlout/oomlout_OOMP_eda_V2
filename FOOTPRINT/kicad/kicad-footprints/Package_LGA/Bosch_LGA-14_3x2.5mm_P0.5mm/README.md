@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Bosch_LGA-14_3x2.5mm_P0.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LGA-Bosch_LGA-14_3x2.5mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKLGABOSCHLGA143X25P5|
-|Name|name|Package_LGA : Bosch_LGA-14_3x2.5mm_P0.5mm|
+|name|name|Package_LGA : Bosch_LGA-14_3x2.5mm_P0.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Bosch_LGA-14_3x2.5mm_P0.5mm', 'description': 'LGA-14 Bosch https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMI160-DS000-07.pdf', 'tags': 'lga land grid array', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/Bosch_LGA-14_3x2.5mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Bosch_LGA-14_3x2.5mm_P0.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_LGA/Bosch_LGA-14_3x2.5mm_P0.5mm/kicadPcb3d_450.png

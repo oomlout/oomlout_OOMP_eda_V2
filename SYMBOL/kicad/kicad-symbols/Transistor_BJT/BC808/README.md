@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BC808|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC808|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBC88|
-|Name|name|BC808|
+|name|name|BC808|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BC807', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC808', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/BC808-D.pdf', 'kicadSymbolki_keywords': 'PNP Transistor', 'kicadSymbolki_description': '0.8A Ic, 25V Vce, PNP Transistor, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

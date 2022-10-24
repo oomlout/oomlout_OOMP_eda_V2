@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|LEDS-2020-RGB-K102-01-L20102|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-2020-RGB-K102-01-L20102|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS22RGBK121L212|
-|Name|name|LEDS-2020-RGB-K102-01-L20102|
+|name|name|LEDS-2020-RGB-K102-01-L20102|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LEDS-2020-RGB-K102-01-L20102', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:LEDS-2020-RGB-K102-01-L20102', 'kicadSymbolDatasheet': 'oom.lt/L20102', 'kicadSymbolki_keywords': 'LED diode', 'kicadSymbolki_description': 'hexID: L20102;Light emitting diode', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

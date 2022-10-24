@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD8421ARMZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8421ARMZ|
 |Hex ID (short code)|hexID|SZKAMPLIFIERINSTRUMENTATIONAD8421ARMZ|
-|Name|name|AD8421ARMZ|
+|name|name|AD8421ARMZ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AD8422ARMZ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD8421ARMZ', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD8421.pdf', 'kicadSymbolki_keywords': 'ad8421 instumentation amplifier msop-8', 'kicadSymbolki_description': 'Low Power,  Instumentation Amplifier, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP-8*'}]|
 ||||

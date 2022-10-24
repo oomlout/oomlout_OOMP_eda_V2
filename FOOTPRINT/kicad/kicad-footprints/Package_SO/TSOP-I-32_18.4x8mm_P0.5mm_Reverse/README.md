@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TSOP-I-32_18.4x8mm_P0.5mm_Reverse|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-I-32_18.4x8mm_P0.5mm_Reverse|
 |Hex ID (short code)|hexID|FZKSOTSI32184X8P5R|
-|Name|name|Package_SO : TSOP-I-32_18.4x8mm_P0.5mm_Reverse|
+|name|name|Package_SO : TSOP-I-32_18.4x8mm_P0.5mm_Reverse|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TSOP-I-32_18.4x8mm_P0.5mm_Reverse', 'description': 'TSOP I, 32 pins, 18.4x8mm body (http://www.futurlec.com/Datasheet/Memory/628128.pdf), reverse mount', 'tags': 'TSOP I 32 reverse', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSOP-I-32_18.4x8mm_P0.5mm_Reverse.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-I-32_18.4x8mm_P0.5mm_Reverse/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-I-32_18.4x8mm_P0.5mm_Reverse/kicadPcb3d_450.png

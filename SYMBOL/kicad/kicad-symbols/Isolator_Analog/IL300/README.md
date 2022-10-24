@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IL300|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator_Analog-IL300|
 |Hex ID (short code)|hexID|SZKISOLATORANALOGIL3|
-|Name|name|IL300|
+|name|name|IL300|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IL300', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/83622/il300.pdf', 'kicadSymbolki_keywords': 'Isolated Linear Photocoupler', 'kicadSymbolki_description': 'Isolated Linear Photocoupler, High Gain, Wideband, DIP8/SMD-DIP8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* DIP*W10.16mm* SMDIP*W7.62mm* SMDIP*W9.53mm* SMDIP*W11.48mm*'}]|
 ||||

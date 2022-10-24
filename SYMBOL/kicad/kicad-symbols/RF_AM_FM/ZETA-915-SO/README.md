@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|ZETA-915-SO|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_AM_FM-ZETA-915-SO|
 |Hex ID (short code)|hexID|SZKRFAMFMZETA915SO|
-|Name|name|ZETA-915-SO|
+|name|name|ZETA-915-SO|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZETA-433-SO', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ZETA-915-SO', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.rfsolutions.co.uk/downloads/1456219226DS-ZETA.pdf', 'kicadSymbolki_keywords': 'RF TRANSCEIVER MODULE', 'kicadSymbolki_description': 'FM ZETA TRANSCEIVER MODULE, OPTIMISED FOR 915MHZ', 'kicadSymbolki_fp_filters': 'ZETA?433?SO?SMD* ZETA?433?SO?THT*'}]|
 ||||

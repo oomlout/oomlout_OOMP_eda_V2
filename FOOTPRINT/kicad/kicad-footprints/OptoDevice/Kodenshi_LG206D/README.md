@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Kodenshi_LG206D|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kodenshi_LG206D|
 |Hex ID (short code)|hexID|FZKOPKODENSHILG26D|
-|Name|name|OptoDevice : Kodenshi_LG206D|
+|name|name|OptoDevice : Kodenshi_LG206D|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Kodenshi_LG206D', 'description': 'http://kodenshi.co.jp/products/pdf/sensor/photointerrupter_ic/LG206D.pdf', 'tags': 'Photointerrupter  infrared LED with photo IC', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Kodenshi_LG206D.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Kodenshi_LG206D/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/Kodenshi_LG206D/kicadPcb3d_450.png

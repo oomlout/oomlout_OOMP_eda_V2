@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SP3485CP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-SP3485CP|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTSP3485CP|
-|Name|name|SP3485CP|
+|name|name|SP3485CP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SP3481CP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SP3485CP', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.icbase.com/pdf/SPX/SPX00480106.pdf', 'kicadSymbolki_keywords': 'Low Power Half-Duplex RS-485 Transceiver 10Mbps', 'kicadSymbolki_description': '3.3V Low Power Half-Duplex RS-485 Transceiver 10Mbps, DIP8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

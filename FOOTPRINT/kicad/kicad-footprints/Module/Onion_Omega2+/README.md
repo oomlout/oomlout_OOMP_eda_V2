@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Onion_Omega2+|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Module-Onion_Omega2+|
 |Hex ID (short code)|hexID|FZKMOONIONOMEGA2+|
-|Name|name|Module : Onion_Omega2+|
+|name|name|Module : Onion_Omega2+|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Onion_Omega2+', 'description': 'https://onion.io/omega2/', 'tags': 'Omega Onion module', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Module.3dshapes/Onion_Omega2+.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/Onion_Omega2+/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Module/Onion_Omega2+/kicadPcb3d_450.png

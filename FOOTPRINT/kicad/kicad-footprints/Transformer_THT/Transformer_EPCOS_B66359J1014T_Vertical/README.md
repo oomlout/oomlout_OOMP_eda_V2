@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_EPCOS_B66359J1014T_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_EPCOS_B66359J1014T_Vertical|
 |Hex ID (short code)|hexID|FZKTRTREPCOSB66359J114TVERTICAL|
-|Name|name|Transformer_THT : Transformer_EPCOS_B66359J1014T_Vertical|
+|name|name|Transformer_THT : Transformer_EPCOS_B66359J1014T_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_EPCOS_B66359J1014T_Vertical', 'description': 'Transformer, Transformator, ETD29, 14 Pin, Vertical, EPCOS-B66359J1014T,', 'tags': 'Transformer Transformator ETD29 14 Pin Vertical EPCOS-B66359J1014T ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_EPCOS_B66359J1014T_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PocketBeagle|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Module-PocketBeagle|
 |Hex ID (short code)|hexID|SZKMCUMOPOCKETBEAGLE|
-|Name|name|PocketBeagle|
+|name|name|PocketBeagle|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PocketBeagle', 'kicadSymbolFootprint': 'Module:BeagleBoard_PocketBeagle', 'kicadSymbolDatasheet': 'https://github.com/beagleboard/pocketbeagle/wiki/System-Reference-Manual', 'kicadSymbolki_keywords': 'beagleboard pocketbeagle', 'kicadSymbolki_description': 'Singleboard computer with ARM Cortex-A8 1GHz, 512MB RAM', 'kicadSymbolki_fp_filters': 'BeagleBoard*PocketBeagle*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VSIN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VSIN|
 |Hex ID (short code)|hexID|SZKSIMULATIONSPICEVSIN|
-|Name|name|VSIN|
+|name|name|VSIN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'V', 'kicadSymbolValue': 'VSIN', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolSpice_Netlist_Enabled': 'Y', 'kicadSymbolSpice_Primitive': 'V', 'kicadSymbolSpice_Model': 'sin(0 1 1k)', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Voltage source, sinusoidal'}]|
 ||||

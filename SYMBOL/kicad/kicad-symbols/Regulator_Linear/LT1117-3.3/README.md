@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1117-3.3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1117-3.3|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLT111733|
-|Name|name|LT1117-3.3|
+|name|name|LT1117-3.3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LT1117-2.85', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1117-3.3', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1117fd.pdf', 'kicadSymbolki_keywords': 'linear regulator ldo fixed positive', 'kicadSymbolki_description': '800mA Low-Dropout Linear Regulator, 3.3V fixed output, SOT-223/TO-263', 'kicadSymbolki_fp_filters': 'SOT?223* TO?263*'}]|
 ||||

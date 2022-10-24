@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC6844|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-MC6844|
 |Hex ID (short code)|hexID|SZKINTERFACEMC6844|
-|Name|name|MC6844|
+|name|name|MC6844|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC6844', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://pdf.datasheetcatalog.com/datasheets/560/501527_DS.pdf', 'kicadSymbolki_keywords': 'Direct Memory Access Controller', 'kicadSymbolki_description': 'Direct Memory Access Controller 1MHz, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

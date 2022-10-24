@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EX128-TQ64|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-EX128-TQ64|
 |Hex ID (short code)|hexID|SZKFPGAMSEMIEX128TQ64|
-|Name|name|EX128-TQ64|
+|name|name|EX128-TQ64|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EX128-TQ64', 'kicadSymbolFootprint': 'Package_QFP:TQFP-64_10x10mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.microsemi.com/document-portal/doc_download/130687-ex-datasheet', 'kicadSymbolki_keywords': 'Actel FPGA eX eX128', 'kicadSymbolki_description': 'Actel eX Family FPGA, 64pin QFP', 'kicadSymbolki_fp_filters': '*TQFP*10x10mm*P0.5mm*'}]|
 ||||

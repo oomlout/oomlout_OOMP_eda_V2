@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADE7758|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor-ADE7758|
 |Hex ID (short code)|hexID|SZKSENADE7758|
-|Name|name|ADE7758|
+|name|name|ADE7758|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADE7758', 'kicadSymbolFootprint': 'Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADE7758.pdf', 'kicadSymbolki_keywords': 'Energy Metering', 'kicadSymbolki_description': 'Poly Phase Multifunction Energy Metering, SO-24', 'kicadSymbolki_fp_filters': 'SOIC*7.5x15.4mm*P1.27mm*'}]|
 ||||

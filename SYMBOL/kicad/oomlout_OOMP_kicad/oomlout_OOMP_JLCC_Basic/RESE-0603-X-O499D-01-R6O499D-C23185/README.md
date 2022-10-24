@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O499D-01-R6O499D-C23185|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O499D-01-R6O499D-C23185|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE63XO499D1R6O499DC23185|
-|Name|name|RESE-0603-X-O499D-01-R6O499D-C23185|
+|name|name|RESE-0603-X-O499D-01-R6O499D-C23185|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O499D-01-R6O499D-C23185', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O499D-01-R6O499D-C23185', 'kicadSymbolDatasheet': 'oom.lt/R6O499D', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6O499D;PARTL C-JLCC;C23185;MANUF C-XXXX;0603WAF499JT5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

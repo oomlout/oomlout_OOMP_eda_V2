@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PMEG4005CEJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-PMEG4005CEJ|
 |Hex ID (short code)|hexID|SZKDIODEPMEG45CEJ|
-|Name|name|PMEG4005CEJ|
+|name|name|PMEG4005CEJ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PMEG2005EJ', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'PMEG4005CEJ', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-323F', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/PMEG4005CEJ.pdf', 'kicadSymbolki_keywords': 'forward voltage diode', 'kicadSymbolki_description': '40V, 500mA low Vf MEGA Schottky barrier rectifier, SOD-323F', 'kicadSymbolki_fp_filters': 'D*SOD?323F*'}]|
 ||||

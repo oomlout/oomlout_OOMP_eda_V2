@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SFH2701|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH2701|
 |Hex ID (short code)|hexID|SZKSENOPTICALSFH271|
-|Name|name|SFH2701|
+|name|name|SFH2701|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SFH2701', 'kicadSymbolFootprint': 'LED_SMD:LED_1206_3216Metric_Castellated', 'kicadSymbolDatasheet': 'http://www.osram-os.com/Graphics/XPic6/00201111_0.pdf/SFH%202701.pdf', 'kicadSymbolki_keywords': 'opto photodiode', 'kicadSymbolki_description': 'High Speed PIN Photodiode, SMD package', 'kicadSymbolki_fp_filters': 'LED*1206*'}]|
 ||||

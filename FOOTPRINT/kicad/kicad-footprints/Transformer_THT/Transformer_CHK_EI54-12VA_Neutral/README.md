@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_CHK_EI54-12VA_Neutral|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_EI54-12VA_Neutral|
 |Hex ID (short code)|hexID|FZKTRTRCHKEI5412VANEUTRAL|
-|Name|name|Transformer_THT : Transformer_CHK_EI54-12VA_Neutral|
+|name|name|Transformer_THT : Transformer_CHK_EI54-12VA_Neutral|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_CHK_EI54-12VA_Neutral', 'description': 'Trafo, Printtrafo, CHK, EI54, 12VA, neutral,http://www.eratransformers.com/product-detail/19', 'tags': 'Trafo Printtrafo CHK EI54 12VA neutral ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_CHK_EI54-12VA_Neutral.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

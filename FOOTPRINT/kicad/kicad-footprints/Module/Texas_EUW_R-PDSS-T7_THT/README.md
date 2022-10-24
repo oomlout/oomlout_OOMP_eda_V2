@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Texas_EUW_R-PDSS-T7_THT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Module-Texas_EUW_R-PDSS-T7_THT|
 |Hex ID (short code)|hexID|FZKMOTEXASEUWRPDSST7THT|
-|Name|name|Module : Texas_EUW_R-PDSS-T7_THT|
+|name|name|Module : Texas_EUW_R-PDSS-T7_THT|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Texas_EUW_R-PDSS-T7_THT', 'description': 'Texas Instruments EUW 7 Pin Double Sided Module', 'tags': 'module pcb', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Module.3dshapes/Texas_EUW_R-PDSS-T7_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/Texas_EUW_R-PDSS-T7_THT/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Module/Texas_EUW_R-PDSS-T7_THT/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74AUP1G80|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-74AUP1G80|
 |Hex ID (short code)|hexID|SZK74XGXX74AUP1G8|
-|Name|name|74AUP1G80|
+|name|name|74AUP1G80|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LVC1G80', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AUP1G80', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf', 'kicadSymbolki_keywords': 'Single D Flip-Flop CMOS', 'kicadSymbolki_description': 'Single D Flip-Flop Iverted Output, Low-Voltage CMOS', 'kicadSymbolki_fp_filters': 'SOT* SG*'}]|
 ||||

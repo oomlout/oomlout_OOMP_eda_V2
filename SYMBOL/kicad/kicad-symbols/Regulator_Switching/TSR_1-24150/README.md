@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TSR_1-24150|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TSR_1-24150|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTSR12415|
-|Name|name|TSR_1-24150|
+|name|name|TSR_1-24150|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TSR_1-2450', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TSR_1-24150', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_TRACO_TSR-1_THT', 'kicadSymbolDatasheet': 'http://www.tracopower.com/products/tsr1.pdf', 'kicadSymbolki_keywords': 'dc-dc traco buck', 'kicadSymbolki_description': '1A step-down regulator module, fixed 15V output voltage, 8-36V input voltage, -40°C to +85°C temperature range, TO-220 compatible LM78xx replacement', 'kicadSymbolki_fp_filters': 'Converter*DCDC*TRACO*TSR?1*'}]|
 ||||

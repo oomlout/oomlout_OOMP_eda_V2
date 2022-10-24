@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CircuitBreaker_2P_US|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-CircuitBreaker_2P_US|
 |Hex ID (short code)|hexID|SZKDEVICECIRCUITBREAKER2PUS|
-|Name|name|CircuitBreaker_2P_US|
+|name|name|CircuitBreaker_2P_US|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'CB', 'kicadSymbolValue': 'CircuitBreaker_2P_US', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'CB 2P', 'kicadSymbolki_description': 'Double pole circuit breaker, US symbol'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DIN-5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DIN-5|
 |Hex ID (short code)|hexID|SZKCNDIN5|
-|Name|name|DIN-5|
+|name|name|DIN-5|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DIN-5', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf', 'kicadSymbolki_keywords': 'circular DIN connector', 'kicadSymbolki_description': '5-pin DIN connector', 'kicadSymbolki_fp_filters': 'DIN*'}]|
 ||||

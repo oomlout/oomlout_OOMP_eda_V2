@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega3209-A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega3209-A|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA329A|
-|Name|name|ATmega3209-A|
+|name|name|ATmega3209-A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega3209-A', 'kicadSymbolFootprint': 'Package_QFP:TQFP-48_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/40002016A.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR', 'kicadSymbolki_description': '20MHz, 32kB Flash, 4kB SRAM, 256B EEPROM, TQFP-48', 'kicadSymbolki_fp_filters': 'TQFP*7x7mm*P0.5mm*'}]|
 ||||

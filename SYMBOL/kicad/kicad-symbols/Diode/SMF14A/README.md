@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SMF14A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-SMF14A|
 |Hex ID (short code)|hexID|SZKDIODESMF14A|
-|Name|name|SMF14A|
+|name|name|SMF14A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SM6T6V8A', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SMF14A', 'kicadSymbolFootprint': 'Diode_SMD:D_SMF', 'kicadSymbolDatasheet': 'https://www.vishay.com/doc?85881', 'kicadSymbolki_keywords': 'diode TVS voltage suppressor', 'kicadSymbolki_description': '200W unidirectional Transil Transient Voltage Suppressor, 14Vrwm, SMF', 'kicadSymbolki_fp_filters': 'D*SMF*'}]|
 ||||

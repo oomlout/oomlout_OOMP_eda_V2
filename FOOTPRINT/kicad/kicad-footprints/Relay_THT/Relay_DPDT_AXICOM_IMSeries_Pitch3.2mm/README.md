@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Relay_DPDT_AXICOM_IMSeries_Pitch3.2mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_AXICOM_IMSeries_Pitch3.2mm|
 |Hex ID (short code)|hexID|FZKRELRELAYDPDTAXICOMIMSERIESPITCH32|
-|Name|name|Relay_THT : Relay_DPDT_AXICOM_IMSeries_Pitch3.2mm|
+|name|name|Relay_THT : Relay_DPDT_AXICOM_IMSeries_Pitch3.2mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Relay_DPDT_AXICOM_IMSeries_Pitch3.2mm', 'description': 'AXICOM IM-Series Relays, DPDR, Pitch 3.2mm, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Specification+Or+Standard%7F108-98001%7FV%7Fpdf%7FEnglish%7FENG_SS_108-98001_V_IM_0614_v1.pdf%7F4-1462039-1', 'tags': 'AXICOM IM-Series Relay DPDR Pitch 3.2mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_AXICOM_IMSeries_Pitch3.2mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_AXICOM_IMSeries_Pitch3.2mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_AXICOM_IMSeries_Pitch3.2mm/kicadPcb3d_450.png

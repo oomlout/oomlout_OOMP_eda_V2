@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|AGILENT_HFBR-252x|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-AGILENT_HFBR-252x|
 |Hex ID (short code)|hexID|FZKOPAGILENTHFBR252X|
-|Name|name|OptoDevice : AGILENT_HFBR-252x|
+|name|name|OptoDevice : AGILENT_HFBR-252x|
 |Footprint Kicad|footprintKicadDetails|{'name': 'AGILENT_HFBR-252x', 'description': 'Fiberoptic Receiver RX, HFBR series (https://docs.broadcom.com/docs/AV02-3283EN)', 'tags': 'Fiberoptic Transmitter', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/AGILENT_HFBR-252x.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/AGILENT_HFBR-252x/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/AGILENT_HFBR-252x/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|R_Network09_Split|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-R_Network09_Split|
 |Hex ID (short code)|hexID|SZKDEVICERNETWORK9SPLIT|
-|Name|name|R_Network09_Split|
+|name|name|R_Network09_Split|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'RN', 'kicadSymbolValue': 'R_Network09_Split', 'kicadSymbolFootprint': 'Resistor_THT:R_Array_SIP10', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/31509/csc.pdf', 'kicadSymbolki_keywords': 'R network star-topology', 'kicadSymbolki_description': '9 resistor network, star topology, bussed resistors, split', 'kicadSymbolki_fp_filters': 'R?Array?SIP*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LMR62421XSD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR62421XSD|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLMR62421XSD|
-|Name|name|LMR62421XSD|
+|name|name|LMR62421XSD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LMR62421XSD', 'kicadSymbolFootprint': 'Package_SON:WSON-6-1EP_3x3mm_P0.95mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lmr62421.pdf', 'kicadSymbolki_keywords': 'Miniature Step-Up Boost SEPIC Voltage Regulator', 'kicadSymbolki_description': '2.1A, 24Vout Step-Up Voltage Regulator, 1.6MHz Frequency, WSON-6', 'kicadSymbolki_fp_filters': 'WSON*EP*3x3mm*P0.95mm*'}]|
 ||||

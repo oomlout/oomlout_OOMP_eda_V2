@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HO25-NSM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-HO25-NSM|
 |Hex ID (short code)|hexID|SZKSENCURRENTHO25NSM|
-|Name|name|HO25-NSM|
+|name|name|HO25-NSM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HO8-NSM', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HO25-NSM', 'kicadSymbolFootprint': 'Sensor_Current:LEM_HO8-NSM', 'kicadSymbolDatasheet': 'https://www.lem.com/sites/default/files/products_datasheets/ho-nsm-0000_series.pdf', 'kicadSymbolki_keywords': 'current transducer', 'kicadSymbolki_description': 'Current Transducer, 25A, Unipolar, 5V', 'kicadSymbolki_fp_filters': 'LEM*HO8*NSM*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TSOP38G36|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP38G36|
 |Hex ID (short code)|hexID|SZKINTERFACEOPTICALTS38G36|
-|Name|name|TSOP38G36|
+|name|name|TSOP38G36|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TSOP581xx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TSOP38G36', 'kicadSymbolFootprint': 'OptoDevice:Vishay_MINICAST-3Pin', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/82731/tsop38g36.pdf', 'kicadSymbolki_keywords': 'opto IR receiver', 'kicadSymbolki_description': 'Photo Modules for PCM Remote Control Systems', 'kicadSymbolki_fp_filters': 'Vishay*MINICAST*'}]|
 ||||

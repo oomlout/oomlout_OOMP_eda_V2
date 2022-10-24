@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles|
 |Hex ID (short code)|hexID|FZKCNUUMBTENSILITY5423VERTICALCIRCULARH|
-|Name|name|Connector_USB : USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles|
+|name|name|Connector_USB : USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles', 'description': 'http://www.tensility.com/pdffiles/54-00023.pdf', 'tags': 'usb mini receptacle vertical', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Mini-B_Tensility_54-00023_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles/kicadPcb3d_450.png

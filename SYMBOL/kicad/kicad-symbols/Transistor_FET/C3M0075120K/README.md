@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C3M0075120K|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-C3M0075120K|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETC3M7512K|
-|Name|name|C3M0075120K|
+|name|name|C3M0075120K|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'C3M0030090K', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'C3M0075120K', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-247-4_Vertical', 'kicadSymbolDatasheet': 'https://www.wolfspeed.com/media/downloads/959/c3m0075120k.pdf', 'kicadSymbolki_keywords': 'N-Channel SiC MOSFET', 'kicadSymbolki_description': '30A Id, 1200V Vds, 75mOhm, N-Channel SiC MOSFET, TO-247-4', 'kicadSymbolki_fp_filters': 'TO?247*'}]|
 ||||

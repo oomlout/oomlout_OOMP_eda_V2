@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HDSP-4832|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-LED-HDSP-4832|
 |Hex ID (short code)|hexID|SZKLHDSP4832|
-|Name|name|HDSP-4832|
+|name|name|HDSP-4832|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'BAR', 'kicadSymbolValue': 'HDSP-4832', 'kicadSymbolFootprint': 'Display:HDSP-4832', 'kicadSymbolDatasheet': 'https://docs.broadcom.com/docs/AV02-1798EN', 'kicadSymbolki_keywords': 'display LED array', 'kicadSymbolki_description': '10-element LED arrays, Mix of high efficient red, yellow and green', 'kicadSymbolki_fp_filters': 'HDSP?48*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Fastron_PISN_Handsoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Fastron_PISN_Handsoldering|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLFASTRONPISNHANDSOLDERING|
-|Name|name|Inductor_SMD : L_Fastron_PISN_Handsoldering|
+|name|name|Inductor_SMD : L_Fastron_PISN_Handsoldering|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Fastron_PISN_Handsoldering', 'description': 'Choke, Drossel, PISN, SMD, Fastron,', 'tags': 'Choke Drossel PISN SMD Fastron ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Fastron_PISN.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Fastron_PISN_Handsoldering/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Fastron_PISN_Handsoldering/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CHIP-PRO|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Module-CHIP-PRO|
 |Hex ID (short code)|hexID|SZKMCUMOCHIPPRO|
-|Name|name|CHIP-PRO|
+|name|name|CHIP-PRO|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CHIP-PRO', 'kicadSymbolFootprint': 'Module:MODULE_NEXTTHINGCO_CHIPPRO', 'kicadSymbolDatasheet': 'https://github.com/NextThingCo/CHIP_Pro-Hardware/blob/master/Datasheets/CHIP_PRO_Datasheet_v1.0.pdf', 'kicadSymbolki_keywords': 'nextthingco chip pro module', 'kicadSymbolki_description': 'NextThingCo C.H.I.P. Pro Module', 'kicadSymbolki_fp_filters': 'MODULE*NEXTTHINGCO*CHIPPRO*'}]|
 ||||

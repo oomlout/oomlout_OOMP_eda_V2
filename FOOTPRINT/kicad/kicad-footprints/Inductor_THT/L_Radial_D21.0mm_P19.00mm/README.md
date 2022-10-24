@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Radial_D21.0mm_P19.00mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D21.0mm_P19.00mm|
 |Hex ID (short code)|hexID|FZKINLRD21P19|
-|Name|name|Inductor_THT : L_Radial_D21.0mm_P19.00mm|
+|name|name|Inductor_THT : L_Radial_D21.0mm_P19.00mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Radial_D21.0mm_P19.00mm', 'description': 'Inductor, Radial series, Radial, pin pitch=19.00mm, , diameter=21mm, http://www.abracon.com/Magnetics/radial/AIRD02.pdf', 'tags': 'Inductor Radial series Radial pin pitch 19.00mm  diameter 21mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D21.0mm_P19.00mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D21.0mm_P19.00mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D21.0mm_P19.00mm/kicadPcb3d_450.png

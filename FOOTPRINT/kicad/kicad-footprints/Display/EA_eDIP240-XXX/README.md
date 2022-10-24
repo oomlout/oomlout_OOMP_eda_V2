@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|EA_eDIP240-XXX|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-EA_eDIP240-XXX|
 |Hex ID (short code)|hexID|FZKDIEAEDIP24XXX|
-|Name|name|Display : EA_eDIP240-XXX|
+|name|name|Display : EA_eDIP240-XXX|
 |Footprint Kicad|footprintKicadDetails|{'name': 'EA_eDIP240-XXX', 'description': 'LCD graphical display LED backlight 240x128 http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip240-7e.pdf', 'tags': 'LCD graphical display LED backlight 240x128', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display.3dshapes/EA_eDIP240-XXX.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/EA_eDIP240-XXX/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Display/EA_eDIP240-XXX/kicadPcb3d_450.png

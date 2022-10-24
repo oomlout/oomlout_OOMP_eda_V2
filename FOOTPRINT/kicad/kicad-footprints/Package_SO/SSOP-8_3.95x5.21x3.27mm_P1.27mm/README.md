@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SSOP-8_3.95x5.21x3.27mm_P1.27mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-8_3.95x5.21x3.27mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKSOSS8395X521X327P127|
-|Name|name|Package_SO : SSOP-8_3.95x5.21x3.27mm_P1.27mm|
+|name|name|Package_SO : SSOP-8_3.95x5.21x3.27mm_P1.27mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SSOP-8_3.95x5.21x3.27mm_P1.27mm', 'description': 'SSOP-8 3.95x5.21x3.27mm Pitch 1.27mm', 'tags': 'SSOP-8 3.95x5.21x3.27mm 1.27mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SSOP-8_3.95x5.21x3.27mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSOP-8_3.95x5.21x3.27mm_P1.27mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/SSOP-8_3.95x5.21x3.27mm_P1.27mm/kicadPcb3d_450.png

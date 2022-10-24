@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4028|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx-4028|
 |Hex ID (short code)|hexID|SZK4XXX428|
-|Name|name|4028|
+|name|name|4028|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4028', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4028bms.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'CMOS DECOD DECOD10', 'kicadSymbolki_description': 'Decoder 4 to 10 lines', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

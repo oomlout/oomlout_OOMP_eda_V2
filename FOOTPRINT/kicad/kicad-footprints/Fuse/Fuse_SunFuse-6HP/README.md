@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Fuse_SunFuse-6HP|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_SunFuse-6HP|
 |Hex ID (short code)|hexID|FZKFUFUSUNFU6HP|
-|Name|name|Fuse : Fuse_SunFuse-6HP|
+|name|name|Fuse : Fuse_SunFuse-6HP|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Fuse_SunFuse-6HP', 'description': 'SunFuse Ceramic Slow Blow Fuse 6H_6HP.PDF', 'tags': 'UL/CSA 6x32mm Ceramic Slow Blow Fuse', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_SunFuse-6HP.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_SunFuse-6HP/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_SunFuse-6HP/kicadPcb3d_450.png

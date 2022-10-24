@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_NF_ETAL_P3191|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P3191|
 |Hex ID (short code)|hexID|FZKTRSMTRNFETALP3191|
-|Name|name|Transformer_SMD : Transformer_NF_ETAL_P3191|
+|name|name|Transformer_SMD : Transformer_NF_ETAL_P3191|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_NF_ETAL_P3191', 'description': 'NF-Transformer, ETAL, P3191, SMD,', 'tags': 'NF-Transformer ETAL P3191 SMD ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_NF_ETAL_P3191.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

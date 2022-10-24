@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AudioJack2_Switch|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-AudioJack2_Switch|
 |Hex ID (short code)|hexID|SZKCNAUDIOJ2SWITCH|
-|Name|name|AudioJack2_Switch|
+|name|name|AudioJack2_Switch|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'AudioJack2_Switch', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'audio jack receptacle mono headphones phone TS connector', 'kicadSymbolki_description': 'Audio Jack, 2 Poles (Mono / TS), Switched Pole (Normalling)', 'kicadSymbolki_fp_filters': 'Jack*'}]|
 ||||

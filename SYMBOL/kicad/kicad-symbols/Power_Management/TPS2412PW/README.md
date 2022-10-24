@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS2412PW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-TPS2412PW|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTTPS2412PW|
-|Name|name|TPS2412PW|
+|name|name|TPS2412PW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS2412D', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS2412PW', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps2412.pdf', 'kicadSymbolki_keywords': 'ideal-diode or-ing', 'kicadSymbolki_description': 'N+1 and ORing Power Rail Controller, TSSOP-8', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x3mm*P0.65mm* SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

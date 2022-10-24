@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS54061DRB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54061DRB|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS5461DRB|
-|Name|name|TPS54061DRB|
+|name|name|TPS54061DRB|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS54061DRB', 'kicadSymbolFootprint': 'Package_SON:Texas_S-PVSON-N8', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps54061.pdf', 'kicadSymbolki_keywords': 'Step-Down DC-DC Switching Regulator High Voltage Adjustable Frequency', 'kicadSymbolki_description': '0.2A, Step Down DC-DC Converter with Low IQ, 4.5-60V Input Voltage, VSON-8', 'kicadSymbolki_fp_filters': 'Texas*S*PVSON*'}]|
 ||||

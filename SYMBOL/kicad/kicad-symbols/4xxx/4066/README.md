@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4066|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx-4066|
 |Hex ID (short code)|hexID|SZK4XXX466|
-|Name|name|4066|
+|name|name|4066|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '4016', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4066', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/cd4066b.pdf', 'kicadSymbolki_keywords': 'CMOS SWITCH', 'kicadSymbolki_description': 'Quad Analog Switches', 'kicadSymbolki_fp_filters': 'DIP?14*'}]|
 ||||

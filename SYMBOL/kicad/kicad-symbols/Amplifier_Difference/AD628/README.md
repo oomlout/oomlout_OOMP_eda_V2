@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD628|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Difference-AD628|
 |Hex ID (short code)|hexID|SZKAMPLIFIERDIFFERENCEAD628|
-|Name|name|AD628|
+|name|name|AD628|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD628', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD628.pdf', 'kicadSymbolki_keywords': 'difference amplifier', 'kicadSymbolki_description': 'High Common-Mode Voltage, Programmable Gain Difference Amplifier, +/-120V, Gain = 0.1 to 100, SOIC-8/MSOP-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* MSOP*3x3mm*P0.65mm*'}]|
 ||||

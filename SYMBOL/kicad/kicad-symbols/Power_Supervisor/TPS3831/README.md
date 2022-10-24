@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS3831|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Supervisor-TPS3831|
 |Hex ID (short code)|hexID|SZKPOWERSUPERVISORTPS3831|
-|Name|name|TPS3831|
+|name|name|TPS3831|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS3831', 'kicadSymbolFootprint': 'Package_SON:Texas_X2SON-4_1x1mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/sbvs193d/sbvs193d.pdf', 'kicadSymbolki_keywords': 'supply voltage supervisor', 'kicadSymbolki_description': '150-nA, Ultralow Power, Supply Voltage Monitor, X2SON-4', 'kicadSymbolki_fp_filters': 'Texas*X2SON*1x1mm*P0.65mm*'}]|
 ||||

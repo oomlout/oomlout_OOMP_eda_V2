@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VT93xx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-VT93xx|
 |Hex ID (short code)|hexID|SZKSENOPTICALVT93XX|
-|Name|name|VT93xx|
+|name|name|VT93xx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'VT93xx', 'kicadSymbolFootprint': 'OptoDevice:R_LDR_4.9x4.2mm_P2.54mm_Vertical', 'kicadSymbolDatasheet': 'http://www.produktinfo.conrad.com/datenblaetter/125000-149999/140375-da-01-en-FOTOWIDERSTAND__VT_93_N2__THT_.pdf', 'kicadSymbolki_keywords': 'light dependent photo resistor LDR', 'kicadSymbolki_description': 'light dependent resistor', 'kicadSymbolki_fp_filters': 'R*LDR*4.9x4.2mm*P2.54mm*'}]|
 ||||

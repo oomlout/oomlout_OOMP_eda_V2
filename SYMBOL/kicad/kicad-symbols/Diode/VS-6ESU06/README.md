@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VS-6ESU06|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-VS-6ESU06|
 |Hex ID (short code)|hexID|SZKDIODEVS6ESU6|
-|Name|name|VS-6ESU06|
+|name|name|VS-6ESU06|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'VS-6ESU06', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-277A', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/94987/vs-6esu06hm3.pdf', 'kicadSymbolki_keywords': 'diode fred', 'kicadSymbolki_description': '600V 6.0A Ultrafast Rectifier, TO-277A', 'kicadSymbolki_fp_filters': 'TO?277A*'}]|
 ||||

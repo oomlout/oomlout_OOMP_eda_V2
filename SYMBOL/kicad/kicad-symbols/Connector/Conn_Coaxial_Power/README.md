@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Conn_Coaxial_Power|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Conn_Coaxial_Power|
 |Hex ID (short code)|hexID|SZKCNCONNCOAXIALPOWER|
-|Name|name|Conn_Coaxial_Power|
+|name|name|Conn_Coaxial_Power|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Conn_Coaxial_Power', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'BNC SMA SMB SMC LEMO coaxial connector CINCH RCA', 'kicadSymbolki_description': 'coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)', 'kicadSymbolki_fp_filters': '*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO*'}]|
 ||||

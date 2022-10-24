@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ZXGD3009E6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-ZXGD3009E6|
 |Hex ID (short code)|hexID|SZKDRIVERFETZXGD39E6|
-|Name|name|ZXGD3009E6|
+|name|name|ZXGD3009E6|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ZXGD3009E6', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/ZXGD3009E6.pdf', 'kicadSymbolki_keywords': 'gate driver', 'kicadSymbolki_description': '2A (peak) Gate driver, 40V, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

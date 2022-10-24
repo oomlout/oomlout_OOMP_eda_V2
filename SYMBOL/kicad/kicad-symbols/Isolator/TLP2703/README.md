@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLP2703|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-TLP2703|
 |Hex ID (short code)|hexID|SZKISOLATORTLP273|
-|Name|name|TLP2703|
+|name|name|TLP2703|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLP2703', 'kicadSymbolFootprint': 'Package_SO:SO-6L_10x3.84mm_P1.27mm', 'kicadSymbolDatasheet': 'https://toshiba.semicon-storage.com/info/docget.jsp?did=15216&prodName=TLP2703', 'kicadSymbolki_keywords': 'NPN Darlington DC Optocoupler', 'kicadSymbolki_description': '100 kbps, High-speed GaA&As, high-gain, 4.5 - 18 VCC, 5 kVrms, CTR 900%, SO-6L', 'kicadSymbolki_fp_filters': 'SO*6L*10x3.84mm*P1.27mm*'}]|
 ||||

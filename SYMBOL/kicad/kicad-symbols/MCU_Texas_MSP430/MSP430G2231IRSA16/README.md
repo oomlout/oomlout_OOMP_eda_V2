@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MSP430G2231IRSA16|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2231IRSA16|
 |Hex ID (short code)|hexID|SZKMCUTEXASMSP43MSP43G2231IRSA16|
-|Name|name|MSP430G2231IRSA16|
+|name|name|MSP430G2231IRSA16|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MSP430G2131IRSA16', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MSP430G2231IRSA16', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PVQFN-N16_EP2.7x2.7mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/msp430g2231.pdf', 'kicadSymbolki_keywords': 'TI MSP430 16-bit mixed signal microcontroller', 'kicadSymbolki_description': '2kB Flash, 128B RAM, QFN-16', 'kicadSymbolki_fp_filters': 'Texas*S?PVQFN*'}]|
 ||||

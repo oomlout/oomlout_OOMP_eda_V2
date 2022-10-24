@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L6562|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6562|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERL6562|
-|Name|name|L6562|
+|name|name|L6562|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'L6561', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'L6562', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/l6562.pdf', 'kicadSymbolki_keywords': 'SMPS pfc controller', 'kicadSymbolki_description': 'Transition-Mode PFC Controller, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'}]|
 ||||

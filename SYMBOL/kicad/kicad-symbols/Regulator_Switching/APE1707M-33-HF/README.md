@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|APE1707M-33-HF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-APE1707M-33-HF|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGAPE177M33HF|
-|Name|name|APE1707M-33-HF|
+|name|name|APE1707M-33-HF|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'APE1707M-33-HF', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://files.remont-aud.net/baza/dc_dc/data/APE1707.pdf', 'kicadSymbolki_keywords': '3.3V 2A 150KHz PWM Buck DC/DC', 'kicadSymbolki_description': '2A, 150KHz PWM Buck DC/DC Converter, fixed 3.3V output voltage, SO-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

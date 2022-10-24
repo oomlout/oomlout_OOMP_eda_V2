@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FerriteBead|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-FerriteBead|
 |Hex ID (short code)|hexID|SZKDEVICEFERRITEBEAD|
-|Name|name|FerriteBead|
+|name|name|FerriteBead|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'FB', 'kicadSymbolValue': 'FerriteBead', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'L ferrite bead inductor filter', 'kicadSymbolki_description': 'Ferrite bead', 'kicadSymbolki_fp_filters': 'Inductor_* L_* *Ferrite*'}]|
 ||||

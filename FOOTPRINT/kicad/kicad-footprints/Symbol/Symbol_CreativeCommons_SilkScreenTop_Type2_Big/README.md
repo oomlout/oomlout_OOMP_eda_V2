@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Symbol_CreativeCommons_SilkScreenTop_Type2_Big|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CreativeCommons_SilkScreenTop_Type2_Big|
 |Hex ID (short code)|hexID|FZKSZSYCREATIVECOONSSILKSCREENTOPTYPE2BIG|
-|Name|name|Symbol : Symbol_CreativeCommons_SilkScreenTop_Type2_Big|
+|name|name|Symbol : Symbol_CreativeCommons_SilkScreenTop_Type2_Big|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Symbol_CreativeCommons_SilkScreenTop_Type2_Big', 'description': 'Symbol, Creative Commons, SilkScreen Top, Type 2, Big,', 'tags': 'Symbol, Creative Commons, SilkScreen Top, Type 2, Big,', 'attributeType': None, 'pins': {}}|
 ||||

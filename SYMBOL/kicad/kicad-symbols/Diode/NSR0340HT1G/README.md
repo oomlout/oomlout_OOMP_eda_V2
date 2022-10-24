@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NSR0340HT1G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-NSR0340HT1G|
 |Hex ID (short code)|hexID|SZKDIODENSR34HT1G|
-|Name|name|NSR0340HT1G|
+|name|name|NSR0340HT1G|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BAT48JFILM', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'NSR0340HT1G', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-323', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/NSR0340H-D.PDF', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '40V 0.25A Schottky Diode, SOD-323', 'kicadSymbolki_fp_filters': 'D*SOD?323*'}]|
 ||||

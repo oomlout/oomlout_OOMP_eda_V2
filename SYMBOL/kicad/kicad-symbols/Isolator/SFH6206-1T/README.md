@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SFH6206-1T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-SFH6206-1T|
 |Hex ID (short code)|hexID|SZKISOLATORSFH6261T|
-|Name|name|SFH6206-1T|
+|name|name|SFH6206-1T|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SFH620A-2X007T', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SFH6206-1T', 'kicadSymbolFootprint': 'Package_DIP:SMDIP-4_W9.53mm_Clearance8mm', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/83675/sfh620a.pdf', 'kicadSymbolki_keywords': 'Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 40-125', 'kicadSymbolki_description': 'Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 40-125, UL, cUL, BSI, SMD-4', 'kicadSymbolki_fp_filters': 'SMDIP*W9.53mm?Clearance8mm*'}]|
 ||||

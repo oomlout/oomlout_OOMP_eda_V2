@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SC-82AA_Handsoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SC-82AA_Handsoldering|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSC82AAHANDSOLDERING|
-|Name|name|Package_TO_SOT_SMD : SC-82AA_Handsoldering|
+|name|name|Package_TO_SOT_SMD : SC-82AA_Handsoldering|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SC-82AA_Handsoldering', 'description': 'SC-82AA', 'tags': 'SC-82AA', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SC-82AA.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SC-82AA_Handsoldering/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SC-82AA_Handsoldering/kicadPcb3d_450.png

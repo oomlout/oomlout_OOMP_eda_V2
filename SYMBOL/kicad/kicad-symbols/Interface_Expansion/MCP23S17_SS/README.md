@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP23S17_SS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Expansion-MCP23S17_SS|
 |Hex ID (short code)|hexID|SZKINTERFACEEXPANSIONMCP23S17SS|
-|Name|name|MCP23S17_SS|
+|name|name|MCP23S17_SS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP23S17_SS', 'kicadSymbolFootprint': 'Package_SO:SSOP-28_5.3x10.2mm_P0.65mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf', 'kicadSymbolki_keywords': 'SPI parallel port expander', 'kicadSymbolki_description': '16-bit I/O expander, I2C, interrupts, w pull-ups, SSOP-28', 'kicadSymbolki_fp_filters': 'SSOP*5.3x10.2mm*P0.65mm*'}]|
 ||||

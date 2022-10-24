@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CH340T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-CH340T|
 |Hex ID (short code)|hexID|SZKINTERFACEUCH34T|
-|Name|name|CH340T|
+|name|name|CH340T|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CH340T', 'kicadSymbolFootprint': 'Package_SO:SSOP-20_5.3x7.2mm_P0.65mm', 'kicadSymbolDatasheet': 'https://cdn.sparkfun.com/datasheets/Dev/Arduino/Other/CH340DS1.PDF', 'kicadSymbolki_keywords': 'USB UART Serial Converter Interface', 'kicadSymbolki_description': 'USB serial converter, UART, SSOP-20', 'kicadSymbolki_fp_filters': 'SSOP*5.3x7.2mm*P0.65mm*'}]|
 ||||

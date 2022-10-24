@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_RGB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_RGB|
 |Hex ID (short code)|hexID|SZKDEVICELRGB|
-|Name|name|LED_RGB|
+|name|name|LED_RGB|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_RGB', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED RGB diode', 'kicadSymbolki_description': 'RGB LED, 6 pin package', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|KSZ9893RNX|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Ethernet-KSZ9893RNX|
 |Hex ID (short code)|hexID|SZKINTERFACEETHERNETKSZ9893RNX|
-|Name|name|KSZ9893RNX|
+|name|name|KSZ9893RNX|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'KSZ9893RNX', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-64-1EP_8x8mm_P0.4mm_EP6.5x6.5mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/KSZ9893R-Data-Sheet-DS00002420C.pdf', 'kicadSymbolki_keywords': 'Gigabit Ethernet Switch RGMII MII RMII', 'kicadSymbolki_description': '3-Port Gigabit Ethernet Switch with RGMII/MII/RMII Interface, QFN-64', 'kicadSymbolki_fp_filters': 'QFN*1EP*8x8mm*P0.4mm*'}]|
 ||||

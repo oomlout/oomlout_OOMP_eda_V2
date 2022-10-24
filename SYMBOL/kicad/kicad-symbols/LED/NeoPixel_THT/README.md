@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NeoPixel_THT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-LED-NeoPixel_THT|
 |Hex ID (short code)|hexID|SZKLNEOPIXELTHT|
-|Name|name|NeoPixel_THT|
+|name|name|NeoPixel_THT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'NeoPixel_THT', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.adafruit.com/product/1938', 'kicadSymbolki_keywords': 'RGB LED NeoPixel addressable', 'kicadSymbolki_description': 'RGB LED with integrated controller, 5mm/8mm LED package', 'kicadSymbolki_fp_filters': 'LED*D5.0mm* LED*D8.0mm*'}]|
 ||||

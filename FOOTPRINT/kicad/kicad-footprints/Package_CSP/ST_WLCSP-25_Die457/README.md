@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|ST_WLCSP-25_Die457|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-25_Die457|
 |Hex ID (short code)|hexID|FZKCSPSTWLCSP25DIE457|
-|Name|name|Package_CSP : ST_WLCSP-25_Die457|
+|name|name|Package_CSP : ST_WLCSP-25_Die457|
 |Footprint Kicad|footprintKicadDetails|{'name': 'ST_WLCSP-25_Die457', 'description': 'WLCSP-25, 5x5 raster, 2.133x2.070mm package, pitch 0.4mm; see section 7.3 of http://www.st.com/resource/en/datasheet/stm32l011k3.pdf', 'tags': 'BGA 25 0.4', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/ST_WLCSP-25_Die457.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/ST_WLCSP-25_Die457/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_CSP/ST_WLCSP-25_Die457/kicadPcb3d_450.png

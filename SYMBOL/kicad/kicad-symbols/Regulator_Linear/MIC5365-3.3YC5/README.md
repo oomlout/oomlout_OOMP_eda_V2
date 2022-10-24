@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MIC5365-3.3YC5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5365-3.3YC5|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMIC536533YC5|
-|Name|name|MIC5365-3.3YC5|
+|name|name|MIC5365-3.3YC5|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MIC5365-3.3YC5', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-353_SC-70-5', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf', 'kicadSymbolki_keywords': 'Micrel LDO voltage regulator', 'kicadSymbolki_description': '150mA Low-dropout Voltage Regulator, Vout 3.3V, Vin up to 5.5V, SC-70-5', 'kicadSymbolki_fp_filters': 'SOT*353*SC*70*'}]|
 ||||

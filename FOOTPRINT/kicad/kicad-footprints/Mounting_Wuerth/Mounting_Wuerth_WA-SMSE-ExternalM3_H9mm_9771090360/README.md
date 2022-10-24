@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Mounting_Wuerth_WA-SMSE-ExternalM3_H9mm_9771090360|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSE-ExternalM3_H9mm_9771090360|
 |Hex ID (short code)|hexID|FZKMONMONWASMSEEXTERNALM3H99771936|
-|Name|name|Mounting_Wuerth : Mounting_Wuerth_WA-SMSE-ExternalM3_H9mm_9771090360|
+|name|name|Mounting_Wuerth : Mounting_Wuerth_WA-SMSE-ExternalM3_H9mm_9771090360|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Mounting_Wuerth_WA-SMSE-ExternalM3_H9mm_9771090360', 'description': 'Mounting Hardware, external M3, height 9, Wuerth electronics 9771090360 (https://katalog.we-online.com/em/datasheet/9771090360.pdf), generated with kicad-footprint-generator', 'tags': 'Mounting M3 9771090360', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSE-ExternalM3_H9mm_9771090360.wrl', 'pins': {'type': 'smd', 'shape': 'custom'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSE-ExternalM3_H9mm_9771090360/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSE-ExternalM3_H9mm_9771090360/kicadPcb3d_450.png

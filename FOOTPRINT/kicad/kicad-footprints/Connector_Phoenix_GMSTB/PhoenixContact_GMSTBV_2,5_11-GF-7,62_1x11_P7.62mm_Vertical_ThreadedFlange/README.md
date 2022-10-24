@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PhoenixContact_GMSTBV_2,5_11-GF-7,62_1x11_P7.62mm_Vertical_ThreadedFlange|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_GMSTB-PhoenixContact_GMSTBV_2,5_11-GF-7,62_1x11_P7.62mm_Vertical_ThreadedFlange|
 |Hex ID (short code)|hexID|FZKCNPHOENIXGMSTBPHOENIXCONTACTGMSTBV2511GF7621X11P762VERTICALTHREADEDFLANGE|
-|Name|name|Connector_Phoenix_GMSTB : PhoenixContact_GMSTBV_2,5_11-GF-7,62_1x11_P7.62mm_Vertical_ThreadedFlange|
+|name|name|Connector_Phoenix_GMSTB : PhoenixContact_GMSTBV_2,5_11-GF-7,62_1x11_P7.62mm_Vertical_ThreadedFlange|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PhoenixContact_GMSTBV_2,5_11-GF-7,62_1x11_P7.62mm_Vertical_ThreadedFlange', 'description': 'Generic Phoenix Contact connector footprint for: GMSTBV_2,5/11-GF-7,62; number of pins: 11; pin pitch: 7.62mm; Vertical; threaded flange \|\| order number: 1829248 12A 630V', 'tags': 'phoenix_contact connector GMSTBV_01x11_GF_7.62mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Phoenix_GMSTB.3dshapes/PhoenixContact_GMSTBV_2,5_11-GF-7,62_1x11_P7.62mm_Vertical_ThreadedFlange.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBV_2,5_11-GF-7,62_1x11_P7.62mm_Vertical_ThreadedFlange/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBV_2,5_11-GF-7,62_1x11_P7.62mm_Vertical_ThreadedFlange/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IFX25401TBV50|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-IFX25401TBV50|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARIFX2541TBV5|
-|Name|name|IFX25401TBV50|
+|name|name|IFX25401TBV50|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IFX25401TBV50', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-5_TabPin3', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-IFX25401-DS-v01_02-en.pdf?fileId=db3a304320d39d590120f62a690569f7', 'kicadSymbolki_keywords': 'fixed ldo positive voltage regulator', 'kicadSymbolki_description': 'Fixed 5V LDO Linear Voltage Regulator (TO-263-5)', 'kicadSymbolki_fp_filters': 'TO?263*TabPin3*'}]|
 ||||

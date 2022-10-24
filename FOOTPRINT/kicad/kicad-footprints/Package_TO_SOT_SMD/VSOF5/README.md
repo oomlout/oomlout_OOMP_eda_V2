@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|VSOF5|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-VSOF5|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMVSOF5|
-|Name|name|Package_TO_SOT_SMD : VSOF5|
+|name|name|Package_TO_SOT_SMD : VSOF5|
 |Footprint Kicad|footprintKicadDetails|{'name': 'VSOF5', 'description': 'VSOF5', 'tags': 'VSOF5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/VSOF5.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/VSOF5/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/VSOF5/kicadPcb3d_450.png

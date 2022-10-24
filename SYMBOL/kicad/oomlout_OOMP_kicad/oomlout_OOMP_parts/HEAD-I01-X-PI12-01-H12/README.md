@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-I01-X-PI12-01-H12|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI12-01-H12|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI121H12|
-|Name|name|HEAD-I01-X-PI12-01-H12|
+|name|name|HEAD-I01-X-PI12-01-H12|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HEAD-I01-X-PI12-01-H12', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:HEAD-I01-X-PI12-01-H12', 'kicadSymbolDatasheet': 'oom.lt/H12', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'hexID: H12;Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_1x??_*'}]|
 ||||

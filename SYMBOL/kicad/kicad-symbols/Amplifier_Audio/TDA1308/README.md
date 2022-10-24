@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TDA1308|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA1308|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOTDA138|
-|Name|name|TDA1308|
+|name|name|TDA1308|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDA1308', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/TDA1308.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'audio amplifier', 'kicadSymbolki_description': 'Class-AB Stereo Headphone Driver, SOIC-8/TSSOP-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* TSSOP*3x3mm*P0.65mm*'}]|
 ||||

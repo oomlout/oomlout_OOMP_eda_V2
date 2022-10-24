@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_TracoPower_TCK-141|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TracoPower_TCK-141|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLTRACOPOWERTCK141|
-|Name|name|Inductor_SMD : L_TracoPower_TCK-141|
+|name|name|Inductor_SMD : L_TracoPower_TCK-141|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_TracoPower_TCK-141', 'description': 'Choke, SMD, 4.0x4.0mm 2.1mm height, https://www.tracopower.com/products/tck141.pdf', 'tags': 'Choke SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_TracoPower_TCK-141.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_TracoPower_TCK-141/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_TracoPower_TCK-141/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Relay_SPDT_HJR-4102|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_HJR-4102|
 |Hex ID (short code)|hexID|FZKRELRELAYSPDTHJR412|
-|Name|name|Relay_THT : Relay_SPDT_HJR-4102|
+|name|name|Relay_THT : Relay_SPDT_HJR-4102|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Relay_SPDT_HJR-4102', 'description': 'IM Signal Relay SPDT HJR-4102', 'tags': 'Relay SPDT IM-relay HJR-4102', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_HJR-4102.wrl', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPDT_HJR-4102/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPDT_HJR-4102/kicadPcb3d_450.png

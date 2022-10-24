@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS241|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS241|
 |Hex ID (short code)|hexID|SZK74XX74LS241|
-|Name|name|74LS241|
+|name|name|74LS241|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS241', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/sn74ls241.pdf', 'kicadSymbolki_keywords': '7400 logic ttl low power schottky', 'kicadSymbolki_description': 'Octal Buffer and Line Driver With 3-State Output, complementary enables, non-inverting outputs', 'kicadSymbolki_fp_filters': 'DIP?20*'}]|
 ||||

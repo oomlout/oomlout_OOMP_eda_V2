@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Converter_DCDC_MeanWell_NID30_THT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_MeanWell_NID30_THT|
 |Hex ID (short code)|hexID|FZKCONCONMEANWELLNID3THT|
-|Name|name|Converter_DCDC : Converter_DCDC_MeanWell_NID30_THT|
+|name|name|Converter_DCDC : Converter_DCDC_MeanWell_NID30_THT|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_MeanWell_NID30_THT', 'description': 'Meanwell DCDC non-isolated converter SIP module, http://www.meanwell.com/webapp/product/search.aspx?prod=nid30', 'tags': 'DCDC non-isolated converter ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_MeanWell_NID30_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_MeanWell_NID30_THT/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_MeanWell_NID30_THT/kicadPcb3d_450.png

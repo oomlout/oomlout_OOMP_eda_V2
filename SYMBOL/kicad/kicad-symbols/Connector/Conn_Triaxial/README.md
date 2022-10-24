@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Conn_Triaxial|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Conn_Triaxial|
 |Hex ID (short code)|hexID|SZKCNCONNTRIAXIAL|
-|Name|name|Conn_Triaxial|
+|name|name|Conn_Triaxial|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Conn_Triaxial', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'LEMO triaxial connector differential LVDS', 'kicadSymbolki_description': 'triaxial connector (LEMO 00.302, ...)', 'kicadSymbolki_fp_filters': '*LEMO*'}]|
 ||||

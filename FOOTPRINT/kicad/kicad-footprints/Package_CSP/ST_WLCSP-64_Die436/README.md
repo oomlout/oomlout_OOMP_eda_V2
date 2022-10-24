@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|ST_WLCSP-64_Die436|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-64_Die436|
 |Hex ID (short code)|hexID|FZKCSPSTWLCSP64DIE436|
-|Name|name|Package_CSP : ST_WLCSP-64_Die436|
+|name|name|Package_CSP : ST_WLCSP-64_Die436|
 |Footprint Kicad|footprintKicadDetails|{'name': 'ST_WLCSP-64_Die436', 'description': 'WLCSP-64, 8x8 raster, 4.539x4.911mm package, pitch 0.4mm; see section 7.5 of http://www.st.com/resource/en/datasheet/stm32l152zd.pdf', 'tags': 'BGA 64 0.4', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/ST_WLCSP-64_Die436.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/ST_WLCSP-64_Die436/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_CSP/ST_WLCSP-64_Die436/kicadPcb3d_450.png

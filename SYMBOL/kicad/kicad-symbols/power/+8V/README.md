@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|+8V|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-+8V|
 |Hex ID (short code)|hexID|SZKPOWER+8V|
-|Name|name|+8V|
+|name|name|+8V|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': '+8V', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "+8V"'}]|
 ||||

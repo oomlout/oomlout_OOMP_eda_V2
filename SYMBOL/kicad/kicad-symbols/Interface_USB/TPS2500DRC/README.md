@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS2500DRC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-TPS2500DRC|
 |Hex ID (short code)|hexID|SZKINTERFACEUTPS25DRC|
-|Name|name|TPS2500DRC|
+|name|name|TPS2500DRC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS2500DRC', 'kicadSymbolFootprint': 'Package_SON:Texas_S-PVSON-N10', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps2500.pdf', 'kicadSymbolki_keywords': 'USB switch boost', 'kicadSymbolki_description': 'Integrated USB power Switch with Boost Converter, High-Efficiency Eco-mode Control Scheme, Texas S-PVSON-10', 'kicadSymbolki_fp_filters': 'Texas*S*PVSON*N10*'}]|
 ||||

@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O684-01-R8O684-C17797|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O684-01-R8O684-C17797|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE85XO6841R8O684C17797|
-|Name|name|RESE-0805-X-O684-01-R8O684-C17797|
+|name|name|RESE-0805-X-O684-01-R8O684-C17797|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O684-01-R8O684-C17797', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O684-01-R8O684-C17797', 'kicadSymbolDatasheet': 'oom.lt/R8O684', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R8O684;PARTL C-JLCC;C17797;MANUF C-XXXX;0805W8F6803T5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

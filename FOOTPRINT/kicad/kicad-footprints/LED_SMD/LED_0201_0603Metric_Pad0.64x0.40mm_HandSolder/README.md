@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder|
 |Hex ID (short code)|hexID|FZKLSML2163METRICPAD64X4HANDSOLDER|
-|Name|name|LED_SMD : LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder|
+|name|name|LED_SMD : LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder', 'description': 'LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator', 'tags': 'LED handsolder', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0201_0603Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder/kicadPcb3d_450.png

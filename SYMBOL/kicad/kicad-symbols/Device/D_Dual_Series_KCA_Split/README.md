@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Dual_Series_KCA_Split|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Dual_Series_KCA_Split|
 |Hex ID (short code)|hexID|SZKDEVICEDDUALSERIESKCASPLIT|
-|Name|name|D_Dual_Series_KCA_Split|
+|name|name|D_Dual_Series_KCA_Split|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Dual_Series_KCA_Split', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Dual diode, cathode/center/anode'}]|
 ||||

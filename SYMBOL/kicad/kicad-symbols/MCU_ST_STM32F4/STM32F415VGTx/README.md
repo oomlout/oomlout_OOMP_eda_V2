@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F415VGTx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F415VGTx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F4STM32F415VGTX|
-|Name|name|STM32F415VGTx|
+|name|name|STM32F415VGTx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F415VGTx', 'kicadSymbolFootprint': 'Package_QFP:LQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00035129.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32F4 STM32F405/415', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 1024KB flash, 128KB RAM, 168MHz, 1.8-3.6V, 82 GPIO, LQFP-100', 'kicadSymbolki_fp_filters': 'LQFP*14x14mm*P0.5mm*'}]|
 ||||

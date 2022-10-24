@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IA0515D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA0515D|
 |Hex ID (short code)|hexID|SZKCONIA515D|
-|Name|name|IA0515D|
+|name|name|IA0515D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IA0305D', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'IA0515D', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_XP_POWER-IAxxxxD_THT', 'kicadSymbolDatasheet': 'https://www.xppower.com/pdfs/SF_IA.pdf', 'kicadSymbolki_keywords': 'XP_POWER DC/DC isolated Converter module', 'kicadSymbolki_description': 'XP Power 1W, 1000 VDC Isolated DC/DC Converter Module, Dual Output Voltage ±15V, ±33mA, 5V Input Voltage, DIP', 'kicadSymbolki_fp_filters': '*XP?POWER?IAxxxxD*'}]|
 ||||

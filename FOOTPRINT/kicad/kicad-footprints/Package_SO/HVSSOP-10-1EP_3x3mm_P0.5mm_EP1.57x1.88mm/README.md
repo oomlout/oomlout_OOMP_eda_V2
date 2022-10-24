@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm|
 |Hex ID (short code)|hexID|FZKSOHVSS11EP3X3P5EP157X188|
-|Name|name|Package_SO : HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm|
+|name|name|Package_SO : HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm', 'description': 'HVSSOP, 10 Pin (https://www.ti.com/lit/ds/symlink/bq24090.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'HVSSOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm/kicadPcb3d_450.png

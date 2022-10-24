@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Taiyo-Yuden_EYSGJNZWY|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-Taiyo-Yuden_EYSGJNZWY|
 |Hex ID (short code)|hexID|FZKRFMOTAIYOYUDENEYSGJNZWY|
-|Name|name|RF_Module : Taiyo-Yuden_EYSGJNZWY|
+|name|name|RF_Module : Taiyo-Yuden_EYSGJNZWY|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Taiyo-Yuden_EYSGJNZWY', 'description': 'Taiyo Yuden NRF51822 Module Bluetooth https://www.yuden.co.jp/wireless_module/document/datareport2/en/TY_BLE_EYSGJNZ_DataReport_V1_9_20180530E.pdf', 'tags': 'Taiyo Yuden NRF51822 Module Bluetooth ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/Taiyo-Yuden_EYSGJNZWY.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

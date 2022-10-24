@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0603-X-PF5-V50-C6P5-C37474|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-PF5-V50-C6P5-C37474|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XPF5V5C6P5C37474|
-|Name|name|CAPC-0603-X-PF5-V50-C6P5-C37474|
+|name|name|CAPC-0603-X-PF5-V50-C6P5-C37474|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0603-X-PF5-V50-C6P5-C37474', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0603-X-PF5-V50-C6P5-C37474', 'kicadSymbolDatasheet': 'oom.lt/C6P5', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C6P5;PARTL C-JLCC;C37474;MANUF C-XXXX;0603CG6R0C500NT;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-I01-X-PI2X06-SM-H2X6SM|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X06-SM-H2X6SM|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI2X6SMH2X6SM|
-|Name|name|oomlout_OOMP_parts : HEAD-I01-X-PI2X06-SM-H2X6SM|
+|name|name|oomlout_OOMP_parts : HEAD-I01-X-PI2X06-SM-H2X6SM|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HEAD-I01-X-PI2X06-SM-H2X6SM', 'description': 'hexID: H2X6SM; surface-mounted straight pin header, 2x06, 2.54mm pitch, double rows', 'tags': 'Surface mounted pin header SMD 2x06 2.54mm double row', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x06_P2.54mm_Vertical_SMD.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

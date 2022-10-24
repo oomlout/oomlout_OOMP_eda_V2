@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SSOP-48_5.3x12.8mm_P0.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-48_5.3x12.8mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKSOSS4853X128P5|
-|Name|name|Package_SO : SSOP-48_5.3x12.8mm_P0.5mm|
+|name|name|Package_SO : SSOP-48_5.3x12.8mm_P0.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SSOP-48_5.3x12.8mm_P0.5mm', 'description': 'SSOP, 48 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-ssop/05081887_A_G48.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'SSOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SSOP-48_5.3x12.8mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSOP-48_5.3x12.8mm_P0.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/SSOP-48_5.3x12.8mm_P0.5mm/kicadPcb3d_450.png

@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O682-01-R85682|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O682-01-R85682|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO6821R85682|
-|Name|name|RESE-0805-X-O682-01-R85682|
+|name|name|RESE-0805-X-O682-01-R85682|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O682-01-R85682', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O682-01-R85682', 'kicadSymbolDatasheet': 'oom.lt/R85682', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R85682;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

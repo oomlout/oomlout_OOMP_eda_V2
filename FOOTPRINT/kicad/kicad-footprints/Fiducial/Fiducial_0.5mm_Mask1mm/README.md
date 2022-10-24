@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Fiducial_0.5mm_Mask1mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fiducial-Fiducial_0.5mm_Mask1mm|
 |Hex ID (short code)|hexID|FZKFIDFID5MASK1|
-|Name|name|Fiducial : Fiducial_0.5mm_Mask1mm|
+|name|name|Fiducial : Fiducial_0.5mm_Mask1mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Fiducial_0.5mm_Mask1mm', 'description': 'Circular Fiducial, 0.5mm bare copper, 1mm soldermask opening (Level C)', 'tags': 'fiducial', 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fiducial/Fiducial_0.5mm_Mask1mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Fiducial/Fiducial_0.5mm_Mask1mm/kicadPcb3d_450.png

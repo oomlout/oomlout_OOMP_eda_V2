@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOP-8_3.76x4.96mm_P1.27mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SOP-8_3.76x4.96mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKSOS8376X496P127|
-|Name|name|Package_SO : SOP-8_3.76x4.96mm_P1.27mm|
+|name|name|Package_SO : SOP-8_3.76x4.96mm_P1.27mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOP-8_3.76x4.96mm_P1.27mm', 'description': 'SOP, 8 Pin (https://ww2.minicircuits.com/case_style/XX211.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'SOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOP-8_3.76x4.96mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOP-8_3.76x4.96mm_P1.27mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/SOP-8_3.76x4.96mm_P1.27mm/kicadPcb3d_450.png

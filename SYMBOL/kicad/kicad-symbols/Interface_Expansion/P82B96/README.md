@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|P82B96|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Expansion-P82B96|
 |Hex ID (short code)|hexID|SZKINTERFACEEXPANSIONP82B96|
-|Name|name|P82B96|
+|name|name|P82B96|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'P82B96', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.nxp.com/documents/data_sheet/P82B96.pdf', 'kicadSymbolki_keywords': 'I2C Bus Buffer', 'kicadSymbolki_description': 'Dual I2C Bus Buffer, DIP8/SO8/TSSOP8', 'kicadSymbolki_fp_filters': 'DIP* PDIP* SOIC* SO* TSSOP*'}]|
 ||||

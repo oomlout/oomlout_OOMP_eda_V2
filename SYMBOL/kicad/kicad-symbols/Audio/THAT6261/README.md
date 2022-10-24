@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|THAT6261|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-THAT6261|
 |Hex ID (short code)|hexID|SZKAUDIOTHAT6261|
-|Name|name|THAT6261|
+|name|name|THAT6261|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'THAT6261', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.45x5.45mm', 'kicadSymbolDatasheet': 'http://www.thatcorp.com/datashts/THAT_626x_Datasheet.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'dual mic preamp', 'kicadSymbolki_description': '2-Channel Low-Noise Programmable-Gain Preamplifier - ADC Driver IC, 1dB Step, QFN-48', 'kicadSymbolki_fp_filters': 'QFN*1EP*7x7mm*P0.5mm*'}]|
 ||||

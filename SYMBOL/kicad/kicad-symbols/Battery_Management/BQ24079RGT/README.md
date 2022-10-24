@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BQ24079RGT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24079RGT|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTBQ2479RGT|
-|Name|name|BQ24079RGT|
+|name|name|BQ24079RGT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BQ24075RGT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BQ24079RGT', 'kicadSymbolFootprint': 'Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/bq24079.pdf', 'kicadSymbolki_keywords': 'USB Charge', 'kicadSymbolki_description': 'USB-Friendly Li-Ion Battery Charger and Power-Path Management, VQFN-16', 'kicadSymbolki_fp_filters': 'VQFN*1EP*3x3mm*P0.5mm*'}]|
 ||||

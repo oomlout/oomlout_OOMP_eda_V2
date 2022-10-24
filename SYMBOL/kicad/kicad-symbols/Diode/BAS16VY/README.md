@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAS16VY|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAS16VY|
 |Hex ID (short code)|hexID|SZKDIODEBAS16VY|
-|Name|name|BAS16VY|
+|name|name|BAS16VY|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BAS16TW', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAS16VY', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BAS16_SER.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Fast switching diode array 3 independent', 'kicadSymbolki_fp_filters': '*SOT?363*'}]|
 ||||

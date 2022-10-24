@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|1N5817|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-1N5817|
 |Hex ID (short code)|hexID|SZKDIODE1N5817|
-|Name|name|1N5817|
+|name|name|1N5817|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SB120', 'kicadSymbolReference': 'D', 'kicadSymbolValue': '1N5817', 'kicadSymbolFootprint': 'Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/88525/1n5817.pdf', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '20V 1A Schottky Barrier Rectifier Diode, DO-41', 'kicadSymbolki_fp_filters': 'D*DO?41*'}]|
 ||||

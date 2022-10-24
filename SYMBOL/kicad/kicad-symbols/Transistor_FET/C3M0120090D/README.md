@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C3M0120090D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-C3M0120090D|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETC3M129D|
-|Name|name|C3M0120090D|
+|name|name|C3M0120090D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'C3M0065090D', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'C3M0120090D', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-247-3_Vertical', 'kicadSymbolDatasheet': 'https://www.wolfspeed.com/media/downloads/824/C3M0120090D.pdf', 'kicadSymbolki_keywords': 'N-Channel SiC MOSFET', 'kicadSymbolki_description': '23A Id, 900V Vds, 120mOhm, N-Channel SiC MOSFET, TO-247', 'kicadSymbolki_fp_filters': 'TO?247*'}]|
 ||||

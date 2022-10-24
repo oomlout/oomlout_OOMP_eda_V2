@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|D_SOD-110|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-110|
 |Hex ID (short code)|hexID|FZKDIODESMDSOD11|
-|Name|name|Diode_SMD : D_SOD-110|
+|name|name|Diode_SMD : D_SOD-110|
 |Footprint Kicad|footprintKicadDetails|{'name': 'D_SOD-110', 'description': 'SOD-110', 'tags': 'SOD-110', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-110.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SOD-110/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SOD-110/kicadPcb3d_450.png

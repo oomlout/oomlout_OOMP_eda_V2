@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|REF02BU|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF02BU|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGEREF2BU|
-|Name|name|REF02BU|
+|name|name|REF02BU|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'REF02AU', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'REF02BU', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ref02.pdf', 'kicadSymbolki_keywords': 'Precision Voltage Reference 5V', 'kicadSymbolki_description': '5V ±10mV Precision Voltage Reference, SO-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VAM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VAM|
 |Hex ID (short code)|hexID|SZKSIMULATIONSPICEVAM|
-|Name|name|VAM|
+|name|name|VAM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'V', 'kicadSymbolValue': 'VAM', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolSpice_Netlist_Enabled': 'Y', 'kicadSymbolSpice_Primitive': 'V', 'kicadSymbolSpice_Model': 'am(1 0 100k 1k 1n)', 'kicadSymbolki_keywords': 'simulation amplitude modulated', 'kicadSymbolki_description': 'Voltage source, AM'}]|
 ||||

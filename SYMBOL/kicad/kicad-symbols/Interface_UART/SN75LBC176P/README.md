@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SN75LBC176P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-SN75LBC176P|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTSN75LBC176P|
-|Name|name|SN75LBC176P|
+|name|name|SN75LBC176P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SN75LBC176P', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/sn75lbc176.pdf', 'kicadSymbolki_keywords': 'Differential bus transceiver', 'kicadSymbolki_description': 'Differential bus transceiver, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

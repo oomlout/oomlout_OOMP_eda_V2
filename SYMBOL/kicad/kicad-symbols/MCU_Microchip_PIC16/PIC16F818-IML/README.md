@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F818-IML|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F818-IML|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F818IML|
-|Name|name|PIC16F818-IML|
+|name|name|PIC16F818-IML|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F818-IML', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/39598F.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit Microcontroller nanoWatt', 'kicadSymbolki_description': 'PIC16F818, 1792B Flash, 128B SRAM, 128B EEPROM, ADC, QFN28', 'kicadSymbolki_fp_filters': 'QFN*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD7226KN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7226KN|
 |Hex ID (short code)|hexID|SZKANALOGDACAD7226KN|
-|Name|name|AD7226KN|
+|name|name|AD7226KN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD7226KN', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/static/imported-files/data_sheets/AD7226.pdf', 'kicadSymbolki_keywords': '4CH DAC 8bit', 'kicadSymbolki_description': 'Quad 8bit DAC, 4 Channel, Single Reference Voltage, DIP-20', 'kicadSymbolki_fp_filters': 'DIP* PDIP*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOT-23W|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23W|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT23W|
-|Name|name|Package_TO_SOT_SMD : SOT-23W|
+|name|name|Package_TO_SOT_SMD : SOT-23W|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOT-23W', 'description': 'SOT-23W http://www.allegromicro.com/~/media/Files/Datasheets/A112x-Datasheet.ashx?la=en&hash=7BC461E058CC246E0BAB62433B2F1ECA104CA9D3', 'tags': 'SOT-23W', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23W.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23W/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23W/kicadPcb3d_450.png

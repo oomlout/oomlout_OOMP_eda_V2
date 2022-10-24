@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MSP430F2001IRSA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F2001IRSA|
 |Hex ID (short code)|hexID|SZKMCUTEXASMSP43MSP43F21IRSA|
-|Name|name|MSP430F2001IRSA|
+|name|name|MSP430F2001IRSA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MSP430F2001IRSA', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PVQFN-N16_EP2.7x2.7mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/msp430f2001.pdf', 'kicadSymbolki_keywords': 'TI MSP430 16-bit mixed signal microcontroller', 'kicadSymbolki_description': '1kB + 256B Flash, 128B RAM, QFN-16', 'kicadSymbolki_fp_filters': 'Texas*S?PVQFN*'}]|
 ||||

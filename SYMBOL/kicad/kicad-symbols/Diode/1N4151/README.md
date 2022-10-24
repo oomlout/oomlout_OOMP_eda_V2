@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|1N4151|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-1N4151|
 |Hex ID (short code)|hexID|SZKDIODE1N4151|
-|Name|name|1N4151|
+|name|name|1N4151|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N4001', 'kicadSymbolReference': 'D', 'kicadSymbolValue': '1N4151', 'kicadSymbolFootprint': 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal', 'kicadSymbolDatasheet': 'http://www.microsemi.com/document-portal/doc_view/11580-lds-0239', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '75V 0.5A standard switching diode, DO-35', 'kicadSymbolki_fp_filters': 'D*DO?35*'}]|
 ||||

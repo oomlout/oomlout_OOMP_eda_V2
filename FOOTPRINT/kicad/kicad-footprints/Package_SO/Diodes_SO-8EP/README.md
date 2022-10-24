@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Diodes_SO-8EP|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-Diodes_SO-8EP|
 |Hex ID (short code)|hexID|FZKSODIODESSO8EP|
-|Name|name|Package_SO : Diodes_SO-8EP|
+|name|name|Package_SO : Diodes_SO-8EP|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Diodes_SO-8EP', 'description': '8-Lead Plastic SO, Exposed Die Pad (see https://www.diodes.com/assets/Package-Files/SO-8EP.pdf)', 'tags': 'SO exposed pad', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Diodes_SO-8EP.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/Diodes_SO-8EP/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/Diodes_SO-8EP/kicadPcb3d_450.png

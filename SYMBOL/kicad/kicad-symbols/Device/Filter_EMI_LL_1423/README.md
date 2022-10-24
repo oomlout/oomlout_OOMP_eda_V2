@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Filter_EMI_LL_1423|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Filter_EMI_LL_1423|
 |Hex ID (short code)|hexID|SZKDEVICEFILEMILL1423|
-|Name|name|Filter_EMI_LL_1423|
+|name|name|Filter_EMI_LL_1423|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'FL', 'kicadSymbolValue': 'Filter_EMI_LL_1423', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'EMI filter common-mode choke', 'kicadSymbolki_description': 'EMI 2-inductor filter, pin-connections 1-4 and 2-3', 'kicadSymbolki_fp_filters': 'Bourns*SRF0905*'}]|
 ||||

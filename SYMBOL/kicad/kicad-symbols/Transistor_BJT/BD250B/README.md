@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BD250B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD250B|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBD25B|
-|Name|name|BD250B|
+|name|name|BD250B|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BD250', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BD250B', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.mospec.com.tw/pdf/power/BD249.pdf', 'kicadSymbolki_keywords': 'Power PNP Transistor', 'kicadSymbolki_description': '25A Ic, 90V Vce, Silicon Power PNP Transistors, SOT-93/TO247', 'kicadSymbolki_fp_filters': 'TO?218* TO?247*'}]|
 ||||

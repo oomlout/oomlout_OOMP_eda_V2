@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Linear_LGA-133_15.0x15.0mm_Layout12x12_P1.27mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LGA-Linear_LGA-133_15.0x15.0mm_Layout12x12_P1.27mm|
 |Hex ID (short code)|hexID|FZKLGALINEARLGA13315X15LAYOUT12X12P127|
-|Name|name|Package_LGA : Linear_LGA-133_15.0x15.0mm_Layout12x12_P1.27mm|
+|name|name|Package_LGA : Linear_LGA-133_15.0x15.0mm_Layout12x12_P1.27mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Linear_LGA-133_15.0x15.0mm_Layout12x12_P1.27mm', 'description': 'Analog Devices (Linear Tech), 133-pin LGA uModule, 15.0x15.0x4.32mm, https://www.analog.com/media/en/technical-documentation/data-sheets/4637fc.pdf', 'tags': '133 pin lga', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/Linear_LGA-133_15.0x15.0mm_Layout12x12_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Linear_LGA-133_15.0x15.0mm_Layout12x12_P1.27mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_LGA/Linear_LGA-133_15.0x15.0mm_Layout12x12_P1.27mm/kicadPcb3d_450.png

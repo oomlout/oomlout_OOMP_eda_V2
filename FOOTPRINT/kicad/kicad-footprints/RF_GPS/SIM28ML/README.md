@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SIM28ML|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_GPS-SIM28ML|
 |Hex ID (short code)|hexID|FZKGPSSIM28ML|
-|Name|name|RF_GPS : SIM28ML|
+|name|name|RF_GPS : SIM28ML|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SIM28ML', 'description': 'https://simcom.ee/documents/SIM28ML/SIM28ML_Hardware%20Design_V1.01.pdf', 'tags': 'SIM28ML GPS', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_GPS.3dshapes/SIM28ML.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

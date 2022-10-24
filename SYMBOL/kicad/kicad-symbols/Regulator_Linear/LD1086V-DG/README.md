@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LD1086V-DG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1086V-DG|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLD186VDG|
-|Name|name|LD1086V-DG|
+|name|name|LD1086V-DG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LD1086V-DG', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/ld1086.pdf', 'kicadSymbolki_keywords': 'Linear Regulator 1.5A Adjustable', 'kicadSymbolki_description': 'Positive, 1.5A 30V, Linear Regulator, Adjustable, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

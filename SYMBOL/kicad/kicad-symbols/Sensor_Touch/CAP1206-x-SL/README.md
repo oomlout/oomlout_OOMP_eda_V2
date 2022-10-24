@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CAP1206-x-SL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Touch-CAP1206-x-SL|
 |Hex ID (short code)|hexID|SZKSENTOUCHCAP126XSL|
-|Name|name|CAP1206-x-SL|
+|name|name|CAP1206-x-SL|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CAP1206-x-SL', 'kicadSymbolFootprint': 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/00001567B.pdf', 'kicadSymbolki_keywords': '6 Channel Capacitive Touch Sensor', 'kicadSymbolki_description': '6-Channel Capacitive Touch Sensor, SOIC-14', 'kicadSymbolki_fp_filters': 'SOIC?14*3.9x8.7mm*P1.27mm*'}]|
 ||||

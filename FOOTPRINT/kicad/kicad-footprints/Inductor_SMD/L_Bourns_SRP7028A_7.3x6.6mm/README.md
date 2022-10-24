@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Bourns_SRP7028A_7.3x6.6mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP7028A_7.3x6.6mm|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLBOURNSSRP728A73X66|
-|Name|name|Inductor_SMD : L_Bourns_SRP7028A_7.3x6.6mm|
+|name|name|Inductor_SMD : L_Bourns_SRP7028A_7.3x6.6mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Bourns_SRP7028A_7.3x6.6mm', 'description': 'Shielded Power Inductors (https://www.bourns.com/docs/product-datasheets/srp7028a.pdf)', 'tags': 'Shielded Inductors Bourns SMD SRP7028A', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns_SRP7028A_7.3x6.6mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns_SRP7028A_7.3x6.6mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns_SRP7028A_7.3x6.6mm/kicadPcb3d_450.png

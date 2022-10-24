@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|TD1208|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Module-TD1208|
 |Hex ID (short code)|hexID|SZKRFMOTD128|
-|Name|name|TD1208|
+|name|name|TD1208|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TD1208', 'kicadSymbolFootprint': 'RF_Module:TD1208', 'kicadSymbolDatasheet': 'https://github.com/Telecom-Design/Documentation_TD_RF_Module/blob/master/TD1208%20Datasheet.pdf', 'kicadSymbolki_keywords': 'IOT SIGFOX', 'kicadSymbolki_description': 'High-Performance, Low-Current SIGFOX™ Gateway', 'kicadSymbolki_fp_filters': 'TD1208*'}]|
 ||||

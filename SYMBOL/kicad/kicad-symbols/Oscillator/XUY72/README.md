@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XUY72|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-XUY72|
 |Hex ID (short code)|hexID|SZKOCSXUY72|
-|Name|name|XUY72|
+|name|name|XUY72|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'XUY71', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XUY72', 'kicadSymbolFootprint': 'Oscillator:Oscillator_SMD_IDT_JU6-6_7.0x5.0mm_P2.54mm', 'kicadSymbolDatasheet': 'https://www.idt.com/document/dst/xu-family-datasheet', 'kicadSymbolki_keywords': 'OTP XHCMOS 2.5V VCXO', 'kicadSymbolki_description': 'Low phase noise, quartz-based PLL oscillator, 0.016-1500 MHz, complementary output', 'kicadSymbolki_fp_filters': 'Oscillator*JU6*'}]|
 ||||

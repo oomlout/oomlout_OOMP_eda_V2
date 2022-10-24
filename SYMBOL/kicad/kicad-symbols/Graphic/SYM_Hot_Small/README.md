@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SYM_Hot_Small|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Graphic-SYM_Hot_Small|
 |Hex ID (short code)|hexID|SZKGRAPHICSYMHOTSLL|
-|Name|name|SYM_Hot_Small|
+|name|name|SYM_Hot_Small|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#SYM', 'kicadSymbolValue': 'SYM_Hot_Small', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'symbol logo hot surface warning heat', 'kicadSymbolki_description': 'Hot surface warning symbol, small'}]|
 ||||

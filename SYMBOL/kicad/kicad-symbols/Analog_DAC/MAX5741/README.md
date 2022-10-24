@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX5741|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5741|
 |Hex ID (short code)|hexID|SZKANALOGDACMAX5741|
-|Name|name|MAX5741|
+|name|name|MAX5741|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX5741', 'kicadSymbolFootprint': 'Package_SO:MSOP-10_3x3mm_P0.5mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX5741.pdf', 'kicadSymbolki_keywords': 'DA 8 Bit 4 ch', 'kicadSymbolki_description': 'Digital to analog, 10 Bit, 4 ch, 2.7 - 5.5 VDD, SPI, uMAX-10', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm?P0.5mm*'}]|
 ||||

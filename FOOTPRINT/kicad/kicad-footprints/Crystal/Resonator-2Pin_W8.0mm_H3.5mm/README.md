@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Resonator-2Pin_W8.0mm_H3.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator-2Pin_W8.0mm_H3.5mm|
 |Hex ID (short code)|hexID|FZKXR2PINW8H35|
-|Name|name|Crystal : Resonator-2Pin_W8.0mm_H3.5mm|
+|name|name|Crystal : Resonator-2Pin_W8.0mm_H3.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Resonator-2Pin_W8.0mm_H3.5mm', 'description': 'Ceramic Resomator/Filter 8.0x3.5mm^2, length*width=8.0x3.5mm^2 package, package length=8.0mm, package width=3.5mm, 2 pins', 'tags': 'THT ceramic resonator filter', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Resonator-2Pin_W8.0mm_H3.5mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator-2Pin_W8.0mm_H3.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator-2Pin_W8.0mm_H3.5mm/kicadPcb3d_450.png

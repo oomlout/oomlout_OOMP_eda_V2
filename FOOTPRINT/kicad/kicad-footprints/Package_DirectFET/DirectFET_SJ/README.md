@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DirectFET_SJ|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_SJ|
 |Hex ID (short code)|hexID|FZKDFETDIRECTFETSJ|
-|Name|name|Package_DirectFET : DirectFET_SJ|
+|name|name|Package_DirectFET : DirectFET_SJ|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DirectFET_SJ', 'description': 'DirectFET SJ https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=18', 'tags': 'DirectFET SJ MOSFET Infineon', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DirectFET.3dshapes/DirectFET_SJ.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DirectFET/DirectFET_SJ/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DirectFET/DirectFET_SJ/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CQ-2092|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2092|
 |Hex ID (short code)|hexID|SZKSENCURRENTCQ292|
-|Name|name|CQ-2092|
+|name|name|CQ-2092|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CQ-2092', 'kicadSymbolFootprint': 'Sensor_Current:AKM_CQ_7S', 'kicadSymbolDatasheet': 'http://www.akm.com/akm/en/file/datasheet/CQ-2092.pdf', 'kicadSymbolki_keywords': 'hall effect current sensor', 'kicadSymbolki_description': 'High-Speed Small-Sized Current Sensor, Bidirectional, -21A to +21A, 100mV/A, CQ-7S', 'kicadSymbolki_fp_filters': 'AKM*CQ*S*'}]|
 ||||

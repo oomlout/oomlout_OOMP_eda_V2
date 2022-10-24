@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Earphone|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Earphone|
 |Hex ID (short code)|hexID|SZKDEVICEEARPHONE|
-|Name|name|Earphone|
+|name|name|Earphone|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'LS', 'kicadSymbolValue': 'Earphone', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'earphone speaker headphone', 'kicadSymbolki_description': 'Earphone, polarized'}]|
 ||||

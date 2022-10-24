@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F1512-ISO|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1512-ISO|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F1512ISO|
-|Name|name|PIC16F1512-ISO|
+|name|name|PIC16F1512-ISO|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC16F1512-ISP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F1512-ISO', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41624A.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller XLP', 'kicadSymbolki_description': 'PIC16F1512, 2048W FLASH, 128B SRAM, SO-28', 'kicadSymbolki_fp_filters': 'DIP* PDIP* SO* SSOP*'}]|
 ||||

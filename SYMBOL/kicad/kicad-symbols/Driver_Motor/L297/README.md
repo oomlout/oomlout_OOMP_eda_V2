@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L297|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-L297|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORL297|
-|Name|name|L297|
+|name|name|L297|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'L297', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'www.st.com/resource/en/datasheet/cd00000063.pdf', 'kicadSymbolki_keywords': 'Stepper Motor Controller', 'kicadSymbolki_description': 'Stepper Motor Controller, DIP-20/SO-20', 'kicadSymbolki_fp_filters': 'DIP* SO*'}]|
 ||||

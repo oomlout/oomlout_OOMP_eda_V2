@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TIC106|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Triac_Thyristor-TIC106|
 |Hex ID (short code)|hexID|SZKTRIACTHYRISTORTIC16|
-|Name|name|TIC106|
+|name|name|TIC106|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'TIC106', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'http://pdf.datasheetcatalog.com/datasheet/PowerInnovations/mXyzrtvs.pdf', 'kicadSymbolki_keywords': 'thyristor', 'kicadSymbolki_description': '5A Ion, 400-800V Voff, Silicon Controlled Rectifier (Thyristor), TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

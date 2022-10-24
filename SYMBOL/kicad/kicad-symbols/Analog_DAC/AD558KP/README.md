@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD558KP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-AD558KP|
 |Hex ID (short code)|hexID|SZKANALOGDACAD558KP|
-|Name|name|AD558KP|
+|name|name|AD558KP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AD558JP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD558KP', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/static/imported-files/data_sheets/AD558.pdf', 'kicadSymbolki_keywords': '8bit DAC Reference Single Supply', 'kicadSymbolki_description': 'Single 8-bit DAC, Internal Reference, Output Amp, Single Supply, PLCC-20'}]|
 ||||

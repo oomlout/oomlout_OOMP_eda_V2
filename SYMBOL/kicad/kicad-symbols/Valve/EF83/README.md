@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EF83|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Valve-EF83|
 |Hex ID (short code)|hexID|SZKVAEF83|
-|Name|name|EF83|
+|name|name|EF83|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EF83', 'kicadSymbolFootprint': 'Valve:Valve_Noval_P', 'kicadSymbolDatasheet': 'http://www.r-type.org/pdfs/ef83.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'pentode valve', 'kicadSymbolki_description': 'pentode', 'kicadSymbolki_fp_filters': 'VALVE*NOVAL*P*'}]|
 ||||

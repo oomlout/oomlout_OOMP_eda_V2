@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPD12S520DBT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_HDMI-TPD12S520DBT|
 |Hex ID (short code)|hexID|SZKINTERFACEHDMITPD12S52DBT|
-|Name|name|TPD12S520DBT|
+|name|name|TPD12S520DBT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPD12S520DBT', 'kicadSymbolFootprint': 'Package_SO:TSSOP-38_4.4x9.7mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tpd12s520.pdf', 'kicadSymbolki_keywords': 'hdmi', 'kicadSymbolki_description': 'HDMI Receiver Port Protection and Interface Device, TSSOP-38', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x9.7mm*P0.5mm*'}]|
 ||||

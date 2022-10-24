@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|MODULE-CONN-BRBO-IBBC-SZ01|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_modules-MODULE-CONN-BRBO-IBBC-SZ01|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPMOSMOCONNBRBOIBBCSZ1|
-|Name|name|oomlout_OOMP_modules : MODULE-CONN-BRBO-IBBC-SZ01|
+|name|name|oomlout_OOMP_modules : MODULE-CONN-BRBO-IBBC-SZ01|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MODULE-CONN-BRBO-IBBC-SZ01', 'tags': None, 'attributeType': None, 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||

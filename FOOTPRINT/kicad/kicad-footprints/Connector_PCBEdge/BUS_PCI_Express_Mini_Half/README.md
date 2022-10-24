@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|BUS_PCI_Express_Mini_Half|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_PCI_Express_Mini_Half|
 |Hex ID (short code)|hexID|FZKCNPCBEDGEBUSPCIEXPRESSMHALF|
-|Name|name|Connector_PCBEdge : BUS_PCI_Express_Mini_Half|
+|name|name|Connector_PCBEdge : BUS_PCI_Express_Mini_Half|
 |Footprint Kicad|footprintKicadDetails|{'name': 'BUS_PCI_Express_Mini_Half', 'description': 'Mini-PCI Express bus connector half size with clips (https://s3.amazonaws.com/fit-iot/download/facet-cards/documents/PCI_Express_miniCard_Electromechanical_specs_rev1.2.pdf#page=25)', 'tags': 'mini pcie', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PCBEdge.3dshapes/BUS_PCI_Express_Mini_Half.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Half/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Half/kicadPcb3d_450.png

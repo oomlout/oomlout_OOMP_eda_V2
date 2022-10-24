@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Conn_01x15_Male|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x15_Male|
 |Hex ID (short code)|hexID|SZKCNCONN1X15MALE|
-|Name|name|Conn_01x15_Male|
+|name|name|Conn_01x15_Male|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Conn_01x15_Male', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'Generic connector, single row, 01x15, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_1x??_*'}]|
 ||||

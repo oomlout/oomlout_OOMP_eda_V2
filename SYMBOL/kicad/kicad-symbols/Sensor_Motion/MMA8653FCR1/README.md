@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MMA8653FCR1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Motion-MMA8653FCR1|
 |Hex ID (short code)|hexID|SZKSENMOTIONA8653FCR1|
-|Name|name|MMA8653FCR1|
+|name|name|MMA8653FCR1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MMA8653FCR1', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-10_2x2mm_P0.4mm', 'kicadSymbolDatasheet': 'http://cache.freescale.com/files/sensors/doc/data_sheet/MMA8653FC.pdf', 'kicadSymbolki_keywords': 'Accelerometer I2C', 'kicadSymbolki_description': '3-Axis 10-bit Digital Accelerometer with I2C interface', 'kicadSymbolki_fp_filters': 'DFN*2x2mm*P0.4mm*'}]|
 ||||

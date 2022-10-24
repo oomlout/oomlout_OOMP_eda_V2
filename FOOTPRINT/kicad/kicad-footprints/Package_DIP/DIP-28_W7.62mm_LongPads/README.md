@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DIP-28_W7.62mm_LongPads|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-28_W7.62mm_LongPads|
 |Hex ID (short code)|hexID|FZKDIPDIP28W762L|
-|Name|name|Package_DIP : DIP-28_W7.62mm_LongPads|
+|name|name|Package_DIP : DIP-28_W7.62mm_LongPads|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DIP-28_W7.62mm_LongPads', 'description': '28-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads', 'tags': 'THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-28_W7.62mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-28_W7.62mm_LongPads/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-28_W7.62mm_LongPads/kicadPcb3d_450.png

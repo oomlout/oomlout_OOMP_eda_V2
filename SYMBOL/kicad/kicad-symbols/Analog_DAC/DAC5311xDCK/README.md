@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DAC5311xDCK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC5311xDCK|
 |Hex ID (short code)|hexID|SZKANALOGDACDAC5311XDCK|
-|Name|name|DAC5311xDCK|
+|name|name|DAC5311xDCK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DAC5311xDCK', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/dac5311.pdf', 'kicadSymbolki_keywords': 'DAC SPI 1-channel', 'kicadSymbolki_description': '8-Bit, Single-Channel, Voltage Output, Serial Interface Digital-to-Analog Converters, SC-70', 'kicadSymbolki_fp_filters': 'SOT?363*'}]|
 ||||

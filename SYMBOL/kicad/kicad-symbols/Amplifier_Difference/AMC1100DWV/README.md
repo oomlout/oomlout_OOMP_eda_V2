@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AMC1100DWV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Difference-AMC1100DWV|
 |Hex ID (short code)|hexID|SZKAMPLIFIERDIFFERENCEAMC11DWV|
-|Name|name|AMC1100DWV|
+|name|name|AMC1100DWV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AMC1100DWV', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_7.5x5.85mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/amc1100.pdf', 'kicadSymbolki_keywords': 'isolated difference amplifier', 'kicadSymbolki_description': 'Fully-Differential Isolation Amplifier, Fixed Gain = 8, UL1577/IEC60747-5-2 Approved, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*7.5x5.85mm*P1.27mm*'}]|
 ||||

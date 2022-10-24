@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-05-X-NF100-V50-CCN100|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-05-X-NF100-V50-CCN100|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC5XNF1V5CCN1|
-|Name|name|CAPC-05-X-NF100-V50-CCN100|
+|name|name|CAPC-05-X-NF100-V50-CCN100|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-05-X-NF100-V50-CCN100', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-05-X-NF100-V50-CCN100', 'kicadSymbolDatasheet': 'oom.lt/CCN100', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: CCN100;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Sensirion_DFN-8-1EP_2.5x2.5mm_P0.5mm_EP1.1x1.7mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Humidity-Sensirion_DFN-8-1EP_2.5x2.5mm_P0.5mm_EP1.1x1.7mm|
 |Hex ID (short code)|hexID|FZKSENHUMIDITYSENSIRIONDFN81EP25X25P5EP11X17|
-|Name|name|Sensor_Humidity : Sensirion_DFN-8-1EP_2.5x2.5mm_P0.5mm_EP1.1x1.7mm|
+|name|name|Sensor_Humidity : Sensirion_DFN-8-1EP_2.5x2.5mm_P0.5mm_EP1.1x1.7mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Sensirion_DFN-8-1EP_2.5x2.5mm_P0.5mm_EP1.1x1.7mm', 'description': 'Sensirion DFN-8 SHT3x-DIS (https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/2_Humidity_Sensors/Datasheets/Sensirion_Humidity_Sensors_SHT3x_Datasheet_digital.pdf)', 'tags': 'sensirion dfn nolead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Humidity.3dshapes/Sensirion_DFN-8-1EP_2.5x2.5mm_P0.5mm_EP1.1x1.7mm.wrl', 'pins': {'type': 'smd', 'shape': 'custom'}}|
 ||||

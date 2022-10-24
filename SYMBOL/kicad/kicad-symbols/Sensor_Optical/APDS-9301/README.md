@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|APDS-9301|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-APDS-9301|
 |Hex ID (short code)|hexID|SZKSENOPTICALAPDS931|
-|Name|name|APDS-9301|
+|name|name|APDS-9301|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'APDS-9301', 'kicadSymbolFootprint': 'OptoDevice:Broadcom_APDS-9301', 'kicadSymbolDatasheet': 'https://docs.broadcom.com/docs/AV02-2315EN', 'kicadSymbolki_keywords': 'ambient light sensor i2c', 'kicadSymbolki_description': 'ambient light sensor, i2c interface, 2.7-3.6V', 'kicadSymbolki_fp_filters': 'Broadcom*APDS*9301*'}]|
 ||||

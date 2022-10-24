@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB_C_Receptacle_JAE_DX07S024WJ1R350|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_JAE_DX07S024WJ1R350|
 |Hex ID (short code)|hexID|FZKCNUUCRECEPTACLEJAEDX7S24WJ1R35|
-|Name|name|Connector_USB : USB_C_Receptacle_JAE_DX07S024WJ1R350|
+|name|name|Connector_USB : USB_C_Receptacle_JAE_DX07S024WJ1R350|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB_C_Receptacle_JAE_DX07S024WJ1R350', 'description': 'http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ117219.pdf', 'tags': 'USB C Type-C Receptacle SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_JAE_DX07S024WJ1R350.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_JAE_DX07S024WJ1R350/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_JAE_DX07S024WJ1R350/kicadPcb3d_450.png

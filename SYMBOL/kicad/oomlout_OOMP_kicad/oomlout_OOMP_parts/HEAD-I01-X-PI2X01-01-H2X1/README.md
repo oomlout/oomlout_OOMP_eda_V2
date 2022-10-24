@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-I01-X-PI2X01-01-H2X1|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X01-01-H2X1|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI2X11H2X1|
-|Name|name|HEAD-I01-X-PI2X01-01-H2X1|
+|name|name|HEAD-I01-X-PI2X01-01-H2X1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HEAD-I01-X-PI2X01-01-H2X1', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:HEAD-I01-X-PI2X01-01-H2X1', 'kicadSymbolDatasheet': 'oom.lt/H2X1', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'hexID: H2X1;Generic connector, double row, 02x01, row letter first pin numbering scheme (pin number consists of a letter for the row and a number for the pin index in this row. a1, ..., aN; b1, ..., bN), script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_2x??_*'}]|
 ||||

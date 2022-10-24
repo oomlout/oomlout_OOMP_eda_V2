@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TC1017R-xLT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1017R-xLT|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTC117RXLT|
-|Name|name|TC1017R-xLT|
+|name|name|TC1017R-xLT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TC1017R-xLT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-353_SC-70-5', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/21813F.pdf', 'kicadSymbolki_keywords': 'LDO Linear Voltage Regulator', 'kicadSymbolki_description': '150mA, Tiny CMOS LDO With Shutdown, SC-70-5', 'kicadSymbolki_fp_filters': 'SOT*353*'}]|
 ||||

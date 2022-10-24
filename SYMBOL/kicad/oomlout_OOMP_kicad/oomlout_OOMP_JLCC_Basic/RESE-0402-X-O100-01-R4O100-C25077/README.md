@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O100-01-R4O100-C25077|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O100-01-R4O100-C25077|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE42XO11R4O1C2577|
-|Name|name|RESE-0402-X-O100-01-R4O100-C25077|
+|name|name|RESE-0402-X-O100-01-R4O100-C25077|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O100-01-R4O100-C25077', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O100-01-R4O100-C25077', 'kicadSymbolDatasheet': 'oom.lt/R4O100', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R4O100;PARTL C-JLCC;C25077;MANUF C-XXXX;0402WGF100JTCE;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

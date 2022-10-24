@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Vishay_MOLD-3Pin|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Vishay_MOLD-3Pin|
 |Hex ID (short code)|hexID|FZKOPVISHAYMOLD3PIN|
-|Name|name|OptoDevice : Vishay_MOLD-3Pin|
+|name|name|OptoDevice : Vishay_MOLD-3Pin|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Vishay_MOLD-3Pin', 'description': 'IR Receiver Vishay TSOP-xxxx, MOLD package, see https://www.vishay.com/docs/82669/tsop32s40f.pdf', 'tags': 'IR Receiver Vishay TSOP-xxxx MOLD', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Vishay_MOLD-3Pin.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Vishay_MOLD-3Pin/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/Vishay_MOLD-3Pin/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|UF5405|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-UF5405|
 |Hex ID (short code)|hexID|SZKDIODEUF545|
-|Name|name|UF5405|
+|name|name|UF5405|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N4001', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'UF5405', 'kicadSymbolFootprint': 'Diode_THT:D_DO-201AD_P15.24mm_Horizontal', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/88756/uf5400.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '500V 3A Soft Recovery Ultrafast Rectifier Diode, DO-201AD', 'kicadSymbolki_fp_filters': 'D*DO?201AD*'}]|
 ||||

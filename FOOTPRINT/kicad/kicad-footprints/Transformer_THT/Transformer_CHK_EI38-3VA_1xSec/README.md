@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_CHK_EI38-3VA_1xSec|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_EI38-3VA_1xSec|
 |Hex ID (short code)|hexID|FZKTRTRCHKEI383VA1XSEC|
-|Name|name|Transformer_THT : Transformer_CHK_EI38-3VA_1xSec|
+|name|name|Transformer_THT : Transformer_CHK_EI38-3VA_1xSec|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_CHK_EI38-3VA_1xSec', 'description': 'Trafo, Printtrafo, CHK, EI38, 3VA, 1x Sec, http://www.eratransformers.com/product-detail/20', 'tags': 'Trafo Printtrafo CHK EI38 3VA 1x Sec ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_CHK_EI38-3VA_1xSec.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

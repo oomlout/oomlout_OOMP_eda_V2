@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|QFN-28-1EP_4x4mm_P0.45mm_EP2.4x2.4mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-28-1EP_4x4mm_P0.45mm_EP2.4x2.4mm|
 |Hex ID (short code)|hexID|FZKDFNQFN281EP4X4P45EP24X24|
-|Name|name|Package_DFN_QFN : QFN-28-1EP_4x4mm_P0.45mm_EP2.4x2.4mm|
+|name|name|Package_DFN_QFN : QFN-28-1EP_4x4mm_P0.45mm_EP2.4x2.4mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'QFN-28-1EP_4x4mm_P0.45mm_EP2.4x2.4mm', 'description': 'QFN, 28 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/8008S.pdf#page=16), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-28-1EP_4x4mm_P0.45mm_EP2.4x2.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-28-1EP_4x4mm_P0.45mm_EP2.4x2.4mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-28-1EP_4x4mm_P0.45mm_EP2.4x2.4mm/kicadPcb3d_450.png

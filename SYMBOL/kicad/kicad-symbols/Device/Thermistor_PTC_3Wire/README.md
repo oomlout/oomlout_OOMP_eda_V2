@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Thermistor_PTC_3Wire|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Thermistor_PTC_3Wire|
 |Hex ID (short code)|hexID|SZKDEVICETHERMISTORPTC3WIRE|
-|Name|name|Thermistor_PTC_3Wire|
+|name|name|Thermistor_PTC_3Wire|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TH', 'kicadSymbolValue': 'Thermistor_PTC_3Wire', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'resistor PTC thermistor sensor RTD', 'kicadSymbolki_description': 'Temperature dependent resistor, positive temperature coefficient, 3-wire interface', 'kicadSymbolki_fp_filters': 'PIN_ARRAY_3X1 bornier3 TerminalBlock*3pol'}]|
 ||||

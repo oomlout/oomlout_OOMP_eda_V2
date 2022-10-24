@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC18LF452-IP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF452-IP|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC18PIC18LF452IP|
-|Name|name|PIC18LF452-IP|
+|name|name|PIC18LF452-IP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC18F442-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18LF452-IP', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/39564c.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit Microcontroller', 'kicadSymbolki_description': '32K Flash, 1536B SRAM, 256 EEPROM, ADC, DIP40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm* PDIP*W15.24mm*'}]|
 ||||

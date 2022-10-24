@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS642|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS642|
 |Hex ID (short code)|hexID|SZK74XXIEEE74LS642|
-|Name|name|74LS642|
+|name|name|74LS642|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LS622', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS642', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

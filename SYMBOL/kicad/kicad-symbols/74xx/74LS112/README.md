@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS112|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS112|
 |Hex ID (short code)|hexID|SZK74XX74LS112|
-|Name|name|74LS112|
+|name|name|74LS112|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS112', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS112', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL JK', 'kicadSymbolki_description': 'dual JK Flip-Flop, Set & Reset', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

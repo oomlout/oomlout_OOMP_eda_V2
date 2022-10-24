@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATtiny43U-M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny43U-M|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATTINYATTINY43UM|
-|Name|name|ATtiny43U-M|
+|name|name|ATtiny43U-M|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATtiny43U-M', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc8048.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller tinyAVR Battery Boost', 'kicadSymbolki_description': '8MHz, 4kB Flash, 256B SRAM, 64B EEPROM, QFN-20', 'kicadSymbolki_fp_filters': 'QFN*1EP*4x4mm*P0.5mm*'}]|
 ||||

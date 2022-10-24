@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Texas_S-PVQFN-N64_EP4.25x4.25mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N64_EP4.25x4.25mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNTEXASSPVQFNN64EP425X425THERMALVIAS|
-|Name|name|Package_DFN_QFN : Texas_S-PVQFN-N64_EP4.25x4.25mm_ThermalVias|
+|name|name|Package_DFN_QFN : Texas_S-PVQFN-N64_EP4.25x4.25mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Texas_S-PVQFN-N64_EP4.25x4.25mm_ThermalVias', 'description': 'QFN, 64 Pin (http://www.ti.com/lit/ds/symlink/msp430f5217.pdf#page=120), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PVQFN-N64_EP4.25x4.25mm.wrl', 'pins': {'type': 'smd', 'shape': 'custom'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PVQFN-N64_EP4.25x4.25mm_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_S-PVQFN-N64_EP4.25x4.25mm_ThermalVias/kicadPcb3d_450.png

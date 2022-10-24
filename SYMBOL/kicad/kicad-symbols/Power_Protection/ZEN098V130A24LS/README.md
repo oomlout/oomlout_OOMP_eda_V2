@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ZEN098V130A24LS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-ZEN098V130A24LS|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONZEN98V13A24LS|
-|Name|name|ZEN098V130A24LS|
+|name|name|ZEN098V130A24LS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZEN056V130A24LS', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'ZEN098V130A24LS', 'kicadSymbolFootprint': 'Diode_SMD:Littelfuse_PolyZen-LS', 'kicadSymbolDatasheet': 'http://m.littelfuse.com/~/media/electronics/datasheets/polyzen_devices/littelfuse_polyzen_standard_polyzen_catalog_datasheet.pdf.pdf', 'kicadSymbolki_keywords': 'Polymer zener', 'kicadSymbolki_description': 'Polymer Protected Zener Diode, 9.8V, 1.30A, 24V, LS', 'kicadSymbolki_fp_filters': 'Littelfuse*PolyZen*LS*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HDSP-7507|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7507|
 |Hex ID (short code)|hexID|SZKDICHARACTERHDSP757|
-|Name|name|HDSP-7507|
+|name|name|HDSP-7507|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HDSP-7507', 'kicadSymbolFootprint': 'Display_7Segment:HDSP-7507', 'kicadSymbolDatasheet': 'https://docs.broadcom.com/docs/AV02-2553EN', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': '+-1 overflow 7 segment high efficiency red, common anode', 'kicadSymbolki_fp_filters': 'HDSP?7507*'}]|
 ||||

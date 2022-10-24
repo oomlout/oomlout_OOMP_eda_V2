@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm|
 |Hex ID (short code)|hexID|FZKLSMLSK685PLCC424X27P13|
-|Name|name|LED_SMD : LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm|
+|name|name|LED_SMD : LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm', 'description': 'https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf', 'tags': 'LED RGB NeoPixel Nano', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm/kicadPcb3d_450.png

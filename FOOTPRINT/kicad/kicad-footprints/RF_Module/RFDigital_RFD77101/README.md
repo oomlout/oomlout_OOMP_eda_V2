@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RFDigital_RFD77101|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-RFDigital_RFD77101|
 |Hex ID (short code)|hexID|FZKRFMORFDIGITALRFD7711|
-|Name|name|RF_Module : RFDigital_RFD77101|
+|name|name|RF_Module : RFDigital_RFD77101|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RFDigital_RFD77101', 'description': 'RFDigital RFD77101 Simblee', 'tags': 'RFDigital RFD77101 Simblee', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/RFDigital_RFD77101.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

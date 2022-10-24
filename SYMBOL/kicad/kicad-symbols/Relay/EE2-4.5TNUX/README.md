@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EE2-4.5TNUX|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-EE2-4.5TNUX|
 |Hex ID (short code)|hexID|SZKRELAYEE245TNUX|
-|Name|name|EE2-4.5TNUX|
+|name|name|EE2-4.5TNUX|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'EE2-3TNUX', 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'EE2-4.5TNUX', 'kicadSymbolFootprint': 'Relay_SMD:Relay_DPDT_Kemet_EE2_NUX_DoubleCoil', 'kicadSymbolDatasheet': 'https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf', 'kicadSymbolki_keywords': 'signal relay double pole double throw DPDT DC coil double dual coil latching', 'kicadSymbolki_description': 'General purpose signal relay, Kemet EE2 Series, DPDT (2 Form C), double coil latching, high solder joint reliability SMD, 60W/125VA, 220VDC/250VAC, 2A, 4.5V DC coil', 'kicadSymbolki_fp_filters': 'Relay*DPDT*Kemet*EE2*NUX*DoubleCoil*'}]|
 ||||

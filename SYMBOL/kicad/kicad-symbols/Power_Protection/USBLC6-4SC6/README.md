@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|USBLC6-4SC6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-USBLC6-4SC6|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONULC64SC6|
-|Name|name|USBLC6-4SC6|
+|name|name|USBLC6-4SC6|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'USBLC6-4SC6', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/usblc6-4.pdf', 'kicadSymbolki_keywords': 'usb ethernet sim card video', 'kicadSymbolki_description': 'Very low capacitance ESD protection diode, 4 data-line, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

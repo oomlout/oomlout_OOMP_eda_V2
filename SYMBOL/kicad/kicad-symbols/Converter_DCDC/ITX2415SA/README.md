@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ITX2415SA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX2415SA|
 |Hex ID (short code)|hexID|SZKCONITX2415SA|
-|Name|name|ITX2415SA|
+|name|name|ITX2415SA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ITX0503SA', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'ITX2415SA', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_XP_POWER-ITXxxxxSA_THT', 'kicadSymbolDatasheet': 'https://www.xppower.com/pdfs/SF_ITX.pdf', 'kicadSymbolki_keywords': 'XP_POWER DC/DC isolated Converter module', 'kicadSymbolki_description': 'XP Power 6W, 1000 VDC Isolated DC/DC Converter Module, Fully Regulated Single Output Voltage 15V, ±400mA, 24V Input Voltage, SIP', 'kicadSymbolki_fp_filters': '*XP?POWER?ITXxxxxSA*'}]|
 ||||

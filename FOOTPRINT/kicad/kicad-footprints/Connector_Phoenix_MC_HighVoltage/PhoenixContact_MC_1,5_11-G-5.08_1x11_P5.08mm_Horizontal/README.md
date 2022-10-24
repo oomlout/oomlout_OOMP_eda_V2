@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PhoenixContact_MC_1,5_11-G-5.08_1x11_P5.08mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC_HighVoltage-PhoenixContact_MC_1,5_11-G-5.08_1x11_P5.08mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNPHOENIXMCHIGHVOLTAGEPHOENIXCONTACTMC1511G581X11P58HORIZONTAL|
-|Name|name|Connector_Phoenix_MC_HighVoltage : PhoenixContact_MC_1,5_11-G-5.08_1x11_P5.08mm_Horizontal|
+|name|name|Connector_Phoenix_MC_HighVoltage : PhoenixContact_MC_1,5_11-G-5.08_1x11_P5.08mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PhoenixContact_MC_1,5_11-G-5.08_1x11_P5.08mm_Horizontal', 'description': 'Generic Phoenix Contact connector footprint for: MC_1,5/11-G-5.08; number of pins: 11; pin pitch: 5.08mm; Angled \|\| order number: 1836273 8A 320V', 'tags': 'phoenix_contact connector MC_01x11_G_5.08mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MC_HighVoltage.3dshapes/PhoenixContact_MC_1,5_11-G-5.08_1x11_P5.08mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_11-G-5.08_1x11_P5.08mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_11-G-5.08_1x11_P5.08mm_Horizontal/kicadPcb3d_450.png

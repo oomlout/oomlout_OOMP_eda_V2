@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|nRF52840|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Nordic-nRF52840|
 |Hex ID (short code)|hexID|SZKMCUNORDICNRF5284|
-|Name|name|nRF52840|
+|name|name|nRF52840|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'nRF52840', 'kicadSymbolFootprint': 'Package_DFN_QFN:Nordic_AQFN-73-1EP_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'http://infocenter.nordicsemi.com/topic/com.nordic.infocenter.nrf52/dita/nrf52/chips/nrf52840.html', 'kicadSymbolki_keywords': 'MCU, ARM, BLE, ANT, 2.4GHz, 802.15.4', 'kicadSymbolki_description': 'Multiprotocol BLE/ANT/2.4 GHz/802.15.4 Cortex-M4F SoC, AQFN-73', 'kicadSymbolki_fp_filters': 'Nordic*AQFN*1EP*7x7mm*P0.5mm*'}]|
 ||||

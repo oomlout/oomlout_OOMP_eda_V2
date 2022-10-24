@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|82C54|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-82C54|
 |Hex ID (short code)|hexID|SZKTIMER82C54|
-|Name|name|82C54|
+|name|name|82C54|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '82C54', 'kicadSymbolFootprint': 'Package_DIP:DIP-24_W15.24mm', 'kicadSymbolDatasheet': 'http://download.intel.com/design/archives/periphrl/docs/23124406.pdf', 'kicadSymbolki_keywords': 'Timer Counter', 'kicadSymbolki_description': 'CHMOS Programmable Interval Timer, PDIP-24', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

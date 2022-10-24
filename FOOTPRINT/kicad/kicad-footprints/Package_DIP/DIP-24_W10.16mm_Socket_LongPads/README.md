@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DIP-24_W10.16mm_Socket_LongPads|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-24_W10.16mm_Socket_LongPads|
 |Hex ID (short code)|hexID|FZKDIPDIP24W116SOL|
-|Name|name|Package_DIP : DIP-24_W10.16mm_Socket_LongPads|
+|name|name|Package_DIP : DIP-24_W10.16mm_Socket_LongPads|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DIP-24_W10.16mm_Socket_LongPads', 'description': '24-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), Socket, LongPads', 'tags': 'THT DIP DIL PDIP 2.54mm 10.16mm 400mil Socket LongPads', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-24_W10.16mm_Socket.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-24_W10.16mm_Socket_LongPads/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-24_W10.16mm_Socket_LongPads/kicadPcb3d_450.png

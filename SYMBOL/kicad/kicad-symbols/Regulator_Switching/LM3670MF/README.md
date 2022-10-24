@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM3670MF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM3670MF|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM367MF|
-|Name|name|LM3670MF|
+|name|name|LM3670MF|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ADP2108AUJ-1.0', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM3670MF', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm3670.pdf', 'kicadSymbolki_keywords': 'DC-DC buck converter step down voltage regulator', 'kicadSymbolki_description': 'Miniature Step-Down DC-DC Converter for Ultralow Voltage Circuits, 2.5V < Vin < 5.5V, adjustable output voltage, SOT-23-5', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
 ||||

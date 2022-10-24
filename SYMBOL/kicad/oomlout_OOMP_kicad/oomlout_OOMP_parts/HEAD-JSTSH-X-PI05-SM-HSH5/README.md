@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-JSTSH-X-PI05-SM-HSH5|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI05-SM-HSH5|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI5SMHSH5|
-|Name|name|HEAD-JSTSH-X-PI05-SM-HSH5|
+|name|name|HEAD-JSTSH-X-PI05-SM-HSH5|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HEAD-JSTSH-X-PI05-SM-HSH5', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:HEAD-JSTSH-X-PI05-SM-HSH5', 'kicadSymbolDatasheet': 'oom.lt/HSH5', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'hexID: HSH5;Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_1x??_*'}]|
 ||||

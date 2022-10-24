@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP4251-xxxx-ST|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4251-xxxx-ST|
 |Hex ID (short code)|hexID|SZKPOTENTIOMETERDIGITALMCP4251XXXXST|
-|Name|name|MCP4251-xxxx-ST|
+|name|name|MCP4251-xxxx-ST|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP4251-xxxx-ST', 'kicadSymbolFootprint': 'Package_SO:TSSOP-14_4.4x5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/22060b.pdf', 'kicadSymbolki_keywords': 'Digital Pot Potentiometer', 'kicadSymbolki_description': 'Dual 8 Bit Digital Pot, SPI, Volatile Memory, TSSOP-14', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x5mm*P0.65mm*'}]|
 ||||

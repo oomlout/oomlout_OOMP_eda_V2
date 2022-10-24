@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|HTSSOP-44_6.1x14mm_P0.635mm_TopEP4.14x7.01mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-44_6.1x14mm_P0.635mm_TopEP4.14x7.01mm|
 |Hex ID (short code)|hexID|FZKSOHTSS4461X14P635TOPEP414X71|
-|Name|name|Package_SO : HTSSOP-44_6.1x14mm_P0.635mm_TopEP4.14x7.01mm|
+|name|name|Package_SO : HTSSOP-44_6.1x14mm_P0.635mm_TopEP4.14x7.01mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HTSSOP-44_6.1x14mm_P0.635mm_TopEP4.14x7.01mm', 'description': 'HTSSOP, 44 Pin (http://www.ti.com/lit/ds/symlink/tpa3251.pdf#page=38), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'HTSSOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/HTSSOP-44_6.1x14mm_P0.635mm_TopEP4.14x7.01mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-44_6.1x14mm_P0.635mm_TopEP4.14x7.01mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-44_6.1x14mm_P0.635mm_TopEP4.14x7.01mm/kicadPcb3d_450.png

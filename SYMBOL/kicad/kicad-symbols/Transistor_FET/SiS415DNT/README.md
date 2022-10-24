@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SiS415DNT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-SiS415DNT|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETSIS415DNT|
-|Name|name|SiS415DNT|
+|name|name|SiS415DNT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'SiS415DNT', 'kicadSymbolFootprint': 'Package_SO:Vishay_PowerPAK_1212-8_Single', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/63684/sis415dnt.pdf', 'kicadSymbolki_keywords': 'P-Channel MOSFET', 'kicadSymbolki_description': '-35A Id, -20V Vds, P-Channel MOSFET, PowerPAK 1212-8 Single', 'kicadSymbolki_fp_filters': 'Vishay*PowerPAK*1212*Single*'}]|
 ||||

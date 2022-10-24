@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM6321H|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-LM6321H|
 |Hex ID (short code)|hexID|SZKAMPLIFIERBUFFERLM6321H|
-|Name|name|LM6321H|
+|name|name|LM6321H|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM6321H', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-5-8', 'kicadSymbolDatasheet': 'http://www.electronica60norte.com/mwfls/pdf/LM6221.pdf', 'kicadSymbolki_keywords': 'single buffer', 'kicadSymbolki_description': 'High Speed Buffer, TO-5-8', 'kicadSymbolki_fp_filters': 'TO?5*'}]|
 ||||

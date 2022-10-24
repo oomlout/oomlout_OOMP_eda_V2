@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DB15_Female_MountingHoles|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DB15_Female_MountingHoles|
 |Hex ID (short code)|hexID|SZKCNDB15FEMALEHOLS|
-|Name|name|DB15_Female_MountingHoles|
+|name|name|DB15_Female_MountingHoles|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DB15_Female_MountingHoles', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'female D-SUB connector', 'kicadSymbolki_description': '15-pin female D-SUB connector (low-density/2 columns), Mounting Hole', 'kicadSymbolki_fp_filters': 'DSUB*Female*'}]|
 ||||

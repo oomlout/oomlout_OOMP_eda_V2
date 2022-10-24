@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS190|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS190|
 |Hex ID (short code)|hexID|SZK74XX74LS19|
-|Name|name|74LS190|
+|name|name|74LS190|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS190', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS190', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL CNT CNT4', 'kicadSymbolki_description': '4-bit Synchronous Up/Down BCD Counter', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

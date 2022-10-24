@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM2733YMF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2733YMF|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM2733YMF|
-|Name|name|LM2733YMF|
+|name|name|LM2733YMF|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LMR10510XMF', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2733YMF', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm2733.pdf', 'kicadSymbolki_keywords': 'Miniature Step-Up Boost Voltage Regulator', 'kicadSymbolki_description': 'LM27313, 1A, 40Vout Boost Voltage Regulator, 600KHz Frequency,', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

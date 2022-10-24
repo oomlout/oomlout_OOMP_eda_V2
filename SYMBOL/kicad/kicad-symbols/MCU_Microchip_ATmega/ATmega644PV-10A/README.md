@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega644PV-10A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega644PV-10A|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA644PV1A|
-|Name|name|ATmega644PV-10A|
+|name|name|ATmega644PV-10A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATmega164PV-10A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega644PV-10A', 'kicadSymbolFootprint': 'Package_QFP:TQFP-44_10x10mm_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42744-ATmega644P_Datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR PicoPower', 'kicadSymbolki_description': '10MHz, 64kB Flash, 4kB SRAM, 2kB EEPROM, JTAG, TQFP-44', 'kicadSymbolki_fp_filters': 'TQFP*10x10mm*P0.8mm*'}]|
 ||||

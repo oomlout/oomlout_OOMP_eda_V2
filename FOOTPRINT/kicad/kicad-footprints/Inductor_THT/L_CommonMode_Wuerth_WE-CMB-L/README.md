@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_CommonMode_Wuerth_WE-CMB-L|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_CommonMode_Wuerth_WE-CMB-L|
 |Hex ID (short code)|hexID|FZKINLCOONMODEWUERTHWECMBL|
-|Name|name|Inductor_THT : L_CommonMode_Wuerth_WE-CMB-L|
+|name|name|Inductor_THT : L_CommonMode_Wuerth_WE-CMB-L|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_CommonMode_Wuerth_WE-CMB-L', 'description': 'Wuerth, WE-CMB, Bauform L,', 'tags': 'CommonModeChoke Gleichtaktdrossel ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_CommonMode_Wuerth_WE-CMB-L.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_Wuerth_WE-CMB-L/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_Wuerth_WE-CMB-L/kicadPcb3d_450.png

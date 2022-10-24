@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RJ18_Shielded|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-RJ18_Shielded|
 |Hex ID (short code)|hexID|SZKCNRJ18SHED|
-|Name|name|RJ18_Shielded|
+|name|name|RJ18_Shielded|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '6P6C_Shielded', 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'RJ18_Shielded', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': '6P6C RJ female connector', 'kicadSymbolki_description': 'RJ connector, 6P6C (6 positions 6 connected), Shielded', 'kicadSymbolki_fp_filters': '6P6C* RJ12* RJ18* RJ25*'}]|
 ||||

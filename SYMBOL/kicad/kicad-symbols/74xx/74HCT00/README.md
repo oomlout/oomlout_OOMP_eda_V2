@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74HCT00|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74HCT00|
 |Hex ID (short code)|hexID|SZK74XX74HCT|
-|Name|name|74HCT00|
+|name|name|74HCT00|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LS00', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74HCT00', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74hct00', 'kicadSymbolki_keywords': 'HCTMOS nand 2-input', 'kicadSymbolki_description': 'quad 2-input NAND gate', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SO14*'}]|
 ||||

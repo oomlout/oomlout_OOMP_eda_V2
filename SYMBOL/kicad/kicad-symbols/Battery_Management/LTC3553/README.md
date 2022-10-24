@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC3553|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-LTC3553|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTLTC3553|
-|Name|name|LTC3553|
+|name|name|LTC3553|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC3553', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/3553fc.pdf', 'kicadSymbolki_keywords': 'USB PMIC', 'kicadSymbolki_description': 'Micropower USB Power Manager With Li-Ion Charger, LDO and Buck Regulator, 4.2V float, QFN-20', 'kicadSymbolki_fp_filters': '*QFN*3x3mm*P0.4mm*'}]|
 ||||

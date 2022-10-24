@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|WLP-4_0.86x0.86mm_P0.4mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-WLP-4_0.86x0.86mm_P0.4mm|
 |Hex ID (short code)|hexID|FZKBGAWLP486X86P4|
-|Name|name|Package_BGA : WLP-4_0.86x0.86mm_P0.4mm|
+|name|name|Package_BGA : WLP-4_0.86x0.86mm_P0.4mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'WLP-4_0.86x0.86mm_P0.4mm', 'description': 'WLP-4_0.86x0.86mm_P0.4mm https://pdfserv.maximintegrated.com/package_dwgs/21-0612.PDF, https://www.maximintegrated.com/en/app-notes/index.mvp/id/1891', 'tags': 'WLP-4', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/WLP-4_0.86x0.86mm_P0.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/WLP-4_0.86x0.86mm_P0.4mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_BGA/WLP-4_0.86x0.86mm_P0.4mm/kicadPcb3d_450.png

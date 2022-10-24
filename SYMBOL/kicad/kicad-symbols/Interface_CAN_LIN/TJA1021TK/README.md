@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TJA1021TK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1021TK|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINTJA121TK|
-|Name|name|TJA1021TK|
+|name|name|TJA1021TK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TJA1021TK', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.65mm_EP1.55x2.4mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/documents/data_sheet/TJA1021.pdf', 'kicadSymbolki_keywords': 'LIN 2.1 SAE J2602 Transceiver HVSON-8', 'kicadSymbolki_description': 'LIN 2.1/SAE J2602 transceiver, DFN-8', 'kicadSymbolki_fp_filters': 'DFN*1EP*3x3mm*P0.65mm*'}]|
 ||||

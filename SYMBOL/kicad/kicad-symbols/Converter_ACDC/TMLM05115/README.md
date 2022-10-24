@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TMLM05115|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_ACDC-TMLM05115|
 |Hex ID (short code)|hexID|SZKCONTMLM5115|
-|Name|name|TMLM05115|
+|name|name|TMLM05115|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TMLM05103', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'TMLM05115', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_TRACO_TMLM-05_THT', 'kicadSymbolDatasheet': 'https://www.tracopower.com/products/tmlm.pdf', 'kicadSymbolki_keywords': 'Traco Power 5W AC-DC module power supply', 'kicadSymbolki_description': '15V 333mA AC/DC low noise power module', 'kicadSymbolki_fp_filters': 'Converter*ACDC*TRACO*TMLM*05*'}]|
 ||||

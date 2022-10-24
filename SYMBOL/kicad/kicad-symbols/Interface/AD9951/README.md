@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD9951|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-AD9951|
 |Hex ID (short code)|hexID|SZKINTERFACEAD9951|
-|Name|name|AD9951|
+|name|name|AD9951|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD9951', 'kicadSymbolFootprint': 'Package_QFP:TQFP-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm', 'kicadSymbolDatasheet': 'https://www.analog.com/static/imported-files/data_sheets/AD9951.pdf', 'kicadSymbolki_keywords': 'Direct Digital Synthesizer DDS', 'kicadSymbolki_description': '14-Bit Direct Digital Synthesizer with 400MSPS DAC, 1.8V, TQFP48', 'kicadSymbolki_fp_filters': 'TQFP*1EP*7x7mm*P0.5mm*'}]|
 ||||

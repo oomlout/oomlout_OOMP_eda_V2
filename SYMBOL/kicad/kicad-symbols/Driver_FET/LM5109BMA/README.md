@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM5109BMA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-LM5109BMA|
 |Hex ID (short code)|hexID|SZKDRIVERFETLM519BMA|
-|Name|name|LM5109BMA|
+|name|name|LM5109BMA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM5109MA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM5109BMA', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm5109b.pdf', 'kicadSymbolki_keywords': 'Half-Bridge Gate Driver', 'kicadSymbolki_description': 'Half-Bridge Gate Driver, Output Current 1.0A, 100V, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

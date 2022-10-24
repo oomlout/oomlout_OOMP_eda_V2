@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLV70033_WSON6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV70033_WSON6|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTLV733WSON6|
-|Name|name|TLV70033_WSON6|
+|name|name|TLV70033_WSON6|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TLV70012_WSON6', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV70033_WSON6', 'kicadSymbolFootprint': 'Package_SON:WSON-6_1.5x1.5mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tlv700.pdf', 'kicadSymbolki_keywords': '200mA LDO Regulator Fixed Positive', 'kicadSymbolki_description': '200mA Low Dropout Voltage Regulator, Fixed Output 3.3V, WSON6', 'kicadSymbolki_fp_filters': 'WSON*'}]|
 ||||

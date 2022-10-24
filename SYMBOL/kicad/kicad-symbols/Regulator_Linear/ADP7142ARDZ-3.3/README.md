@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADP7142ARDZ-3.3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-ADP7142ARDZ-3.3|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARADP7142ARDZ33|
-|Name|name|ADP7142ARDZ-3.3|
+|name|name|ADP7142ARDZ-3.3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ADP7142ARDZ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADP7142ARDZ-3.3', 'kicadSymbolFootprint': 'Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADP7142.pdf', 'kicadSymbolki_keywords': 'linear regulator ldo fixed positive', 'kicadSymbolki_description': '200mA, Low Noise, CMOS Low Dropout Regulator, Positive, 3.3V Fixed Output, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*1EP*3.9x4.9mm*P1.27mm*'}]|
 ||||

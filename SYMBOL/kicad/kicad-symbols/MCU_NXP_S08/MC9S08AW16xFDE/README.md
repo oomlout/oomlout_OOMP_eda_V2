@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC9S08AW16xFDE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08AW16xFDE|
 |Hex ID (short code)|hexID|SZKMCUNXPS8MC9S8AW16XFDE|
-|Name|name|MC9S08AW16xFDE|
+|name|name|MC9S08AW16xFDE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC9S08AC128xFDE', 'kicadSymbolReference': 'IC', 'kicadSymbolValue': 'MC9S08AW16xFDE', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm', 'kicadSymbolDatasheet': 'http://cache.nxp.com/files/microcontrollers/doc/data_sheet/MC9S08AW60.pdf', 'kicadSymbolki_keywords': 'NXP S08 Microcontroller', 'kicadSymbolki_description': '8-bit General Purpose Microcontroller, S08 core, 16kB Flash, 1kB RAM, QFN-48', 'kicadSymbolki_fp_filters': 'QFN*7x7mm*P0.5mm*'}]|
 ||||

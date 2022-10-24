@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ITX4805SA-H|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX4805SA-H|
 |Hex ID (short code)|hexID|SZKCONITX485SAH|
-|Name|name|ITX4805SA-H|
+|name|name|ITX4805SA-H|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ITX0503SA', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'ITX4805SA-H', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_XP_POWER-ITXxxxxSA_THT', 'kicadSymbolDatasheet': 'https://www.xppower.com/pdfs/SF_ITX.pdf', 'kicadSymbolki_keywords': 'XP_POWER DC/DC isolated Converter module', 'kicadSymbolki_description': 'XP Power 6W, 3000 VDC Isolated DC/DC Converter Module, Fully Regulated Single Output Voltage 5V, ±1200mA, 48V Input Voltage, SIP', 'kicadSymbolki_fp_filters': '*XP?POWER?ITXxxxxSA*'}]|
 ||||

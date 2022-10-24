@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|BUTA-4632-X-STAN-01-BT4632|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-4632-X-STAN-01-BT4632|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSBUTA4632XSTAN1BT4632|
-|Name|name|BUTA-4632-X-STAN-01-BT4632|
+|name|name|BUTA-4632-X-STAN-01-BT4632|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'BUTA-4632-X-STAN-01-BT4632', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:BUTA-4632-X-STAN-01-BT4632', 'kicadSymbolDatasheet': 'oom.lt/BT4632', 'kicadSymbolki_keywords': 'switch normally-open pushbutton push-button', 'kicadSymbolki_description': 'hexID: BT4632;Push button switch, generic, two pins'}]|
 ||||

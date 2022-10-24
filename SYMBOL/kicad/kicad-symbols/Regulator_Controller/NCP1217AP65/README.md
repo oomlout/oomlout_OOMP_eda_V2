@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCP1217AP65|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1217AP65|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERNCP1217AP65|
-|Name|name|NCP1217AP65|
+|name|name|NCP1217AP65|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NCP1200P40', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCP1217AP65', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/NCP1217-D.PDF', 'kicadSymbolki_keywords': 'SMPS Controller AC-DC', 'kicadSymbolki_description': 'Enhanced PWM Current-Mode Controller for High-Power Universal Off-Line Supplies, AC-DC, 65kHz, 1ms Soft Start, PDIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

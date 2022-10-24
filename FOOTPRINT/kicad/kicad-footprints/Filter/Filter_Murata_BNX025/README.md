@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Filter_Murata_BNX025|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Murata_BNX025|
 |Hex ID (short code)|hexID|FZKFILFILMBNX25|
-|Name|name|Filter : Filter_Murata_BNX025|
+|name|name|Filter : Filter_Murata_BNX025|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Filter_Murata_BNX025', 'description': 'https://www.murata.com/en-us/products/productdata/8796778004510/QNFH9101.pdf?1496719830000', 'tags': 'EMI Filter', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_Murata_BNX025.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Filter/Filter_Murata_BNX025/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Filter/Filter_Murata_BNX025/kicadPcb3d_450.png

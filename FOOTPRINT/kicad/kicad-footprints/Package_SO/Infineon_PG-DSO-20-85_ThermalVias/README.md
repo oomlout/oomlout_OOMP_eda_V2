@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Infineon_PG-DSO-20-85_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-20-85_ThermalVias|
 |Hex ID (short code)|hexID|FZKSOINFINEONPGDSO285THERMALVIAS|
-|Name|name|Package_SO : Infineon_PG-DSO-20-85_ThermalVias|
+|name|name|Package_SO : Infineon_PG-DSO-20-85_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Infineon_PG-DSO-20-85_ThermalVias', 'description': 'Infineon SO package 20pin with exposed pad (https://www.infineon.com/cms/en/product/packages/PG-DSO/PG-DSO-20-85/)', 'tags': 'DSO-20', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Infineon_PG-DSO-20-85.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/Infineon_PG-DSO-20-85_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/Infineon_PG-DSO-20-85_ThermalVias/kicadPcb3d_450.png

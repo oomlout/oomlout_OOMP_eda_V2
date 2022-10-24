@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CSD17510Q5A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD17510Q5A|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETCSD1751Q5A|
-|Name|name|CSD17510Q5A|
+|name|name|CSD17510Q5A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CSD17578Q5A', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'CSD17510Q5A', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TDSON-8-1', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/csd17510q5a', 'kicadSymbolki_keywords': 'NexFET Power MOSFET N-MOS', 'kicadSymbolki_description': '100A Id, 30V Vds, NexFET N-Channel Power MOSFET, 5.2mOhm Ron, Qg (typ) 6.4nC, SON8 5x6mm', 'kicadSymbolki_fp_filters': 'TDSON*'}]|
 ||||

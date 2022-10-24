@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ASMB-MTB1-0A3A2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-LED-ASMB-MTB1-0A3A2|
 |Hex ID (short code)|hexID|SZKLASMBMTB1A3A2|
-|Name|name|ASMB-MTB1-0A3A2|
+|name|name|ASMB-MTB1-0A3A2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'ASMB-MTB1-0A3A2', 'kicadSymbolFootprint': 'LED_SMD:LED_Avago_PLCC4_3.2x2.8mm_CW', 'kicadSymbolDatasheet': 'https://docs.broadcom.com/docs/AV02-4194EN', 'kicadSymbolki_keywords': 'led rgb diode', 'kicadSymbolki_description': 'Tricolor Black Surface LED, Common Anode Pin 4, PLCC-4', 'kicadSymbolki_fp_filters': '*Avago*PLCC4*3.2x2.8mm*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Stocko_MKS_1657-6-0-707_1x7_P2.50mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Stocko-Stocko_MKS_1657-6-0-707_1x7_P2.50mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNSTOCKOSTOCKOMKS16576771X7P25VERTICAL|
-|Name|name|Connector_Stocko : Stocko_MKS_1657-6-0-707_1x7_P2.50mm_Vertical|
+|name|name|Connector_Stocko : Stocko_MKS_1657-6-0-707_1x7_P2.50mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Stocko_MKS_1657-6-0-707_1x7_P2.50mm_Vertical', 'description': 'Stocko MKS 16xx series connector, (https://www.stocko-contact.com/downloads/steckverbindersystem-raster-2,5-mm.pdf#page=15), generated with kicad-footprint-generator', 'tags': 'Stocko RFK MKS 16xx', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Stocko.3dshapes/Stocko_MKS_1657-6-0-707_1x7_P2.50mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Stocko/Stocko_MKS_1657-6-0-707_1x7_P2.50mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Stocko/Stocko_MKS_1657-6-0-707_1x7_P2.50mm_Vertical/kicadPcb3d_450.png

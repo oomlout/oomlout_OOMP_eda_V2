@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TC1047xNB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TC1047xNB|
 |Hex ID (short code)|hexID|SZKSENTEMPERATURETC147XNB|
-|Name|name|TC1047xNB|
+|name|name|TC1047xNB|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP9700T-HTT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TC1047xNB', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/21498D.pdf', 'kicadSymbolki_keywords': 'temperature sensor analog', 'kicadSymbolki_description': 'Precision Temperature-to-Voltage Converter, 10mV/ºC, -40ºC to +125ºC, ±2.0ºC (max), 2.7V to 4.4V, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

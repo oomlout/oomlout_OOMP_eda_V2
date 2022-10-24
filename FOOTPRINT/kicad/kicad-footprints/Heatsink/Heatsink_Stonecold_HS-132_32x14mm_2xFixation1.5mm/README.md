@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm|
 |Hex ID (short code)|hexID|FZKHHSTONECOLDHS13232X142XFIXATION15|
-|Name|name|Heatsink : Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm|
+|name|name|Heatsink : Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm', 'description': 'Heatsink, StoneCold HS', 'tags': 'heatsink', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm/kicadPcb3d_450.png

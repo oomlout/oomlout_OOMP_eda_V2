@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Texas_NDY0011A|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Texas_NDY0011A|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMTEXASNDY11A|
-|Name|name|Package_TO_SOT_SMD : Texas_NDY0011A|
+|name|name|Package_TO_SOT_SMD : Texas_NDY0011A|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Texas_NDY0011A', 'description': 'TO-PMOD-11 11-pin switching regulator package, http://www.ti.com/lit/ml/mmsf025/mmsf025.pdf', 'tags': 'Texas TO-PMOD NDY00011A', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Texas_NDY0011A.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Texas_NDY0011A/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Texas_NDY0011A/kicadPcb3d_450.png

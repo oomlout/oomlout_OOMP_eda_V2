@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Neosid_SM-NE127_HandSoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SM-NE127_HandSoldering|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLNEOSIDSMNE127HANDSOLDERING|
-|Name|name|Inductor_SMD : L_Neosid_SM-NE127_HandSoldering|
+|name|name|Inductor_SMD : L_Neosid_SM-NE127_HandSoldering|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Neosid_SM-NE127_HandSoldering', 'description': 'Neosid, Inductor, SM-NE127, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMNE127.pdf', 'tags': 'Neosid Inductor SM-NE127 Fixed inductor SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Neosid_SM-NE127.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_SM-NE127_HandSoldering/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_SM-NE127_HandSoldering/kicadPcb3d_450.png

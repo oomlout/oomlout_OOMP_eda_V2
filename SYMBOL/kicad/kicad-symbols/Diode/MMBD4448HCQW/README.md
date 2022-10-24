@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MMBD4448HCQW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-MMBD4448HCQW|
 |Hex ID (short code)|hexID|SZKDIODEBD4448HCQW|
-|Name|name|MMBD4448HCQW|
+|name|name|MMBD4448HCQW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'Rohm_UMN1N', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'MMBD4448HCQW', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-353_SC-70-5', 'kicadSymbolDatasheet': 'http://www.diodes.com/datasheets/ds30153.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Quad Switching Diode Array Common Cathode', 'kicadSymbolki_fp_filters': 'SOT?353*'}]|
 ||||

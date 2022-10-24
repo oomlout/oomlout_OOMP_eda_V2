@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DAC08|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC08|
 |Hex ID (short code)|hexID|SZKANALOGDACDAC8|
-|Name|name|DAC08|
+|name|name|DAC08|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DAC08', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/DAC08.pdf', 'kicadSymbolki_keywords': 'DAC CNA', 'kicadSymbolki_description': 'DA Converter 8 bits'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC9S08AC96xLKE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08AC96xLKE|
 |Hex ID (short code)|hexID|SZKMCUNXPS8MC9S8AC96XLKE|
-|Name|name|MC9S08AC96xLKE|
+|name|name|MC9S08AC96xLKE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC9S08AC128xLKE', 'kicadSymbolReference': 'IC', 'kicadSymbolValue': 'MC9S08AC96xLKE', 'kicadSymbolFootprint': 'Package_QFP:LQFP-80_12x12mm_P0.5mm', 'kicadSymbolDatasheet': 'http://cache.nxp.com/files/microcontrollers/doc/data_sheet/MC9S08AC128.pdf', 'kicadSymbolki_keywords': 'NXP S08 Microcontroller', 'kicadSymbolki_description': '8-bit Flexis Microcontroller, S08 core, 96kB Flash, 6kB RAM, LQFP-80', 'kicadSymbolki_fp_filters': 'LQFP*12x12mm*P0.5mm*'}]|
 ||||

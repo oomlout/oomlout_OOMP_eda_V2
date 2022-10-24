@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74HC808|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx_IEEE-74HC808|
 |Hex ID (short code)|hexID|SZK74XXIEEE74HC88|
-|Name|name|74HC808|
+|name|name|74HC808|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74HC808', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

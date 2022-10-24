@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|6N138|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-6N138|
 |Hex ID (short code)|hexID|SZKISOLATOR6N138|
-|Name|name|6N138|
+|name|name|6N138|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '6N138', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/HCPL2731-D.pdf', 'kicadSymbolki_keywords': 'darlington optocoupler', 'kicadSymbolki_description': 'Low Input Current high Gain Split Darlington Optocouplers, -0.5V to 7V VDD, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SMDIP*W9.53mm*'}]|
 ||||

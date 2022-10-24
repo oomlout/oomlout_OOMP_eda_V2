@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PAL20|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Logic_Programmable-PAL20|
 |Hex ID (short code)|hexID|SZKLOGICPROGRAABLEPAL2|
-|Name|name|PAL20|
+|name|name|PAL20|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PAL20', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'logic programmable PAL', 'kicadSymbolki_description': 'generic 20-pin Programmable Array Logic (PAL) device'}]|
 ||||

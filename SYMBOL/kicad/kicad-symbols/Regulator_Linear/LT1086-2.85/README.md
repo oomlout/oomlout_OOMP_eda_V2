@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1086-2.85|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1086-2.85|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLT186285|
-|Name|name|LT1086-2.85|
+|name|name|LT1086-2.85|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM1084-3.3', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1086-2.85', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1086ffs.pdf', 'kicadSymbolki_keywords': 'Voltage Regulator Fixed 1.5A Positive LDO', 'kicadSymbolki_description': '1.5A 18V LDO Linear Regulator, Fixed Output 2.85V, TO-220/TO-263', 'kicadSymbolki_fp_filters': 'TO?220* TO?263*'}]|
 ||||

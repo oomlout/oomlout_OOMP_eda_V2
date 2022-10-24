@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM5007MM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5007MM|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM57|
-|Name|name|LM5007MM|
+|name|name|LM5007MM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM5007MM', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm5007.pdf', 'kicadSymbolki_keywords': 'Step-Down Switching Regulator', 'kicadSymbolki_description': '700mA, High Voltage (80V) Step-Down Switching Regulator, Adjustable Output Voltage, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
 ||||

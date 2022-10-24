@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DB9_Female|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DB9_Female|
 |Hex ID (short code)|hexID|SZKCNDB9FEMALE|
-|Name|name|DB9_Female|
+|name|name|DB9_Female|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DB9_Female', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'connector female D-SUB', 'kicadSymbolki_description': '9-pin female D-SUB connector', 'kicadSymbolki_fp_filters': 'DSUB*Female*'}]|
 ||||

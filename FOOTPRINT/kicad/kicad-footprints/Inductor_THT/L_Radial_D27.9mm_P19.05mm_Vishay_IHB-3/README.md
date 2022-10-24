@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Radial_D27.9mm_P19.05mm_Vishay_IHB-3|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D27.9mm_P19.05mm_Vishay_IHB-3|
 |Hex ID (short code)|hexID|FZKINLRD279P195VISHAYIHB3|
-|Name|name|Inductor_THT : L_Radial_D27.9mm_P19.05mm_Vishay_IHB-3|
+|name|name|Inductor_THT : L_Radial_D27.9mm_P19.05mm_Vishay_IHB-3|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Radial_D27.9mm_P19.05mm_Vishay_IHB-3', 'description': 'Inductor, Radial series, Radial, pin pitch=19.05mm, , diameter=27.9mm, Vishay, IHB-3, http://www.vishay.com/docs/34015/ihb.pdf', 'tags': 'Inductor Radial series Radial pin pitch 19.05mm  diameter 27.9mm Vishay IHB-3', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D27.9mm_P19.05mm_Vishay_IHB-3.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D27.9mm_P19.05mm_Vishay_IHB-3/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D27.9mm_P19.05mm_Vishay_IHB-3/kicadPcb3d_450.png

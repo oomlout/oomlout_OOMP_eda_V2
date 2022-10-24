@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_DIP_x04|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_DIP_x04|
 |Hex ID (short code)|hexID|SZKSWITCHSWDIPX4|
-|Name|name|SW_DIP_x04|
+|name|name|SW_DIP_x04|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_DIP_x04', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'dip switch', 'kicadSymbolki_description': '4x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol', 'kicadSymbolki_fp_filters': 'SW?DIP?x4*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SC-59|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SC-59|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSC59|
-|Name|name|Package_TO_SOT_SMD : SC-59|
+|name|name|Package_TO_SOT_SMD : SC-59|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SC-59', 'description': 'SC-59, https://lib.chipdip.ru/images/import_diod/original/SOT-23_SC-59.jpg', 'tags': 'SC-59', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SC-59.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SC-59/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SC-59/kicadPcb3d_450.png

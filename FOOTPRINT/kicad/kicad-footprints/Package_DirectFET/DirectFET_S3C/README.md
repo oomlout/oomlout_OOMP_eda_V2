@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DirectFET_S3C|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_S3C|
 |Hex ID (short code)|hexID|FZKDFETDIRECTFETS3C|
-|Name|name|Package_DirectFET : DirectFET_S3C|
+|name|name|Package_DirectFET : DirectFET_S3C|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DirectFET_S3C', 'description': 'DirectFET S3C https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=25', 'tags': 'DirectFET S3C MOSFET Infineon', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DirectFET.3dshapes/DirectFET_S3C.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DirectFET/DirectFET_S3C/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DirectFET/DirectFET_S3C/kicadPcb3d_450.png

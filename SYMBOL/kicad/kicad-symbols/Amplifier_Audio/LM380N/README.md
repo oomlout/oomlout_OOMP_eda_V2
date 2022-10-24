@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM380N|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM380N|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOLM38N|
-|Name|name|LM380N|
+|name|name|LM380N|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM380N', 'kicadSymbolFootprint': 'Package_DIP:DIP-14_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm380.pdf', 'kicadSymbolki_keywords': 'audio amplifier', 'kicadSymbolki_description': '2.5W Audio Power Amplifier, PDIP-14', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

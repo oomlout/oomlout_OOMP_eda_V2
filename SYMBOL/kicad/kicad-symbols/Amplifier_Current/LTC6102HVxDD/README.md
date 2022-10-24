@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC6102HVxDD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Current-LTC6102HVxDD|
 |Hex ID (short code)|hexID|SZKAMPLIFIERCURRENTLTC612HVXDD|
-|Name|name|LTC6102HVxDD|
+|name|name|LTC6102HVxDD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LTC6102xDD', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC6102HVxDD', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.5mm_EP1.66x2.38mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/6102fe.pdf', 'kicadSymbolki_keywords': 'current sense amplifier', 'kicadSymbolki_description': 'Precision Zero Drift Current Sense Amplifier, 100V, DFN-8', 'kicadSymbolki_fp_filters': 'DFN*3x3mm*P0.5mm*'}]|
 ||||

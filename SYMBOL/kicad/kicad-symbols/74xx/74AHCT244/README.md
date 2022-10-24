@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74AHCT244|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74AHCT244|
 |Hex ID (short code)|hexID|SZK74XX74AHCT244|
-|Name|name|74AHCT244|
+|name|name|74AHCT244|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74HC244', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AHCT244', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT244.pdf', 'kicadSymbolki_keywords': 'AHCTMOS BUFFER 3State', 'kicadSymbolki_description': '8-bit Buffer/Line Driver 3-state', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x6.5mm*P0.65mm* SSOP*4.4x6.5mm*P0.65mm*'}]|
 ||||

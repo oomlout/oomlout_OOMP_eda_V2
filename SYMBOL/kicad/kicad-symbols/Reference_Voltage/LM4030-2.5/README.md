@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM4030-2.5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4030-2.5|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGELM4325|
-|Name|name|LM4030-2.5|
+|name|name|LM4030-2.5|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM4030-4.096', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM4030-2.5', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm4030.pdf', 'kicadSymbolki_keywords': 'diode device voltage reference shunt', 'kicadSymbolki_description': '2.500V Ultra-High Precision Shunt Voltage Reference, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23?5*'}]|
 ||||

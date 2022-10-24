@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TDA2003|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA2003|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOTDA23|
-|Name|name|TDA2003|
+|name|name|TDA2003|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDA2003', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/cd00000123.pdf', 'kicadSymbolki_keywords': 'audio amplifier', 'kicadSymbolki_description': '10W Car Radio Audio Amplifier, TO-220-5', 'kicadSymbolki_fp_filters': 'TO*220*StaggerOdd*'}]|
 ||||

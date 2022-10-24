@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DIP-42_W15.24mm_SMDSocket_SmallPads|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-42_W15.24mm_SMDSocket_SmallPads|
 |Hex ID (short code)|hexID|FZKDIPDIP42W1524SMSOSLLPADS|
-|Name|name|Package_DIP : DIP-42_W15.24mm_SMDSocket_SmallPads|
+|name|name|Package_DIP : DIP-42_W15.24mm_SMDSocket_SmallPads|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DIP-42_W15.24mm_SMDSocket_SmallPads', 'description': '42-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), SMDSocket, SmallPads', 'tags': 'THT DIP DIL PDIP 2.54mm 15.24mm 600mil SMDSocket SmallPads', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-42_W15.24mm_SMDSocket.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-42_W15.24mm_SMDSocket_SmallPads/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-42_W15.24mm_SMDSocket_SmallPads/kicadPcb3d_450.png

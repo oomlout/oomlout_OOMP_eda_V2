@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT4231xUF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-LT4231xUF|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTLT4231XUF|
-|Name|name|LT4231xUF|
+|name|name|LT4231xUF|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT4231xUF', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-16-1EP_4x4mm_P0.65mm_EP2.15x2.15mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/4321f.pdf', 'kicadSymbolki_keywords': 'LTPoE++ dual diode bridge replacement', 'kicadSymbolki_description': 'PoE Ideal Diode Bridge Controller, QFN-16', 'kicadSymbolki_fp_filters': 'QFN*1EP*4x4mm*P0.65mm*'}]|
 ||||

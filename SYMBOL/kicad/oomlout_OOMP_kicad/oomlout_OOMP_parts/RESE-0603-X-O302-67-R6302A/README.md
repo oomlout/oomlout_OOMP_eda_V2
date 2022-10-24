@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O302-67-R6302A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O302-67-R6302A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO3267R632A|
-|Name|name|RESE-0603-X-O302-67-R6302A|
+|name|name|RESE-0603-X-O302-67-R6302A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O302-67-R6302A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O302-67-R6302A', 'kicadSymbolDatasheet': 'oom.lt/R6302A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6302A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

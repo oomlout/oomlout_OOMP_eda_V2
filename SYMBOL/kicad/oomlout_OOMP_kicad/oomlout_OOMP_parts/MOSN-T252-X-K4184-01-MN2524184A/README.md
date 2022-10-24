@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|MOSN-T252-X-K4184-01-MN2524184A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-MOSN-T252-X-K4184-01-MN2524184A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSMOSNT252XK41841MN2524184A|
-|Name|name|MOSN-T252-X-K4184-01-MN2524184A|
+|name|name|MOSN-T252-X-K4184-01-MN2524184A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'MOSN-T252-X-K4184-01-MN2524184A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:MOSN-T252-X-K4184-01-MN2524184A', 'kicadSymbolDatasheet': 'oom.lt/MN2524184A', 'kicadSymbolki_keywords': 'transistor NMOS N-MOS N-MOSFET', 'kicadSymbolki_description': 'hexID: MN2524184A;N-MOSFET transistor, gate/drain/source'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|+3V8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-+3V8|
 |Hex ID (short code)|hexID|SZKPOWER+3V8|
-|Name|name|+3V8|
+|name|name|+3V8|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': '+3V8', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "+3V8"'}]|
 ||||

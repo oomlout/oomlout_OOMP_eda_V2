@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LL1587|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-LL1587|
 |Hex ID (short code)|hexID|SZKTRLL1587|
-|Name|name|LL1587|
+|name|name|LL1587|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'T', 'kicadSymbolValue': 'LL1587', 'kicadSymbolFootprint': 'Transformer_THT:Transformer_Microphone_Lundahl_LL1587', 'kicadSymbolDatasheet': 'http://www.lundahl.se/wp-content/uploads/datasheets/1587.pdf', 'kicadSymbolki_keywords': 'microphone transformer', 'kicadSymbolki_description': 'Lundahl Transformers, Microphone Transformer', 'kicadSymbolki_fp_filters': 'Transformer*Microphone*Lundahl*LL1587*'}]|
 ||||

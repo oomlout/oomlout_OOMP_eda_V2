@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|WC1602A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-WC1602A|
 |Hex ID (short code)|hexID|SZKDICHARACTERWC162A|
-|Name|name|WC1602A|
+|name|name|WC1602A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'DS', 'kicadSymbolValue': 'WC1602A', 'kicadSymbolFootprint': 'Display:WC1602A', 'kicadSymbolDatasheet': 'http://www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf', 'kicadSymbolki_keywords': 'display LCD dot-matrix', 'kicadSymbolki_description': 'LCD 16x2 Alphanumeric , 8 bit parallel bus, 5V VDD', 'kicadSymbolki_fp_filters': '*WC*1602A*'}]|
 ||||

@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|SPBTLE-RF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Bluetooth-SPBTLE-RF|
 |Hex ID (short code)|hexID|SZKRFBLUETOOTHSPBTLERF|
-|Name|name|SPBTLE-RF|
+|name|name|SPBTLE-RF|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SPBTLE-RF', 'kicadSymbolFootprint': 'RF_Module:ST_SPBTLE', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/spbtle-rf.pdf', 'kicadSymbolki_keywords': 'BLE bluetooth module low-power', 'kicadSymbolki_description': 'Very Low Power network processor module for BLE v4.1, Hub capabilities', 'kicadSymbolki_fp_filters': 'ST*SPBTLE*'}]|
 ||||

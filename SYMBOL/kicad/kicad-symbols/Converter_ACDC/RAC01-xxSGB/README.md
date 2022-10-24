@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RAC01-xxSGB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC01-xxSGB|
 |Hex ID (short code)|hexID|SZKCONRAC1XXSGB|
-|Name|name|RAC01-xxSGB|
+|name|name|RAC01-xxSGB|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'RAC01-xxSGB', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_RECOM_RAC01-xxSGB_THT', 'kicadSymbolDatasheet': 'https://www.recom-power.com/pdf/Powerline-AC-DC/RAC01-GB.pdf', 'kicadSymbolki_keywords': 'ac dc power supply', 'kicadSymbolki_description': '1 Watt Single Output EMC Class B AC/DC power supply with regulated and short-circuit-proof isolated DC outputs and low standby power consumption.', 'kicadSymbolki_fp_filters': 'Converter*ACDC*RECOM*RAC01*SGB*THT*'}]|
 ||||

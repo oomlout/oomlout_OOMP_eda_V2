@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Barrel_Jack_MountingPin|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Barrel_Jack_MountingPin|
 |Hex ID (short code)|hexID|SZKCNBARRELJMOUNTINGPIN|
-|Name|name|Barrel_Jack_MountingPin|
+|name|name|Barrel_Jack_MountingPin|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Barrel_Jack_MountingPin', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'DC power barrel jack connector', 'kicadSymbolki_description': 'DC Barrel Jack with a mounting pin', 'kicadSymbolki_fp_filters': 'BarrelJack*'}]|
 ||||

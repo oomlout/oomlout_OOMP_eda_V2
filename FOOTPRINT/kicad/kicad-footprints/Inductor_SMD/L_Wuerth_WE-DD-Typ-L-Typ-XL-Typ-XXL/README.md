@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Wuerth_WE-DD-Typ-L-Typ-XL-Typ-XXL|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-DD-Typ-L-Typ-XL-Typ-XXL|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLWUERTHWEDDTYPLTYPXLTYPXXL|
-|Name|name|Inductor_SMD : L_Wuerth_WE-DD-Typ-L-Typ-XL-Typ-XXL|
+|name|name|Inductor_SMD : L_Wuerth_WE-DD-Typ-L-Typ-XL-Typ-XXL|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Wuerth_WE-DD-Typ-L-Typ-XL-Typ-XXL', 'description': 'Shielded Coupled Inductor, Wuerth Elektronik, WE-DD, SMD, Typ L, Typ XL, Typ XXL, https://katalog.we-online.com/pbs/datasheet/744874001.pdf', 'tags': 'Choke Coupled Double Inductor SMD Wuerth WE-DD TypL TypXL TypXXL ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_WE-DD-Typ-L-Typ-XL-Typ-XXL.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_WE-DD-Typ-L-Typ-XL-Typ-XXL/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_WE-DD-Typ-L-Typ-XL-Typ-XXL/kicadPcb3d_450.png

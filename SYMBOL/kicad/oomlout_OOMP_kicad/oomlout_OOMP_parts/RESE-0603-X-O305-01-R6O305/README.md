@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O305-01-R6O305|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O305-01-R6O305|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO351R6O35|
-|Name|name|RESE-0603-X-O305-01-R6O305|
+|name|name|RESE-0603-X-O305-01-R6O305|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O305-01-R6O305', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O305-01-R6O305', 'kicadSymbolDatasheet': 'oom.lt/R6O305', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6O305;PARTL C-JLCC;C23156;MANUF C-XXXX;0603WAF3004T5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

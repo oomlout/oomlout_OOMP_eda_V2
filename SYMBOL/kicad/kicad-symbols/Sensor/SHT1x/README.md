@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SHT1x|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor-SHT1x|
 |Hex ID (short code)|hexID|SZKSENSHT1X|
-|Name|name|SHT1x|
+|name|name|SHT1x|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SHT1x', 'kicadSymbolFootprint': 'Sensor:SHT1x', 'kicadSymbolDatasheet': 'https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/0_Datasheets/Humidity/Sensirion_Humidity_Sensors_SHT1x_Datasheet.pdf', 'kicadSymbolki_keywords': 'digital temperature humidity sensor', 'kicadSymbolki_description': 'Temperature and humidity module', 'kicadSymbolki_fp_filters': 'SHT1x*'}]|
 ||||

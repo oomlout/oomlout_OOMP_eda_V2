@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TestPoint_Bridge_Pitch5.08mm_Drill0.7mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Bridge_Pitch5.08mm_Drill0.7mm|
 |Hex ID (short code)|hexID|FZKTPTPBRIDGEPITCH58DRILL7|
-|Name|name|TestPoint : TestPoint_Bridge_Pitch5.08mm_Drill0.7mm|
+|name|name|TestPoint : TestPoint_Bridge_Pitch5.08mm_Drill0.7mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TestPoint_Bridge_Pitch5.08mm_Drill0.7mm', 'description': 'wire loop as test point, pitch 5.08mm, hole diameter 0.7mm, wire diameter 1.0mm', 'tags': 'test point wire loop', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Bridge_Pitch5.08mm_Drill0.7mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

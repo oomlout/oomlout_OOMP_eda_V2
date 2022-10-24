@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1117-2.85|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1117-2.85|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLT1117285|
-|Name|name|LT1117-2.85|
+|name|name|LT1117-2.85|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1117-2.85', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1117fd.pdf', 'kicadSymbolki_keywords': 'linear regulator ldo fixed positive', 'kicadSymbolki_description': '800mA Low-Dropout Linear Regulator, 2.85V fixed output, SOT-223/TO-263', 'kicadSymbolki_fp_filters': 'SOT?223* TO?263*'}]|
 ||||

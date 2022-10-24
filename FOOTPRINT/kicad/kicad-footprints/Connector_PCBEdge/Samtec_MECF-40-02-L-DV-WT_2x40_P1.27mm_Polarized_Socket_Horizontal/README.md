@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Samtec_MECF-40-02-L-DV-WT_2x40_P1.27mm_Polarized_Socket_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-40-02-L-DV-WT_2x40_P1.27mm_Polarized_Socket_Horizontal|
 |Hex ID (short code)|hexID|FZKCNPCBEDGESAMTECMECF42LDVWT2X4P127POLARIZEDSOHORIZONTAL|
-|Name|name|Connector_PCBEdge : Samtec_MECF-40-02-L-DV-WT_2x40_P1.27mm_Polarized_Socket_Horizontal|
+|name|name|Connector_PCBEdge : Samtec_MECF-40-02-L-DV-WT_2x40_P1.27mm_Polarized_Socket_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Samtec_MECF-40-02-L-DV-WT_2x40_P1.27mm_Polarized_Socket_Horizontal', 'description': 'Highspeed card edge connector for 2.4mm PCBs with 40 contacts (polarized)', 'tags': 'conn samtec card-edge high-speed', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PCBEdge.3dshapes/Samtec_MECF-40-02-L-DV-WT_2x40_P1.27mm_Polarized_Socket_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-40-02-L-DV-WT_2x40_P1.27mm_Polarized_Socket_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-40-02-L-DV-WT_2x40_P1.27mm_Polarized_Socket_Horizontal/kicadPcb3d_450.png

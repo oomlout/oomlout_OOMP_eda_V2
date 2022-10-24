@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADuM7643C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-ADuM7643C|
 |Hex ID (short code)|hexID|SZKISOLATORADUM7643C|
-|Name|name|ADuM7643C|
+|name|name|ADuM7643C|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADuM7643C', 'kicadSymbolFootprint': 'Package_SO:QSOP-20_3.9x8.7mm_P0.635mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM7640_7641_7642_7643.pdf', 'kicadSymbolki_keywords': '6-Channels Hex Digital Isolator 25Mbps', 'kicadSymbolki_description': 'Low Power Six-Channel 3/3 Digital Isolator, 25Mbps 6ns, Fail-Safe High, QSOP-20', 'kicadSymbolki_fp_filters': 'QSOP*3.9x8.7mm*P0.635mm*'}]|
 ||||

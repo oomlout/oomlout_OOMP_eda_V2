@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HDSP-4830|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-LED-HDSP-4830|
 |Hex ID (short code)|hexID|SZKLHDSP483|
-|Name|name|HDSP-4830|
+|name|name|HDSP-4830|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'BAR', 'kicadSymbolValue': 'HDSP-4830', 'kicadSymbolFootprint': 'Display:HDSP-4830', 'kicadSymbolDatasheet': 'https://docs.broadcom.com/docs/AV02-1798EN', 'kicadSymbolki_keywords': 'display LED array', 'kicadSymbolki_description': '10-element LED arrays, high efficient red', 'kicadSymbolki_fp_filters': 'HDSP?48*'}]|
 ||||

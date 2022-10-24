@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TXS0102DCU|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXS0102DCU|
 |Hex ID (short code)|hexID|SZKLOGICLEVELTRANSLATORTXS12DCU|
-|Name|name|TXS0102DCU|
+|name|name|TXS0102DCU|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TXS0102DCU', 'kicadSymbolFootprint': 'Package_SO:VSSOP-8_2.3x2mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/txs0102', 'kicadSymbolki_keywords': 'Level-Shifter CMOS-TTL-Translation', 'kicadSymbolki_description': '2-Bit Bidirectional Voltage-Level Shifter for Open-Drain and Push-Pull Application, VSSOP-8', 'kicadSymbolki_fp_filters': 'VSSOP*2.3x2mm*P0.5mm*'}]|
 ||||

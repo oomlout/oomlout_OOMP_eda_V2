@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MMBTA92|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMBTA92|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBTA92|
-|Name|name|MMBTA92|
+|name|name|MMBTA92|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'MMBTA92', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MMBTA92LT1-D.PDF', 'kicadSymbolki_keywords': 'PNP High Voltage Transistor', 'kicadSymbolki_description': '0.5A Ic, 300V Vce, PNP High Voltage Transistor, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

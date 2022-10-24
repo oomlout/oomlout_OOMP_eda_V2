@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_Kingbright_KPBD-3224|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Kingbright_KPBD-3224|
 |Hex ID (short code)|hexID|FZKLSMLKINGBRIGHTKPBD3224|
-|Name|name|LED_SMD : LED_Kingbright_KPBD-3224|
+|name|name|LED_SMD : LED_Kingbright_KPBD-3224|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_Kingbright_KPBD-3224', 'description': 'Kingbright, dual LED, red-green, dome lens, 3.2 x 2.4 mm Surface Mount LED Lamp (https://www.kingbright.com/attachments/file/psearch/000/00/00/KPBD-3224SURKCGKC(Ver.20A).pdf)', 'tags': 'Kingbright dual LED KPBD-3224', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Kingbright_KPBD-3224.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Kingbright_KPBD-3224/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Kingbright_KPBD-3224/kicadPcb3d_450.png

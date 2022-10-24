@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Wuerth_HCM-1190|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCM-1190|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLWUERTHHCM119|
-|Name|name|Inductor_SMD : L_Wuerth_HCM-1190|
+|name|name|Inductor_SMD : L_Wuerth_HCM-1190|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Wuerth_HCM-1190', 'description': 'Inductor, Wuerth Elektronik, Wuerth_HCM-1190, 10.5mmx11.0mm', 'tags': 'inductor Wuerth hcm smd', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_HCM-1190.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_HCM-1190/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_HCM-1190/kicadPcb3d_450.png

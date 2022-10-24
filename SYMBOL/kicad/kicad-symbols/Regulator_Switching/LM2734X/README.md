@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM2734X|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2734X|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM2734X|
-|Name|name|LM2734X|
+|name|name|LM2734X|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM2734Y', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2734X', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm2734.pdf', 'kicadSymbolki_keywords': 'Miniature Step-Down Buck Voltage Regulator', 'kicadSymbolki_description': '1A Step-Down DC-DC Regulator, Adjustable Output Voltage, 1.6MHz, TSOT-23-5', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
 ||||

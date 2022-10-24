@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MAN3420A|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-MAN3420A|
 |Hex ID (short code)|hexID|FZKDI7SMAN342A|
-|Name|name|Display_7Segment : MAN3420A|
+|name|name|Display_7Segment : MAN3420A|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MAN3420A', 'description': 'https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php', 'tags': 'One digit 7 segment green LED with left dot', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/MAN3420A.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/MAN3420A/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Display_7Segment/MAN3420A/kicadPcb3d_450.png

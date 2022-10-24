@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM5023|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-LM5023|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERLM523|
-|Name|name|LM5023|
+|name|name|LM5023|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM5023', 'kicadSymbolFootprint': 'Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/lm5023.pdf', 'kicadSymbolki_keywords': 'smps pwm controller ac-dc ac dc offline off-line quasi resonant quasi-resonant flyback', 'kicadSymbolki_description': 'Quasi-Resonant Current-Mode PWM Controller for Off-Line Supplies, OVP/OTP, Latched OVP, VSSOP-8', 'kicadSymbolki_fp_filters': 'VSSOP*3.0x3.0mm*P0.65mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C_Trim|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-C_Trim|
 |Hex ID (short code)|hexID|SZKDEVICECTRIM|
-|Name|name|C_Trim|
+|name|name|C_Trim|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'C_Trim', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'trimmer variable capacitor', 'kicadSymbolki_description': 'Trimmable capacitor'}]|
 ||||

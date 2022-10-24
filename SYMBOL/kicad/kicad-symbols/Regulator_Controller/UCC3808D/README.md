@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|UCC3808D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC3808D|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERUCC388D|
-|Name|name|UCC3808D|
+|name|name|UCC3808D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'UCC3808D', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ucc3808-2.pdf', 'kicadSymbolki_keywords': 'SMPS PWM Controller', 'kicadSymbolki_description': 'Low Power Current Mode Push-Pull PWM, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

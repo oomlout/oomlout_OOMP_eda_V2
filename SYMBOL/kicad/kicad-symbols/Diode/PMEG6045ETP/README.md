@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PMEG6045ETP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-PMEG6045ETP|
 |Hex ID (short code)|hexID|SZKDIODEPMEG645ETP|
-|Name|name|PMEG6045ETP|
+|name|name|PMEG6045ETP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PMEG4050EP', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'PMEG6045ETP', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-128', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/PMEG6045ETP.pdf', 'kicadSymbolki_keywords': 'forward voltage diode', 'kicadSymbolki_description': '60V, 4.5A High-Temperature Schottky barrier rectifier, SOD-128', 'kicadSymbolki_fp_filters': 'D*SOD?128*'}]|
 ||||

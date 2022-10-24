@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Wuerth_36103505_50x50mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Wuerth_36103505_50x50mm|
 |Hex ID (short code)|hexID|FZKRFSWUERTH3613555X5|
-|Name|name|RF_Shielding : Wuerth_36103505_50x50mm|
+|name|name|RF_Shielding : Wuerth_36103505_50x50mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Wuerth_36103505_50x50mm', 'description': 'WE-SHC Shielding Cabinet SMD 50x50mm', 'tags': 'Shielding Cabinet', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Shielding.3dshapes/Wuerth_36103505_50x50mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

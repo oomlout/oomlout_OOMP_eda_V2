@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EC2-3NU|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-EC2-3NU|
 |Hex ID (short code)|hexID|SZKRELAYEC23NU|
-|Name|name|EC2-3NU|
+|name|name|EC2-3NU|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'EC2-3NU', 'kicadSymbolFootprint': 'Relay_THT:Relay_DPDT_Kemet_EC2', 'kicadSymbolDatasheet': 'https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf', 'kicadSymbolki_keywords': 'signal relay double pole double throw DPDT DC coil non latching', 'kicadSymbolki_description': 'General purpose signal relay, Kemet EC2 Series, DPDT (2 Form C), non-latching, through hole, 60W/125VA, 220VDC/250VAC, 2A, 3V DC coil', 'kicadSymbolki_fp_filters': 'Relay*THT*Kemet*EC2*'}]|
 ||||

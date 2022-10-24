@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|1N5400|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-1N5400|
 |Hex ID (short code)|hexID|SZKDIODE1N54|
-|Name|name|1N5400|
+|name|name|1N5400|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N4001', 'kicadSymbolReference': 'D', 'kicadSymbolValue': '1N5400', 'kicadSymbolFootprint': 'Diode_THT:D_DO-201AD_P15.24mm_Horizontal', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/88516/1n5400.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '50V 3A General Purpose Rectifier Diode, DO-201AD', 'kicadSymbolki_fp_filters': 'D*DO?201AD*'}]|
 ||||

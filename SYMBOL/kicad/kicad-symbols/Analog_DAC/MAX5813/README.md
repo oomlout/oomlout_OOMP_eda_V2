@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX5813|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5813|
 |Hex ID (short code)|hexID|SZKANALOGDACMAX5813|
-|Name|name|MAX5813|
+|name|name|MAX5813|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX5813', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/MAX5813-MAX5815.pdf', 'kicadSymbolki_keywords': 'DA 8 Bit 4 ch', 'kicadSymbolki_description': 'Digital to analog, 8 Bit, 4 ch, 2.7 - 5.5 VDD, I2C, TSSOP-14', 'kicadSymbolki_fp_filters': '*TSSOP*14*4.4*'}]|
 ||||

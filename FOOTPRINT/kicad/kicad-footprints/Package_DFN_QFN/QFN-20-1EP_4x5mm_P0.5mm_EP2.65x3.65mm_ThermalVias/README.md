@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|QFN-20-1EP_4x5mm_P0.5mm_EP2.65x3.65mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-20-1EP_4x5mm_P0.5mm_EP2.65x3.65mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNQFN21EP4X5P5EP265X365THERMALVIAS|
-|Name|name|Package_DFN_QFN : QFN-20-1EP_4x5mm_P0.5mm_EP2.65x3.65mm_ThermalVias|
+|name|name|Package_DFN_QFN : QFN-20-1EP_4x5mm_P0.5mm_EP2.65x3.65mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'QFN-20-1EP_4x5mm_P0.5mm_EP2.65x3.65mm_ThermalVias', 'description': 'QFN, 20 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/QFN_20_05-08-1711.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-20-1EP_4x5mm_P0.5mm_EP2.65x3.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'custom'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-20-1EP_4x5mm_P0.5mm_EP2.65x3.65mm_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-20-1EP_4x5mm_P0.5mm_EP2.65x3.65mm_ThermalVias/kicadPcb3d_450.png

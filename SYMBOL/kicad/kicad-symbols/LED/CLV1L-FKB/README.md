@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CLV1L-FKB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-LED-CLV1L-FKB|
 |Hex ID (short code)|hexID|SZKLCLV1LFKB|
-|Name|name|CLV1L-FKB|
+|name|name|CLV1L-FKB|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'CLV1L-FKB', 'kicadSymbolFootprint': 'LED_SMD:LED_Cree-PLCC4_3.2x2.8mm_CCW', 'kicadSymbolDatasheet': 'http://www.cree.com/led-components/media/documents/CLV1L-FKB-1238.pdf', 'kicadSymbolki_keywords': 'led rgb diode', 'kicadSymbolki_description': 'Cree PLCC4 3 in 1 SMD LED', 'kicadSymbolki_fp_filters': '*Cree*PLCC4*3.2x2.8mm*'}]|
 ||||

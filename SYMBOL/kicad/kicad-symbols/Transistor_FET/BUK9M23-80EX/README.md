@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BUK9M23-80EX|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK9M23-80EX|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBUK9M238EX|
-|Name|name|BUK9M23-80EX|
+|name|name|BUK9M23-80EX|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BUK9M53-60EX', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BUK9M23-80EX', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:LFPAK33', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BUK9M23-80E.pdf', 'kicadSymbolki_keywords': 'Power MOSFET N-MOS', 'kicadSymbolki_description': '37A Id, 80V Vds, N-Channel TrenchMOS MOSFET, 20mOhm Ron, 20nC Qqd, -55 to 175 °C, LFPAK33', 'kicadSymbolki_fp_filters': 'LFPAK33*'}]|
 ||||

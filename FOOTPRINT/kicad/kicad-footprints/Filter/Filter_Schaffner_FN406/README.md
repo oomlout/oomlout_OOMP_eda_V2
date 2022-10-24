@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Filter_Schaffner_FN406|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Schaffner_FN406|
 |Hex ID (short code)|hexID|FZKFILFILSCHAFFNERFN46|
-|Name|name|Filter : Filter_Schaffner_FN406|
+|name|name|Filter : Filter_Schaffner_FN406|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Filter_Schaffner_FN406', 'description': 'Ultra Compact EMC Filter (https://www.schaffner.com/products/download/product/datasheet/fn-406-ultra-compact-emc-filter/)', 'tags': 'emi filter', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_Schaffner_FN406.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Filter/Filter_Schaffner_FN406/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Filter/Filter_Schaffner_FN406/kicadPcb3d_450.png

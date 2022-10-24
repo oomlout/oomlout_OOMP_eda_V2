@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Sharp_IS471F|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Sharp_IS471F|
 |Hex ID (short code)|hexID|FZKOPSHARPIS471F|
-|Name|name|OptoDevice : Sharp_IS471F|
+|name|name|OptoDevice : Sharp_IS471F|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Sharp_IS471F', 'description': 'Sharp OPIC IS471F, see http://pdf.datasheetcatalog.com/datasheet/Sharp/mXvrzty.pdf', 'tags': 'Sharp OPIC IS471F', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Sharp_IS471F.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Sharp_IS471F/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/Sharp_IS471F/kicadPcb3d_450.png

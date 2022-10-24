@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-92Flat|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-92Flat|
 |Hex ID (short code)|hexID|FZKSOTTO92FLAT|
-|Name|name|Package_TO_SOT_THT : TO-92Flat|
+|name|name|Package_TO_SOT_THT : TO-92Flat|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-92Flat', 'description': 'TO-92Flat package, often used for hall sensors, drill 0.75mm (see e.g. http://www.ti.com/lit/ds/symlink/drv5023.pdf)', 'tags': 'to-92Flat hall sensor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92Flat.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-92Flat/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-92Flat/kicadPcb3d_450.png

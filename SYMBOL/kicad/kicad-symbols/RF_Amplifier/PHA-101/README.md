@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|PHA-101|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Amplifier-PHA-101|
 |Hex ID (short code)|hexID|SZKRFAMPLIFIERPHA11|
-|Name|name|PHA-101|
+|name|name|PHA-101|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SPF5189Z', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PHA-101', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-89-3', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/PHA-101+.pdf', 'kicadSymbolki_keywords': 'RF amplifier', 'kicadSymbolki_description': '50-1500MHz +15.2dB Linear Amplifier, SOT-89', 'kicadSymbolki_fp_filters': 'SOT?89*'}]|
 ||||

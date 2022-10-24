@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS73118DBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS73118DBV|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTPS73118DBV|
-|Name|name|TPS73118DBV|
+|name|name|TPS73118DBV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS73625DBV', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS73118DBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps731.pdf', 'kicadSymbolki_keywords': 'Cap free Fixed LDO 150mA', 'kicadSymbolki_description': 'Cap free NMOS 150mA Low Drop 1.8V Regulator, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

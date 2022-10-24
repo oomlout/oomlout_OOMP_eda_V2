@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Molex_Nano-Fit_105314-xx16_2x08_P2.50mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Nano-Fit_105314-xx16_2x08_P2.50mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNMXMXNANOFIT15314XX162X8P25HORIZONTAL|
-|Name|name|Connector_Molex : Molex_Nano-Fit_105314-xx16_2x08_P2.50mm_Horizontal|
+|name|name|Connector_Molex : Molex_Nano-Fit_105314-xx16_2x08_P2.50mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Molex_Nano-Fit_105314-xx16_2x08_P2.50mm_Horizontal', 'description': 'Molex Nano-Fit Power Connectors, 105314-xx16, 8 Pins per row (http://www.molex.com/pdm_docs/sd/1053141208_sd.pdf), generated with kicad-footprint-generator', 'tags': 'connector Molex Nano-Fit top entry', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Nano-Fit_105314-xx16_2x08_P2.50mm_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Nano-Fit_105314-xx16_2x08_P2.50mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Nano-Fit_105314-xx16_2x08_P2.50mm_Horizontal/kicadPcb3d_450.png

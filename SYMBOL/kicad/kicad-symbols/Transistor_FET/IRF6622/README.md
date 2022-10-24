@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF6622|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6622|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF6622|
-|Name|name|IRF6622|
+|name|name|IRF6622|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSF030NE2LQ', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF6622', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_SQ', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irf6622pbf.pdf?fileId=5546d462533600a4015355e89a3a1a29', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '15A Id, 25V Vds, 6.3mOhm Rds, N-Channel MOSFET, DirectFET SQ', 'kicadSymbolki_fp_filters': 'DirectFET*SQ*'}]|
 ||||

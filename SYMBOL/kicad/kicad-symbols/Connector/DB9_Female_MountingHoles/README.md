@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DB9_Female_MountingHoles|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DB9_Female_MountingHoles|
 |Hex ID (short code)|hexID|SZKCNDB9FEMALEHOLS|
-|Name|name|DB9_Female_MountingHoles|
+|name|name|DB9_Female_MountingHoles|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DB9_Female_MountingHoles', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'connector female D-SUB', 'kicadSymbolki_description': '9-pin female D-SUB connector, Mounting Hole', 'kicadSymbolki_fp_filters': 'DSUB*Female*'}]|
 ||||

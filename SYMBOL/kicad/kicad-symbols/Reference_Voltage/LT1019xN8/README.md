@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1019xN8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1019xN8|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGELT119XN8|
-|Name|name|LT1019xN8|
+|name|name|LT1019xN8|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1019xN8', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1019fd.pdf', 'kicadSymbolki_keywords': 'voltage reference vref', 'kicadSymbolki_description': 'Precision Reference, Ultra Low Drift, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

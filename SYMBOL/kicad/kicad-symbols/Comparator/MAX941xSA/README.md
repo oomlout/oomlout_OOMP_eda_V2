@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX941xSA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Comparator-MAX941xSA|
 |Hex ID (short code)|hexID|SZKCOMPARATORMAX941XSA|
-|Name|name|MAX941xSA|
+|name|name|MAX941xSA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX941xSA', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX941-MAX944.pdf', 'kicadSymbolki_keywords': 'single comparator', 'kicadSymbolki_description': 'High-Speed, Low-Power, 3V/5V, Rail-to-Rail, Single-Supply Comparator, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

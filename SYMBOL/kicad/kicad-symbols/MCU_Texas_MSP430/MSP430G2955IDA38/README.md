@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MSP430G2955IDA38|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2955IDA38|
 |Hex ID (short code)|hexID|SZKMCUTEXASMSP43MSP43G2955IDA38|
-|Name|name|MSP430G2955IDA38|
+|name|name|MSP430G2955IDA38|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MSP430G2755IDA38', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MSP430G2955IDA38', 'kicadSymbolFootprint': 'Package_SO:TSSOP-38_6.1x12.5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/msp430g2955.pdf', 'kicadSymbolki_keywords': 'TI MSP430 16-bit mixed signal microcontroller', 'kicadSymbolki_description': '56kB Flash, 4kB RAM, TSSOP-38', 'kicadSymbolki_fp_filters': 'TSSOP*6.1x12.5mm*P0.65mm*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MountingHole_5.3mm_M5_Pad_Via|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_5.3mm_M5_Pad_Via|
 |Hex ID (short code)|hexID|FZKHOLHOL53M5PADVIA|
-|Name|name|MountingHole : MountingHole_5.3mm_M5_Pad_Via|
+|name|name|MountingHole : MountingHole_5.3mm_M5_Pad_Via|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_5.3mm_M5_Pad_Via', 'description': 'Mounting Hole 5.3mm, M5', 'tags': 'mounting hole 5.3mm m5', 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_5.3mm_M5_Pad_Via/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_5.3mm_M5_Pad_Via/kicadPcb3d_450.png

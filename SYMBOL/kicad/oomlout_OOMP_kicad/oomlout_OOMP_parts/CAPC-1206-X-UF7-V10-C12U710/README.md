@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-1206-X-UF7-V10-C12U710|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF7-V10-C12U710|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XUF7V1C12U71|
-|Name|name|CAPC-1206-X-UF7-V10-C12U710|
+|name|name|CAPC-1206-X-UF7-V10-C12U710|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-1206-X-UF7-V10-C12U710', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-1206-X-UF7-V10-C12U710', 'kicadSymbolDatasheet': 'oom.lt/C12U710', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C12U710;PARTL C-JLCC;C96123;MANUF C-XXXX;CL31A476MPHNNNE;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

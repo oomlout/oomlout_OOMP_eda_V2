@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Mounting_Wuerth_WA-SMSI-4.5mm_H9mm_9774090482|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSI-4.5mm_H9mm_9774090482|
 |Hex ID (short code)|hexID|FZKMONMONWASMSI45H997749482|
-|Name|name|Mounting_Wuerth : Mounting_Wuerth_WA-SMSI-4.5mm_H9mm_9774090482|
+|name|name|Mounting_Wuerth : Mounting_Wuerth_WA-SMSI-4.5mm_H9mm_9774090482|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Mounting_Wuerth_WA-SMSI-4.5mm_H9mm_9774090482', 'description': 'Mounting Hardware, inside through hole 4.5mm, height 9, Wuerth electronics 9774090482 (https://katalog.we-online.de/em/datasheet/9774090482.pdf), generated with kicad-footprint-generator', 'tags': 'Mounting 4.5mm 9774090482', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSI-4.5mm_H9mm_9774090482.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSI-4.5mm_H9mm_9774090482/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSI-4.5mm_H9mm_9774090482/kicadPcb3d_450.png

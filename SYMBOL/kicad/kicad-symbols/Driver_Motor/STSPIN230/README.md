@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STSPIN230|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-STSPIN230|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORSTSPIN23|
-|Name|name|STSPIN230|
+|name|name|STSPIN230|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STSPIN230', 'kicadSymbolFootprint': 'Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.8x1.8mm', 'kicadSymbolDatasheet': 'www.st.com/resource/en/datasheet/stspin230.pdf', 'kicadSymbolki_keywords': 'motor driver half-bridge', 'kicadSymbolki_description': 'Low voltage triple half-bridge motor driver, 1.8V to 10V input, 1.3Arms output, 0.4Ω Rdson per phase (typical), QFN-16 package', 'kicadSymbolki_fp_filters': 'VQFN*1EP*3x3mm*P0.5mm*'}]|
 ||||

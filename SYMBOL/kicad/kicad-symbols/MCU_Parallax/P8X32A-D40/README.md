@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|P8X32A-D40|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Parallax-P8X32A-D40|
 |Hex ID (short code)|hexID|SZKMCUPARALLAXP8X32AD4|
-|Name|name|P8X32A-D40|
+|name|name|P8X32A-D40|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'P8X32A-D40', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'https://www.parallax.com/sites/default/files/downloads/P8X32A-Propeller-Datasheet-v1.4.0_0.pdf', 'kicadSymbolki_keywords': 'microcontroller multicore Parallax Propeller DIP', 'kicadSymbolki_description': 'Parallax Propeller 8 core, 32 bit, 80 MHz microcontroller, 3.3VDC, 40-pin DIP', 'kicadSymbolki_fp_filters': 'DIP*40*W15.24mm*'}]|
 ||||

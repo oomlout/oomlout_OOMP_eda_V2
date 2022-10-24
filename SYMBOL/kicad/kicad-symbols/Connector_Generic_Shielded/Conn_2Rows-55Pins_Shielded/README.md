@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Conn_2Rows-55Pins_Shielded|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_2Rows-55Pins_Shielded|
 |Hex ID (short code)|hexID|SZKCNGENERICSHEDCONN2ROWS55PINSSHED|
-|Name|name|Conn_2Rows-55Pins_Shielded|
+|name|name|Conn_2Rows-55Pins_Shielded|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Conn_2Rows-55Pins_Shielded', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'Generic shielded connector, double row, 55 pins, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*2Rows*Pins-1SH_* *FCC*2Rows*Pins-1SH_*'}]|
 ||||

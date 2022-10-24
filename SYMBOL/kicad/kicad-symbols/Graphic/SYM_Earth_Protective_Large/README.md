@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SYM_Earth_Protective_Large|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Graphic-SYM_Earth_Protective_Large|
 |Hex ID (short code)|hexID|SZKGRAPHICSYMEARTHPROTECTIVEL|
-|Name|name|SYM_Earth_Protective_Large|
+|name|name|SYM_Earth_Protective_Large|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#SYM', 'kicadSymbolValue': 'SYM_Earth_Protective_Large', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'graphical symbol earth protective', 'kicadSymbolki_description': 'Protective earth symbol, large'}]|
 ||||

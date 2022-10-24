@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SN65LVDS1DBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-SN65LVDS1DBV|
 |Hex ID (short code)|hexID|SZKINTERFACESN65LVDS1DBV|
-|Name|name|SN65LVDS1DBV|
+|name|name|SN65LVDS1DBV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DS90LV011A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SN65LVDS1DBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/sn65lvds1.pdf', 'kicadSymbolki_keywords': 'LVDS Driver', 'kicadSymbolki_description': 'High-Speed Differential Line Driver, 630Mbps, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HS-40012|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_ACDC-HS-40012|
 |Hex ID (short code)|hexID|SZKCONHS412|
-|Name|name|HS-40012|
+|name|name|HS-40012|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HS-40003', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'HS-40012', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_Hahn_HS-400xx_THT', 'kicadSymbolDatasheet': 'http://www.tme.eu/de/Document/221b247820f4fbb72e0cbc1ee10acb85/HS40012.pdf', 'kicadSymbolki_keywords': '12V 3W AC-DC module power supply', 'kicadSymbolki_description': '12V, 3W, AC-DC module power supply, Hahn', 'kicadSymbolki_fp_filters': 'Converter*ACDC*Hahn*HS*400xx*'}]|
 ||||

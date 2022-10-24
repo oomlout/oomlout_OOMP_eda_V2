@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Bus_PCI_Express_x4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Bus_PCI_Express_x4|
 |Hex ID (short code)|hexID|SZKCNBUSPCIEXPRESSX4|
-|Name|name|Bus_PCI_Express_x4|
+|name|name|Bus_PCI_Express_x4|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Bus_PCI_Express_x4', 'kicadSymbolFootprint': 'Connector_PCBEdge:BUS_PCIexpress_x4', 'kicadSymbolDatasheet': 'http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=63', 'kicadSymbolki_keywords': 'pcie', 'kicadSymbolki_description': 'PCI Express bus connector x4', 'kicadSymbolki_fp_filters': '*PCIexpress*'}]|
 ||||

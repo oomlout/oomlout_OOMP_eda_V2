@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CSD16570Q5B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD16570Q5B|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETCSD1657Q5B|
-|Name|name|CSD16570Q5B|
+|name|name|CSD16570Q5B|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CSD17578Q5A', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'CSD16570Q5B', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TDSON-8-1', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/csd16570q5b', 'kicadSymbolki_keywords': 'NexFET Power MOSFET N-MOS', 'kicadSymbolki_description': '100A Id, 25V Vds, NexFET N-Channel Power MOSFET, 0.59mOhm Ron, 95nC Qg(typ), SON8 5x6mm', 'kicadSymbolki_fp_filters': 'TDSON*'}]|
 ||||

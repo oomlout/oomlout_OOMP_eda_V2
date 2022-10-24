@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CKSR_50-NP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-CKSR_50-NP|
 |Hex ID (short code)|hexID|SZKSENCURRENTCKSR5NP|
-|Name|name|CKSR_50-NP|
+|name|name|CKSR_50-NP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CKSR_15-NP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CKSR_50-NP', 'kicadSymbolFootprint': 'Sensor_Current:LEM_CKSR', 'kicadSymbolDatasheet': 'https://www.lem.com/sites/default/files/products_datasheets/cksr_series.pdf', 'kicadSymbolki_keywords': 'current transducer', 'kicadSymbolki_description': 'Current Transducer, 50A, Unipolar, 0-5V Output', 'kicadSymbolki_fp_filters': 'LEM*CKSR*'}]|
 ||||

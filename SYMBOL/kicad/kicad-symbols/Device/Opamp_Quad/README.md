@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Opamp_Quad|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Opamp_Quad|
 |Hex ID (short code)|hexID|SZKDEVICEOPAMPQUAD|
-|Name|name|Opamp_Quad|
+|name|name|Opamp_Quad|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Opamp_Quad', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'quad opamp', 'kicadSymbolki_description': 'Quad operational amplifier', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm*'}]|
 ||||

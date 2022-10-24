@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|USB_B_Mini|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-USB_B_Mini|
 |Hex ID (short code)|hexID|SZKCNUBM|
-|Name|name|USB_B_Mini|
+|name|name|USB_B_Mini|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'USB_B_Micro', 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'USB_B_Mini', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'connector USB mini', 'kicadSymbolki_description': 'USB Mini Type B connector', 'kicadSymbolki_fp_filters': 'USB*'}]|
 ||||

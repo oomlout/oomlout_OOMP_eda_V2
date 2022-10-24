@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|OnSemi_Micro8|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-OnSemi_Micro8|
 |Hex ID (short code)|hexID|FZKSOONSEMIM8|
-|Name|name|Package_SO : OnSemi_Micro8|
+|name|name|Package_SO : OnSemi_Micro8|
 |Footprint Kicad|footprintKicadDetails|{'name': 'OnSemi_Micro8', 'description': 'ON Semiconductor Micro8 (Case846A-02): https://www.onsemi.com/pub/Collateral/846A-02.PDF', 'tags': 'micro8', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/OnSemi_Micro8.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/OnSemi_Micro8/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/OnSemi_Micro8/kicadPcb3d_450.png

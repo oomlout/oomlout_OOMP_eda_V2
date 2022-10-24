@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32L475RGTx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L475RGTx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32L4STM32L475RGTX|
-|Name|name|STM32L475RGTx|
+|name|name|STM32L475RGTx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STM32L475RCTx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32L475RGTx', 'kicadSymbolFootprint': 'Package_QFP:LQFP-64_10x10mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00172872.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32L4 STM32L4x5', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 1024KB flash, 128KB RAM, 80MHz, 1.71-3.6V, 51 GPIO, LQFP-64', 'kicadSymbolki_fp_filters': 'LQFP*10x10mm*P0.5mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS09|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS09|
 |Hex ID (short code)|hexID|SZK74XX74LS9|
-|Name|name|74LS09|
+|name|name|74LS09|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS09', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS09', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL and2 OpenCol', 'kicadSymbolki_description': 'Quad 2-input AND Open Collect', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O10X-01-R6O1001|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O10X-01-R6O1001|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO1X1R6O11|
-|Name|name|RESE-0603-X-O10X-01-R6O1001|
+|name|name|RESE-0603-X-O10X-01-R6O1001|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O10X-01-R6O1001', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O10X-01-R6O1001', 'kicadSymbolDatasheet': 'oom.lt/R6O1001', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6O1001;PARTL C-JLCC;C25197;MANUF C-XXXX;0603WAF510KT5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

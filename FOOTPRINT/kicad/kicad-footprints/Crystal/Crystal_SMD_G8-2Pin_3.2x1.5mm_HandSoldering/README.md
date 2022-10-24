@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Crystal_SMD_G8-2Pin_3.2x1.5mm_HandSoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_G8-2Pin_3.2x1.5mm_HandSoldering|
 |Hex ID (short code)|hexID|FZKXXSMG82PIN32X15HANDSOLDERING|
-|Name|name|Crystal : Crystal_SMD_G8-2Pin_3.2x1.5mm_HandSoldering|
+|name|name|Crystal : Crystal_SMD_G8-2Pin_3.2x1.5mm_HandSoldering|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_G8-2Pin_3.2x1.5mm_HandSoldering', 'description': 'SMD Crystal G8, hand-soldering, 3.2x1.5mm^2 package', 'tags': 'SMD SMT crystal hand-soldering', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_G8-2Pin_3.2x1.5mm_HandSoldering.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_G8-2Pin_3.2x1.5mm_HandSoldering/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_G8-2Pin_3.2x1.5mm_HandSoldering/kicadPcb3d_450.png

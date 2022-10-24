@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PinHeader_2x17_P2.54mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x17_P2.54mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNPINHEADER254PINHEADER2X17P254VERTICAL|
-|Name|name|Connector_PinHeader_2.54mm : PinHeader_2x17_P2.54mm_Vertical|
+|name|name|Connector_PinHeader_2.54mm : PinHeader_2x17_P2.54mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PinHeader_2x17_P2.54mm_Vertical', 'description': 'Through hole straight pin header, 2x17, 2.54mm pitch, double rows', 'tags': 'Through hole pin header THT 2x17 2.54mm double row', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x17_P2.54mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x17_P2.54mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x17_P2.54mm_Vertical/kicadPcb3d_450.png

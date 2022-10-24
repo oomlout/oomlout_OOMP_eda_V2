@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Adafruit_Feather_M0_Wifi_WithMountingHoles|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_M0_Wifi_WithMountingHoles|
 |Hex ID (short code)|hexID|FZKMOADAFEATHERMWIFIWITOUNTINGH|
-|Name|name|Module : Adafruit_Feather_M0_Wifi_WithMountingHoles|
+|name|name|Module : Adafruit_Feather_M0_Wifi_WithMountingHoles|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Adafruit_Feather_M0_Wifi_WithMountingHoles', 'description': 'Footprint for the Adafruit Feather M0 Wifi board, https://learn.adafruit.com/adafruit-feather-m0-wifi-atwinc1500/', 'tags': 'Adafruit Feather M0 Wifi', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Module.3dshapes/Adafruit_Feather_M0_Wifi.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/Adafruit_Feather_M0_Wifi_WithMountingHoles/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Module/Adafruit_Feather_M0_Wifi_WithMountingHoles/kicadPcb3d_450.png

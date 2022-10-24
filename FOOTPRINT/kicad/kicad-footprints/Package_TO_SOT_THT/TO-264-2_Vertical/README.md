@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-264-2_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-264-2_Vertical|
 |Hex ID (short code)|hexID|FZKSOTTO2642VERTICAL|
-|Name|name|Package_TO_SOT_THT : TO-264-2_Vertical|
+|name|name|Package_TO_SOT_THT : TO-264-2_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-264-2_Vertical', 'description': 'TO-264-2, Vertical, RM 10.9mm, see https://www.fairchildsemi.com/package-drawings/TO/TO264A03.pdf', 'tags': 'TO-264-2 Vertical RM 10.9mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-264-2_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-264-2_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-264-2_Vertical/kicadPcb3d_450.png

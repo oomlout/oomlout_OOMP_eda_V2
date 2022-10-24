@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS61090|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61090|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS619|
-|Name|name|TPS61090|
+|name|name|TPS61090|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS61090', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PVQFN-N16_EP2.7x2.7mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps61090.pdf', 'kicadSymbolki_keywords': 'Adjustable 2A battery boost converter', 'kicadSymbolki_description': '2A Step-Up DC-DC Converter for Batteries, Isw up to 2500mA, Adjustable output voltage, QFN-16', 'kicadSymbolki_fp_filters': 'Texas*S?PVQFN?N*'}]|
 ||||

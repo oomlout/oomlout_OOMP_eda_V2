@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|+24V|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-+24V|
 |Hex ID (short code)|hexID|SZKPOWER+24V|
-|Name|name|+24V|
+|name|name|+24V|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': '+24V', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "+24V"'}]|
 ||||

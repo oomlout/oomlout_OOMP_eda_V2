@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOJ-36_10.16x23.49mm_P1.27mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SOJ-36_10.16x23.49mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKSOSOJ36116X2349P127|
-|Name|name|Package_SO : SOJ-36_10.16x23.49mm_P1.27mm|
+|name|name|Package_SO : SOJ-36_10.16x23.49mm_P1.27mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOJ-36_10.16x23.49mm_P1.27mm', 'description': 'SOJ, 36 Pin (http://www.issi.com/WW/pdf/61-64C5128AL.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'SOJ SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOJ-36_10.16x23.49mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOJ-36_10.16x23.49mm_P1.27mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/SOJ-36_10.16x23.49mm_P1.27mm/kicadPcb3d_450.png

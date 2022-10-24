@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP1703A-1202_SOT23|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1703A-1202_SOT23|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMCP173A122SOT23|
-|Name|name|MCP1703A-1202_SOT23|
+|name|name|MCP1703A-1202_SOT23|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP1703A-3302_SOT23', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP1703A-1202_SOT23', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20005122B.pdf', 'kicadSymbolki_keywords': 'REGULATOR LDO', 'kicadSymbolki_description': 'Low Quiescent Current LDO Regulator, 1.2V, 250mA, Vin<=16V, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

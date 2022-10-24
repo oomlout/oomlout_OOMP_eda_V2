@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FT201XS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-FT201XS|
 |Hex ID (short code)|hexID|SZKINTERFACEUFT21XS|
-|Name|name|FT201XS|
+|name|name|FT201XS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FT201XS', 'kicadSymbolFootprint': 'Package_SO:SSOP-16_3.9x4.9mm_P0.635mm', 'kicadSymbolDatasheet': 'https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT201X.pdf', 'kicadSymbolki_keywords': 'FTDI USB I2C Interface Converter', 'kicadSymbolki_description': 'Full Speed USB to I2C Bridge, SSOP-16', 'kicadSymbolki_fp_filters': 'SSOP*3.9x4.9mm*P0.635mm*'}]|
 ||||

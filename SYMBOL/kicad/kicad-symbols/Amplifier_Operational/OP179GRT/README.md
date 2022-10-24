@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OP179GRT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP179GRT|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOP179GRT|
-|Name|name|OP179GRT|
+|name|name|OP179GRT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OP179GRT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/OP179_279.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Single Rail-to-Rail High Output Current Operational Amplifiers, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

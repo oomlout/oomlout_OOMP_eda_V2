@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM733CN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Difference-LM733CN|
 |Hex ID (short code)|hexID|SZKAMPLIFIERDIFFERENCELM733CN|
-|Name|name|LM733CN|
+|name|name|LM733CN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM733CN', 'kicadSymbolFootprint': 'Package_DIP:DIP-14_W7.62mm', 'kicadSymbolDatasheet': 'http://www.soemtron.org/downloads/disposals/lm733cn.pdf', 'kicadSymbolki_keywords': 'single differential video opamp', 'kicadSymbolki_description': 'Single Differential Amplifier, DIP-14', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

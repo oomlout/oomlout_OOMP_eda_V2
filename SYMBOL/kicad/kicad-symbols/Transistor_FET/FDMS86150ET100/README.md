@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FDMS86150ET100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS86150ET100|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETFDMS8615ET1|
-|Name|name|FDMS86150ET100|
+|name|name|FDMS86150ET100|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CSD17578Q5A', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FDMS86150ET100', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TDSON-8-1', 'kicadSymbolDatasheet': 'https://www.mouser.fr/datasheet/2/308/FDMS86150ET100-D-1807744.pdf', 'kicadSymbolki_keywords': 'powertrench-MOSFET MOSFET fairchild', 'kicadSymbolki_description': '16A Id, 100V Vds, N-Channel PowerTrench MOSFET, 4.85mOhm Ron, 62nC Qgmax, -55 to 175 °C, 5x6mm SON8', 'kicadSymbolki_fp_filters': 'TDSON*'}]|
 ||||

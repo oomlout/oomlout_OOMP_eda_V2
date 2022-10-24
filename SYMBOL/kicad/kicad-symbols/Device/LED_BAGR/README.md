@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_BAGR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_BAGR|
 |Hex ID (short code)|hexID|SZKDEVICELBAGR|
-|Name|name|LED_BAGR|
+|name|name|LED_BAGR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_BAGR', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED RGB diode', 'kicadSymbolki_description': 'RGB LED, blue/anode/green/red', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

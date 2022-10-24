@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RFShield_OnePiece|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-RFShield_OnePiece|
 |Hex ID (short code)|hexID|SZKDEVICERFSHONEPIECE|
-|Name|name|RFShield_OnePiece|
+|name|name|RFShield_OnePiece|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'RFShield_OnePiece', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'RF EMI shielding cabinet', 'kicadSymbolki_description': 'One-piece EMI RF shielding cabinet'}]|
 ||||

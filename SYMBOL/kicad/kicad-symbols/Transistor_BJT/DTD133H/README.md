@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DTD133H|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTD133H|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTDTD133H|
-|Name|name|DTD133H|
+|name|name|DTD133H|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DTD133H', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'ROHM Digital NPN Transistor', 'kicadSymbolki_description': 'Digital NPN Transistor, 3k3/10k, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23* SC?59*'}]|
 ||||

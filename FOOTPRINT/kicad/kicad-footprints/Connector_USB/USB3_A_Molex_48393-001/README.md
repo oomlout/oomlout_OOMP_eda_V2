@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB3_A_Molex_48393-001|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB3_A_Molex_48393-001|
 |Hex ID (short code)|hexID|FZKCNUU3AMX483931|
-|Name|name|Connector_USB : USB3_A_Molex_48393-001|
+|name|name|Connector_USB : USB3_A_Molex_48393-001|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB3_A_Molex_48393-001', 'description': 'USB 3.0, type A, right angle (http://www.molex.com/pdm_docs/sd/483930003_sd.pdf)', 'tags': 'USB 3.0 type A right angle', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB3_A_Molex_48393-001.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB3_A_Molex_48393-001/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB3_A_Molex_48393-001/kicadPcb3d_450.png

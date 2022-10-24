@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SIPAK-1EP_Horizontal_TabDown|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-SIPAK-1EP_Horizontal_TabDown|
 |Hex ID (short code)|hexID|FZKSOTSIPAK1EPHORIZONTALTABDOWN|
-|Name|name|Package_TO_SOT_THT : SIPAK-1EP_Horizontal_TabDown|
+|name|name|Package_TO_SOT_THT : SIPAK-1EP_Horizontal_TabDown|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SIPAK-1EP_Horizontal_TabDown', 'description': 'SIPAK, Horizontal, RM 2.286mm', 'tags': 'SIPAK Horizontal RM 2.286mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/SIPAK-1EP_Horizontal_TabDown.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/SIPAK-1EP_Horizontal_TabDown/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/SIPAK-1EP_Horizontal_TabDown/kicadPcb3d_450.png

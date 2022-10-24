@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Relay_DPDT_Kemet_EC2|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Kemet_EC2|
 |Hex ID (short code)|hexID|FZKRELRELAYDPDTKEMETEC2|
-|Name|name|Relay_THT : Relay_DPDT_Kemet_EC2|
+|name|name|Relay_THT : Relay_DPDT_Kemet_EC2|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Relay_DPDT_Kemet_EC2', 'description': 'Kemet signal relay, DPDT, non-latching, single coil latching, https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf', 'tags': 'Kemet EC2 signal relay DPDT non single coil latching through hole THT', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_Kemet_EC2.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Kemet_EC2/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Kemet_EC2/kicadPcb3d_450.png

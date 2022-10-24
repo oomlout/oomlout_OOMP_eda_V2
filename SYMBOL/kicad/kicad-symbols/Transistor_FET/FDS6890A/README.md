@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FDS6890A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS6890A|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETFDS689A|
-|Name|name|FDS6890A|
+|name|name|FDS6890A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FDS6890A', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FDS6890A-D.PDF', 'kicadSymbolki_keywords': 'Dual N-Channel MOSFET', 'kicadSymbolki_description': '7.5A Id, 20V Vds, Dual N-Channel MOSFET, 18mOhm Ron, SO-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRS2153D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2153D|
 |Hex ID (short code)|hexID|SZKDRIVERFETIRS2153D|
-|Name|name|IRS2153D|
+|name|name|IRS2153D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IR2153', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IRS2153D', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irs2153d.pdf?fileId=5546d462533600a401535676951e27c3', 'kicadSymbolki_keywords': 'Oscillating Gate Driver', 'kicadSymbolki_description': 'Self-Oscillating Half-Bridge Driver IC, 600V, 180/260mA, PDIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'}]|
 ||||

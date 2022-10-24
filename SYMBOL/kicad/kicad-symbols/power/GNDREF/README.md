@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|GNDREF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-GNDREF|
 |Hex ID (short code)|hexID|SZKPOWERGNDREF|
-|Name|name|GNDREF|
+|name|name|GNDREF|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'GNDREF', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "GNDREF" , reference supply ground'}]|
 ||||

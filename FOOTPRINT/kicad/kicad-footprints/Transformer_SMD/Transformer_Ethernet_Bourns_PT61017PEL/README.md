@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_Ethernet_Bourns_PT61017PEL|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Bourns_PT61017PEL|
 |Hex ID (short code)|hexID|FZKTRSMTRETHERNETBOURNSPT6117PEL|
-|Name|name|Transformer_SMD : Transformer_Ethernet_Bourns_PT61017PEL|
+|name|name|Transformer_SMD : Transformer_Ethernet_Bourns_PT61017PEL|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_Ethernet_Bourns_PT61017PEL', 'description': 'https://www.bourns.com/docs/Product-Datasheets/PT61017PEL.pdf', 'tags': 'Transformer Ethernet Single Center-Tap', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_Ethernet_Bourns_PT61017PEL.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

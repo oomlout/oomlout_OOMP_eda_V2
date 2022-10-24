@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC1044|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LTC1044|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHEDCAPACITORLTC144|
-|Name|name|LTC1044|
+|name|name|LTC1044|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC1044', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/lt1044.pdf', 'kicadSymbolki_keywords': 'monolithic CMOS switched capacitor voltage converter invert double divide multiply boost', 'kicadSymbolki_description': 'Switched Capacitor Voltage Converter, 1.5V to 9V supply operation, 200uA Max No Load Supply Current at 5V, DIP-8/TO-99', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* TO?99*'}]|
 ||||

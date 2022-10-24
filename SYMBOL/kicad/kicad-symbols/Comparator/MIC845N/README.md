@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MIC845N|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Comparator-MIC845N|
 |Hex ID (short code)|hexID|SZKCOMPARATORMIC845N|
-|Name|name|MIC845N|
+|name|name|MIC845N|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MIC845N', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-353_SC-70-5', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/mic845.pdf', 'kicadSymbolki_keywords': 'single cmp collector', 'kicadSymbolki_description': 'Micro-Power Comparator / Battery Monitor, Active-High Open-Drain Output, SC-70-5', 'kicadSymbolki_fp_filters': '*SC?70*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|7400|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-7400|
 |Hex ID (short code)|hexID|SZK74XX74|
-|Name|name|7400|
+|name|name|7400|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LS00', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '7400', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn7400', 'kicadSymbolki_keywords': 'TTL nand 2-input', 'kicadSymbolki_description': 'quad 2-input NAND gate', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SO14*'}]|
 ||||

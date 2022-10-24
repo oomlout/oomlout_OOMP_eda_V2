@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LVC1G19|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-74LVC1G19|
 |Hex ID (short code)|hexID|SZK74XGXX74LVC1G19|
-|Name|name|74LVC1G19|
+|name|name|74LVC1G19|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LVC1G19', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf', 'kicadSymbolki_keywords': 'Single Decoder LVC CMOS', 'kicadSymbolki_description': '1 of 2 Decoder, Low-Voltage CMOS', 'kicadSymbolki_fp_filters': 'SOT* SG-*'}]|
 ||||

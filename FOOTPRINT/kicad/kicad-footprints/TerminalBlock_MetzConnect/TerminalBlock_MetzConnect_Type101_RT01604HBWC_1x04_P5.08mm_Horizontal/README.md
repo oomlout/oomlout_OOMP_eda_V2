@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TerminalBlock_MetzConnect_Type101_RT01604HBWC_1x04_P5.08mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_Type101_RT01604HBWC_1x04_P5.08mm_Horizontal|
 |Hex ID (short code)|hexID|FZKTBMETZCONNECTTBMETZCONNECTTYPE11RT164HBWC1X4P58HORIZONTAL|
-|Name|name|TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_Type101_RT01604HBWC_1x04_P5.08mm_Horizontal|
+|name|name|TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_Type101_RT01604HBWC_1x04_P5.08mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TerminalBlock_MetzConnect_Type101_RT01604HBWC_1x04_P5.08mm_Horizontal', 'description': 'terminal block Metz Connect Type101_RT01604HBWC, 4 pins, pitch 5.08mm, size 20.3x8mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311011_RT016xxHBWC_OFF-022771S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect', 'tags': 'THT terminal block Metz Connect Type101_RT01604HBWC pitch 5.08mm size 20.3x8mm^2 drill 1.3mm pad 2.5mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type101_RT01604HBWC_1x04_P5.08mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

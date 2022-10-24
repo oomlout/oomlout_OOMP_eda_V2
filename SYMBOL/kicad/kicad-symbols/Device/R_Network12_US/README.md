@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|R_Network12_US|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-R_Network12_US|
 |Hex ID (short code)|hexID|SZKDEVICERNETWORK12US|
-|Name|name|R_Network12_US|
+|name|name|R_Network12_US|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'RN', 'kicadSymbolValue': 'R_Network12_US', 'kicadSymbolFootprint': 'Resistor_THT:R_Array_SIP13', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/31509/csc.pdf', 'kicadSymbolki_keywords': 'R network star-topology', 'kicadSymbolki_description': '12 resistor network, star topology, bussed resistors, small US symbol', 'kicadSymbolki_fp_filters': 'R?Array?SIP*'}]|
 ||||

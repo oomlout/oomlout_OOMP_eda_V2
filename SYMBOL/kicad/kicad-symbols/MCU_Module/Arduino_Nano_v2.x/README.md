@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Arduino_Nano_v2.x|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Nano_v2.x|
 |Hex ID (short code)|hexID|SZKMCUMOARDNANOV2X|
-|Name|name|Arduino_Nano_v2.x|
+|name|name|Arduino_Nano_v2.x|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'A', 'kicadSymbolValue': 'Arduino_Nano_v2.x', 'kicadSymbolFootprint': 'Module:Arduino_Nano', 'kicadSymbolDatasheet': 'https://www.arduino.cc/en/uploads/Main/ArduinoNanoManual23.pdf', 'kicadSymbolki_keywords': 'Arduino nano microcontroller module USB', 'kicadSymbolki_description': 'Arduino Nano v2.x', 'kicadSymbolki_fp_filters': 'Arduino*Nano*'}]|
 ||||

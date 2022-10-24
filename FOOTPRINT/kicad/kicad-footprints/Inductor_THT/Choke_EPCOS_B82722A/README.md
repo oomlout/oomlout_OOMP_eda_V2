@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Choke_EPCOS_B82722A|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_EPCOS_B82722A|
 |Hex ID (short code)|hexID|FZKINCHOKEEPCOSB82722A|
-|Name|name|Inductor_THT : Choke_EPCOS_B82722A|
+|name|name|Inductor_THT : Choke_EPCOS_B82722A|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Choke_EPCOS_B82722A', 'description': 'Current-Compensated Ring Core Double Chokes, EPCOS, B82722A, 22.3mmx22.7mm, https://en.tdk.eu/inf/30/db/ind_2008/b82722a_j.pdf', 'tags': 'chokes epcos tht', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/Choke_EPCOS_B82722A.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_EPCOS_B82722A/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_EPCOS_B82722A/kicadPcb3d_450.png

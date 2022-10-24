@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS390|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS390|
 |Hex ID (short code)|hexID|SZK74XX74LS39|
-|Name|name|74LS390|
+|name|name|74LS390|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS390', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS390', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL CNT CNT4', 'kicadSymbolki_description': 'Dual BCD 4-bit counter', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ISU0205D12|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-ISU0205D12|
 |Hex ID (short code)|hexID|SZKCONISU25D12|
-|Name|name|ISU0205D12|
+|name|name|ISU0205D12|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ISU0205D12', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_XP_POWER-ISU02_SMD', 'kicadSymbolDatasheet': 'https://www.xppower.com/Portals/0/pdfs/SF_ISU02.pdf', 'kicadSymbolki_keywords': 'DC/DC Converter dual', 'kicadSymbolki_description': 'XP Power 2W Isolated DC/DC Dual Supply Converter Module, ±12V Output Voltage, 4.5-12V Input Voltage', 'kicadSymbolki_fp_filters': '*XP?POWER*ISU02*SMD*'}]|
 ||||

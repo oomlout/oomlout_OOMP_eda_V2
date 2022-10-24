@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|40110|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40110|
 |Hex ID (short code)|hexID|SZK4XXXIEEE411|
-|Name|name|40110|
+|name|name|40110|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '40110', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

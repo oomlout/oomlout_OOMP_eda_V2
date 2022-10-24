@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TestPoint_2Pole|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-TestPoint_2Pole|
 |Hex ID (short code)|hexID|SZKCNTP2POLE|
-|Name|name|TestPoint_2Pole|
+|name|name|TestPoint_2Pole|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TP', 'kicadSymbolValue': 'TestPoint_2Pole', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'point tp', 'kicadSymbolki_description': '2-polar test point', 'kicadSymbolki_fp_filters': 'Pin* Test*'}]|
 ||||

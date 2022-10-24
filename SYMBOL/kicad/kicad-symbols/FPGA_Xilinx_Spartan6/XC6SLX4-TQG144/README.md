@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC6SLX4-TQG144|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX4-TQG144|
 |Hex ID (short code)|hexID|SZKFPGAXILINXSPARTAN6XC6SLX4TQG144|
-|Name|name|XC6SLX4-TQG144|
+|name|name|XC6SLX4-TQG144|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC6SLX4-TQG144', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Spartan 6 LX 4 XC6SLX4-TQG144'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega64M1-M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega64M1-M|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA64M1M|
-|Name|name|ATmega64M1-M|
+|name|name|ATmega64M1-M|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATmega16M1-M', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega64M1-M', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-32-1EP_7x7mm_P0.65mm_EP4.65x4.65mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8209-8-bit%20AVR%20ATmega16M1-32M1-64M1_Datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR', 'kicadSymbolki_description': '16MHz, 64kB Flash, 4kB SRAM, 2kB EEPROM, CAN, QFN-32', 'kicadSymbolki_fp_filters': 'QFN*1EP*7x7mm*P0.65mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM5017SD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5017SD|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM517SD|
-|Name|name|LM5017SD|
+|name|name|LM5017SD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM5017SD', 'kicadSymbolFootprint': 'Package_SON:WSON-8-1EP_4x4mm_P0.8mm_EP1.98x3mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm5017.pdf', 'kicadSymbolki_keywords': 'Step-Down Switching Regulator High Voltage', 'kicadSymbolki_description': '600mA, 100V Step-Down Switching Regulator, WSON-8', 'kicadSymbolki_fp_filters': 'WSON*1EP*4x4mm*P0.8mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DRV8833PW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8833PW|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORDRV8833PW|
-|Name|name|DRV8833PW|
+|name|name|DRV8833PW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DRV8833PW', 'kicadSymbolFootprint': 'Package_SO:TSSOP-16_4.4x5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/drv8833.pdf', 'kicadSymbolki_keywords': 'H-bridge motor driver', 'kicadSymbolki_description': 'Dual H-Bridge Motor Driver, TSSOP-16', 'kicadSymbolki_fp_filters': 'TSSOP-16*4.4x5mm*P0.65mm*'}]|
 ||||

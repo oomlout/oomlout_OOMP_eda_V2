@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TDA8772|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Video-TDA8772|
 |Hex ID (short code)|hexID|SZKVIDEOTDA8772|
-|Name|name|TDA8772|
+|name|name|TDA8772|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDA8772', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.pa0qy.nl/pdf/TDA8772.PDF', 'kicadSymbolki_keywords': 'Video DAC Colour 8bit', 'kicadSymbolki_description': 'Triple 8bit Video DAC, QFP-44', 'kicadSymbolki_fp_filters': 'QFP*'}]|
 ||||

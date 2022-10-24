@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BF545B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BF545B|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBF545B|
-|Name|name|BF545B|
+|name|name|BF545B|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BF545A', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BF545B', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/BF545A_BF545B_BF545C.pdf', 'kicadSymbolki_keywords': 'N-Channel FET Transistor Low Voltage', 'kicadSymbolki_description': '15mA Idss, 30V Vgs, N-Channel JFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

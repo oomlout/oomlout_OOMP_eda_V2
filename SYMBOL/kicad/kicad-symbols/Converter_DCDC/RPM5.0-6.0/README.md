@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RPM5.0-6.0|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-RPM5.0-6.0|
 |Hex ID (short code)|hexID|SZKCONRPM56|
-|Name|name|RPM5.0-6.0|
+|name|name|RPM5.0-6.0|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'RPM5.0-6.0', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_RECOM_RPMx.x-x.0', 'kicadSymbolDatasheet': 'https://www.recom-power.com/pdf/Innoline/RPM-6.0.pdf', 'kicadSymbolki_keywords': 'Recom dc-dc converter', 'kicadSymbolki_description': '6A non-isolated switching regulator power module, 4-15V input voltage, 5.0V output voltage, DOSA', 'kicadSymbolki_fp_filters': 'Converter*DCDC*RECOM*RPM*'}]|
 ||||

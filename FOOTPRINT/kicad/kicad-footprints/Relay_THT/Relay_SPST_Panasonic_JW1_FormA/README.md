@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Relay_SPST_Panasonic_JW1_FormA|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_Panasonic_JW1_FormA|
 |Hex ID (short code)|hexID|FZKRELRELAYSPSTPANASONICJW1FORMA|
-|Name|name|Relay_THT : Relay_SPST_Panasonic_JW1_FormA|
+|name|name|Relay_THT : Relay_SPST_Panasonic_JW1_FormA|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Relay_SPST_Panasonic_JW1_FormA', 'description': 'Panasonic Relay SPST, http://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_jw.pdf?via=ok', 'tags': 'Panasonic Relay SPST', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPST_Panasonic_JW1_FormA.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Panasonic_JW1_FormA/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Panasonic_JW1_FormA/kicadPcb3d_450.png

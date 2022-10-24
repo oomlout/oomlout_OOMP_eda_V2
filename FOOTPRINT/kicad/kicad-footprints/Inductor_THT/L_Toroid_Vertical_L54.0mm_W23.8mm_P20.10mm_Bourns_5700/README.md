@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Toroid_Vertical_L54.0mm_W23.8mm_P20.10mm_Bourns_5700|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L54.0mm_W23.8mm_P20.10mm_Bourns_5700|
 |Hex ID (short code)|hexID|FZKINLTOROIDVERTICALL54W238P21BOURNS57|
-|Name|name|Inductor_THT : L_Toroid_Vertical_L54.0mm_W23.8mm_P20.10mm_Bourns_5700|
+|name|name|Inductor_THT : L_Toroid_Vertical_L54.0mm_W23.8mm_P20.10mm_Bourns_5700|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Toroid_Vertical_L54.0mm_W23.8mm_P20.10mm_Bourns_5700', 'description': 'L_Toroid, Vertical series, Radial, pin pitch=20.10mm, , length*width=54*23.8mm^2, Bourns, 5700, http://www.bourns.com/docs/Product-Datasheets/5700_series.pdf', 'tags': 'L_Toroid Vertical series Radial pin pitch 20.10mm  length 54mm width 23.8mm Bourns 5700', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Vertical_L54.0mm_W23.8mm_P20.10mm_Bourns_5700.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L54.0mm_W23.8mm_P20.10mm_Bourns_5700/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L54.0mm_W23.8mm_P20.10mm_Bourns_5700/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TL081|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TL081|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALTL81|
-|Name|name|TL081|
+|name|name|TL081|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM741', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TL081', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tl081.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Single JFET-Input Operational Amplifiers, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TSSOP*3x3mm*P0.65mm*'}]|
 ||||

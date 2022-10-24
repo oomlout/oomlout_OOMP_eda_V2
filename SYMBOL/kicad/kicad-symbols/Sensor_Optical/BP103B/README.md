@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BP103B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-BP103B|
 |Hex ID (short code)|hexID|SZKSENOPTICALBP13B|
-|Name|name|BP103B|
+|name|name|BP103B|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BPW40', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BP103B', 'kicadSymbolFootprint': 'LED_THT:LED_D5.0mm_Clear', 'kicadSymbolDatasheet': 'http://www.b-kainka.de/Daten/Sensor/bp103bf.pdf', 'kicadSymbolki_keywords': 'NPN phototransistor', 'kicadSymbolki_description': 'NPN phototransistor', 'kicadSymbolki_fp_filters': 'LED*D5.0mm*Clear*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_CHK_EI48-10VA_2xSec|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_EI48-10VA_2xSec|
 |Hex ID (short code)|hexID|FZKTRTRCHKEI481VA2XSEC|
-|Name|name|Transformer_THT : Transformer_CHK_EI48-10VA_2xSec|
+|name|name|Transformer_THT : Transformer_CHK_EI48-10VA_2xSec|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_CHK_EI48-10VA_2xSec', 'description': 'Trafo, Printtrafo, CHK, EI48, 10VA, 2x Sec, http://www.eratransformers.com/product-detail/18', 'tags': 'Trafo Printtrafo CHK EI48 10VA 2x Sec ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_CHK_EI48-10VA_2xSec.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||

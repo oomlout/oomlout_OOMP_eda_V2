@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_TDK_SLF10145|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_SLF10145|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLTDKSLF1145|
-|Name|name|Inductor_SMD : L_TDK_SLF10145|
+|name|name|Inductor_SMD : L_TDK_SLF10145|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_TDK_SLF10145', 'description': 'Inductor, TDK, SLF10145, 10.1mmx10.1mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/catalog/datasheets/inductor_automotive_power_slf10145-h_en.pdf)', 'tags': 'Inductor TDK_SLF10145', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_TDK_SLF10145.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_TDK_SLF10145/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_TDK_SLF10145/kicadPcb3d_450.png

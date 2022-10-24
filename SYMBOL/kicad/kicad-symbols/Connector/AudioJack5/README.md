@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AudioJack5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-AudioJack5|
 |Hex ID (short code)|hexID|SZKCNAUDIOJ5|
-|Name|name|AudioJack5|
+|name|name|AudioJack5|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'AudioJack5', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'audio jack receptacle stereo headphones TRRRS connector', 'kicadSymbolki_description': 'Audio Jack, 5 Poles (TRRRS)', 'kicadSymbolki_fp_filters': 'Jack*'}]|
 ||||

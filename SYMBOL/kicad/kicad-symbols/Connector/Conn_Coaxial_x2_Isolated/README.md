@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Conn_Coaxial_x2_Isolated|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Conn_Coaxial_x2_Isolated|
 |Hex ID (short code)|hexID|SZKCNCONNCOAXIALX2ISOLATED|
-|Name|name|Conn_Coaxial_x2_Isolated|
+|name|name|Conn_Coaxial_x2_Isolated|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Conn_Coaxial_x2_Isolated', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'BNC SMA SMB SMC LEMO coaxial connector CINCH RCA', 'kicadSymbolki_description': 'coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)', 'kicadSymbolki_fp_filters': '*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO*'}]|
 ||||

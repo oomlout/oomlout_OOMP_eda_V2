@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM5050-2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-LM5050-2|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTLM552|
-|Name|name|LM5050-2|
+|name|name|LM5050-2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM5050-2', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm5050-2.pdf', 'kicadSymbolki_keywords': 'positive high-side or-ing ideal-diode', 'kicadSymbolki_description': 'High side OR-ing FET controller, 6V to 75V operation, TSOT-23-6', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
 ||||

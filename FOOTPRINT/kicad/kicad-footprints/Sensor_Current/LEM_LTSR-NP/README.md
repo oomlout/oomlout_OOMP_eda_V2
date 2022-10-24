@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LEM_LTSR-NP|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_LTSR-NP|
 |Hex ID (short code)|hexID|FZKSENCURRENTLEMLTSRNP|
-|Name|name|Sensor_Current : LEM_LTSR-NP|
+|name|name|Sensor_Current : LEM_LTSR-NP|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LEM_LTSR-NP', 'description': 'LEM current transducer LEM_LTSR-NP 5V supply voltage series https://www.lem.com/sites/default/files/products_datasheets/ltsr_6-np.pdf', 'tags': 'Current transducer', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/LEM_LTSR-NP.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||

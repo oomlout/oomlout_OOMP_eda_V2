@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_TemperatureDependent|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_TemperatureDependent|
 |Hex ID (short code)|hexID|SZKDEVICEDTEMPERATUREDEPENDENT|
-|Name|name|D_TemperatureDependent|
+|name|name|D_TemperatureDependent|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_TemperatureDependent', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'temperature sensor diode', 'kicadSymbolki_description': 'Temperature dependent diode', 'kicadSymbolki_fp_filters': 'TO-???* *_Diode_* *SingleDiode* D_*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74AUC2G07|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-74AUC2G07|
 |Hex ID (short code)|hexID|SZK74XGXX74AUC2G7|
-|Name|name|74AUC2G07|
+|name|name|74AUC2G07|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LVC2G07', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AUC2G07', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf', 'kicadSymbolki_keywords': 'Dual Gate Buffer Open Drain LVC CMOS', 'kicadSymbolki_description': 'Dual Buffer w/ Open Drain, Low-Voltage CMOS', 'kicadSymbolki_fp_filters': 'SG-* SOT*'}]|
 ||||

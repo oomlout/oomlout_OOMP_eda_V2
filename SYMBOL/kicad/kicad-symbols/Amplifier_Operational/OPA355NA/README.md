@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA355NA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA355NA|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA355NA|
-|Name|name|OPA355NA|
+|name|name|OPA355NA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA355NA', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/opa355.pdf', 'kicadSymbolki_keywords': 'operational amplifier opamp shutdown high-speed', 'kicadSymbolki_description': '200MHz, CMOS, Operational amplifier, with shutdown, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

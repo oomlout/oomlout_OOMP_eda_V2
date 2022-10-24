@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM134H|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Current-LM134H|
 |Hex ID (short code)|hexID|SZKREFERENCECURRENTLM134H|
-|Name|name|LM134H|
+|name|name|LM134H|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM134H', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-46-3', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm134.pdf', 'kicadSymbolki_keywords': 'Adjustable Current Source 10mA', 'kicadSymbolki_description': ' 1μA to 10mA 3-Terminal Adjustable Current Source, TO-46', 'kicadSymbolki_fp_filters': 'TO?46*'}]|
 ||||

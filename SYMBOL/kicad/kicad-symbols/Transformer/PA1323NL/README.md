@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PA1323NL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-PA1323NL|
 |Hex ID (short code)|hexID|SZKTRPA1323NL|
-|Name|name|PA1323NL|
+|name|name|PA1323NL|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'T', 'kicadSymbolValue': 'PA1323NL', 'kicadSymbolFootprint': 'Transformer_SMD:Pulse_PA1323NL', 'kicadSymbolDatasheet': 'https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf', 'kicadSymbolki_keywords': 'pulse', 'kicadSymbolki_description': 'SMT Gate Drive Transformer, 1:1', 'kicadSymbolki_fp_filters': 'Pulse*PA1323NL*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Lamp_Flash|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Lamp_Flash|
 |Hex ID (short code)|hexID|SZKDEVICELAMPFLASH|
-|Name|name|Lamp_Flash|
+|name|name|Lamp_Flash|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'LA', 'kicadSymbolValue': 'Lamp_Flash', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'flash lamp', 'kicadSymbolki_description': 'Flash lamp tube'}]|
 ||||

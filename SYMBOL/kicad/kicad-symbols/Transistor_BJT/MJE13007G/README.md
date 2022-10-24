@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MJE13007G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-MJE13007G|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTMJE137G|
-|Name|name|MJE13007G|
+|name|name|MJE13007G|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'MJE13007G', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/MJE13007-D.PDF', 'kicadSymbolki_keywords': 'Switching Power NPN Transistor', 'kicadSymbolki_description': '8A Ic, 400V Vce, Silicon Switching Power NPN Transistors, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

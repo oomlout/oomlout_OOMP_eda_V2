@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Q_TRIAC_A2A1G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Q_TRIAC_A2A1G|
 |Hex ID (short code)|hexID|SZKDEVICEQTRIACA2A1G|
-|Name|name|Q_TRIAC_A2A1G|
+|name|name|Q_TRIAC_A2A1G|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'Q_TRIAC_A2A1G', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'TRIAC', 'kicadSymbolki_description': 'Triode for alternating current, anode2/anode1/gate'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLV5627CD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-TLV5627CD|
 |Hex ID (short code)|hexID|SZKANALOGDACTLV5627CD|
-|Name|name|TLV5627CD|
+|name|name|TLV5627CD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV5627CD', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tlv5627.pdf', 'kicadSymbolki_keywords': 'DAC 4CH 8bit', 'kicadSymbolki_description': '4-Channel DAC, 8bit, w/ Power Down, SOIC-16'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC6752xMS8-2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Comparator-LTC6752xMS8-2|
 |Hex ID (short code)|hexID|SZKCOMPARATORLTC6752XMS82|
-|Name|name|LTC6752xMS8-2|
+|name|name|LTC6752xMS8-2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC6752xMS8-2', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/6752fc.pdf', 'kicadSymbolki_keywords': 'single comparator high speed cmos', 'kicadSymbolki_description': 'Single 280Mhz 2.9ns Comparator, Rail-to-Rail Inputs, CMOS Output, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
 ||||

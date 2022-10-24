@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC18F2450-ISP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F2450-ISP|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC18PIC18F245ISP|
-|Name|name|PIC18F2450-ISP|
+|name|name|PIC18F2450-ISP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18F2450-ISP', 'kicadSymbolFootprint': 'Package_DIP:DIP-28_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/39760d.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit Microcontroller XLP', 'kicadSymbolki_description': '16K Flash, 8K SRAM, USB, nanoWatt XLP, SPDIP28', 'kicadSymbolki_fp_filters': 'SPDIP*W7.62mm* DIP*W7.62mm* PDIP*W7.62mm*'}]|
 ||||

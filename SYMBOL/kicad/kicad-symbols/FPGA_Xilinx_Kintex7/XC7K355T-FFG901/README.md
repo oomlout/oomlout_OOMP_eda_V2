@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC7K355T-FFG901|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Kintex7-XC7K355T-FFG901|
 |Hex ID (short code)|hexID|SZKFPGAXILINXKINTEX7XC7K355TFFG91|
-|Name|name|XC7K355T-FFG901|
+|name|name|XC7K355T-FFG901|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC7K355T-FFG901', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Kintex 7 T 355 XC7K355T-FFG901'}]|
 ||||

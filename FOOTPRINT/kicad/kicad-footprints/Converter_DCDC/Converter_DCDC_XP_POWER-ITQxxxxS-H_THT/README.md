@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Converter_DCDC_XP_POWER-ITQxxxxS-H_THT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_XP_POWER-ITQxxxxS-H_THT|
 |Hex ID (short code)|hexID|FZKCONCONXPPOWERITQXXXXSHTHT|
-|Name|name|Converter_DCDC : Converter_DCDC_XP_POWER-ITQxxxxS-H_THT|
+|name|name|Converter_DCDC : Converter_DCDC_XP_POWER-ITQxxxxS-H_THT|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_XP_POWER-ITQxxxxS-H_THT', 'description': 'XP_POWER  ITQxxxxS-H, SIP, (https://www.xppower.com/pdfs/SF_ITQ.pdf), generated with kicad-footprint-generator', 'tags': 'XP_POWER  ITQxxxxS-H SIP DCDC-Converter', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_XP_POWER-ITQxxxxS-H_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_XP_POWER-ITQxxxxS-H_THT/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_XP_POWER-ITQxxxxS-H_THT/kicadPcb3d_450.png

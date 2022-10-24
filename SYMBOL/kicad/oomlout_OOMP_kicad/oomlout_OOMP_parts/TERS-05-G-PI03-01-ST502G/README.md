@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|TERS-05-G-PI03-01-ST502G|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-05-G-PI03-01-ST502G|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSTERS5GPI31ST52G|
-|Name|name|TERS-05-G-PI03-01-ST502G|
+|name|name|TERS-05-G-PI03-01-ST502G|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'TERS-05-G-PI03-01-ST502G', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:TERS-05-G-PI03-01-ST502G', 'kicadSymbolDatasheet': 'oom.lt/ST502G', 'kicadSymbolki_keywords': 'screw terminal', 'kicadSymbolki_description': 'hexID: ST502G;Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'TerminalBlock*:*'}]|
 ||||

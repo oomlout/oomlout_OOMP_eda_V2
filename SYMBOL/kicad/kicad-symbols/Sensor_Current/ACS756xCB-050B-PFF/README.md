@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ACS756xCB-050B-PFF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS756xCB-050B-PFF|
 |Hex ID (short code)|hexID|SZKSENCURRENTACS756XCB5BPFF|
-|Name|name|ACS756xCB-050B-PFF|
+|name|name|ACS756xCB-050B-PFF|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ACS756xCB-050B-PFF', 'kicadSymbolFootprint': 'Sensor_Current:Allegro_CB_PFF', 'kicadSymbolDatasheet': 'http://www.allegromicro.com/~/media/Files/Datasheets/ACS756-Datasheet.ashx?la=en', 'kicadSymbolki_keywords': 'hall effect current monitor sensor isolated', 'kicadSymbolki_description': '±50A Bidirectional Hall-Effect Current Sensor, +5.0V supply, 40mV/A, CB-5 PFF', 'kicadSymbolki_fp_filters': 'Allegro*CB*PFF*'}]|
 ||||

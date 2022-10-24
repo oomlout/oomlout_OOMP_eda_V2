@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O105-67-R42105A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O105-67-R42105A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO1567R4215A|
-|Name|name|RESE-0402-X-O105-67-R42105A|
+|name|name|RESE-0402-X-O105-67-R42105A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O105-67-R42105A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O105-67-R42105A', 'kicadSymbolDatasheet': 'oom.lt/R42105A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R42105A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

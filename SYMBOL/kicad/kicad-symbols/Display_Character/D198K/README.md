@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D198K|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-D198K|
 |Hex ID (short code)|hexID|SZKDICHARACTERD198K|
-|Name|name|D198K|
+|name|name|D198K|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'D168K', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'D198K', 'kicadSymbolFootprint': 'Display_7Segment:D1X8K', 'kicadSymbolDatasheet': 'https://ia800903.us.archive.org/24/items/CTKD1x8K/Cromatek%20D168K.pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'One digit 7 segment orangish-red LED, low current, common cathode', 'kicadSymbolki_fp_filters': 'D1X8K*'}]|
 ||||

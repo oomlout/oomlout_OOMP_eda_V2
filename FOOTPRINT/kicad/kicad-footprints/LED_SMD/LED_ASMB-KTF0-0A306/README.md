@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_ASMB-KTF0-0A306|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_ASMB-KTF0-0A306|
 |Hex ID (short code)|hexID|FZKLSMLASMBKTFA36|
-|Name|name|LED_SMD : LED_ASMB-KTF0-0A306|
+|name|name|LED_SMD : LED_ASMB-KTF0-0A306|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_ASMB-KTF0-0A306', 'description': '2220 Tricolor PLCC-4 LED, https://docs.broadcom.com/docs/ASMB-KTF0-0A306-DS100', 'tags': 'Tricolor LED', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_ASMB-KTF0-0A306.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_ASMB-KTF0-0A306/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_ASMB-KTF0-0A306/kicadPcb3d_450.png

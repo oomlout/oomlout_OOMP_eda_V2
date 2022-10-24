@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM3150MH|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM3150MH|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM315MH|
-|Name|name|LM3150MH|
+|name|name|LM3150MH|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM3150MH', 'kicadSymbolFootprint': 'Package_SO:HTSSOP-14-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3.1mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm3150.pdf', 'kicadSymbolki_keywords': 'Buck step-down converter', 'kicadSymbolki_description': '42V Wide Vin synchronous Buck controller, HTSSOP-14', 'kicadSymbolki_fp_filters': 'HTSSOP*4.4x5mm*P0.65*'}]|
 ||||

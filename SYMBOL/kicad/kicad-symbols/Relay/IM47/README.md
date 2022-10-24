@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IM47|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-IM47|
 |Hex ID (short code)|hexID|SZKRELAYIM47|
-|Name|name|IM47|
+|name|name|IM47|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IM40', 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'IM47', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=108-98001&DocType=SS&DocLang=EN', 'kicadSymbolki_keywords': 'relay bistable', 'kicadSymbolki_description': 'IM Relay, standard version, bistable, switching current 2/5A, power 60W/62.5VA, voltage 220VDC/250VAC', 'kicadSymbolki_fp_filters': 'Relay*DPDT*AXICOM*IMSeries*'}]|
 ||||

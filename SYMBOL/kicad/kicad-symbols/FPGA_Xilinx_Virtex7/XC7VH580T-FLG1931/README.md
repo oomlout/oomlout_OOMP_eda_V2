@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC7VH580T-FLG1931|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VH580T-FLG1931|
 |Hex ID (short code)|hexID|SZKFPGAXILINXVIRTEX7XC7VH58TFLG1931|
-|Name|name|XC7VH580T-FLG1931|
+|name|name|XC7VH580T-FLG1931|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC7VH580T-FLG1931', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Virtex 7 HT 580 XC7VH580T-FLG1931'}]|
 ||||

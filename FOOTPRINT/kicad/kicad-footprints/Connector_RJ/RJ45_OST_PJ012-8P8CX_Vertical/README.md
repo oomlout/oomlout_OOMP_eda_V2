@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|RJ45_OST_PJ012-8P8CX_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_OST_PJ012-8P8CX_Vertical|
 |Hex ID (short code)|hexID|FZKCNRJRJ45OSTPJ128P8CXVERTICAL|
-|Name|name|Connector_RJ : RJ45_OST_PJ012-8P8CX_Vertical|
+|name|name|Connector_RJ : RJ45_OST_PJ012-8P8CX_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RJ45_OST_PJ012-8P8CX_Vertical', 'description': 'RJ45 vertical connector https://www.on-shore.com/wp-content/uploads/PJ012-8P8CX.pdf', 'tags': 'RJ45 PJ012', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_OST_PJ012-8P8CX_Vertical.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_OST_PJ012-8P8CX_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_OST_PJ012-8P8CX_Vertical/kicadPcb3d_450.png

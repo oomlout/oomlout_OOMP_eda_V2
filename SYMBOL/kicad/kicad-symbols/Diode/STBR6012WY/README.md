@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STBR6012WY|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-STBR6012WY|
 |Hex ID (short code)|hexID|SZKDIODESTBR612WY|
-|Name|name|STBR6012WY|
+|name|name|STBR6012WY|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STBR3008WY', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'STBR6012WY', 'kicadSymbolFootprint': 'Diode_THT:D_DO-247_Vertical', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/stbr6012-y.pdf', 'kicadSymbolki_keywords': 'AEC-Q101', 'kicadSymbolki_description': '1200V, 60A, General Purpose Rectifier Diode, DO-247', 'kicadSymbolki_fp_filters': 'D*DO*247*'}]|
 ||||

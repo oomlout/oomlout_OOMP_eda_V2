@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Potentiometer_ACP_CA6-VSMD_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_ACP_CA6-VSMD_Vertical|
 |Hex ID (short code)|hexID|FZKPOTENTIOMETERSMPOTENTIOMETERACPCA6VSMVERTICAL|
-|Name|name|Potentiometer_SMD : Potentiometer_ACP_CA6-VSMD_Vertical|
+|name|name|Potentiometer_SMD : Potentiometer_ACP_CA6-VSMD_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_ACP_CA6-VSMD_Vertical', 'description': 'Potentiometer, vertical, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf', 'tags': 'Potentiometer vertical ACP CA6-VSMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_SMD.3dshapes/Potentiometer_ACP_CA6-VSMD_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_ACP_CA6-VSMD_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_ACP_CA6-VSMD_Vertical/kicadPcb3d_450.png

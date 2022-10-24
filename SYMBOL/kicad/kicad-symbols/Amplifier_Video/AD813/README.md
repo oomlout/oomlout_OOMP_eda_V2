@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD813|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Video-AD813|
 |Hex ID (short code)|hexID|SZKAMPLIFIERVIDEOAD813|
-|Name|name|AD813|
+|name|name|AD813|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD813', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD813.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'triple opamp', 'kicadSymbolki_description': 'Single Supply, Low Power, Triple Video Amplifier, DIP-14/SOIC-14', 'kicadSymbolki_fp_filters': 'SOIC*P1.27mm* DIP*W7.62mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MKL03Z32CBF4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL03Z32CBF4|
 |Hex ID (short code)|hexID|SZKMCUNXPKINETISMKL3Z32CBF4|
-|Name|name|MKL03Z32CBF4|
+|name|name|MKL03Z32CBF4|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MKL03Z32CAF4', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MKL03Z32CBF4', 'kicadSymbolFootprint': 'Package_CSP:WLCSP-20_1.994x1.609mm_Layout5x4_P0.4mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/docs/en/data-sheet/KL03P24M48SF0.pdf', 'kicadSymbolki_keywords': 'Kinetis KL03 ARM Cortex M0+', 'kicadSymbolki_description': 'Kinetis KL03 series, 48-MHz/32-bit ARM Cortex-M0+, 32 kB flash, 2 kB SRAM, WLCSP-20', 'kicadSymbolki_fp_filters': 'WLCSP*1.994x1.609mm*P0.4mm*'}]|
 ||||

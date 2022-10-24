@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Filter_EMI_LLL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Filter_EMI_LLL|
 |Hex ID (short code)|hexID|SZKDEVICEFILEMILLL|
-|Name|name|Filter_EMI_LLL|
+|name|name|Filter_EMI_LLL|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'FL', 'kicadSymbolValue': 'Filter_EMI_LLL', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'three phase common mode choke', 'kicadSymbolki_description': 'EMI 3-inductor filter', 'kicadSymbolki_fp_filters': 'L* L_CommonMode*'}]|
 ||||

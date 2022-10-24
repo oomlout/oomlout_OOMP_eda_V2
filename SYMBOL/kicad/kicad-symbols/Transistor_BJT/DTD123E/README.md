@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DTD123E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTD123E|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTDTD123E|
-|Name|name|DTD123E|
+|name|name|DTD123E|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DTD123E', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'ROHM Digital NPN Transistor', 'kicadSymbolki_description': 'Digital NPN Transistor, 2k2/2k2, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23* SC?59*'}]|
 ||||

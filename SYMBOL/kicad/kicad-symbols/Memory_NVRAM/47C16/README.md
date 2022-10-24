@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|47C16|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_NVRAM-47C16|
 |Hex ID (short code)|hexID|SZKMEMORYNVRAM47C16|
-|Name|name|47C16|
+|name|name|47C16|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '47L04', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '47C16', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20005371C.pdf', 'kicadSymbolki_keywords': '16kb 5V I2C serial EERAM SRAM EEPROM', 'kicadSymbolki_description': '16kbit I2C serial EERAM, SRAM with EEPROM backup, 4.5-5.5V, DIP-8/SOIC-8/TSSOP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm* TSSOP*4.4x3mm*P0.65mm*'}]|
 ||||

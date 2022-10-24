@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CST2010_Split|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-CST2010_Split|
 |Hex ID (short code)|hexID|SZKTRCST21SPLIT|
-|Name|name|CST2010_Split|
+|name|name|CST2010_Split|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'T', 'kicadSymbolValue': 'CST2010_Split', 'kicadSymbolFootprint': 'Transformer_SMD:Transformer_Coilcraft_CST2010', 'kicadSymbolDatasheet': 'https://www.coilcraft.com/pdfs/cst2010.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'current sense transformer', 'kicadSymbolki_description': 'Coilcraft Current Sense Transformer, SMD, 40A, 1:20 to 1:200', 'kicadSymbolki_fp_filters': 'Transformer*Coilcraft*CST2010*'}]|
 ||||

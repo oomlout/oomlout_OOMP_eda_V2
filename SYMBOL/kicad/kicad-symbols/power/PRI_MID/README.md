@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PRI_MID|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-PRI_MID|
 |Hex ID (short code)|hexID|SZKPOWERPRIMID|
-|Name|name|PRI_MID|
+|name|name|PRI_MID|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'PRI_MID', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "PRI_MID"'}]|
 ||||

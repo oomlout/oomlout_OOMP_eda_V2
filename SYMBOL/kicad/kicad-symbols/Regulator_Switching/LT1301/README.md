@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1301|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1301|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLT131|
-|Name|name|LT1301|
+|name|name|LT1301|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1301', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/lt1301.pdf', 'kicadSymbolki_keywords': '5v 12v dc converter boost', 'kicadSymbolki_description': 'Micropower High Efficiency 5V/12V Step-Up DC/DC Converter for Flash Memory, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'DIP*7.62mm* SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

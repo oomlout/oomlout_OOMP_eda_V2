@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Diode_Bridge_Vishay_DFSFlat|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Vishay_DFSFlat|
 |Hex ID (short code)|hexID|FZKDIODESMDIODEBRIDGEVISHAYDFSFLAT|
-|Name|name|Diode_SMD : Diode_Bridge_Vishay_DFSFlat|
+|name|name|Diode_SMD : Diode_Bridge_Vishay_DFSFlat|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Diode_Bridge_Vishay_DFSFlat', 'description': 'SMD diode bridge Low Profile DFS "Flat", see http://www.vishay.com/docs/88874/dfl15005.pdf', 'tags': 'DFS', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/Diode_Bridge_Vishay_DFSFlat.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Vishay_DFSFlat/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Vishay_DFSFlat/kicadPcb3d_450.png

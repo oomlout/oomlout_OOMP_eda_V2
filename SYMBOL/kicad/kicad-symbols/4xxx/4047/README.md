@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4047|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx-4047|
 |Hex ID (short code)|hexID|SZK4XXX447|
-|Name|name|4047|
+|name|name|4047|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4047', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/cd4047b.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'CMOS monostable astable multivibrator', 'kicadSymbolki_description': 'Monostable/Astable Multivibrator', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x8.7mm*P1.27mm*'}]|
 ||||

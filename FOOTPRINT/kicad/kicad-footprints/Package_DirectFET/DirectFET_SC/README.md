@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DirectFET_SC|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_SC|
 |Hex ID (short code)|hexID|FZKDFETDIRECTFETSC|
-|Name|name|Package_DirectFET : DirectFET_SC|
+|name|name|Package_DirectFET : DirectFET_SC|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DirectFET_SC', 'description': 'DirectFET SC https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=24', 'tags': 'DirectFET SC MOSFET Infineon', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DirectFET.3dshapes/DirectFET_SC.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DirectFET/DirectFET_SC/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DirectFET/DirectFET_SC/kicadPcb3d_450.png

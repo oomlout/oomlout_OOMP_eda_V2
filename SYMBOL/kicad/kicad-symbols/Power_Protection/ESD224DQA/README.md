@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ESD224DQA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-ESD224DQA|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONESD224DQA|
-|Name|name|ESD224DQA|
+|name|name|ESD224DQA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ESD224DQA', 'kicadSymbolFootprint': 'Package_DFN_QFN:Diodes_UDFN-10_1.0x2.5mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/esd224.pdf', 'kicadSymbolki_keywords': 'ESD protection TVS', 'kicadSymbolki_description': '4-Channel Low Capacitance TVS Diode Array, USON-10', 'kicadSymbolki_fp_filters': 'Diodes*UDFN*1.0x2.5mm*P0.5mm*'}]|
 ||||

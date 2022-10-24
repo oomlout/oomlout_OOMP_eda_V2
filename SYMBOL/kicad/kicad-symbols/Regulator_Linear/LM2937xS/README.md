@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM2937xS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM2937xS|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM2937XS|
-|Name|name|LM2937xS|
+|name|name|LM2937xS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SPX2920T-3.3_TO263', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2937xS', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-3_TabPin2', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm2937.pdf', 'kicadSymbolki_keywords': 'Voltage Regulator Low Dropuout Positive LDO', 'kicadSymbolki_description': '500-mA Low Dropout Regulator, TO-263', 'kicadSymbolki_fp_filters': 'TO?263*'}]|
 ||||

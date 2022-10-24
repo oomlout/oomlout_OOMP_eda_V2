@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC6994xS6-1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-LTC6994xS6-1|
 |Hex ID (short code)|hexID|SZKTIMERLTC6994XS61|
-|Name|name|LTC6994xS6-1|
+|name|name|LTC6994xS6-1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC6994xS6-1', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-6', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/699412fb.pdf', 'kicadSymbolki_keywords': 'TimerBlox delay block noise discriminator', 'kicadSymbolki_description': 'TimerBlox Delay Block, Programmable, Noise Discriminator, Rising or Falling Edge, TSOT-23-6', 'kicadSymbolki_fp_filters': 'TSOT*23*'}]|
 ||||

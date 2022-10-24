@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC2C256-TQ144|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2C256-TQ144|
 |Hex ID (short code)|hexID|SZKFPGAXILINXXC2C256TQ144|
-|Name|name|XC2C256-TQ144|
+|name|name|XC2C256-TQ144|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC2C256-TQ144', 'kicadSymbolFootprint': 'Package_QFP:TQFP-144_20x20mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.xilinx.com/support/documentation/data_sheets/ds094.pdf', 'kicadSymbolki_keywords': 'CPLD', 'kicadSymbolki_description': 'CoolRunner-II CPLD, 256 macrocells', 'kicadSymbolki_fp_filters': 'TQFP*20x20mm*P0.5mm*'}]|
 ||||

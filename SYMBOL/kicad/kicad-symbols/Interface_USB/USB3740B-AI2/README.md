@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|USB3740B-AI2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-USB3740B-AI2|
 |Hex ID (short code)|hexID|SZKINTERFACEUU374BAI2|
-|Name|name|USB3740B-AI2|
+|name|name|USB3740B-AI2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'USB3740B-AI2', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/00001725D.pdf', 'kicadSymbolki_keywords': 'USB 2.0 High Speed Switch', 'kicadSymbolki_description': 'USB 2.0 Switch with ESD Protection, UQFN-10 Pitch 0.4 mm', 'kicadSymbolki_fp_filters': 'UQFN*1.3x1.8mm?P0.4mm* UQFN*1.6x2.1mm?P0.5mm*'}]|
 ||||

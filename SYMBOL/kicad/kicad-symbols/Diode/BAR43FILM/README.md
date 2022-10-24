@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAR43FILM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAR43FILM|
 |Hex ID (short code)|hexID|SZKDIODEBAR43FILM|
-|Name|name|BAR43FILM|
+|name|name|BAR43FILM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BAR42FILM', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAR43FILM', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'www.st.com/resource/en/datasheet/bar43.pdf', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '30V 0.1A Small signal Schottky diode, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

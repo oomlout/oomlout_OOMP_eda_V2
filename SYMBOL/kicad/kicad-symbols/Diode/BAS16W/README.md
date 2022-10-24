@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAS16W|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAS16W|
 |Hex ID (short code)|hexID|SZKDIODEBAS16W|
-|Name|name|BAS16W|
+|name|name|BAS16W|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAS16W', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-323_SC-70', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BAS16_SER.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '100V, 0.175A, High-speed Switching Diode, SOT-323', 'kicadSymbolki_fp_filters': 'SOT?323*'}]|
 ||||

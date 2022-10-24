@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|B500R|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Bridge-B500R|
 |Hex ID (short code)|hexID|SZKDIODEBRIDGEB5R|
-|Name|name|B500R|
+|name|name|B500R|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'B40R', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'B500R', 'kicadSymbolFootprint': 'Diode_THT:Diode_Bridge_Round_D9.0mm', 'kicadSymbolDatasheet': 'https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40r.pdf', 'kicadSymbolki_keywords': 'rectifier acdc', 'kicadSymbolki_description': 'Single-Phase Bridge Rectifier, 500V Vrms, 1.6A If, WOG-like package', 'kicadSymbolki_fp_filters': 'D*Bridge*Round*D9.0mm*'}]|
 ||||

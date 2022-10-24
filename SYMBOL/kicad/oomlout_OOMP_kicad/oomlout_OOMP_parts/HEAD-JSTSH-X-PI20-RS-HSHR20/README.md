@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-JSTSH-X-PI20-RS-HSHR20|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI20-RS-HSHR20|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI2RSHSHR2|
-|Name|name|HEAD-JSTSH-X-PI20-RS-HSHR20|
+|name|name|HEAD-JSTSH-X-PI20-RS-HSHR20|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HEAD-JSTSH-X-PI20-RS-HSHR20', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:HEAD-JSTSH-X-PI20-RS-HSHR20', 'kicadSymbolDatasheet': 'oom.lt/HSHR20', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'hexID: HSHR20;Generic connector, single row, 01x20, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_1x??_*'}]|
 ||||

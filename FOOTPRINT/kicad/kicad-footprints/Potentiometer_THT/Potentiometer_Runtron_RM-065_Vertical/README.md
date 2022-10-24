@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Potentiometer_Runtron_RM-065_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Runtron_RM-065_Vertical|
 |Hex ID (short code)|hexID|FZKPPOTENTIOMETERRUNTRONRM65VERTICAL|
-|Name|name|Potentiometer_THT : Potentiometer_Runtron_RM-065_Vertical|
+|name|name|Potentiometer_THT : Potentiometer_Runtron_RM-065_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Runtron_RM-065_Vertical', 'description': 'Potentiometer, vertical, Trimmer, RM-065 https://components101.com/sites/default/files/component_datasheet/Preset%20Potentiometer%20%28Trimpot%29.pdf', 'tags': 'Potentiometer Trimmer RM-065', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Runtron_RM-065_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Runtron_RM-065_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Runtron_RM-065_Vertical/kicadPcb3d_450.png

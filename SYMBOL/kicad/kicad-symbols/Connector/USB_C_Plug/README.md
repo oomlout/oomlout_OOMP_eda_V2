@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|USB_C_Plug|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-USB_C_Plug|
 |Hex ID (short code)|hexID|SZKCNUCPLUG|
-|Name|name|USB_C_Plug|
+|name|name|USB_C_Plug|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'P', 'kicadSymbolValue': 'USB_C_Plug', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.usb.org/sites/default/files/documents/usb_type-c.zip', 'kicadSymbolki_keywords': 'usb universal serial bus', 'kicadSymbolki_description': 'USB Type-C Plug connector', 'kicadSymbolki_fp_filters': 'USB*C*Plug*'}]|
 ||||

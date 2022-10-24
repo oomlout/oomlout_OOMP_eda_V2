@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OKI-78SR-3.3_1.5-W36H-C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-OKI-78SR-3.3_1.5-W36H-C|
 |Hex ID (short code)|hexID|SZKCONOKI78SR3315W36HC|
-|Name|name|OKI-78SR-3.3_1.5-W36H-C|
+|name|name|OKI-78SR-3.3_1.5-W36H-C|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OKI-78SR-3.3_1.5-W36H-C', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_Murata_OKI-78SR_Horizontal', 'kicadSymbolDatasheet': 'https://power.murata.com/data/power/oki-78sr.pdf', 'kicadSymbolki_keywords': 'dc-dc murata Step-Down DC/DC-Regulator', 'kicadSymbolki_description': '1.5A Step-Down DC/DC-Regulator, 7-36V input, 3.3V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, OKI-78SR_Horizontal', 'kicadSymbolki_fp_filters': 'Converter*DCDC*Murata*OKI*78SR*Horizontal*'}]|
 ||||

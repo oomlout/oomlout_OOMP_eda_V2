@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SC34063AP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-SC34063AP|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGSC3463AP|
-|Name|name|SC34063AP|
+|name|name|SC34063AP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC33063AP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SC34063AP', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/MC34063A-D.PDF', 'kicadSymbolki_keywords': 'smps buck boost inverting', 'kicadSymbolki_description': '1.5A, step-up/down/inverting switching regulator, 3-40V Vin, 100kHz, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

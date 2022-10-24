@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DS3231MZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer_RTC-DS3231MZ|
 |Hex ID (short code)|hexID|SZKTIMERRTCDS3231MZ|
-|Name|name|DS3231MZ|
+|name|name|DS3231MZ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DS3231MZ', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/DS3231M.pdf', 'kicadSymbolki_keywords': 'RTC TCXO Realtime Time Clock MEMS I2C', 'kicadSymbolki_description': '±5ppm, I2C Real-Time Clock SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

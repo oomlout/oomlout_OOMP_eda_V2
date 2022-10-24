@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|A4954|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-A4954|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORA4954|
-|Name|name|A4954|
+|name|name|A4954|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'A4954', 'kicadSymbolFootprint': 'Package_SO:TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm', 'kicadSymbolDatasheet': 'https://www.allegromicro.com/-/media/Files/Datasheets/A4954-Datasheet.ashx', 'kicadSymbolki_keywords': 'Fullbridge, Stepper Driver', 'kicadSymbolki_description': 'Fullbridge PWM Motor Driver, UVLO, OCP, Current Limit, Short Circuit Protection, TSSOP-16', 'kicadSymbolki_fp_filters': 'TSSOP*1EP*4.4x5mm*P0.65mm*'}]|
 ||||

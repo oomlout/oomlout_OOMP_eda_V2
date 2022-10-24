@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SN74LVC1T45DCK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-SN74LVC1T45DCK|
 |Hex ID (short code)|hexID|SZKLOGICLEVELTRANSLATORSN74LVC1T45DCK|
-|Name|name|SN74LVC1T45DCK|
+|name|name|SN74LVC1T45DCK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SN74LVC1T45DCK', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf', 'kicadSymbolki_keywords': 'Level-Shifter CMOS-TTL-Translation', 'kicadSymbolki_description': 'Single-Bit Dual-Supply Bus Transceiver With Configurable Voltage Translation and 3-State Outputs, SOT-363', 'kicadSymbolki_fp_filters': '*SC?70*'}]|
 ||||

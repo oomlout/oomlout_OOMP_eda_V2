@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|A1301KUA-T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-A1301KUA-T|
 |Hex ID (short code)|hexID|SZKSENMAGNETICA131KUAT|
-|Name|name|A1301KUA-T|
+|name|name|A1301KUA-T|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'A1301KUA-T', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.allegromicro.com/~/media/Files/Datasheets/A1301-2-Datasheet.ashx', 'kicadSymbolki_keywords': 'hall switch', 'kicadSymbolki_description': 'Linear Hall Effect Sensor, SIP 3pin'}]|
 ||||

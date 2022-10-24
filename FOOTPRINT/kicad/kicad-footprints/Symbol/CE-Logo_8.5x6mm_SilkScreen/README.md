@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CE-Logo_8.5x6mm_SilkScreen|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-CE-Logo_8.5x6mm_SilkScreen|
 |Hex ID (short code)|hexID|FZKSZCEL85X6SILKSCREEN|
-|Name|name|Symbol : CE-Logo_8.5x6mm_SilkScreen|
+|name|name|Symbol : CE-Logo_8.5x6mm_SilkScreen|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CE-Logo_8.5x6mm_SilkScreen', 'description': 'CE marking', 'tags': 'Logo CE certification', 'attributeType': None, 'pins': {}}|
 ||||

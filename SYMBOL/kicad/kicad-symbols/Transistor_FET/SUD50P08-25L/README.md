@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SUD50P08-25L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD50P08-25L|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETSUD5P825L|
-|Name|name|SUD50P08-25L|
+|name|name|SUD50P08-25L|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SUD19P06-60', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'SUD50P08-25L', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-2', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/73443/sud50p08.pdf', 'kicadSymbolki_keywords': 'TrenchFET P-Channel Power MOSFET', 'kicadSymbolki_description': '50A Id, 80V Vds, TrenchFET P-Channel Power MOSFET, 25.2mOhm Ron, 160nC Qg, -55 to 175 °C, TO-252-2', 'kicadSymbolki_fp_filters': 'TO?252*'}]|
 ||||

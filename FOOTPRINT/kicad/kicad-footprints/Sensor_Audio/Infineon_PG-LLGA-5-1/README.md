@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Infineon_PG-LLGA-5-1|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Audio-Infineon_PG-LLGA-5-1|
 |Hex ID (short code)|hexID|FZKSENAUDIOINFINEONPGLLGA51|
-|Name|name|Sensor_Audio : Infineon_PG-LLGA-5-1|
+|name|name|Sensor_Audio : Infineon_PG-LLGA-5-1|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Infineon_PG-LLGA-5-1', 'description': 'Infineon_PG-LLGA-5-1 StepUp generated footprint, https://www.infineon.com/cms/en/product/packages/PG-LLGA/PG-LLGA-5-1/', 'tags': 'infineon mems microphone', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Audio.3dshapes/Infineon_PG-LLGA-5-1.wrl', 'pins': {'type': 'smd', 'shape': 'custom'}}|
 ||||

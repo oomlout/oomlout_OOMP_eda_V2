@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F373RCTx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F373RCTx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F3STM32F373RCTX|
-|Name|name|STM32F373RCTx|
+|name|name|STM32F373RCTx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STM32F373R8Tx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F373RCTx', 'kicadSymbolFootprint': 'Package_QFP:LQFP-64_10x10mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00046749.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32F3 STM32F373', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 256KB flash, 32KB RAM, 72MHz, 2-3.6V, 52 GPIO, LQFP-64', 'kicadSymbolki_fp_filters': 'LQFP*10x10mm*P0.5mm*'}]|
 ||||

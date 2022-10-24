@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Mini-Circuits_DB1627|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_DB1627|
 |Hex ID (short code)|hexID|FZKRFMCIRCUITSDB1627|
-|Name|name|RF_Mini-Circuits : Mini-Circuits_DB1627|
+|name|name|RF_Mini-Circuits : Mini-Circuits_DB1627|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Mini-Circuits_DB1627', 'description': 'Mini-Circuits top-hat case DB1627 (https://ww2.minicircuits.com/case_style/DB1627.pdf)', 'tags': 'Mini-Circuits DB1627', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_DB1627.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

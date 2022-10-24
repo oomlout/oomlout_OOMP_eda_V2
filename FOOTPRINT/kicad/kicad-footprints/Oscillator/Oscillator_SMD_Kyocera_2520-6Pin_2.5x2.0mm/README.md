@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Oscillator_SMD_Kyocera_2520-6Pin_2.5x2.0mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Kyocera_2520-6Pin_2.5x2.0mm|
 |Hex ID (short code)|hexID|FZKOCSOCSSMKYOCERA2526PIN25X2|
-|Name|name|Oscillator : Oscillator_SMD_Kyocera_2520-6Pin_2.5x2.0mm|
+|name|name|Oscillator : Oscillator_SMD_Kyocera_2520-6Pin_2.5x2.0mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Oscillator_SMD_Kyocera_2520-6Pin_2.5x2.0mm', 'description': 'https://global.kyocera.com/prdct/electro/product/pdf/kt2520_e.pdf', 'tags': '2.5mm 2mm SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_Kyocera_2520-6Pin_2.5x2.0mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Kyocera_2520-6Pin_2.5x2.0mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Kyocera_2520-6Pin_2.5x2.0mm/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC12F683-IP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F683-IP|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC12PIC12F683IP|
-|Name|name|PIC12F683-IP|
+|name|name|PIC12F683-IP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC12F683-IP', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41232D.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller', 'kicadSymbolki_description': '2048W Flash, 128B SRAM, 256B EEPROM, PDIP8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

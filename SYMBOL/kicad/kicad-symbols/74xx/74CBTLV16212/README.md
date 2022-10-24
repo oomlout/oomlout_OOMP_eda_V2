@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74CBTLV16212|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74CBTLV16212|
 |Hex ID (short code)|hexID|SZK74XX74CBTLV16212|
-|Name|name|74CBTLV16212|
+|name|name|74CBTLV16212|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74CBTLV16212', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/sn74cbtlv16212.pdf', 'kicadSymbolki_keywords': 'bus', 'kicadSymbolki_description': 'Low-voltage 24-bit FET Bus-exchange switch', 'kicadSymbolki_fp_filters': 'SSOP* TSSOP*'}]|
 ||||

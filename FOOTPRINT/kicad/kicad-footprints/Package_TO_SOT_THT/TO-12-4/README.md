@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-12-4|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-12-4|
 |Hex ID (short code)|hexID|FZKSOTTO124|
-|Name|name|Package_TO_SOT_THT : TO-12-4|
+|name|name|Package_TO_SOT_THT : TO-12-4|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-12-4', 'description': 'TO-12-4', 'tags': 'TO-12-4', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-12-4.wrl', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-12-4/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-12-4/kicadPcb3d_450.png

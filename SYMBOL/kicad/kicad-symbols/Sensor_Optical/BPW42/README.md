@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BPW42|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW42|
 |Hex ID (short code)|hexID|SZKSENOPTICALBPW42|
-|Name|name|BPW42|
+|name|name|BPW42|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SFH309', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BPW42', 'kicadSymbolFootprint': 'LED_THT:LED_D3.0mm_Clear', 'kicadSymbolDatasheet': 'http://www.ges.cz/sheets/b/bpw42.pdf', 'kicadSymbolki_keywords': 'NPN phototransistor opto', 'kicadSymbolki_description': 'NPN phototransistor', 'kicadSymbolki_fp_filters': 'LED*3.0mm*Clear*'}]|
 ||||

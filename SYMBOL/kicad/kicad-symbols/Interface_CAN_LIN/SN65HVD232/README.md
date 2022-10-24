@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SN65HVD232|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-SN65HVD232|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINSN65HVD232|
-|Name|name|SN65HVD232|
+|name|name|SN65HVD232|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SN65HVD232', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/sn65hvd230.pdf', 'kicadSymbolki_keywords': 'can transeiver ti', 'kicadSymbolki_description': 'CAN Bus Transceivers, 3.3V, 1Mbps, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

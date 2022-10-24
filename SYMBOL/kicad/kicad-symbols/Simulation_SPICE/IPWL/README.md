@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IPWL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IPWL|
 |Hex ID (short code)|hexID|SZKSIMULATIONSPICEIPWL|
-|Name|name|IPWL|
+|name|name|IPWL|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'I', 'kicadSymbolValue': 'IPWL', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolSpice_Netlist_Enabled': 'Y', 'kicadSymbolSpice_Primitive': 'I', 'kicadSymbolSpice_Model': 'pwl(0 -1 50n -1 51n 0 97n 1 171n -1 200n -1)', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Current source, piece-wise linear'}]|
 ||||

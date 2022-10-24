@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AS6C1616|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_RAM-AS6C1616|
 |Hex ID (short code)|hexID|SZKMEMORYRAMAS6C1616|
-|Name|name|AS6C1616|
+|name|name|AS6C1616|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AS6C1616', 'kicadSymbolFootprint': 'Package_SO:TSOP-I-48_18.4x12mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.alliancememory.com/wp-content/uploads/pdf/AS6C1616-TSOPI.pdf', 'kicadSymbolki_keywords': 'memory SRAM', 'kicadSymbolki_description': '1024k x 16 bit low power CMOS SRAM', 'kicadSymbolki_fp_filters': 'TSOP?I*18.4x12mm*P0.5mm*'}]|
 ||||

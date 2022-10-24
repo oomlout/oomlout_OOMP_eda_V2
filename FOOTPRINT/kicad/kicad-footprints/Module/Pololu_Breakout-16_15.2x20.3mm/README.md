@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Pololu_Breakout-16_15.2x20.3mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Module-Pololu_Breakout-16_15.2x20.3mm|
 |Hex ID (short code)|hexID|FZKMOPOLOLUBREAKOUT16152X23|
-|Name|name|Module : Pololu_Breakout-16_15.2x20.3mm|
+|name|name|Module : Pololu_Breakout-16_15.2x20.3mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Pololu_Breakout-16_15.2x20.3mm', 'description': 'Pololu Breakout 16-pin 15.2x20.3mm 0.6x0.8")n  (tags ', 'tags': None, 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Module.3dshapes/Pololu_Breakout-16_15.2x20.3mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/Pololu_Breakout-16_15.2x20.3mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Module/Pololu_Breakout-16_15.2x20.3mm/kicadPcb3d_450.png

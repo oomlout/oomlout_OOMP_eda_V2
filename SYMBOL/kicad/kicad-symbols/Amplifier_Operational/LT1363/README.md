@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1363|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LT1363|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALLT1363|
-|Name|name|LT1363|
+|name|name|LT1363|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'OP07', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1363', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1363fa.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': '70MHz, 1000V/µs Operational Amplifier, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm* TO*99*'}]|
 ||||

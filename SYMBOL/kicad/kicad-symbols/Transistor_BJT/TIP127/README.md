@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TIP127|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP127|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTTIP127|
-|Name|name|TIP127|
+|name|name|TIP127|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TIP125', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'TIP127', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/TIP120-D.PDF', 'kicadSymbolki_keywords': 'Darlington Power PNP Transistor', 'kicadSymbolki_description': '5A Ic, 100V Vce, Silicon Darlington Power PNP Transistor, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

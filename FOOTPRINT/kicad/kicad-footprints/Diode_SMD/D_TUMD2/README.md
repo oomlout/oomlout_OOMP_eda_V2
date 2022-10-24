@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|D_TUMD2|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_TUMD2|
 |Hex ID (short code)|hexID|FZKDIODESMDTUMD2|
-|Name|name|Diode_SMD : D_TUMD2|
+|name|name|Diode_SMD : D_TUMD2|
 |Footprint Kicad|footprintKicadDetails|{'name': 'D_TUMD2', 'description': 'ROHM - TUMD2', 'tags': 'TUMD2', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_TUMD2.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_TUMD2/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_TUMD2/kicadPcb3d_450.png

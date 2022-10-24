@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XO32|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-XO32|
 |Hex ID (short code)|hexID|SZKOCSXO32|
-|Name|name|XO32|
+|name|name|XO32|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'X', 'kicadSymbolValue': 'XO32', 'kicadSymbolFootprint': 'Oscillator:Oscillator_SMD_EuroQuartz_XO32-4Pin_3.2x2.5mm', 'kicadSymbolDatasheet': 'http://cdn-reichelt.de/documents/datenblatt/B400/XO32.pdf', 'kicadSymbolki_keywords': 'Crystal Clock Oscillator', 'kicadSymbolki_description': 'HCMOS Clock Oscillator', 'kicadSymbolki_fp_filters': 'Oscillator*SMD*EuroQuartz*XO32*3.2x2.5mm*'}]|
 ||||

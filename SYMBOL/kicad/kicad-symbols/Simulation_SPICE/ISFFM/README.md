@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ISFFM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Simulation_SPICE-ISFFM|
 |Hex ID (short code)|hexID|SZKSIMULATIONSPICEISFFM|
-|Name|name|ISFFM|
+|name|name|ISFFM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'I', 'kicadSymbolValue': 'ISFFM', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolSpice_Netlist_Enabled': 'Y', 'kicadSymbolSpice_Primitive': 'I', 'kicadSymbolSpice_Model': 'sffm(0 1 100k 5 1k)', 'kicadSymbolki_keywords': 'simulation frequency modulated', 'kicadSymbolki_description': 'Current source, single-frequency FM'}]|
 ||||

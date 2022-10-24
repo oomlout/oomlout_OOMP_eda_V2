@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATAES132A-SH|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Security-ATAES132A-SH|
 |Hex ID (short code)|hexID|SZKSECURITYATAES132ASH|
-|Name|name|ATAES132A-SH|
+|name|name|ATAES132A-SH|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATAES132A-SH', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/ATAES132A-Data-Sheet-40002023A.pdf', 'kicadSymbolki_keywords': 'cryptographic security AES SPI', 'kicadSymbolki_description': '32K AES serial EEPROM, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|HTSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm|
 |Hex ID (short code)|hexID|FZKSOHTSS241EP44X78P65EP32X5|
-|Name|name|Package_SO : HTSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm|
+|name|name|Package_SO : HTSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HTSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm', 'description': 'HTSSOP, 24 Pin (https://www.st.com/resource/en/datasheet/stp16cp05.pdf#page=25), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'HTSSOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/HTSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PinSocket_1x12_P1.00mm_Vertical_SMD_Pin1Left|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.00mm-PinSocket_1x12_P1.00mm_Vertical_SMD_Pin1Left|
 |Hex ID (short code)|hexID|FZKCNPINSO1PINSO1X12P1VERTICALSMPIN1LEFT|
-|Name|name|Connector_PinSocket_1.00mm : PinSocket_1x12_P1.00mm_Vertical_SMD_Pin1Left|
+|name|name|Connector_PinSocket_1.00mm : PinSocket_1x12_P1.00mm_Vertical_SMD_Pin1Left|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PinSocket_1x12_P1.00mm_Vertical_SMD_Pin1Left', 'description': 'surface-mounted straight socket strip, 1x12, 1.00mm pitch, single row, style 1 (pin 1 left) (https://gct.co/files/drawings/bc070.pdf), script generated', 'tags': 'Surface mounted socket strip SMD 1x12 1.00mm single row style1 pin1 left', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PinSocket_1.00mm.3dshapes/PinSocket_1x12_P1.00mm_Vertical_SMD_Pin1Left.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.00mm/PinSocket_1x12_P1.00mm_Vertical_SMD_Pin1Left/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.00mm/PinSocket_1x12_P1.00mm_Vertical_SMD_Pin1Left/kicadPcb3d_450.png

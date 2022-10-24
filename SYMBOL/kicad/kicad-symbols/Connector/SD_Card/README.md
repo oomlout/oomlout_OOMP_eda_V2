@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SD_Card|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-SD_Card|
 |Hex ID (short code)|hexID|SZKCNSDCARD|
-|Name|name|SD_Card|
+|name|name|SD_Card|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'SD_Card', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://portal.fciconnect.com/Comergent//fci/drawing/10067847.pdf', 'kicadSymbolki_keywords': 'connector SD', 'kicadSymbolki_description': 'SD Card Reader', 'kicadSymbolki_fp_filters': 'SD*'}]|
 ||||

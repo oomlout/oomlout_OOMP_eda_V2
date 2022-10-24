@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VEXP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VEXP|
 |Hex ID (short code)|hexID|SZKSIMULATIONSPICEVEXP|
-|Name|name|VEXP|
+|name|name|VEXP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'V', 'kicadSymbolValue': 'VEXP', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolSpice_Netlist_Enabled': 'Y', 'kicadSymbolSpice_Primitive': 'V', 'kicadSymbolSpice_Model': 'exp(0 1 2n 30n 60n 40n)', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Voltage source, exponential'}]|
 ||||

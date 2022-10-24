@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-45D-X-NF10-V50-CCN010|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-45D-X-NF10-V50-CCN010|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC45DXNF1V5CCN1|
-|Name|name|CAPC-45D-X-NF10-V50-CCN010|
+|name|name|CAPC-45D-X-NF10-V50-CCN010|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-45D-X-NF10-V50-CCN010', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-45D-X-NF10-V50-CCN010', 'kicadSymbolDatasheet': 'oom.lt/CCN010', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: CCN010;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

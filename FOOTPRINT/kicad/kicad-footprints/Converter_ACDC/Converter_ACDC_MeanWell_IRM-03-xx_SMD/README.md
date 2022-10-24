@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Converter_ACDC_MeanWell_IRM-03-xx_SMD|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_MeanWell_IRM-03-xx_SMD|
 |Hex ID (short code)|hexID|FZKCONCONMEANWELLIRM3XXSM|
-|Name|name|Converter_ACDC : Converter_ACDC_MeanWell_IRM-03-xx_SMD|
+|name|name|Converter_ACDC : Converter_ACDC_MeanWell_IRM-03-xx_SMD|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Converter_ACDC_MeanWell_IRM-03-xx_SMD', 'description': 'ACDC-Converter, 3W, Meanwell, IRM-03, SMD, http://www.meanwell.com/webapp/product/search.aspx?prod=IRM-03', 'tags': 'ACDC-Converter 3W', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_ACDC.3dshapes/Converter_ACDC_MeanWell_IRM-03-xx_SMD.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_MeanWell_IRM-03-xx_SMD/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_MeanWell_IRM-03-xx_SMD/kicadPcb3d_450.png

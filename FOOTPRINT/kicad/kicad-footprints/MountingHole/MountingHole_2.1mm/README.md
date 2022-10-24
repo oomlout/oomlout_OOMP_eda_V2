@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MountingHole_2.1mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.1mm|
 |Hex ID (short code)|hexID|FZKHOLHOL21|
-|Name|name|MountingHole : MountingHole_2.1mm|
+|name|name|MountingHole : MountingHole_2.1mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_2.1mm', 'description': 'Mounting Hole 2.1mm, no annular', 'tags': 'mounting hole 2.1mm no annular', 'attributeType': None, 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_2.1mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_2.1mm/kicadPcb3d_450.png

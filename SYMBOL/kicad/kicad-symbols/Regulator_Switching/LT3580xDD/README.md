@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT3580xDD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3580xDD|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLT358XDD|
-|Name|name|LT3580xDD|
+|name|name|LT3580xDD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT3580xDD', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.5mm_EP1.66x2.38mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/3580fg.pdf', 'kicadSymbolki_keywords': 'boost inverting dc-dc', 'kicadSymbolki_description': 'Boost/Inverting DC/DC Converter with 2A Switch, Soft-Start, and Synchronization, DFN-8', 'kicadSymbolki_fp_filters': 'DFN*1EP*3x3mm*P0.5mm*'}]|
 ||||

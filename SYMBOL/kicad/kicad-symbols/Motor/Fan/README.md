@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Fan|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Motor-Fan|
 |Hex ID (short code)|hexID|SZKMOTORFAN|
-|Name|name|Fan|
+|name|name|Fan|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'M', 'kicadSymbolValue': 'Fan', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'Fan Motor', 'kicadSymbolki_description': 'Fan', 'kicadSymbolki_fp_filters': 'PinHeader*P2.54mm* TerminalBlock*'}]|
 ||||

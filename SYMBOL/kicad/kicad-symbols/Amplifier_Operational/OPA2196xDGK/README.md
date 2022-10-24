@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA2196xDGK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2196xDGK|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA2196XDGK|
-|Name|name|OPA2196xDGK|
+|name|name|OPA2196xDGK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'OPA2197xDGK', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA2196xDGK', 'kicadSymbolFootprint': 'Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/opa4196.pdf', 'kicadSymbolki_keywords': 'dual opamp rtor', 'kicadSymbolki_description': 'Dual, Low-Power, Low Offset Voltage, Rail-to-Rail Operational Amplifier, VSSOP-8', 'kicadSymbolki_fp_filters': 'VSSOP*3.0x3.0mm*P0.65mm*'}]|
 ||||

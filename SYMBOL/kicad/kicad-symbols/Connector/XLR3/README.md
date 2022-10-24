@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XLR3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-XLR3|
 |Hex ID (short code)|hexID|SZKCNXLR3|
-|Name|name|XLR3|
+|name|name|XLR3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'XLR3', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'xlr connector', 'kicadSymbolki_description': 'XLR Connector, Male or Female, 3 Pins', 'kicadSymbolki_fp_filters': 'Jack*XLR*'}]|
 ||||

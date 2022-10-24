@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLV75801PDBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV75801PDBV|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTLV7581PDBV|
-|Name|name|TLV75801PDBV|
+|name|name|TLV75801PDBV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV75801PDBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/tlv758p.pdf', 'kicadSymbolki_keywords': 'ldo positive', 'kicadSymbolki_description': '500mA Low-Dropout Linear Regulator, Adjustable Output, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

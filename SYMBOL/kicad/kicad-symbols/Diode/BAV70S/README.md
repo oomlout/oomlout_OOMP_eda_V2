@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAV70S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAV70S|
 |Hex ID (short code)|hexID|SZKDIODEBAV7S|
-|Name|name|BAV70S|
+|name|name|BAV70S|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAV70S', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '100V 250mA high-speed switching diodes, dual common cathode, SOT-363', 'kicadSymbolki_fp_filters': 'SOT?363*'}]|
 ||||

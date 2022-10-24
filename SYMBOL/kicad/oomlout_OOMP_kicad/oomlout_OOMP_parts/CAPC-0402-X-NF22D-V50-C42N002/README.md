@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0402-X-NF22D-V50-C42N002|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF22D-V50-C42N002|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XNF22DV5C42N2|
-|Name|name|CAPC-0402-X-NF22D-V50-C42N002|
+|name|name|CAPC-0402-X-NF22D-V50-C42N002|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0402-X-NF22D-V50-C42N002', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0402-X-NF22D-V50-C42N002', 'kicadSymbolDatasheet': 'oom.lt/C42N002', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C42N002;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

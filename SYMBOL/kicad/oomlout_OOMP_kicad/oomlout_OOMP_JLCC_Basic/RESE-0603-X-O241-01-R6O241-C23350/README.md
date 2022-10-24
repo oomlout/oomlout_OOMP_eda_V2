@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O241-01-R6O241-C23350|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O241-01-R6O241-C23350|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE63XO2411R6O241C2335|
-|Name|name|RESE-0603-X-O241-01-R6O241-C23350|
+|name|name|RESE-0603-X-O241-01-R6O241-C23350|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O241-01-R6O241-C23350', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O241-01-R6O241-C23350', 'kicadSymbolDatasheet': 'oom.lt/R6O241', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6O241;PARTL C-JLCC;C23350;MANUF C-XXXX;0603WAF2400T5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

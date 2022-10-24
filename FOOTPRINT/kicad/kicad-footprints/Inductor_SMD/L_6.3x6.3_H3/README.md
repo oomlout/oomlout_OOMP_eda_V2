@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_6.3x6.3_H3|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_6.3x6.3_H3|
 |Hex ID (short code)|hexID|FZKINDUCTORSML63X63H3|
-|Name|name|Inductor_SMD : L_6.3x6.3_H3|
+|name|name|Inductor_SMD : L_6.3x6.3_H3|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_6.3x6.3_H3', 'description': 'Choke, SMD, 6.3x6.3mm 3mm height', 'tags': 'Choke SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_6.3x6.3_H3.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_6.3x6.3_H3/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_6.3x6.3_H3/kicadPcb3d_450.png

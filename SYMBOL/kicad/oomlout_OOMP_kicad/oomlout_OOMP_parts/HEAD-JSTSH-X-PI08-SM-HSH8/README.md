@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-JSTSH-X-PI08-SM-HSH8|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI08-SM-HSH8|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI8SMHSH8|
-|Name|name|HEAD-JSTSH-X-PI08-SM-HSH8|
+|name|name|HEAD-JSTSH-X-PI08-SM-HSH8|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HEAD-JSTSH-X-PI08-SM-HSH8', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:HEAD-JSTSH-X-PI08-SM-HSH8', 'kicadSymbolDatasheet': 'oom.lt/HSH8', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'hexID: HSH8;Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_1x??_*'}]|
 ||||

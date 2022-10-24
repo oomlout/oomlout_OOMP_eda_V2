@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1248|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-LT1248|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERLT1248|
-|Name|name|LT1248|
+|name|name|LT1248|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1248', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1248fd.pdf', 'kicadSymbolki_keywords': 'pfc controller', 'kicadSymbolki_description': 'Power Factor Controller, DIP-16/SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*16*3.9x9.9mm*P1.27mm* DIP*16*W7.62mm*'}]|
 ||||

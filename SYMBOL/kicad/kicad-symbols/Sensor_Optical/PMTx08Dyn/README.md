@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PMTx08Dyn|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-PMTx08Dyn|
 |Hex ID (short code)|hexID|SZKSENOPTICALPMTX8DYN|
-|Name|name|PMTx08Dyn|
+|name|name|PMTx08Dyn|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'PMT', 'kicadSymbolValue': 'PMTx08Dyn', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'PMT 8-stage', 'kicadSymbolki_description': '8-stage photomultiplier tube', 'kicadSymbolki_fp_filters': 'PMT*'}]|
 ||||

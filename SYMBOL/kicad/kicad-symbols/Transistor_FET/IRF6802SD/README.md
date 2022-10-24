@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF6802SD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6802SD|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF682SD|
-|Name|name|IRF6802SD|
+|name|name|IRF6802SD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF6802SD', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_SA', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irf6802sdpbf.pdf?fileId=5546d462533600a4015355f0a3021ab2', 'kicadSymbolki_keywords': 'Dual N-Channel MOSFET', 'kicadSymbolki_description': '16A Id, 25V Vds, 4.2mOhm Rds, Dual N-Channel MOSFET, DirectFET SA', 'kicadSymbolki_fp_filters': 'DirectFET*SA*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|1N5402|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-1N5402|
 |Hex ID (short code)|hexID|SZKDIODE1N542|
-|Name|name|1N5402|
+|name|name|1N5402|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N4001', 'kicadSymbolReference': 'D', 'kicadSymbolValue': '1N5402', 'kicadSymbolFootprint': 'Diode_THT:D_DO-201AD_P15.24mm_Horizontal', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/88516/1n5400.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '200V 3A General Purpose Rectifier Diode, DO-201AD', 'kicadSymbolki_fp_filters': 'D*DO?201AD*'}]|
 ||||

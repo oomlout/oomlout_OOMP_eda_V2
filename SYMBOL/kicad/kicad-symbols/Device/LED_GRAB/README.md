@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_GRAB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_GRAB|
 |Hex ID (short code)|hexID|SZKDEVICELGRAB|
-|Name|name|LED_GRAB|
+|name|name|LED_GRAB|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_GRAB', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED RGB diode', 'kicadSymbolki_description': 'RGB LED, green/red/anode/blue', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

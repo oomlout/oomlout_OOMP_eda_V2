@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AS3360|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-AS3360|
 |Hex ID (short code)|hexID|SZKAUDIOAS336|
-|Name|name|AS3360|
+|name|name|AS3360|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AS3360', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.alfarzpp.lv/eng/sc/AS3360.pdf', 'kicadSymbolki_keywords': 'VCA CEM3360 ALFA', 'kicadSymbolki_description': 'Dual Voltage Controlled Amplifier (VCA), DIP-14/SOIC-14', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x8.7mm*P1.27mm*'}]|
 ||||

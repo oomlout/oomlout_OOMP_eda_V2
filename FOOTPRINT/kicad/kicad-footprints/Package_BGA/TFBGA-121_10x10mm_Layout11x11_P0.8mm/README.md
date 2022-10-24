@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TFBGA-121_10x10mm_Layout11x11_P0.8mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-TFBGA-121_10x10mm_Layout11x11_P0.8mm|
 |Hex ID (short code)|hexID|FZKBGATFBGA1211X1LAYOUT11X11P8|
-|Name|name|Package_BGA : TFBGA-121_10x10mm_Layout11x11_P0.8mm|
+|name|name|Package_BGA : TFBGA-121_10x10mm_Layout11x11_P0.8mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TFBGA-121_10x10mm_Layout11x11_P0.8mm', 'description': 'TFBGA-121, 11x11 raster, 10x10mm package, pitch 0.8mm; http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#p495', 'tags': 'BGA 121 0.8', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/TFBGA-121_10x10mm_Layout11x11_P0.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/TFBGA-121_10x10mm_Layout11x11_P0.8mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_BGA/TFBGA-121_10x10mm_Layout11x11_P0.8mm/kicadPcb3d_450.png

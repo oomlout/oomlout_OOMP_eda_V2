@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC7A200T-FFG1156|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Artix7-XC7A200T-FFG1156|
 |Hex ID (short code)|hexID|SZKFPGAXILINXARTIX7XC7A2TFFG1156|
-|Name|name|XC7A200T-FFG1156|
+|name|name|XC7A200T-FFG1156|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC7A200T-FFG1156', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Artix 7 T 200 XC7A200T-FFG1156'}]|
 ||||

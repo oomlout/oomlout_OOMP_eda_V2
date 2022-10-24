@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Conn_01x37_Female|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x37_Female|
 |Hex ID (short code)|hexID|SZKCNCONN1X37FEMALE|
-|Name|name|Conn_01x37_Female|
+|name|name|Conn_01x37_Female|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Conn_01x37_Female', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'Generic connector, single row, 01x37, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_1x??_*'}]|
 ||||

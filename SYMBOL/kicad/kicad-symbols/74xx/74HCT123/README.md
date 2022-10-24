@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74HCT123|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74HCT123|
 |Hex ID (short code)|hexID|SZK74XX74HCT123|
-|Name|name|74HCT123|
+|name|name|74HCT123|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LS123', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74HCT123', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/74HC_HCT123.pdf', 'kicadSymbolki_keywords': 'TTL monostable, multivibrator', 'kicadSymbolki_description': 'Dual retriggerable monostable multivibrator', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

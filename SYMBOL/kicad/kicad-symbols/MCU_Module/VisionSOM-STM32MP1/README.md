@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VisionSOM-STM32MP1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Module-VisionSOM-STM32MP1|
 |Hex ID (short code)|hexID|SZKMCUMOVISIONSOMSTM32MP1|
-|Name|name|VisionSOM-STM32MP1|
+|name|name|VisionSOM-STM32MP1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'VisionSOM-STM32MP1', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://wiki.somlabs.com/index.php/VisionSOM-STM32MP1_Datasheet_and_Pinout', 'kicadSymbolki_keywords': 'somlabs module', 'kicadSymbolki_description': 'STM32MP1 STMicroelectronics ARM Cortex-A7 800MHz single/dual core + ARM Cortex-M4 209MHz single core industrial SoM computer', 'kicadSymbolki_fp_filters': '*SODIMM*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Taiyo-Yuden_MD-2020|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Taiyo-Yuden_MD-2020|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLTAIYOYUDENMD22|
-|Name|name|Inductor_SMD : L_Taiyo-Yuden_MD-2020|
+|name|name|Inductor_SMD : L_Taiyo-Yuden_MD-2020|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Taiyo-Yuden_MD-2020', 'description': 'Inductor, Taiyo Yuden, MD series, Taiyo-Yuden_MD-2020, 2.0mmx2.0mm', 'tags': 'inductor taiyo-yuden md smd', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Taiyo-Yuden_MD-2020.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Taiyo-Yuden_MD-2020/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Taiyo-Yuden_MD-2020/kicadPcb3d_450.png

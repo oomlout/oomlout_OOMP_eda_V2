@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|D_MELF|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MELF|
 |Hex ID (short code)|hexID|FZKDIODESMDMELF|
-|Name|name|Diode_SMD : D_MELF|
+|name|name|Diode_SMD : D_MELF|
 |Footprint Kicad|footprintKicadDetails|{'name': 'D_MELF', 'description': 'Diode, MELF,,', 'tags': 'Diode MELF ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_MELF.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_MELF/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_MELF/kicadPcb3d_450.png

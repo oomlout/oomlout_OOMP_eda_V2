@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS79330-EP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS79330-EP|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTPS7933EP|
-|Name|name|TPS79330-EP|
+|name|name|TPS79330-EP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS79318-EP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS79330-EP', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps79333-ep.pdf', 'kicadSymbolki_keywords': 'LDO Voltage Regulator 200mA', 'kicadSymbolki_description': '200mA UltraLow-Noise, High-Precision, Fast RF, Low Drop-out Voltage Regulator, Fixed Output 3.0V, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

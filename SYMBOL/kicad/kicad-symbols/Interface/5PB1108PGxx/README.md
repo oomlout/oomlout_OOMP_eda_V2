@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|5PB1108PGxx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-5PB1108PGxx|
 |Hex ID (short code)|hexID|SZKINTERFACE5PB118PGXX|
-|Name|name|5PB1108PGxx|
+|name|name|5PB1108PGxx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '5PB1108PGxx', 'kicadSymbolFootprint': 'Package_SO:TSSOP-16_4.4x5mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.idt.com/document/dst/5pb11xx-datasheet', 'kicadSymbolki_keywords': 'clock buffer lvcmos', 'kicadSymbolki_description': '1:8 LVCMOS High-Performance Clock Buffer, 1.8V to 3.3V, TSSOP-16', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x5mm*P0.65mm*'}]|
 ||||

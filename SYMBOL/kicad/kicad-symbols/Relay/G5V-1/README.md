@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|G5V-1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-G5V-1|
 |Hex ID (short code)|hexID|SZKRELAYG5V1|
-|Name|name|G5V-1|
+|name|name|G5V-1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'G5V-1', 'kicadSymbolFootprint': 'Relay_THT:Relay_SPDT_Omron_G5V-1', 'kicadSymbolDatasheet': 'http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5v_1.pdf', 'kicadSymbolki_keywords': 'Single Pole Relay SPDT', 'kicadSymbolki_description': 'Ultra-miniature, Highly Sensitive SPDT Relay for Signal Circuits', 'kicadSymbolki_fp_filters': 'Relay*SPDT*Omron*G5V?1*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|S2JTR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-S2JTR|
 |Hex ID (short code)|hexID|SZKDIODES2JTR|
-|Name|name|S2JTR|
+|name|name|S2JTR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'S2JTR', 'kicadSymbolFootprint': 'Diode_SMD:D_SMB', 'kicadSymbolDatasheet': 'http://www.smc-diodes.com/propdf/S2A-S2M%20N0562%20REV.A.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '600V 2A General Purpose Rectifier Diode, SMB', 'kicadSymbolki_fp_filters': '*D?SMB*'}]|
 ||||

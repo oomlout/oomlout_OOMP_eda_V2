@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Q_NPN_Darlington_BCEC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Q_NPN_Darlington_BCEC|
 |Hex ID (short code)|hexID|SZKDEVICEQNPNDARLINGTONBCEC|
-|Name|name|Q_NPN_Darlington_BCEC|
+|name|name|Q_NPN_Darlington_BCEC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Q_NPN_Darlington_BCEC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'transistor NPN Darlington', 'kicadSymbolki_description': 'NPN Darlington transistor, base/collector/emitter, collector connected to mounting plane'}]|
 ||||

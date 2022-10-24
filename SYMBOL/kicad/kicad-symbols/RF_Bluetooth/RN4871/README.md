@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RN4871|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Bluetooth-RN4871|
 |Hex ID (short code)|hexID|SZKRFBLUETOOTHRN4871|
-|Name|name|RN4871|
+|name|name|RN4871|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'RN4871', 'kicadSymbolFootprint': 'RF_Module:Microchip_RN4871', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/50002489A.pdf', 'kicadSymbolki_keywords': 'Bluetooth Low Energy 4.2 Module', 'kicadSymbolki_description': 'Bluetooth Low Energy 4.2 Module', 'kicadSymbolki_fp_filters': 'RF*Module:Microchip*RN4871*'}]|
 ||||

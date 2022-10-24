@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CH340G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-CH340G|
 |Hex ID (short code)|hexID|SZKINTERFACEUCH34G|
-|Name|name|CH340G|
+|name|name|CH340G|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CH340G', 'kicadSymbolFootprint': 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.datasheet5.com/pdf-local-2195953', 'kicadSymbolki_keywords': 'USB UART Serial Converter Interface', 'kicadSymbolki_description': 'USB serial converter, UART, SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*3.9x9.9mm*P1.27mm*'}]|
 ||||

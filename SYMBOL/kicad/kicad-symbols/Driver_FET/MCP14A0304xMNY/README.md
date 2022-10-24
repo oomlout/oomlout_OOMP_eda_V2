@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP14A0304xMNY|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-MCP14A0304xMNY|
 |Hex ID (short code)|hexID|SZKDRIVERFETMCP14A34XMNY|
-|Name|name|MCP14A0304xMNY|
+|name|name|MCP14A0304xMNY|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP14A0304xMNY', 'kicadSymbolFootprint': 'Package_DFN_QFN:WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/MCP14A0303_4_5-Data-Sheet-20006046A.pdf', 'kicadSymbolki_keywords': 'Driver, Dual MOSFET', 'kicadSymbolki_description': 'Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8', 'kicadSymbolki_fp_filters': 'WDFN*1EP*3x2mm*P0.5mm*EP1.3x1.4mm*'}]|
 ||||

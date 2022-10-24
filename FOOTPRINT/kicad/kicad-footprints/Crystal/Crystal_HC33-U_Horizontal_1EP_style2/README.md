@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Crystal_HC33-U_Horizontal_1EP_style2|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC33-U_Horizontal_1EP_style2|
 |Hex ID (short code)|hexID|FZKXXHC33UHORIZONTAL1EPSTYLE2|
-|Name|name|Crystal : Crystal_HC33-U_Horizontal_1EP_style2|
+|name|name|Crystal : Crystal_HC33-U_Horizontal_1EP_style2|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_HC33-U_Horizontal_1EP_style2', 'description': 'Crystal THT HC-33/U http://pdi.bentech-taiwan.com/PDI/GEN20SPEV20HC3320U.pdf', 'tags': 'THT crystal', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC33-U_Horizontal_1EP_style2.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_HC33-U_Horizontal_1EP_style2/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_HC33-U_Horizontal_1EP_style2/kicadPcb3d_450.png

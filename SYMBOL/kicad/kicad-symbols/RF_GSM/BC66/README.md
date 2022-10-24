@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|BC66|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_GSM-BC66|
 |Hex ID (short code)|hexID|SZKGSMBC66|
-|Name|name|BC66|
+|name|name|BC66|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BC66', 'kicadSymbolFootprint': 'RF_GSM:Quectel_BC66', 'kicadSymbolDatasheet': 'https://www.quectel.com/UploadImage/Downlad/Quectel_BC66_Hardware_Design_V1.1.pdf', 'kicadSymbolki_keywords': 'NB-IoT Data SMS', 'kicadSymbolki_description': 'Quectel NB-IoT Global, AT Command Set', 'kicadSymbolki_fp_filters': 'Quectel*BC66*'}]|
 ||||

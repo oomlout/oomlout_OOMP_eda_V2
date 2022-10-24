@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Filter_SAW-8_3.8x3.8mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Filter-Filter_SAW-8_3.8x3.8mm|
 |Hex ID (short code)|hexID|FZKFILFILSAW838X38|
-|Name|name|Filter : Filter_SAW-8_3.8x3.8mm|
+|name|name|Filter : Filter_SAW-8_3.8x3.8mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Filter_SAW-8_3.8x3.8mm', 'description': '8-pin 3.8x3.8mm SAW filter, https://www.golledge.com/media/1831/ma05497.pdf', 'tags': 'SAW filter 8-pin', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_SAW-8_3.8x3.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Filter/Filter_SAW-8_3.8x3.8mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Filter/Filter_SAW-8_3.8x3.8mm/kicadPcb3d_450.png

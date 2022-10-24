@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|B360|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-B360|
 |Hex ID (short code)|hexID|SZKDIODEB36|
-|Name|name|B360|
+|name|name|B360|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'B320', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'B360', 'kicadSymbolFootprint': 'Diode_SMD:D_SMC', 'kicadSymbolDatasheet': 'http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '60V 3A Schottky Barrier Rectifier Diode, SMC', 'kicadSymbolki_fp_filters': 'D*SMC*'}]|
 ||||

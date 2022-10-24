@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Toroid_Vertical_L28.6mm_W14.3mm_P11.43mm_Bourns_5700|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L28.6mm_W14.3mm_P11.43mm_Bourns_5700|
 |Hex ID (short code)|hexID|FZKINLTOROIDVERTICALL286W143P1143BOURNS57|
-|Name|name|Inductor_THT : L_Toroid_Vertical_L28.6mm_W14.3mm_P11.43mm_Bourns_5700|
+|name|name|Inductor_THT : L_Toroid_Vertical_L28.6mm_W14.3mm_P11.43mm_Bourns_5700|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Toroid_Vertical_L28.6mm_W14.3mm_P11.43mm_Bourns_5700', 'description': 'L_Toroid, Vertical series, Radial, pin pitch=11.43mm, , length*width=28.6*14.3mm^2, Bourns, 5700, http://www.bourns.com/docs/Product-Datasheets/5700_series.pdf', 'tags': 'L_Toroid Vertical series Radial pin pitch 11.43mm  length 28.6mm width 14.3mm Bourns 5700', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Vertical_L28.6mm_W14.3mm_P11.43mm_Bourns_5700.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L28.6mm_W14.3mm_P11.43mm_Bourns_5700/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L28.6mm_W14.3mm_P11.43mm_Bourns_5700/kicadPcb3d_450.png

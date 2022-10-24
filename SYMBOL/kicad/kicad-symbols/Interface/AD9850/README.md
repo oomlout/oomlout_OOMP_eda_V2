@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD9850|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-AD9850|
 |Hex ID (short code)|hexID|SZKINTERFACEAD985|
-|Name|name|AD9850|
+|name|name|AD9850|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD9850', 'kicadSymbolFootprint': 'Package_SO:SSOP-28_5.3x10.2mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD9850.pdf', 'kicadSymbolki_keywords': 'DDS direct digital synthesizer', 'kicadSymbolki_description': 'CMOS, 125 MHz, Complete DDS Synthesizer, SSOP-28', 'kicadSymbolki_fp_filters': 'SSOP*5.3x10.2mm*P0.65mm*'}]|
 ||||

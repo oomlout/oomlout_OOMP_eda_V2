@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC2990|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor-LTC2990|
 |Hex ID (short code)|hexID|SZKSENLTC299|
-|Name|name|LTC2990|
+|name|name|LTC2990|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC2990', 'kicadSymbolFootprint': 'Package_SO:MSOP-10_3x3mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ltc2990.pdf', 'kicadSymbolki_keywords': 'Temperature Voltage Current Monitor I2C AFE', 'kicadSymbolki_description': 'Temperature Voltage and Current Monitor, I2C Interface, MSOP-10', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.5mm*'}]|
 ||||

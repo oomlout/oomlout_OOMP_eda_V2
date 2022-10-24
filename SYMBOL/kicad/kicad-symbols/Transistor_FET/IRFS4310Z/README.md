@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRFS4310Z|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFS4310Z|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRFS431Z|
-|Name|name|IRFS4310Z|
+|name|name|IRFS4310Z|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STB15N80K5', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRFS4310Z', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-2', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irfb4310zpbf.pdf?fileId=5546d462533600a4015356161b4d1e2d', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '120A Id, 100V Vds, 4.8mOhm Rds, N-Channel HEXFET Power MOSFET, D2PAK', 'kicadSymbolki_fp_filters': 'TO?263*'}]|
 ||||

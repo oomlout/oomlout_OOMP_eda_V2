@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Fuse_Littelfuse_395Series|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Littelfuse_395Series|
 |Hex ID (short code)|hexID|FZKFUFULITTELFU395SERIES|
-|Name|name|Fuse : Fuse_Littelfuse_395Series|
+|name|name|Fuse : Fuse_Littelfuse_395Series|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Fuse_Littelfuse_395Series', 'description': 'Fuse, TE5, Littelfuse/Wickmann, No. 460, No560,', 'tags': 'Fuse TE5 Littelfuse/Wickmann No. 460 No560 ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Littelfuse_395Series.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Littelfuse_395Series/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Littelfuse_395Series/kicadPcb3d_450.png

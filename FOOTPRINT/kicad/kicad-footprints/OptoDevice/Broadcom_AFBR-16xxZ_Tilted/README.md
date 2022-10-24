@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Broadcom_AFBR-16xxZ_Tilted|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_AFBR-16xxZ_Tilted|
 |Hex ID (short code)|hexID|FZKOPBROADCOMAFBR16XXZTILTED|
-|Name|name|OptoDevice : Broadcom_AFBR-16xxZ_Tilted|
+|name|name|OptoDevice : Broadcom_AFBR-16xxZ_Tilted|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Broadcom_AFBR-16xxZ_Tilted', 'description': 'Fiber Optic Transmitter and Receiver, https://docs.broadcom.com/docs/AV02-4369EN', 'tags': 'Fiber Optic Transmitter and Receiver', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Broadcom_AFBR-16xxZ_Tilted.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_AFBR-16xxZ_Tilted/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_AFBR-16xxZ_Tilted/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MPMOS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-pspice-MPMOS|
 |Hex ID (short code)|hexID|SZKPSPICEMPMOS|
-|Name|name|MPMOS|
+|name|name|MPMOS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'M', 'kicadSymbolValue': 'MPMOS', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'mosfet pmos simulation', 'kicadSymbolki_description': 'P-channel MOSFET symbol for simulation only'}]|
 ||||

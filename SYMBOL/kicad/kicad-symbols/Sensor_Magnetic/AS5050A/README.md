@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AS5050A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5050A|
 |Hex ID (short code)|hexID|SZKSENMAGNETICAS55A|
-|Name|name|AS5050A|
+|name|name|AS5050A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AS5055A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AS5050A', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm_PullBack', 'kicadSymbolDatasheet': 'https://ams.com/documents/20143/36005/AS5055A_DS000304_2-00.pdf', 'kicadSymbolki_keywords': 'sensor magnetic hall position rotation spi', 'kicadSymbolki_description': 'Magnetic position sensor, 10-bit, SPI interface, QFN-16', 'kicadSymbolki_fp_filters': 'QFN*1EP*4x4mm*P0.65mm*PullBack*'}]|
 ||||

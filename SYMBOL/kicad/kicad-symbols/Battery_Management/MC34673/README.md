@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC34673|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-MC34673|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTMC34673|
-|Name|name|MC34673|
+|name|name|MC34673|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC34673', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.45mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/docs/en/data-sheet/MC34673.pdf', 'kicadSymbolki_keywords': 'Lithium-Ion Battery Charger', 'kicadSymbolki_description': 'High Input Voltage 1.2A Charger for Single-cell Li-Ion Batteries, UDFN-8', 'kicadSymbolki_fp_filters': 'DFN*3x2mm*P0.5mm*'}]|
 ||||

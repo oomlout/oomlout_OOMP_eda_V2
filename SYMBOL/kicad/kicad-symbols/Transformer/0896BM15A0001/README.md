@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|0896BM15A0001|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-0896BM15A0001|
 |Hex ID (short code)|hexID|SZKTR896BM15A1|
-|Name|name|0896BM15A0001|
+|name|name|0896BM15A0001|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '0896BM15A0001', 'kicadSymbolFootprint': 'RF_Converter:Balun_Johanson_0896BM15A0001', 'kicadSymbolDatasheet': 'https://www.johansontechnology.com/datasheets/0896BM15A0001/0896BM15A0001.pdf', 'kicadSymbolki_keywords': 'balun rf transformer', 'kicadSymbolki_description': '863-928MHz 1:1 RF Transformer, Unbalanced to Balanced', 'kicadSymbolki_fp_filters': 'Balun*Johanson*0896BM15A0001*'}]|
 ||||

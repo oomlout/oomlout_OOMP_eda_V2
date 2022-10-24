@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RaspberryPi-CM1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Module-RaspberryPi-CM1|
 |Hex ID (short code)|hexID|SZKMCUMORASPBERRYPICM1|
-|Name|name|RaspberryPi-CM1|
+|name|name|RaspberryPi-CM1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'RaspberryPi-CM1', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.raspberrypi.org/documentation/hardware/computemodule/datasheets/rpi_DATA_CM_1p0.pdf', 'kicadSymbolki_keywords': 'raspberry pi compute module', 'kicadSymbolki_description': 'BCM2835 Broadcom 700 MZ single core, 512 MB RAM 4 GB eMMC, industrial SoM computer', 'kicadSymbolki_fp_filters': '*SODIMM*'}]|
 ||||

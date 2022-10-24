@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BSB012NE2LXI|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB012NE2LXI|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBSB12NE2LXI|
-|Name|name|BSB012NE2LXI|
+|name|name|BSB012NE2LXI|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSB008NE2LX', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BSB012NE2LXI', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_MX', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-BSB012NE2LXI-DS-v02_01-EN.pdf?fileId=db3a30433f764301013f805e3eb247c1', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '170A Id, 25V Vds, 1.2mOhm Rds, N-Channel MOSFET, DirectFET MX', 'kicadSymbolki_fp_filters': 'DirectFET*MX*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPD8F003|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-TPD8F003|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONTPD8F3|
-|Name|name|TPD8F003|
+|name|name|TPD8F003|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPD8F003', 'kicadSymbolFootprint': 'Package_SON:WSON-16_3.3x1.35_P0.4mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tpd6f003.pdf', 'kicadSymbolki_keywords': 'EMI, ESD protection', 'kicadSymbolki_description': '8 channel EMI filters with integrated ESD protection', 'kicadSymbolki_fp_filters': 'WSON*3.3x1.35*P0.4mm*'}]|
 ||||

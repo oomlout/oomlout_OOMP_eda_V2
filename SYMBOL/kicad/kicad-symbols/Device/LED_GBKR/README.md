@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_GBKR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_GBKR|
 |Hex ID (short code)|hexID|SZKDEVICELGBKR|
-|Name|name|LED_GBKR|
+|name|name|LED_GBKR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_GBKR', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED RGB diode', 'kicadSymbolki_description': 'RGB LED, green/blue/cathode/red', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

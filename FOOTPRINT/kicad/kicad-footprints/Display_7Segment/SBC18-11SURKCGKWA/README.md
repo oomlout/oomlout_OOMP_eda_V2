@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SBC18-11SURKCGKWA|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-SBC18-11SURKCGKWA|
 |Hex ID (short code)|hexID|FZKDI7SSBC1811SURKCGKWA|
-|Name|name|Display_7Segment : SBC18-11SURKCGKWA|
+|name|name|Display_7Segment : SBC18-11SURKCGKWA|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SBC18-11SURKCGKWA', 'description': 'http://www.kingbright.com/attachments/file/psearch/000/00/00/SBC18-11SURKCGKWA(Ver.6A).pdf', 'tags': 'single digit 7 segemnt red/green LED', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/SBC18-11SURKCGKWA.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/SBC18-11SURKCGKWA/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Display_7Segment/SBC18-11SURKCGKWA/kicadPcb3d_450.png

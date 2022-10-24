@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ESP32-S2-WROVER|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-ESP32-S2-WROVER|
 |Hex ID (short code)|hexID|FZKRFMOESP32S2WROVER|
-|Name|name|RF_Module : ESP32-S2-WROVER|
+|name|name|RF_Module : ESP32-S2-WROVER|
 |Footprint Kicad|footprintKicadDetails|{'name': 'ESP32-S2-WROVER', 'description': 'ESP32-S2-WROVER(-I) 2.4 GHz Wi-Fi https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf', 'tags': 'ESP32-S2  ESP32  WIFI', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/ESP32-S2-WROVER.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

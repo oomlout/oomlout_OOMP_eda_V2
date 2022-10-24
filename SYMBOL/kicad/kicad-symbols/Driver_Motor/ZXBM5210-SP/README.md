@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ZXBM5210-SP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-ZXBM5210-SP|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORZXBM521SP|
-|Name|name|ZXBM5210-SP|
+|name|name|ZXBM5210-SP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ZXBM5210-SP', 'kicadSymbolFootprint': 'Package_SO:Diodes_SO-8EP', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/ZXBM5210.pdf', 'kicadSymbolki_keywords': 'H-bridge, motor driver, PWM, single coil', 'kicadSymbolki_description': 'Reversible DC motor drive with speed control, 3-18V, 0.85A, SOIC-8EP', 'kicadSymbolki_fp_filters': 'Diodes*SO*EP*'}]|
 ||||

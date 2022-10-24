@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74AHCT1G00|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-74AHCT1G00|
 |Hex ID (short code)|hexID|SZK74XGXX74AHCT1G|
-|Name|name|74AHCT1G00|
+|name|name|74AHCT1G00|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LVC1G00', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AHCT1G00', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf', 'kicadSymbolki_keywords': 'Single Gate NAND LVC CMOS', 'kicadSymbolki_description': 'Single NAND Gate, Low-Voltage CMOS', 'kicadSymbolki_fp_filters': 'SOT* SG-*'}]|
 ||||

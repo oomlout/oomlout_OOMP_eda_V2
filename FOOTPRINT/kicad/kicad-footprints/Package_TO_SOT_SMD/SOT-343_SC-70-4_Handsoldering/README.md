@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOT-343_SC-70-4_Handsoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-343_SC-70-4_Handsoldering|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT343SC74HANDSOLDERING|
-|Name|name|Package_TO_SOT_SMD : SOT-343_SC-70-4_Handsoldering|
+|name|name|Package_TO_SOT_SMD : SOT-343_SC-70-4_Handsoldering|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOT-343_SC-70-4_Handsoldering', 'description': 'SOT-343, SC-70-4, Handsoldering', 'tags': 'SOT-343 SC-70-4 Handsoldering', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-343_SC-70-4.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-343_SC-70-4_Handsoldering/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-343_SC-70-4_Handsoldering/kicadPcb3d_450.png

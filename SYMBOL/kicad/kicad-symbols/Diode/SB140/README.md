@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SB140|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-SB140|
 |Hex ID (short code)|hexID|SZKDIODESB14|
-|Name|name|SB140|
+|name|name|SB140|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SB120', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SB140', 'kicadSymbolFootprint': 'Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal', 'kicadSymbolDatasheet': 'http://www.diodes.com/_files/datasheets/ds23022.pdf', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '40V 1A Schottky Barrier Rectifier Diode, DO-41', 'kicadSymbolki_fp_filters': 'D*DO?41*'}]|
 ||||

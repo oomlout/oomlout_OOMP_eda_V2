@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Mini-Circuits_FG873-4_3x3mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Mini-Circuits_FG873-4_3x3mm|
 |Hex ID (short code)|hexID|FZKDFNMCIRCUITSFG87343X3|
-|Name|name|Package_DFN_QFN : Mini-Circuits_FG873-4_3x3mm|
+|name|name|Package_DFN_QFN : Mini-Circuits_FG873-4_3x3mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Mini-Circuits_FG873-4_3x3mm', 'description': 'Mini Circuits Case style FG (https://ww2.minicircuits.com/case_style/FG873.pdf)', 'tags': 'FG873', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Mini-Circuits_FG873-4_3x3mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Mini-Circuits_FG873-4_3x3mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Mini-Circuits_FG873-4_3x3mm/kicadPcb3d_450.png

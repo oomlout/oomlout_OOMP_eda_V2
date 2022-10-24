@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HMC213A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Mixer-HMC213A|
 |Hex ID (short code)|hexID|SZKRFMIXERHMC213A|
-|Name|name|HMC213A|
+|name|name|HMC213A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HMC213A', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/hmc213a.pdf', 'kicadSymbolki_keywords': 'mixer active', 'kicadSymbolki_description': '1.5-4.5GHz double-balanced mixer, MS8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Crystal_HC18-U_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC18-U_Horizontal|
 |Hex ID (short code)|hexID|FZKXXHC18UHORIZONTAL|
-|Name|name|Crystal : Crystal_HC18-U_Horizontal|
+|name|name|Crystal : Crystal_HC18-U_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_HC18-U_Horizontal', 'description': 'Crystal THT HC-18/U http://5hertz.com/pdfs/04404_D.pdf', 'tags': 'THT crystal', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC18-U_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_HC18-U_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_HC18-U_Horizontal/kicadPcb3d_450.png

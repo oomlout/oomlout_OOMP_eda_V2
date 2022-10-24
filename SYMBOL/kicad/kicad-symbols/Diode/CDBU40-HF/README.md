@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CDBU40-HF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-CDBU40-HF|
 |Hex ID (short code)|hexID|SZKDIODECDBU4HF|
-|Name|name|CDBU40-HF|
+|name|name|CDBU40-HF|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'B120-E3', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'CDBU40-HF', 'kicadSymbolFootprint': 'Diode_SMD:D_0603_1608Metric', 'kicadSymbolDatasheet': 'https://www.comchiptech.com/admin/files/product/QW-G1012-CDBU40-HF-RevA321692.pdf', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '40V 200mA Schottky Barrier Rectifier Diode, 0603', 'kicadSymbolki_fp_filters': 'D*0603*'}]|
 ||||

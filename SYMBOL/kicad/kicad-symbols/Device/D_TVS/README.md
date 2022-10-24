@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_TVS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_TVS|
 |Hex ID (short code)|hexID|SZKDEVICEDTVS|
-|Name|name|D_TVS|
+|name|name|D_TVS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_TVS', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'diode TVS thyrector', 'kicadSymbolki_description': 'Bidirectional transient-voltage-suppression diode', 'kicadSymbolki_fp_filters': 'TO-???* *_Diode_* *SingleDiode* D_*'}]|
 ||||

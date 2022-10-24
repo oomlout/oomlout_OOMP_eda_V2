@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ISD2560P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-ISD2560P|
 |Hex ID (short code)|hexID|SZKAUDIOISD256P|
-|Name|name|ISD2560P|
+|name|name|ISD2560P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ISD2560P', 'kicadSymbolFootprint': 'Package_DIP:DIP-28_W15.24mm', 'kicadSymbolDatasheet': 'https://datasheetspdf.com/pdf-file/700027/Winbond/ISD2560/1', 'kicadSymbolki_keywords': 'isd2560', 'kicadSymbolki_description': 'Single-Chip Voice Record/Playback Device 60-Second Duration, DIP-28', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

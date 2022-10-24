@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TC1054|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1054|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTC154|
-|Name|name|TC1054|
+|name|name|TC1054|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TC1054', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/21350E.pdf', 'kicadSymbolki_keywords': 'LDO regulator voltage', 'kicadSymbolki_description': '50mA Low Dropout Regulator with ERROR output in 5-Pin SOT-23 package', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

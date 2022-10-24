@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC6845|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-GPU-MC6845|
 |Hex ID (short code)|hexID|SZKGPUMC6845|
-|Name|name|MC6845|
+|name|name|MC6845|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC6845', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://pdf.datasheetcatalog.com/datasheet_pdf/motorola/MC6845L_and_MC6845P.pdf', 'kicadSymbolki_keywords': 'CRT controller', 'kicadSymbolki_description': 'CRT Controller 1MHz, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MSOP-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-MSOP-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKSOMS161EP3X4P5EP165X285THERMALVIAS|
-|Name|name|Package_SO : MSOP-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm_ThermalVias|
+|name|name|Package_SO : MSOP-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MSOP-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm_ThermalVias', 'description': 'MSOP, 16 Pin (http://cds.linear.com/docs/en/datasheet/37551fd.pdf#page=23), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'MSOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm_ThermalVias/kicadPcb3d_450.png

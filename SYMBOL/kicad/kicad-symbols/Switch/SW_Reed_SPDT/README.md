@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_Reed_SPDT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_Reed_SPDT|
 |Hex ID (short code)|hexID|SZKSWITCHSWREEDSPDT|
-|Name|name|SW_Reed_SPDT|
+|name|name|SW_Reed_SPDT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_Reed_SPDT', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'reed magnetic switch SPDT', 'kicadSymbolki_description': 'SPDT reed switch'}]|
 ||||

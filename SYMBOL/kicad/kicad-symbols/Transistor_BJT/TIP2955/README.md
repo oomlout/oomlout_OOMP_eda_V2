@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TIP2955|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP2955|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTTIP2955|
-|Name|name|TIP2955|
+|name|name|TIP2955|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'TIP2955', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-218-3_Vertical', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/TIP3055-D.PDF', 'kicadSymbolki_keywords': 'power PNP Transistor', 'kicadSymbolki_description': '-15A Ic, -60V Vce, Power PNP Transistor, TO-218', 'kicadSymbolki_fp_filters': 'TO?218*'}]|
 ||||

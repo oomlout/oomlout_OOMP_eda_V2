@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DRV8662|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8662|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORDRV8662|
-|Name|name|DRV8662|
+|name|name|DRV8662|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DRV8662', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PVQFN-N20_EP2.7x2.7mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/drv8662.pdf', 'kicadSymbolki_keywords': 'piezo driver boost', 'kicadSymbolki_description': 'Piezo Haptic Driver with Integrated Boost Converter', 'kicadSymbolki_fp_filters': 'Texas*S*PVQFN*EP2.7x2.7mm*ThermalVias*'}]|
 ||||

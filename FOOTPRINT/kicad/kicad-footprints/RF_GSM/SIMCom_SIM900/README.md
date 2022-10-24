@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SIMCom_SIM900|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_GSM-SIMCom_SIM900|
 |Hex ID (short code)|hexID|FZKGSMSIMCOMSIM9|
-|Name|name|RF_GSM : SIMCom_SIM900|
+|name|name|RF_GSM : SIMCom_SIM900|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SIMCom_SIM900', 'description': 'Quad-Band GSM/GPRS module, 24x24x3mm, http://simcom.ee/documents/SIM900/SIM900_Hardware%20Design_V2.05.pdf', 'tags': 'GSM Module SIM900', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_GSM.3dshapes/SIMCom_SIM900.wrl', 'pins': {'type': 'smd', 'shape': 'oval'}}|
 ||||

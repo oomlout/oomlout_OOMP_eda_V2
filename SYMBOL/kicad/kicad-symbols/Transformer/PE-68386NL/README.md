@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PE-68386NL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-PE-68386NL|
 |Hex ID (short code)|hexID|SZKTRPE68386NL|
-|Name|name|PE-68386NL|
+|name|name|PE-68386NL|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PA2001NL', 'kicadSymbolReference': 'T', 'kicadSymbolValue': 'PE-68386NL', 'kicadSymbolFootprint': 'Transformer_SMD:Pulse_PA2001NL', 'kicadSymbolDatasheet': 'https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf', 'kicadSymbolki_keywords': 'pulse', 'kicadSymbolki_description': 'SMT Gate Drive Transformer, 1:1', 'kicadSymbolki_fp_filters': 'Pulse*PA2001NL*'}]|
 ||||

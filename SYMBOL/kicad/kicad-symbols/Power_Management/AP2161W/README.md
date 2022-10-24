@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AP2161W|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-AP2161W|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTAP2161W|
-|Name|name|AP2161W|
+|name|name|AP2161W|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AP2161W', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/AP2161.pdf', 'kicadSymbolki_keywords': 'Limit USB Active Low', 'kicadSymbolki_description': 'Current limited power switch, single channel, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

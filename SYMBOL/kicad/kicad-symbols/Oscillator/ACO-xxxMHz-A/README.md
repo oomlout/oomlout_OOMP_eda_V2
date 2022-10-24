@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ACO-xxxMHz-A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-ACO-xxxMHz-A|
 |Hex ID (short code)|hexID|SZKOCSACOXXXMHZA|
-|Name|name|ACO-xxxMHz-A|
+|name|name|ACO-xxxMHz-A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'X', 'kicadSymbolValue': 'ACO-xxxMHz-A', 'kicadSymbolFootprint': 'Oscillator:Oscillator_DIP-14', 'kicadSymbolDatasheet': 'http://www.conwin.com/datasheets/cx/cx030.pdf', 'kicadSymbolki_keywords': 'Crystal Clock Oscillator', 'kicadSymbolki_description': 'HCMOS Crystal Clock Oscillator, DIP14-style metal package', 'kicadSymbolki_fp_filters': 'Oscillator*DIP*14*'}]|
 ||||

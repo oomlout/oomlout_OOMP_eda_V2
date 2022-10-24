@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|ADG902BRMZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Switch-ADG902BRMZ|
 |Hex ID (short code)|hexID|SZKRFSWITCHADG92BRMZ|
-|Name|name|ADG902BRMZ|
+|name|name|ADG902BRMZ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADG902BRMZ', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADG901_902.pdf', 'kicadSymbolki_keywords': 'RF SPST switch CMOS LVTTL', 'kicadSymbolki_description': 'SPST DC-4.5GHz reflective switch, 40dB isolation at 1GHz, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
 ||||

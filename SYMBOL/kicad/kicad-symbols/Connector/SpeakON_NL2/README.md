@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SpeakON_NL2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-SpeakON_NL2|
 |Hex ID (short code)|hexID|SZKCNSPEAKONNL2|
-|Name|name|SpeakON_NL2|
+|name|name|SpeakON_NL2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'SpeakON_NL2', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.neutrik.com/en/speakon/', 'kicadSymbolki_keywords': 'speakon connector', 'kicadSymbolki_description': 'speakON Connector, Male or Female, NL2', 'kicadSymbolki_fp_filters': 'Jack*speakON*'}]|
 ||||

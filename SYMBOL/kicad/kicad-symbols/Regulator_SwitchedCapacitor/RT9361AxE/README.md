@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RT9361AxE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-RT9361AxE|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHEDCAPACITORRT9361AXE|
-|Name|name|RT9361AxE|
+|name|name|RT9361AxE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'RT9361AxE', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'https://www.richtek.com/assets/product_file/RT9361A=RT9361B/DS9361AB-14.pdf', 'kicadSymbolki_keywords': 'Switched capacitor boost', 'kicadSymbolki_description': 'Switched capacitor boost, Fixed 5V output, 110mA, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

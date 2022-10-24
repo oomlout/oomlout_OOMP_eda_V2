@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOT-543|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-543|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT543|
-|Name|name|Package_TO_SOT_SMD : SOT-543|
+|name|name|Package_TO_SOT_SMD : SOT-543|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOT-543', 'description': 'SOT-543 4 lead surface package', 'tags': 'SOT-543 SC-107A EMD4', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-543.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-543/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-543/kicadPcb3d_450.png

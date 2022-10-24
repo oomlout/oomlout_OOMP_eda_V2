@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADM222|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-ADM222|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTADM222|
-|Name|name|ADM222|
+|name|name|ADM222|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LT1080', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADM222', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADM222_232A_242.pdf', 'kicadSymbolki_keywords': 'rs232 uart transceiver', 'kicadSymbolki_description': 'Dual RS232 driver/receiver, 5V supply, 200kb/s', 'kicadSymbolki_fp_filters': 'SO* DIP*W7.62mm*'}]|
 ||||

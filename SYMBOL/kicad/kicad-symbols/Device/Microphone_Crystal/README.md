@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Microphone_Crystal|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Microphone_Crystal|
 |Hex ID (short code)|hexID|SZKDEVICEMPHONEX|
-|Name|name|Microphone_Crystal|
+|name|name|Microphone_Crystal|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'MK', 'kicadSymbolValue': 'Microphone_Crystal', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'microphone crystal', 'kicadSymbolki_description': 'Crystal microphone'}]|
 ||||

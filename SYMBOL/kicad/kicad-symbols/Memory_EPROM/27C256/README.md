@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|27C256|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_EPROM-27C256|
 |Hex ID (short code)|hexID|SZKMEMORYEPROM27C256|
-|Name|name|27C256|
+|name|name|27C256|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '27C256', 'kicadSymbolFootprint': 'Package_DIP:DIP-28_W15.24mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc0014.pdf', 'kicadSymbolki_keywords': 'OTP EPROM 256 KiBit', 'kicadSymbolki_description': 'OTP EPROM 256 KiBit', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LNK363D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK363D|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK363D|
-|Name|name|LNK363D|
+|name|name|LNK363D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LNK362D', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LNK363D', 'kicadSymbolFootprint': 'Package_SO:PowerIntegrations_SO-8C', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/lnk362-364.pdf', 'kicadSymbolki_keywords': 'Energy Effi cient, Low Power Off-Line Switcher IC', 'kicadSymbolki_description': 'LinkSwitch-XT Family, 4.7W Output Power, SO-8C', 'kicadSymbolki_fp_filters': 'PowerIntegrations?SO?8C*'}]|
 ||||

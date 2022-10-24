@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Relay_DPDT_Fujitsu_FTR-F1C|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Fujitsu_FTR-F1C|
 |Hex ID (short code)|hexID|FZKRELRELAYDPDTFUJITSUFTRF1C|
-|Name|name|Relay_THT : Relay_DPDT_Fujitsu_FTR-F1C|
+|name|name|Relay_THT : Relay_DPDT_Fujitsu_FTR-F1C|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Relay_DPDT_Fujitsu_FTR-F1C', 'description': 'https://www.fujitsu.com/downloads/MICRO/fcai/relays/ftr-f1.pdf', 'tags': 'relay dpdt fujitsu tht', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_Fujitsu_FTR-F1C.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Fujitsu_FTR-F1C/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Fujitsu_FTR-F1C/kicadPcb3d_450.png

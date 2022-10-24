@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VMEM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-VMEM|
 |Hex ID (short code)|hexID|SZKPOWERVMEM|
-|Name|name|VMEM|
+|name|name|VMEM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'VMEM', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "VMEM"'}]|
 ||||

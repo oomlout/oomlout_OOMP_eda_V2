@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LEM_HO8-NSM|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_HO8-NSM|
 |Hex ID (short code)|hexID|FZKSENCURRENTLEMHO8NSM|
-|Name|name|Sensor_Current : LEM_HO8-NSM|
+|name|name|Sensor_Current : LEM_HO8-NSM|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LEM_HO8-NSM', 'description': 'LEM HO 8/15/25-NSM Current Transducer (https://www.lem.com/sites/default/files/products_datasheets/ho-nsm-0000_series.pdf)', 'tags': 'current transducer', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/LEM_HO8-NSM.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

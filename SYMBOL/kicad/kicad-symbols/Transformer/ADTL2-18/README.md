@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADTL2-18|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-ADTL2-18|
 |Hex ID (short code)|hexID|SZKTRADTL218|
-|Name|name|ADTL2-18|
+|name|name|ADTL2-18|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ADTL1-4-75', 'kicadSymbolReference': 'TR', 'kicadSymbolValue': 'ADTL2-18', 'kicadSymbolFootprint': 'RF_Mini-Circuits:Mini-Circuits_CD542_H2.84mm', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/ADTL2-18+.pdf', 'kicadSymbolki_keywords': 'Mini-Circuits RF Transformer', 'kicadSymbolki_description': '30-1800MHz 1:2 RF Transformer, Balanced Transmission Line, CD542', 'kicadSymbolki_fp_filters': 'Mini?Circuits*CD542*'}]|
 ||||

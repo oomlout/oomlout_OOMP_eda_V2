@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|WLCSP-16_1.409x1.409mm_P0.35mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-16_1.409x1.409mm_P0.35mm|
 |Hex ID (short code)|hexID|FZKCSPWLCSP16149X149P35|
-|Name|name|Package_CSP : WLCSP-16_1.409x1.409mm_P0.35mm|
+|name|name|Package_CSP : WLCSP-16_1.409x1.409mm_P0.35mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'WLCSP-16_1.409x1.409mm_P0.35mm', 'description': 'WLCSP-16, 1.409x1.409mm, 16 Ball, 4x4 Layout, 0.35mm Pitch, http://www.latticesemi.com/view_document?document_id=213', 'tags': 'CSP 16 0.35', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-16_1.409x1.409mm_P0.35mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/WLCSP-16_1.409x1.409mm_P0.35mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_CSP/WLCSP-16_1.409x1.409mm_P0.35mm/kicadPcb3d_450.png

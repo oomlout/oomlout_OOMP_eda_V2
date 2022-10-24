@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC6SLX75T-FGG676|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX75T-FGG676|
 |Hex ID (short code)|hexID|SZKFPGAXILINXSPARTAN6XC6SLX75TFGG676|
-|Name|name|XC6SLX75T-FGG676|
+|name|name|XC6SLX75T-FGG676|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC6SLX75T-FGG676', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Spartan 6 LXT 75 XC6SLX75T-FGG676'}]|
 ||||

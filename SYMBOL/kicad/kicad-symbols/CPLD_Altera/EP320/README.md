@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EP320|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP320|
 |Hex ID (short code)|hexID|SZKCPLDALTERAEP32|
-|Name|name|EP320|
+|name|name|EP320|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EP320', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'EPLD', 'kicadSymbolki_description': 'EPLD'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1791AxS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-LT1791AxS|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTLT1791AXS|
-|Name|name|LT1791AxS|
+|name|name|LT1791AxS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LTC2852xS', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1791AxS', 'kicadSymbolFootprint': 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/LT1785-1785A-1791-1791A.pdf', 'kicadSymbolki_keywords': 'RS485 RS422 transceiver full duplex', 'kicadSymbolki_description': 'RS-485, RS-422 Full duplex 250kbps transceiver, fail-safe receiver, SOIC-14', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm*'}]|
 ||||

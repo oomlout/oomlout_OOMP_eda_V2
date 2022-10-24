@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|1N914WT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-1N914WT|
 |Hex ID (short code)|hexID|SZKDIODE1N914WT|
-|Name|name|1N914WT|
+|name|name|1N914WT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N4001', 'kicadSymbolReference': 'D', 'kicadSymbolValue': '1N914WT', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-523', 'kicadSymbolDatasheet': 'http://www.mouser.com/ds/2/149/1N4148WT-461550.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '75V 0.15A Fast switching Diode, SOD-523', 'kicadSymbolki_fp_filters': 'D*SOD?523*'}]|
 ||||

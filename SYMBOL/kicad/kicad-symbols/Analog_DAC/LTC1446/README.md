@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC1446|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-LTC1446|
 |Hex ID (short code)|hexID|SZKANALOGDACLTC1446|
-|Name|name|LTC1446|
+|name|name|LTC1446|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC1446', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1446fa.pdf', 'kicadSymbolki_keywords': '12-Bit DAC SPI Reference 2ch', 'kicadSymbolki_description': '2-Channel 12-Bit Rail-To-Rail D/A Converters with SPI Interface and Internal Reference (4.096V)', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NMA1512DC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-NMA1512DC|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGNMA1512DC|
-|Name|name|NMA1512DC|
+|name|name|NMA1512DC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NMA0512DC', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NMA1512DC', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_Murata_NMAxxxxDC_THT', 'kicadSymbolDatasheet': 'http://power.murata.com/data/power/ncl/kdc_nma.pdf', 'kicadSymbolki_keywords': 'Murata isolated isolation dc-dc converter', 'kicadSymbolki_description': '+/-42mA Isolated 1W Dual output DC/DC Converter Module, 15V Input Voltage, +/-12V Output Voltage, DIP Package', 'kicadSymbolki_fp_filters': 'Converter*DCDC*Murata*NMAxxxxDC*'}]|
 ||||

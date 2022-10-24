@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Motor_AC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Motor-Motor_AC|
 |Hex ID (short code)|hexID|SZKMOTORMOTORAC|
-|Name|name|Motor_AC|
+|name|name|Motor_AC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'M', 'kicadSymbolValue': 'Motor_AC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'AC Motor', 'kicadSymbolki_description': 'AC Motor', 'kicadSymbolki_fp_filters': 'PinHeader*P2.54mm* TerminalBlock*'}]|
 ||||

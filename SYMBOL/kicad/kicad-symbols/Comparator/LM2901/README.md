@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM2901|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Comparator-LM2901|
 |Hex ID (short code)|hexID|SZKCOMPARATORLM291|
-|Name|name|LM2901|
+|name|name|LM2901|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2901', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/lm2901.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'cmp open collector', 'kicadSymbolki_description': 'Quad Differential Comparators, DIP-14/SOIC-14/TSSOP-14', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm*'}]|
 ||||

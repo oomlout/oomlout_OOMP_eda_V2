@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF6623|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6623|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF6623|
-|Name|name|IRF6623|
+|name|name|IRF6623|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSF450NE7NH3', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF6623', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_ST', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irf6623pbf.pdf?fileId=5546d462533600a4015355e8aa811a2d', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '55A Id, 20V Vds, 5.7mOhm Rds, N-Channel MOSFET, DirectFET ST', 'kicadSymbolki_fp_filters': 'DirectFET*ST*'}]|
 ||||

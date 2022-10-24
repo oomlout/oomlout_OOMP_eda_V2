@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Thermistor_US|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Thermistor_US|
 |Hex ID (short code)|hexID|SZKDEVICETHERMISTORUS|
-|Name|name|Thermistor_US|
+|name|name|Thermistor_US|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TH', 'kicadSymbolValue': 'Thermistor_US', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'R res thermistor', 'kicadSymbolki_description': 'Thermistor, temperature dependent resistor, US symbol', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

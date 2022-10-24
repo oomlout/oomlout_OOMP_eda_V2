@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD8236ARMZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8236ARMZ|
 |Hex ID (short code)|hexID|SZKAMPLIFIERINSTRUMENTATIONAD8236ARMZ|
-|Name|name|AD8236ARMZ|
+|name|name|AD8236ARMZ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AD8422ARMZ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD8236ARMZ', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD8236.pdf', 'kicadSymbolki_keywords': 'ad8236 instumentation amplifier msop-8', 'kicadSymbolki_description': 'Micropower Instumentation Amplifier with Zero Crossover Distortion, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP-8*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SG-105F|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Proximity-SG-105F|
 |Hex ID (short code)|hexID|SZKSENPROXIMITYSG15F|
-|Name|name|SG-105F|
+|name|name|SG-105F|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SG-105F', 'kicadSymbolFootprint': 'OptoDevice:Kodenshi_SG105F', 'kicadSymbolDatasheet': 'http://www.kodenshi.co.jp/products/pdf/sensor/photointerrupter_ref/SG-105F.pdf', 'kicadSymbolki_keywords': 'Reflective Optical Sensor Opto', 'kicadSymbolki_description': 'Subminiature Reflective Optical Sensor, DIP-lie THT-package', 'kicadSymbolki_fp_filters': 'Kodenshi*SG105F*'}]|
 ||||

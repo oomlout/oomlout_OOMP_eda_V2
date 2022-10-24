@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Si3456DDV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-Si3456DDV|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETSI3456DDV|
-|Name|name|Si3456DDV|
+|name|name|Si3456DDV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Si3456DDV', 'kicadSymbolFootprint': 'Package_SO:TSOP-6_1.65x3.05mm_P0.95mm', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/69075/si3456ddv.pdf', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '30V Vds, 6.3A Id, N-Channel MOSFET, TSOP-6', 'kicadSymbolki_fp_filters': 'TSOP*1.65x3.05mm*P0.95mm*'}]|
 ||||

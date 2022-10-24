@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|USB3_B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-USB3_B|
 |Hex ID (short code)|hexID|SZKCNU3B|
-|Name|name|USB3_B|
+|name|name|USB3_B|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'USB3_B', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'usb universal serial bus', 'kicadSymbolki_description': 'USB 3.0 B connector'}]|
 ||||

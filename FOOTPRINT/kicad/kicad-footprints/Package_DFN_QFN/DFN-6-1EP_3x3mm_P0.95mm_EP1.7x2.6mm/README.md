@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DFN-6-1EP_3x3mm_P0.95mm_EP1.7x2.6mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-6-1EP_3x3mm_P0.95mm_EP1.7x2.6mm|
 |Hex ID (short code)|hexID|FZKDFNDFN61EP3X3P95EP17X26|
-|Name|name|Package_DFN_QFN : DFN-6-1EP_3x3mm_P0.95mm_EP1.7x2.6mm|
+|name|name|Package_DFN_QFN : DFN-6-1EP_3x3mm_P0.95mm_EP1.7x2.6mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DFN-6-1EP_3x3mm_P0.95mm_EP1.7x2.6mm', 'description': 'DFN6 3*3 MM, 0.95 PITCH; CASE 506AH-01 (see ON Semiconductor 506AH.PDF)', 'tags': 'DFN 0.95', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-6-1EP_3x3mm_P0.95mm_EP1.7x2.6mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/DFN-6-1EP_3x3mm_P0.95mm_EP1.7x2.6mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/DFN-6-1EP_3x3mm_P0.95mm_EP1.7x2.6mm/kicadPcb3d_450.png

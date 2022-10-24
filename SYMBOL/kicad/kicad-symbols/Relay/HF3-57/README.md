@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HF3-57|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-HF3-57|
 |Hex ID (short code)|hexID|SZKRELAYHF357|
-|Name|name|HF3-57|
+|name|name|HF3-57|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HF3-51', 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'HF3-57', 'kicadSymbolFootprint': 'Relay_SMD:Relay_SPDT_AXICOM_HF3Series_50ohms_Pitch1.27mm', 'kicadSymbolDatasheet': 'http://hiqsdr.com/images/3/3e/Axicom-HF3.pdf', 'kicadSymbolki_keywords': 'Single Pole Relay SPDT', 'kicadSymbolki_description': 'AXICOM HF3 relay, 3GHz, SPDT RF Switching Relay, 50ohm, 24Vdc, Single-Side Stable', 'kicadSymbolki_fp_filters': 'Relay*SPDT*AXICOM*HF3Series*50ohms*Pitch1.27mm*'}]|
 ||||

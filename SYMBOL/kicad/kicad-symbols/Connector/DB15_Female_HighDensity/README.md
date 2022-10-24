@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DB15_Female_HighDensity|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DB15_Female_HighDensity|
 |Hex ID (short code)|hexID|SZKCNDB15FEMALEHIGHDENSITY|
-|Name|name|DB15_Female_HighDensity|
+|name|name|DB15_Female_HighDensity|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DB15_Female_HighDensity', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'connector db15 VGA female D-SUB', 'kicadSymbolki_description': '15-pin female D-SUB connector, High density (3 columns), Triple Row, Generic, VGA-connector', 'kicadSymbolki_fp_filters': 'DSUB*Female*'}]|
 ||||

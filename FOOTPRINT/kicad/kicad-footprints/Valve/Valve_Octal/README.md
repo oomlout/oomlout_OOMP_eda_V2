@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Valve_Octal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Valve-Valve_Octal|
 |Hex ID (short code)|hexID|FZKVAVAOCTAL|
-|Name|name|Valve : Valve_Octal|
+|name|name|Valve : Valve_Octal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Valve_Octal', 'description': '8-pin round valve', 'tags': 'valve', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Valve.3dshapes/Valve_Octal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

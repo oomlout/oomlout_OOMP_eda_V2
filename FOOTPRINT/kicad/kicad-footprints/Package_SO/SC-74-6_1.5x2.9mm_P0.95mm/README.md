@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SC-74-6_1.5x2.9mm_P0.95mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SC-74-6_1.5x2.9mm_P0.95mm|
 |Hex ID (short code)|hexID|FZKSOSC74615X29P95|
-|Name|name|Package_SO : SC-74-6_1.5x2.9mm_P0.95mm|
+|name|name|Package_SO : SC-74-6_1.5x2.9mm_P0.95mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SC-74-6_1.5x2.9mm_P0.95mm', 'description': 'SC-74, 6 Pin (https://www.nxp.com/docs/en/package-information/SOT457.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'SC-74 SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SC-74-6_1.5x2.9mm_P0.95mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SC-74-6_1.5x2.9mm_P0.95mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/SC-74-6_1.5x2.9mm_P0.95mm/kicadPcb3d_450.png

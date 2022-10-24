@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MonoWireless_TWE-L-WX|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-MonoWireless_TWE-L-WX|
 |Hex ID (short code)|hexID|FZKRFMOMONOWIRELESSTWELWX|
-|Name|name|RF_Module : MonoWireless_TWE-L-WX|
+|name|name|RF_Module : MonoWireless_TWE-L-WX|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MonoWireless_TWE-L-WX', 'description': 'https://www.mono-wireless.com/jp/products/TWE-LITE/MW-PDS-TWELITE-JP.pdf', 'tags': 'TWE-L-WX', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/MonoWireless_TWE-L-WX.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'oval'}}|
 ||||

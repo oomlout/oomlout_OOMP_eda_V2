@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AOZ1282CI|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-AOZ1282CI|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGAOZ1282CI|
-|Name|name|AOZ1282CI|
+|name|name|AOZ1282CI|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AOZ1280CI', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AOZ1282CI', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://aosmd.com/res/data_sheets/AOZ1282CI.pdf', 'kicadSymbolki_keywords': 'switching buck converter', 'kicadSymbolki_description': '1.2 A Simple Buck Regulator, 4.5-36V input, 450kHz', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

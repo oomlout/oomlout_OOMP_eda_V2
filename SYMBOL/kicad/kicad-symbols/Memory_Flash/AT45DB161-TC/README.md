@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AT45DB161-TC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_Flash-AT45DB161-TC|
 |Hex ID (short code)|hexID|SZKMEMORYFLASHAT45DB161TC|
-|Name|name|AT45DB161-TC|
+|name|name|AT45DB161-TC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AT45DB161-TC', 'kicadSymbolFootprint': 'Package_SO:TSOP-28_11.8x8mm_P0.55mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/doc0807.pdf', 'kicadSymbolki_keywords': 'Atmel DataFlash', 'kicadSymbolki_description': '16Mb Serial DataFlash, 2.7V Vcc, TSOP-28', 'kicadSymbolki_fp_filters': 'TSOP?28*11.8x8mm*P0.55mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TOP265KG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP265KG|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTOP265KG|
-|Name|name|TOP265KG|
+|name|name|TOP265KG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TOP264KG', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TOP265KG', 'kicadSymbolFootprint': 'Package_SO:PowerIntegrations_eSOP-12B', 'kicadSymbolDatasheet': 'https://ac-dc.power.com/sites/default/files/product-docs/topswitch-jx_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Integrated Off-Line Switcher with EcoSmart™ Technology', 'kicadSymbolki_description': 'TOPSwitch-JX Family, 34W Output Power, eSOP-12B', 'kicadSymbolki_fp_filters': 'PowerIntegrations?eSOP?12B*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|D_SOD-523|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-523|
 |Hex ID (short code)|hexID|FZKDIODESMDSOD523|
-|Name|name|Diode_SMD : D_SOD-523|
+|name|name|Diode_SMD : D_SOD-523|
 |Footprint Kicad|footprintKicadDetails|{'name': 'D_SOD-523', 'description': 'http://www.diodes.com/datasheets/ap02001.pdf p.144', 'tags': 'Diode SOD523', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-523.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SOD-523/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SOD-523/kicadPcb3d_450.png

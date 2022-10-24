@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LNK305P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK305P|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK35P|
-|Name|name|LNK305P|
+|name|name|LNK305P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LNK302P', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LNK305P', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_PDIP-8B', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/lnk302_304-306.pdf', 'kicadSymbolki_keywords': 'Lowest Component Count, Energy-Efficient Off-Line Switcher IC', 'kicadSymbolki_description': 'LinkSwitch-TN Family, 280mA Output Current, DIP-8B', 'kicadSymbolki_fp_filters': 'PowerIntegrations?PDIP?8B*'}]|
 ||||

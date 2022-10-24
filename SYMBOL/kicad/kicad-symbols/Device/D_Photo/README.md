@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Photo|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Photo|
 |Hex ID (short code)|hexID|SZKDEVICEDPHOTO|
-|Name|name|D_Photo|
+|name|name|D_Photo|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Photo', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'photodiode diode opto', 'kicadSymbolki_description': 'Photodiode'}]|
 ||||

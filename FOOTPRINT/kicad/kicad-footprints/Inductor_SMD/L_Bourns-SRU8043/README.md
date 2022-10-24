@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Bourns-SRU8043|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRU8043|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLBOURNSSRU843|
-|Name|name|Inductor_SMD : L_Bourns-SRU8043|
+|name|name|Inductor_SMD : L_Bourns-SRU8043|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Bourns-SRU8043', 'description': 'Bourns SRU8043 series SMD inductor', 'tags': 'Bourns SRU8043 SMD inductor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns-SRU8043.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns-SRU8043/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns-SRU8043/kicadPcb3d_450.png

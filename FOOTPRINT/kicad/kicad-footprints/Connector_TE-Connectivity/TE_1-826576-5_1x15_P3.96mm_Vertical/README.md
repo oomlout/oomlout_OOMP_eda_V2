@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TE_1-826576-5_1x15_P3.96mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_TE-Connectivity-TE_1-826576-5_1x15_P3.96mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNTECONNECTIVITYTE182657651X15P396VERTICAL|
-|Name|name|Connector_TE-Connectivity : TE_1-826576-5_1x15_P3.96mm_Vertical|
+|name|name|Connector_TE-Connectivity : TE_1-826576-5_1x15_P3.96mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TE_1-826576-5_1x15_P3.96mm_Vertical', 'description': 'TE, 1-826576-5, 15 Pins (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=826576&DocType=Customer+Drawing&DocLang=English), generated with kicad-footprint-generator', 'tags': 'connector TE 826576 vertical', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_TE-Connectivity.3dshapes/TE_1-826576-5_1x15_P3.96mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_1-826576-5_1x15_P3.96mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_1-826576-5_1x15_P3.96mm_Vertical/kicadPcb3d_450.png

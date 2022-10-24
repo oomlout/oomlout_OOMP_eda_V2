@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MX25R3235FM1xx0|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_Flash-MX25R3235FM1xx0|
 |Hex ID (short code)|hexID|SZKMEMORYFLASHMX25R3235FM1XX|
-|Name|name|MX25R3235FM1xx0|
+|name|name|MX25R3235FM1xx0|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MX25R3235FM1xx0', 'kicadSymbolFootprint': 'Package_SO:SOP-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.macronix.com/Lists/Datasheet/Attachments/7534/MX25R3235F,%20Wide%20Range,%2032Mb,%20v1.6.pdf', 'kicadSymbolki_keywords': 'SPI 32Mbit 1.65V-3.6V', 'kicadSymbolki_description': '32-Mbit, Wide Range Voltage SPI Serial Flash Memory, SOP-8', 'kicadSymbolki_fp_filters': 'SOP*3.9x4.9mm*P1.27mm*'}]|
 ||||

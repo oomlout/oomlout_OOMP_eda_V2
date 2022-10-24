@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|R_Array_Concave_4x0402|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Array_Concave_4x0402|
 |Hex ID (short code)|hexID|FZKRESISTORSMRARRAYCONCAVE4X42|
-|Name|name|Resistor_SMD : R_Array_Concave_4x0402|
+|name|name|Resistor_SMD : R_Array_Concave_4x0402|
 |Footprint Kicad|footprintKicadDetails|{'name': 'R_Array_Concave_4x0402', 'description': 'Thick Film Chip Resistor Array, Wave soldering, Vishay CRA04P (see cra04p.pdf)', 'tags': 'resistor array', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Array_Concave_4x0402.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Array_Concave_4x0402/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Array_Concave_4x0402/kicadPcb3d_450.png

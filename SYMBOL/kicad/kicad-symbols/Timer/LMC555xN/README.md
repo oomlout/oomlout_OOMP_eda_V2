@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LMC555xN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-LMC555xN|
 |Hex ID (short code)|hexID|SZKTIMERLMC555XN|
-|Name|name|LMC555xN|
+|name|name|LMC555xN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NE555P', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LMC555xN', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lmc555.pdf', 'kicadSymbolki_keywords': 'single timer 555', 'kicadSymbolki_description': 'CMOS Timer, 555 compatible, PDIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

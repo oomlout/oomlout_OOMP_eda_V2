@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA4197xPW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA4197xPW|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA4197XPW|
-|Name|name|OPA4197xPW|
+|name|name|OPA4197xPW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA4197xPW', 'kicadSymbolFootprint': 'Package_SO:TSSOP-14_4.4x5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/opa4197.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'quad opamp rtor', 'kicadSymbolki_description': 'Quad 36V, Precision, Rail-to-Rail Input/Output, Low Offset Voltage, Operational Amplifier, TSSOP-14', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x5mm*P0.65mm*'}]|
 ||||

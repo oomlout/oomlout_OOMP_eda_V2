@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SSOP-28_5.3x10.2mm_P0.65mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-28_5.3x10.2mm_P0.65mm|
 |Hex ID (short code)|hexID|FZKSOSS2853X12P65|
-|Name|name|Package_SO : SSOP-28_5.3x10.2mm_P0.65mm|
+|name|name|Package_SO : SSOP-28_5.3x10.2mm_P0.65mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SSOP-28_5.3x10.2mm_P0.65mm', 'description': '28-Lead Plastic Shrink Small Outline (SS)-5.30 mm Body [SSOP] (see Microchip Packaging Specification 00000049BS.pdf)', 'tags': 'SSOP 0.65', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SSOP-28_5.3x10.2mm_P0.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSOP-28_5.3x10.2mm_P0.65mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/SSOP-28_5.3x10.2mm_P0.65mm/kicadPcb3d_450.png

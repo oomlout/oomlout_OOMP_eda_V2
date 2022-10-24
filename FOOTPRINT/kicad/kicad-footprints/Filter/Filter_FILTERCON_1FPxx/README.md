@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Filter_FILTERCON_1FPxx|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Filter-Filter_FILTERCON_1FPxx|
 |Hex ID (short code)|hexID|FZKFILFILFILCON1FPXX|
-|Name|name|Filter : Filter_FILTERCON_1FPxx|
+|name|name|Filter : Filter_FILTERCON_1FPxx|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Filter_FILTERCON_1FPxx', 'description': '0.5A, 250VAC, 50/60Hz line filter (https://filtercon.com.pl/wp-content/uploads/2019/07/Karta-katalogowa-FP-12-1.pdf)', 'tags': 'EMI filter', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_FILTERCON_1FPxx.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Filter/Filter_FILTERCON_1FPxx/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Filter/Filter_FILTERCON_1FPxx/kicadPcb3d_450.png

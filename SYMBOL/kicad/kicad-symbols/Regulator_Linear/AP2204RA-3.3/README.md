@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AP2204RA-3.3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2204RA-3.3|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARAP224RA33|
-|Name|name|AP2204RA-3.3|
+|name|name|AP2204RA-3.3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AP2204RA-3.3', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-89-3', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/AP2204.pdf', 'kicadSymbolki_keywords': 'linear regulator ldo fixed positive', 'kicadSymbolki_description': '150mA low dropout linear regulator, wide input voltage range, 3.3V fixed positive output, SOT-89-3 package', 'kicadSymbolki_fp_filters': 'SOT?89*'}]|
 ||||

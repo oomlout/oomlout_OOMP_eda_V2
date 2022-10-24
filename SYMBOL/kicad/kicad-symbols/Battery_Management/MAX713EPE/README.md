@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX713EPE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-MAX713EPE|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTMAX713EPE|
-|Name|name|MAX713EPE|
+|name|name|MAX713EPE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX712CPE', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX713EPE', 'kicadSymbolFootprint': 'Package_DIP:DIP-16_W7.62mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX712-MAX713.pdf', 'kicadSymbolki_keywords': 'Fast-charge Nickel Cadmium (NiCd) from a DC source, -40 to +85 Degree Celsius, PDIP-16', 'kicadSymbolki_description': 'Fast-charge Nickel Cadmium (NiCd) from a DC source, -40 to +85 Degree Celsius, PDIP-16', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

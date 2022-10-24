@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PA3493NL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-PA3493NL|
 |Hex ID (short code)|hexID|SZKTRPA3493NL|
-|Name|name|PA3493NL|
+|name|name|PA3493NL|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'T', 'kicadSymbolValue': 'PA3493NL', 'kicadSymbolFootprint': 'Transformer_SMD:Pulse_PA3493NL', 'kicadSymbolDatasheet': 'https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf', 'kicadSymbolki_keywords': 'pulse', 'kicadSymbolki_description': 'SMT Gate Drive Transformer, 1.25:1', 'kicadSymbolki_fp_filters': 'Pulse*PA3493NL*'}]|
 ||||

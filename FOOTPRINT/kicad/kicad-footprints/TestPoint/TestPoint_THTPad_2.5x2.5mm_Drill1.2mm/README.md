@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TestPoint_THTPad_2.5x2.5mm_Drill1.2mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_THTPad_2.5x2.5mm_Drill1.2mm|
 |Hex ID (short code)|hexID|FZKTPTPTHTPAD25X25DRILL12|
-|Name|name|TestPoint : TestPoint_THTPad_2.5x2.5mm_Drill1.2mm|
+|name|name|TestPoint : TestPoint_THTPad_2.5x2.5mm_Drill1.2mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TestPoint_THTPad_2.5x2.5mm_Drill1.2mm', 'description': 'THT rectangular pad as test Point, square 2.5mm side length, hole diameter 1.2mm', 'tags': 'test point THT pad rectangle square', 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TestPoint_Plated_Hole_D4.0mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Plated_Hole_D4.0mm|
 |Hex ID (short code)|hexID|FZKTPTPPLATEDHOLED4|
-|Name|name|TestPoint : TestPoint_Plated_Hole_D4.0mm|
+|name|name|TestPoint : TestPoint_Plated_Hole_D4.0mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TestPoint_Plated_Hole_D4.0mm', 'description': 'Plated Hole as test Point, diameter 4.0mm', 'tags': 'test point plated hole', 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

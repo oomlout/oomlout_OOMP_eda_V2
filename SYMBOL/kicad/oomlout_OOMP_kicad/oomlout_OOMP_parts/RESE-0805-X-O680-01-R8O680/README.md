@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O680-01-R8O680|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O680-01-R8O680|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO681R8O68|
-|Name|name|RESE-0805-X-O680-01-R8O680|
+|name|name|RESE-0805-X-O680-01-R8O680|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O680-01-R8O680', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O680-01-R8O680', 'kicadSymbolDatasheet': 'oom.lt/R8O680', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R8O680;PARTL C-JLCC;C17802;MANUF C-XXXX;0805W8F680JT5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

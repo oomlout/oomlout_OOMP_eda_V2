@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|D_SOD-923|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-923|
 |Hex ID (short code)|hexID|FZKDIODESMDSOD923|
-|Name|name|Diode_SMD : D_SOD-923|
+|name|name|Diode_SMD : D_SOD-923|
 |Footprint Kicad|footprintKicadDetails|{'name': 'D_SOD-923', 'description': 'https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF#page=4', 'tags': 'Diode SOD923', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-923.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SOD-923/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SOD-923/kicadPcb3d_450.png

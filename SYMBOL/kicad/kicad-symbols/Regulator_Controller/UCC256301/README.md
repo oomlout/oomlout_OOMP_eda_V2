@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|UCC256301|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC256301|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERUCC25631|
-|Name|name|UCC256301|
+|name|name|UCC256301|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'UCC256301', 'kicadSymbolFootprint': 'Package_SO:SOIC-14-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/ucc256301.pdf', 'kicadSymbolki_keywords': 'SMPS PWM Controller', 'kicadSymbolki_description': 'Hybrid Hysteretic LLC Resonant Controller, SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*3.9x9.9mm*P1.27mm*'}]|
 ||||

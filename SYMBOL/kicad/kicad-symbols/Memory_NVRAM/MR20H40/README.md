@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MR20H40|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_NVRAM-MR20H40|
 |Hex ID (short code)|hexID|SZKMEMORYNVRAMMR2H4|
-|Name|name|MR20H40|
+|name|name|MR20H40|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MR20H40', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.everspin.com/file/217/download', 'kicadSymbolki_keywords': 'MRAM SPI EEPROM 3.3V', 'kicadSymbolki_description': '4Mb MRAM memory with SPI interface, DFN-8', 'kicadSymbolki_fp_filters': 'DFN*6x5mm*P1.27mm*'}]|
 ||||

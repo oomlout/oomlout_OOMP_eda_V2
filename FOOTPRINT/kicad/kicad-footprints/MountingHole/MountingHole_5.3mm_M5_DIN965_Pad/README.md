@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MountingHole_5.3mm_M5_DIN965_Pad|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_5.3mm_M5_DIN965_Pad|
 |Hex ID (short code)|hexID|FZKHOLHOL53M5DIN965PAD|
-|Name|name|MountingHole : MountingHole_5.3mm_M5_DIN965_Pad|
+|name|name|MountingHole : MountingHole_5.3mm_M5_DIN965_Pad|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_5.3mm_M5_DIN965_Pad', 'description': 'Mounting Hole 5.3mm, M5, DIN965', 'tags': 'mounting hole 5.3mm m5 din965', 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_5.3mm_M5_DIN965_Pad/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_5.3mm_M5_DIN965_Pad/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|UA9638CPE4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_LineDriver-UA9638CPE4|
 |Hex ID (short code)|hexID|SZKINTERFACELINEDRIVERUA9638CPE4|
-|Name|name|UA9638CPE4|
+|name|name|UA9638CPE4|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'UA9638CP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'UA9638CPE4', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ua9638.pdf', 'kicadSymbolki_keywords': 'Dual high-speed differential line driver', 'kicadSymbolki_description': 'Dual high-speed differential line driver, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

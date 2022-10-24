@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O4992-01-R4O4992-C25897|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O4992-01-R4O4992-C25897|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE42XO49921R4O4992C25897|
-|Name|name|RESE-0402-X-O4992-01-R4O4992-C25897|
+|name|name|RESE-0402-X-O4992-01-R4O4992-C25897|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O4992-01-R4O4992-C25897', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O4992-01-R4O4992-C25897', 'kicadSymbolDatasheet': 'oom.lt/R4O4992', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R4O4992;PARTL C-JLCC;C25897;MANUF C-XXXX;0402WGF4992TCE;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

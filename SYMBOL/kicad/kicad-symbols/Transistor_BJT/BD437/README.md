@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BD437|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD437|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBD437|
-|Name|name|BD437|
+|name|name|BD437|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BD433', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BD437', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-126-3_Vertical', 'kicadSymbolDatasheet': 'http://www.cdil.com/datasheets/bd433_42.pdf', 'kicadSymbolki_keywords': 'Power NPN Transistor', 'kicadSymbolki_description': '4A Ic, 45V Vce, Power NPN Transistor, TO-126', 'kicadSymbolki_fp_filters': 'TO?126*'}]|
 ||||

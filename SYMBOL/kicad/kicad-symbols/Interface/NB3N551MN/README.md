@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NB3N551MN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-NB3N551MN|
 |Hex ID (short code)|hexID|SZKINTERFACENB3N551MN|
-|Name|name|NB3N551MN|
+|name|name|NB3N551MN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NB3N551MN', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.3mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/NB3N551-D.PDF', 'kicadSymbolki_keywords': 'clock buffer', 'kicadSymbolki_description': '1:4 Low Skew Clock Buffer, DFN-8', 'kicadSymbolki_fp_filters': 'DFN*1EP*2x2mm*P0.5mm*'}]|
 ||||

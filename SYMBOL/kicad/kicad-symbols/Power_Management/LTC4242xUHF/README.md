@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC4242xUHF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-LTC4242xUHF|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTLTC4242XUHF|
-|Name|name|LTC4242xUHF|
+|name|name|LTC4242xUHF|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC4242xUHF', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-38-1EP_5x7mm_P0.5mm_EP3.15x5.15mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/4242f.pdf', 'kicadSymbolki_keywords': 'Dual-Slot PCIe', 'kicadSymbolki_description': 'Hot-Swap Power Controller, QFN-38', 'kicadSymbolki_fp_filters': 'QFN*1EP*5x7mm*P0.5mm*'}]|
 ||||

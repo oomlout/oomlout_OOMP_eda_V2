@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MMC2114CFCPU|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_MCore-MMC2114CFCPU|
 |Hex ID (short code)|hexID|SZKMCUNXPMCOREC2114CFCPU|
-|Name|name|MMC2114CFCPU|
+|name|name|MMC2114CFCPU|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MMC2114CFCPU', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'motorola/mmc2114.pdf', 'kicadSymbolki_description': 'Motorola M*CORE  upro 100 pins'}]|
 ||||

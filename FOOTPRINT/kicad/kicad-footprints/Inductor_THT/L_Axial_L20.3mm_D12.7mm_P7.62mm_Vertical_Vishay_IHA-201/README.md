@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201|
 |Hex ID (short code)|hexID|FZKINLAXIALL23D127P762VERTICALVISHAYIHA21|
-|Name|name|Inductor_THT : L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201|
+|name|name|Inductor_THT : L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201', 'description': 'Inductor, Axial series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=20.32*12.7mm^2, Vishay, IHA-201, http://www.vishay.com/docs/34014/iha.pdf', 'tags': 'Inductor Axial series Axial Vertical pin pitch 7.62mm  length 20.32mm diameter 12.7mm Vishay IHA-201', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201/kicadPcb3d_450.png

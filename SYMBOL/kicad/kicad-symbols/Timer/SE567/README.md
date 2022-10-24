@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SE567|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-SE567|
 |Hex ID (short code)|hexID|SZKTIMERSE567|
-|Name|name|SE567|
+|name|name|SE567|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NE567', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SE567', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm567.pdf', 'kicadSymbolki_keywords': 'tone decoder PLL', 'kicadSymbolki_description': 'Tone Decoder/Phase-Locked Loop, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

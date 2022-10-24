@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|D_Powermite3|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_Powermite3|
 |Hex ID (short code)|hexID|FZKDIODESMDPOWERMITE3|
-|Name|name|Diode_SMD : D_Powermite3|
+|name|name|Diode_SMD : D_Powermite3|
 |Footprint Kicad|footprintKicadDetails|{'name': 'D_Powermite3', 'description': 'Microsemi Powermite 3 SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5340)', 'tags': 'PowerMite3', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_Powermite3.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_Powermite3/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_Powermite3/kicadPcb3d_450.png

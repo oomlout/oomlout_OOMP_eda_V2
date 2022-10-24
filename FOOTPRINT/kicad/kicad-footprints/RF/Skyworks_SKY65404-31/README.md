@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Skyworks_SKY65404-31|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF-Skyworks_SKY65404-31|
 |Hex ID (short code)|hexID|FZKRFSKYWORKSSKY654431|
-|Name|name|RF : Skyworks_SKY65404-31|
+|name|name|RF : Skyworks_SKY65404-31|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Skyworks_SKY65404-31', 'description': 'http://www.skyworksinc.com/uploads/documents/SKY65404_31_201512K.pdf', 'tags': 'Skyworks', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF.3dshapes/Skyworks_SKY65404-31.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||

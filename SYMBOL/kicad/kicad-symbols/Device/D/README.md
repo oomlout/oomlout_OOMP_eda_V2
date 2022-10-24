@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D|
 |Hex ID (short code)|hexID|SZKDEVICED|
-|Name|name|D|
+|name|name|D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Diode', 'kicadSymbolki_fp_filters': 'TO-???* *_Diode_* *SingleDiode* D_*'}]|
 ||||

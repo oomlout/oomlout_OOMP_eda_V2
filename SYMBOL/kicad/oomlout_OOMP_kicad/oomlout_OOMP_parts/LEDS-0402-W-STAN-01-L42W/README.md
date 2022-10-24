@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|LEDS-0402-W-STAN-01-L42W|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0402-W-STAN-01-L42W|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS42WSTAN1L42W|
-|Name|name|LEDS-0402-W-STAN-01-L42W|
+|name|name|LEDS-0402-W-STAN-01-L42W|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LEDS-0402-W-STAN-01-L42W', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:LEDS-0402-W-STAN-01-L42W', 'kicadSymbolDatasheet': 'oom.lt/L42W', 'kicadSymbolki_keywords': 'LED diode', 'kicadSymbolki_description': 'hexID: L42W;Light emitting diode', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

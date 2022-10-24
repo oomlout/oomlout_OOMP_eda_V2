@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MSP430F5309IZQE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F5309IZQE|
 |Hex ID (short code)|hexID|SZKMCUTEXASMSP43MSP43F539IZQE|
-|Name|name|MSP430F5309IZQE|
+|name|name|MSP430F5309IZQE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MSP430F5308IZQE', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MSP430F5309IZQE', 'kicadSymbolFootprint': 'Package_BGA:Texas_MicroStar_Junior_BGA-80_5.0x5.0mm_Layout9x9_P0.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/msp430f5309.pdf', 'kicadSymbolki_keywords': 'TI MSP430 16-bit mixed signal microcontroller', 'kicadSymbolki_description': '24kB Flash, 6kB RAM, BGA-80', 'kicadSymbolki_fp_filters': 'Texas*MicroStar*Junior*BGA*5.0x5.0mm*Layout9x9*P0.5mm*'}]|
 ||||

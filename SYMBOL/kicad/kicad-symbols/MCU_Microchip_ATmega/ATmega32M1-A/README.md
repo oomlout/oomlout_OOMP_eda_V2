@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega32M1-A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega32M1-A|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA32M1A|
-|Name|name|ATmega32M1-A|
+|name|name|ATmega32M1-A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATmega16M1-A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega32M1-A', 'kicadSymbolFootprint': 'Package_QFP:TQFP-32_7x7mm_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8209-8-bit%20AVR%20ATmega16M1-32M1-64M1_Datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR', 'kicadSymbolki_description': '16MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, CAN, TQFP-32', 'kicadSymbolki_fp_filters': 'TQFP*7x7mm*P0.8mm*'}]|
 ||||

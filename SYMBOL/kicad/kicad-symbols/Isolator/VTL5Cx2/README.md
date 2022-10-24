@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VTL5Cx2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-VTL5Cx2|
 |Hex ID (short code)|hexID|SZKISOLATORVTL5CX2|
-|Name|name|VTL5Cx2|
+|name|name|VTL5Cx2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'VTL5Cx2', 'kicadSymbolFootprint': 'OptoDevice:PerkinElmer_VTL5Cx2', 'kicadSymbolDatasheet': 'http://www.alliedelec.com/m/d/ecb1ed91959ae54d97cf67f5103d9b2b.pdf', 'kicadSymbolki_keywords': 'vactrol', 'kicadSymbolki_description': 'Dual Element Axial Vactrols', 'kicadSymbolki_fp_filters': 'PerkinElmer*VTL5C*'}]|
 ||||

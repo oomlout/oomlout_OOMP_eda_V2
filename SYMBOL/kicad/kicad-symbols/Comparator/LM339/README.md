@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM339|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Comparator-LM339|
 |Hex ID (short code)|hexID|SZKCOMPARATORLM339|
-|Name|name|LM339|
+|name|name|LM339|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM339', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/lm139.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'cmp open collector', 'kicadSymbolki_description': 'Quad Differential Comparators, SOIC-14/TSSOP-14', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm*'}]|
 ||||

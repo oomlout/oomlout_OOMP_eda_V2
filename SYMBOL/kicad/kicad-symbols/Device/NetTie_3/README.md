@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NetTie_3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-NetTie_3|
 |Hex ID (short code)|hexID|SZKDEVICENT3|
-|Name|name|NetTie_3|
+|name|name|NetTie_3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'NT', 'kicadSymbolValue': 'NetTie_3', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'net tie short', 'kicadSymbolki_description': 'Net tie, 3 pins', 'kicadSymbolki_fp_filters': 'Net*Tie*'}]|
 ||||

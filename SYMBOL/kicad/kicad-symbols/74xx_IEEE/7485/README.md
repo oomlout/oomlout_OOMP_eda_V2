@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|7485|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx_IEEE-7485|
 |Hex ID (short code)|hexID|SZK74XXIEEE7485|
-|Name|name|7485|
+|name|name|7485|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '7485', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

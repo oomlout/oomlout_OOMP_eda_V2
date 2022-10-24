@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SFH3201|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH3201|
 |Hex ID (short code)|hexID|SZKSENOPTICALSFH321|
-|Name|name|SFH3201|
+|name|name|SFH3201|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'SFH3201', 'kicadSymbolFootprint': 'OptoDevice:Osram_SFH9x0x', 'kicadSymbolDatasheet': 'https://dammedia.osram.info/media/resource/hires/osram-dam-2495980/SFH%203201.pdf', 'kicadSymbolki_keywords': 'NPN phototransistor', 'kicadSymbolki_description': 'Silicon NPN phototransistor, SMD-6', 'kicadSymbolki_fp_filters': 'Osram*SFH9x0x*'}]|
 ||||

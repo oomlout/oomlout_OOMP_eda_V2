@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C3D06060G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-C3D06060G|
 |Hex ID (short code)|hexID|SZKDIODEC3D66G|
-|Name|name|C3D06060G|
+|name|name|C3D06060G|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'C3D06060G', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-2_TabPin1', 'kicadSymbolDatasheet': 'https://www.wolfspeed.com/media/downloads/137/C3D06060G.pdf', 'kicadSymbolki_keywords': 'sic diode', 'kicadSymbolki_description': '600V, 6A, SiC Schottky Diode, TO-263', 'kicadSymbolki_fp_filters': 'TO?263*TabPin1*'}]|
 ||||

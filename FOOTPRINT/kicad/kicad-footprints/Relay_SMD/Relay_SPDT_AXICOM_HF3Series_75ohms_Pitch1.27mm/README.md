@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm|
 |Hex ID (short code)|hexID|FZKRELAYSMRELAYSPDTAXICOMHF3SERIES75OHMSPITCH127|
-|Name|name|Relay_SMD : Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm|
+|name|name|Relay_SMD : Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm', 'description': 'hiqsdr.com/images/3/3e/Axicom-HF3.pdf', 'tags': 'AXICOM HF3-Series Relay Pitch 1.27mm 75ohm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_SMD.3dshapes/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/kicadPcb3d_450.png

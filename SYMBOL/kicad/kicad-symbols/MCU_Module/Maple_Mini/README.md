@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Maple_Mini|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Module-Maple_Mini|
 |Hex ID (short code)|hexID|SZKMCUMOMAPLEM|
-|Name|name|Maple_Mini|
+|name|name|Maple_Mini|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'A', 'kicadSymbolValue': 'Maple_Mini', 'kicadSymbolFootprint': 'Module:Maple_Mini', 'kicadSymbolDatasheet': 'http://docs.leaflabs.com/static.leaflabs.com/pub/leaflabs/maple-docs/0.0.12/hardware/maple-mini.html', 'kicadSymbolki_keywords': 'Maple Mini Microcontroller Module LeafLabs STM32 STM32F103', 'kicadSymbolki_description': 'Maple Mini Microcontroller Module by LeafLabs', 'kicadSymbolki_fp_filters': 'Maple*Mini*'}]|
 ||||

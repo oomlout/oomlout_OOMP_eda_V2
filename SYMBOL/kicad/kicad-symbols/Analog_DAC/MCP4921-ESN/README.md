@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP4921-ESN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4921-ESN|
 |Hex ID (short code)|hexID|SZKANALOGDACMCP4921ESN|
-|Name|name|MCP4921-ESN|
+|name|name|MCP4921-ESN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP4921-EMS', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP4921-ESN', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/21897a.pdf', 'kicadSymbolki_keywords': 'Single DAC 1ch 12bit SPI', 'kicadSymbolki_description': 'Single 12-bit Digital to Analog Converter, SPI Interface, SOIC-8', 'kicadSymbolki_fp_filters': 'MSOP* SOIC* DIP* PDIP*'}]|
 ||||

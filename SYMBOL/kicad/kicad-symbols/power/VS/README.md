@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-VS|
 |Hex ID (short code)|hexID|SZKPOWERVS|
-|Name|name|VS|
+|name|name|VS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'VS', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "VS"'}]|
 ||||

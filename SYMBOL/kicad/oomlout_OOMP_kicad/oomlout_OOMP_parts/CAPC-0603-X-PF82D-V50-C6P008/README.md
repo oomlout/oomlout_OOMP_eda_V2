@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0603-X-PF82D-V50-C6P008|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF82D-V50-C6P008|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XPF82DV5C6P8|
-|Name|name|CAPC-0603-X-PF82D-V50-C6P008|
+|name|name|CAPC-0603-X-PF82D-V50-C6P008|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0603-X-PF82D-V50-C6P008', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0603-X-PF82D-V50-C6P008', 'kicadSymbolDatasheet': 'oom.lt/C6P008', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C6P008;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Adafruit_Feather_32u4_RFM|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_32u4_RFM|
 |Hex ID (short code)|hexID|FZKMOADAFEATHER32U4RFM|
-|Name|name|Module : Adafruit_Feather_32u4_RFM|
+|name|name|Module : Adafruit_Feather_32u4_RFM|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Adafruit_Feather_32u4_RFM', 'description': 'Footprint for the Adafruit Feather 32u4 RFM series of boards, https://learn.adafruit.com/adafruit-feather-32u4-radio-with-rfm69hcw-module', 'tags': 'Adafruit Feather 32u4 RFM', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Module.3dshapes/Adafruit_Feather_32u4_RFM.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Module/Adafruit_Feather_32u4_RFM/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Module/Adafruit_Feather_32u4_RFM/kicadPcb3d_450.png

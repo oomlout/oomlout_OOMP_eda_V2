@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega88A-M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega88A-M|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA88AM|
-|Name|name|ATmega88A-M|
+|name|name|ATmega88A-M|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATmega48PV-10M', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega88A-M', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega48A_88A_168A-Data-Sheet-40002007A.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR', 'kicadSymbolki_description': '20MHz, 8kB Flash, 1kB SRAM, 512B EEPROM, QFN-32', 'kicadSymbolki_fp_filters': 'QFN*1EP*5x5mm*P0.5mm*'}]|
 ||||

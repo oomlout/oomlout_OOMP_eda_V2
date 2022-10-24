@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F1518-ISS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1518-ISS|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F1518ISS|
-|Name|name|PIC16F1518-ISS|
+|name|name|PIC16F1518-ISS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC16F1518-ISP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F1518-ISS', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41452B.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller XLP', 'kicadSymbolki_description': 'PIC16F1518, 16384W FLASH, 1024B SRAM, SSOP-28', 'kicadSymbolki_fp_filters': 'DIP* PDIP* SO* SSOP*'}]|
 ||||

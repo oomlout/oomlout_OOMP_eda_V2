@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AVR-ISP-6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-AVR-ISP-6|
 |Hex ID (short code)|hexID|SZKCNAVRISP6|
-|Name|name|AVR-ISP-6|
+|name|name|AVR-ISP-6|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'AVR-ISP-6', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'AVR ISP Connector', 'kicadSymbolki_description': 'Atmel 6-pin ISP connector', 'kicadSymbolki_fp_filters': 'IDC?Header*2x03* Pin?Header*2x03*'}]|
 ||||

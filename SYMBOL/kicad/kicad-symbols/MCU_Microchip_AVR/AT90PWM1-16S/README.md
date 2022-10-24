@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AT90PWM1-16S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR-AT90PWM1-16S|
 |Hex ID (short code)|hexID|SZKMCUMCHIPAVRAT9PWM116S|
-|Name|name|AT90PWM1-16S|
+|name|name|AT90PWM1-16S|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AT90PWM1-16S', 'kicadSymbolFootprint': 'Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc4378.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller LightingAVR PWM', 'kicadSymbolki_description': '16MHz, 8kB Flash, 512B SRAM, 512B EEPROM, SOIC-24', 'kicadSymbolki_fp_filters': 'SOIC*7.5x15.4mm*P1.27mm*'}]|
 ||||

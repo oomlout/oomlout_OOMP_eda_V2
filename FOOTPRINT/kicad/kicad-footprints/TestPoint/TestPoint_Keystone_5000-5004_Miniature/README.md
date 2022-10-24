@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TestPoint_Keystone_5000-5004_Miniature|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Keystone_5000-5004_Miniature|
 |Hex ID (short code)|hexID|FZKTPTPKEYSTONE554MATURE|
-|Name|name|TestPoint : TestPoint_Keystone_5000-5004_Miniature|
+|name|name|TestPoint : TestPoint_Keystone_5000-5004_Miniature|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TestPoint_Keystone_5000-5004_Miniature', 'description': 'Keystone Miniature THM Test Point 5000-5004, http://www.keyelco.com/product-pdf.cfm?p=1309', 'tags': 'Through Hole Mount Test Points', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Keystone_5000-5004_Miniature.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

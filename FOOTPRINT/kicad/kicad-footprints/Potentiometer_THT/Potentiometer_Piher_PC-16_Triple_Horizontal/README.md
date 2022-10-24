@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Potentiometer_Piher_PC-16_Triple_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_PC-16_Triple_Horizontal|
 |Hex ID (short code)|hexID|FZKPPOTENTIOMETERPIHERPC16TRIPLEHORIZONTAL|
-|Name|name|Potentiometer_THT : Potentiometer_Piher_PC-16_Triple_Horizontal|
+|name|name|Potentiometer_THT : Potentiometer_Piher_PC-16_Triple_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Piher_PC-16_Triple_Horizontal', 'description': 'Potentiometer, horizontal, Piher PC-16 Triple, http://www.piher-nacesa.com/pdf/20-PC16v03.pdf', 'tags': 'Potentiometer horizontal Piher PC-16 Triple', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Piher_PC-16_Triple_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Piher_PC-16_Triple_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Piher_PC-16_Triple_Horizontal/kicadPcb3d_450.png

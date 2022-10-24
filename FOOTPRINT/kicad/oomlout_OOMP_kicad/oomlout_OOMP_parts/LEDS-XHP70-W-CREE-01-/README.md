@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|LEDS-XHP70-W-CREE-01-|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-XHP70-W-CREE-01-|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLSXHP7WCREE1|
-|Name|name|oomlout_OOMP_parts : LEDS-XHP70-W-CREE-01-|
+|name|name|oomlout_OOMP_parts : LEDS-XHP70-W-CREE-01-|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LEDS-XHP70-W-CREE-01-', 'description': 'hexID: ; Cree XHP70 LED, 6V version, http://www.cree.com/~/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/ds%20XHP70.pdf', 'tags': 'LED Cree XHP70', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Cree-XHP70_6V.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

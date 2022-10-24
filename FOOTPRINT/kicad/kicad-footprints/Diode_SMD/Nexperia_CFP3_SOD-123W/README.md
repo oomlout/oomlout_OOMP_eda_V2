@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Nexperia_CFP3_SOD-123W|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Nexperia_CFP3_SOD-123W|
 |Hex ID (short code)|hexID|FZKDIODESMNEXPERIACFP3SOD123W|
-|Name|name|Diode_SMD : Nexperia_CFP3_SOD-123W|
+|name|name|Diode_SMD : Nexperia_CFP3_SOD-123W|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Nexperia_CFP3_SOD-123W', 'description': 'Nexperia CFP3 (SOD-123W), https://assets.nexperia.com/documents/outline-drawing/SOD123W.pdf', 'tags': 'CFP3 SOD-123W', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/Nexperia_CFP3_SOD-123W.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Nexperia_CFP3_SOD-123W/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Nexperia_CFP3_SOD-123W/kicadPcb3d_450.png

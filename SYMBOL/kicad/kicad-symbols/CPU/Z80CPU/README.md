@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Z80CPU|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPU-Z80CPU|
 |Hex ID (short code)|hexID|SZKCPUZ8CPU|
-|Name|name|Z80CPU|
+|name|name|Z80CPU|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Z80CPU', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'www.zilog.com/manage_directlink.php?filepath=docs/z80/um0080', 'kicadSymbolki_keywords': 'Z80 CPU uP', 'kicadSymbolki_description': '8-bit General Purpose Microprocessor, DIP-40', 'kicadSymbolki_fp_filters': 'DIP* PDIP*'}]|
 ||||

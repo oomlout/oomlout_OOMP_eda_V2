@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MIC5205-3.1YM5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5205-3.1YM5|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMIC52531YM5|
-|Name|name|MIC5205-3.1YM5|
+|name|name|MIC5205-3.1YM5|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AP131-15', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MIC5205-3.1YM5', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20005785A.pdf', 'kicadSymbolki_keywords': '150mA low-noise LDO linear voltage regulator fixed positive', 'kicadSymbolki_description': '150mA low dropout linear regulator, fixed 3.1V output, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

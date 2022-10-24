@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Voltmeter_AC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Voltmeter_AC|
 |Hex ID (short code)|hexID|SZKDEVICEVOLTMETERAC|
-|Name|name|Voltmeter_AC|
+|name|name|Voltmeter_AC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'MES', 'kicadSymbolValue': 'Voltmeter_AC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'voltmeter AC', 'kicadSymbolki_description': 'AC voltmeter'}]|
 ||||

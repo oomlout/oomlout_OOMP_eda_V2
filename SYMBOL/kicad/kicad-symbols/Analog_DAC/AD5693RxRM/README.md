@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD5693RxRM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-AD5693RxRM|
 |Hex ID (short code)|hexID|SZKANALOGDACAD5693RXRM|
-|Name|name|AD5693RxRM|
+|name|name|AD5693RxRM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AD5691RxRM', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD5693RxRM', 'kicadSymbolFootprint': 'Package_SO:MSOP-10_3x3mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD5693R_5692R_5691R_5693.pdf', 'kicadSymbolki_keywords': 'serial DAC i2c digital analog converter', 'kicadSymbolki_description': 'Tiny, 16-Bit, I2C, nanoDAC+, 2 ppm/°C Reference, MSOP-10', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.5mm*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_CommonModeChoke_Wuerth_WE-SL5|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonModeChoke_Wuerth_WE-SL5|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLCOONMODECHOKEWUERTHWESL5|
-|Name|name|Inductor_SMD : L_CommonModeChoke_Wuerth_WE-SL5|
+|name|name|Inductor_SMD : L_CommonModeChoke_Wuerth_WE-SL5|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_CommonModeChoke_Wuerth_WE-SL5', 'description': 'WE-SL5 SMT Common Mode Line Filter, https://www.we-online.de/katalog/en/WE-SL5/, https://www.we-online.de/katalog/datasheet/744272471.pdf', 'tags': 'SMT Common Mode Line Filter', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_CommonModeChoke_Wuerth_WE-SL5.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Wuerth_WE-SL5/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Wuerth_WE-SL5/kicadPcb3d_450.png

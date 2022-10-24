@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O472-01-R85472|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O472-01-R85472|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO4721R85472|
-|Name|name|RESE-0805-X-O472-01-R85472|
+|name|name|RESE-0805-X-O472-01-R85472|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O472-01-R85472', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O472-01-R85472', 'kicadSymbolDatasheet': 'oom.lt/R85472', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R85472;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

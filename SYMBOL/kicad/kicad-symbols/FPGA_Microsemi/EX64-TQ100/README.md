@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EX64-TQ100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-EX64-TQ100|
 |Hex ID (short code)|hexID|SZKFPGAMSEMIEX64TQ1|
-|Name|name|EX64-TQ100|
+|name|name|EX64-TQ100|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EX64-TQ100', 'kicadSymbolFootprint': 'Package_QFP:TQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.microsemi.com/document-portal/doc_download/130687-ex-datasheet', 'kicadSymbolki_keywords': 'Actel FPGA eX eX64', 'kicadSymbolki_description': 'Actel eX Family FPGA, 100pin QFP', 'kicadSymbolki_fp_filters': '*QFP*14x14mm*P0.5mm*'}]|
 ||||

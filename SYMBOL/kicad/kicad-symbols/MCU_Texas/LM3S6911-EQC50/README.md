@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM3S6911-EQC50|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Texas-LM3S6911-EQC50|
 |Hex ID (short code)|hexID|SZKMCUTEXASLM3S6911EQC5|
-|Name|name|LM3S6911-EQC50|
+|name|name|LM3S6911-EQC50|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM3S6911-EQC50', 'kicadSymbolFootprint': 'Package_QFP:LQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm3s6911.pdf', 'kicadSymbolki_keywords': 'MCU ARM M3 Stellaris PHY ETH NRND', 'kicadSymbolki_description': 'Ti Stellaris ARM-M3 MCU Ethernet PHY, LQFP100', 'kicadSymbolki_fp_filters': 'LQFP*14x14mm*P0.5mm*'}]|
 ||||

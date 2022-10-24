@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|8253|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-8253|
 |Hex ID (short code)|hexID|SZKTIMER8253|
-|Name|name|8253|
+|name|name|8253|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '82C54', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '8253', 'kicadSymbolFootprint': 'Package_DIP:DIP-24_W15.24mm', 'kicadSymbolDatasheet': 'http://www.cpcwiki.eu/imgs/e/e3/8253.pdf', 'kicadSymbolki_keywords': 'Timer Counter', 'kicadSymbolki_description': 'Programmable Interval Timer, PDIP-24', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

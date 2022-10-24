@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Filter_EMI_CLC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Filter_EMI_CLC|
 |Hex ID (short code)|hexID|SZKDEVICEFILEMICLC|
-|Name|name|Filter_EMI_CLC|
+|name|name|Filter_EMI_CLC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'FL', 'kicadSymbolValue': 'Filter_EMI_CLC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb', 'kicadSymbolki_keywords': 'EMI T-filter', 'kicadSymbolki_description': 'EMI T-filter (CLC)', 'kicadSymbolki_fp_filters': 'Filter* Resonator*'}]|
 ||||

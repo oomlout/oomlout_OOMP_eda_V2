@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HY1602E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-HY1602E|
 |Hex ID (short code)|hexID|SZKDICHARACTERHY162E|
-|Name|name|HY1602E|
+|name|name|HY1602E|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'DS', 'kicadSymbolValue': 'HY1602E', 'kicadSymbolFootprint': 'Display:HY1602E', 'kicadSymbolDatasheet': 'http://www.icbank.com/data/ICBShop/board/HY1602E.pdf', 'kicadSymbolki_keywords': 'display LCD 7-segment', 'kicadSymbolki_description': 'LCD 16x2 Alphanumeric 16pin Blue/Yellow/Green Backlight, 8bit parallel, 5V VDD', 'kicadSymbolki_fp_filters': '*HY1602E*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|G5LE-1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-G5LE-1|
 |Hex ID (short code)|hexID|SZKRELAYG5LE1|
-|Name|name|G5LE-1|
+|name|name|G5LE-1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'G5LE-1', 'kicadSymbolFootprint': 'Relay_THT:Relay_SPDT_Omron-G5LE-1', 'kicadSymbolDatasheet': 'http://www.omron.com/ecb/products/pdf/en-g5le.pdf', 'kicadSymbolki_keywords': 'Miniature Single Pole Relay', 'kicadSymbolki_description': 'Omron G5LE relay, Miniature Single Pole, SPDT, 10A', 'kicadSymbolki_fp_filters': 'Relay*SPDT*Omron*G5LE?1*'}]|
 ||||

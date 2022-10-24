@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TSSP58038|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Proximity-TSSP58038|
 |Hex ID (short code)|hexID|SZKSENPROXIMITYTSSP5838|
-|Name|name|TSSP58038|
+|name|name|TSSP58038|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TSSP58P38', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TSSP58038', 'kicadSymbolFootprint': 'OptoDevice:Vishay_MINICAST-3Pin', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/82476/tssp58p38.pdf', 'kicadSymbolki_keywords': 'opto IR receiver proximity sensor', 'kicadSymbolki_description': 'IR Detector for Mid Range Proximity Sensor', 'kicadSymbolki_fp_filters': 'Vishay*MINICAST*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC34064SN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Supervisor-MC34064SN|
 |Hex ID (short code)|hexID|SZKPOWERSUPERVISORMC3464SN|
-|Name|name|MC34064SN|
+|name|name|MC34064SN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC34064SN', 'kicadSymbolFootprint': 'Package_SO:TSOP-5_1.65x3.05mm_P0.95mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MC34064-D.PDF', 'kicadSymbolki_keywords': 'Power Supervisor', 'kicadSymbolki_description': 'Undervoltage Sensing Circuit, TSOP-5', 'kicadSymbolki_fp_filters': 'TSOP*1.65x3.05mm*P0.95mm*'}]|
 ||||

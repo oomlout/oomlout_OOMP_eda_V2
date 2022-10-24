@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DirectFET_L4|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_L4|
 |Hex ID (short code)|hexID|FZKDFETDIRECTFETL4|
-|Name|name|Package_DirectFET : DirectFET_L4|
+|name|name|Package_DirectFET : DirectFET_L4|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DirectFET_L4', 'description': 'DirectFET L4 https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=41', 'tags': 'DirectFET L4 MOSFET Infineon', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DirectFET.3dshapes/DirectFET_L4.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DirectFET/DirectFET_L4/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DirectFET/DirectFET_L4/kicadPcb3d_450.png

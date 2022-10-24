@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MIC5219-3.6YMM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5219-3.6YMM|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMIC521936Y|
-|Name|name|MIC5219-3.6YMM|
+|name|name|MIC5219-3.6YMM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MIC5219-2.5YMM', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MIC5219-3.6YMM', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/MIC5219-500mA-Peak-Output-LDO-Regulator-DS20006021A.pdf', 'kicadSymbolki_keywords': '500mA ultra-low-noise LDO linear voltage regulator fixed positive', 'kicadSymbolki_description': '500mA low dropout linear regulator, fixed 3.6V output, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
 ||||

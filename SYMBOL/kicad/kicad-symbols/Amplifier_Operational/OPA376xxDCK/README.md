@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA376xxDCK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA376xxDCK|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA376XXDCK|
-|Name|name|OPA376xxDCK|
+|name|name|OPA376xxDCK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LMV321', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA376xxDCK', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/opa376.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Single Low-Noise, Low Quiescent Current, Precision Operational Amplifier e-trim Series, SC-70-5', 'kicadSymbolki_fp_filters': 'SOT?23* *SC*70*'}]|
 ||||

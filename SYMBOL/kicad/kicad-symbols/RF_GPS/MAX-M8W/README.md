@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|MAX-M8W|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_GPS-MAX-M8W|
 |Hex ID (short code)|hexID|SZKGPSMAXM8W|
-|Name|name|MAX-M8W|
+|name|name|MAX-M8W|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX-M8W', 'kicadSymbolFootprint': 'RF_GPS:ublox_MAX', 'kicadSymbolDatasheet': 'https://www.u-blox.com/sites/default/files/MAX-M8-FW3_DataSheet_%28UBX-15031506%29.pdf', 'kicadSymbolki_keywords': 'ublox GPS GNSS module', 'kicadSymbolki_description': 'GNSS Module MAX M8, VCC 2.7V to 3.6V', 'kicadSymbolki_fp_filters': 'ublox*MAX*'}]|
 ||||

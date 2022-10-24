@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF3205|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF3205|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF325|
-|Name|name|IRF3205|
+|name|name|IRF3205|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BUZ11', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF3205', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'http://www.irf.com/product-info/datasheets/data/irf3205.pdf', 'kicadSymbolki_keywords': 'Single N-Channel HEXFET Power MOSFET', 'kicadSymbolki_description': '110A Id, 55V Vds, Single N-Channel HEXFET Power MOSFET, 8mOhm Ron, TO-220AB', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

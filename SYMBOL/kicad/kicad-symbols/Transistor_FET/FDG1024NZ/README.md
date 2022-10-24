@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FDG1024NZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-FDG1024NZ|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETFDG124NZ|
-|Name|name|FDG1024NZ|
+|name|name|FDG1024NZ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FDG1024NZ', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FDG1024NZ-D.pdf', 'kicadSymbolki_keywords': 'Dual N-Channel MOSFET Logic Level', 'kicadSymbolki_description': '1.2A Id, 20V Vds, Dual N-Channel MOSFET, 175mOhm Ron, SC-70-6', 'kicadSymbolki_fp_filters': 'SOT?363*'}]|
 ||||

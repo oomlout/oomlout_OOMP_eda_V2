@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM2575-5.0BT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2575-5.0BT|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM25755BT|
-|Name|name|LM2575-5.0BT|
+|name|name|LM2575-5.0BT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM2576HVT-12', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2575-5.0BT', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-5_Vertical', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/lm2575.pdf', 'kicadSymbolki_keywords': 'Buck regulator Switcher', 'kicadSymbolki_description': 'Fixed 5.0V 52kHz Simple 1A Buck Regulator, TO-220-5', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

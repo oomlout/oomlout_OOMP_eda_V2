@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4012|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx-4012|
 |Hex ID (short code)|hexID|SZK4XXX412|
-|Name|name|4012|
+|name|name|4012|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4012', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4011bms-12bms-23bms.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'CMOS Nand4', 'kicadSymbolki_description': 'Dual 4 inputs Nand', 'kicadSymbolki_fp_filters': 'DIP?14*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NXE1S0303MC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-NXE1S0303MC|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGNXE1S33MC|
-|Name|name|NXE1S0303MC|
+|name|name|NXE1S0303MC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NXE2S0505MC', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NXE1S0303MC', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_Murata_NXExSxxxxMC_SMD', 'kicadSymbolDatasheet': 'https://www.murata.com/products/productdata/8807031865374/kdc-nxe1.pdf', 'kicadSymbolki_keywords': 'isolated isolation dc-dc converter transformer', 'kicadSymbolki_description': '1W 3.3V to 3.3V 303mA DC-DC Converter with 3kV isolation', 'kicadSymbolki_fp_filters': 'Converter*DCDC*Murata*NXExSxxxxMC*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CSD19537Q3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD19537Q3|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETCSD19537Q3|
-|Name|name|CSD19537Q3|
+|name|name|CSD19537Q3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'CSD19537Q3', 'kicadSymbolFootprint': 'Package_SON:VSON-8_3.3x3.3mm_P0.65mm_NexFET', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/csd19537q3.pdf', 'kicadSymbolki_keywords': 'NexFET Power MOSFET N-MOS', 'kicadSymbolki_description': '50A Id, 100V Vds, NexFET N-Channel Power MOSFET, 13mOhm Ron, Qg Typ 16.0nC, VSON8 3.3x3.3mm', 'kicadSymbolki_fp_filters': 'VSON*3.3x3.3mm*P0.65mm*NexFET*'}]|
 ||||

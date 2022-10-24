@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Luna_NSL-32|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Luna_NSL-32|
 |Hex ID (short code)|hexID|FZKOPLUNANSL32|
-|Name|name|OptoDevice : Luna_NSL-32|
+|name|name|OptoDevice : Luna_NSL-32|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Luna_NSL-32', 'description': 'Optoisolator with LED and photoresistor', 'tags': 'optoisolator', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Luna_NSL-32.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Luna_NSL-32/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/Luna_NSL-32/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC18LF26K80_IML|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF26K80_IML|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC18PIC18LF26K8IML|
-|Name|name|PIC18LF26K80_IML|
+|name|name|PIC18LF26K80_IML|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC18F25K80_IML', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18LF26K80_IML', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/39977f.pdf', 'kicadSymbolki_keywords': 'microchip microcontroller PIC18 flash ECAN XLP nanoWatt', 'kicadSymbolki_description': '64K Flash, 3.5K RAM, 1K EEPROM PIC18 Microcontroller ADC PWM CAN SPI I2C USART in QFN28 package', 'kicadSymbolki_fp_filters': 'QFN*1EP*6x6mm*P0.65mm*'}]|
 ||||

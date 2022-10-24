@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FT240XS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-FT240XS|
 |Hex ID (short code)|hexID|SZKINTERFACEUFT24XS|
-|Name|name|FT240XS|
+|name|name|FT240XS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FT240XS', 'kicadSymbolFootprint': 'Package_SO:SSOP-24_3.9x8.7mm_P0.635mm', 'kicadSymbolDatasheet': 'https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT240X.pdf', 'kicadSymbolki_keywords': 'FTDI USB FIFO interface converter', 'kicadSymbolki_description': 'Full Speed USB to 8-Bit FIFO, SSOP-24', 'kicadSymbolki_fp_filters': 'SSOP*3.9x8.7mm*P0.635mm*'}]|
 ||||

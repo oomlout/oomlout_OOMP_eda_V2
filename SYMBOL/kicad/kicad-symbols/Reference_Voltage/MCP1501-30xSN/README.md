@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP1501-30xSN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1501-30xSN|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGEMCP1513XSN|
-|Name|name|MCP1501-30xSN|
+|name|name|MCP1501-30xSN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP1501-10xSN', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP1501-30xSN', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20005474E.pdf', 'kicadSymbolki_keywords': 'precision buffered voltage reference 3V', 'kicadSymbolki_description': '3V, 0.1%, 20mA, Precision Voltage Reference, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Relay_Socket_DPDT_Finder_96.12|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_Socket_DPDT_Finder_96.12|
 |Hex ID (short code)|hexID|FZKRELRELAYSODPDTFINDER9612|
-|Name|name|Relay_THT : Relay_Socket_DPDT_Finder_96.12|
+|name|name|Relay_THT : Relay_Socket_DPDT_Finder_96.12|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Relay_Socket_DPDT_Finder_96.12', 'description': 'https://gfinder.findernet.com/public/attachments/56/DE/S56DE.pdf', 'tags': 'Relay socket DPDT Finder 96.12 56.32', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_Socket_DPDT_Finder_96.12.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_Socket_DPDT_Finder_96.12/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_Socket_DPDT_Finder_96.12/kicadPcb3d_450.png

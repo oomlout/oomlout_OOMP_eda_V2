@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADM3053|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-ADM3053|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINADM353|
-|Name|name|ADM3053|
+|name|name|ADM3053|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADM3053', 'kicadSymbolFootprint': 'Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADM3053.pdf', 'kicadSymbolki_keywords': 'can transceiver isolated protected', 'kicadSymbolki_description': 'Isolated CAN Transceiver, integrated isolated DC-DC converter, 1Mbps', 'kicadSymbolki_fp_filters': 'SOIC*P1.27mm*'}]|
 ||||

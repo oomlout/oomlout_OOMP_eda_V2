@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1083-5.0|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1083-5.0|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLT1835|
-|Name|name|LT1083-5.0|
+|name|name|LT1083-5.0|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM1084-3.3', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1083-5.0', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1083ffe.pdf', 'kicadSymbolki_keywords': 'Voltage Regulator Fixed 7.5A Positive LDO', 'kicadSymbolki_description': '7.5A 20V LDO Linear Regulator, Fixed Output 5.V, TO-220/TO-263', 'kicadSymbolki_fp_filters': 'TO?220* TO?263*'}]|
 ||||

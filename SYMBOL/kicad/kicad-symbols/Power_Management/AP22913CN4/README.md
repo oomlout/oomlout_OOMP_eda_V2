@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AP22913CN4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-AP22913CN4|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTAP22913CN4|
-|Name|name|AP22913CN4|
+|name|name|AP22913CN4|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AP22913CN4', 'kicadSymbolFootprint': 'Package_CSP:WLCSP-4-X1-WLB0909-4_0.89x0.89mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/AP22913.pdf', 'kicadSymbolki_keywords': 'Lead control switch slew rate', 'kicadSymbolki_description': 'Slew rate controlled load switch, WLCSP-4', 'kicadSymbolki_fp_filters': 'WLCSP*X1*WLB0909*0.89x0.89*P0.5mm*'}]|
 ||||

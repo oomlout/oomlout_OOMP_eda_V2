@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLV2371DBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV2371DBV|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALTLV2371DBV|
-|Name|name|TLV2371DBV|
+|name|name|TLV2371DBV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP6L91T-EOT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV2371DBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tlv2375.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Rail-to-Rail Input/Output Operational Amplifier, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS468|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS468|
 |Hex ID (short code)|hexID|SZK74XXIEEE74LS468|
-|Name|name|74LS468|
+|name|name|74LS468|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS468', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Quectel_BC66|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_GSM-Quectel_BC66|
 |Hex ID (short code)|hexID|FZKGSMQUECTELBC66|
-|Name|name|RF_GSM : Quectel_BC66|
+|name|name|RF_GSM : Quectel_BC66|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Quectel_BC66', 'description': 'GSM NB-IoT module, 15.8x17.7x2mm, https://www.quectel.com/UploadImage/Downlad/Quectel_BC66_Hardware_Design_V1.1.pdf', 'tags': 'GSM NB-IoT Module BC66 M66', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_GSM.3dshapes/Quectel_BC66.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||

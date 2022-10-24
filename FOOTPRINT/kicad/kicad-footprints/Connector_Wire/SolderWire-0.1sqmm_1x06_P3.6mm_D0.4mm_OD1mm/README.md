@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SolderWire-0.1sqmm_1x06_P3.6mm_D0.4mm_OD1mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-0.1sqmm_1x06_P3.6mm_D0.4mm_OD1mm|
 |Hex ID (short code)|hexID|FZKCNWIRESOLDERWIRE1SQ1X6P36D4OD1|
-|Name|name|Connector_Wire : SolderWire-0.1sqmm_1x06_P3.6mm_D0.4mm_OD1mm|
+|name|name|Connector_Wire : SolderWire-0.1sqmm_1x06_P3.6mm_D0.4mm_OD1mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SolderWire-0.1sqmm_1x06_P3.6mm_D0.4mm_OD1mm', 'description': 'Soldered wire connection, for 6 times 0.1 mm² wires, basic insulation, conductor diameter 0.4mm, outer diameter 1mm, size source Multi-Contact FLEXI-E 0.1 (https://ec.staubli.com/AcroFiles/Catalogues/TM_Cab-Main-11014119_(en)_hi.pdf), bend radius 3 times outer diameter, generated with kicad-footprint-generator', 'tags': 'connector wire 0.1sqmm', 'attributeType': None, 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Wire.3dshapes/SolderWire-0.1sqmm_1x06_P3.6mm_D0.4mm_OD1mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.1sqmm_1x06_P3.6mm_D0.4mm_OD1mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.1sqmm_1x06_P3.6mm_D0.4mm_OD1mm/kicadPcb3d_450.png

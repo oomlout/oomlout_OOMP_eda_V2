@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Wuerth_36103205_20x20mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Wuerth_36103205_20x20mm|
 |Hex ID (short code)|hexID|FZKRFSWUERTH3613252X2|
-|Name|name|RF_Shielding : Wuerth_36103205_20x20mm|
+|name|name|RF_Shielding : Wuerth_36103205_20x20mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Wuerth_36103205_20x20mm', 'description': 'WE-SHC Shielding Cabinet SMD 20x20mm', 'tags': 'Shielding Cabinet', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Shielding.3dshapes/Wuerth_36103205_20x20mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

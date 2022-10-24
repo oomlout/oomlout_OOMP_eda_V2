@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BUF602xDBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-BUF602xDBV|
 |Hex ID (short code)|hexID|SZKAMPLIFIERBUFFERBUF62XDBV|
-|Name|name|BUF602xDBV|
+|name|name|BUF602xDBV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BUF602xDBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/buf602.pdf', 'kicadSymbolki_keywords': 'buffer amplifier', 'kicadSymbolki_description': 'High-Speed, 1000 MHz, Closed-Loop Buffer, SOT23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

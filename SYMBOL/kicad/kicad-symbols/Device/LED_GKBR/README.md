@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_GKBR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_GKBR|
 |Hex ID (short code)|hexID|SZKDEVICELGKBR|
-|Name|name|LED_GKBR|
+|name|name|LED_GKBR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_GKBR', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED RGB diode', 'kicadSymbolki_description': 'RGB LED, green/cathode/blue/red', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

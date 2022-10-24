@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRLZ34N|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLZ34N|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRLZ34N|
-|Name|name|IRLZ34N|
+|name|name|IRLZ34N|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BUZ11', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRLZ34N', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'http://www.infineon.com/dgdl/irlz34npbf.pdf?fileId=5546d462533600a40153567206892720', 'kicadSymbolki_keywords': 'N-Channel HEXFET MOSFET Logic-Level', 'kicadSymbolki_description': '30A Id, 55V Vds, 35mOhm Rds, N-Channel HEXFET Power MOSFET, TO-220AB', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

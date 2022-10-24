@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RT9701|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-RT9701|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTRT971|
-|Name|name|RT9701|
+|name|name|RT9701|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'RT9701', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.richtek.com/Products/Power%20Switch/RT9701?sc_lang=en', 'kicadSymbolki_keywords': 'power distribution switch', 'kicadSymbolki_description': '100 milliohm power distribution switch, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_ROHM_SMLVN6|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_ROHM_SMLVN6|
 |Hex ID (short code)|hexID|FZKLSMLROHMSMLVN6|
-|Name|name|LED_SMD : LED_ROHM_SMLVN6|
+|name|name|LED_SMD : LED_ROHM_SMLVN6|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_ROHM_SMLVN6', 'description': 'https://www.rohm.com/datasheet/SMLVN6RGB1U', 'tags': 'LED ROHM SMLVN6', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_ROHM_SMLVN6.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_ROHM_SMLVN6/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_ROHM_SMLVN6/kicadPcb3d_450.png

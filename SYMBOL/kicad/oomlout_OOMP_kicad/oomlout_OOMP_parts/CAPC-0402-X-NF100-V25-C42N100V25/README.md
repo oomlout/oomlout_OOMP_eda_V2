@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0402-X-NF100-V25-C42N100V25|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF100-V25-C42N100V25|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XNF1V25C42N1V25|
-|Name|name|CAPC-0402-X-NF100-V25-C42N100V25|
+|name|name|CAPC-0402-X-NF100-V25-C42N100V25|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0402-X-NF100-V25-C42N100V25', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0402-X-NF100-V25-C42N100V25', 'kicadSymbolDatasheet': 'oom.lt/C42N100V25', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C42N100V25;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

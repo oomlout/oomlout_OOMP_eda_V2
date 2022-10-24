@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|R_Network04|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-R_Network04|
 |Hex ID (short code)|hexID|SZKDEVICERNETWORK4|
-|Name|name|R_Network04|
+|name|name|R_Network04|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'RN', 'kicadSymbolValue': 'R_Network04', 'kicadSymbolFootprint': 'Resistor_THT:R_Array_SIP5', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/31509/csc.pdf', 'kicadSymbolki_keywords': 'R network star-topology', 'kicadSymbolki_description': '4 resistor network, star topology, bussed resistors, small symbol', 'kicadSymbolki_fp_filters': 'R?Array?SIP*'}]|
 ||||

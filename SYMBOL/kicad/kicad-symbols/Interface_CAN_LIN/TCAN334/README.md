@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TCAN334|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TCAN334|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINTCAN334|
-|Name|name|TCAN334|
+|name|name|TCAN334|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TCAN334', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tcan337.pdf', 'kicadSymbolki_keywords': 'High-Speed CAN Transceiver', 'kicadSymbolki_description': 'High-Speed CAN Transceiver, 1Mbps, 3.3V supply, low power standby mode, shutdown mode, SOT-23-8/SOIC-8', 'kicadSymbolki_fp_filters': '*TSOT?23* *SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

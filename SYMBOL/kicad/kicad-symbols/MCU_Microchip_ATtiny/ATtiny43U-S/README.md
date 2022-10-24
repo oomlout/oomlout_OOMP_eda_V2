@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATtiny43U-S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny43U-S|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATTINYATTINY43US|
-|Name|name|ATtiny43U-S|
+|name|name|ATtiny43U-S|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATtiny43U-S', 'kicadSymbolFootprint': 'Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc8048.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller tinyAVR Battery Boost', 'kicadSymbolki_description': '8MHz, 4kB Flash, 256B SRAM, 64B EEPROM, SOIC-20', 'kicadSymbolki_fp_filters': 'SOIC*7.5x12.8mm*P1.27mm*'}]|
 ||||

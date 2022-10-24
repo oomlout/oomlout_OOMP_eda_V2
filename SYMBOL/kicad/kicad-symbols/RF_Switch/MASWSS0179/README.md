@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|MASWSS0179|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Switch-MASWSS0179|
 |Hex ID (short code)|hexID|SZKRFSWITCHMASWSS179|
-|Name|name|MASWSS0179|
+|name|name|MASWSS0179|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MASWSS0179', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'https://cdn.macom.com/datasheets/MASWSS0179.pdf', 'kicadSymbolki_keywords': 'RF SWITCH SPDT', 'kicadSymbolki_description': 'Macom GaAs RF SPDT switch, DC-2GHz, 0.6/22dB loss/isolation, SOT-26 (SOT-23-6)', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

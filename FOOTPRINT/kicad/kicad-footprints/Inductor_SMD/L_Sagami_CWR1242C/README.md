@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Sagami_CWR1242C|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sagami_CWR1242C|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLSAGAMICWR1242C|
-|Name|name|Inductor_SMD : L_Sagami_CWR1242C|
+|name|name|Inductor_SMD : L_Sagami_CWR1242C|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Sagami_CWR1242C', 'description': 'Sagami power inductor, CWR1242C, H=4.5mm (http://www.sagami-elec.co.jp/file/16Car_SMDCwr.pdf)', 'tags': 'inductor sagami cwr12xx smd', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Sagami_CWR1242C.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Sagami_CWR1242C/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Sagami_CWR1242C/kicadPcb3d_450.png

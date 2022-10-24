@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TD1205|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-TD1205|
 |Hex ID (short code)|hexID|FZKRFMOTD125|
-|Name|name|RF_Module : TD1205|
+|name|name|RF_Module : TD1205|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TD1205', 'description': 'https://github.com/Telecom-Design/Documentation_TD_RF_Module/blob/master/TD1205%20Datasheet.pdf', 'tags': 'SIGFOX Module', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/TD1205.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

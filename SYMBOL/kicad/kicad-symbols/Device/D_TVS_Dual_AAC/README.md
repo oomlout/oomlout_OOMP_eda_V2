@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_TVS_Dual_AAC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_TVS_Dual_AAC|
 |Hex ID (short code)|hexID|SZKDEVICEDTVSDUALAAC|
-|Name|name|D_TVS_Dual_AAC|
+|name|name|D_TVS_Dual_AAC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_TVS_Dual_AAC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'diode TVS thyrector', 'kicadSymbolki_description': 'Bidirectional dual transient-voltage-suppression diode, center on pin 3'}]|
 ||||

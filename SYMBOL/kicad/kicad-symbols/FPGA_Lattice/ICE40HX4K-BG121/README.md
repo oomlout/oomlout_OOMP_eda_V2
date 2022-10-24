@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ICE40HX4K-BG121|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Lattice-ICE40HX4K-BG121|
 |Hex ID (short code)|hexID|SZKFPGALATTICEICE4HX4KBG121|
-|Name|name|ICE40HX4K-BG121|
+|name|name|ICE40HX4K-BG121|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ICE40HX8K-BG121', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ICE40HX4K-BG121', 'kicadSymbolFootprint': 'Package_BGA:BGA-121_9.0x9.0mm_Layout11x11_P0.8mm_Ball0.4mm_Pad0.35mm_NSMD', 'kicadSymbolDatasheet': 'http://www.latticesemi.com/Products/FPGAandCPLD/iCE40', 'kicadSymbolki_keywords': 'FPGA programmable logic', 'kicadSymbolki_description': 'iCE40 HX FPGA, 3520 LUTs, 1.2V, BGA-121', 'kicadSymbolki_fp_filters': 'BGA*9.0x9.0mm*Layout11x11*P0.8mm*Ball0.4mm*'}]|
 ||||

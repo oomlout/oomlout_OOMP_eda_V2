@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA340NA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA340NA|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA34NA|
-|Name|name|OPA340NA|
+|name|name|OPA340NA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP6L91T-EOT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA340NA', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/opa340.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Single Single-Supply, Rail-to-Rail Operational Amplifier, MicroAmplifier Series, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

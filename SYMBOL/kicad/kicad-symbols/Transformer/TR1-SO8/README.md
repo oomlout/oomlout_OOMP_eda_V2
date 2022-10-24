@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TR1-SO8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-TR1-SO8|
 |Hex ID (short code)|hexID|SZKTRTR1SO8|
-|Name|name|TR1-SO8|
+|name|name|TR1-SO8|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TR', 'kicadSymbolValue': 'TR1-SO8', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

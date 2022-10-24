@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L6727|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6727|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERL6727|
-|Name|name|L6727|
+|name|name|L6727|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'L6727', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/l6727.pdf', 'kicadSymbolki_keywords': 'SMPS controller', 'kicadSymbolki_description': 'Single Phase PWM Controller, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

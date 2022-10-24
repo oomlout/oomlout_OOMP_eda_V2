@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC18LF1320-SO|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF1320-SO|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC18PIC18LF132SO|
-|Name|name|PIC18LF1320-SO|
+|name|name|PIC18LF1320-SO|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC18F1220-SO', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18LF1320-SO', 'kicadSymbolFootprint': 'Package_SO:SOIC-18W_7.5x11.6mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/39605F.pdf', 'kicadSymbolki_keywords': 'RAM ADC UART PWM', 'kicadSymbolki_description': '18-Pin Flash Microcontroller 8K Flash 256byte RAM', 'kicadSymbolki_fp_filters': 'SOIC*W*7.5x11.6mm*P1.27mm*'}]|
 ||||

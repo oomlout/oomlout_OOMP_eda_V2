@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP3427-xMF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3427-xMF|
 |Hex ID (short code)|hexID|SZKANALOGADCMCP3427XMF|
-|Name|name|MCP3427-xMF|
+|name|name|MCP3427-xMF|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP3427-xMF', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.5mm_EP1.66x2.38mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/22226a.pdf', 'kicadSymbolki_keywords': 'adc 2ch 16bit i2c', 'kicadSymbolki_description': '16-Bit, Multi-Channel ΔΣ Analog-to-Digital Converter with I2C Interface and On-Board Reference, DFN-10', 'kicadSymbolki_fp_filters': 'DFN*3x3mm*P0.5mm*'}]|
 ||||

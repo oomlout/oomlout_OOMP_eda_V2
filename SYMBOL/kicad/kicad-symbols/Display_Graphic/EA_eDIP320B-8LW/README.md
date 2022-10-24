@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EA_eDIP320B-8LW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIP320B-8LW|
 |Hex ID (short code)|hexID|SZKDIGRAPHICEAEDIP32B8LW|
-|Name|name|EA_eDIP320B-8LW|
+|name|name|EA_eDIP320B-8LW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EA_eDIP320B-8LW', 'kicadSymbolFootprint': 'Display:EA_eDIP320X-XXX', 'kicadSymbolDatasheet': 'http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip320-8e.pdf', 'kicadSymbolki_keywords': 'display LCD graphic', 'kicadSymbolki_description': 'LCD graphical display 320x240 white LED backlight blue negative, +5V VDD, RS-232, I2C or SPI', 'kicadSymbolki_fp_filters': '*EA*eDIP320*'}]|
 ||||

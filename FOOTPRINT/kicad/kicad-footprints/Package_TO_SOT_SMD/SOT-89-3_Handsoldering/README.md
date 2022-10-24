@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOT-89-3_Handsoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-89-3_Handsoldering|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT893HANDSOLDERING|
-|Name|name|Package_TO_SOT_SMD : SOT-89-3_Handsoldering|
+|name|name|Package_TO_SOT_SMD : SOT-89-3_Handsoldering|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOT-89-3_Handsoldering', 'description': 'SOT-89-3 Handsoldering', 'tags': 'SOT-89-3 Handsoldering', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-89-3.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-89-3_Handsoldering/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-89-3_Handsoldering/kicadPcb3d_450.png

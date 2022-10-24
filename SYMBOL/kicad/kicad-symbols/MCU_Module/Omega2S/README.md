@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Omega2S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Module-Omega2S|
 |Hex ID (short code)|hexID|SZKMCUMOOMEGA2S|
-|Name|name|Omega2S|
+|name|name|Omega2S|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Omega2S', 'kicadSymbolFootprint': 'Module:Onion_Omega2S', 'kicadSymbolDatasheet': 'https://github.com/OnionIoT/Omega2/raw/master/Documents/Omega2S%20Datasheet.pdf', 'kicadSymbolki_keywords': 'onion omega module', 'kicadSymbolki_description': 'Iot Computer Module by Onion, 64MB RAM, 16MB FLASH', 'kicadSymbolki_fp_filters': 'Onion*Omega2S*'}]|
 ||||

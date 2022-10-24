@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Garmin_M8-35_9.8x14.0mm_Layout6x6_P1.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-Garmin_M8-35_9.8x14.0mm_Layout6x6_P1.5mm|
 |Hex ID (short code)|hexID|FZKRFMOGARMINM83598X14LAYOUT6X6P15|
-|Name|name|RF_Module : Garmin_M8-35_9.8x14.0mm_Layout6x6_P1.5mm|
+|name|name|RF_Module : Garmin_M8-35_9.8x14.0mm_Layout6x6_P1.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Garmin_M8-35_9.8x14.0mm_Layout6x6_P1.5mm', 'description': 'D52M ANT SoC Module https://www.thisisant.com/assets/resources/D00001687_D52_Module_Datasheet.v.2.3_(Garmin).pdf', 'tags': 'RF SoC Radio ANT Bluetooth BLE D52 nRF52 Garmin Canada Dynastream Nordic', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/Garmin_M8-35_9.8x14.0mm_Layout6x6_P1.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||

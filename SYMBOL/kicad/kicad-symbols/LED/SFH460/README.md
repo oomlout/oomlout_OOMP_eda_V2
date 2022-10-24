@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SFH460|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-LED-SFH460|
 |Hex ID (short code)|hexID|SZKLSFH46|
-|Name|name|SFH460|
+|name|name|SFH460|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SFH460', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-18-2_Window', 'kicadSymbolDatasheet': 'http://www.osram-os.com/Graphics/XPic6/00029609_0.pdf/SFh%20460.pdf', 'kicadSymbolki_keywords': 'opto IR LED', 'kicadSymbolki_description': 'GaAlAs Infrared LED, TO-18 package', 'kicadSymbolki_fp_filters': 'TO?18*Window*'}]|
 ||||

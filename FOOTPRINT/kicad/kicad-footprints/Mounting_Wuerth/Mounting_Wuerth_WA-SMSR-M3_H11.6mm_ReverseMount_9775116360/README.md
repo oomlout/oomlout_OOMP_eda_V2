@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Mounting_Wuerth_WA-SMSR-M3_H11.6mm_ReverseMount_9775116360|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSR-M3_H11.6mm_ReverseMount_9775116360|
 |Hex ID (short code)|hexID|FZKMONMONWASMSRM3H116RMOUNT977511636|
-|Name|name|Mounting_Wuerth : Mounting_Wuerth_WA-SMSR-M3_H11.6mm_ReverseMount_9775116360|
+|name|name|Mounting_Wuerth : Mounting_Wuerth_WA-SMSR-M3_H11.6mm_ReverseMount_9775116360|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Mounting_Wuerth_WA-SMSR-M3_H11.6mm_ReverseMount_9775116360', 'description': 'Mounting Hardware, inside through hole M3, height 11.6, Wuerth electronics 9775116360 (https://katalog.we-online.com/em/datasheet/9775116360.pdf), generated with kicad-footprint-generator', 'tags': 'Mounting M3 9775116360', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSR-M3_H11.6mm_ReverseMount_9775116360.wrl', 'pins': {'type': 'smd', 'shape': 'custom'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSR-M3_H11.6mm_ReverseMount_9775116360/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSR-M3_H11.6mm_ReverseMount_9775116360/kicadPcb3d_450.png

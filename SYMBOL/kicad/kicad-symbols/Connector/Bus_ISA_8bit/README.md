@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Bus_ISA_8bit|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Bus_ISA_8bit|
 |Hex ID (short code)|hexID|SZKCNBUSISA8BIT|
-|Name|name|Bus_ISA_8bit|
+|name|name|Bus_ISA_8bit|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Bus_ISA_8bit', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://en.wikipedia.org/wiki/Industry_Standard_Architecture', 'kicadSymbolki_keywords': 'ISA', 'kicadSymbolki_description': '8-bit ISA-PC bus connector'}]|
 ||||

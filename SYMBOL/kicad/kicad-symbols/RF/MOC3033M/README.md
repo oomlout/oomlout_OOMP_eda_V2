@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|MOC3033M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF-MOC3033M|
 |Hex ID (short code)|hexID|SZKRFMOC333M|
-|Name|name|MOC3033M|
+|name|name|MOC3033M|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MOC3031M', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MOC3033M', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MOC3043M-D.pdf', 'kicadSymbolki_keywords': 'Opto-Triac Opto Triac Zero Cross', 'kicadSymbolki_description': 'Zero Cross Opto-Triac, Vdrm 250V, Ift 5mA, DIP6', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SMDIP*W9.53mm* DIP*W10.16mm*'}]|
 ||||

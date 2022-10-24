@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Fuseholder_Cylinder-5x20mm_Schurter_FAB_0031-355x_Horizontal_Closed|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-5x20mm_Schurter_FAB_0031-355x_Horizontal_Closed|
 |Hex ID (short code)|hexID|FZKFUFUHOLDERCYLINDER5X2SCHURTERFAB31355XHORIZONTALCLOSED|
-|Name|name|Fuse : Fuseholder_Cylinder-5x20mm_Schurter_FAB_0031-355x_Horizontal_Closed|
+|name|name|Fuse : Fuseholder_Cylinder-5x20mm_Schurter_FAB_0031-355x_Horizontal_Closed|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Fuseholder_Cylinder-5x20mm_Schurter_FAB_0031-355x_Horizontal_Closed', 'description': 'Fuseholder 5x20mm horizontal Shurter model FAB, Suitable for order numbers 0031.3551 and 0031.3558  (https://www.schurter.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_FAB.pdf)', 'tags': 'Fuseholder 5x20mm closed horizontal', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Schurter_FAB_0031-355x_Horizontal_Closed.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Cylinder-5x20mm_Schurter_FAB_0031-355x_Horizontal_Closed/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Cylinder-5x20mm_Schurter_FAB_0031-355x_Horizontal_Closed/kicadPcb3d_450.png

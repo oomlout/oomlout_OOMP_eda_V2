@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|TRNN-SO23-X-KS8050-01-TNS248050|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TRNN-SO23-X-KS8050-01-TNS248050|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSTRNNSO23XKS851TNS2485|
-|Name|name|oomlout_OOMP_parts : TRNN-SO23-X-KS8050-01-TNS248050|
+|name|name|oomlout_OOMP_parts : TRNN-SO23-X-KS8050-01-TNS248050|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TRNN-SO23-X-KS8050-01-TNS248050', 'description': 'hexID: TNS248050; SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'SOT TO_SOT_SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||

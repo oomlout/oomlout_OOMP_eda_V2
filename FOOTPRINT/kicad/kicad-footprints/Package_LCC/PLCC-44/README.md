@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PLCC-44|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-44|
 |Hex ID (short code)|hexID|FZKLCCPLCC44|
-|Name|name|Package_LCC : PLCC-44|
+|name|name|Package_LCC : PLCC-44|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PLCC-44', 'description': 'PLCC, 44 pins, surface mount', 'tags': 'plcc smt', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LCC.3dshapes/PLCC-44.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-44/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-44/kicadPcb3d_450.png

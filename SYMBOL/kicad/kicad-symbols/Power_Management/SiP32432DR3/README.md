@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SiP32432DR3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-SiP32432DR3|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTSIP32432DR3|
-|Name|name|SiP32432DR3|
+|name|name|SiP32432DR3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SiP32432DR3', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'http://www.vishay.com.hk/docs/66597/sip32431.pdf', 'kicadSymbolki_keywords': 'Load switch', 'kicadSymbolki_description': '10 pA, Ultra Low Leakage and Quiescent Current, Load Switch with Reverse Blocking, Low Enable, SC-70-6', 'kicadSymbolki_fp_filters': '*SC?70*'}]|
 ||||

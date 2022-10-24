@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_BL-FL7680RGB|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_BL-FL7680RGB|
 |Hex ID (short code)|hexID|FZKLLBLFL768RGB|
-|Name|name|LED_THT : LED_BL-FL7680RGB|
+|name|name|LED_THT : LED_BL-FL7680RGB|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_BL-FL7680RGB', 'description': 'Piranha RGB LED, through hole, common anode, 7.62x7.62mm, BGRA pin order, https://cdn-shop.adafruit.com/datasheets/BL-FL7680RGB.pdf', 'tags': 'RGB LED Piranha Super-Flux BetLux', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_BL-FL7680RGB.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_BL-FL7680RGB/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_BL-FL7680RGB/kicadPcb3d_450.png

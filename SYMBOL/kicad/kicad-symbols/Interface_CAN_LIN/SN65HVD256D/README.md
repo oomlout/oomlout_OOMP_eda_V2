@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SN65HVD256D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-SN65HVD256D|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINSN65HVD256D|
-|Name|name|SN65HVD256D|
+|name|name|SN65HVD256D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SN65HVD256D', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/sn65hvd257.pdf', 'kicadSymbolki_keywords': 'can transceiver ti canbus 5.0V 1Mbps SOIC-8', 'kicadSymbolki_description': 'CAN Bus Transceiver with Fast Loop Times for Highly Loaded Networks, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

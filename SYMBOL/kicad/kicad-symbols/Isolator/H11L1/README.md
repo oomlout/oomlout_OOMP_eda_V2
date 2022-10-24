@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|H11L1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-H11L1|
 |Hex ID (short code)|hexID|SZKISOLATORH11L1|
-|Name|name|H11L1|
+|name|name|H11L1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'H11L1', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/H11L3M-D.PDF', 'kicadSymbolki_keywords': 'High Speed Schmitt Optocoupler', 'kicadSymbolki_description': 'Schmitt Trigger Output Optocoupler, High Speed, DIP-6, 1.6mA turn on threshold', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* DIP*W10.16mm* SMDIP*W9.53mm*'}]|
 ||||

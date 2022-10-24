@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DS1804|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS1804|
 |Hex ID (short code)|hexID|SZKSENTEMPERATUREDS184|
-|Name|name|DS1804|
+|name|name|DS1804|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DS1804', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

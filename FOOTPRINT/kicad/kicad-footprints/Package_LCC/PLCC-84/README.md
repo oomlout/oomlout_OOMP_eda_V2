@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PLCC-84|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-84|
 |Hex ID (short code)|hexID|FZKLCCPLCC84|
-|Name|name|Package_LCC : PLCC-84|
+|name|name|Package_LCC : PLCC-84|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PLCC-84', 'description': 'PLCC, 84 pins, surface mount', 'tags': 'plcc smt', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LCC.3dshapes/PLCC-84.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-84/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-84/kicadPcb3d_450.png

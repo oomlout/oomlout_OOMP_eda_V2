@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADG884xRM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG884xRM|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHADG884XRM|
-|Name|name|ADG884xRM|
+|name|name|ADG884xRM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADG884xRM', 'kicadSymbolFootprint': 'Package_SO:MSOP-10_3x3mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADG884.pdf', 'kicadSymbolki_keywords': 'analog switch', 'kicadSymbolki_description': '0.5Ω CMOS, Dual 2:1 MUX/SPDT Audio Switch, MSOP-10', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.5mm*'}]|
 ||||

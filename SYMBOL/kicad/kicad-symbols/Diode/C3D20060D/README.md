@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C3D20060D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-C3D20060D|
 |Hex ID (short code)|hexID|SZKDIODEC3D26D|
-|Name|name|C3D20060D|
+|name|name|C3D20060D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'C3D16060D', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'C3D20060D', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-247-3_Vertical', 'kicadSymbolDatasheet': 'https://www.wolfspeed.com/media/downloads/100/C3D20060D.pdf', 'kicadSymbolki_keywords': 'sic diode', 'kicadSymbolki_description': '600V, 20A, SiC Schottky Diode, TO-247-3', 'kicadSymbolki_fp_filters': 'TO?247*'}]|
 ||||

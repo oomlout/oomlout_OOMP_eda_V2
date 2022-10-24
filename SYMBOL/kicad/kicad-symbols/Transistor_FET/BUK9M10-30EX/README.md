@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BUK9M10-30EX|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK9M10-30EX|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBUK9M13EX|
-|Name|name|BUK9M10-30EX|
+|name|name|BUK9M10-30EX|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BUK9M53-60EX', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BUK9M10-30EX', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:LFPAK33', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BUK9M10-30E.pdf', 'kicadSymbolki_keywords': 'Power MOSFET N-MOS', 'kicadSymbolki_description': '54A Id, 30V Vds, N-Channel TrenchMOS MOSFET, 7.8mOhm Ron, 12.2nC Qqd, -55 to 175 °C, LFPAK33', 'kicadSymbolki_fp_filters': 'LFPAK33*'}]|
 ||||

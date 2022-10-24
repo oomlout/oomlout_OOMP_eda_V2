@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O912-01-R8O912|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O912-01-R8O912|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO9121R8O912|
-|Name|name|RESE-0805-X-O912-01-R8O912|
+|name|name|RESE-0805-X-O912-01-R8O912|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O912-01-R8O912', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O912-01-R8O912', 'kicadSymbolDatasheet': 'oom.lt/R8O912', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R8O912;PARTL C-JLCC;C17855;MANUF C-XXXX;0805W8F9101T5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

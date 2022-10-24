@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SMF28A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-SMF28A|
 |Hex ID (short code)|hexID|SZKDIODESMF28A|
-|Name|name|SMF28A|
+|name|name|SMF28A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SM6T6V8A', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SMF28A', 'kicadSymbolFootprint': 'Diode_SMD:D_SMF', 'kicadSymbolDatasheet': 'https://www.vishay.com/doc?85881', 'kicadSymbolki_keywords': 'diode TVS voltage suppressor', 'kicadSymbolki_description': '200W unidirectional Transil Transient Voltage Suppressor, 28Vrwm, SMF', 'kicadSymbolki_fp_filters': 'D*SMF*'}]|
 ||||

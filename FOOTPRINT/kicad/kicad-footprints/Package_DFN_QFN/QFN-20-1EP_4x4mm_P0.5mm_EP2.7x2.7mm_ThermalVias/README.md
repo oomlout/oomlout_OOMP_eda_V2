@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|QFN-20-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-20-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNQFN21EP4X4P5EP27X27THERMALVIAS|
-|Name|name|Package_DFN_QFN : QFN-20-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias|
+|name|name|Package_DFN_QFN : QFN-20-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'QFN-20-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias', 'description': 'QFN, 20 Pin (https://www.silabs.com/documents/public/data-sheets/Si5351-B.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-20-1EP_4x4mm_P0.5mm_EP2.7x2.7mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-20-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-20-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias/kicadPcb3d_450.png

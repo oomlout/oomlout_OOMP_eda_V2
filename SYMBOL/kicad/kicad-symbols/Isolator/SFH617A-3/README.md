@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SFH617A-3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-SFH617A-3|
 |Hex ID (short code)|hexID|SZKISOLATORSFH617A3|
-|Name|name|SFH617A-3|
+|name|name|SFH617A-3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TLP785', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SFH617A-3', 'kicadSymbolFootprint': 'Package_DIP:DIP-4_W7.62mm', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/83740/sfh617a.pdf', 'kicadSymbolki_keywords': 'Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 100-200', 'kicadSymbolki_description': 'Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 100-200, -55 to +110 degree Celsius, UL, BSI, FIMKO, THT PDIP-4', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

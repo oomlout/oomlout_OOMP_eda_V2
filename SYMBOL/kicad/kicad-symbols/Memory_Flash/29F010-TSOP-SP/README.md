@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|29F010-TSOP-SP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_Flash-29F010-TSOP-SP|
 |Hex ID (short code)|hexID|SZKMEMORYFLASH29F1TSSP|
-|Name|name|29F010-TSOP-SP|
+|name|name|29F010-TSOP-SP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '29F010-TSOP-SP', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'EEPROM FLASH 128KO', 'kicadSymbolki_description': 'Flash EEProm 128Ko (TSOP 32 pack.) 5V prog'}]|
 ||||

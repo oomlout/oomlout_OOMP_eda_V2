@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IPULSE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IPULSE|
 |Hex ID (short code)|hexID|SZKSIMULATIONSPICEIPULSE|
-|Name|name|IPULSE|
+|name|name|IPULSE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'I', 'kicadSymbolValue': 'IPULSE', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolSpice_Netlist_Enabled': 'Y', 'kicadSymbolSpice_Primitive': 'I', 'kicadSymbolSpice_Model': 'pulse(0 1 2n 2n 2n 50n 100n)', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Current source, pulse'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADM3057ExRW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-ADM3057ExRW|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINADM357EXRW|
-|Name|name|ADM3057ExRW|
+|name|name|ADM3057ExRW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADM3057ExRW', 'kicadSymbolFootprint': 'Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADM3055E-3057E.pdf', 'kicadSymbolki_keywords': 'can transceiver isolated protected', 'kicadSymbolki_description': 'Isolated CAN FD Transceiver, integrated isolated DC-DC converter, 12Mbps, SOIC-20W', 'kicadSymbolki_fp_filters': 'SOIC*P1.27mm*'}]|
 ||||

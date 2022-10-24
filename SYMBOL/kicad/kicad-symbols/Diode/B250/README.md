@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|B250|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-B250|
 |Hex ID (short code)|hexID|SZKDIODEB25|
-|Name|name|B250|
+|name|name|B250|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'B220', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'B250', 'kicadSymbolFootprint': 'Diode_SMD:D_SMB', 'kicadSymbolDatasheet': 'http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '50V 2A Schottky Barrier Rectifier Diode, SMB', 'kicadSymbolki_fp_filters': 'D*SMB*'}]|
 ||||

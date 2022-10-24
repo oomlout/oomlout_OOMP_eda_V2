@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS399|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS399|
 |Hex ID (short code)|hexID|SZK74XXIEEE74LS399|
-|Name|name|74LS399|
+|name|name|74LS399|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS399', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

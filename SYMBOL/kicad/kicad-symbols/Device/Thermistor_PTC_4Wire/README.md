@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Thermistor_PTC_4Wire|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Thermistor_PTC_4Wire|
 |Hex ID (short code)|hexID|SZKDEVICETHERMISTORPTC4WIRE|
-|Name|name|Thermistor_PTC_4Wire|
+|name|name|Thermistor_PTC_4Wire|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TH', 'kicadSymbolValue': 'Thermistor_PTC_4Wire', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'resistor PTC thermistor sensor RTD', 'kicadSymbolki_description': 'Temperature dependent resistor, positive temperature coefficient, 4-wire interface', 'kicadSymbolki_fp_filters': 'PIN_ARRAY_4X1 bornier4 TerminalBlock*4pol'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX7325AEG+|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Expansion-MAX7325AEG+|
 |Hex ID (short code)|hexID|SZKINTERFACEEXPANSIONMAX7325AEG+|
-|Name|name|MAX7325AEG+|
+|name|name|MAX7325AEG+|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX7325AEG+', 'kicadSymbolFootprint': 'Package_SO:QSOP-24_3.9x8.7mm_P0.635mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX7325.pdf', 'kicadSymbolki_keywords': 'Expander I2C Parallel Port GPIO Maxim', 'kicadSymbolki_description': 'I2C Port Expander with 8 Push-Pull and 8 Open-Drain I/Os, QSOP-24', 'kicadSymbolki_fp_filters': 'QSOP*3.9x8.7*P0.635mm*'}]|
 ||||

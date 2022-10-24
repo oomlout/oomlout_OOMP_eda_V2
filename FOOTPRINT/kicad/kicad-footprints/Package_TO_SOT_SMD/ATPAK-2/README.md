@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|ATPAK-2|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-ATPAK-2|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMATPAK2|
-|Name|name|Package_TO_SOT_SMD : ATPAK-2|
+|name|name|Package_TO_SOT_SMD : ATPAK-2|
 |Footprint Kicad|footprintKicadDetails|{'name': 'ATPAK-2', 'description': 'ATPAK SMD package, http://www.onsemi.com/pub/Collateral/ENA2192-D.PDF', 'tags': 'ATPAK ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/ATPAK-2.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/ATPAK-2/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/ATPAK-2/kicadPcb3d_450.png

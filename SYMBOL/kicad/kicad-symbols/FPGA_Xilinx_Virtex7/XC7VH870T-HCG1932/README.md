@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC7VH870T-HCG1932|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VH870T-HCG1932|
 |Hex ID (short code)|hexID|SZKFPGAXILINXVIRTEX7XC7VH87THCG1932|
-|Name|name|XC7VH870T-HCG1932|
+|name|name|XC7VH870T-HCG1932|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'XC7VH870T-FLG1932', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC7VH870T-HCG1932', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Virtex 7 HT 870 XC7VH870T-FLG1932'}]|
 ||||

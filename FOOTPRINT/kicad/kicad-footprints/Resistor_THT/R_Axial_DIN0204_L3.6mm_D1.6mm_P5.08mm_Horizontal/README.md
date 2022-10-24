@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal|
 |Hex ID (short code)|hexID|FZKRRAXIALDIN24L36D16P58HORIZONTAL|
-|Name|name|Resistor_THT : R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal|
+|name|name|Resistor_THT : R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal', 'description': 'Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf', 'tags': 'Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal/kicadPcb3d_450.png

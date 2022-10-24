@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CNY17-2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-CNY17-2|
 |Hex ID (short code)|hexID|SZKISOLATORCNY172|
-|Name|name|CNY17-2|
+|name|name|CNY17-2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CNY17-1', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CNY17-2', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/83606/cny17.pdf', 'kicadSymbolki_keywords': 'NPN DC Optocoupler Base Connected', 'kicadSymbolki_description': 'DC Optocoupler Base Connected, Vce 70V, CTR 63-125%, Viso 5000V (RMS), DIP6', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* DIP*W10.16mm* SMDIP*W9.53mm*'}]|
 ||||

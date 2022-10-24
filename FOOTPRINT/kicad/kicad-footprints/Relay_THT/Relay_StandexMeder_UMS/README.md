@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Relay_StandexMeder_UMS|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_StandexMeder_UMS|
 |Hex ID (short code)|hexID|FZKRELRELAYSTANDEXMEDERUMS|
-|Name|name|Relay_THT : Relay_StandexMeder_UMS|
+|name|name|Relay_THT : Relay_StandexMeder_UMS|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Relay_StandexMeder_UMS', 'description': 'Standex-Meder SIL-relais, UMS, see http://cdn-reichelt.de/documents/datenblatt/C300/UMS05_1A80_75L_DB.pdf', 'tags': 'Standex Meder SIL reed relais', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_StandexMeder_UMS.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_StandexMeder_UMS/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_StandexMeder_UMS/kicadPcb3d_450.png

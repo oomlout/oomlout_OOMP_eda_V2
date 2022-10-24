@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC4011CFE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4011CFE|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTLTC411CFE|
-|Name|name|LTC4011CFE|
+|name|name|LTC4011CFE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC4011CFE', 'kicadSymbolFootprint': 'Package_SO:HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP2.74x3.86mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/4011fb.pdf', 'kicadSymbolki_keywords': 'NiMH nickel battery charger', 'kicadSymbolki_description': 'High efficiency standalone NiMH battery charger, HTSSOP-20', 'kicadSymbolki_fp_filters': 'HTSSOP*1EP*4.4x6.5mm*P0.65mm*'}]|
 ||||

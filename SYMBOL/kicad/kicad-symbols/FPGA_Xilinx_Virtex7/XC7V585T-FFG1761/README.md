@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC7V585T-FFG1761|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7V585T-FFG1761|
 |Hex ID (short code)|hexID|SZKFPGAXILINXVIRTEX7XC7V585TFFG1761|
-|Name|name|XC7V585T-FFG1761|
+|name|name|XC7V585T-FFG1761|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC7V585T-FFG1761', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Virtex 7 T 585 XC7V585T-FFG1761'}]|
 ||||

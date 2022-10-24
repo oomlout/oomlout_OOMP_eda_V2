@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS72216|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS72216|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTPS72216|
-|Name|name|TPS72216|
+|name|name|TPS72216|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS72218', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS72216', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps722.pdf', 'kicadSymbolki_keywords': 'linear low dropout Regulator fixed', 'kicadSymbolki_description': 'Low input voltage 50mA LDO, 1.6V fixed output voltage, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

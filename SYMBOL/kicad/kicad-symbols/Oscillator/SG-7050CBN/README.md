@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SG-7050CBN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-SG-7050CBN|
 |Hex ID (short code)|hexID|SZKOCSSG75CBN|
-|Name|name|SG-7050CBN|
+|name|name|SG-7050CBN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SG-7050CAN', 'kicadSymbolReference': 'X', 'kicadSymbolValue': 'SG-7050CBN', 'kicadSymbolFootprint': 'Oscillator:Oscillator_SMD_SeikoEpson_SG8002CA-4Pin_7.0x5.0mm', 'kicadSymbolDatasheet': 'https://support.epson.biz/td/api/doc_check.php?dl=brief_SG7050CBN&lang=en', 'kicadSymbolki_keywords': 'Crystal Clock Oscillator', 'kicadSymbolki_description': 'CMOS Clock Oscillator 80 to 170 MHz', 'kicadSymbolki_fp_filters': 'Oscillator*SMD*SeikoEpson*SG8002CA*7.0x5.0mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPD2S017|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-TPD2S017|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONTPD2S17|
-|Name|name|TPD2S017|
+|name|name|TPD2S017|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPD2S017', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tpd2s017.pdf', 'kicadSymbolki_keywords': 'ESD protection', 'kicadSymbolki_description': '2-Channel Ultra-Low Clamp Voltage ESD Solution With Series-Resistor Isolation, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

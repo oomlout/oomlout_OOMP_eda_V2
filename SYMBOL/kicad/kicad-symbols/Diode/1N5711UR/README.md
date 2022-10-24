@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|1N5711UR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-1N5711UR|
 |Hex ID (short code)|hexID|SZKDIODE1N5711UR|
-|Name|name|1N5711UR|
+|name|name|1N5711UR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': '1N5711UR', 'kicadSymbolFootprint': 'Diode_SMD:D_MELF', 'kicadSymbolDatasheet': 'https://www.microsemi.com/document-portal/doc_download/131890-lds-0040-1-datasheet', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '70V 33mA Schottky diode, MELF(DO-213AA)', 'kicadSymbolki_fp_filters': 'D?MELF*'}]|
 ||||

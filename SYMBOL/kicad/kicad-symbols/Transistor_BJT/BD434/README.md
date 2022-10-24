@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BD434|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD434|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBD434|
-|Name|name|BD434|
+|name|name|BD434|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BD434', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-126-3_Vertical', 'kicadSymbolDatasheet': 'http://www.cdil.com/datasheets/bd433_42.pdf', 'kicadSymbolki_keywords': 'Power PNP Transistor', 'kicadSymbolki_description': '4A Ic, 22V Vce, Power PNP Transistor, TO-126', 'kicadSymbolki_fp_filters': 'TO?126*'}]|
 ||||

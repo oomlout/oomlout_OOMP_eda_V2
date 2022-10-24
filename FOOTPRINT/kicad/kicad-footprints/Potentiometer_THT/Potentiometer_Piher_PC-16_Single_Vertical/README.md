@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Potentiometer_Piher_PC-16_Single_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_PC-16_Single_Vertical|
 |Hex ID (short code)|hexID|FZKPPOTENTIOMETERPIHERPC16SINGLEVERTICAL|
-|Name|name|Potentiometer_THT : Potentiometer_Piher_PC-16_Single_Vertical|
+|name|name|Potentiometer_THT : Potentiometer_Piher_PC-16_Single_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Piher_PC-16_Single_Vertical', 'description': 'Potentiometer, vertical, Piher PC-16 Single, http://www.piher-nacesa.com/pdf/20-PC16v03.pdf', 'tags': 'Potentiometer vertical Piher PC-16 Single', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Piher_PC-16_Single_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Piher_PC-16_Single_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Piher_PC-16_Single_Vertical/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Converter_DCDC_RECOM_RPMx.x-x.0|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_RECOM_RPMx.x-x.0|
 |Hex ID (short code)|hexID|FZKCONCONRECOMRPMXXX|
-|Name|name|Converter_DCDC : Converter_DCDC_RECOM_RPMx.x-x.0|
+|name|name|Converter_DCDC : Converter_DCDC_RECOM_RPMx.x-x.0|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_RECOM_RPMx.x-x.0', 'description': 'https://www.recom-power.com/pdf/Innoline/RPM-6.0.pdf', 'tags': 'dc-dc recom buck lga-25 pitch 2.29mm', 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_RECOM_RPMx.x-x.0/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_RECOM_RPMx.x-x.0/kicadPcb3d_450.png

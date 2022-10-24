@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HV101K5-G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Current-HV101K5-G|
 |Hex ID (short code)|hexID|SZKREGULATORCURRENTHV11K5G|
-|Name|name|HV101K5-G|
+|name|name|HV101K5-G|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HV100K5-G', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HV101K5-G', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223-3_TabPin2', 'kicadSymbolDatasheet': 'http://www.supertex.com/pdf/datasheets/HV100.pdf', 'kicadSymbolki_keywords': 'Hot-Swap Current Limiter', 'kicadSymbolki_description': 'Hot-Swap Current Limiter Controller, SOT223', 'kicadSymbolki_fp_filters': 'SOT?223*TabPin2*'}]|
 ||||

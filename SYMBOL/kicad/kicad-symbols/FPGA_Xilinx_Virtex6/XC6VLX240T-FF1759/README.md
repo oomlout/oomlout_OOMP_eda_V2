@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC6VLX240T-FF1759|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VLX240T-FF1759|
 |Hex ID (short code)|hexID|SZKFPGAXILINXVIRTEX6XC6VLX24TFF1759|
-|Name|name|XC6VLX240T-FF1759|
+|name|name|XC6VLX240T-FF1759|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC6VLX240T-FF1759', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Virtex 6 LXT 240 XC6VLX240T-FF1759'}]|
 ||||

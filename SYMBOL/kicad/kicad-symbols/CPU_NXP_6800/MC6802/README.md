@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC6802|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPU_NXP_6800-MC6802|
 |Hex ID (short code)|hexID|SZKCPUNXP68MC682|
-|Name|name|MC6802|
+|name|name|MC6802|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC6802', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'https://www.jameco.com/Jameco/Products/ProdDS/43502.pdf', 'kicadSymbolki_keywords': 'MCU', 'kicadSymbolki_description': '8-Bit Microprocessing unit 1.0MHz, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XLR3_AudioJack3_Combo_Switch|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-XLR3_AudioJack3_Combo_Switch|
 |Hex ID (short code)|hexID|SZKCNXLR3AUDIOJ3COMBOSWITCH|
-|Name|name|XLR3_AudioJack3_Combo_Switch|
+|name|name|XLR3_AudioJack3_Combo_Switch|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'XLR3_AudioJack3_Combo_Switch', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'xlr connector', 'kicadSymbolki_description': 'XLR (Male or Female) and Audio Jack (Stereo / TRS, Switched Poles (Normalling)) Combo Connector', 'kicadSymbolki_fp_filters': 'Jack*XLR*6.35mm*'}]|
 ||||

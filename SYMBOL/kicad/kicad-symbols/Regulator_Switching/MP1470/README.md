@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MP1470|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-MP1470|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGMP147|
-|Name|name|MP1470|
+|name|name|MP1470|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MP1470', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-6', 'kicadSymbolDatasheet': 'https://www.monolithicpower.com/pub/media/document/MP1470_r1.02.pdf', 'kicadSymbolki_keywords': 'buck converter', 'kicadSymbolki_description': 'High-Efficiency, 2A, 16V, 500kHz Synchronous, Step-Down Converter, TSOT-23-6', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
 ||||

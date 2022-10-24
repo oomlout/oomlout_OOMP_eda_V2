@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ICE2PCS05|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-ICE2PCS05|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERICE2PCS5|
-|Name|name|ICE2PCS05|
+|name|name|ICE2PCS05|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ICE1PCS01', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ICE2PCS05', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-ICE2PCS05-DS-v01_02-en.pdf?fileId=db3a30431c69a49d011cdfb46a834373', 'kicadSymbolki_keywords': 'SMPS pfc controller', 'kicadSymbolki_description': 'Standalone PFC Controller in CCM, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'}]|
 ||||

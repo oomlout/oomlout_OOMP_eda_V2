@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC6VLX75T-FF484|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VLX75T-FF484|
 |Hex ID (short code)|hexID|SZKFPGAXILINXVIRTEX6XC6VLX75TFF484|
-|Name|name|XC6VLX75T-FF484|
+|name|name|XC6VLX75T-FF484|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC6VLX75T-FF484', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Virtex 6 LXT 75 XC6VLX75T-FF484'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|8049|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Intel-8049|
 |Hex ID (short code)|hexID|SZKMCUINTEL849|
-|Name|name|8049|
+|name|name|8049|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '8035', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '8049', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'MCS-48 uC Microcontroller', 'kicadSymbolki_description': 'MCS-48 8-bit Microcontroller, 2KB Mask ROM, 128B RAM, DIP-40', 'kicadSymbolki_fp_filters': 'DIP* PDIP*'}]|
 ||||

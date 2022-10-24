@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0402-X-PF5-V50-C4P5|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF5-V50-C4P5|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XPF5V5C4P5|
-|Name|name|CAPC-0402-X-PF5-V50-C4P5|
+|name|name|CAPC-0402-X-PF5-V50-C4P5|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0402-X-PF5-V50-C4P5', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0402-X-PF5-V50-C4P5', 'kicadSymbolDatasheet': 'oom.lt/C4P5', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C4P5;PARTL C-JLCC;C1576;MANUF C-XXXX;0402CG6R8C500NT;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

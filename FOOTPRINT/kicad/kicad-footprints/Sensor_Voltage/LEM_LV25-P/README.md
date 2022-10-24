@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LEM_LV25-P|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Voltage-LEM_LV25-P|
 |Hex ID (short code)|hexID|FZKSENVOLTAGELEMLV25P|
-|Name|name|Sensor_Voltage : LEM_LV25-P|
+|name|name|Sensor_Voltage : LEM_LV25-P|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LEM_LV25-P', 'description': 'LEM LV25-P Voltage transducer, https://www.lem.com/sites/default/files/products_datasheets/lv_25-p.pdf', 'tags': 'LEM Hall Effect Voltage transducer', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Voltage.3dshapes/LEM_LV25-P.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

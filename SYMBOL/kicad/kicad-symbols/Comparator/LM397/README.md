@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM397|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Comparator-LM397|
 |Hex ID (short code)|hexID|SZKCOMPARATORLM397|
-|Name|name|LM397|
+|name|name|LM397|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM397', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm397.pdf', 'kicadSymbolki_keywords': 'single comparator', 'kicadSymbolki_description': 'Single General-Purpose Voltage Comparator with Open-Collector Output, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

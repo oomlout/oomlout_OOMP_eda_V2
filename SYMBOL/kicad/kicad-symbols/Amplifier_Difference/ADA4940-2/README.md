@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADA4940-2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Difference-ADA4940-2|
 |Hex ID (short code)|hexID|SZKAMPLIFIERDIFFERENCEADA4942|
-|Name|name|ADA4940-2|
+|name|name|ADA4940-2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADA4940-2', 'kicadSymbolFootprint': 'Package_CSP:LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4940-1_4940-2.pdf', 'kicadSymbolki_keywords': 'differential amplifier', 'kicadSymbolki_description': 'Ultralow Power, Low Distortion, Fully Differential ADC Drivers, Dual-Channel, LFCSP-24', 'kicadSymbolki_fp_filters': 'LFCSP*1EP*4x4mm*P0.5mm*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|D_SOD-123|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-123|
 |Hex ID (short code)|hexID|FZKDIODESMDSOD123|
-|Name|name|Diode_SMD : D_SOD-123|
+|name|name|Diode_SMD : D_SOD-123|
 |Footprint Kicad|footprintKicadDetails|{'name': 'D_SOD-123', 'description': 'SOD-123', 'tags': 'SOD-123', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SOD-123/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SOD-123/kicadPcb3d_450.png

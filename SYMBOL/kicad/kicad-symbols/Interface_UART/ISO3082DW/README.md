@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ISO3082DW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-ISO3082DW|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTISO382DW|
-|Name|name|ISO3082DW|
+|name|name|ISO3082DW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ISO3082DW', 'kicadSymbolFootprint': 'Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/iso3082.pdf', 'kicadSymbolki_keywords': 'RS-485', 'kicadSymbolki_description': '200 kbps, Isolated 5-V Half-Duplex RS-485 transceiver, SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*7.5x10.3mm*P1.27mm*'}]|
 ||||

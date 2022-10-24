@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|MODULE-CONN-DADB-PI02-01|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_modules-MODULE-CONN-DADB-PI02-01|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPMOSMOCONNDADBPI21|
-|Name|name|oomlout_OOMP_modules : MODULE-CONN-DADB-PI02-01|
+|name|name|oomlout_OOMP_modules : MODULE-CONN-DADB-PI02-01|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MODULE-CONN-DADB-PI02-01', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||

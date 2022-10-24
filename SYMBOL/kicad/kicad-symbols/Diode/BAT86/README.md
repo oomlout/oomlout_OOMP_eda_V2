@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAT86|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAT86|
 |Hex ID (short code)|hexID|SZKDIODEBAT86|
-|Name|name|BAT86|
+|name|name|BAT86|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N6263', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAT86', 'kicadSymbolFootprint': 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BAT86.pdf', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '50V 0.2A Small Signal Schottky Diode, DO-35', 'kicadSymbolki_fp_filters': 'D*DO?35*'}]|
 ||||

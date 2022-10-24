@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DA04-11SRWA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-DA04-11SRWA|
 |Hex ID (short code)|hexID|SZKDICHARACTERDA411SRWA|
-|Name|name|DA04-11SRWA|
+|name|name|DA04-11SRWA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DA04-11SURKWA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DA04-11SRWA', 'kicadSymbolFootprint': 'Display_7Segment:DA04-11SURKWA', 'kicadSymbolDatasheet': 'http://www.kingbrightusa.com/images/catalog/SPEC/DA04-11SRWA.pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'Double 7 segment super bright red LED common anode', 'kicadSymbolki_fp_filters': '*DA04*11*'}]|
 ||||

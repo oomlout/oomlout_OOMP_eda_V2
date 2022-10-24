@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Laird_Technologies_BMI-S-230-F_50.8x38.1mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-230-F_50.8x38.1mm|
 |Hex ID (short code)|hexID|FZKRFSLAIRDTECHNOLOGIESBMIS23F58X381|
-|Name|name|RF_Shielding : Laird_Technologies_BMI-S-230-F_50.8x38.1mm|
+|name|name|RF_Shielding : Laird_Technologies_BMI-S-230-F_50.8x38.1mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Laird_Technologies_BMI-S-230-F_50.8x38.1mm', 'description': 'Laird Technologies BMI-S-230-F Shielding Cabinet Two Piece SMD 50.8x38.1mm', 'tags': 'Shielding Cabinet', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Shielding.3dshapes/Laird_Technologies_BMI-S-230-F_50.8x38.1mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

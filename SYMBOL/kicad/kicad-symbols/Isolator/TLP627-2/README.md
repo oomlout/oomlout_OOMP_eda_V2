@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLP627-2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-TLP627-2|
 |Hex ID (short code)|hexID|SZKISOLATORTLP6272|
-|Name|name|TLP627-2|
+|name|name|TLP627-2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLP627-2', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://toshiba.semicon-storage.com/info/docget.jsp?did=16914&prodName=TLP627', 'kicadSymbolki_keywords': 'NPN Dual Darlington DC Optocoupler', 'kicadSymbolki_description': 'DC Dual Darlington Optocoupler, Vce 300V, CTR 1000%, DIP8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

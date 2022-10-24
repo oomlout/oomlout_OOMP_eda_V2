@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PI6C5946002ZH|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Buffer-PI6C5946002ZH|
 |Hex ID (short code)|hexID|SZKBUFFERPI6C59462ZH|
-|Name|name|PI6C5946002ZH|
+|name|name|PI6C5946002ZH|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PI6C5946002ZH', 'kicadSymbolFootprint': 'Package_DFN_QFN:TQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/PI6C5946002.pdf', 'kicadSymbolki_keywords': 'buffer clock data', 'kicadSymbolki_description': '6 GHz / 12 Gbps Clock / Data 1:2 Fanout Buffer with Internal Termination, TQFN-16', 'kicadSymbolki_fp_filters': 'TQFN*1EP*3x3mm*P0.5mm*'}]|
 ||||

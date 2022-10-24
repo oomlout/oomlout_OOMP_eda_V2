@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|SIM900|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_GSM-SIM900|
 |Hex ID (short code)|hexID|SZKGSMSIM9|
-|Name|name|SIM900|
+|name|name|SIM900|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SIM900', 'kicadSymbolFootprint': 'RF_GSM:SIMCom_SIM900', 'kicadSymbolDatasheet': 'http://simcom.ee/documents/SIM900/SIM900_Hardware%20Design_V2.05.pdf', 'kicadSymbolki_keywords': 'GSM GPRS Quad-Band SMS FAX', 'kicadSymbolki_description': 'GSM Quad-Band Communication Module, GPRS, Audio Engine, AT Command Set', 'kicadSymbolki_fp_filters': 'SIMCom*SIM900*'}]|
 ||||

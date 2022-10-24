@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IR26-21C_L110_TR8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-LED-IR26-21C_L110_TR8|
 |Hex ID (short code)|hexID|SZKLIR2621CL11TR8|
-|Name|name|IR26-21C_L110_TR8|
+|name|name|IR26-21C_L110_TR8|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'IR26-21C_L110_TR8', 'kicadSymbolFootprint': 'LED_SMD:LED_1206_3216Metric', 'kicadSymbolDatasheet': 'http://www.everlight.com/file/ProductFile/IR26-21C-L110-TR8.pdf', 'kicadSymbolki_keywords': 'IR LED', 'kicadSymbolki_description': '940nm, 20 deg, Infrared LED, 1206', 'kicadSymbolki_fp_filters': 'LED*1206*3216Metric*'}]|
 ||||

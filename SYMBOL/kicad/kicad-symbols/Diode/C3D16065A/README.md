@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C3D16065A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-C3D16065A|
 |Hex ID (short code)|hexID|SZKDIODEC3D1665A|
-|Name|name|C3D16065A|
+|name|name|C3D16065A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MBR735', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'C3D16065A', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-2_Vertical', 'kicadSymbolDatasheet': 'https://www.wolfspeed.com/media/downloads/964/C3D16065A.pdf', 'kicadSymbolki_keywords': 'sic diode', 'kicadSymbolki_description': '650V, 16A, SiC Schottky Diode, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

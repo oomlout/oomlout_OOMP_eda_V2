@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AP3012|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP3012|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGAP312|
-|Name|name|AP3012|
+|name|name|AP3012|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SC4503TSK', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AP3012', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/AP3012.pdf', 'kicadSymbolki_keywords': 'Step-Up Boost Voltage Regulator', 'kicadSymbolki_description': '500mA, Adjustable Step-Up Voltage Regulator, 1.5MHz Frequency, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CM1213A-01SO|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-CM1213A-01SO|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONCM1213A1SO|
-|Name|name|CM1213A-01SO|
+|name|name|CM1213A-01SO|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'CM1213A-01SO', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/CM1213A-D.PDF', 'kicadSymbolki_keywords': 'ESD Protection diodes transient suppressor', 'kicadSymbolki_description': 'Single Channel ESD Protection Array', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

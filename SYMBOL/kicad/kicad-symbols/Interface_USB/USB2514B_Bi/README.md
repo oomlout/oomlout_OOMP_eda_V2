@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|USB2514B_Bi|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-USB2514B_Bi|
 |Hex ID (short code)|hexID|SZKINTERFACEUU2514BBI|
-|Name|name|USB2514B_Bi|
+|name|name|USB2514B_Bi|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'USB2514B_Bi', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-36-1EP_6x6mm_P0.5mm_EP3.7x3.7mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/00001692C.pdf', 'kicadSymbolki_keywords': 'USB2.0 Hi-Speed-USB-Hub Hub-Controller', 'kicadSymbolki_description': 'USB 2.0 Hi-Speed Hub Controller', 'kicadSymbolki_fp_filters': 'QFN*6x6mm*P0.5mm*'}]|
 ||||

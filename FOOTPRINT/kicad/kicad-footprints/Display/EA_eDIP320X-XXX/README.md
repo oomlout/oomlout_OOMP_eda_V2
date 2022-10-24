@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|EA_eDIP320X-XXX|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-EA_eDIP320X-XXX|
 |Hex ID (short code)|hexID|FZKDIEAEDIP32XXXX|
-|Name|name|Display : EA_eDIP320X-XXX|
+|name|name|Display : EA_eDIP320X-XXX|
 |Footprint Kicad|footprintKicadDetails|{'name': 'EA_eDIP320X-XXX', 'description': 'LCD display 320x340 RS-232 I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip320-8e.pdf', 'tags': 'LCD display 320x340 RS-232 I2C or SPI', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display.3dshapes/EA_eDIP320X-XXX.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/EA_eDIP320X-XXX/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Display/EA_eDIP320X-XXX/kicadPcb3d_450.png

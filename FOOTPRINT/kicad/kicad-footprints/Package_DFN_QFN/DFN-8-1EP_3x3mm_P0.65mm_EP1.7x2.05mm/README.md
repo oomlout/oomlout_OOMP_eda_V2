@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DFN-8-1EP_3x3mm_P0.65mm_EP1.7x2.05mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-8-1EP_3x3mm_P0.65mm_EP1.7x2.05mm|
 |Hex ID (short code)|hexID|FZKDFNDFN81EP3X3P65EP17X25|
-|Name|name|Package_DFN_QFN : DFN-8-1EP_3x3mm_P0.65mm_EP1.7x2.05mm|
+|name|name|Package_DFN_QFN : DFN-8-1EP_3x3mm_P0.65mm_EP1.7x2.05mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DFN-8-1EP_3x3mm_P0.65mm_EP1.7x2.05mm', 'description': 'DFN, 8 Pin (http://www.ixysic.com/home/pdfs.nsf/www/IX4426-27-28.pdf/$file/IX4426-27-28.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'DFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-8-1EP_3x3mm_P0.65mm_EP1.7x2.05mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/DFN-8-1EP_3x3mm_P0.65mm_EP1.7x2.05mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/DFN-8-1EP_3x3mm_P0.65mm_EP1.7x2.05mm/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ASMT-YTB7-0AA02|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-LED-ASMT-YTB7-0AA02|
 |Hex ID (short code)|hexID|SZKLASMTYTB7AA2|
-|Name|name|ASMT-YTB7-0AA02|
+|name|name|ASMT-YTB7-0AA02|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ASMT-YTC2-0AA02', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'ASMT-YTB7-0AA02', 'kicadSymbolFootprint': 'LED_SMD:LED_Avago_PLCC6_3x2.8mm', 'kicadSymbolDatasheet': 'https://docs.broadcom.com/docs/AV02-3793EN', 'kicadSymbolki_keywords': 'LED RGB', 'kicadSymbolki_description': 'Triple LED RVB (Avago Technology)', 'kicadSymbolki_fp_filters': 'LED?Avago?PLCC6?3x2.8mm*'}]|
 ||||

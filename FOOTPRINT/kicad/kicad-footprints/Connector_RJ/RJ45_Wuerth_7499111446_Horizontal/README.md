@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|RJ45_Wuerth_7499111446_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Wuerth_7499111446_Horizontal|
 |Hex ID (short code)|hexID|FZKCNRJRJ45WUERTH7499111446HORIZONTAL|
-|Name|name|Connector_RJ : RJ45_Wuerth_7499111446_Horizontal|
+|name|name|Connector_RJ : RJ45_Wuerth_7499111446_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RJ45_Wuerth_7499111446_Horizontal', 'description': 'LAN-Transformer WE-RJ45LAN 10/100/1000 BaseT', 'tags': 'ethernet lan connector', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Wuerth_7499111446_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Wuerth_7499111446_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Wuerth_7499111446_Horizontal/kicadPcb3d_450.png

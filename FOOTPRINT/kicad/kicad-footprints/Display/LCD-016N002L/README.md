@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LCD-016N002L|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-LCD-016N002L|
 |Hex ID (short code)|hexID|FZKDILCD16N2L|
-|Name|name|Display : LCD-016N002L|
+|name|name|Display : LCD-016N002L|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LCD-016N002L', 'description': '16 x 2 Character LCD, http://www.vishay.com/product?docid=37299', 'tags': 'LCD-016N002L 16 x 2 Character LCD', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display.3dshapes/LCD-016N002L.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/LCD-016N002L/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Display/LCD-016N002L/kicadPcb3d_450.png

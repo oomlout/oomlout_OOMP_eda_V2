@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Molex_Pico-EZmate_Slim_202656-0021_1x02-1MP_P1.20mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-EZmate_Slim_202656-0021_1x02-1MP_P1.20mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNMXMXPICOEZMATESLIM22656211X21MPP12VERTICAL|
-|Name|name|Connector_Molex : Molex_Pico-EZmate_Slim_202656-0021_1x02-1MP_P1.20mm_Vertical|
+|name|name|Connector_Molex : Molex_Pico-EZmate_Slim_202656-0021_1x02-1MP_P1.20mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Molex_Pico-EZmate_Slim_202656-0021_1x02-1MP_P1.20mm_Vertical', 'description': 'Molex Pico-EZmate_Slim series connector, 202656-0021 (http://www.molex.com/pdm_docs/sd/2026560021_sd.pdf), generated with kicad-footprint-generator', 'tags': 'connector Molex Pico-EZmate_Slim side entry', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Pico-EZmate_Slim_202656-0021_1x02-1MP_P1.20mm_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-EZmate_Slim_202656-0021_1x02-1MP_P1.20mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Pico-EZmate_Slim_202656-0021_1x02-1MP_P1.20mm_Vertical/kicadPcb3d_450.png

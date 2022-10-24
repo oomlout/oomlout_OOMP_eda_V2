@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Bourns-SRN8040_8x8.15mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRN8040_8x8.15mm|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLBOURNSSRN848X815|
-|Name|name|Inductor_SMD : L_Bourns-SRN8040_8x8.15mm|
+|name|name|Inductor_SMD : L_Bourns-SRN8040_8x8.15mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Bourns-SRN8040_8x8.15mm', 'description': 'Bourns SRN8040 series SMD inductor 8x8.15mm, https://www.bourns.com/docs/Product-Datasheets/SRN8040.pdf', 'tags': 'Bourns SRN8040 SMD inductor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns-SRN8040_8x8.15mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns-SRN8040_8x8.15mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns-SRN8040_8x8.15mm/kicadPcb3d_450.png

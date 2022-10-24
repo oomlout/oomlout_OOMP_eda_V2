@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TestPoint_Pad_2.5x2.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Pad_2.5x2.5mm|
 |Hex ID (short code)|hexID|FZKTPTPPAD25X25|
-|Name|name|TestPoint : TestPoint_Pad_2.5x2.5mm|
+|name|name|TestPoint : TestPoint_Pad_2.5x2.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TestPoint_Pad_2.5x2.5mm', 'description': 'SMD rectangular pad as test Point, square 2.5mm side length', 'tags': 'test point SMD pad rectangle square', 'attributeType': None, 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

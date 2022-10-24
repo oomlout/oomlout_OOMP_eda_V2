@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ZETA-433-SO_THT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-ZETA-433-SO_THT|
 |Hex ID (short code)|hexID|FZKRFMOZETA433SOTHT|
-|Name|name|RF_Module : ZETA-433-SO_THT|
+|name|name|RF_Module : ZETA-433-SO_THT|
 |Footprint Kicad|footprintKicadDetails|{'name': 'ZETA-433-SO_THT', 'description': 'RF transceiver THT style https://www.rfsolutions.co.uk/downloads/1456219226DS-ZETA.pdf', 'tags': 'RF transceiver SMD style', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/ZETA-433-SO_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAY93|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAY93|
 |Hex ID (short code)|hexID|SZKDIODEBAY93|
-|Name|name|BAY93|
+|name|name|BAY93|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N4001', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAY93', 'kicadSymbolFootprint': 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal', 'kicadSymbolDatasheet': 'https://cdn-reichelt.de/documents/datenblatt/A400/BAY93_TFK.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '20V 0.115A Very Fast Switching Diode, DO-35', 'kicadSymbolki_fp_filters': 'D*DO?35*'}]|
 ||||

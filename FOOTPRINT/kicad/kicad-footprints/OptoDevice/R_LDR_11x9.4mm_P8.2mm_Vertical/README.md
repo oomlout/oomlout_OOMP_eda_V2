@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|R_LDR_11x9.4mm_P8.2mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_11x9.4mm_P8.2mm_Vertical|
 |Hex ID (short code)|hexID|FZKOPRLDR11X94P82VERTICAL|
-|Name|name|OptoDevice : R_LDR_11x9.4mm_P8.2mm_Vertical|
+|name|name|OptoDevice : R_LDR_11x9.4mm_P8.2mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'R_LDR_11x9.4mm_P8.2mm_Vertical', 'description': 'Resistor, LDR 11x9.4mm', 'tags': 'Resistor LDR11x9.4mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/R_LDR_11x9.4mm_P8.2mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/R_LDR_11x9.4mm_P8.2mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/R_LDR_11x9.4mm_P8.2mm_Vertical/kicadPcb3d_450.png

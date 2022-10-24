@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TOP271VG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP271VG|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTOP271VG|
-|Name|name|TOP271VG|
+|name|name|TOP271VG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TOP264VG', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TOP271VG', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_eDIP-12B', 'kicadSymbolDatasheet': 'https://ac-dc.power.com/sites/default/files/product-docs/topswitch-jx_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Integrated Off-Line Switcher with EcoSmart™ Technology', 'kicadSymbolki_description': 'TOPSwitch-JX Family, 177W Output Power, eDIP-12B', 'kicadSymbolki_fp_filters': 'PowerIntegrations?eDIP?12*'}]|
 ||||

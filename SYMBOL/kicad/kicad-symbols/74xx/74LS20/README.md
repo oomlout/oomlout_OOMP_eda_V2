@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS20|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS20|
 |Hex ID (short code)|hexID|SZK74XX74LS2|
-|Name|name|74LS20|
+|name|name|74LS20|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS20', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS20', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL Nand4', 'kicadSymbolki_description': 'Dual 4-input NAND', 'kicadSymbolki_fp_filters': 'DIP?12*'}]|
 ||||

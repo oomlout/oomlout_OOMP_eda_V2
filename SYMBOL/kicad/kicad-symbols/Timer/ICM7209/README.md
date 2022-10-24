@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ICM7209|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-ICM7209|
 |Hex ID (short code)|hexID|SZKTIMERICM729|
-|Name|name|ICM7209|
+|name|name|ICM7209|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ICM7209', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://pdf.datasheetcatalog.com/datasheets/320/500974_DS.pdf', 'kicadSymbolki_keywords': 'Timebase generator', 'kicadSymbolki_description': 'Timebase generator, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

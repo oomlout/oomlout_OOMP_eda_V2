@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCIMX6DP7CVT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPU_NXP_IMX-MCIMX6DP7CVT|
 |Hex ID (short code)|hexID|SZKCPUNXPIMXMCIMX6DP7CVT|
-|Name|name|MCIMX6DP7CVT|
+|name|name|MCIMX6DP7CVT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCIMX6QP7CVT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCIMX6DP7CVT', 'kicadSymbolFootprint': 'Package_BGA:BGA-624_21.0x21.0mm_Layout25x25_P0.8mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/IMX6DQPIEC.pdf', 'kicadSymbolki_keywords': 'Dual-Core ARM Cortex A9 SOC Industrial', 'kicadSymbolki_description': 'i.MX 6DualPlus Application Processor for Industrial Products, BGA-624', 'kicadSymbolki_fp_filters': 'BGA*21.0x21.0mm*P0.8mm*'}]|
 ||||

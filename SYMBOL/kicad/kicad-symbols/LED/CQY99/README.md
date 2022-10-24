@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CQY99|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-LED-CQY99|
 |Hex ID (short code)|hexID|SZKLCQY99|
-|Name|name|CQY99|
+|name|name|CQY99|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LD271', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'CQY99', 'kicadSymbolFootprint': 'LED_THT:LED_D5.0mm_IRGrey', 'kicadSymbolDatasheet': 'https://www.prtice.info/IMG/pdf/CQY99.pdf', 'kicadSymbolki_keywords': 'IR LED', 'kicadSymbolki_description': '950nm IR-LED, 5mm', 'kicadSymbolki_fp_filters': 'LED*5.0mm*IRGrey*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Diode_Bridge_OnSemi_SDIP-4L|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_OnSemi_SDIP-4L|
 |Hex ID (short code)|hexID|FZKDIODESMDIODEBRIDGEONSEMISDIP4L|
-|Name|name|Diode_SMD : Diode_Bridge_OnSemi_SDIP-4L|
+|name|name|Diode_SMD : Diode_Bridge_OnSemi_SDIP-4L|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Diode_Bridge_OnSemi_SDIP-4L', 'description': 'SMD diode bridge OnSemi SDIP-4L, see https://www.onsemi.com/pdf/datasheet/df10s1-d.pdf', 'tags': 'OnSemi Diode Bridge SDIP-4L', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/Diode_Bridge_OnSemi_SDIP-4L.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_OnSemi_SDIP-4L/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_OnSemi_SDIP-4L/kicadPcb3d_450.png

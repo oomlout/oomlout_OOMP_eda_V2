@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-JSTSH-X-PI17-RS-HSHR17|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI17-RS-HSHR17|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI17RSHSHR17|
-|Name|name|HEAD-JSTSH-X-PI17-RS-HSHR17|
+|name|name|HEAD-JSTSH-X-PI17-RS-HSHR17|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HEAD-JSTSH-X-PI17-RS-HSHR17', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:HEAD-JSTSH-X-PI17-RS-HSHR17', 'kicadSymbolDatasheet': 'oom.lt/HSHR17', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'hexID: HSHR17;Generic connector, single row, 01x17, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_1x??_*'}]|
 ||||

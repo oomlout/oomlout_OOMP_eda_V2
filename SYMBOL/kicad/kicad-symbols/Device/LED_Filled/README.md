@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_Filled|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_Filled|
 |Hex ID (short code)|hexID|SZKDEVICELFILL|
-|Name|name|LED_Filled|
+|name|name|LED_Filled|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_Filled', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED diode', 'kicadSymbolki_description': 'Light emitting diode, filled shape', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

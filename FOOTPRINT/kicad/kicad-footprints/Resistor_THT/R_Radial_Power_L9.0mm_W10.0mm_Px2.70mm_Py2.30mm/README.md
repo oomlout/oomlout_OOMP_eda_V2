@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm|
 |Hex ID (short code)|hexID|FZKRRRPOWERL9W1PX27PY23|
-|Name|name|Resistor_THT : R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm|
+|name|name|Resistor_THT : R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm', 'description': 'Resistor, Radial_Power series, Radial, pin pitch=2.70*2.30mm^2, 17W, length*width=9*10mm^2, http://www.vitrohm.com/content/files/vitrohm_series_kv_-_201601.pdf', 'tags': 'Resistor Radial_Power series Radial pin pitch 2.70*2.30mm^2 17W length 9mm width 10mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

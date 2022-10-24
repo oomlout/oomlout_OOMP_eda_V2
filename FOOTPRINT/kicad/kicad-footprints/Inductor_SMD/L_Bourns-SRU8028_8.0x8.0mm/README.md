@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Bourns-SRU8028_8.0x8.0mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRU8028_8.0x8.0mm|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLBOURNSSRU8288X8|
-|Name|name|Inductor_SMD : L_Bourns-SRU8028_8.0x8.0mm|
+|name|name|Inductor_SMD : L_Bourns-SRU8028_8.0x8.0mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Bourns-SRU8028_8.0x8.0mm', 'description': 'Bourns SRU8028 series SMD inductor', 'tags': 'Bourns SRU8028 SMD inductor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns-SRU8028_8.0x8.0mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns-SRU8028_8.0x8.0mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns-SRU8028_8.0x8.0mm/kicadPcb3d_450.png

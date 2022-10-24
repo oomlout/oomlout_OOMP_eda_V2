@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SYM_Magnet_Large|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Graphic-SYM_Magnet_Large|
 |Hex ID (short code)|hexID|SZKGRAPHICSYMMAGNETL|
-|Name|name|SYM_Magnet_Large|
+|name|name|SYM_Magnet_Large|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#SYM', 'kicadSymbolValue': 'SYM_Magnet_Large', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'symbol logo magnetic field warning', 'kicadSymbolki_description': 'Magnetic field warning symbol, large'}]|
 ||||

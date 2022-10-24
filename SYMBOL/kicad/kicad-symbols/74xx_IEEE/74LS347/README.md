@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS347|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS347|
 |Hex ID (short code)|hexID|SZK74XXIEEE74LS347|
-|Name|name|74LS347|
+|name|name|74LS347|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '7446', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS347', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Crystal_SMD_TXC_9HT11-2Pin_2.0x1.2mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_TXC_9HT11-2Pin_2.0x1.2mm|
 |Hex ID (short code)|hexID|FZKXXSMTXC9HT112PIN2X12|
-|Name|name|Crystal : Crystal_SMD_TXC_9HT11-2Pin_2.0x1.2mm|
+|name|name|Crystal : Crystal_SMD_TXC_9HT11-2Pin_2.0x1.2mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_TXC_9HT11-2Pin_2.0x1.2mm', 'description': 'SMD Crystal TXC 9HT11 http://txccrystal.com/images/pdf/9ht11.pdf, 2.0x1.2mm^2 package', 'tags': 'SMD SMT crystal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_TXC_9HT11-2Pin_2.0x1.2mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_TXC_9HT11-2Pin_2.0x1.2mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_TXC_9HT11-2Pin_2.0x1.2mm/kicadPcb3d_450.png

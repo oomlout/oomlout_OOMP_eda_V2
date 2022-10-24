@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MAN72A|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-MAN72A|
 |Hex ID (short code)|hexID|FZKDI7SMAN72A|
-|Name|name|Display_7Segment : MAN72A|
+|name|name|Display_7Segment : MAN72A|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MAN72A', 'description': 'https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php', 'tags': 'One digit 7 segment red LED with left dot', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/MAN72A.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/MAN72A/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Display_7Segment/MAN72A/kicadPcb3d_450.png

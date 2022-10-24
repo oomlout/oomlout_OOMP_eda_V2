@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DTA144W|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA144W|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTDTA144W|
-|Name|name|DTA144W|
+|name|name|DTA144W|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DTA144W', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'ROHM Digital PNP Transistor', 'kicadSymbolki_description': 'Digital PNP Transistor, 47k/22k, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23* SC?59*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MRA4006T3G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-MRA4006T3G|
 |Hex ID (short code)|hexID|SZKDIODEMRA46T3G|
-|Name|name|MRA4006T3G|
+|name|name|MRA4006T3G|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MRA4003T3G', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'MRA4006T3G', 'kicadSymbolFootprint': 'Diode_SMD:D_SMA', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/MRA4003T3-D.PDF', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '800V, 1A, General Purpose Rectifier Diode, SMA(DO-214AC)', 'kicadSymbolki_fp_filters': 'D*SMA*'}]|
 ||||

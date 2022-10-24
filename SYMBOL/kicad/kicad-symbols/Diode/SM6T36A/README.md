@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SM6T36A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-SM6T36A|
 |Hex ID (short code)|hexID|SZKDIODESM6T36A|
-|Name|name|SM6T36A|
+|name|name|SM6T36A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SM6T6V8A', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SM6T36A', 'kicadSymbolFootprint': 'Diode_SMD:D_SMB', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/sm6t.pdf', 'kicadSymbolki_keywords': 'diode TVS voltage suppressor', 'kicadSymbolki_description': '600W unidirectional Transil Transient Voltage Suppressor, 36Vrwm, DO-214AA', 'kicadSymbolki_fp_filters': 'D*SMB*'}]|
 ||||

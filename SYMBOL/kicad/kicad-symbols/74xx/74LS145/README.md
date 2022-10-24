@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS145|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS145|
 |Hex ID (short code)|hexID|SZK74XX74LS145|
-|Name|name|74LS145|
+|name|name|74LS145|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS145', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS145', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL DECOD10 OpenColl', 'kicadSymbolki_description': 'Decoder 1 to 10, Open Collector', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

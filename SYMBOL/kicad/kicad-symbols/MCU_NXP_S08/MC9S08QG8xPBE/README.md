@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC9S08QG8xPBE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08QG8xPBE|
 |Hex ID (short code)|hexID|SZKMCUNXPS8MC9S8QG8XPBE|
-|Name|name|MC9S08QG8xPBE|
+|name|name|MC9S08QG8xPBE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'IC', 'kicadSymbolValue': 'MC9S08QG8xPBE', 'kicadSymbolFootprint': 'Package_DIP:DIP-16_W7.62mm', 'kicadSymbolDatasheet': 'http://cache.nxp.com/files/microcontrollers/doc/data_sheet/MC9S08QG8.pdf', 'kicadSymbolki_keywords': 'NXP S08 Microcontroller', 'kicadSymbolki_description': '8-bit Small Package Microcontroller, S08 core, 8kB Flash, 512B RAM, DIP-16', 'kicadSymbolki_fp_filters': 'DIP*7.62mm*'}]|
 ||||

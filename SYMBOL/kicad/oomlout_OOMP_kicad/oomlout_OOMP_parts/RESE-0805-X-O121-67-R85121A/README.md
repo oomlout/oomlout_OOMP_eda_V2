@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O121-67-R85121A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O121-67-R85121A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO12167R85121A|
-|Name|name|RESE-0805-X-O121-67-R85121A|
+|name|name|RESE-0805-X-O121-67-R85121A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O121-67-R85121A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O121-67-R85121A', 'kicadSymbolDatasheet': 'oom.lt/R85121A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R85121A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

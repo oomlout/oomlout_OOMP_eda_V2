@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX14830|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-MAX14830|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTMAX1483|
-|Name|name|MAX14830|
+|name|name|MAX14830|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX14830', 'kicadSymbolFootprint': 'Package_DFN_QFN:TQFN-48-1EP_7x7mm_P0.5mm_EP5.1x5.1mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX14830.pdf', 'kicadSymbolki_keywords': 'UART I2C/SPI 128W FIFO IrDA SIR', 'kicadSymbolki_description': 'Quad UART with I2C/SPI interface, 128 Word FIFOs, IrDA SIR built-in support, TQFN-48', 'kicadSymbolki_fp_filters': 'TQFN*1EP*7x7mm*P0.5mm*'}]|
 ||||

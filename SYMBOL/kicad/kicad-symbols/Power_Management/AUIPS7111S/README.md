@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AUIPS7111S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS7111S|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTAUIPS7111S|
-|Name|name|AUIPS7111S|
+|name|name|AUIPS7111S|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AUIPS7111S', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-4', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/auips7111s.pdf?fileId=5546d462533600a4015355a7c94e1326', 'kicadSymbolki_keywords': 'high side switch', 'kicadSymbolki_description': 'Current Sense High Side Switch, 65V, 30A, D2PAK-5L', 'kicadSymbolki_fp_filters': 'TO?263*'}]|
 ||||

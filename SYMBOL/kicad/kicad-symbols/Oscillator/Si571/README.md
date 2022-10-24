@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Si571|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-Si571|
 |Hex ID (short code)|hexID|SZKOCSSI571|
-|Name|name|Si571|
+|name|name|Si571|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Si571', 'kicadSymbolFootprint': 'Oscillator:Oscillator_SMD_SI570_SI571_Standard', 'kicadSymbolDatasheet': 'http://www.silabs.com/Support%20Documents/TechnicalDocs/si570.pdf', 'kicadSymbolki_keywords': '10 MHZ TO 1.4 GHZ I2C PROGRAMMABLE XO/VCXO', 'kicadSymbolki_description': '10 MHZ TO 1.4 GHZ I2C PROGRAMMABLE XO/VCXO', 'kicadSymbolki_fp_filters': 'Oscillator*SI570*SI571*'}]|
 ||||

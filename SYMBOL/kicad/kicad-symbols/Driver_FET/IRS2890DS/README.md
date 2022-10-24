@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRS2890DS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2890DS|
 |Hex ID (short code)|hexID|SZKDRIVERFETIRS289DS|
-|Name|name|IRS2890DS|
+|name|name|IRS2890DS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IRS2890DS', 'kicadSymbolFootprint': 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-IRS2890DS-DS-v01_00-EN.pdf?fileId=5546d4625a888733015aad6fbc8a4bf4', 'kicadSymbolki_keywords': 'Gate Driver', 'kicadSymbolki_description': 'Half-Bridge Driver with Overcurrent Protection, 600V, 220/480mA, SOIC-14', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DA56-11SYKWA|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-DA56-11SYKWA|
 |Hex ID (short code)|hexID|FZKDI7SDA5611SYKWA|
-|Name|name|Display_7Segment : DA56-11SYKWA|
+|name|name|Display_7Segment : DA56-11SYKWA|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DA56-11SYKWA', 'description': 'http://www.kingbright.com/attachments/file/psearch/000/00/00/DA56-11SYKWA(Ver.11A).pdf', 'tags': 'Double digit seven segment super bright yellow LED display', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/DA56-11SYKWA.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/DA56-11SYKWA/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Display_7Segment/DA56-11SYKWA/kicadPcb3d_450.png

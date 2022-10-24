@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0603-X-NF33-V50-C6N033|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-NF33-V50-C6N033|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XNF33V5C6N33|
-|Name|name|CAPC-0603-X-NF33-V50-C6N033|
+|name|name|CAPC-0603-X-NF33-V50-C6N033|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0603-X-NF33-V50-C6N033', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0603-X-NF33-V50-C6N033', 'kicadSymbolDatasheet': 'oom.lt/C6N033', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C6N033;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

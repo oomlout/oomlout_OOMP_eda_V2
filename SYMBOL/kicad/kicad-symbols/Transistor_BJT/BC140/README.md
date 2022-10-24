@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BC140|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC140|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBC14|
-|Name|name|BC140|
+|name|name|BC140|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '2N2219', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC140', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-39-3', 'kicadSymbolDatasheet': 'http://www.farnell.com/datasheets/296634.pdf', 'kicadSymbolki_keywords': 'NPN Transistor', 'kicadSymbolki_description': '1A Ic, 40V Vce, NPN Transistor, TO-39', 'kicadSymbolki_fp_filters': 'TO?39*'}]|
 ||||

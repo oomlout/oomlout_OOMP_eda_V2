@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS560200|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS560200|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS562|
-|Name|name|TPS560200|
+|name|name|TPS560200|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS560200', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps560200.pdf', 'kicadSymbolki_keywords': 'Voltage regulator switching buck fixed output analog', 'kicadSymbolki_description': '500mA, Synchronous Step-Down Converter With, Adjustable Output Voltage, 4.5-17V Input Voltage, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

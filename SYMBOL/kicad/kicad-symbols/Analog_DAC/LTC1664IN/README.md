@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC1664IN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-LTC1664IN|
 |Hex ID (short code)|hexID|SZKANALOGDACLTC1664IN|
-|Name|name|LTC1664IN|
+|name|name|LTC1664IN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LTC1664CGN', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC1664IN', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1664fa.pdf', 'kicadSymbolki_keywords': 'Quad DAC Micropower 10bit 4ch', 'kicadSymbolki_description': 'Quad Micropower 10-bit DAC, Industrial, DIP-16', 'kicadSymbolki_fp_filters': '*SSOP*'}]|
 ||||

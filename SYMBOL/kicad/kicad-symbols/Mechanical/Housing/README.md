@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Housing|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Mechanical-Housing|
 |Hex ID (short code)|hexID|SZKMECHANICALHOUSING|
-|Name|name|Housing|
+|name|name|Housing|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'N', 'kicadSymbolValue': 'Housing', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'housing enclosure', 'kicadSymbolki_description': 'Housing', 'kicadSymbolki_fp_filters': 'Enclosure* Housing*'}]|
 ||||

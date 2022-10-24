@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DelayLine|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-DelayLine|
 |Hex ID (short code)|hexID|SZKDEVICEDELAYLINE|
-|Name|name|DelayLine|
+|name|name|DelayLine|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'L', 'kicadSymbolValue': 'DelayLine', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'delay propagation retard impedance', 'kicadSymbolki_description': 'Delay line'}]|
 ||||

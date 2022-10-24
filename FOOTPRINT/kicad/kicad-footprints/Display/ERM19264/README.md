@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|ERM19264|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-ERM19264|
 |Hex ID (short code)|hexID|FZKDIERM19264|
-|Name|name|Display : ERM19264|
+|name|name|Display : ERM19264|
 |Footprint Kicad|footprintKicadDetails|{'name': 'ERM19264', 'description': 'STN/FSTN LCD 192x64 dot https://www.buydisplay.com/download/manual/ERM19264-1_Series_Datasheet.pdf', 'tags': 'ERM19264 Graphics Display 192x64', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display.3dshapes/ERM19264.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/ERM19264/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Display/ERM19264/kicadPcb3d_450.png

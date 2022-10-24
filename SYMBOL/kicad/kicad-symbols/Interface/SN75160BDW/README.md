@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SN75160BDW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-SN75160BDW|
 |Hex ID (short code)|hexID|SZKINTERFACESN7516BDW|
-|Name|name|SN75160BDW|
+|name|name|SN75160BDW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SN75160BDW', 'kicadSymbolFootprint': 'Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/sn75160b.pdf', 'kicadSymbolki_keywords': 'gpib bidirectional bus transceiver', 'kicadSymbolki_description': 'Octal general-purpose interface bus transceiver, SOIC-20', 'kicadSymbolki_fp_filters': 'SOIC*7.5x12.8mm*P1.27mm*'}]|
 ||||

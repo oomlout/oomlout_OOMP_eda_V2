@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CP2104|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-CP2104|
 |Hex ID (short code)|hexID|SZKINTERFACEUCP214|
-|Name|name|CP2104|
+|name|name|CP2104|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CP2104', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm', 'kicadSymbolDatasheet': 'https://www.silabs.com/documents/public/data-sheets/cp2104.pdf', 'kicadSymbolki_keywords': 'uart usb bridge interface transceiver', 'kicadSymbolki_description': 'Single-Chip USB-to-UART Bridge, USB 2.0 Full-Speed, 2Mbps UART, QFN-24', 'kicadSymbolki_fp_filters': 'QFN*4x4mm*P0.5mm*'}]|
 ||||

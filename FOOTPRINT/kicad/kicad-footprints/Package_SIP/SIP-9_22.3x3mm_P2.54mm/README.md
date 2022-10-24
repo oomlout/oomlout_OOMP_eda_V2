@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SIP-9_22.3x3mm_P2.54mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP-9_22.3x3mm_P2.54mm|
 |Hex ID (short code)|hexID|FZKSIPSIP9223X3P254|
-|Name|name|Package_SIP : SIP-9_22.3x3mm_P2.54mm|
+|name|name|Package_SIP : SIP-9_22.3x3mm_P2.54mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SIP-9_22.3x3mm_P2.54mm', 'description': 'SIP 9-pin ()', 'tags': 'SIP8', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/SIP-9_22.3x3mm_P2.54mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP-9_22.3x3mm_P2.54mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP-9_22.3x3mm_P2.54mm/kicadPcb3d_450.png

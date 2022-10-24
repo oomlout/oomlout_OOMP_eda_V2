@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM4F110E5QR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Texas-LM4F110E5QR|
 |Hex ID (short code)|hexID|SZKMCUTEXASLM4F11E5QR|
-|Name|name|LM4F110E5QR|
+|name|name|LM4F110E5QR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TM4C1231C3PM', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM4F110E5QR', 'kicadSymbolFootprint': 'Package_QFP:LQFP-64_10x10mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tm4c1231e6pm.pdf', 'kicadSymbolki_keywords': 'ARM Stellaris Cortex M4 MCU NRND', 'kicadSymbolki_description': 'Replaced by TM4C1231E6PM, LQFP64', 'kicadSymbolki_fp_filters': 'LQFP*10x10mm*P0.5*'}]|
 ||||

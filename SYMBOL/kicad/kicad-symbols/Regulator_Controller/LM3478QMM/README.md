@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM3478QMM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-LM3478QMM|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERLM3478Q|
-|Name|name|LM3478QMM|
+|name|name|LM3478QMM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM3478MA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM3478QMM', 'kicadSymbolFootprint': 'Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/gpn/lm3478q-q1', 'kicadSymbolki_keywords': 'Boost flyback SEPIC DC-DC controller Automotive', 'kicadSymbolki_description': '2.97~40V Wide Input Range Boost/SEPIC/Flyback DC-DC Controller, AEC-Q100 Qualified, VSSOP-8', 'kicadSymbolki_fp_filters': 'VSSOP-8_3.0x3.0mm_P0.65mm*'}]|
 ||||

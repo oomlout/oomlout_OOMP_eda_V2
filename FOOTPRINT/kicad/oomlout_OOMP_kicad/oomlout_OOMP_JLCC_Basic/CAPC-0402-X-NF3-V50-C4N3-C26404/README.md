@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0402-X-NF3-V50-C4N3-C26404|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-NF3-V50-C4N3-C26404|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XNF3V5C4N3C2644|
-|Name|name|oomlout_OOMP_JLCC_Basic : CAPC-0402-X-NF3-V50-C4N3-C26404|
+|name|name|oomlout_OOMP_JLCC_Basic : CAPC-0402-X-NF3-V50-C4N3-C26404|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CAPC-0402-X-NF3-V50-C4N3-C26404', 'description': 'hexID: C4N3;PARTL C-JLCC;C26404;MANUF C-XXXX;CL05B332KB5NNNC; Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator', 'tags': 'capacitor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||

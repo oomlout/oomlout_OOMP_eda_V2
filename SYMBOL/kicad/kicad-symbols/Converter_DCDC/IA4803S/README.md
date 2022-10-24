@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IA4803S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA4803S|
 |Hex ID (short code)|hexID|SZKCONIA483S|
-|Name|name|IA4803S|
+|name|name|IA4803S|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'IA4803S', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_XP_POWER-IA48xxS_THT', 'kicadSymbolDatasheet': 'https://www.xppower.com/pdfs/SF_IA.pdf', 'kicadSymbolki_keywords': 'XP_POWER DC/DC isolated Converter module', 'kicadSymbolki_description': 'XP Power 1W, 1000 VDC Isolated DC/DC Converter Module, Dual Output Voltage ±3.3V, ±151mA, 48V Input Voltage, SIP', 'kicadSymbolki_fp_filters': '*XP?POWER?IA48xxS*'}]|
 ||||

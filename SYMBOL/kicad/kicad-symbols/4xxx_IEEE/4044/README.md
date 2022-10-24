@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4044|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4044|
 |Hex ID (short code)|hexID|SZK4XXXIEEE444|
-|Name|name|4044|
+|name|name|4044|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4044', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

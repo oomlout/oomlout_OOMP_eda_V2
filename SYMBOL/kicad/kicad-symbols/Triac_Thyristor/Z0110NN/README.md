@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Z0110NN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Triac_Thyristor-Z0110NN|
 |Hex ID (short code)|hexID|SZKTRIACTHYRISTORZ11NN|
-|Name|name|Z0110NN|
+|name|name|Z0110NN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'Z0103MN', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'Z0110NN', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/z01.pdf', 'kicadSymbolki_keywords': '4Q Triac', 'kicadSymbolki_description': '4Q Triac, 1A RMS, 800V VDRM, 25mA Igt, 25mA Ih, SOT-223', 'kicadSymbolki_fp_filters': 'SOT*223*'}]|
 ||||

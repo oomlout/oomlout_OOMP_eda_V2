@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC3S400-FG320|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3S400-FG320|
 |Hex ID (short code)|hexID|SZKFPGAXILINXXC3S4FG32|
-|Name|name|XC3S400-FG320|
+|name|name|XC3S400-FG320|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC3S400-FG320', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

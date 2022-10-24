@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Relay_DPDT_Panasonic_JW2|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Panasonic_JW2|
 |Hex ID (short code)|hexID|FZKRELRELAYDPDTPANASONICJW2|
-|Name|name|Relay_THT : Relay_DPDT_Panasonic_JW2|
+|name|name|Relay_THT : Relay_DPDT_Panasonic_JW2|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Relay_DPDT_Panasonic_JW2', 'description': 'Panasonic Relay DPDT, http://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_jw.pdf?via=ok', 'tags': 'Panasonic Relay DPDT', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_Panasonic_JW2.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Panasonic_JW2/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Panasonic_JW2/kicadPcb3d_450.png

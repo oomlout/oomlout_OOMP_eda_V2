@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP73812T-420I-OT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-MCP73812T-420I-OT|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTMCP73812T42IOT|
-|Name|name|MCP73812T-420I-OT|
+|name|name|MCP73812T-420I-OT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP73812T-420I-OT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/22036b.pdf', 'kicadSymbolki_keywords': 'Lithium-Ion Battery Charger', 'kicadSymbolki_description': 'Simple, Miniature Single-Cell, Fully Integrated Li-Ion / Li-Polymer Charge Management Controllers, 50mA-500mA, 4.2V, SOT23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

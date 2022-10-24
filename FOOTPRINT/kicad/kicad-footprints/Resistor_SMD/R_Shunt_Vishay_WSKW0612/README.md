@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|R_Shunt_Vishay_WSKW0612|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Vishay_WSKW0612|
 |Hex ID (short code)|hexID|FZKRESISTORSMRSHUNTVISHAYWSKW612|
-|Name|name|Resistor_SMD : R_Shunt_Vishay_WSKW0612|
+|name|name|Resistor_SMD : R_Shunt_Vishay_WSKW0612|
 |Footprint Kicad|footprintKicadDetails|{'name': 'R_Shunt_Vishay_WSKW0612', 'description': 'https://www.vishay.com/docs/30332/wskw0612.pdf', 'tags': '4-Terminal SMD Shunt', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Shunt_Vishay_WSKW0612.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSKW0612/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSKW0612/kicadPcb3d_450.png

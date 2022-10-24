@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC3886|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3886|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLTC3886|
-|Name|name|LTC3886|
+|name|name|LTC3886|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC3886', 'kicadSymbolFootprint': 'Package_DFN_QFN:Linear_UGK52_QFN-46-52', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/LTC3886-3886-1.pdf', 'kicadSymbolki_keywords': 'step down switch manager I2C telemetry fault current sense', 'kicadSymbolki_description': '60V dual output buck output with digital power system management, UKG52(46)', 'kicadSymbolki_fp_filters': 'Linear*UGK52*QFN*46*52*'}]|
 ||||

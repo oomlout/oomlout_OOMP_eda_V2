@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Oscillator_SMD_SeikoEpson_SG3030CM|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SeikoEpson_SG3030CM|
 |Hex ID (short code)|hexID|FZKOCSOCSSMSEIKOEPSONSG33CM|
-|Name|name|Oscillator : Oscillator_SMD_SeikoEpson_SG3030CM|
+|name|name|Oscillator : Oscillator_SMD_SeikoEpson_SG3030CM|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Oscillator_SMD_SeikoEpson_SG3030CM', 'description': 'SMD Crystal Oscillator Seiko Epson SG-3030CM package', 'tags': 'SMD SMT crystal oscillator', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_SeikoEpson_SG3030CM.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG3030CM/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG3030CM/kicadPcb3d_450.png

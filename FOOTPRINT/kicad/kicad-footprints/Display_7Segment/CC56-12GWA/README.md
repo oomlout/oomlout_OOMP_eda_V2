@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|CC56-12GWA|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-CC56-12GWA|
 |Hex ID (short code)|hexID|FZKDI7SCC5612GWA|
-|Name|name|Display_7Segment : CC56-12GWA|
+|name|name|Display_7Segment : CC56-12GWA|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CC56-12GWA', 'description': '4 digit 7 segment green LED, http://www.kingbrightusa.com/images/catalog/SPEC/CA56-11GWA.pdf', 'tags': '4 digit 7 segment green LED', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/CC56-12GWA.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/CC56-12GWA/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Display_7Segment/CC56-12GWA/kicadPcb3d_450.png

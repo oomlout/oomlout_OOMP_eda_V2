@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O332-01-R8O332|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O332-01-R8O332|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO3321R8O332|
-|Name|name|RESE-0805-X-O332-01-R8O332|
+|name|name|RESE-0805-X-O332-01-R8O332|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O332-01-R8O332', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O332-01-R8O332', 'kicadSymbolDatasheet': 'oom.lt/R8O332', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R8O332;PARTL C-JLCC;C26010;MANUF C-XXXX;0805W8F3301T5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

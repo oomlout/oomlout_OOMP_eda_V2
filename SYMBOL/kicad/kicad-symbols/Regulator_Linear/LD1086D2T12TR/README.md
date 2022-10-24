@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LD1086D2T12TR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1086D2T12TR|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLD186D2T12TR|
-|Name|name|LD1086D2T12TR|
+|name|name|LD1086D2T12TR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LD1086D2TTR', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LD1086D2T12TR', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-2', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/ld1086.pdf', 'kicadSymbolki_keywords': 'Linear Regulator 1.5A Fixed Output', 'kicadSymbolki_description': 'Positive, 1.5A 30V, Linear Regulator, Fixed Output 12V, TO-263', 'kicadSymbolki_fp_filters': 'TO?263?2*'}]|
 ||||

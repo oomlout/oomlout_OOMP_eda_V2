@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SZESD9B5.0ST5G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-SZESD9B5.0ST5G|
 |Hex ID (short code)|hexID|SZKDIODESZESD9B5ST5G|
-|Name|name|SZESD9B5.0ST5G|
+|name|name|SZESD9B5.0ST5G|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ESD9B5.0ST5G', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SZESD9B5.0ST5G', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-923', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF', 'kicadSymbolki_keywords': 'diode TVS ESD', 'kicadSymbolki_description': 'ESD protection diode, 5.0Vrwm, SOD-923', 'kicadSymbolki_fp_filters': 'D*SOD?923*'}]|
 ||||

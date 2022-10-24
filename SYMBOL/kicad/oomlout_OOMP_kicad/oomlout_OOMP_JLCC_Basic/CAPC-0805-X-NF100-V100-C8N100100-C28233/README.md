@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0805-X-NF100-V100-C8N100100-C28233|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF100-V100-C8N100100-C28233|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XNF1V1C8N11C28233|
-|Name|name|CAPC-0805-X-NF100-V100-C8N100100-C28233|
+|name|name|CAPC-0805-X-NF100-V100-C8N100100-C28233|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0805-X-NF100-V100-C8N100100-C28233', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0805-X-NF100-V100-C8N100100-C28233', 'kicadSymbolDatasheet': 'oom.lt/C8N100100', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C8N100100;PARTL C-JLCC;C28233;MANUF C-XXXX;CL21B104KCFNNNE;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

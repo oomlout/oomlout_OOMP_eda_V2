@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC1864|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1864|
 |Hex ID (short code)|hexID|SZKANALOGADCLTC1864|
-|Name|name|LTC1864|
+|name|name|LTC1864|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LTC1864L', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC1864', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/18645fb.pdf', 'kicadSymbolki_keywords': 'sigma-delta adc spi 1ch', 'kicadSymbolki_description': 'Single channel 16-bit Analog to Digital Converter, 5V supply, differential input, 150ksps, SPI interface', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm* SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

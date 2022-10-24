@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PCA9557D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9557D|
 |Hex ID (short code)|hexID|SZKINTERFACEEXPANSIONPCA9557D|
-|Name|name|PCA9557D|
+|name|name|PCA9557D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PCA9557D', 'kicadSymbolFootprint': 'Package_SO:SO-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/PCA9557.pdf', 'kicadSymbolki_keywords': 'SMBUS I2C Expander', 'kicadSymbolki_description': '8-bit I2C-bus and SMBus I/O port with reset, SO-16', 'kicadSymbolki_fp_filters': 'SO*3.9x9.9mm*P1.27mm*'}]|
 ||||

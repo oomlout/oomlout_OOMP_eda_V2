@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCP1117-ADJ_TO252|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP1117-ADJ_TO252|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARNCP1117ADJTO252|
-|Name|name|NCP1117-ADJ_TO252|
+|name|name|NCP1117-ADJ_TO252|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCP1117-ADJ_TO252', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-2', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF', 'kicadSymbolki_keywords': 'REGULATOR LDO ADJUSTABLE', 'kicadSymbolki_description': '1A Low drop-out regulator, Adjustable Output 1.25 - 18.8V, TO-252 (DPAK)', 'kicadSymbolki_fp_filters': 'TO?252*'}]|
 ||||

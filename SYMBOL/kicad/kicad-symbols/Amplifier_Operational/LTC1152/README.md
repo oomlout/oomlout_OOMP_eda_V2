@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC1152|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC1152|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALLTC1152|
-|Name|name|LTC1152|
+|name|name|LTC1152|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC1152', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/lt1152.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Rail-to-Rail Input, Rail-to-Rail Output, Zero-Drift Op Amp, DIP-8, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EA_eDIP160B-7LW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIP160B-7LW|
 |Hex ID (short code)|hexID|SZKDIGRAPHICEAEDIP16B7LW|
-|Name|name|EA_eDIP160B-7LW|
+|name|name|EA_eDIP160B-7LW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EA_eDIP160B-7LW', 'kicadSymbolFootprint': 'Display:EA_eDIP160-XXX', 'kicadSymbolDatasheet': 'http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip160-7e.pdf', 'kicadSymbolki_keywords': 'display LCD graphic', 'kicadSymbolki_description': 'LCD-graphical display 160x104 with LED backlight, blue negative, 3.3V - 5V VDD, RS-232, I2C or SPI', 'kicadSymbolki_fp_filters': '*EA*eDIP160*'}]|
 ||||

@@ -28,10 +28,10 @@
 |OOMP Index|oompIndex|Converter_ACDC_Murata_BAC05SxxDC_THT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_Murata_BAC05SxxDC_THT|
 |Hex ID (short code)|hexID|FZKCONCONMBAC5SXXDCTHT|
-|Name|name|Converter_ACDC : Converter_ACDC_Murata_BAC05SxxDC_THT|
+|name|name|Converter_ACDC : Converter_ACDC_Murata_BAC05SxxDC_THT|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Converter_ACDC_Murata_BAC05SxxDC_THT', 'description': 'ACDC-Converter, Murata, 5W, ClassB, https://www.murata.com/products/productdata/8809982558238/KAC-BAC05.pdf', 'tags': 'switching power supply tht', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_ACDC.3dshapes/Converter_ACDC_Murata_BAC05SxxDC_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Murata_BAC05SxxDC_THT/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Murata_BAC05SxxDC_THT/kicadPcb3d_450.png

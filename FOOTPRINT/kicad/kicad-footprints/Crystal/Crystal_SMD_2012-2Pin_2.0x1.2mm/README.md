@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Crystal_SMD_2012-2Pin_2.0x1.2mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_2012-2Pin_2.0x1.2mm|
 |Hex ID (short code)|hexID|FZKXXSM2122PIN2X12|
-|Name|name|Crystal : Crystal_SMD_2012-2Pin_2.0x1.2mm|
+|name|name|Crystal : Crystal_SMD_2012-2Pin_2.0x1.2mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_2012-2Pin_2.0x1.2mm', 'description': 'SMD Crystal 2012/2 http://txccrystal.com/images/pdf/9ht11.pdf, 2.0x1.2mm^2 package', 'tags': 'SMD SMT crystal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_2012-2Pin_2.0x1.2mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_2012-2Pin_2.0x1.2mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_2012-2Pin_2.0x1.2mm/kicadPcb3d_450.png

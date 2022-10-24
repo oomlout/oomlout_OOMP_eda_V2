@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L_Ferrite_Small|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-L_Ferrite_Small|
 |Hex ID (short code)|hexID|SZKDEVICELFERRITESLL|
-|Name|name|L_Ferrite_Small|
+|name|name|L_Ferrite_Small|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'L', 'kicadSymbolValue': 'L_Ferrite_Small', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'inductor choke coil reactor magnetic', 'kicadSymbolki_description': 'Inductor with ferrite core, small symbol', 'kicadSymbolki_fp_filters': 'Choke_* *Coil* Inductor_* L_*'}]|
 ||||

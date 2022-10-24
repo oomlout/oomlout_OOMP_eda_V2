@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|REF102CP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF102CP|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGEREF12CP|
-|Name|name|REF102CP|
+|name|name|REF102CP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'REF102AP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'REF102CP', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ref102.pdf', 'kicadSymbolki_keywords': 'Precision Voltage Reference 10V', 'kicadSymbolki_description': '10V ±2.5mV Precision Voltage Reference, PDIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

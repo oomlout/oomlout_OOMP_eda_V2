@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BD441|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD441|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBD441|
-|Name|name|BD441|
+|name|name|BD441|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BD433', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BD441', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-126-3_Vertical', 'kicadSymbolDatasheet': 'http://www.cdil.com/datasheets/bd433_42.pdf', 'kicadSymbolki_keywords': 'Power NPN Transistor', 'kicadSymbolki_description': '4A Ic, 80V Vce, Power NPN Transistor, TO-126', 'kicadSymbolki_fp_filters': 'TO?126*'}]|
 ||||

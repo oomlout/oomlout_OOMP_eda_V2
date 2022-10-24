@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Symbol_Danger_CopperTop_Big|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_Danger_CopperTop_Big|
 |Hex ID (short code)|hexID|FZKSZSYDANGERCTOPBIG|
-|Name|name|Symbol : Symbol_Danger_CopperTop_Big|
+|name|name|Symbol : Symbol_Danger_CopperTop_Big|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Symbol_Danger_CopperTop_Big', 'description': 'Symbol, Danger, CopperTop, Big,', 'tags': 'Symbol, Danger, CopperTop, Big,', 'attributeType': None, 'pins': {}}|
 ||||

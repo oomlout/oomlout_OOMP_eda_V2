@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC6081xDD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6081xDD|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALLTC681XDD|
-|Name|name|LTC6081xDD|
+|name|name|LTC6081xDD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC6081xDD', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.55x2.48mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/60812fd.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'dual opamp', 'kicadSymbolki_description': 'Precision Dual CMOS Rail-to-Rail Input/Output Amplifiers, DFN-10', 'kicadSymbolki_fp_filters': 'DFN*3x3mm*P0.5mm*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB_B_OST_USB-B1HSxx_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_B_OST_USB-B1HSxx_Horizontal|
 |Hex ID (short code)|hexID|FZKCNUUBOSTUB1HSXXHORIZONTAL|
-|Name|name|Connector_USB : USB_B_OST_USB-B1HSxx_Horizontal|
+|name|name|Connector_USB : USB_B_OST_USB-B1HSxx_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB_B_OST_USB-B1HSxx_Horizontal', 'description': 'USB B receptacle, Horizontal, through-hole, http://www.on-shore.com/wp-content/uploads/2015/09/usb-b1hsxx.pdf', 'tags': 'USB-B receptacle horizontal through-hole', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_B_OST_USB-B1HSxx_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_B_OST_USB-B1HSxx_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_B_OST_USB-B1HSxx_Horizontal/kicadPcb3d_450.png

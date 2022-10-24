@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|68HC11|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_HC11-68HC11|
 |Hex ID (short code)|hexID|SZKMCUNXPHC1168HC11|
-|Name|name|68HC11|
+|name|name|68HC11|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '68HC11', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'MCU Microcontroller HC11', 'kicadSymbolki_description': 'HC11 Microcontroller'}]|
 ||||

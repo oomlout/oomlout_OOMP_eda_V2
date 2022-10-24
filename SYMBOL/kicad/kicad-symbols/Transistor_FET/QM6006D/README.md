@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|QM6006D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-QM6006D|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETQM66D|
-|Name|name|QM6006D|
+|name|name|QM6006D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IPD50R380CE', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'QM6006D', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-2', 'kicadSymbolDatasheet': 'http://www.jaolen.com/images/pdf/QM6006D.pdf', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '35A Id, 60V Vds, N-Channel Power MOSFET, 18mOhm Ron, 19.3nC Qg (typ), TO252', 'kicadSymbolki_fp_filters': 'TO?252*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F54-IP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F54-IP|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F54IP|
-|Name|name|PIC16F54-IP|
+|name|name|PIC16F54-IP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F54-IP', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41213D.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller', 'kicadSymbolki_description': '512W FLASH, 25B SRAM, DIP18', 'kicadSymbolki_fp_filters': 'DIP* PDIP*'}]|
 ||||

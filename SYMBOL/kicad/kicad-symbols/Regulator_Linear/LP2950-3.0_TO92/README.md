@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LP2950-3.0_TO92|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2950-3.0_TO92|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLP2953TO92|
-|Name|name|LP2950-3.0_TO92|
+|name|name|LP2950-3.0_TO92|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC78L05_TO92', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LP2950-3.0_TO92', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lp2950.pdf', 'kicadSymbolki_keywords': 'Micropower Voltage Regulator 100mA Positive', 'kicadSymbolki_description': 'Positive 100mA 30V Linear Micropower Voltage Regulator, Fixed Output 3.0V, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

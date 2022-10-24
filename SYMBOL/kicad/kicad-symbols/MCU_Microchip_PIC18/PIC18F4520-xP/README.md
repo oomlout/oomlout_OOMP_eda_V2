@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC18F4520-xP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F4520-xP|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC18PIC18F452XP|
-|Name|name|PIC18F4520-xP|
+|name|name|PIC18F4520-xP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC18F4420-xP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18F4520-xP', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/39631E.pdf', 'kicadSymbolki_keywords': '32K Flash, 1536b SRAM, 256b EEPROM, ADC', 'kicadSymbolki_description': '32K Flash, 1536b SRAM, 256b EEPROM, ADC, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

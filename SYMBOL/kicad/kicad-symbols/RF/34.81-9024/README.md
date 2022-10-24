@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|34.81-9024|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF-34.81-9024|
 |Hex ID (short code)|hexID|SZKRF3481924|
-|Name|name|34.81-9024|
+|name|name|34.81-9024|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '34.81-9024', 'kicadSymbolFootprint': 'OptoDevice:Finder_34.81', 'kicadSymbolDatasheet': 'http://www.us.liteon.com/downloads/LTV-817-827-847.PDF', 'kicadSymbolki_keywords': 'NPN DC Optocoupler', 'kicadSymbolki_description': 'Ultra-Slim Solid-State Relay, 2A, 24V DC output switching', 'kicadSymbolki_fp_filters': 'Finder*34.81*'}]|
 ||||

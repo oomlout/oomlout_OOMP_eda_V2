@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|1N4448WS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-1N4448WS|
 |Hex ID (short code)|hexID|SZKDIODE1N4448WS|
-|Name|name|1N4448WS|
+|name|name|1N4448WS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N4001', 'kicadSymbolReference': 'D', 'kicadSymbolValue': '1N4448WS', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-323', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/81387/1n4448ws.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '75V 0.15A Small Signal Fast switching Diode, SOD-323', 'kicadSymbolki_fp_filters': 'D*SOD?323*'}]|
 ||||

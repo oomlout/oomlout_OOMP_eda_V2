@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FDMS86550|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS86550|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETFDMS8655|
-|Name|name|FDMS86550|
+|name|name|FDMS86550|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CSD17578Q5A', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FDMS86550', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TDSON-8-1', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FDMS86550-D.pdf', 'kicadSymbolki_keywords': 'powertrench MOSFET fairchild', 'kicadSymbolki_description': '32A Id, 60V Vds, N-Channel PowerTrench MOSFET, 1.65mOhm Ron, 154nC Qgmax, -55 to 150 °C, 5x6mm SON8', 'kicadSymbolki_fp_filters': 'TDSON*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Potentiometer_TT_P0915N|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_TT_P0915N|
 |Hex ID (short code)|hexID|FZKPPOTENTIOMETERTTP915N|
-|Name|name|Potentiometer_THT : Potentiometer_TT_P0915N|
+|name|name|Potentiometer_THT : Potentiometer_TT_P0915N|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_TT_P0915N', 'description': 'http://www.ttelectronics.com/sites/default/files/download-files/Datasheet_PanelPot_P09xSeries.pdf', 'tags': 'potentiometer vertical TT P0915N single', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_TT_P0915N.wrl', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_TT_P0915N/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_TT_P0915N/kicadPcb3d_450.png

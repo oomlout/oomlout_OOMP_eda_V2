@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TEZ0.5-D-2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-TEZ0.5-D-2|
 |Hex ID (short code)|hexID|SZKTRTEZ5D2|
-|Name|name|TEZ0.5-D-2|
+|name|name|TEZ0.5-D-2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TR', 'kicadSymbolValue': 'TEZ0.5-D-2', 'kicadSymbolFootprint': 'Transformer_THT:Transformer_Breve_TEZ-22x24', 'kicadSymbolDatasheet': 'http://www.breve.pl/pdf/ANG/TEZ_ang.pdf', 'kicadSymbolki_keywords': '0.5VA PCB Transformer Dual Secondary', 'kicadSymbolki_description': 'TEZ0.5/D/x-x, 0.5VA, Dual Secondary, Cast Resin Transformer, PCB', 'kicadSymbolki_fp_filters': 'Transformer*Breve*TEZ*22x24*'}]|
 ||||

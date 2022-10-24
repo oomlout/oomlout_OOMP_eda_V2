@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|D_SMA|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMA|
 |Hex ID (short code)|hexID|FZKDIODESMDS|
-|Name|name|Diode_SMD : D_SMA|
+|name|name|Diode_SMD : D_SMA|
 |Footprint Kicad|footprintKicadDetails|{'name': 'D_SMA', 'description': 'Diode SMA (DO-214AC)', 'tags': 'Diode SMA (DO-214AC)', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMA.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SMA/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_SMA/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Fuseholder_Littelfuse_Nano2_157x|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Littelfuse_Nano2_157x|
 |Hex ID (short code)|hexID|FZKFUFUHOLDERLITTELFUNANO2157X|
-|Name|name|Fuse : Fuseholder_Littelfuse_Nano2_157x|
+|name|name|Fuse : Fuseholder_Littelfuse_Nano2_157x|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Fuseholder_Littelfuse_Nano2_157x', 'description': 'Littelfuse NANO2 holder, https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_157_datasheet.pdf.pdf', 'tags': 'SMD Nano2 holder', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Littelfuse_Nano2_157x.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Littelfuse_Nano2_157x/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Littelfuse_Nano2_157x/kicadPcb3d_450.png

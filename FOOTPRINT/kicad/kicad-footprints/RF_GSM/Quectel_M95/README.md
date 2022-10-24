@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Quectel_M95|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_GSM-Quectel_M95|
 |Hex ID (short code)|hexID|FZKGSMQUECTELM95|
-|Name|name|RF_GSM : Quectel_M95|
+|name|name|RF_GSM : Quectel_M95|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Quectel_M95', 'description': 'Quad-Band GSM/GPRS module, 19.9x23.6x2.65mm, https://www.quectel.com/UploadImage/Downlad/M95_Hardware_Design_V1.3.pdf', 'tags': 'GSM Module M95', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_GSM.3dshapes/Quectel_M95.wrl', 'pins': {'type': 'smd', 'shape': 'oval'}}|
 ||||

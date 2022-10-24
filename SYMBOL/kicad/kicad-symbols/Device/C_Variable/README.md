@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C_Variable|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-C_Variable|
 |Hex ID (short code)|hexID|SZKDEVICECVARIABLE|
-|Name|name|C_Variable|
+|name|name|C_Variable|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'C_Variable', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'trimmer capacitor', 'kicadSymbolki_description': 'Variable capacitor'}]|
 ||||

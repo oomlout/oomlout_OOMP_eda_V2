@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LMV7219M5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Comparator-LMV7219M5|
 |Hex ID (short code)|hexID|SZKCOMPARATORLMV7219M5|
-|Name|name|LMV7219M5|
+|name|name|LMV7219M5|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP6561-OT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LMV7219M5', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/lmv7219.pdf', 'kicadSymbolki_keywords': 'cmp', 'kicadSymbolki_description': 'Single Low-Power High-Speed Push-Pull Output Comparator, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

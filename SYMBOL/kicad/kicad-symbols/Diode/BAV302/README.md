@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAV302|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAV302|
 |Hex ID (short code)|hexID|SZKDIODEBAV32|
-|Name|name|BAV302|
+|name|name|BAV302|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCL4148', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAV302', 'kicadSymbolFootprint': 'Diode_SMD:D_MicroMELF', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/85545/bav300.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '150V 0.25A Switching Diode, High Voltage, MicroMELF', 'kicadSymbolki_fp_filters': 'D*MicroMELF*'}]|
 ||||

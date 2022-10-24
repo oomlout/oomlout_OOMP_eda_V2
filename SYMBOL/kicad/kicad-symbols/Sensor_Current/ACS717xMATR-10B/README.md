@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ACS717xMATR-10B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS717xMATR-10B|
 |Hex ID (short code)|hexID|SZKSENCURRENTACS717XMATR1B|
-|Name|name|ACS717xMATR-10B|
+|name|name|ACS717xMATR-10B|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ACS717xMATR-10B', 'kicadSymbolFootprint': 'Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.allegromicro.com/~/media/Files/Datasheets/ACS717-Datasheet.ashx?la=en', 'kicadSymbolki_keywords': 'hall effect current monitor sensor isolated', 'kicadSymbolki_description': '±10A Bidirectional, Hall-Effect Current Sensor, +3.3V supply, 133mV/A, SOIC-16W', 'kicadSymbolki_fp_filters': 'SOIC*7.5x10.3mm*P1.27mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CUI_PD-30S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-CUI_PD-30S|
 |Hex ID (short code)|hexID|SZKCNCUIPD3S|
-|Name|name|CUI_PD-30S|
+|name|name|CUI_PD-30S|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'CUI_PD-30S', 'kicadSymbolFootprint': 'Connector:CUI_PD-30S', 'kicadSymbolDatasheet': 'http://www.cui.com/product/resource/pd-30.pdf', 'kicadSymbolki_keywords': 'connector 3-pin PD-30S power DIN', 'kicadSymbolki_description': '3 pin connector, PD-30S', 'kicadSymbolki_fp_filters': 'CUI*PD*30S*'}]|
 ||||

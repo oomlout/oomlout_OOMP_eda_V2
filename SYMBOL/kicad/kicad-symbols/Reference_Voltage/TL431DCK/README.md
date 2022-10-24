@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TL431DCK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-TL431DCK|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGETL431DCK|
-|Name|name|TL431DCK|
+|name|name|TL431DCK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TL431DCK', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tl431.pdf', 'kicadSymbolki_keywords': 'diode device shunt regulator', 'kicadSymbolki_description': 'Shunt Regulator, SC-70', 'kicadSymbolki_fp_filters': '*SC?70*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BZX384xxxx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BZX384xxxx|
 |Hex ID (short code)|hexID|SZKDIODEBZX384XXXX|
-|Name|name|BZX384xxxx|
+|name|name|BZX384xxxx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZPYxx', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BZX384xxxx', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-323', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/85764/bzx384.pdf', 'kicadSymbolki_keywords': 'zener diode', 'kicadSymbolki_description': '300mW Zener Diode, SOD-323', 'kicadSymbolki_fp_filters': 'D*SOD*323*'}]|
 ||||

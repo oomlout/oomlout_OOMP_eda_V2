@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LFXP2-5E-7TN144|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Lattice-LFXP2-5E-7TN144|
 |Hex ID (short code)|hexID|SZKFPGALATTICELFXP25E7TN144|
-|Name|name|LFXP2-5E-7TN144|
+|name|name|LFXP2-5E-7TN144|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LFXP2-5E-5TN144', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LFXP2-5E-7TN144', 'kicadSymbolFootprint': 'Package_QFP:TQFP-144_20x20mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.latticesemi.com/view_document?document_id=24635', 'kicadSymbolki_keywords': 'FPGA Lattice XP2', 'kicadSymbolki_description': 'FPGA, 5000 LUTs, 1.2V, TQFP-144', 'kicadSymbolki_fp_filters': 'TQFP*20x20mm*'}]|
 ||||

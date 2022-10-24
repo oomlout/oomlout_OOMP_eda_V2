@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Laird_Technologies_BMI-S-209-F_29.36x18.50mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-209-F_29.36x18.50mm|
 |Hex ID (short code)|hexID|FZKRFSLAIRDTECHNOLOGIESBMIS29F2936X185|
-|Name|name|RF_Shielding : Laird_Technologies_BMI-S-209-F_29.36x18.50mm|
+|name|name|RF_Shielding : Laird_Technologies_BMI-S-209-F_29.36x18.50mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Laird_Technologies_BMI-S-209-F_29.36x18.50mm', 'description': 'Laird Technologies BMI-S-209-F Shielding Cabinet Two Piece SMD 29.36x18.50mm (https://assets.lairdtech.com/home/brandworld/files/Board%20Level%20Shields%20Catalog%20Download.pdf)', 'tags': 'Shielding Cabinet', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Shielding.3dshapes/Laird_Technologies_BMI-S-209-F_29.36x18.50mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

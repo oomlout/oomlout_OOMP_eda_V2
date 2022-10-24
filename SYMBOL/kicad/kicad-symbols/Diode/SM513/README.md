@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SM513|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-SM513|
 |Hex ID (short code)|hexID|SZKDIODESM513|
-|Name|name|SM513|
+|name|name|SM513|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SM4001', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SM513', 'kicadSymbolFootprint': 'Diode_SMD:D_MELF', 'kicadSymbolDatasheet': 'http://cdn-reichelt.de/documents/datenblatt/A400/SMD1N400%23DIO.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '130V 1A General Purpose Rectifier Diode, MELF', 'kicadSymbolki_fp_filters': 'D*MELF*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM79L05_TO92|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM79L05_TO92|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM79L5TO92|
-|Name|name|LM79L05_TO92|
+|name|name|LM79L05_TO92|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM79L05_TO92', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm79l.pdf', 'kicadSymbolki_keywords': 'negative regulatpr', 'kicadSymbolki_description': '3-Terminal Negative Regulator, -5V, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

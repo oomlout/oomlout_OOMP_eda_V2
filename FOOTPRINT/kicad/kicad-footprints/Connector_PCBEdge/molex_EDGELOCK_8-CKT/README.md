@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|molex_EDGELOCK_8-CKT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-molex_EDGELOCK_8-CKT|
 |Hex ID (short code)|hexID|FZKCNPCBEDGEMXEDGEL8CKT|
-|Name|name|Connector_PCBEdge : molex_EDGELOCK_8-CKT|
+|name|name|Connector_PCBEdge : molex_EDGELOCK_8-CKT|
 |Footprint Kicad|footprintKicadDetails|{'name': 'molex_EDGELOCK_8-CKT', 'description': 'https://www.molex.com/pdm_docs/sd/2008900106_sd.pdf', 'tags': 'Connector PCBEdge molex EDGELOCK', 'attributeType': None, 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PCBEdge.3dshapes/molex_EDGELOCK_8-CKT.wrl', 'pins': {'type': 'connect', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/molex_EDGELOCK_8-CKT/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/molex_EDGELOCK_8-CKT/kicadPcb3d_450.png

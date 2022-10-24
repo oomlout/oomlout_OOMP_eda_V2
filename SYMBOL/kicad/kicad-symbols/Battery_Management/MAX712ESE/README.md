@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX712ESE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-MAX712ESE|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTMAX712ESE|
-|Name|name|MAX712ESE|
+|name|name|MAX712ESE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX712CSE', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX712ESE', 'kicadSymbolFootprint': 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX712-MAX713.pdf', 'kicadSymbolki_keywords': 'Fast-charge Nickel Metal Hydride (NiMH) from a DC source, -40 to +85 Degree Celsius, SOIC-16', 'kicadSymbolki_description': 'Fast-charge Nickel Metal Hydride (NiMH) from a DC source, -40 to +85 Degree Celsius, SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*3.9x9.9mm*P1.27mm*'}]|
 ||||

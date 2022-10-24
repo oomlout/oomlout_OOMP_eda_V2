@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CP2102N-Axx-xQFN24|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-CP2102N-Axx-xQFN24|
 |Hex ID (short code)|hexID|SZKINTERFACEUCP212NAXXXQFN24|
-|Name|name|CP2102N-Axx-xQFN24|
+|name|name|CP2102N-Axx-xQFN24|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CP2102N-Axx-xQFN24', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm', 'kicadSymbolDatasheet': 'https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf', 'kicadSymbolki_keywords': 'USB UART bridge', 'kicadSymbolki_description': 'USB to UART master bridge, QFN-24', 'kicadSymbolki_fp_filters': 'QFN*4x4mm*P0.5mm*'}]|
 ||||

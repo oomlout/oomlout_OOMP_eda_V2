@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Relay_DPDT_FRT5|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_FRT5|
 |Hex ID (short code)|hexID|FZKRELRELAYDPDTFRT5|
-|Name|name|Relay_THT : Relay_DPDT_FRT5|
+|name|name|Relay_THT : Relay_DPDT_FRT5|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Relay_DPDT_FRT5', 'description': 'IM Signal Relay DPDT FRT5 narrow footprint', 'tags': 'Relay DPDT IM-relay FRT5', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_FRT5.wrl', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_FRT5/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_FRT5/kicadPcb3d_450.png

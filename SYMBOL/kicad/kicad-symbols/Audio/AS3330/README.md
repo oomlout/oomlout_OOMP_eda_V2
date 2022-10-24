@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AS3330|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-AS3330|
 |Hex ID (short code)|hexID|SZKAUDIOAS333|
-|Name|name|AS3330|
+|name|name|AS3330|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AS3330', 'kicadSymbolFootprint': 'Package_DIP:DIP-18_W7.62mm', 'kicadSymbolDatasheet': 'http://www.alfarzpp.lv/eng/sc/AS3330.pdf', 'kicadSymbolki_keywords': 'VCA CEM3330 ALFA', 'kicadSymbolki_description': 'Dual Voltage Controlled Amplifier (VCA), DIP-18', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC18LF2331-ISO|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF2331-ISO|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC18PIC18LF2331ISO|
-|Name|name|PIC18LF2331-ISO|
+|name|name|PIC18LF2331-ISO|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC18F2331-ISO', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18LF2331-ISO', 'kicadSymbolFootprint': 'Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/39616d.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit Microcontroller XLP', 'kicadSymbolki_description': '8K Flash, 768B SRAM, 256B EEPROM, nanoWatt XLP, ADC, PWM, SOIC28', 'kicadSymbolki_fp_filters': 'SO*W*7.5x17.9mm*P1.27mm*'}]|
 ||||

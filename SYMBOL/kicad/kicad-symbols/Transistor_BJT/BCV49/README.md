@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BCV49|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCV49|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBCV49|
-|Name|name|BCV49|
+|name|name|BCV49|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BCV29', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BCV49', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-89-3', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BCV29_49.pdf', 'kicadSymbolki_keywords': 'transistor NPN Darlington', 'kicadSymbolki_description': 'NPN Darlington transistor, 60Vce, 500mA, SOT-89', 'kicadSymbolki_fp_filters': 'SOT?89*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FDG6335N|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-FDG6335N|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETFDG6335N|
-|Name|name|FDG6335N|
+|name|name|FDG6335N|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'FDG1024NZ', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FDG6335N', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'http://www.gneic.com/product/datasheet/FDG6335N-1122853.pdf', 'kicadSymbolki_keywords': 'Dual N-Channel MOSFET', 'kicadSymbolki_description': '0.7A Id, 20V Vds, Dual N-Channel MOSFET, 300mOhm Ron, SC-70-6', 'kicadSymbolki_fp_filters': 'SOT?363*'}]|
 ||||

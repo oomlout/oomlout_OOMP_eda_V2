@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT|
 |Hex ID (short code)|hexID|FZKCONCONVIGORTRONIXVTX2141XXXTHT|
-|Name|name|Converter_ACDC : Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT|
+|name|name|Converter_ACDC : Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT', 'description': 'Vigortronix VTX-214-010-xxx serie of ACDC converter, http://www.vigortronix.com/10WattACDCPCBPowerModule.aspx', 'tags': 'Vigortronix VTX-214-010-xxx serie of ACDC converter', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_ACDC.3dshapes/Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT/kicadPcb3d_450.png

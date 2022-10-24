@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Everlight_ITR1201SR10AR|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Everlight_ITR1201SR10AR|
 |Hex ID (short code)|hexID|FZKOPEVERLIGHTITR121SR1AR|
-|Name|name|OptoDevice : Everlight_ITR1201SR10AR|
+|name|name|OptoDevice : Everlight_ITR1201SR10AR|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Everlight_ITR1201SR10AR', 'description': 'package for Everlight ITR1201SR10AR, light-direction upwards, see https://www.everlight.com/file/ProductFile/ITR1201SR10AR-TR.pdf', 'tags': 'reflective opto couple photo coupler', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Everlight_ITR1201SR10AR.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Everlight_ITR1201SR10AR/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/Everlight_ITR1201SR10AR/kicadPcb3d_450.png

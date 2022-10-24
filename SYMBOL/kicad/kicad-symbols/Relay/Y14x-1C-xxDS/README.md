@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Y14x-1C-xxDS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-Y14x-1C-xxDS|
 |Hex ID (short code)|hexID|SZKRELAYY14X1CXXDS|
-|Name|name|Y14x-1C-xxDS|
+|name|name|Y14x-1C-xxDS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'Y14x-1C-xxDS', 'kicadSymbolFootprint': 'Relay_THT:Relay_SPDT_HsinDa_Y14', 'kicadSymbolDatasheet': 'http://www.hsinda.com.cn/en/imgdown.asp?FileName=UploadFiles/201431310240386.pdf', 'kicadSymbolki_keywords': 'Relay SPDT', 'kicadSymbolki_description': 'Hsin Da Y14-series relay, Single Pole Dual Throw', 'kicadSymbolki_fp_filters': 'Relay*Y14*'}]|
 ||||

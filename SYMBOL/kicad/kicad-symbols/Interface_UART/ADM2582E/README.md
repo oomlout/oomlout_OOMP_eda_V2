@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADM2582E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2582E|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTADM2582E|
-|Name|name|ADM2582E|
+|name|name|ADM2582E|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ADM2587E', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADM2582E', 'kicadSymbolFootprint': 'Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm', 'kicadSymbolDatasheet': 'www.analog.com/media/en/technical-documentation/data-sheets/ADM2582E_2587E.pdf', 'kicadSymbolki_keywords': 'RS485 Transceiver,RS422 Transceiver', 'kicadSymbolki_description': 'Isolated RS485/RS422 Transceiver,Integrated Isolated DC-DC Converter, 16Mbps,SO-20', 'kicadSymbolki_fp_filters': 'SOIC*7.5x12.8mm*P1.27mm*'}]|
 ||||

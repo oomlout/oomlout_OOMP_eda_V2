@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_MEC_5E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_MEC_5E|
 |Hex ID (short code)|hexID|SZKSWITCHSWMEC5E|
-|Name|name|SW_MEC_5E|
+|name|name|SW_MEC_5E|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_MEC_5E', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.apem.com/int/index.php?controller=attachment&id_attachment=1371', 'kicadSymbolki_keywords': 'switch normally-open pushbutton push-button', 'kicadSymbolki_description': 'MEC 5E single pole normally-open tactile switch', 'kicadSymbolki_fp_filters': 'SW*MEC*5G*'}]|
 ||||

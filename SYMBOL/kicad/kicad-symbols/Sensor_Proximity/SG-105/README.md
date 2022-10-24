@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SG-105|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Proximity-SG-105|
 |Hex ID (short code)|hexID|SZKSENPROXIMITYSG15|
-|Name|name|SG-105|
+|name|name|SG-105|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SG-105', 'kicadSymbolFootprint': 'OptoDevice:Kodenshi_SG105', 'kicadSymbolDatasheet': 'http://www.kodenshi.co.jp/products/pdf/sensor/photointerrupter_ref/SG-105.pdf', 'kicadSymbolki_keywords': 'Reflective Optical Sensor Opto', 'kicadSymbolki_description': 'Subminiature Reflective Optical Sensor, SMD-package with PCB-cutout', 'kicadSymbolki_fp_filters': 'Kodenshi*SG105*'}]|
 ||||

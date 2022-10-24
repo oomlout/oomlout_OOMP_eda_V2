@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TestPoint_Keystone_5005-5009_Compact|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Keystone_5005-5009_Compact|
 |Hex ID (short code)|hexID|FZKTPTPKEYSTONE5559COMPACT|
-|Name|name|TestPoint : TestPoint_Keystone_5005-5009_Compact|
+|name|name|TestPoint : TestPoint_Keystone_5005-5009_Compact|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TestPoint_Keystone_5005-5009_Compact', 'description': 'Keystone Miniature THM Test Point 5005-5009, http://www.keyelco.com/product-pdf.cfm?p=1314', 'tags': 'Through Hole Mount Test Points', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Keystone_5005-5009_Compact.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

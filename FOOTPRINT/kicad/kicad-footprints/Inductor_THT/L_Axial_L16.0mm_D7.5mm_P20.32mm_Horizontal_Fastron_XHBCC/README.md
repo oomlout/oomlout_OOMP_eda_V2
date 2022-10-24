@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Axial_L16.0mm_D7.5mm_P20.32mm_Horizontal_Fastron_XHBCC|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L16.0mm_D7.5mm_P20.32mm_Horizontal_Fastron_XHBCC|
 |Hex ID (short code)|hexID|FZKINLAXIALL16D75P232HORIZONTALFASTRONXHBCC|
-|Name|name|Inductor_THT : L_Axial_L16.0mm_D7.5mm_P20.32mm_Horizontal_Fastron_XHBCC|
+|name|name|Inductor_THT : L_Axial_L16.0mm_D7.5mm_P20.32mm_Horizontal_Fastron_XHBCC|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Axial_L16.0mm_D7.5mm_P20.32mm_Horizontal_Fastron_XHBCC', 'description': 'Inductor, Axial series, Axial, Horizontal, pin pitch=20.32mm, , length*diameter=16*7.5mm^2, Fastron, XHBCC, http://www.fastrongroup.com/image-show/26/XHBCC.pdf?type=Complete-DataSheet&productType=series', 'tags': 'Inductor Axial series Axial Horizontal pin pitch 20.32mm  length 16mm diameter 7.5mm Fastron XHBCC', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L16.0mm_D7.5mm_P20.32mm_Horizontal_Fastron_XHBCC.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D7.5mm_P20.32mm_Horizontal_Fastron_XHBCC/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D7.5mm_P20.32mm_Horizontal_Fastron_XHBCC/kicadPcb3d_450.png

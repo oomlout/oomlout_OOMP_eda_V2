@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|REF02HP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF02HP|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGEREF2HP|
-|Name|name|REF02HP|
+|name|name|REF02HP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'REF02AP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'REF02HP', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/REF01_02_03.pdf', 'kicadSymbolki_keywords': 'Precision Voltage Reference 5V', 'kicadSymbolki_description': '5V ±25mV Precision Voltage Reference, PDIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

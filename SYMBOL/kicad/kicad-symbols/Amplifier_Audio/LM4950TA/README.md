@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM4950TA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4950TA|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOLM495TA|
-|Name|name|LM4950TA|
+|name|name|LM4950TA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM4950TA', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm4950.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'audio amplifier', 'kicadSymbolki_description': 'Boomer Audio Power Amplifier Series 7.5W Mono-BTL or 3.1W Stereo Audio Power Amplifier, TO-220-9', 'kicadSymbolki_fp_filters': 'TO?220*StaggerOdd*'}]|
 ||||

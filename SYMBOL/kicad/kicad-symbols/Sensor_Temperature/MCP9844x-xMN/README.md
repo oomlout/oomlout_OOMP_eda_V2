@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP9844x-xMN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9844x-xMN|
 |Hex ID (short code)|hexID|SZKSENTEMPERATUREMCP9844XXMN|
-|Name|name|MCP9844x-xMN|
+|name|name|MCP9844x-xMN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP9844x-xMN', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.36x1.46mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20005192B.pdf', 'kicadSymbolki_keywords': 'I2C TWI', 'kicadSymbolki_description': '±1°C Accurate, 1.8V Digital Temperature Sensor, I²C, DFN-8', 'kicadSymbolki_fp_filters': 'DFN*3x2mm*P0.5mm*'}]|
 ||||

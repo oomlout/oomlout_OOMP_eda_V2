@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Crystal_SMD_SeikoEpson_MC405-2Pin_9.6x4.1mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_SeikoEpson_MC405-2Pin_9.6x4.1mm|
 |Hex ID (short code)|hexID|FZKXXSMSEIKOEPSONMC452PIN96X41|
-|Name|name|Crystal : Crystal_SMD_SeikoEpson_MC405-2Pin_9.6x4.1mm|
+|name|name|Crystal : Crystal_SMD_SeikoEpson_MC405-2Pin_9.6x4.1mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_SeikoEpson_MC405-2Pin_9.6x4.1mm', 'description': 'SMD Crystal Seiko Epson MC-405 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-306_en.pdf, 9.6x4.1mm^2 package', 'tags': 'SMD SMT crystal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_SeikoEpson_MC405-2Pin_9.6x4.1mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MC405-2Pin_9.6x4.1mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MC405-2Pin_9.6x4.1mm/kicadPcb3d_450.png

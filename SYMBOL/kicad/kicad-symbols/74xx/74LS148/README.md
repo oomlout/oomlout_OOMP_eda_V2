@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS148|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS148|
 |Hex ID (short code)|hexID|SZK74XX74LS148|
-|Name|name|74LS148|
+|name|name|74LS148|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS148', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS148', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL ENCOD', 'kicadSymbolki_description': 'Priority Encoder 3 to 8 cascadable', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

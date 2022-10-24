@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O363-01-R6O363|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O363-01-R6O363|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO3631R6O363|
-|Name|name|RESE-0603-X-O363-01-R6O363|
+|name|name|RESE-0603-X-O363-01-R6O363|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O363-01-R6O363', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O363-01-R6O363', 'kicadSymbolDatasheet': 'oom.lt/R6O363', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6O363;PARTL C-JLCC;C23147;MANUF C-XXXX;0603WAF3602T5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

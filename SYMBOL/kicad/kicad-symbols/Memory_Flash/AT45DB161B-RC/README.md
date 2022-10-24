@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AT45DB161B-RC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_Flash-AT45DB161B-RC|
 |Hex ID (short code)|hexID|SZKMEMORYFLASHAT45DB161BRC|
-|Name|name|AT45DB161B-RC|
+|name|name|AT45DB161B-RC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AT45DB161-RC', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AT45DB161B-RC', 'kicadSymbolFootprint': 'Package_SO:SOIC-28W_8.7x18.25mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/doc2224.pdf', 'kicadSymbolki_keywords': 'Atmel DataFlash', 'kicadSymbolki_description': '16Mb Serial DataFlash, 2.7V Vcc, SOIC-28', 'kicadSymbolki_fp_filters': 'SOIC?28*8.7x18.25mm*P1.27mm*'}]|
 ||||

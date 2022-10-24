@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4528|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx-4528|
 |Hex ID (short code)|hexID|SZK4XXX4528|
-|Name|name|4528|
+|name|name|4528|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '4538', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4528', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://datasheet.octopart.com/CD4528BCN-Fairchild-datasheet-143503.pdf', 'kicadSymbolki_keywords': 'CMOS', 'kicadSymbolki_description': 'Monostable', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

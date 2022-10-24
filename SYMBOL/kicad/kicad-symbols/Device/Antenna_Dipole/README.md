@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Antenna_Dipole|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Antenna_Dipole|
 |Hex ID (short code)|hexID|SZKDEVICEANTENNADIPOLE|
-|Name|name|Antenna_Dipole|
+|name|name|Antenna_Dipole|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'AE', 'kicadSymbolValue': 'Antenna_Dipole', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'dipole antenna', 'kicadSymbolki_description': 'Dipole antenna'}]|
 ||||

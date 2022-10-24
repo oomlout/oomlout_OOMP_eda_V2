@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM385BZ-1.2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM385BZ-1.2|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGELM385BZ12|
-|Name|name|LM385BZ-1.2|
+|name|name|LM385BZ-1.2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM285Z-2.5', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM385BZ-1.2', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/LM285-D.PDF', 'kicadSymbolki_keywords': 'diode device voltage reference', 'kicadSymbolki_description': '1.235V Micropower Voltage Reference Diodes, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*Inline*'}]|
 ||||

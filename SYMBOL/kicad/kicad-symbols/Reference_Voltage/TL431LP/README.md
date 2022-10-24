@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TL431LP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-TL431LP|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGETL431LP|
-|Name|name|TL431LP|
+|name|name|TL431LP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TL431LP', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tl431.pdf', 'kicadSymbolki_keywords': 'diode device regulator shunt', 'kicadSymbolki_description': 'Shunt Regulator, TO-92', 'kicadSymbolki_fp_filters': 'TO*92*'}]|
 ||||

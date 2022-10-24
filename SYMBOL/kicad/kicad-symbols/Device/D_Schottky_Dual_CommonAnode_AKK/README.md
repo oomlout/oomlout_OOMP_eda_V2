@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Schottky_Dual_CommonAnode_AKK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_CommonAnode_AKK|
 |Hex ID (short code)|hexID|SZKDEVICEDSCHOTTKYDUALCOONANODEAKK|
-|Name|name|D_Schottky_Dual_CommonAnode_AKK|
+|name|name|D_Schottky_Dual_CommonAnode_AKK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Schottky_Dual_CommonAnode_AKK', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Dual Schottky diode, common anode on pin 1'}]|
 ||||

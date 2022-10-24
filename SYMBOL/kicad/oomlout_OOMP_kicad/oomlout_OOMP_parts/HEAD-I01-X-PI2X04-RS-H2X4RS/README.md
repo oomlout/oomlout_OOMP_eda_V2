@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-I01-X-PI2X04-RS-H2X4RS|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X04-RS-H2X4RS|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI2X4RSH2X4RS|
-|Name|name|HEAD-I01-X-PI2X04-RS-H2X4RS|
+|name|name|HEAD-I01-X-PI2X04-RS-H2X4RS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HEAD-I01-X-PI2X04-RS-H2X4RS', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:HEAD-I01-X-PI2X04-RS-H2X4RS', 'kicadSymbolDatasheet': 'oom.lt/H2X4RS', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'hexID: H2X4RS;Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_2x??_*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TEN20-2422WIN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-TEN20-2422WIN|
 |Hex ID (short code)|hexID|SZKCONTEN22422WIN|
-|Name|name|TEN20-2422WIN|
+|name|name|TEN20-2422WIN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TEN20-2421WIN', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TEN20-2422WIN', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_TRACO_TEN20-xxxx_THT', 'kicadSymbolDatasheet': 'http://www.tracopower.com/products/ten20win.pdf', 'kicadSymbolki_keywords': 'Traco isolated DC/DC Converter module', 'kicadSymbolki_description': '835mA Isolated DC/DC Dual Supply Converter Module, fixed +-12V Output Voltage, 9-36V Input Voltage', 'kicadSymbolki_fp_filters': '*TRACO*TEN20*xxxx*'}]|
 ||||

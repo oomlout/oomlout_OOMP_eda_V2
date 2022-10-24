@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT8610|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT8610|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLT861|
-|Name|name|LT8610|
+|name|name|LT8610|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT8610', 'kicadSymbolFootprint': 'Package_SO:LTC_MSOP-16-1EP_3x4mm_P0.5mm_EP2.15x3.26mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/8610fa.pdf', 'kicadSymbolki_keywords': 'high efficiency speed synchronous monolithic buck step-down switching regulator 42V 2.5A', 'kicadSymbolki_description': '42V, 2.5A Synchronous Step-Down Regulator with 2.5uA Quiescent Current, MSOP-16', 'kicadSymbolki_fp_filters': 'LTC*MSOP*16*1EP*3x4mm*P0.5mm*EP2.15x3.26mm*'}]|
 ||||

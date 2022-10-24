@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PhoenixContact_MSTBA_2,5_16-G-5,08_1x16_P5.08mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MSTB-PhoenixContact_MSTBA_2,5_16-G-5,08_1x16_P5.08mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNPHOENIXMSTBPHOENIXCONTACTMSTBA2516G581X16P58HORIZONTAL|
-|Name|name|Connector_Phoenix_MSTB : PhoenixContact_MSTBA_2,5_16-G-5,08_1x16_P5.08mm_Horizontal|
+|name|name|Connector_Phoenix_MSTB : PhoenixContact_MSTBA_2,5_16-G-5,08_1x16_P5.08mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PhoenixContact_MSTBA_2,5_16-G-5,08_1x16_P5.08mm_Horizontal', 'description': 'Generic Phoenix Contact connector footprint for: MSTBA_2,5/16-G-5,08; number of pins: 16; pin pitch: 5.08mm; Angled \|\| order number: 1757381 12A', 'tags': 'phoenix_contact connector MSTBA_01x16_G_5.08mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MSTB.3dshapes/PhoenixContact_MSTBA_2,5_16-G-5,08_1x16_P5.08mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBA_2,5_16-G-5,08_1x16_P5.08mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBA_2,5_16-G-5,08_1x16_P5.08mm_Horizontal/kicadPcb3d_450.png

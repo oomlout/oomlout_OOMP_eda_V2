@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Murata_LQH55DN_5.7x5.0mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Murata_LQH55DN_5.7x5.0mm|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLMLQH55DN57X5|
-|Name|name|Inductor_SMD : L_Murata_LQH55DN_5.7x5.0mm|
+|name|name|Inductor_SMD : L_Murata_LQH55DN_5.7x5.0mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Murata_LQH55DN_5.7x5.0mm', 'description': 'Inductor, SMD, 5.7x5.0x4.7mm, https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0045.pdf', 'tags': 'inductor smd', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Murata_LQH55DN_5.7x5.0mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Murata_LQH55DN_5.7x5.0mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Murata_LQH55DN_5.7x5.0mm/kicadPcb3d_450.png

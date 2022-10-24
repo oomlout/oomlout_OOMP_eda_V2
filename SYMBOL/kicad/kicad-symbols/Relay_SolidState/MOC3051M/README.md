@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MOC3051M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay_SolidState-MOC3051M|
 |Hex ID (short code)|hexID|SZKRELAYSOLIDSTATEMOC351M|
-|Name|name|MOC3051M|
+|name|name|MOC3051M|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MOC3010M', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MOC3051M', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MOC3052M-D.PDF', 'kicadSymbolki_keywords': 'Opto-Triac Opto Triac Random Phase', 'kicadSymbolki_description': 'Random Phase Opto-Triac, Vdrm 600V, Ift 15mA, DIP6', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SMDIP*W9.53mm* DIP*W10.16mm*'}]|
 ||||

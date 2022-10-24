@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BTS50010-1TAD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-BTS50010-1TAD|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTBTS511TAD|
-|Name|name|BTS50010-1TAD|
+|name|name|BTS50010-1TAD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BTS50010-1TAD', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-7_TabPin4', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-BTS50010-1TAD-DS-v01_00-EN.pdf?fileId=5546d462576f34750157c38810ca55cd', 'kicadSymbolki_keywords': 'BTS50010 PROFET', 'kicadSymbolki_description': 'Smart High-Side Power Switch, PROFET, Single, 1mOhm, 40A, 18V, TO-263-7', 'kicadSymbolki_fp_filters': 'TO*263*TabPin4*'}]|
 ||||

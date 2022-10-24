@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BPW85C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW85C|
 |Hex ID (short code)|hexID|SZKSENOPTICALBPW85C|
-|Name|name|BPW85C|
+|name|name|BPW85C|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SFH309', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BPW85C', 'kicadSymbolFootprint': 'LED_THT:LED_D3.0mm_Clear', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/81531/bpw85a.pdf', 'kicadSymbolki_keywords': 'npn phototransistor', 'kicadSymbolki_description': 'Silicon NPN Phototransistor, Ica = 3-8mA, T-1', 'kicadSymbolki_fp_filters': 'LED*3.0mm*Clear*'}]|
 ||||

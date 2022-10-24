@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MountingHole_8.4mm_M8_Pad_Via|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_8.4mm_M8_Pad_Via|
 |Hex ID (short code)|hexID|FZKHOLHOL84M8PADVIA|
-|Name|name|MountingHole : MountingHole_8.4mm_M8_Pad_Via|
+|name|name|MountingHole : MountingHole_8.4mm_M8_Pad_Via|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_8.4mm_M8_Pad_Via', 'description': 'Mounting Hole 8.4mm, M8', 'tags': 'mounting hole 8.4mm m8', 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_8.4mm_M8_Pad_Via/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_8.4mm_M8_Pad_Via/kicadPcb3d_450.png

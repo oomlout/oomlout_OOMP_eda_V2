@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LMG5200|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-LMG5200|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTLMG52|
-|Name|name|LMG5200|
+|name|name|LMG5200|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'LMG5200', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_MOF0009A', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lmg5200.pdf', 'kicadSymbolki_keywords': 'Dual N-Channel GaN MOSFET', 'kicadSymbolki_description': '80-V, 10-A GaN Half-Bridge Power Stage, MOF0009A', 'kicadSymbolki_fp_filters': 'Texas*MOF0009A*'}]|
 ||||

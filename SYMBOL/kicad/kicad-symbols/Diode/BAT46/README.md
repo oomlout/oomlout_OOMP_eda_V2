@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAT46|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAT46|
 |Hex ID (short code)|hexID|SZKDIODEBAT46|
-|Name|name|BAT46|
+|name|name|BAT46|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N6263', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAT46', 'kicadSymbolFootprint': 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/85662/bat46.pdf', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '100V 0.15A Small Signal Schottky Diode, DO-35', 'kicadSymbolki_fp_filters': 'D*DO?35*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|8254|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-8254|
 |Hex ID (short code)|hexID|SZKTIMER8254|
-|Name|name|8254|
+|name|name|8254|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '82C54', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '8254', 'kicadSymbolFootprint': 'Package_DIP:DIP-24_W15.24mm', 'kicadSymbolDatasheet': 'http://www.scs.stanford.edu/10wi-cs140/pintos/specs/8254.pdf', 'kicadSymbolki_keywords': 'Timer Counter', 'kicadSymbolki_description': 'Programmable Interval Timer, PDIP-24', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

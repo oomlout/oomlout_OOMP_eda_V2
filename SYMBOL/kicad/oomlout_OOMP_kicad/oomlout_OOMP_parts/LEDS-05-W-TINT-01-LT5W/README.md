@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|LEDS-05-W-TINT-01-LT5W|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-W-TINT-01-LT5W|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS5WTINT1LT5W|
-|Name|name|LEDS-05-W-TINT-01-LT5W|
+|name|name|LEDS-05-W-TINT-01-LT5W|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LEDS-05-W-TINT-01-LT5W', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:LEDS-05-W-TINT-01-LT5W', 'kicadSymbolDatasheet': 'oom.lt/LT5W', 'kicadSymbolki_keywords': 'LED diode', 'kicadSymbolki_description': 'hexID: LT5W;Light emitting diode', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

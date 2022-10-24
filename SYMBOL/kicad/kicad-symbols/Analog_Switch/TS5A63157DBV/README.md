@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TS5A63157DBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A63157DBV|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHTS5A63157DBV|
-|Name|name|TS5A63157DBV|
+|name|name|TS5A63157DBV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TS5A3159DBV', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TS5A63157DBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/ts5a63157.pdf', 'kicadSymbolki_keywords': 'Analog Switch', 'kicadSymbolki_description': 'Single SPDT Analog Switch, 5V/3.3V Single-Supply Operation, 12Ohm Ron, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

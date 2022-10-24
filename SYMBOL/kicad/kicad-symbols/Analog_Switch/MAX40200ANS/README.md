@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX40200ANS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX40200ANS|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHMAX42ANS|
-|Name|name|MAX40200ANS|
+|name|name|MAX40200ANS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX40200ANS', 'kicadSymbolFootprint': 'Package_BGA:WLP-4_0.73x0.73mm_Layout2x2_P0.35mm_Ball0.22mm_Pad0.2mm_NSMD', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX40200.pdf', 'kicadSymbolki_keywords': 'current switch', 'kicadSymbolki_description': 'Ideal Diode, Ultra-Low Voltage Drop, 1.5-5.5V, 1A, WLP-4', 'kicadSymbolki_fp_filters': 'WLP*0.73x0.73mm*Layout2x2*P0.35mm*'}]|
 ||||

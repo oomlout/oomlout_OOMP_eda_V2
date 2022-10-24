@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1129-3.3_TO220_TO263|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1129-3.3_TO220_TO263|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLT112933TO22TO263|
-|Name|name|LT1129-3.3_TO220_TO263|
+|name|name|LT1129-3.3_TO220_TO263|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1129-3.3_TO220_TO263', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/112935ff.pdf', 'kicadSymbolki_keywords': 'LDO Linear Regulator positive fixed', 'kicadSymbolki_description': '700mA Micropower Low Dropout Linear Regulator, 3.3V output voltage, TO-220-5/TO-263-5', 'kicadSymbolki_fp_filters': 'TO?220*Vertical*StaggerOdd* TO?263*TabPin3*'}]|
 ||||

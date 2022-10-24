@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SSM2165|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-SSM2165|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOSSM2165|
-|Name|name|SSM2165|
+|name|name|SSM2165|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SSM2165', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/obsolete-data-sheets/SSM2165.PDF', 'kicadSymbolki_keywords': 'audio microphone preamplifier', 'kicadSymbolki_description': 'Microphone Preamplifier with Variable Compression and Noise Gating, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'}]|
 ||||

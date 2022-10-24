@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|D_T-1_P12.70mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_T-1_P12.70mm_Horizontal|
 |Hex ID (short code)|hexID|FZKDDT1P127HORIZONTAL|
-|Name|name|Diode_THT : D_T-1_P12.70mm_Horizontal|
+|name|name|Diode_THT : D_T-1_P12.70mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'D_T-1_P12.70mm_Horizontal', 'description': 'Diode, T-1 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=3.2*2.6mm^2, , http://www.diodes.com/_files/packages/T-1.pdf', 'tags': 'Diode T-1 series Axial Horizontal pin pitch 12.7mm  length 3.2mm diameter 2.6mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_T-1_P12.70mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_T-1_P12.70mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_T-1_P12.70mm_Horizontal/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CSD18502Q5B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD18502Q5B|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETCSD1852Q5B|
-|Name|name|CSD18502Q5B|
+|name|name|CSD18502Q5B|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CSD17578Q5A', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'CSD18502Q5B', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TDSON-8-1', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/csd18502q5b', 'kicadSymbolki_keywords': 'NexFET Power MOSFET N-MOS', 'kicadSymbolki_description': '100A Id, 40V Vds, NexFET N-Channel Power MOSFET, 2.3mOhm Ron, 52nC Qg(typ), SON8 5x6mm', 'kicadSymbolki_fp_filters': 'TDSON*'}]|
 ||||

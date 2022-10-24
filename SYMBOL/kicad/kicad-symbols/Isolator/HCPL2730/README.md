@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HCPL2730|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-HCPL2730|
 |Hex ID (short code)|hexID|SZKISOLATORHCPL273|
-|Name|name|HCPL2730|
+|name|name|HCPL2730|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HCPL2731', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HCPL2730', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/HCPL2731-D.pdf', 'kicadSymbolki_keywords': 'darlington optocoupler', 'kicadSymbolki_description': 'Low Input Current high Gain Split Darlington Optocouplers', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SMDIP*W9.53mm*'}]|
 ||||

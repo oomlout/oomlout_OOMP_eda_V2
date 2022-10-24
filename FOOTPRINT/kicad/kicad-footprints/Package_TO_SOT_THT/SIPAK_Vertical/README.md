@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SIPAK_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-SIPAK_Vertical|
 |Hex ID (short code)|hexID|FZKSOTSIPAKVERTICAL|
-|Name|name|Package_TO_SOT_THT : SIPAK_Vertical|
+|name|name|Package_TO_SOT_THT : SIPAK_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SIPAK_Vertical', 'description': 'SIPAK, Vertical, RM 2.286mm', 'tags': 'SIPAK Vertical RM 2.286mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/SIPAK_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/SIPAK_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/SIPAK_Vertical/kicadPcb3d_450.png

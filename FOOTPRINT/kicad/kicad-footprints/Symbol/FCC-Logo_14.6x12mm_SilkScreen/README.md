@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FCC-Logo_14.6x12mm_SilkScreen|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-FCC-Logo_14.6x12mm_SilkScreen|
 |Hex ID (short code)|hexID|FZKSZFCCL146X12SILKSCREEN|
-|Name|name|Symbol : FCC-Logo_14.6x12mm_SilkScreen|
+|name|name|Symbol : FCC-Logo_14.6x12mm_SilkScreen|
 |Footprint Kicad|footprintKicadDetails|{'name': 'FCC-Logo_14.6x12mm_SilkScreen', 'description': 'FCC marking', 'tags': 'Logo FCC certification', 'attributeType': None, 'pins': {}}|
 ||||

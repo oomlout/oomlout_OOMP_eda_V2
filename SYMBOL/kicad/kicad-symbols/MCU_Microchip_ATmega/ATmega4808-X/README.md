@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega4808-X|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega4808-X|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA488X|
-|Name|name|ATmega4808-X|
+|name|name|ATmega4808-X|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATmega3208-X', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega4808-X', 'kicadSymbolFootprint': 'Package_SO:SSOP-28_5.3x10.2mm_P0.65mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/40002018A.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR', 'kicadSymbolki_description': '20MHz, 48kB Flash, 6kB SRAM, 256B EEPROM, SSOP-28', 'kicadSymbolki_fp_filters': 'SSOP*5.3x10.2mm*P0.65mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4504|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4504|
 |Hex ID (short code)|hexID|SZK4XXXIEEE454|
-|Name|name|4504|
+|name|name|4504|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4504', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/cd4504b.pdf', 'kicadSymbolki_keywords': 'cmos, level converter', 'kicadSymbolki_description': '4504 Hex Voltage-level Shifter'}]|
 ||||

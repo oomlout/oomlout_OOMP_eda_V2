@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Solar_Cell|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Solar_Cell|
 |Hex ID (short code)|hexID|SZKDEVICESOLARCELL|
-|Name|name|Solar_Cell|
+|name|name|Solar_Cell|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SC', 'kicadSymbolValue': 'Solar_Cell', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'solar cell', 'kicadSymbolki_description': 'Single solar cell'}]|
 ||||

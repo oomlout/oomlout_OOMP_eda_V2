@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VIPer25HN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-VIPer25HN|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGVIPER25HN|
-|Name|name|VIPer25HN|
+|name|name|VIPer25HN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'VIPer25LN', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'VIPer25HN', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_PDIP-8B', 'kicadSymbolDatasheet': 'http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00231127.pdf', 'kicadSymbolki_keywords': 'SMPS Controller with MOSFET 12W AC-DC', 'kicadSymbolki_description': '12W SMPS Controller, AC-DC, PDIP-7', 'kicadSymbolki_fp_filters': '*PDIP*8B*'}]|
 ||||

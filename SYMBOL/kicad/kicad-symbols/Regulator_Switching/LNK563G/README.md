@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LNK563G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK563G|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK563G|
-|Name|name|LNK563G|
+|name|name|LNK563G|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LNK562G', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LNK563G', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_SMD-8B', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/linklp_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Energy Efficient Off-Line Switcher IC for Linear Transformer Replacement', 'kicadSymbolki_description': 'LinkSwitch-LP Family, 2.5W Output Power, SMD-8B', 'kicadSymbolki_fp_filters': 'PowerIntegrations?SMD?8B*'}]|
 ||||

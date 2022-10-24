@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PMTx08Dyn_Shld|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-PMTx08Dyn_Shld|
 |Hex ID (short code)|hexID|SZKSENOPTICALPMTX8DYNSHLD|
-|Name|name|PMTx08Dyn_Shld|
+|name|name|PMTx08Dyn_Shld|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'PMT', 'kicadSymbolValue': 'PMTx08Dyn_Shld', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'PMT 8-stage', 'kicadSymbolki_description': '8-stage photomultiplier tube with electrostatic and magnetic shield', 'kicadSymbolki_fp_filters': 'PMT*'}]|
 ||||

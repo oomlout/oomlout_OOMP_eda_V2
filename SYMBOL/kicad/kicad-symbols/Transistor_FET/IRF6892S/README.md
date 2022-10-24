@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF6892S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6892S|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF6892S|
-|Name|name|IRF6892S|
+|name|name|IRF6892S|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF6892S', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_S3C', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irf6892spbf.pdf?fileId=5546d462533600a4015355f0bb961ab8', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '28A Id, 25V Vds, 1.7mOhm Rds, N-Channel MOSFET, DirectFET S3C', 'kicadSymbolki_fp_filters': 'DirectFET*S3C*'}]|
 ||||

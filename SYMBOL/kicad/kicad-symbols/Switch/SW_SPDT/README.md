@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_SPDT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_SPDT|
 |Hex ID (short code)|hexID|SZKSWITCHSWSPDT|
-|Name|name|SW_SPDT|
+|name|name|SW_SPDT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_SPDT', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'switch single-pole double-throw spdt ON-ON', 'kicadSymbolki_description': 'Switch, single pole double throw'}]|
 ||||

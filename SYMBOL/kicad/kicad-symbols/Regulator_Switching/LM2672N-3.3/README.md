@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM2672N-3.3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2672N-3.3|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM2672N33|
-|Name|name|LM2672N-3.3|
+|name|name|LM2672N-3.3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM2672N-12', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2672N-3.3', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm2672.pdf', 'kicadSymbolki_keywords': 'Step-Down Voltage Regulator 3.3V 1A', 'kicadSymbolki_description': '3.3V, 1A Step-Down Voltage Regulator, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega4809-A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega4809-A|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA489A|
-|Name|name|ATmega4809-A|
+|name|name|ATmega4809-A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATmega3209-A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega4809-A', 'kicadSymbolFootprint': 'Package_QFP:TQFP-48_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/40002016A.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR', 'kicadSymbolki_description': '20MHz, 48kB Flash, 6kB SRAM, 256B EEPROM, TQFP-48', 'kicadSymbolki_fp_filters': 'TQFP*7x7mm*P0.5mm*'}]|
 ||||

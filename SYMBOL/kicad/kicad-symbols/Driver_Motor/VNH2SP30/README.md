@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VNH2SP30|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-VNH2SP30|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORVNH2SP3|
-|Name|name|VNH2SP30|
+|name|name|VNH2SP30|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'VNH2SP30', 'kicadSymbolFootprint': 'Package_SO:ST_MultiPowerSO-30', 'kicadSymbolDatasheet': 'http://www.st.com/content/ccc/resource/technical/document/datasheet/group2/66/b8/f5/2c/9a/66/41/c7/CD00043711/files/CD00043711.pdf/jcr:content/translations/en.CD00043711.pdf', 'kicadSymbolki_keywords': 'full-bridge h-bridge', 'kicadSymbolki_description': 'Full Bridge Motor Driver, 41V, 30A, -40 to 150C', 'kicadSymbolki_fp_filters': 'ST*MultiPowerSO*'}]|
 ||||

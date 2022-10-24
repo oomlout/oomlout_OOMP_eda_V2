@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LFPAK56|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-LFPAK56|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMLFPAK56|
-|Name|name|Package_TO_SOT_SMD : LFPAK56|
+|name|name|Package_TO_SOT_SMD : LFPAK56|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LFPAK56', 'description': 'LFPAK56 https://assets.nexperia.com/documents/outline-drawing/SOT669.pdf', 'tags': 'LFPAK56 SOT-669 Power-SO8', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/LFPAK56.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/LFPAK56/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/LFPAK56/kicadPcb3d_450.png

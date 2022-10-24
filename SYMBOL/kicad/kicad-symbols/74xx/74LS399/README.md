@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS399|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS399|
 |Hex ID (short code)|hexID|SZK74XX74LS399|
-|Name|name|74LS399|
+|name|name|74LS399|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS399', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS399', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL MUX MUX2', 'kicadSymbolki_description': 'Quad 2 to 1 line multiplexer with storage', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

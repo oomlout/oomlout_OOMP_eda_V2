@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|RTC_SMD_MicroCrystal_C3_2.5x3.7mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-RTC_SMD_MicroCrystal_C3_2.5x3.7mm|
 |Hex ID (short code)|hexID|FZKSONRTCSMMXC325X37|
-|Name|name|Package_SON : RTC_SMD_MicroCrystal_C3_2.5x3.7mm|
+|name|name|Package_SON : RTC_SMD_MicroCrystal_C3_2.5x3.7mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RTC_SMD_MicroCrystal_C3_2.5x3.7mm', 'description': 'MicroCrystal C3 2.5x3.7mm, https://www.microcrystal.com/fileadmin/Media/Products/RTC/Datasheet/RV-1805-C3.pdf', 'tags': 'RTC C3', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/RTC_SMD_MicroCrystal_C3_2.5x3.7mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/RTC_SMD_MicroCrystal_C3_2.5x3.7mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SON/RTC_SMD_MicroCrystal_C3_2.5x3.7mm/kicadPcb3d_450.png

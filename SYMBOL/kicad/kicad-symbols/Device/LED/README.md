@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED|
 |Hex ID (short code)|hexID|SZKDEVICEL|
-|Name|name|LED|
+|name|name|LED|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED diode', 'kicadSymbolki_description': 'Light emitting diode', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

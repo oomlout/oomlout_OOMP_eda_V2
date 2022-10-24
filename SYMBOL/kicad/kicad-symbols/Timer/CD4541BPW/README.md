@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CD4541BPW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-CD4541BPW|
 |Hex ID (short code)|hexID|SZKTIMERCD4541BPW|
-|Name|name|CD4541BPW|
+|name|name|CD4541BPW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CD4541BE', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CD4541BPW', 'kicadSymbolFootprint': 'Package_SO:TSSOP-14_4.4x5mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/cd4541b.pdf', 'kicadSymbolki_keywords': 'cmos', 'kicadSymbolki_description': '20V, Programmable Timer, TSSOP-14', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x5mm*P0.65mm*'}]|
 ||||

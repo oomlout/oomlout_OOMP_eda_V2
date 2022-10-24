@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BC807W|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC807W|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBC87W|
-|Name|name|BC807W|
+|name|name|BC807W|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC807W', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-323_SC-70', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/BC808-D.pdf', 'kicadSymbolki_keywords': 'PNP transistor', 'kicadSymbolki_description': '0.8A Ic, 45V Vce, PNP Transistor, SOT-323', 'kicadSymbolki_fp_filters': 'SOT?323*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLV172IDCK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV172IDCK|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALTLV172IDCK|
-|Name|name|TLV172IDCK|
+|name|name|TLV172IDCK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV172IDCK', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-353_SC-70-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tlv172.pdf', 'kicadSymbolki_keywords': 'op amp operational amplifier', 'kicadSymbolki_description': 'Low-power Operational Amplifier, SOT-353', 'kicadSymbolki_fp_filters': 'SOT*353*SC*70*'}]|
 ||||

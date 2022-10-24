@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CD4541BE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-CD4541BE|
 |Hex ID (short code)|hexID|SZKTIMERCD4541BE|
-|Name|name|CD4541BE|
+|name|name|CD4541BE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CD4541BE', 'kicadSymbolFootprint': 'Package_DIP:DIP-14_W7.62mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/cd4541b.pdf', 'kicadSymbolki_keywords': 'cmos', 'kicadSymbolki_description': '20V, Programmable Timer, PDIP-14', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

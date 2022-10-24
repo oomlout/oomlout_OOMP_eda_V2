@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O470-01-R4O470|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O470-01-R4O470|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO471R4O47|
-|Name|name|oomlout_OOMP_parts : RESE-0402-X-O470-01-R4O470|
+|name|name|oomlout_OOMP_parts : RESE-0402-X-O470-01-R4O470|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RESE-0402-X-O470-01-R4O470', 'description': 'hexID: R4O470;PARTL C-JLCC;C25118;MANUF C-XXXX;0402WGF470JTCE; Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator', 'tags': 'resistor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||

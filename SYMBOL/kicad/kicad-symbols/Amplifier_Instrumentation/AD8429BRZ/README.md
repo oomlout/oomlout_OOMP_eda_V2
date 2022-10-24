@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD8429BRZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8429BRZ|
 |Hex ID (short code)|hexID|SZKAMPLIFIERINSTRUMENTATIONAD8429BRZ|
-|Name|name|AD8429BRZ|
+|name|name|AD8429BRZ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AD8422ARZ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD8429BRZ', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD8429.pdf', 'kicadSymbolki_keywords': 'ad8429 instumentation amplifier soic-8', 'kicadSymbolki_description': 'Low Noise, Instumentation Amplifier, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC-8*'}]|
 ||||

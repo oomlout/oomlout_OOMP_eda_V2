@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Linear_UGK52_QFN-46-52|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Linear_UGK52_QFN-46-52|
 |Hex ID (short code)|hexID|FZKDFNLINEARUGK52QFN4652|
-|Name|name|Package_DFN_QFN : Linear_UGK52_QFN-46-52|
+|name|name|Package_DFN_QFN : Linear_UGK52_QFN-46-52|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Linear_UGK52_QFN-46-52', 'description': 'Linear UKG52(46) package, QFN-52-1EP variant (see http://cds.linear.com/docs/en/datasheet/3886fe.pdf)', 'tags': 'QFN 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Linear_UGK52_QFN-46-52.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Linear_UGK52_QFN-46-52/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Linear_UGK52_QFN-46-52/kicadPcb3d_450.png

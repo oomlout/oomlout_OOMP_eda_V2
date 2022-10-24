@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF6617|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6617|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF6617|
-|Name|name|IRF6617|
+|name|name|IRF6617|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSF450NE7NH3', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF6617', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_ST', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irf6617pbf.pdf?fileId=5546d462533600a4015355e853f21a17', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '55A Id, 30V Vds, 8.1mOhm Rds, N-Channel MOSFET, DirectFET ST', 'kicadSymbolki_fp_filters': 'DirectFET*ST*'}]|
 ||||

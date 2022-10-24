@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Radiation|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Radiation|
 |Hex ID (short code)|hexID|SZKDEVICEDRADIATION|
-|Name|name|D_Radiation|
+|name|name|D_Radiation|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Radiation', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'radiation detector diode', 'kicadSymbolki_description': 'Semiconductor radiation detector'}]|
 ||||

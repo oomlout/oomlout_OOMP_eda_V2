@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VCC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-VCC|
 |Hex ID (short code)|hexID|SZKPOWERVCC|
-|Name|name|VCC|
+|name|name|VCC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'VCC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "VCC"'}]|
 ||||

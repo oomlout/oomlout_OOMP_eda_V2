@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BCV61|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCV61|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBCV61|
-|Name|name|BCV61|
+|name|name|BCV61|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BCV61', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-143', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BCV61.pdf', 'kicadSymbolki_keywords': 'Transistor Double NPN', 'kicadSymbolki_description': '100mA IC, 30V Vce, Double NPN Transistors, Current mirror configuration, SOT-143', 'kicadSymbolki_fp_filters': 'SOT?143*'}]|
 ||||

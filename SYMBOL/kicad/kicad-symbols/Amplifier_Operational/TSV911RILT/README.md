@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TSV911RILT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TSV911RILT|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALTSV911RILT|
-|Name|name|TSV911RILT|
+|name|name|TSV911RILT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP6L91RT-EOT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TSV911RILT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'www.st.com/resource/en/datasheet/tsv911.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Single rail-to-rail input/output 8 MHz operational amplifiers, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

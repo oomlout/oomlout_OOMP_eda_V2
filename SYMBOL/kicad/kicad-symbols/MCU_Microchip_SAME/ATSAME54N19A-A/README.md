@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATSAME54N19A-A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAME-ATSAME54N19A-A|
 |Hex ID (short code)|hexID|SZKMCUMCHIPSAMEATSAME54N19AA|
-|Name|name|ATSAME54N19A-A|
+|name|name|ATSAME54N19A-A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATSAME54N19A-A', 'kicadSymbolFootprint': 'Package_QFP:TQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/60001507E.pdf', 'kicadSymbolki_keywords': '32-bit ARM Cortex-M4F MCU Microcontroller', 'kicadSymbolki_description': 'SAM E54 Microchip SMART ARM Cortex-M4F based MCU, 512K Flash, 192K SRAM, TQFP-100', 'kicadSymbolki_fp_filters': 'TQFP*14x14mm*P0.5mm*'}]|
 ||||

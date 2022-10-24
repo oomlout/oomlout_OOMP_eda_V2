@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB_B_Lumberg_2411_02_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_B_Lumberg_2411_02_Horizontal|
 |Hex ID (short code)|hexID|FZKCNUUBLUMBERG24112HORIZONTAL|
-|Name|name|Connector_USB : USB_B_Lumberg_2411_02_Horizontal|
+|name|name|Connector_USB : USB_B_Lumberg_2411_02_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB_B_Lumberg_2411_02_Horizontal', 'description': 'USB 2.0 receptacle type B, horizontal version, through-hole, https://downloads.lumberg.com/datenblaetter/en/2411_02.pdf', 'tags': 'USB B receptacle horizontal through-hole', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_B_Lumberg_2411_02_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_B_Lumberg_2411_02_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_B_Lumberg_2411_02_Horizontal/kicadPcb3d_450.png

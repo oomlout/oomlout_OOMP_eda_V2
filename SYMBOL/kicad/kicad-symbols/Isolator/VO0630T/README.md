@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VO0630T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-VO0630T|
 |Hex ID (short code)|hexID|SZKISOLATORVO63T|
-|Name|name|VO0630T|
+|name|name|VO0630T|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HCPL-063A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'VO0630T', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.vishay.com/doc?84607', 'kicadSymbolki_keywords': 'High speed optically coupled gates', 'kicadSymbolki_description': 'Dual High Speed CMOS Compatible Optocoupler, dV/dt 1000/us, VCM 50, max 7V VCC, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm?P1.27mm*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOIC-18W_7.5x11.6mm_P1.27mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-18W_7.5x11.6mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKSOSOIC18W75X116P127|
-|Name|name|Package_SO : SOIC-18W_7.5x11.6mm_P1.27mm|
+|name|name|Package_SO : SOIC-18W_7.5x11.6mm_P1.27mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOIC-18W_7.5x11.6mm_P1.27mm', 'description': 'SOIC, 18 Pin (JEDEC MS-013AB, https://www.analog.com/media/en/package-pcb-resources/package/33254132129439rw_18.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'SOIC SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-18W_7.5x11.6mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-18W_7.5x11.6mm_P1.27mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-18W_7.5x11.6mm_P1.27mm/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TCA9544A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9544A|
 |Hex ID (short code)|hexID|SZKINTERFACEEXPANSIONTCA9544A|
-|Name|name|TCA9544A|
+|name|name|TCA9544A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TCA9544A', 'kicadSymbolFootprint': 'Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tca9544a.pdf', 'kicadSymbolki_keywords': 'I2C Hub', 'kicadSymbolki_description': 'I2C Hub, 4 Channels, Interrupts, TSSOP-20', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x6.5mm*P0.65mm*'}]|
 ||||

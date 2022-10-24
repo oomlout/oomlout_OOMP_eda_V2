@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Rotary_Encoder-RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm|
 |Hex ID (short code)|hexID|FZKREROTARYENCODERALPSEC12ESWITCHVERTICALH2|
-|Name|name|Rotary_Encoder : RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm|
+|name|name|Rotary_Encoder : RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm', 'description': 'Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC12E/EC12E1240405.html & http://cdn-reichelt.de/documents/datenblatt/F100/402097STEC12E08.PDF', 'tags': 'rotary encoder', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

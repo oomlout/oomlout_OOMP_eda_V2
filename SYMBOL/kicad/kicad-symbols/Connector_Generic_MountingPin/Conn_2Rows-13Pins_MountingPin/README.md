@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Conn_2Rows-13Pins_MountingPin|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector_Generic_MountingPin-Conn_2Rows-13Pins_MountingPin|
 |Hex ID (short code)|hexID|SZKCNGENERICMOUNTINGPINCONN2ROWS13PINSMOUNTINGPIN|
-|Name|name|Conn_2Rows-13Pins_MountingPin|
+|name|name|Conn_2Rows-13Pins_MountingPin|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Conn_2Rows-13Pins_MountingPin', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'Generic connectable mounting pin connector, double row, 13 pins, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*2Rows*Pins-1MP_* *FCC*2Rows*Pins-1MP_*'}]|
 ||||

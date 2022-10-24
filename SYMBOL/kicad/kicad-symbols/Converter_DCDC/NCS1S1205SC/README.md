@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCS1S1205SC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-NCS1S1205SC|
 |Hex ID (short code)|hexID|SZKCONNCS1S125SC|
-|Name|name|NCS1S1205SC|
+|name|name|NCS1S1205SC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NCS1S1203SC', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCS1S1205SC', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_Murata_NCS1SxxxxSC_THT', 'kicadSymbolDatasheet': 'https://power.murata.com/data/power/ncl/kdc_ncs1.pdf', 'kicadSymbolki_keywords': 'Murata isolated isolation dc-dc converter step-down', 'kicadSymbolki_description': 'Isolated 1W 4:1 input DC/DC converter module, 4.5-18V input voltage, 5.0V output voltage, SIP', 'kicadSymbolki_fp_filters': 'Converter*DCDC*Murata*NCS1SxxxxSC*'}]|
 ||||

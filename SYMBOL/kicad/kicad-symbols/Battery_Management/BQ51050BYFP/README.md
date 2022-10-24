@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BQ51050BYFP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-BQ51050BYFP|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTBQ515BYFP|
-|Name|name|BQ51050BYFP|
+|name|name|BQ51050BYFP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BQ51050BYFP', 'kicadSymbolFootprint': 'Package_BGA:Texas_DSBGA-28_1.9x3.0mm_Layout4x7_P0.4mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/bq51050b.pdf', 'kicadSymbolki_keywords': 'Qi Wireless Power Receiver Battery Charger 4.2V', 'kicadSymbolki_description': 'Qi v1.2, Wireless Power Receiver and Battery Charger, Vout 4.2V, DSBGA-28', 'kicadSymbolki_fp_filters': 'Texas?DSBGA*1.9x3.0mm*P0.4mm*'}]|
 ||||

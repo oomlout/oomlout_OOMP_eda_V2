@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRS25751L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-IRS25751L|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTIRS25751L|
-|Name|name|IRS25751L|
+|name|name|IRS25751L|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IRS25751L', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irs25751lpbf.pdf?fileId=5546d462533600a40153567b31da2837', 'kicadSymbolki_keywords': 'start up', 'kicadSymbolki_description': 'High-Voltage Start-Up IC, 480V, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

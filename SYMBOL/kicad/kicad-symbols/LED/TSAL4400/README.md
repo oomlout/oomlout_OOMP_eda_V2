@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TSAL4400|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-LED-TSAL4400|
 |Hex ID (short code)|hexID|SZKLTSAL44|
-|Name|name|TSAL4400|
+|name|name|TSAL4400|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SFH4356P', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'TSAL4400', 'kicadSymbolFootprint': 'LED_THT:LED_D3.0mm_IRBlack', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/81006/tsal4400.pdf', 'kicadSymbolki_keywords': 'opto IR LED', 'kicadSymbolki_description': 'Infrared LED , 3mm LED package', 'kicadSymbolki_fp_filters': 'LED*3.0mm*IRBlack*'}]|
 ||||

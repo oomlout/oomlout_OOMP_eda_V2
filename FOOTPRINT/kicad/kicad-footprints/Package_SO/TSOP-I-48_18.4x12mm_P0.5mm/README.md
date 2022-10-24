@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TSOP-I-48_18.4x12mm_P0.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-I-48_18.4x12mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKSOTSI48184X12P5|
-|Name|name|Package_SO : TSOP-I-48_18.4x12mm_P0.5mm|
+|name|name|Package_SO : TSOP-I-48_18.4x12mm_P0.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TSOP-I-48_18.4x12mm_P0.5mm', 'description': 'TSOP I, 32 pins, 18.4x8mm body (https://www.micron.com/~/media/documents/products/technical-note/nor-flash/tn1225_land_pad_design.pdf)', 'tags': 'TSOP I 32', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSOP-I-48_18.4x12mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-I-48_18.4x12mm_P0.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/TSOP-I-48_18.4x12mm_P0.5mm/kicadPcb3d_450.png

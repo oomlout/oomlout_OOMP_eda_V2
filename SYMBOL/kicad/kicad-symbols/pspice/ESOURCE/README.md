@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ESOURCE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-pspice-ESOURCE|
 |Hex ID (short code)|hexID|SZKPSPICEESOURCE|
-|Name|name|ESOURCE|
+|name|name|ESOURCE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'E', 'kicadSymbolValue': 'ESOURCE', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.pspice.com/source/controlled-sources', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Voltage-dependent Voltage source symbol for simulation only'}]|
 ||||

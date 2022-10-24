@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|KiCad-Logo_6mm_Copper|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-KiCad-Logo_6mm_Copper|
 |Hex ID (short code)|hexID|FZKSZKICADL6C|
-|Name|name|Symbol : KiCad-Logo_6mm_Copper|
+|name|name|Symbol : KiCad-Logo_6mm_Copper|
 |Footprint Kicad|footprintKicadDetails|{'name': 'KiCad-Logo_6mm_Copper', 'description': 'KiCad Logo', 'tags': 'Logo KiCad', 'attributeType': None, 'pins': {}}|
 ||||

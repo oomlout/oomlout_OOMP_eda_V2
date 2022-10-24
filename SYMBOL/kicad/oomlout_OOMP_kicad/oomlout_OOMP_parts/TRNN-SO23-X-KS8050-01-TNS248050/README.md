@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|TRNN-SO23-X-KS8050-01-TNS248050|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TRNN-SO23-X-KS8050-01-TNS248050|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSTRNNSO23XKS851TNS2485|
-|Name|name|TRNN-SO23-X-KS8050-01-TNS248050|
+|name|name|TRNN-SO23-X-KS8050-01-TNS248050|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'TRNN-SO23-X-KS8050-01-TNS248050', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:TRNN-SO23-X-KS8050-01-TNS248050', 'kicadSymbolDatasheet': 'oom.lt/TNS248050', 'kicadSymbolki_keywords': 'transistor NPN', 'kicadSymbolki_description': 'hexID: TNS248050;NPN transistor, base/emitter/collector'}]|
 ||||

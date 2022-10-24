@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4029|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx-4029|
 |Hex ID (short code)|hexID|SZK4XXX429|
-|Name|name|4029|
+|name|name|4029|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4029', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4029bms.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'CMOS COUNTER', 'kicadSymbolki_description': 'Up/Down Counter', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

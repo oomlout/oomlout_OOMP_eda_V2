@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Si8640BB-B-IS1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-Si8640BB-B-IS1|
 |Hex ID (short code)|hexID|SZKISOLATORSI864BBBIS1|
-|Name|name|Si8640BB-B-IS1|
+|name|name|Si8640BB-B-IS1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Si8640BB-B-IS1', 'kicadSymbolFootprint': 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.silabs.com/documents/public/data-sheets/si864x-datasheet.pdf', 'kicadSymbolki_keywords': '4Ch 4In Quad Digital Isolator 150Mbps', 'kicadSymbolki_description': 'Low-Power Quad-Channel Digital Isolator, 150Mbps, 2.5-5.5V, 2.5kV isolation, Fail-Safe Low, SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*3.9x9.9mm*P1.27mm*'}]|
 ||||

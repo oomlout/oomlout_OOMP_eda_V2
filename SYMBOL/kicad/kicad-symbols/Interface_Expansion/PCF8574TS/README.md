@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PCF8574TS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCF8574TS|
 |Hex ID (short code)|hexID|SZKINTERFACEEXPANSIONPCF8574TS|
-|Name|name|PCF8574TS|
+|name|name|PCF8574TS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PCF8574TS', 'kicadSymbolFootprint': 'Package_SO:SSOP-20_4.4x6.5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/documents/data_sheet/PCF8574_PCF8574A.pdf', 'kicadSymbolki_keywords': 'I2C Expander', 'kicadSymbolki_description': '8 Bit Port/Expander to I2C Bus, SSOP-20', 'kicadSymbolki_fp_filters': 'SSOP*4.4x6.5mm*P0.65mm*'}]|
 ||||

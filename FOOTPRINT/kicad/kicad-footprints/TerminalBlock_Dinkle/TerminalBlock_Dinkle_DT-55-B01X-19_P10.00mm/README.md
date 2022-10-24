@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TerminalBlock_Dinkle_DT-55-B01X-19_P10.00mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Dinkle-TerminalBlock_Dinkle_DT-55-B01X-19_P10.00mm|
 |Hex ID (short code)|hexID|FZKTBDINKLETBDINKLEDT55B1X19P1|
-|Name|name|TerminalBlock_Dinkle : TerminalBlock_Dinkle_DT-55-B01X-19_P10.00mm|
+|name|name|TerminalBlock_Dinkle : TerminalBlock_Dinkle_DT-55-B01X-19_P10.00mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TerminalBlock_Dinkle_DT-55-B01X-19_P10.00mm', 'description': 'Dinkle DT-55-B01X Terminal Block  pitch 10.00mm https://www.dinkle.com/en/terminal/DT-55-B01W-XX', 'tags': 'Dinkle DT-55-B01X Terminal Block  pitch 10.00mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/TerminalBlock_Dinkle.3dshapes/TerminalBlock_Dinkle_DT-55-B01X-19_P10.00mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

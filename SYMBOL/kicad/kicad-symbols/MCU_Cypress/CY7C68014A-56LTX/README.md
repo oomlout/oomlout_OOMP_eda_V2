@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CY7C68014A-56LTX|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY7C68014A-56LTX|
 |Hex ID (short code)|hexID|SZKMCUCYPRESSCY7C6814A56LTX|
-|Name|name|CY7C68014A-56LTX|
+|name|name|CY7C68014A-56LTX|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CY7C68013A-56LTX', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CY7C68014A-56LTX', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-56-1EP_8x8mm_P0.5mm_EP4.5x5.2mm_ThermalVias_TopTented', 'kicadSymbolDatasheet': 'http://www.cypress.com/file/138911/download', 'kicadSymbolki_keywords': 'FX2LP 8-bit USB MCU', 'kicadSymbolki_description': 'CYPRESS FX2LP USB Microcontroller, 48MHz 8051, 16KB RAM, USB 2.0, I2C, QFN-56', 'kicadSymbolki_fp_filters': 'QFN*1EP*8x8mm*P0.5mm*'}]|
 ||||

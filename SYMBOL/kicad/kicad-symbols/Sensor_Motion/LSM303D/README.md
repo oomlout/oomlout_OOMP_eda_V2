@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LSM303D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Motion-LSM303D|
 |Hex ID (short code)|hexID|SZKSENMOTIONLSM33D|
-|Name|name|LSM303D|
+|name|name|LSM303D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LSM303D', 'kicadSymbolFootprint': 'Package_LGA:LGA-16_3x3mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/web/en/resource/technical/document/datasheet/DM00057547.pdf', 'kicadSymbolki_keywords': 'Accelerometer Magnetometer MEMS', 'kicadSymbolki_description': '[not recommended for new designs] I2C/SPI, 3D Accelerometer and 3D Magnetometer', 'kicadSymbolki_fp_filters': 'LGA*'}]|
 ||||

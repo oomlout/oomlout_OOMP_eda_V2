@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_SigTra_SC3316F|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_SigTra_SC3316F|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLSIGTRASC3316F|
-|Name|name|Inductor_SMD : L_SigTra_SC3316F|
+|name|name|Inductor_SMD : L_SigTra_SC3316F|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_SigTra_SC3316F', 'description': 'http://www.signaltransformer.com/sites/all/pdf/smd/P080_SC3316F.pdf', 'tags': 'Choke ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_SigTra_SC3316F.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_SigTra_SC3316F/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_SigTra_SC3316F/kicadPcb3d_450.png

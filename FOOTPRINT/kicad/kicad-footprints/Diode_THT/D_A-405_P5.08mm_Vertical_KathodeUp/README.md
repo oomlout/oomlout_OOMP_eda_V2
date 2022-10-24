@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|D_A-405_P5.08mm_Vertical_KathodeUp|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_A-405_P5.08mm_Vertical_KathodeUp|
 |Hex ID (short code)|hexID|FZKDDA45P58VERTICALKATHODEUP|
-|Name|name|Diode_THT : D_A-405_P5.08mm_Vertical_KathodeUp|
+|name|name|Diode_THT : D_A-405_P5.08mm_Vertical_KathodeUp|
 |Footprint Kicad|footprintKicadDetails|{'name': 'D_A-405_P5.08mm_Vertical_KathodeUp', 'description': 'Diode, A-405 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf', 'tags': 'Diode A-405 series Axial Vertical pin pitch 5.08mm  length 5.2mm diameter 2.7mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_A-405_P5.08mm_Vertical_KathodeUp.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_A-405_P5.08mm_Vertical_KathodeUp/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_A-405_P5.08mm_Vertical_KathodeUp/kicadPcb3d_450.png

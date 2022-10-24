@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SI9986|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-SI9986|
 |Hex ID (short code)|hexID|SZKINTERFACESI9986|
-|Name|name|SI9986|
+|name|name|SI9986|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SI9986', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/70007/si9986.pdf', 'kicadSymbolki_keywords': 'integrated, buffered H-bridge', 'kicadSymbolki_description': 'Integrated, buffered H-bridge with TTL compatible inputs, 1A, 12V, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

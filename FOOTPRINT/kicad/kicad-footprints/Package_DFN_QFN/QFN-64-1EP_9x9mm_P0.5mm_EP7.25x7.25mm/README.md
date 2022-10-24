@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|QFN-64-1EP_9x9mm_P0.5mm_EP7.25x7.25mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-64-1EP_9x9mm_P0.5mm_EP7.25x7.25mm|
 |Hex ID (short code)|hexID|FZKDFNQFN641EP9X9P5EP725X725|
-|Name|name|Package_DFN_QFN : QFN-64-1EP_9x9mm_P0.5mm_EP7.25x7.25mm|
+|name|name|Package_DFN_QFN : QFN-64-1EP_9x9mm_P0.5mm_EP7.25x7.25mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'QFN-64-1EP_9x9mm_P0.5mm_EP7.25x7.25mm', 'description': '64-Lead Plastic Quad Flat No-Lead Package, 9x9mm Body (see Atmel Appnote 8826)', 'tags': 'QFN 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-64-1EP_9x9mm_P0.5mm_EP7.25x7.25mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-64-1EP_9x9mm_P0.5mm_EP7.25x7.25mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-64-1EP_9x9mm_P0.5mm_EP7.25x7.25mm/kicadPcb3d_450.png

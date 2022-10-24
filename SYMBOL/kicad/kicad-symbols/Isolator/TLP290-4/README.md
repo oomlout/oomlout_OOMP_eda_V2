@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLP290-4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-TLP290-4|
 |Hex ID (short code)|hexID|SZKISOLATORTLP294|
-|Name|name|TLP290-4|
+|name|name|TLP290-4|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLP290-4', 'kicadSymbolFootprint': 'Package_SO:SOP-16_4.55x10.3mm_P1.27mm', 'kicadSymbolDatasheet': 'https://toshiba.semicon-storage.com/info/docget.jsp?did=12855&prodName=TLP290-4', 'kicadSymbolki_keywords': 'NPN AC DC Quad Phototransistor Optocoupler', 'kicadSymbolki_description': 'Quad AC/DC Phototransistor Optocoupler, Vce 80V, CTR 50-600%, SOP16', 'kicadSymbolki_fp_filters': 'SOP*4.55x10.3mm*P1.27mm*'}]|
 ||||

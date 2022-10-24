@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F871-IPT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F871-IPT|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F871IPT|
-|Name|name|PIC16F871-IPT|
+|name|name|PIC16F871-IPT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F871-IPT', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/30569b.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit CMOS Microcontroller', 'kicadSymbolki_description': 'PIC16F871, 2K Flash, 128B SRAM, 64B EEPROM, TQFP44', 'kicadSymbolki_fp_filters': 'TQFP*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|nRF24L01_Breakout|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-nRF24L01_Breakout|
 |Hex ID (short code)|hexID|FZKRFMONRF24L1BREAKOUT|
-|Name|name|RF_Module : nRF24L01_Breakout|
+|name|name|RF_Module : nRF24L01_Breakout|
 |Footprint Kicad|footprintKicadDetails|{'name': 'nRF24L01_Breakout', 'description': 'nRF24L01 breakout board', 'tags': 'nRF24L01 adapter breakout', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/nRF24L01_Breakout.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

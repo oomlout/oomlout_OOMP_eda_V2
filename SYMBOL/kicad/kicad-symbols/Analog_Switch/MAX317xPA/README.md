@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX317xPA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX317xPA|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHMAX317XPA|
-|Name|name|MAX317xPA|
+|name|name|MAX317xPA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DG417xJ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX317xPA', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX317-MAX319.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Single SPST Monolithic CMOS Analog Switch, normally ON, 20Ohm Ron, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

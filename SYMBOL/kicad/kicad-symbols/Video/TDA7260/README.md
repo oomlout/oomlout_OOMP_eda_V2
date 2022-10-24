@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TDA7260|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Video-TDA7260|
 |Hex ID (short code)|hexID|SZKVIDEOTDA726|
-|Name|name|TDA7260|
+|name|name|TDA7260|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDA7260', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

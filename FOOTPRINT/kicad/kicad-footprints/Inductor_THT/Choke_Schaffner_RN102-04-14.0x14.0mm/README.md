@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Choke_Schaffner_RN102-04-14.0x14.0mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_Schaffner_RN102-04-14.0x14.0mm|
 |Hex ID (short code)|hexID|FZKINCHOKESCHAFFNERRN12414X14|
-|Name|name|Inductor_THT : Choke_Schaffner_RN102-04-14.0x14.0mm|
+|name|name|Inductor_THT : Choke_Schaffner_RN102-04-14.0x14.0mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Choke_Schaffner_RN102-04-14.0x14.0mm', 'description': 'Current-compensated Chokes, Schaffner, RN102-04, 14.0mmx14.0mm https://www.schaffner.com/products/download/product/datasheet/rn-series-common-mode-chokes-new/', 'tags': 'chokes schaffner tht', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/Choke_Schaffner_RN102-04-14.0x14.0mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN102-04-14.0x14.0mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN102-04-14.0x14.0mm/kicadPcb3d_450.png

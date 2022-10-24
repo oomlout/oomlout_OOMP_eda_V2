@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|R_Network03|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-R_Network03|
 |Hex ID (short code)|hexID|SZKDEVICERNETWORK3|
-|Name|name|R_Network03|
+|name|name|R_Network03|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'RN', 'kicadSymbolValue': 'R_Network03', 'kicadSymbolFootprint': 'Resistor_THT:R_Array_SIP4', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/31509/csc.pdf', 'kicadSymbolki_keywords': 'R network star-topology', 'kicadSymbolki_description': '3 resistor network, star topology, bussed resistors, small symbol', 'kicadSymbolki_fp_filters': 'R?Array?SIP*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS62125DSG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62125DSG|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS62125DSG|
-|Name|name|TPS62125DSG|
+|name|name|TPS62125DSG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS62170DSG', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS62125DSG', 'kicadSymbolFootprint': 'Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps62125.pdf', 'kicadSymbolki_keywords': 'step-down dc-dc buck regulator', 'kicadSymbolki_description': '300mA Step-Down Converter with Enable Threshold and Hysteresis, adjustable output, 3-17V input voltage, WSON-8', 'kicadSymbolki_fp_filters': 'WSON*EP*2x2mm*P0.5mm*'}]|
 ||||

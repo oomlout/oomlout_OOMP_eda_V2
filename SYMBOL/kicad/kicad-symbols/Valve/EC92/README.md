@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EC92|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Valve-EC92|
 |Hex ID (short code)|hexID|SZKVAEC92|
-|Name|name|EC92|
+|name|name|EC92|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EC92', 'kicadSymbolFootprint': 'Valve:Valve_Mini_P', 'kicadSymbolDatasheet': 'http://www.r-type.org/pdfs/ec92.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'triode valve', 'kicadSymbolki_description': 'single triode', 'kicadSymbolki_fp_filters': 'VALVE*MINI*P*'}]|
 ||||

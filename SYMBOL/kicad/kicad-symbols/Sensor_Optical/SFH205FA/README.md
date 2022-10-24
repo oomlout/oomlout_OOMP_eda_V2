@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SFH205FA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH205FA|
 |Hex ID (short code)|hexID|SZKSENOPTICALSFH25FA|
-|Name|name|SFH205FA|
+|name|name|SFH205FA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SFH205F', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SFH205FA', 'kicadSymbolFootprint': 'OptoDevice:Osram_SFH205', 'kicadSymbolDatasheet': 'http://www.osram-os.com/Graphics/XPic9/00101665_0.pdf', 'kicadSymbolki_keywords': 'PIN Photodiode', 'kicadSymbolki_description': 'Silicon PIN Photodiode with Daylight Blocking Filter', 'kicadSymbolki_fp_filters': 'Osram*SFH205*'}]|
 ||||

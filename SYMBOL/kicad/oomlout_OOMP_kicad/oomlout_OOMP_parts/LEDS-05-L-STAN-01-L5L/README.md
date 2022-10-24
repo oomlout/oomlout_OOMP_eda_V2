@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|LEDS-05-L-STAN-01-L5L|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-L-STAN-01-L5L|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS5LSTAN1L5L|
-|Name|name|LEDS-05-L-STAN-01-L5L|
+|name|name|LEDS-05-L-STAN-01-L5L|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LEDS-05-L-STAN-01-L5L', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:LEDS-05-L-STAN-01-L5L', 'kicadSymbolDatasheet': 'oom.lt/L5L', 'kicadSymbolki_keywords': 'LED diode', 'kicadSymbolki_description': 'hexID: L5L;Light emitting diode', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

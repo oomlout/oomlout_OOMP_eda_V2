@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SMZxxx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-SMZxxx|
 |Hex ID (short code)|hexID|SZKDIODESMZXXX|
-|Name|name|SMZxxx|
+|name|name|SMZxxx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZPYxx', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SMZxxx', 'kicadSymbolFootprint': 'Diode_SMD:D_MELF', 'kicadSymbolDatasheet': 'https://diotec.com/tl_files/diotec/files/pdf/datasheets/smz1.pdf', 'kicadSymbolki_keywords': 'zener diode', 'kicadSymbolki_description': '2000mW Zener Diode, MELF', 'kicadSymbolki_fp_filters': 'D*MELF*'}]|
 ||||

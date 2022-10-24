@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPL0401B-10-Q1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-TPL0401B-10-Q1|
 |Hex ID (short code)|hexID|SZKPOTENTIOMETERDIGITALTPL41B1Q1|
-|Name|name|TPL0401B-10-Q1|
+|name|name|TPL0401B-10-Q1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPL0401A-10-Q1', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPL0401B-10-Q1', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:Texas_R-PDSO-G6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tpl0401a-10-q1.pdf', 'kicadSymbolki_keywords': 'Digital Pot Potentiometer I2C', 'kicadSymbolki_description': '128-TAPS Single-Channel Digital Potentiometer, I2C Interface, SC-70-6', 'kicadSymbolki_fp_filters': 'Texas*R*PDSO*G*'}]|
 ||||

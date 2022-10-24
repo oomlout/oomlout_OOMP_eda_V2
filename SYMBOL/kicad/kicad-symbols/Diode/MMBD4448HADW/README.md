@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MMBD4448HADW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-MMBD4448HADW|
 |Hex ID (short code)|hexID|SZKDIODEBD4448HADW|
-|Name|name|MMBD4448HADW|
+|name|name|MMBD4448HADW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'Rohm_UMP11N', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'MMBD4448HADW', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'http://www.diodes.com/datasheets/ds30153.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Fast Switching Diode Array 2 pair Com A', 'kicadSymbolki_fp_filters': 'SOT?363*'}]|
 ||||

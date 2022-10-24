@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AV9173|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Video-AV9173|
 |Hex ID (short code)|hexID|SZKVIDEOAV9173|
-|Name|name|AV9173|
+|name|name|AV9173|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AV9173', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ibselectronics.com/ibsstore/datasheet/Others/AV9173-01CN08.pdf', 'kicadSymbolki_keywords': 'video pll', 'kicadSymbolki_description': 'Video Genlock PLL'}]|
 ||||

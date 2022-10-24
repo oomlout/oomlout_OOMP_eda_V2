@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74AHCT240|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74AHCT240|
 |Hex ID (short code)|hexID|SZK74XX74AHCT24|
-|Name|name|74AHCT240|
+|name|name|74AHCT240|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74HC240', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AHCT240', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/74AHCT240.pdf', 'kicadSymbolki_keywords': 'AHCTMOS BUFFER 3State inv', 'kicadSymbolki_description': '8-bit Buffer/Line Driver 3-state Inverting', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*7.5x12.8mm*P1.27mm* TSSOP*4.4x6.5mm*P0.65mm* SSOP*4.4x6.5mm*P0.65mm*'}]|
 ||||

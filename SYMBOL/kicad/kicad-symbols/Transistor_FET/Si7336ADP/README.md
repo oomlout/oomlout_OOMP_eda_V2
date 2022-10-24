@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Si7336ADP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-Si7336ADP|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETSI7336ADP|
-|Name|name|Si7336ADP|
+|name|name|Si7336ADP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Si7336ADP', 'kicadSymbolFootprint': 'Package_SO:PowerPAK_SO-8_Single', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/73152/si7336adp.pdf', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '30A Id, 30V Vds, 2.4mOhm Ron, PowerPAK-8', 'kicadSymbolki_fp_filters': 'PowerPAK*SO*Single*'}]|
 ||||

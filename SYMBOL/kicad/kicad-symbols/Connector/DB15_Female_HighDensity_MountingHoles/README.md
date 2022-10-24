@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DB15_Female_HighDensity_MountingHoles|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DB15_Female_HighDensity_MountingHoles|
 |Hex ID (short code)|hexID|SZKCNDB15FEMALEHIGHDENSITYHOLS|
-|Name|name|DB15_Female_HighDensity_MountingHoles|
+|name|name|DB15_Female_HighDensity_MountingHoles|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DB15_Female_HighDensity_MountingHoles', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'connector db15 female D-SUB VGA', 'kicadSymbolki_description': '15-pin female D-SUB connector, High density (3 columns), Triple Row, Generic, VGA-connector, Mounting Hole', 'kicadSymbolki_fp_filters': 'DSUB*Female*'}]|
 ||||

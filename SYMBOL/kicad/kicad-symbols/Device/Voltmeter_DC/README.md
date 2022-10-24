@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Voltmeter_DC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Voltmeter_DC|
 |Hex ID (short code)|hexID|SZKDEVICEVOLTMETERDC|
-|Name|name|Voltmeter_DC|
+|name|name|Voltmeter_DC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'MES', 'kicadSymbolValue': 'Voltmeter_DC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'voltmeter DC', 'kicadSymbolki_description': 'DC voltmeter'}]|
 ||||

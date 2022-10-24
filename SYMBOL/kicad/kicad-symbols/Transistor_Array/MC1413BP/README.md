@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC1413BP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_Array-MC1413BP|
 |Hex ID (short code)|hexID|SZKTRANSISTORARRAYMC1413BP|
-|Name|name|MC1413BP|
+|name|name|MC1413BP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC1413D', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC1413BP', 'kicadSymbolFootprint': 'Package_DIP:DIP-16_W7.62mm', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/MC1413-D.PDF', 'kicadSymbolki_keywords': 'darlington transistor array', 'kicadSymbolki_description': 'High Voltage, High Current Darlington Transistor Arrays,  TTL/CMOS-compatible, PDIP-16', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

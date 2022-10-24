@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32L151R8Tx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L151R8Tx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32L1STM32L151R8TX|
-|Name|name|STM32L151R8Tx|
+|name|name|STM32L151R8Tx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STM32L151R6Tx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32L151R8Tx', 'kicadSymbolFootprint': 'Package_QFP:LQFP-64_10x10mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00277537.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M3 STM32L1 STM32L151/152', 'kicadSymbolki_description': 'ARM Cortex-M3 MCU, 64KB flash, 10KB RAM, 32MHz, 1.65-3.6V, 51 GPIO, LQFP-64', 'kicadSymbolki_fp_filters': 'LQFP*10x10mm*P0.5mm*'}]|
 ||||

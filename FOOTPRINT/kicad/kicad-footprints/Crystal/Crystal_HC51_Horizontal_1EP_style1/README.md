@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Crystal_HC51_Horizontal_1EP_style1|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC51_Horizontal_1EP_style1|
 |Hex ID (short code)|hexID|FZKXXHC51HORIZONTAL1EPSTYLE1|
-|Name|name|Crystal : Crystal_HC51_Horizontal_1EP_style1|
+|name|name|Crystal : Crystal_HC51_Horizontal_1EP_style1|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_HC51_Horizontal_1EP_style1', 'description': 'Crystal THT HC-51 http://www.crovencrystals.com/croven_pdf/HC-51_Crystal_Holder_Rev_00.pdf', 'tags': 'THT crystal', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC51_Horizontal_1EP_style1.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_HC51_Horizontal_1EP_style1/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_HC51_Horizontal_1EP_style1/kicadPcb3d_450.png

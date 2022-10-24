@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BQ25895RTW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-BQ25895RTW|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTBQ25895RTW|
-|Name|name|BQ25895RTW|
+|name|name|BQ25895RTW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BQ25895RTW', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PWQFN-N24_EP2.7x2.7mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/bq25895.pdf', 'kicadSymbolki_keywords': 'Battery Charger and Power Path Management', 'kicadSymbolki_description': 'Controlled Single Cell 5A Fast Charger with MaxCharge, WQFN-24', 'kicadSymbolki_fp_filters': 'Texas*S?PWQFN?N*EP*'}]|
 ||||

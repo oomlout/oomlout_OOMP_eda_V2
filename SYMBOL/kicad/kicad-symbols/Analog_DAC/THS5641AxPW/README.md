@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|THS5641AxPW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-THS5641AxPW|
 |Hex ID (short code)|hexID|SZKANALOGDACTHS5641AXPW|
-|Name|name|THS5641AxPW|
+|name|name|THS5641AxPW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'THS5641AxPW', 'kicadSymbolFootprint': 'Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ths5641a.pdf', 'kicadSymbolki_keywords': 'DAC IDAC', 'kicadSymbolki_description': '8-Bit, 100 MSPS, CommsDAC, Parallel Current DAC, TSSOP-28', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x9.7mm*P0.65mm*'}]|
 ||||

@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|LEDS-5050-RGB-K2812-01-L502|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-5050-RGB-K2812-01-L502|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS55RGBK28121L52|
-|Name|name|LEDS-5050-RGB-K2812-01-L502|
+|name|name|LEDS-5050-RGB-K2812-01-L502|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LEDS-5050-RGB-K2812-01-L502', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:LEDS-5050-RGB-K2812-01-L502', 'kicadSymbolDatasheet': 'oom.lt/L502', 'kicadSymbolki_keywords': 'LED diode', 'kicadSymbolki_description': 'hexID: L502;Light emitting diode', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

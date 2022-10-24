@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LEMO6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-LEMO6|
 |Hex ID (short code)|hexID|SZKCNLEMO6|
-|Name|name|LEMO6|
+|name|name|LEMO6|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'LEMO6', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'LEMO connector', 'kicadSymbolki_description': '6-pin LEMO connector'}]|
 ||||

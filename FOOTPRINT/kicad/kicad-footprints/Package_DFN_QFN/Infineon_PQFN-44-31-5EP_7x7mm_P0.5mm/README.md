@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Infineon_PQFN-44-31-5EP_7x7mm_P0.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Infineon_PQFN-44-31-5EP_7x7mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKDFNINFINEONPQFN44315EP7X7P5|
-|Name|name|Package_DFN_QFN : Infineon_PQFN-44-31-5EP_7x7mm_P0.5mm|
+|name|name|Package_DFN_QFN : Infineon_PQFN-44-31-5EP_7x7mm_P0.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Infineon_PQFN-44-31-5EP_7x7mm_P0.5mm', 'description': 'PQFN 44 leads, 7x7mm, 0.127mm stencil (https://www.infineon.com/dgdl/ir4302.pdf?fileId=5546d462533600a4015355d602a9181d, https://www.infineon.com/dgdl/Infineon-AN1170-AN-v05_00-EN.pdf?fileId=5546d462533600a40153559ac3e51134)', 'tags': 'pqfn 44 7x7mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Infineon_PQFN-44-31-5EP_7x7mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Infineon_PQFN-44-31-5EP_7x7mm_P0.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Infineon_PQFN-44-31-5EP_7x7mm_P0.5mm/kicadPcb3d_450.png

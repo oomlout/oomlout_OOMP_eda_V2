@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DA56-11SYKWA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-DA56-11SYKWA|
 |Hex ID (short code)|hexID|SZKDICHARACTERDA5611SYKWA|
-|Name|name|DA56-11SYKWA|
+|name|name|DA56-11SYKWA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DA56-11SYKWA', 'kicadSymbolFootprint': 'Display_7Segment:DA56-11SYKWA', 'kicadSymbolDatasheet': 'http://www.kingbright.com/attachments/file/psearch/000/00/00/DA56-11SYKWA(Ver.11A).pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'Double digit 7 segment super bright yellow LED common anode', 'kicadSymbolki_fp_filters': '*DA56*11*'}]|
 ||||

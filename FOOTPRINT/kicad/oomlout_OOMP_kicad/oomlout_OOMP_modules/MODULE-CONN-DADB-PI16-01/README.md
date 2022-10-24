@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|MODULE-CONN-DADB-PI16-01|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_modules-MODULE-CONN-DADB-PI16-01|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPMOSMOCONNDADBPI161|
-|Name|name|oomlout_OOMP_modules : MODULE-CONN-DADB-PI16-01|
+|name|name|oomlout_OOMP_modules : MODULE-CONN-DADB-PI16-01|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MODULE-CONN-DADB-PI16-01', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||

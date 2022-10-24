@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Relay_DPDT_Omron_G6H-2|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Omron_G6H-2|
 |Hex ID (short code)|hexID|FZKRELRELAYDPDTOMRONG6H2|
-|Name|name|Relay_THT : Relay_DPDT_Omron_G6H-2|
+|name|name|Relay_THT : Relay_DPDT_Omron_G6H-2|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Relay_DPDT_Omron_G6H-2', 'description': 'Omron relay G6H-2, see http://cdn-reichelt.de/documents/datenblatt/C300/G6H%23OMR.pdf', 'tags': 'Omron relay G6H-2', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_Omron_G6H-2.wrl', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Omron_G6H-2/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Omron_G6H-2/kicadPcb3d_450.png

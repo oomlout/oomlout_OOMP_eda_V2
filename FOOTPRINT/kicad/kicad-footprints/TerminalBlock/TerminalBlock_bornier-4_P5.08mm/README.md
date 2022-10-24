@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TerminalBlock_bornier-4_P5.08mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TerminalBlock-TerminalBlock_bornier-4_P5.08mm|
 |Hex ID (short code)|hexID|FZKTBTBBORNIER4P58|
-|Name|name|TerminalBlock : TerminalBlock_bornier-4_P5.08mm|
+|name|name|TerminalBlock : TerminalBlock_bornier-4_P5.08mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TerminalBlock_bornier-4_P5.08mm', 'description': 'simple 4-pin terminal block, pitch 5.08mm, revamped version of bornier4', 'tags': 'terminal block bornier4', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_bornier-4_P5.08mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

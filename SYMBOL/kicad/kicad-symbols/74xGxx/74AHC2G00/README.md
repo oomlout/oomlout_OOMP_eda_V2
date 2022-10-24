@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74AHC2G00|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-74AHC2G00|
 |Hex ID (short code)|hexID|SZK74XGXX74AHC2G|
-|Name|name|74AHC2G00|
+|name|name|74AHC2G00|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LVC2G00', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AHC2G00', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT2G00.pdf', 'kicadSymbolki_keywords': 'Dual Gate NAND LVC CMOS', 'kicadSymbolki_description': 'Dual NAND Gate, High-speed Si-gate CMOS', 'kicadSymbolki_fp_filters': 'SSOP* VSSOP*'}]|
 ||||

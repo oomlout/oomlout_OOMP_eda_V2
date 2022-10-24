@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm|
 |Hex ID (short code)|hexID|FZKSOS81EP457X457P127EP457X445|
-|Name|name|Package_SO : SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm|
+|name|name|Package_SO : SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm', 'description': 'SOP, 8 Pin (https://ww2.minicircuits.com/case_style/XX112.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'SOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm/kicadPcb3d_450.png

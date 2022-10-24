@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC4005-PC84|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC4005-PC84|
 |Hex ID (short code)|hexID|SZKFPGAXILINXXC45PC84|
-|Name|name|XC4005-PC84|
+|name|name|XC4005-PC84|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'XC4003-PC84', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC4005-PC84', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MUN12AD01-SH|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-MUN12AD01-SH|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGMUN12AD1SH|
-|Name|name|MUN12AD01-SH|
+|name|name|MUN12AD01-SH|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MUN12AD01-SH', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_Cyntec_MUN12AD01-SH', 'kicadSymbolDatasheet': 'http://www.cyntec.com/upfile/products/download/Cyntec%20MUN12AD01-SH_Datasheet.pdf', 'kicadSymbolki_keywords': 'DC/DC Switching Regulator Power Module 1A Cyntec MUN12AD01', 'kicadSymbolki_description': 'DC/DC Switching Regulator, Power Module, 1A, Cyntec MUN12AD01', 'kicadSymbolki_fp_filters': 'Converter?DCDC?Cyntec?MUN12AD01?SH*'}]|
 ||||

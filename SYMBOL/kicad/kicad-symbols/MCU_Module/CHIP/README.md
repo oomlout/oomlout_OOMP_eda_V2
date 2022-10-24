@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CHIP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Module-CHIP|
 |Hex ID (short code)|hexID|SZKMCUMOCHIP|
-|Name|name|CHIP|
+|name|name|CHIP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CHIP', 'kicadSymbolFootprint': 'Module:MODULE_NEXTTHINGCO_CHIP', 'kicadSymbolDatasheet': 'https://github.com/NextThingCo/CHIP-Hardware/tree/master/CHIP%5Bv1_0%5D', 'kicadSymbolki_keywords': 'nextthingco chip module', 'kicadSymbolki_description': 'NextThingCo C.H.I.P. Module', 'kicadSymbolki_fp_filters': 'MODULE*NEXTTHINGCO*CHIP*'}]|
 ||||

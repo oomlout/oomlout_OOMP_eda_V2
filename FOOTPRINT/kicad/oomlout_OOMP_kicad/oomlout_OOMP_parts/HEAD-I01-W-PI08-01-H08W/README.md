@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-I01-W-PI08-01-H08W|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-W-PI08-01-H08W|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1WPI81H8W|
-|Name|name|oomlout_OOMP_parts : HEAD-I01-W-PI08-01-H08W|
+|name|name|oomlout_OOMP_parts : HEAD-I01-W-PI08-01-H08W|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HEAD-I01-W-PI08-01-H08W', 'description': 'hexID: H08W; Through hole straight pin header, 1x08, 2.54mm pitch, single row', 'tags': 'Through hole pin header THT 1x08 2.54mm single row', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|ST_WLCSP-143_Die419|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-143_Die419|
 |Hex ID (short code)|hexID|FZKCSPSTWLCSP143DIE419|
-|Name|name|Package_CSP : ST_WLCSP-143_Die419|
+|name|name|Package_CSP : ST_WLCSP-143_Die419|
 |Footprint Kicad|footprintKicadDetails|{'name': 'ST_WLCSP-143_Die419', 'description': 'WLCSP-143, 11x13 raster, 4.521x5.547mm package, pitch 0.4mm; see section 7.2 of http://www.st.com/resource/en/datasheet/stm32f429ng.pdf', 'tags': 'BGA 143 0.4', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/ST_WLCSP-143_Die419.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/ST_WLCSP-143_Die419/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_CSP/ST_WLCSP-143_Die419/kicadPcb3d_450.png

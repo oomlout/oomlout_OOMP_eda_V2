@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BSS214NW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BSS214NW|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBSS214NW|
-|Name|name|BSS214NW|
+|name|name|BSS214NW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BSS214NW', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-323_SC-70', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-BSS214NW-DS-v02_02-en.pdf?fileId=db3a30431b3e89eb011b695aebc01bde', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '20V Vds, 1.5A Id, N-Channel MOSFET, SOT-323', 'kicadSymbolki_fp_filters': 'SOT?323*'}]|
 ||||

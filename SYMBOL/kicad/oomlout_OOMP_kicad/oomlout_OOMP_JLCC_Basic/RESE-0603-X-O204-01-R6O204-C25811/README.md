@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O204-01-R6O204-C25811|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O204-01-R6O204-C25811|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE63XO241R6O24C25811|
-|Name|name|RESE-0603-X-O204-01-R6O204-C25811|
+|name|name|RESE-0603-X-O204-01-R6O204-C25811|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O204-01-R6O204-C25811', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O204-01-R6O204-C25811', 'kicadSymbolDatasheet': 'oom.lt/R6O204', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6O204;PARTL C-JLCC;C25811;MANUF C-XXXX;0603WAF2003T5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

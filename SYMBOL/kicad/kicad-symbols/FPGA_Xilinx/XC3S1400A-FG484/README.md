@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC3S1400A-FG484|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3S1400A-FG484|
 |Hex ID (short code)|hexID|SZKFPGAXILINXXC3S14AFG484|
-|Name|name|XC3S1400A-FG484|
+|name|name|XC3S1400A-FG484|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC3S1400A-FG484', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_fp_filters': 'BGA484'}]|
 ||||

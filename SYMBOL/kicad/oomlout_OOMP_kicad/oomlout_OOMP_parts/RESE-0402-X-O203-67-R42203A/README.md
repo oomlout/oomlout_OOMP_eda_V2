@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O203-67-R42203A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O203-67-R42203A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO2367R4223A|
-|Name|name|RESE-0402-X-O203-67-R42203A|
+|name|name|RESE-0402-X-O203-67-R42203A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O203-67-R42203A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O203-67-R42203A', 'kicadSymbolDatasheet': 'oom.lt/R42203A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R42203A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

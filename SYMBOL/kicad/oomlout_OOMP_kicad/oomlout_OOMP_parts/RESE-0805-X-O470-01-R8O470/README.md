@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O470-01-R8O470|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O470-01-R8O470|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO471R8O47|
-|Name|name|RESE-0805-X-O470-01-R8O470|
+|name|name|RESE-0805-X-O470-01-R8O470|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O470-01-R8O470', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O470-01-R8O470', 'kicadSymbolDatasheet': 'oom.lt/R8O470', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R8O470;PARTL C-JLCC;C17714;MANUF C-XXXX;0805W8F470JT5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

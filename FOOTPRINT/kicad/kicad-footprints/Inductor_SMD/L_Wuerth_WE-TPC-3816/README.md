@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Wuerth_WE-TPC-3816|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-TPC-3816|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLWUERTHWETPC3816|
-|Name|name|Inductor_SMD : L_Wuerth_WE-TPC-3816|
+|name|name|Inductor_SMD : L_Wuerth_WE-TPC-3816|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Wuerth_WE-TPC-3816', 'description': 'L_Wuerth_WE-TPC-3816 StepUp generated footprint, http://katalog.we-online.de/pbs/datasheet/7440310047.pdf', 'tags': 'wurth wuerth smd inductor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_WE-TPC-3816.wrl', 'pins': {'type': 'smd', 'shape': 'custom'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_WE-TPC-3816/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_WE-TPC-3816/kicadPcb3d_450.png

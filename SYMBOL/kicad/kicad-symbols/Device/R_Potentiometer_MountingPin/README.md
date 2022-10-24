@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|R_Potentiometer_MountingPin|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_MountingPin|
 |Hex ID (short code)|hexID|SZKDEVICERPOTENTIOMETERMOUNTINGPIN|
-|Name|name|R_Potentiometer_MountingPin|
+|name|name|R_Potentiometer_MountingPin|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'RV', 'kicadSymbolValue': 'R_Potentiometer_MountingPin', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'resistor variable', 'kicadSymbolki_description': 'Potentiometer with a mounting pin', 'kicadSymbolki_fp_filters': 'Potentiometer*'}]|
 ||||

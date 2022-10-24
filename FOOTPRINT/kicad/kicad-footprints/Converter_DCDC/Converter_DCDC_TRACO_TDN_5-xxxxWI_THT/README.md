@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Converter_DCDC_TRACO_TDN_5-xxxxWI_THT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TDN_5-xxxxWI_THT|
 |Hex ID (short code)|hexID|FZKCONCONTRACOTDN5XXXXWITHT|
-|Name|name|Converter_DCDC : Converter_DCDC_TRACO_TDN_5-xxxxWI_THT|
+|name|name|Converter_DCDC : Converter_DCDC_TRACO_TDN_5-xxxxWI_THT|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_TRACO_TDN_5-xxxxWI_THT', 'description': 'Traco TDN 5WI Series, 5W (https://www.tracopower.com/sites/default/files/products/datasheets/tdn5wi_datasheet.pdf#page=4)', 'tags': 'dcdc traco 5w', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_TDN_5-xxxxWI_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_TRACO_TDN_5-xxxxWI_THT/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_TRACO_TDN_5-xxxxWI_THT/kicadPcb3d_450.png

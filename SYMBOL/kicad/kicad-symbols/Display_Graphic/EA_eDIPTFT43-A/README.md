@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EA_eDIPTFT43-A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIPTFT43-A|
 |Hex ID (short code)|hexID|SZKDIGRAPHICEAEDIPTFT43A|
-|Name|name|EA_eDIPTFT43-A|
+|name|name|EA_eDIPTFT43-A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EA_eDIPTFT43-A', 'kicadSymbolFootprint': 'Display:EA_eDIPTFT43-XXX', 'kicadSymbolDatasheet': 'http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft43-ae.pdf', 'kicadSymbolki_keywords': 'display TFT LCD graphic', 'kicadSymbolki_description': 'TFT graphical display, 480x272, 16 bit colour, LED backlight, 5V VDD, RS-232, I2C or SPI', 'kicadSymbolki_fp_filters': 'EA*eDIPTFT43*XXX*'}]|
 ||||

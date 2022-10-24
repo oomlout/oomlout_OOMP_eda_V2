@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Potentiometer_Piher_T-16L_Single_Vertical_Hole|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_T-16L_Single_Vertical_Hole|
 |Hex ID (short code)|hexID|FZKPPOTENTIOMETERPIHERT16LSINGLEVERTICALHOLE|
-|Name|name|Potentiometer_THT : Potentiometer_Piher_T-16L_Single_Vertical_Hole|
+|name|name|Potentiometer_THT : Potentiometer_Piher_T-16L_Single_Vertical_Hole|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Piher_T-16L_Single_Vertical_Hole', 'description': 'Potentiometer, vertical, shaft hole, Piher T-16L Single, http://www.piher-nacesa.com/pdf/22-T16v03.pdf', 'tags': 'Potentiometer vertical hole Piher T-16L Single', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Piher_T-16L_Single_Vertical_Hole.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Piher_T-16L_Single_Vertical_Hole/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Piher_T-16L_Single_Vertical_Hole/kicadPcb3d_450.png

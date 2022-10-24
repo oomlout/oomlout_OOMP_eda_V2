@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XLR3_Switched|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-XLR3_Switched|
 |Hex ID (short code)|hexID|SZKCNXLR3SWITCHED|
-|Name|name|XLR3_Switched|
+|name|name|XLR3_Switched|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'XLR3_Switched', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'xlr connector', 'kicadSymbolki_description': 'XLR Connector, Male or Female, 3 Pins, SPDT Switch', 'kicadSymbolki_fp_filters': 'Jack*XLR*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADS1013IDGS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1013IDGS|
 |Hex ID (short code)|hexID|SZKANALOGADCADS113IDGS|
-|Name|name|ADS1013IDGS|
+|name|name|ADS1013IDGS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADS1013IDGS', 'kicadSymbolFootprint': 'Package_SO:TSSOP-10_3x3mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ads1015.pdf', 'kicadSymbolki_keywords': '12 bit single channel I2C ADC', 'kicadSymbolki_description': 'Ultra-Small, Low-Power, I2C-Compatible, 3.3-kSPS, 12-Bit ADCs With Internal Reference and Oscillator, VSSOP-10', 'kicadSymbolki_fp_filters': 'TSSOP*3x3mm*P0.5mm*'}]|
 ||||

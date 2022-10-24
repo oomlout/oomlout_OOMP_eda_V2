@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4072|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx-4072|
 |Hex ID (short code)|hexID|SZK4XXX472|
-|Name|name|4072|
+|name|name|4072|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4072', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4071bms-72bms-75bms.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'CMOS OR4', 'kicadSymbolki_description': 'Dual 4 input OR gate', 'kicadSymbolki_fp_filters': 'DIP?14*'}]|
 ||||

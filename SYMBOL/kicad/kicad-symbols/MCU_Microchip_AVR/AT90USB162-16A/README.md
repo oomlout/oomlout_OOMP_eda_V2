@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AT90USB162-16A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR-AT90USB162-16A|
 |Hex ID (short code)|hexID|SZKMCUMCHIPAVRAT9U16216A|
-|Name|name|AT90USB162-16A|
+|name|name|AT90USB162-16A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AT90USB162-16A', 'kicadSymbolFootprint': 'Package_QFP:TQFP-32_7x7mm_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc7707.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller USB', 'kicadSymbolki_description': '16MHz, 16kB Flash, 512B SRAM, 512B EEPROM, USB 2.0, TQFP-32', 'kicadSymbolki_fp_filters': 'TQFP*7x7mm*P0.8mm*'}]|
 ||||

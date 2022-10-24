@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LVC2G32|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-74LVC2G32|
 |Hex ID (short code)|hexID|SZK74XGXX74LVC2G32|
-|Name|name|74LVC2G32|
+|name|name|74LVC2G32|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LVC2G32', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf', 'kicadSymbolki_keywords': 'Dual Gate OR LVC CMOS', 'kicadSymbolki_description': 'Dual OR Gate, Low-Voltage CMOS', 'kicadSymbolki_fp_filters': 'SSOP* VSSOP*'}]|
 ||||

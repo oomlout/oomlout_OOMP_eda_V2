@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS05|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS05|
 |Hex ID (short code)|hexID|SZK74XX74LS5|
-|Name|name|74LS05|
+|name|name|74LS05|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS05', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS05', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL not inv OpenCol', 'kicadSymbolki_description': 'Inverter Open Collect', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

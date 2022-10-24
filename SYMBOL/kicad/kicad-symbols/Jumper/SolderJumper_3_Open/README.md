@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SolderJumper_3_Open|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Jumper-SolderJumper_3_Open|
 |Hex ID (short code)|hexID|SZKJSOLDERJ3OPEN|
-|Name|name|SolderJumper_3_Open|
+|name|name|SolderJumper_3_Open|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'JP', 'kicadSymbolValue': 'SolderJumper_3_Open', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'Solder Jumper SPDT', 'kicadSymbolki_description': 'Solder Jumper, 3-pole, open', 'kicadSymbolki_fp_filters': 'SolderJumper*Open*'}]|
 ||||

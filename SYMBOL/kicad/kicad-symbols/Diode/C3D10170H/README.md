@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C3D10170H|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-C3D10170H|
 |Hex ID (short code)|hexID|SZKDIODEC3D117H|
-|Name|name|C3D10170H|
+|name|name|C3D10170H|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'C4D10120H', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'C3D10170H', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-247-2_Vertical', 'kicadSymbolDatasheet': 'https://www.wolfspeed.com/media/downloads/96/C3D10170H.pdf', 'kicadSymbolki_keywords': 'sic diode', 'kicadSymbolki_description': '1700V, 10A, SiC Schottky Diode, TO-247', 'kicadSymbolki_fp_filters': 'TO?247*'}]|
 ||||

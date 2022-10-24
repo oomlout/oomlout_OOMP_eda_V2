@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MountingHole|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Mechanical-MountingHole|
 |Hex ID (short code)|hexID|SZKMECHANICALHOL|
-|Name|name|MountingHole|
+|name|name|MountingHole|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'H', 'kicadSymbolValue': 'MountingHole', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'mounting hole', 'kicadSymbolki_description': 'Mounting Hole without connection', 'kicadSymbolki_fp_filters': 'MountingHole*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LMD18200|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-LMD18200|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORLMD182|
-|Name|name|LMD18200|
+|name|name|LMD18200|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LMD18200', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-11_P3.4x5.08mm_StaggerOdd_Lead4.85mm_Vertical', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lmd18200.pdf', 'kicadSymbolki_keywords': 'H-Bridge DC stepper servo motor driver Motion Control Applications', 'kicadSymbolki_description': '3A, 55V H-Bridge, Motion Control Applications, TO-220-11', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

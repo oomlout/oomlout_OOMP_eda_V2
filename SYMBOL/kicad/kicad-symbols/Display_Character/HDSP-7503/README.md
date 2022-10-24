@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HDSP-7503|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7503|
 |Hex ID (short code)|hexID|SZKDICHARACTERHDSP753|
-|Name|name|HDSP-7503|
+|name|name|HDSP-7503|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HDSP-A153', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HDSP-7503', 'kicadSymbolFootprint': 'Display_7Segment:HDSP-A151', 'kicadSymbolDatasheet': 'https://docs.broadcom.com/docs/AV02-2553EN', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'One digit 7 segment high efficiency red, common cathode', 'kicadSymbolki_fp_filters': 'HDSP?A151*'}]|
 ||||

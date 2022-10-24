@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STGP7NC60HD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_IGBT-STGP7NC60HD|
 |Hex ID (short code)|hexID|SZKTRANSISTORIGBTSTGP7NC6HD|
-|Name|name|STGP7NC60HD|
+|name|name|STGP7NC60HD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'STGP7NC60HD', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'http://www.farnell.com/datasheets/2309889.pdf', 'kicadSymbolki_keywords': 'N-Channel very fast IGBT with ultrafast diode Power Transistor', 'kicadSymbolki_description': '25A, 600V, N-Channel IGBT, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

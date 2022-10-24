@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PMEG045T050EPD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-PMEG045T050EPD|
 |Hex ID (short code)|hexID|SZKDIODEPMEG45T5EPD|
-|Name|name|PMEG045T050EPD|
+|name|name|PMEG045T050EPD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PMEG45A10EPD', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'PMEG045T050EPD', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:Nexperia_CFP15_SOT-1289', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/PMEG045T050EPD.pdf', 'kicadSymbolki_keywords': 'forward voltage diode', 'kicadSymbolki_description': '45V, 5A low Vf Trench MEGA Schottky barrier rectifier, SOT-1289', 'kicadSymbolki_fp_filters': 'Nexperia*CFP15*SOT?1289*'}]|
 ||||

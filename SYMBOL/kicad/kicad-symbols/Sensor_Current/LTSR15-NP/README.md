@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTSR15-NP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-LTSR15-NP|
 |Hex ID (short code)|hexID|SZKSENCURRENTLTSR15NP|
-|Name|name|LTSR15-NP|
+|name|name|LTSR15-NP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LTSR6-NP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTSR15-NP', 'kicadSymbolFootprint': 'Sensor_Current:LEM_LTSR-NP', 'kicadSymbolDatasheet': 'https://www.lem.com/sites/default/files/products_datasheets/ltsr_15-np.pdf', 'kicadSymbolki_keywords': 'current transducer', 'kicadSymbolki_description': 'Current Transducer, Unipolar, 15A, 5V supply, DC, AC, pulsed', 'kicadSymbolki_fp_filters': 'LEM*LTSR*NP*'}]|
 ||||

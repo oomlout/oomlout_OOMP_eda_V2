@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Oscillator_SMD_Fordahl_DFAS2-4Pin_7.3x5.1mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Fordahl_DFAS2-4Pin_7.3x5.1mm|
 |Hex ID (short code)|hexID|FZKOCSOCSSMFORDAHLDFAS24PIN73X51|
-|Name|name|Oscillator : Oscillator_SMD_Fordahl_DFAS2-4Pin_7.3x5.1mm|
+|name|name|Oscillator : Oscillator_SMD_Fordahl_DFAS2-4Pin_7.3x5.1mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Oscillator_SMD_Fordahl_DFAS2-4Pin_7.3x5.1mm', 'description': 'Mminiature Crystal Clock Oscillator TXCO Fordahl DFA S2-KS/LS/US, http://www.iqdfrequencyproducts.com/products/details/iqxo-70-11-30.pdf, 7.3x5.1mm^2 package', 'tags': 'SMD SMT crystal oscillator', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_Fordahl_DFAS2-4Pin_7.3x5.1mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Fordahl_DFAS2-4Pin_7.3x5.1mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Fordahl_DFAS2-4Pin_7.3x5.1mm/kicadPcb3d_450.png

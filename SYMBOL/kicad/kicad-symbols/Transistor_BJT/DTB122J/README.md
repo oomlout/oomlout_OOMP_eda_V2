@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DTB122J|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTB122J|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTDTB122J|
-|Name|name|DTB122J|
+|name|name|DTB122J|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DTB122J', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'ROHM Digital PNP Transistor', 'kicadSymbolki_description': 'Digital PNP Transistor, 0k22/4k7, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23* SC?59*'}]|
 ||||

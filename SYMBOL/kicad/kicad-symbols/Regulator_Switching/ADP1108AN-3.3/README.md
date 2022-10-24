@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADP1108AN-3.3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP1108AN-3.3|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGADP118AN33|
-|Name|name|ADP1108AN-3.3|
+|name|name|ADP1108AN-3.3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LT1073CN-5', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADP1108AN-3.3', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADP1108.pdf', 'kicadSymbolki_keywords': 'switching buck boost converter step-down step-up', 'kicadSymbolki_description': 'Micropower DC-DC converter, step-up or step-down operation, 2V-30Vin, 3.3V fixed output voltage, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

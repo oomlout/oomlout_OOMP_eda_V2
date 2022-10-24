@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-W04-X-O101-01-R4101|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O101-01-R4101|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESEW4XO111R411|
-|Name|name|RESE-W04-X-O101-01-R4101|
+|name|name|RESE-W04-X-O101-01-R4101|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-W04-X-O101-01-R4101', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-W04-X-O101-01-R4101', 'kicadSymbolDatasheet': 'oom.lt/R4101', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R4101;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Nuclear-Radiation_Detector|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor-Nuclear-Radiation_Detector|
 |Hex ID (short code)|hexID|SZKSENNUCLEARRADIATIONDETECTOR|
-|Name|name|Nuclear-Radiation_Detector|
+|name|name|Nuclear-Radiation_Detector|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'V', 'kicadSymbolValue': 'Nuclear-Radiation_Detector', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'nuclear ionising radiation sensor geiger mueller muller tube neutron counter ionization chamber', 'kicadSymbolki_description': 'Generic radiation detector'}]|
 ||||

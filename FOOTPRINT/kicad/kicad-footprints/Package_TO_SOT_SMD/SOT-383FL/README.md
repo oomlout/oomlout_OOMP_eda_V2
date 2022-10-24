@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOT-383FL|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-383FL|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT383FL|
-|Name|name|Package_TO_SOT_SMD : SOT-383FL|
+|name|name|Package_TO_SOT_SMD : SOT-383FL|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOT-383FL', 'description': '8-pin SOT-383FL package, http://www.onsemi.com/pub_link/Collateral/ENA2267-D.PDF', 'tags': 'SOT-383FL', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-383FL.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-383FL/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-383FL/kicadPcb3d_450.png

@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0603-X-PF39-V50-C6P039|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF39-V50-C6P039|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XPF39V5C6P39|
-|Name|name|CAPC-0603-X-PF39-V50-C6P039|
+|name|name|CAPC-0603-X-PF39-V50-C6P039|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0603-X-PF39-V50-C6P039', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0603-X-PF39-V50-C6P039', 'kicadSymbolDatasheet': 'oom.lt/C6P039', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C6P039;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|-12VA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power--12VA|
 |Hex ID (short code)|hexID|SZKPOWER12VA|
-|Name|name|-12VA|
+|name|name|-12VA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': '-12VA', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "-12VA"'}]|
 ||||

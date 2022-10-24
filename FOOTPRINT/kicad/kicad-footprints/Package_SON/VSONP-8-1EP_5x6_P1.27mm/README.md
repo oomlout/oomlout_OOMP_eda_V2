@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|VSONP-8-1EP_5x6_P1.27mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-VSONP-8-1EP_5x6_P1.27mm|
 |Hex ID (short code)|hexID|FZKSONVSONP81EP5X6P127|
-|Name|name|Package_SON : VSONP-8-1EP_5x6_P1.27mm|
+|name|name|Package_SON : VSONP-8-1EP_5x6_P1.27mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'VSONP-8-1EP_5x6_P1.27mm', 'description': 'SON, 8-Leads, Body 5x6x1mm, Pitch 1.27mm; (see Texas Instruments CSD18531Q5A http://www.ti.com/lit/ds/symlink/csd18531q5a.pdf)', 'tags': 'VSONP 1.27', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/VSONP-8-1EP_5x6_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/VSONP-8-1EP_5x6_P1.27mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SON/VSONP-8-1EP_5x6_P1.27mm/kicadPcb3d_450.png

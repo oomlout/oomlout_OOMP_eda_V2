@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C3D08065I|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-C3D08065I|
 |Hex ID (short code)|hexID|SZKDIODEC3D865I|
-|Name|name|C3D08065I|
+|name|name|C3D08065I|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MBR735', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'C3D08065I', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-2_Vertical', 'kicadSymbolDatasheet': 'https://www.wolfspeed.com/media/downloads/47/C3D08065I.pdf', 'kicadSymbolki_keywords': 'sic diode', 'kicadSymbolki_description': '650V, 8A, SiC Schottky Diode, Isolated TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

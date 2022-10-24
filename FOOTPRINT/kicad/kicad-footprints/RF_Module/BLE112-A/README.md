@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BLE112-A|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-BLE112-A|
 |Hex ID (short code)|hexID|FZKRFMOBLE112A|
-|Name|name|RF_Module : BLE112-A|
+|name|name|RF_Module : BLE112-A|
 |Footprint Kicad|footprintKicadDetails|{'name': 'BLE112-A', 'description': 'Class 4 Bluetooth Module with on-board antenna', 'tags': 'Bluetooth Module', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/BLE112-A.wrl', 'pins': {'type': 'smd', 'shape': 'oval'}}|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP2210x-SS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-MCP2210x-SS|
 |Hex ID (short code)|hexID|SZKINTERFACEUMCP221XSS|
-|Name|name|MCP2210x-SS|
+|name|name|MCP2210x-SS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP2210x-SS', 'kicadSymbolFootprint': 'Package_SO:SSOP-20_5.3x7.2mm_P0.65mm', 'kicadSymbolDatasheet': 'https://ww1.microchip.com/downloads/en/DeviceDoc/22288A.pdf', 'kicadSymbolki_keywords': 'USB SPI Master Converter Bridge', 'kicadSymbolki_description': 'USB to SPI Protocol Converter with GPIO, SSOP-20', 'kicadSymbolki_fp_filters': 'SSOP*5.3x7.2mm*P0.65mm*'}]|
 ||||

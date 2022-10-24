@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Dual_CommonAnode_AKK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonAnode_AKK|
 |Hex ID (short code)|hexID|SZKDEVICEDDUALCOONANODEAKK|
-|Name|name|D_Dual_CommonAnode_AKK|
+|name|name|D_Dual_CommonAnode_AKK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Dual_CommonAnode_AKK', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Dual diode, common anode on pin 1'}]|
 ||||

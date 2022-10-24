@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|QFN-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNQFN161EP3X3P5EP17X17THERMALVIAS|
-|Name|name|Package_DFN_QFN : QFN-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm_ThermalVias|
+|name|name|Package_DFN_QFN : QFN-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'QFN-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm_ThermalVias', 'description': 'QFN, 16 Pin (http://www.cypress.com/file/46236/download), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py', 'tags': 'QFN DFN_QFN', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm_ThermalVias/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HLK-PM01|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_ACDC-HLK-PM01|
 |Hex ID (short code)|hexID|SZKCONHLKPM1|
-|Name|name|HLK-PM01|
+|name|name|HLK-PM01|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'HLK-PM01', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_HiLink_HLK-PMxx', 'kicadSymbolDatasheet': 'http://www.hlktech.net/product_detail.php?ProId=54', 'kicadSymbolki_keywords': 'AC/DC module power supply', 'kicadSymbolki_description': 'Compact AC/DC board mount power module 3W 5V', 'kicadSymbolki_fp_filters': 'Converter*ACDC*HiLink*HLK?PM*'}]|
 ||||

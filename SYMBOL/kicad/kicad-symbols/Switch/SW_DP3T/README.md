@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_DP3T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_DP3T|
 |Hex ID (short code)|hexID|SZKSWITCHSWDP3T|
-|Name|name|SW_DP3T|
+|name|name|SW_DP3T|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_DP3T', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'switch dp3t ON-ON-ON', 'kicadSymbolki_description': 'Switch, three position, dual pole triple throw, 3 position switch, SP3T', 'kicadSymbolki_fp_filters': 'SW* DP3T*'}]|
 ||||

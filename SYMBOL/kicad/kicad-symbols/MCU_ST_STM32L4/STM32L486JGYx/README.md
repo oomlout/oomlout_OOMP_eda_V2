@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32L486JGYx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L486JGYx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32L4STM32L486JGYX|
-|Name|name|STM32L486JGYx|
+|name|name|STM32L486JGYx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32L486JGYx', 'kicadSymbolFootprint': 'Package_CSP:ST_WLCSP-72_Die415', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00108833.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32L4 STM32L4x6', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 1024KB flash, 128KB RAM, 80MHz, 1.71-3.6V, 57 GPIO, WLCSP-72', 'kicadSymbolki_fp_filters': 'ST_WLCSP*Die415*'}]|
 ||||

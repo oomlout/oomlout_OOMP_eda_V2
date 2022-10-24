@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SM4001|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-SM4001|
 |Hex ID (short code)|hexID|SZKDIODESM41|
-|Name|name|SM4001|
+|name|name|SM4001|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SM4001', 'kicadSymbolFootprint': 'Diode_SMD:D_MELF', 'kicadSymbolDatasheet': 'http://cdn-reichelt.de/documents/datenblatt/A400/SMD1N400%23DIO.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '50V 1A General Purpose Rectifier Diode, MELF', 'kicadSymbolki_fp_filters': 'D*MELF*'}]|
 ||||

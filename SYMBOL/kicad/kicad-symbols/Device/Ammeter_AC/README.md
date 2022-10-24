@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Ammeter_AC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Ammeter_AC|
 |Hex ID (short code)|hexID|SZKDEVICEAETERAC|
-|Name|name|Ammeter_AC|
+|name|name|Ammeter_AC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'MES', 'kicadSymbolValue': 'Ammeter_AC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'ammeter AC ampere meter', 'kicadSymbolki_description': 'AC ammeter'}]|
 ||||

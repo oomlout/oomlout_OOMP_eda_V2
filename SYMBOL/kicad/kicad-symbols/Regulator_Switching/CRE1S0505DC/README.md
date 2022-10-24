@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CRE1S0505DC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-CRE1S0505DC|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGCRE1S55DC|
-|Name|name|CRE1S0505DC|
+|name|name|CRE1S0505DC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CRE1S0505DC', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_Murata_CRE1xxxxxxDC_THT', 'kicadSymbolDatasheet': 'http://power.murata.com/datasheet?/data/power/ncl/kdc_cre1.pdf', 'kicadSymbolki_keywords': 'Murata isolated isolation dc-dc converter transformer', 'kicadSymbolki_description': '5V to 5V 200mA DC-DC Converter with 1kV isolation, DC-package', 'kicadSymbolki_fp_filters': 'Converter*DCDC*Murata*CRE1xxxxxxDC*'}]|
 ||||

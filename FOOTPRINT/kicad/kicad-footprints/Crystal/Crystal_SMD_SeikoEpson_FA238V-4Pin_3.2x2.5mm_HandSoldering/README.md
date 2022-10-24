@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Crystal_SMD_SeikoEpson_FA238V-4Pin_3.2x2.5mm_HandSoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_SeikoEpson_FA238V-4Pin_3.2x2.5mm_HandSoldering|
 |Hex ID (short code)|hexID|FZKXXSMSEIKOEPSONFA238V4PIN32X25HANDSOLDERING|
-|Name|name|Crystal : Crystal_SMD_SeikoEpson_FA238V-4Pin_3.2x2.5mm_HandSoldering|
+|name|name|Crystal : Crystal_SMD_SeikoEpson_FA238V-4Pin_3.2x2.5mm_HandSoldering|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_SeikoEpson_FA238V-4Pin_3.2x2.5mm_HandSoldering', 'description': 'crystal Epson Toyocom FA-238 series http://www.mouser.com/ds/2/137/1721499-465440.pdf, hand-soldering, 3.2x2.5mm^2 package', 'tags': 'SMD SMT crystal hand-soldering', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_SeikoEpson_FA238V-4Pin_3.2x2.5mm_HandSoldering.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_FA238V-4Pin_3.2x2.5mm_HandSoldering/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_FA238V-4Pin_3.2x2.5mm_HandSoldering/kicadPcb3d_450.png

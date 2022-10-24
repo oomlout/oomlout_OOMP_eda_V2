@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|E18-MS1-PCB|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-E18-MS1-PCB|
 |Hex ID (short code)|hexID|FZKRFMOE18MS1PCB|
-|Name|name|RF_Module : E18-MS1-PCB|
+|name|name|RF_Module : E18-MS1-PCB|
 |Footprint Kicad|footprintKicadDetails|{'name': 'E18-MS1-PCB', 'description': 'http://www.cdebyte.com/en/downpdf.aspx?id=122', 'tags': 'Zigbee', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/E18-MS1-PCB.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

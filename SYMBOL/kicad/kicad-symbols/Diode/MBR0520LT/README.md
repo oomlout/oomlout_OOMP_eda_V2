@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MBR0520LT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-MBR0520LT|
 |Hex ID (short code)|hexID|SZKDIODEMBR52LT|
-|Name|name|MBR0520LT|
+|name|name|MBR0520LT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BAT48ZFILM', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'MBR0520LT', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-123', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/MBR0520LT1-D.PDF', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '20V 0.5A Schottky Power Rectifier Diode, SOD-123', 'kicadSymbolki_fp_filters': 'D*SOD?123*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Potentiometer_Vishay_248GJ-249GJ_Single_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Vishay_248GJ-249GJ_Single_Vertical|
 |Hex ID (short code)|hexID|FZKPPOTENTIOMETERVISHAY248GJ249GJSINGLEVERTICAL|
-|Name|name|Potentiometer_THT : Potentiometer_Vishay_248GJ-249GJ_Single_Vertical|
+|name|name|Potentiometer_THT : Potentiometer_Vishay_248GJ-249GJ_Single_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Vishay_248GJ-249GJ_Single_Vertical', 'description': 'Potentiometer, vertical, Vishay 248GJ-249GJ Single, http://www.vishay.com/docs/57054/248249.pdf', 'tags': 'Potentiometer vertical Vishay 248GJ-249GJ Single', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Vishay_248GJ-249GJ_Single_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_248GJ-249GJ_Single_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_248GJ-249GJ_Single_Vertical/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DB15_Male_MountingHoles|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DB15_Male_MountingHoles|
 |Hex ID (short code)|hexID|SZKCNDB15MALEHOLS|
-|Name|name|DB15_Male_MountingHoles|
+|name|name|DB15_Male_MountingHoles|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DB15_Male_MountingHoles', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'male D-SUB connector', 'kicadSymbolki_description': '15-pin male D-SUB connector (low-density/2 columns), Mounting Hole', 'kicadSymbolki_fp_filters': 'DSUB*Male*'}]|
 ||||

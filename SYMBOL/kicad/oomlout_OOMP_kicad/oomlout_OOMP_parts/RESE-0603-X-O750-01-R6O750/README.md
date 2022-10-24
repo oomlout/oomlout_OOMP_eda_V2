@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O750-01-R6O750|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O750-01-R6O750|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO751R6O75|
-|Name|name|RESE-0603-X-O750-01-R6O750|
+|name|name|RESE-0603-X-O750-01-R6O750|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O750-01-R6O750', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O750-01-R6O750', 'kicadSymbolDatasheet': 'oom.lt/R6O750', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6O750;PARTL C-JLCC;C4275;MANUF C-XXXX;0603WAF750JT5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

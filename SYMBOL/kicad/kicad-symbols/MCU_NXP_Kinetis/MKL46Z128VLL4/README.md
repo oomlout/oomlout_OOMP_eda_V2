@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MKL46Z128VLL4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL46Z128VLL4|
 |Hex ID (short code)|hexID|SZKMCUNXPKINETISMKL46Z128VLL4|
-|Name|name|MKL46Z128VLL4|
+|name|name|MKL46Z128VLL4|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MKL46Z256VLL4', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MKL46Z128VLL4', 'kicadSymbolFootprint': 'Package_QFP:LQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/docs/en/data-sheet/KL46P121M48SF4.pdf', 'kicadSymbolki_keywords': 'Kinetis KL46 ARM Cortex M0+', 'kicadSymbolki_description': 'Kinetis KL46 series, 48-MHz/32-bit ARM Cortex-M0+, 128 kB flash, 16 kB SRAM, USB FS Device/OTG, Segment LCD, TSI, LQFP-100', 'kicadSymbolki_fp_filters': 'LQFP*14x14mm*P0.5mm*'}]|
 ||||

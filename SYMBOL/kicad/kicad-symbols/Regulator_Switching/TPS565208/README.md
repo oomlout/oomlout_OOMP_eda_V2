@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS565208|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS565208|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS56528|
-|Name|name|TPS565208|
+|name|name|TPS565208|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS562200', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS565208', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps565208.pdf', 'kicadSymbolki_keywords': 'step-down dcdc voltage regulator', 'kicadSymbolki_description': '5A Synchronous Step-Down Voltage Regulator, Adjustable Output Voltage, 4.5-17V Input Voltage, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

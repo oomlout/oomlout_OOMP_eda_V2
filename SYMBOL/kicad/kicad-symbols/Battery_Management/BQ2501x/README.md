@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BQ2501x|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-BQ2501x|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTBQ251X|
-|Name|name|BQ2501x|
+|name|name|BQ2501x|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BQ2501x', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_VQFN-RHL-20_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/bq25010.pdf', 'kicadSymbolki_keywords': 'Li-ion buck', 'kicadSymbolki_description': '500mA Li-Ion Charger w/Integrated 150mA Synchronous Buck Converter, QFN-14', 'kicadSymbolki_fp_filters': 'Texas?VQFN?RHL*'}]|
 ||||

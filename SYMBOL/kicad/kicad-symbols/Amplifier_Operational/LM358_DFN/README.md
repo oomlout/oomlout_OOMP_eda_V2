@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM358_DFN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM358_DFN|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALLM358DFN|
-|Name|name|LM358_DFN|
+|name|name|LM358_DFN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TSV912IQ2T', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM358_DFN', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP1.05x1.75mm', 'kicadSymbolDatasheet': 'www.st.com/resource/en/datasheet/lm358.pdf', 'kicadSymbolki_keywords': 'dual opamp', 'kicadSymbolki_description': 'Low-Power, Dual Operational Amplifiers, DFN-8', 'kicadSymbolki_fp_filters': 'DFN*2x2mm*P0.5mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_Push_DPDT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_Push_DPDT|
 |Hex ID (short code)|hexID|SZKSWITCHSWPUSHDPDT|
-|Name|name|SW_Push_DPDT|
+|name|name|SW_Push_DPDT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_Push_DPDT', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'switch dual-pole double-throw spdt ON-ON', 'kicadSymbolki_description': 'Momentary Switch, dual pole double throw'}]|
 ||||

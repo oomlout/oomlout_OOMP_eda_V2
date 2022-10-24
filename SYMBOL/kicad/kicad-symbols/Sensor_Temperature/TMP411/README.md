@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TMP411|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP411|
 |Hex ID (short code)|hexID|SZKSENTEMPERATURETMP411|
-|Name|name|TMP411|
+|name|name|TMP411|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TMP411', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com.cn/cn/lit/ds/symlink/tmp411.pdf', 'kicadSymbolki_keywords': 'Temperature sensor remote local i2c', 'kicadSymbolki_description': '- Remote and Local TEMPERATURE SENSOR', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* VSSOP*3.0x3.0mm*P0.65mm*'}]|
 ||||

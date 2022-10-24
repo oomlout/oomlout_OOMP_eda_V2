@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RAC20-15SK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC20-15SK|
 |Hex ID (short code)|hexID|SZKCONRAC215SK|
-|Name|name|RAC20-15SK|
+|name|name|RAC20-15SK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'RAC20-05SK', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'RAC20-15SK', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_Recom_RAC20-xxSK_THT', 'kicadSymbolDatasheet': 'https://recom-power.com/pdf/Powerline_AC-DC/RAC20-K.pdf', 'kicadSymbolki_keywords': 'ac dc power supply', 'kicadSymbolki_description': '20 Watt Single Output AC/DC power supply 15V 1333mA', 'kicadSymbolki_fp_filters': 'Converter*ACDC*Recom*RAC20*SK*THT*'}]|
 ||||

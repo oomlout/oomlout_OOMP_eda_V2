@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|5KPxxCA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-5KPxxCA|
 |Hex ID (short code)|hexID|SZKDIODE5KPXXCA|
-|Name|name|5KPxxCA|
+|name|name|5KPxxCA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': '5KPxxCA', 'kicadSymbolFootprint': 'Diode_THT:D_P600_R-6_P20.00mm_Horizontal', 'kicadSymbolDatasheet': 'https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf', 'kicadSymbolki_keywords': 'diode TVS voltage suppressor', 'kicadSymbolki_description': '5000W bidirectional Transient Voltage Suppressor, P-600', 'kicadSymbolki_fp_filters': 'D?P600*'}]|
 ||||

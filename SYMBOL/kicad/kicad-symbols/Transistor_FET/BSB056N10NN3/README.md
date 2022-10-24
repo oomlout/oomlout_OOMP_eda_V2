@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BSB056N10NN3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB056N10NN3|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBSB56N1NN3|
-|Name|name|BSB056N10NN3|
+|name|name|BSB056N10NN3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSB028N06NN3', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BSB056N10NN3', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_MN', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-BSB056N10NN3_G-DS-v02_05-en.pdf?fileId=db3a30442e152e91012e390b9a631459', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '83A Id, 100V Vds, 5.1mOhm Rds, N-Channel MOSFET, DirectFET MN', 'kicadSymbolki_fp_filters': 'DirectFET*MN*'}]|
 ||||

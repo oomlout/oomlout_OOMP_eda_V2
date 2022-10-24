@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|68230|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-68230|
 |Hex ID (short code)|hexID|SZKINTERFACE6823|
-|Name|name|68230|
+|name|name|68230|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '68230', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'MPRO', 'kicadSymbolki_description': 'PIT Interface parallele et Timer'}]|
 ||||

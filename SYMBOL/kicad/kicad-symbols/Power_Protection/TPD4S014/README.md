@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPD4S014|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-TPD4S014|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONTPD4S14|
-|Name|name|TPD4S014|
+|name|name|TPD4S014|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPD4S014', 'kicadSymbolFootprint': 'Package_SON:Texas_S-PWSON-N10', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tpd4s014.pdf', 'kicadSymbolki_keywords': 'USB  Port Protection', 'kicadSymbolki_description': 'USB Charger Port Protection Including ESD Protection for All Lines and Overvoltage Protection on VBUS', 'kicadSymbolki_fp_filters': 'Package?SON:Texas?S?PWSON?N10*'}]|
 ||||

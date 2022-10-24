@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLP3022|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-TLP3022|
 |Hex ID (short code)|hexID|SZKISOLATORTLP322|
-|Name|name|TLP3022|
+|name|name|TLP3022|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TLP3021', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLP3022', 'kicadSymbolFootprint': 'Package_DIP:Toshiba_11-7A9', 'kicadSymbolDatasheet': 'https://toshiba.semicon-storage.com/info/docget.jsp?did=1421&prodName=TLP3021(S)', 'kicadSymbolki_keywords': 'Photo-Triac Opto Triac', 'kicadSymbolki_description': 'Photo-Triac, Vdrm 400V, Ift 10mA, DIP6', 'kicadSymbolki_fp_filters': 'Toshiba*11?7A9*'}]|
 ||||

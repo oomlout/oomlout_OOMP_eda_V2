@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|KA5H02659RN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-KA5H02659RN|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGKA5H2659RN|
-|Name|name|KA5H02659RN|
+|name|name|KA5H02659RN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'KA5H02659RN', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/KA5L0265R-D.PDF', 'kicadSymbolki_keywords': 'SMPS Controller AC-DC', 'kicadSymbolki_description': '100kHz SMPS Controller, AC-DC, PDIP-8', 'kicadSymbolki_fp_filters': 'DIP*8*W7.62mm*'}]|
 ||||

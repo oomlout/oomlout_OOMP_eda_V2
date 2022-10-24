@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Battery_Cell|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Battery_Cell|
 |Hex ID (short code)|hexID|SZKDEVICEBATCELL|
-|Name|name|Battery_Cell|
+|name|name|Battery_Cell|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'BT', 'kicadSymbolValue': 'Battery_Cell', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'battery cell', 'kicadSymbolki_description': 'Single-cell battery'}]|
 ||||

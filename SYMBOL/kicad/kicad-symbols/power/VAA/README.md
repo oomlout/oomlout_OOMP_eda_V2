@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VAA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-VAA|
 |Hex ID (short code)|hexID|SZKPOWERVAA|
-|Name|name|VAA|
+|name|name|VAA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'VAA', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "VAA"'}]|
 ||||

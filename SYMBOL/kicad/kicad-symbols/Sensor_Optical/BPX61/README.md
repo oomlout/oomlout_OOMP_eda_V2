@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BPX61|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPX61|
 |Hex ID (short code)|hexID|SZKSENOPTICALBPX61|
-|Name|name|BPX61|
+|name|name|BPX61|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BPW21', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BPX61', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-5-2_Window', 'kicadSymbolDatasheet': 'http://www.osram-os.com/Graphics/XPic3/00101650_0.pdf', 'kicadSymbolki_keywords': 'photodiode opto', 'kicadSymbolki_description': 'Silicon Photodiode for the visible spectral range', 'kicadSymbolki_fp_filters': 'TO?5*Window*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SMF43A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-SMF43A|
 |Hex ID (short code)|hexID|SZKDIODESMF43A|
-|Name|name|SMF43A|
+|name|name|SMF43A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SM6T6V8A', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SMF43A', 'kicadSymbolFootprint': 'Diode_SMD:D_SMF', 'kicadSymbolDatasheet': 'https://www.vishay.com/doc?85881', 'kicadSymbolki_keywords': 'diode TVS voltage suppressor', 'kicadSymbolki_description': '200W unidirectional Transil Transient Voltage Suppressor, 43Vrwm, SMF', 'kicadSymbolki_fp_filters': 'D*SMF*'}]|
 ||||

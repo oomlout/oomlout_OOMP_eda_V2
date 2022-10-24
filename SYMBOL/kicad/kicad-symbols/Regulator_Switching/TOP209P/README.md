@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TOP209P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP209P|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTOP29P|
-|Name|name|TOP209P|
+|name|name|TOP209P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TOP209P', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/top209210.pdf', 'kicadSymbolki_keywords': 'Three-terminal Off-line PWM Switch', 'kicadSymbolki_description': 'TOPSwitch Family, 2W Max Output Power, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

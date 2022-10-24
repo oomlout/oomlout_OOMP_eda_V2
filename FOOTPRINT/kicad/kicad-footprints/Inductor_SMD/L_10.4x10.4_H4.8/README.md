@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_10.4x10.4_H4.8|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_10.4x10.4_H4.8|
 |Hex ID (short code)|hexID|FZKINDUCTORSML14X14H48|
-|Name|name|Inductor_SMD : L_10.4x10.4_H4.8|
+|name|name|Inductor_SMD : L_10.4x10.4_H4.8|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_10.4x10.4_H4.8', 'description': 'Choke, SMD, 10.4x10.4mm 4.8mm height', 'tags': 'Choke SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_10.4x10.4_H4.8.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_10.4x10.4_H4.8/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_10.4x10.4_H4.8/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS136|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS136|
 |Hex ID (short code)|hexID|SZK74XX74LS136|
-|Name|name|74LS136|
+|name|name|74LS136|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS136', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/sn54ls136.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL XOR2 OpenCol', 'kicadSymbolki_description': 'Quad 2-input XOR Open Collector', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

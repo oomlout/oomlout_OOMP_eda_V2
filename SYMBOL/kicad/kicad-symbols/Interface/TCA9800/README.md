@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TCA9800|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-TCA9800|
 |Hex ID (short code)|hexID|SZKINTERFACETCA98|
-|Name|name|TCA9800|
+|name|name|TCA9800|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TCA9800', 'kicadSymbolFootprint': 'Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tca9800.pdf', 'kicadSymbolki_keywords': 'I2C buffer repeater', 'kicadSymbolki_description': 'Level-Translating I2C Bus Buffer/Repeater 0.54mA Current Source, VSSOP-8', 'kicadSymbolki_fp_filters': 'VSSOP*3.0x3.0mm*P0.65mm*'}]|
 ||||

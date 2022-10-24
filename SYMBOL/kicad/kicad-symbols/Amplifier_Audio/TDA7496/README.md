@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TDA7496|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7496|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOTDA7496|
-|Name|name|TDA7496|
+|name|name|TDA7496|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDA7496', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-15_P2.54x2.54mm_StaggerOdd_Lead4.58mm_Vertical', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/tda7297.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'audio amplifier 2ch', 'kicadSymbolki_description': '5W+5W Amplifier with DC Volume Control, TO-220-15', 'kicadSymbolki_fp_filters': 'TO?220*StaggerOdd*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Crystal_SMD_FrontierElectronics_FM206|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_FrontierElectronics_FM206|
 |Hex ID (short code)|hexID|FZKXXSMFRONTIERELECTRONICSFM26|
-|Name|name|Crystal : Crystal_SMD_FrontierElectronics_FM206|
+|name|name|Crystal : Crystal_SMD_FrontierElectronics_FM206|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_FrontierElectronics_FM206', 'description': 'SMD Watch Crystal FrontierElectronics FM206 6.0mm length 1.9mm diameter http://www.chinafronter.com/wp-content/uploads/2013/12/FM206.pdf', 'tags': "['FM206']", 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_FrontierElectronics_FM206.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_FrontierElectronics_FM206/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_FrontierElectronics_FM206/kicadPcb3d_450.png

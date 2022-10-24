@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-JSTSH-X-PI15-SM-HSH15|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI15-SM-HSH15|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI15SMHSH15|
-|Name|name|oomlout_OOMP_parts : HEAD-JSTSH-X-PI15-SM-HSH15|
+|name|name|oomlout_OOMP_parts : HEAD-JSTSH-X-PI15-SM-HSH15|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HEAD-JSTSH-X-PI15-SM-HSH15', 'description': 'hexID: HSH15; JST SH series connector, BM15B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST SH side entry', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_SH_BM15B-SRSS-TB_1x15-1MP_P1.00mm_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||

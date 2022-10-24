@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Infineon_PG-TISON-8-3|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-Infineon_PG-TISON-8-3|
 |Hex ID (short code)|hexID|FZKSONINFINEONPGTISON83|
-|Name|name|Package_SON : Infineon_PG-TISON-8-3|
+|name|name|Package_SON : Infineon_PG-TISON-8-3|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Infineon_PG-TISON-8-3', 'description': 'Infineon, PG-TISON-8-2, 5x6x1.15mm, 1.27mm Pitch, Exposed Paddle, https://www.infineon.com/cms/en/product/packages/PG-TISON/PG-TISON-8-2/', 'tags': 'tison', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Infineon_PG-TISON-8-3.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/Infineon_PG-TISON-8-3/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SON/Infineon_PG-TISON-8-3/kicadPcb3d_450.png

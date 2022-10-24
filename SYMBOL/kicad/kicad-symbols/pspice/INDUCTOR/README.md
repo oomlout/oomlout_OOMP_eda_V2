@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|INDUCTOR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-pspice-INDUCTOR|
 |Hex ID (short code)|hexID|SZKPSPICEINDUCTOR|
-|Name|name|INDUCTOR|
+|name|name|INDUCTOR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'L', 'kicadSymbolValue': 'INDUCTOR', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Inductor symbol for simulation only'}]|
 ||||

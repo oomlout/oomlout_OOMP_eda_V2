@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM25085MY|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM25085MY|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM2585MY|
-|Name|name|LM25085MY|
+|name|name|LM25085MY|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM25085MY', 'kicadSymbolFootprint': 'Package_SO:MSOP-8-1EP_3x3mm_P0.65mm_EP1.73x1.85mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm25085.pdf', 'kicadSymbolki_keywords': 'buck switching controller', 'kicadSymbolki_description': '42V Constant On-Time PFET Buck Switching Controller, MSOP-8-EP', 'kicadSymbolki_fp_filters': 'MSOP*1EP*3x3mm*P0.65mm*'}]|
 ||||

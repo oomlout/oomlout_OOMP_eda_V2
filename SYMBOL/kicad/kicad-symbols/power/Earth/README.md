@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Earth|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-Earth|
 |Hex ID (short code)|hexID|SZKPOWEREARTH|
-|Name|name|Earth|
+|name|name|Earth|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'Earth', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'power-flag ground gnd', 'kicadSymbolki_description': 'Power symbol creates a global label with name "Earth"'}]|
 ||||

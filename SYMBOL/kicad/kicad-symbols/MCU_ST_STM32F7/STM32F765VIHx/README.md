@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F765VIHx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F765VIHx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F7STM32F765VIHX|
-|Name|name|STM32F765VIHx|
+|name|name|STM32F765VIHx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STM32F765VGHx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F765VIHx', 'kicadSymbolFootprint': 'Package_BGA:TFBGA-100_8x8mm_Layout10x10_P0.8mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00273119.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M7 STM32F7 STM32F7x5', 'kicadSymbolki_description': 'ARM Cortex-M7 MCU, 2048KB flash, 384KB RAM, 82 GPIO, TFBGA-100', 'kicadSymbolki_fp_filters': 'TFBGA*8x8mm*Layout10x10*P0.8mm*'}]|
 ||||

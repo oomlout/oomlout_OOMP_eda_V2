@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|2SC1941|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SC1941|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJT2SC1941|
-|Name|name|2SC1941|
+|name|name|2SC1941|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': '2SC1941', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://rtellason.com/transdata/2sc1941.pdf', 'kicadSymbolki_keywords': 'Audio High Voltage NPN Transistor', 'kicadSymbolki_description': '50mA Ic, 160V Vce, Audio High Voltage NPN Transistor, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

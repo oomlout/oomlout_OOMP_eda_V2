@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CYBLE-21Pin-10x10mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-CYBLE-21Pin-10x10mm|
 |Hex ID (short code)|hexID|FZKRFMOCYBLE21PIN1X1|
-|Name|name|RF_Module : CYBLE-21Pin-10x10mm|
+|name|name|RF_Module : CYBLE-21Pin-10x10mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'CYBLE-21Pin-10x10mm', 'description': 'Cypress EZ-BLE PRoC Module (Bluetooth Smart) 21 Pin Module', 'tags': 'Cypress BT Bluetooth', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/CYBLE-21Pin-10x10mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

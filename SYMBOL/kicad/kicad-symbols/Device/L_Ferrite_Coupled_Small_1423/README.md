@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L_Ferrite_Coupled_Small_1423|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-L_Ferrite_Coupled_Small_1423|
 |Hex ID (short code)|hexID|SZKDEVICELFERRITECOUPLSLL1423|
-|Name|name|L_Ferrite_Coupled_Small_1423|
+|name|name|L_Ferrite_Coupled_Small_1423|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'L', 'kicadSymbolValue': 'L_Ferrite_Coupled_Small_1423', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'inductor choke coil reactor magnetic coupled', 'kicadSymbolki_description': 'Coupled inductor with ferrite core, small symbol', 'kicadSymbolki_fp_filters': 'Choke_* *Coil* Inductor_* L_*'}]|
 ||||

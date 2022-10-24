@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PinSocket_1x14_P2.54mm_Vertical_SMD_Pin1Left|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_2.54mm-PinSocket_1x14_P2.54mm_Vertical_SMD_Pin1Left|
 |Hex ID (short code)|hexID|FZKCNPINSO254PINSO1X14P254VERTICALSMPIN1LEFT|
-|Name|name|Connector_PinSocket_2.54mm : PinSocket_1x14_P2.54mm_Vertical_SMD_Pin1Left|
+|name|name|Connector_PinSocket_2.54mm : PinSocket_1x14_P2.54mm_Vertical_SMD_Pin1Left|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PinSocket_1x14_P2.54mm_Vertical_SMD_Pin1Left', 'description': 'surface-mounted straight socket strip, 1x14, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated', 'tags': 'Surface mounted socket strip SMD 1x14 2.54mm single row style1 pin1 left', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x14_P2.54mm_Vertical_SMD_Pin1Left.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_2.54mm/PinSocket_1x14_P2.54mm_Vertical_SMD_Pin1Left/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_2.54mm/PinSocket_1x14_P2.54mm_Vertical_SMD_Pin1Left/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LA55-P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-LA55-P|
 |Hex ID (short code)|hexID|SZKSENCURRENTLA55P|
-|Name|name|LA55-P|
+|name|name|LA55-P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LA25-P', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LA55-P', 'kicadSymbolFootprint': 'Sensor_Current:LEM_LA25-P', 'kicadSymbolDatasheet': 'https://www.lem.com/sites/default/files/products_datasheets/la_55-p_e.pdf', 'kicadSymbolki_keywords': 'current transducer', 'kicadSymbolki_description': 'Current Transducer, 50A, Bipolar, +/-15V', 'kicadSymbolki_fp_filters': 'LEM*LA25*P*'}]|
 ||||

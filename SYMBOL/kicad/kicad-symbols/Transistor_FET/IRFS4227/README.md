@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRFS4227|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFS4227|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRFS4227|
-|Name|name|IRFS4227|
+|name|name|IRFS4227|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STB15N80K5', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRFS4227', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-2', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irfs4227pbf.pdf?fileId=5546d462533600a401535639ef64219b', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '130A Id, 200V Vds, 22mOhm Rds, N-Channel MOSFET, D2PAK', 'kicadSymbolki_fp_filters': 'TO?263*'}]|
 ||||

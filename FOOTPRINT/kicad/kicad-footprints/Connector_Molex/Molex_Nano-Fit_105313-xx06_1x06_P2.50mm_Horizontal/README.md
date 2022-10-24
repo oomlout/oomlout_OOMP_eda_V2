@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Molex_Nano-Fit_105313-xx06_1x06_P2.50mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Nano-Fit_105313-xx06_1x06_P2.50mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNMXMXNANOFIT15313XX61X6P25HORIZONTAL|
-|Name|name|Connector_Molex : Molex_Nano-Fit_105313-xx06_1x06_P2.50mm_Horizontal|
+|name|name|Connector_Molex : Molex_Nano-Fit_105313-xx06_1x06_P2.50mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Molex_Nano-Fit_105313-xx06_1x06_P2.50mm_Horizontal', 'description': 'Molex Nano-Fit Power Connectors, 105313-xx06, 6 Pins per row (http://www.molex.com/pdm_docs/sd/1053131208_sd.pdf), generated with kicad-footprint-generator', 'tags': 'connector Molex Nano-Fit top entry', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Nano-Fit_105313-xx06_1x06_P2.50mm_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Nano-Fit_105313-xx06_1x06_P2.50mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Nano-Fit_105313-xx06_1x06_P2.50mm_Horizontal/kicadPcb3d_450.png

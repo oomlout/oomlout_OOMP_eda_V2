@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BD249A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD249A|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBD249A|
-|Name|name|BD249A|
+|name|name|BD249A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BD249', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BD249A', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.mospec.com.tw/pdf/power/BD249.pdf', 'kicadSymbolki_keywords': 'Power NPN Transistor', 'kicadSymbolki_description': '25A Ic, 70V Vce, Silicon Power NPN Transistors, SOT-93/TO247', 'kicadSymbolki_fp_filters': 'TO?218* TO?247*'}]|
 ||||

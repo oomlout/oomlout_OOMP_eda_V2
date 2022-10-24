@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32L041E6Yx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L041E6Yx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32LSTM32L41E6YX|
-|Name|name|STM32L041E6Yx|
+|name|name|STM32L041E6Yx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32L041E6Yx', 'kicadSymbolFootprint': 'Package_CSP:ST_WLCSP-25_Die425', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00152023.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M0+ STM32L0 STM32L0x1', 'kicadSymbolki_description': 'ARM Cortex-M0+ MCU, 32KB flash, 8KB RAM, 32MHz, 1.65-3.6V, 20 GPIO, WLCSP-25', 'kicadSymbolki_fp_filters': 'ST_WLCSP*Die425*'}]|
 ||||

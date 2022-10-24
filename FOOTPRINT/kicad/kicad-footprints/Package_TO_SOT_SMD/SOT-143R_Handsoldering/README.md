@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOT-143R_Handsoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-143R_Handsoldering|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT143RHANDSOLDERING|
-|Name|name|Package_TO_SOT_SMD : SOT-143R_Handsoldering|
+|name|name|Package_TO_SOT_SMD : SOT-143R_Handsoldering|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOT-143R_Handsoldering', 'description': 'SOT-143R, reverse pinning, Handsoldering, https://www.nxp.com/docs/en/package-information/SOT143R.pdf', 'tags': 'SOT-143 Reverse Handsoldering', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-143R.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-143R_Handsoldering/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-143R_Handsoldering/kicadPcb3d_450.png

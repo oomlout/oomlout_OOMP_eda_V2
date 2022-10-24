@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Z8530|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-Z8530|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTZ853|
-|Name|name|Z8530|
+|name|name|Z8530|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Z8530', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'SCC Serial Communication', 'kicadSymbolki_description': 'SCC Serial Communication Controller, DIP-40', 'kicadSymbolki_fp_filters': 'DIP* PDIP*'}]|
 ||||

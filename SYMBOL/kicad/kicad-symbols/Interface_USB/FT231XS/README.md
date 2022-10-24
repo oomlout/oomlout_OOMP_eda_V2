@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FT231XS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-FT231XS|
 |Hex ID (short code)|hexID|SZKINTERFACEUFT231XS|
-|Name|name|FT231XS|
+|name|name|FT231XS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FT231XS', 'kicadSymbolFootprint': 'Package_SO:SSOP-20_3.9x8.7mm_P0.635mm', 'kicadSymbolDatasheet': 'https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf', 'kicadSymbolki_keywords': 'FTDI USB UART interface converter', 'kicadSymbolki_description': 'Full Speed USB to Full Handshake UART, SSOP-20', 'kicadSymbolki_fp_filters': '*SSOP*3.9x8.7mm*P0.635mm*'}]|
 ||||

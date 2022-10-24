@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TSSOP-14_4.4x5mm_P0.65mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-14_4.4x5mm_P0.65mm|
 |Hex ID (short code)|hexID|FZKSOTSS1444X5P65|
-|Name|name|Package_SO : TSSOP-14_4.4x5mm_P0.65mm|
+|name|name|Package_SO : TSSOP-14_4.4x5mm_P0.65mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TSSOP-14_4.4x5mm_P0.65mm', 'description': 'TSSOP, 14 Pin (JEDEC MO-153 Var AB-1 https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'TSSOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-14_4.4x5mm_P0.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-14_4.4x5mm_P0.65mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-14_4.4x5mm_P0.65mm/kicadPcb3d_450.png

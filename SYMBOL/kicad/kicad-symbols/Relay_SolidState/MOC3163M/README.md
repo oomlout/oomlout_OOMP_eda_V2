@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MOC3163M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay_SolidState-MOC3163M|
 |Hex ID (short code)|hexID|SZKRELAYSOLIDSTATEMOC3163M|
-|Name|name|MOC3163M|
+|name|name|MOC3163M|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MOC3031M', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MOC3163M', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MOC3163M-D.pdf', 'kicadSymbolki_keywords': 'Opto-Triac Opto Triac Zero Cross', 'kicadSymbolki_description': 'Zero Cross Opto-Triac, Vdrm 600V, Ift 5mA, dv/dt 1000, DIP6', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SMDIP*W9.53mm* DIP*W10.16mm*'}]|
 ||||

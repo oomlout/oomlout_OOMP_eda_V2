@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLP2768A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-TLP2768A|
 |Hex ID (short code)|hexID|SZKISOLATORTLP2768A|
-|Name|name|TLP2768A|
+|name|name|TLP2768A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLP2768A', 'kicadSymbolFootprint': 'Package_SO:SO-6L_10x3.84mm_P1.27mm', 'kicadSymbolDatasheet': 'https://toshiba.semicon-storage.com/info/docget.jsp?did=36717&prodName=TLP2768A', 'kicadSymbolki_keywords': 'Photocouple highspeed inverting open collector output', 'kicadSymbolki_description': '20-Mbps high speed inverting photocouple,5 kVrms, 2.7 - 5.5 Vdd, open collector, SO-6L', 'kicadSymbolki_fp_filters': 'SO*6L*10x3.84mm*P1.27mm*'}]|
 ||||

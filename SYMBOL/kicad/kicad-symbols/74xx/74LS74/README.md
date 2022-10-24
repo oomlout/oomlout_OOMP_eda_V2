@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS74|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS74|
 |Hex ID (short code)|hexID|SZK74XX74LS74|
-|Name|name|74LS74|
+|name|name|74LS74|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS74', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '74xx/74hc_hct74.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL DFF', 'kicadSymbolki_description': 'Dual D Flip-flop, Set & Reset', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

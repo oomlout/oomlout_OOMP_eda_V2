@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC33063MNTXG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-MC33063MNTXG|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGMC3363MNTXG|
-|Name|name|MC33063MNTXG|
+|name|name|MC33063MNTXG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC33063MNTXG', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_4x4mm_P0.8mm_EP2.5x3.6mm', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/MC34063A-D.PDF', 'kicadSymbolki_keywords': 'smps buck boost inverting', 'kicadSymbolki_description': '1.5A, step-up/down/inverting switching regulator, 3-40V Vin, 100kHz, DFN-8', 'kicadSymbolki_fp_filters': 'DFN*EP*4x4mm*P0.8mm*'}]|
 ||||

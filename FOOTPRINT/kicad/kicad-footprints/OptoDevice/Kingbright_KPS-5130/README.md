@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Kingbright_KPS-5130|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kingbright_KPS-5130|
 |Hex ID (short code)|hexID|FZKOPKINGBRIGHTKPS513|
-|Name|name|OptoDevice : Kingbright_KPS-5130|
+|name|name|OptoDevice : Kingbright_KPS-5130|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Kingbright_KPS-5130', 'description': 'http://www.kingbright.com/attachments/file/psearch/000/00/00/KPS-5130PD7C(Ver.14).pdf', 'tags': 'KPS-5130 photodiode RGB sensor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Kingbright_KPS-5130.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Kingbright_KPS-5130/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/Kingbright_KPS-5130/kicadPcb3d_450.png

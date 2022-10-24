@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC4365TS8-1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-LTC4365TS8-1|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTLTC4365TS81|
-|Name|name|LTC4365TS8-1|
+|name|name|LTC4365TS8-1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LTC4365TS8', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC4365TS8-1', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/4365fa.pdf', 'kicadSymbolki_keywords': 'overvoltage undervoltage reverse-polarity protection', 'kicadSymbolki_description': 'Overvoltage, Undervoltage and Reverse Supply Protection Controller, TSOT23-8 package, 1ms fault recovery', 'kicadSymbolki_fp_filters': '*SOT?23*'}]|
 ||||

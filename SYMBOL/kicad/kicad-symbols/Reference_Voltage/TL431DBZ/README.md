@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TL431DBZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-TL431DBZ|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGETL431DBZ|
-|Name|name|TL431DBZ|
+|name|name|TL431DBZ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TL431DBZ', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tl431.pdf', 'kicadSymbolki_keywords': 'diode device shunt regulator', 'kicadSymbolki_description': 'Shunt Regulator, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

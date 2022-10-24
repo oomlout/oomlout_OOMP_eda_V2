@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Fairchild_TO-220F-6L|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-Fairchild_TO-220F-6L|
 |Hex ID (short code)|hexID|FZKSOTFAIRCHILDTO22F6L|
-|Name|name|Package_TO_SOT_THT : Fairchild_TO-220F-6L|
+|name|name|Package_TO_SOT_THT : Fairchild_TO-220F-6L|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Fairchild_TO-220F-6L', 'description': 'Fairchild TO-220F-6L, http://www.mouser.com/ds/2/149/FSL136MRT-113334.pdf', 'tags': 'Fairchild TO-220F-6L', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/Fairchild_TO-220F-6L.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/Fairchild_TO-220F-6L/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/Fairchild_TO-220F-6L/kicadPcb3d_450.png

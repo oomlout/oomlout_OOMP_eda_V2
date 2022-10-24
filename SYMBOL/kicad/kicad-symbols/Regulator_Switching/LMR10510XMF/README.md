@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LMR10510XMF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR10510XMF|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLMR151XMF|
-|Name|name|LMR10510XMF|
+|name|name|LMR10510XMF|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LMR10510XMF', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lmr10510.pdf', 'kicadSymbolki_keywords': 'Miniature Step-Down Buck Voltage Regulator', 'kicadSymbolki_description': '1A, 5.5V Step-Down Voltage Regulator, 1.6MHz Frequency, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

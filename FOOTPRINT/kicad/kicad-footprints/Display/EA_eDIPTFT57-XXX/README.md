@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|EA_eDIPTFT57-XXX|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-EA_eDIPTFT57-XXX|
 |Hex ID (short code)|hexID|FZKDIEAEDIPTFT57XXX|
-|Name|name|Display : EA_eDIPTFT57-XXX|
+|name|name|Display : EA_eDIPTFT57-XXX|
 |Footprint Kicad|footprintKicadDetails|{'name': 'EA_eDIPTFT57-XXX', 'description': 'http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft57-ae.pdf', 'tags': 'TFT-graphic display 640x480 16 bit colour', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display.3dshapes/EA_eDIPTFT57-XXX.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/EA_eDIPTFT57-XXX/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Display/EA_eDIPTFT57-XXX/kicadPcb3d_450.png

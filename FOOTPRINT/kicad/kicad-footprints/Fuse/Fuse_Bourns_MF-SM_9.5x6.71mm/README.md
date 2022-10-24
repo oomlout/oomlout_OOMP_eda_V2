@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Fuse_Bourns_MF-SM_9.5x6.71mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-SM_9.5x6.71mm|
 |Hex ID (short code)|hexID|FZKFUFUBOURNSMFSM95X671|
-|Name|name|Fuse : Fuse_Bourns_MF-SM_9.5x6.71mm|
+|name|name|Fuse : Fuse_Bourns_MF-SM_9.5x6.71mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Fuse_Bourns_MF-SM_9.5x6.71mm', 'description': 'https://www.bourns.com/docs/Product-Datasheets/mfsm.pdf', 'tags': 'bourns ptc resettable fuse polyfuse MF-SM MF-SMHT', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Bourns_MF-SM_9.5x6.71mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Bourns_MF-SM_9.5x6.71mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_Bourns_MF-SM_9.5x6.71mm/kicadPcb3d_450.png

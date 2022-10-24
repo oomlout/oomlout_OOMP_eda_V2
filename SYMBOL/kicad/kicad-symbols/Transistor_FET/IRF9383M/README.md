@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF9383M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF9383M|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF9383M|
-|Name|name|IRF9383M|
+|name|name|IRF9383M|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF9383M', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_MX', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irf9383mpbf.pdf?fileId=5546d462533600a40153561169a11dab', 'kicadSymbolki_keywords': 'P-Channel MOSFET', 'kicadSymbolki_description': '-22A Id, -30V Vds, 2.9mOhm Rds, P-Channel MOSFET, DirectFET MX', 'kicadSymbolki_fp_filters': 'DirectFET*MX*'}]|
 ||||

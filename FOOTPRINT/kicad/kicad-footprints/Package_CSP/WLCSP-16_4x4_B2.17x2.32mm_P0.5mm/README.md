@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|WLCSP-16_4x4_B2.17x2.32mm_P0.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-16_4x4_B2.17x2.32mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKCSPWLCSP164X4B217X232P5|
-|Name|name|Package_CSP : WLCSP-16_4x4_B2.17x2.32mm_P0.5mm|
+|name|name|Package_CSP : WLCSP-16_4x4_B2.17x2.32mm_P0.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'WLCSP-16_4x4_B2.17x2.32mm_P0.5mm', 'description': 'WLCSP-16, http://www.nxp.com/documents/data_sheet/LPC1102_1104.pdf, http://www.nxp.com/assets/documents/data/en/application-notes/AN3846.pdf', 'tags': 'WLCSP-16 NXP', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-16_4x4_B2.17x2.32mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/WLCSP-16_4x4_B2.17x2.32mm_P0.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_CSP/WLCSP-16_4x4_B2.17x2.32mm_P0.5mm/kicadPcb3d_450.png

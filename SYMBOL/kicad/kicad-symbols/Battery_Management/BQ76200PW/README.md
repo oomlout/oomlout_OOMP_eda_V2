@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BQ76200PW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-BQ76200PW|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTBQ762PW|
-|Name|name|BQ76200PW|
+|name|name|BQ76200PW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BQ76200PW', 'kicadSymbolFootprint': 'Package_SO:TSSOP-16_4.4x5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/bq76200.pdf', 'kicadSymbolki_keywords': 'Battery Pack Charge/Discharge High-Side', 'kicadSymbolki_description': 'High Voltage Battery Pack Front-End Charge/Discharge High-Side NFET Driver, TSSOP-16', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x5mm*P0.65mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC12HV609-IMC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12HV609-IMC|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC12PIC12HV69IMC|
-|Name|name|PIC12HV609-IMC|
+|name|name|PIC12HV609-IMC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC12HV609-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC12HV609-IMC', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41302D.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller High Voltage', 'kicadSymbolki_description': 'PIC12HV609, 1024W Flash, 64B SRAM, DFN8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

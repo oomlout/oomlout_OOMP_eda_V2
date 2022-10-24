@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O333-01-R4O333-C25779|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O333-01-R4O333-C25779|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE42XO3331R4O333C25779|
-|Name|name|RESE-0402-X-O333-01-R4O333-C25779|
+|name|name|RESE-0402-X-O333-01-R4O333-C25779|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O333-01-R4O333-C25779', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O333-01-R4O333-C25779', 'kicadSymbolDatasheet': 'oom.lt/R4O333', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R4O333;PARTL C-JLCC;C25779;MANUF C-XXXX;0402WGF3302TCE;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

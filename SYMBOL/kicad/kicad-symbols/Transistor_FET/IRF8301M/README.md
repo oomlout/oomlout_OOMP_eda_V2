@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF8301M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF8301M|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF831M|
-|Name|name|IRF8301M|
+|name|name|IRF8301M|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IRF6613', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF8301M', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_MT', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irf8301mpbf.pdf?fileId=5546d462533600a40153560d0e7a1d58', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '34A Id, 30V Vds, 1.5mOhm Rds, N-Channel MOSFET, DirectFET MT', 'kicadSymbolki_fp_filters': 'DirectFET*MT*'}]|
 ||||

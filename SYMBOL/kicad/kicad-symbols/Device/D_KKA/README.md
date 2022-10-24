@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_KKA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_KKA|
 |Hex ID (short code)|hexID|SZKDEVICEDKKA|
-|Name|name|D_KKA|
+|name|name|D_KKA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_KKA', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Diode, cathode on pins 1 and 2', 'kicadSymbolki_fp_filters': 'TO-???* *_Diode_* *SingleDiode* D_*'}]|
 ||||

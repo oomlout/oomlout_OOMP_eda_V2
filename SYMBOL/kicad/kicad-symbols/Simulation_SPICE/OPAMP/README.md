@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPAMP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Simulation_SPICE-OPAMP|
 |Hex ID (short code)|hexID|SZKSIMULATIONSPICEOPAMP|
-|Name|name|OPAMP|
+|name|name|OPAMP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPAMP', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolSpice_Netlist_Enabled': 'Y', 'kicadSymbolSpice_Primitive': 'X', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Operational amplifier, single, node sequence=1:+ 2:- 3:OUT 4:V+ 5:V-'}]|
 ||||

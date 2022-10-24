@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC6VHX565T-FF1924|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VHX565T-FF1924|
 |Hex ID (short code)|hexID|SZKFPGAXILINXVIRTEX6XC6VHX565TFF1924|
-|Name|name|XC6VHX565T-FF1924|
+|name|name|XC6VHX565T-FF1924|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC6VHX565T-FF1924', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Virtex 6 HXT 565 XC6VHX565T-FF1924'}]|
 ||||

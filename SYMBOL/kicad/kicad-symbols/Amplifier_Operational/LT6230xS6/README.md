@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT6230xS6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LT6230xS6|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALLT623XS6|
-|Name|name|LT6230xS6|
+|name|name|LT6230xS6|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT6230xS6', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-6', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/623012fc.pdf', 'kicadSymbolki_keywords': 'opamp operational amplifier single', 'kicadSymbolki_description': '215 MHz, Rail-to-Rail Output, Amplifier, TSOT-23-6', 'kicadSymbolki_fp_filters': 'TSOT*23*'}]|
 ||||

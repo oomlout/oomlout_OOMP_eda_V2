@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|US2MA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-US2MA|
 |Hex ID (short code)|hexID|SZKDIODEUS2MA|
-|Name|name|US2MA|
+|name|name|US2MA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MRA4003T3G', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'US2MA', 'kicadSymbolFootprint': 'Diode_SMD:D_SMA', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/US2AA-D.PDF', 'kicadSymbolki_keywords': 'Super Fast', 'kicadSymbolki_description': '1000V, 1.5A, General Purpose Rectifier Diode, SMA(DO-214AC)', 'kicadSymbolki_fp_filters': 'D*SMA*'}]|
 ||||

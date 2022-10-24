@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS613226ADBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS613226ADBV|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS613226ADBV|
-|Name|name|TPS613226ADBV|
+|name|name|TPS613226ADBV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS613221ADBV', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS613226ADBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps61322.pdf', 'kicadSymbolki_keywords': 'Boost converter', 'kicadSymbolki_description': '1.2A Step-Up Converter, 3.6V Output Voltage, 0.9-5.5V Input Voltage, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

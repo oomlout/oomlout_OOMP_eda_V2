@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM317L_TO92|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM317L_TO92|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM317LTO92|
-|Name|name|LM317L_TO92|
+|name|name|LM317L_TO92|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM317L_TO92', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/snvs775k/snvs775k.pdf', 'kicadSymbolki_keywords': 'Adjustable Voltage Regulator 100mA Positive', 'kicadSymbolki_description': '100mA 35V Adjustable Linear Regulator, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

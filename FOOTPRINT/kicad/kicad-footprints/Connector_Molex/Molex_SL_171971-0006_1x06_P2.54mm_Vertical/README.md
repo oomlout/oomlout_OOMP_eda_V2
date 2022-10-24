@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Molex_SL_171971-0006_1x06_P2.54mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SL_171971-0006_1x06_P2.54mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNMXMXSL17197161X6P254VERTICAL|
-|Name|name|Connector_Molex : Molex_SL_171971-0006_1x06_P2.54mm_Vertical|
+|name|name|Connector_Molex : Molex_SL_171971-0006_1x06_P2.54mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Molex_SL_171971-0006_1x06_P2.54mm_Vertical', 'description': 'Molex Stackable Linear Connector, 171971-0006 (compatible alternatives: 171971-0106, 171971-0206), 6 Pins per row (https://www.molex.com/pdm_docs/sd/1719710002_sd.pdf), generated with kicad-footprint-generator', 'tags': 'connector Molex SL vertical', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_SL_171971-0006_1x06_P2.54mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_SL_171971-0006_1x06_P2.54mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_SL_171971-0006_1x06_P2.54mm_Vertical/kicadPcb3d_450.png

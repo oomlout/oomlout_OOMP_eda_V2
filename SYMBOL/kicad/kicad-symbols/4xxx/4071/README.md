@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4071|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx-4071|
 |Hex ID (short code)|hexID|SZK4XXX471|
-|Name|name|4071|
+|name|name|4071|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4071', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4071bms-72bms-75bms.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'CMOS OR2', 'kicadSymbolki_description': 'Quad Or 2 inputs', 'kicadSymbolki_fp_filters': 'DIP?14*'}]|
 ||||

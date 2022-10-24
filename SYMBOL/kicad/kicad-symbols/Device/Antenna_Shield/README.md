@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Antenna_Shield|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Antenna_Shield|
 |Hex ID (short code)|hexID|SZKDEVICEANTENNASH|
-|Name|name|Antenna_Shield|
+|name|name|Antenna_Shield|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'AE', 'kicadSymbolValue': 'Antenna_Shield', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'antenna', 'kicadSymbolki_description': 'Antenna with extra pin for shielding'}]|
 ||||

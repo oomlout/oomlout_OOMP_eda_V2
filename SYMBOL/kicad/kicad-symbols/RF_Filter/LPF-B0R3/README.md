@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|LPF-B0R3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Filter-LPF-B0R3|
 |Hex ID (short code)|hexID|SZKRFFILLPFBR3|
-|Name|name|LPF-B0R3|
+|name|name|LPF-B0R3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LPF-B0R3', 'kicadSymbolFootprint': 'RF_Mini-Circuits:Mini-Circuits_HZ1198_LandPatternPL-247', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/LPF-B0R3+.pdf', 'kicadSymbolki_keywords': 'low pass filter', 'kicadSymbolki_description': 'Low Pass Filter, DC to 0.3 MHz, 50 Ohm, Mini-Circuits HZ1198', 'kicadSymbolki_fp_filters': 'Mini?Circuits*HZ1198*'}]|
 ||||

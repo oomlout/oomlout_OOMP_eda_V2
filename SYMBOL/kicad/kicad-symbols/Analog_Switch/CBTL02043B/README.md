@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CBTL02043B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-CBTL02043B|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHCBTL243B|
-|Name|name|CBTL02043B|
+|name|name|CBTL02043B|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CBTL02043B', 'kicadSymbolFootprint': 'Package_DFN_QFN:WQFN-20-1EP_2.5x4.5mm_P0.5mm_EP1x2.9mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/CBTL02043A_CBTL02043B.pdf', 'kicadSymbolki_keywords': 'Multiplexer Demultiplexer Switch Hi-Speed', 'kicadSymbolki_description': '3.3 V, 2 differential channel, 2:1 MUX/deMUX switch, 10 Gbps, WQFN-20', 'kicadSymbolki_fp_filters': 'WQFN*1EP*2.5x4.5mm*P0.5mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F051T8Yx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F051T8Yx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32FSTM32F51T8YX|
-|Name|name|STM32F051T8Yx|
+|name|name|STM32F051T8Yx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F051T8Yx', 'kicadSymbolFootprint': 'Package_CSP:ST_WLCSP-36_Die440', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00039193.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M0 STM32F0 STM32F0x1', 'kicadSymbolki_description': 'ARM Cortex-M0 MCU, 64KB flash, 8KB RAM, 48MHz, 2-3.6V, 29 GPIO, WLCSP-36', 'kicadSymbolki_fp_filters': 'ST_WLCSP*Die440*'}]|
 ||||

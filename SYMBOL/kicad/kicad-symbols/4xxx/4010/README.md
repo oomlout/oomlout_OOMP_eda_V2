@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4010|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx-4010|
 |Hex ID (short code)|hexID|SZK4XXX41|
-|Name|name|4010|
+|name|name|4010|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4010', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/cd4010b-q1.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'CMOS BUFFER high sink, VCC and VDD sep. VDD>VI>VCC!', 'kicadSymbolki_description': 'Hex Buffer', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

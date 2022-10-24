@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ZXCT1109|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Current-ZXCT1109|
 |Hex ID (short code)|hexID|SZKAMPLIFIERCURRENTZXCT119|
-|Name|name|ZXCT1109|
+|name|name|ZXCT1109|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ZXCT1109', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/ZXCT1107_10.pdf', 'kicadSymbolki_keywords': 'High side current monitor shunt', 'kicadSymbolki_description': 'Low Power High-Side Current Monitors, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

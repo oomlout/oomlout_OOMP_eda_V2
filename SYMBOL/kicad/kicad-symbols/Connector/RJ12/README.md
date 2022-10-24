@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RJ12|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-RJ12|
 |Hex ID (short code)|hexID|SZKCNRJ12|
-|Name|name|RJ12|
+|name|name|RJ12|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '6P6C', 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'RJ12', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': '6P6C RJ female connector', 'kicadSymbolki_description': 'RJ connector, 6P6C (6 positions 6 connected)', 'kicadSymbolki_fp_filters': '6P6C* RJ12* RJ18* RJ25*'}]|
 ||||

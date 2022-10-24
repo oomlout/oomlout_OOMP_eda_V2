@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS3808DBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Supervisor-TPS3808DBV|
 |Hex ID (short code)|hexID|SZKPOWERSUPERVISORTPS388DBV|
-|Name|name|TPS3808DBV|
+|name|name|TPS3808DBV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS3808DBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps3808.pdf', 'kicadSymbolki_keywords': 'supply voltage supervisor', 'kicadSymbolki_description': 'Low-Quiescent-Current, Programmable-Delay Supervisory Circuit, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

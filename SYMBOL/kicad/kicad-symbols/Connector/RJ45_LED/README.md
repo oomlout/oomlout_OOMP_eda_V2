@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RJ45_LED|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-RJ45_LED|
 |Hex ID (short code)|hexID|SZKCNRJ45L|
-|Name|name|RJ45_LED|
+|name|name|RJ45_LED|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '8P8C_LED', 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'RJ45_LED', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': '8P8C RJ female connector led', 'kicadSymbolki_description': 'RJ connector, 8P8C (8 positions 8 connected), two LEDs', 'kicadSymbolki_fp_filters': '8P8C* RJ45*'}]|
 ||||

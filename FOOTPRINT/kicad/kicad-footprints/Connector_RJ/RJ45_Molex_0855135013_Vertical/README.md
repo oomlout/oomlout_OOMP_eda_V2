@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|RJ45_Molex_0855135013_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Molex_0855135013_Vertical|
 |Hex ID (short code)|hexID|FZKCNRJRJ45MX85513513VERTICAL|
-|Name|name|Connector_RJ : RJ45_Molex_0855135013_Vertical|
+|name|name|Connector_RJ : RJ45_Molex_0855135013_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RJ45_Molex_0855135013_Vertical', 'description': '1 Port, RJ45, Series 85513, vertical, SMD, https://www.molex.com/pdm_docs/sd/855135013_sd.pdf', 'tags': 'RJ45 Vertical', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Molex_0855135013_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Molex_0855135013_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Molex_0855135013_Vertical/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAT41|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAT41|
 |Hex ID (short code)|hexID|SZKDIODEBAT41|
-|Name|name|BAT41|
+|name|name|BAT41|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N6263', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAT41', 'kicadSymbolFootprint': 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/85659/bat41.pdf', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '100V 0.1A Small Signal Schottky Diode, DO-35', 'kicadSymbolki_fp_filters': 'D*DO?35*'}]|
 ||||

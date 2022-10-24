@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM4811|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4811|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOLM4811|
-|Name|name|LM4811|
+|name|name|LM4811|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM4811', 'kicadSymbolFootprint': 'Package_SO:TSSOP-10_3x3mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm4811.pdf', 'kicadSymbolki_keywords': 'audio amplifier headphone 2ch', 'kicadSymbolki_description': 'Boomer Dual 105mW Headphone Amplifier with Digital Volume Control and Shutdown Mode, VSSOP-10', 'kicadSymbolki_fp_filters': 'TSSOP*3x3mm*P0.5mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX9715ETE+|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MAX9715ETE+|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOMAX9715ETE+|
-|Name|name|MAX9715ETE+|
+|name|name|MAX9715ETE+|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX9715ETE+', 'kicadSymbolFootprint': 'Package_DFN_QFN:TQFN-16-1EP_5x5mm_P0.8mm_EP3.1x3.1mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX9715.pdf', 'kicadSymbolki_keywords': 'Class-D Stereo', 'kicadSymbolki_description': '2.8W, Low-EMI, Stereo, Filterless Class D Audio Amplifier, TQFN-16', 'kicadSymbolki_fp_filters': 'TQFN*1EP*5x5mm*P0.8mm*'}]|
 ||||

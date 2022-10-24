@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HX04-P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-HX04-P|
 |Hex ID (short code)|hexID|SZKSENCURRENTHX4P|
-|Name|name|HX04-P|
+|name|name|HX04-P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HX04-P', 'kicadSymbolFootprint': 'Sensor_Current:LEM_HX04-P', 'kicadSymbolDatasheet': 'https://www.lem.com/sites/default/files/products_datasheets/hx%202_6-p_e%20v5.pdf', 'kicadSymbolki_keywords': 'current transducer', 'kicadSymbolki_description': 'Current Transducer, 4A, Bipolar, +/-15V', 'kicadSymbolki_fp_filters': 'LEM*HX04*P*'}]|
 ||||

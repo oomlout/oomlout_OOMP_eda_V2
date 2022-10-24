@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MKL17Z64VFM4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL17Z64VFM4|
 |Hex ID (short code)|hexID|SZKMCUNXPKINETISMKL17Z64VFM4|
-|Name|name|MKL17Z64VFM4|
+|name|name|MKL17Z64VFM4|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MKL17Z64VFM4', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/docs/en/data-sheet/KL17P64M48SF2.pdf', 'kicadSymbolki_keywords': 'Kinetis KL17 ARM Cortex M0+', 'kicadSymbolki_description': 'Kinetis KL17 series, 48-MHz/32-bit ARM Cortex-M0+, 64 kB flash, 16 kB SRAM, FlexIO, QFN-32', 'kicadSymbolki_fp_filters': 'QFN*5x5mm*P0.5mm*'}]|
 ||||

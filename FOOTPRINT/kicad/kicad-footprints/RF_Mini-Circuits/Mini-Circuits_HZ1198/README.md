@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Mini-Circuits_HZ1198|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_HZ1198|
 |Hex ID (short code)|hexID|FZKRFMCIRCUITSHZ1198|
-|Name|name|RF_Mini-Circuits : Mini-Circuits_HZ1198|
+|name|name|RF_Mini-Circuits : Mini-Circuits_HZ1198|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Mini-Circuits_HZ1198', 'description': 'Footprint for Mini-Circuits case HZ1198 (https://ww2.minicircuits.com/case_style/HZ1198.pdf)', 'tags': 'Mini-Circuits HZ1198', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_HZ1198.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

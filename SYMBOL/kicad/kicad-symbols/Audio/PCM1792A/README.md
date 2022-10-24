@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PCM1792A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-PCM1792A|
 |Hex ID (short code)|hexID|SZKAUDIOPCM1792A|
-|Name|name|PCM1792A|
+|name|name|PCM1792A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PCM1792A', 'kicadSymbolFootprint': 'Package_SO:SSOP-28_5.3x10.2mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/pcm1792a.pdf', 'kicadSymbolki_keywords': 'audio dac 2ch 24bit 192kHz', 'kicadSymbolki_description': '24-Bit, 192-kHz Sampling, Advanced Segment, Audio Stereo Digital-to-Analog Converter, SW Control, SSOP-28', 'kicadSymbolki_fp_filters': 'SSOP*5.3x10.2mm*P0.65mm*'}]|
 ||||

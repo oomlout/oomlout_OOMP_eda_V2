@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD7533KR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7533KR|
 |Hex ID (short code)|hexID|SZKANALOGDACAD7533KR|
-|Name|name|AD7533KR|
+|name|name|AD7533KR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD7533KR', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/static/imported-files/data_sheets/AD7533.pdf', 'kicadSymbolki_keywords': '10bit DAC 1CH', 'kicadSymbolki_description': '10bit Multiplying DAC, 1 Channel, SOIC-16', 'kicadSymbolki_fp_filters': 'DIP* PDIP*'}]|
 ||||

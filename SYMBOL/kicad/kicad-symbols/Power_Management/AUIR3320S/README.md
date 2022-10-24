@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AUIR3320S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-AUIR3320S|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTAUIR332S|
-|Name|name|AUIR3320S|
+|name|name|AUIR3320S|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AUIPS7111S', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AUIR3320S', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-4', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/auir3320s.pdf?fileId=5546d462533600a4015355a867d01356', 'kicadSymbolki_keywords': 'high side switch', 'kicadSymbolki_description': 'Low EMI Current Sense High Side Switch, 26V, 55A, D2PAK-5L', 'kicadSymbolki_fp_filters': 'TO?263*'}]|
 ||||

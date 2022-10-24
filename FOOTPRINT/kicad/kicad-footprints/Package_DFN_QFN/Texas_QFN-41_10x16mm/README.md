@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Texas_QFN-41_10x16mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_QFN-41_10x16mm|
 |Hex ID (short code)|hexID|FZKDFNTEXASQFN411X16|
-|Name|name|Package_DFN_QFN : Texas_QFN-41_10x16mm|
+|name|name|Package_DFN_QFN : Texas_QFN-41_10x16mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Texas_QFN-41_10x16mm', 'description': 'QFN, 41 Pin (http://www.ti.com/lit/ml/mpqf506/mpqf506.pdf)', 'tags': 'QFN DFN_QFN', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_QFN-41_10x16mm.wrl', 'pins': {'type': 'smd', 'shape': 'custom'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_QFN-41_10x16mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_QFN-41_10x16mm/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LaserDiode_TO18-D5.6-3|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-LaserDiode_TO18-D5.6-3|
 |Hex ID (short code)|hexID|FZKOPLASERDIODETO18D563|
-|Name|name|OptoDevice : LaserDiode_TO18-D5.6-3|
+|name|name|OptoDevice : LaserDiode_TO18-D5.6-3|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LaserDiode_TO18-D5.6-3', 'description': 'Laser Diode, TO18-like (D=5.6mm), 3pin', 'tags': 'Laser Diode TO18-like', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/LaserDiode_TO18-D5.6-3.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/LaserDiode_TO18-D5.6-3/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/LaserDiode_TO18-D5.6-3/kicadPcb3d_450.png

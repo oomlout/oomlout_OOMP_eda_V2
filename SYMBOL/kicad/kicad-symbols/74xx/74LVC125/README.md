@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LVC125|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LVC125|
 |Hex ID (short code)|hexID|SZK74XX74LVC125|
-|Name|name|74LVC125|
+|name|name|74LVC125|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LS125', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LVC125', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LVC125', 'kicadSymbolki_keywords': 'TTL buffer 3State', 'kicadSymbolki_description': 'Quad buffer 3-State outputs', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

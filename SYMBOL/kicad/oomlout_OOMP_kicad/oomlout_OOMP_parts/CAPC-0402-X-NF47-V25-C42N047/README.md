@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0402-X-NF47-V25-C42N047|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF47-V25-C42N047|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XNF47V25C42N47|
-|Name|name|CAPC-0402-X-NF47-V25-C42N047|
+|name|name|CAPC-0402-X-NF47-V25-C42N047|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0402-X-NF47-V25-C42N047', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0402-X-NF47-V25-C42N047', 'kicadSymbolDatasheet': 'oom.lt/C42N047', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C42N047;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

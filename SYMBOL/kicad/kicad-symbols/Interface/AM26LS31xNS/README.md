@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AM26LS31xNS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-AM26LS31xNS|
 |Hex ID (short code)|hexID|SZKINTERFACEAM26LS31XNS|
-|Name|name|AM26LS31xNS|
+|name|name|AM26LS31xNS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AM26LS31CD', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AM26LS31xNS', 'kicadSymbolFootprint': 'Package_SO:SO-16_5.3x10.2mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/am26ls31.pdf', 'kicadSymbolki_keywords': 'driver rs485 rs422 differential', 'kicadSymbolki_description': '32Mbps 3.3V RS485 Quad Line Drivers, SO-16', 'kicadSymbolki_fp_filters': 'SO*5.3x10.2mm*P1.27mm*'}]|
 ||||

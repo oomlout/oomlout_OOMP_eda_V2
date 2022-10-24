@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX14850AEE+|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-MAX14850AEE+|
 |Hex ID (short code)|hexID|SZKISOLATORMAX1485AEE+|
-|Name|name|MAX14850AEE+|
+|name|name|MAX14850AEE+|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX14850AEE+', 'kicadSymbolFootprint': 'Package_SO:QSOP-16_3.9x4.9mm_P0.635mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX14850.pdf', 'kicadSymbolki_keywords': '6 channel digital isolator bidirectional', 'kicadSymbolki_description': 'Six-channel digital isolator, bidirectional, 3V3, 5V, QSOP-16', 'kicadSymbolki_fp_filters': 'QSOP*3.9x4.9mm*P0.635mm*'}]|
 ||||

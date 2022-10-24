@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Speaker|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Speaker|
 |Hex ID (short code)|hexID|SZKDEVICESPEAKER|
-|Name|name|Speaker|
+|name|name|Speaker|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'LS', 'kicadSymbolValue': 'Speaker', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'speaker sound', 'kicadSymbolki_description': 'Speaker'}]|
 ||||

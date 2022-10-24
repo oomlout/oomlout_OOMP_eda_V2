@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Q_Photo_NPN_CBE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Q_Photo_NPN_CBE|
 |Hex ID (short code)|hexID|SZKDEVICEQPHOTONPNCBE|
-|Name|name|Q_Photo_NPN_CBE|
+|name|name|Q_Photo_NPN_CBE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Q_Photo_NPN_CBE', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'phototransistor NPN', 'kicadSymbolki_description': 'NPN phototransistor, collector/base/emitter'}]|
 ||||

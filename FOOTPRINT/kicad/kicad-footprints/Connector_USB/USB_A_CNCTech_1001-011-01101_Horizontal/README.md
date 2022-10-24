@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB_A_CNCTech_1001-011-01101_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_CNCTech_1001-011-01101_Horizontal|
 |Hex ID (short code)|hexID|FZKCNUUACNCTECH1111111HORIZONTAL|
-|Name|name|Connector_USB : USB_A_CNCTech_1001-011-01101_Horizontal|
+|name|name|Connector_USB : USB_A_CNCTech_1001-011-01101_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB_A_CNCTech_1001-011-01101_Horizontal', 'description': 'USB type A Plug, Horizontal, http://cnctech.us/pdfs/1001-011-01101.pdf', 'tags': 'USB-A', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_A_CNCTech_1001-011-01101_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_A_CNCTech_1001-011-01101_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_A_CNCTech_1001-011-01101_Horizontal/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F072CBYx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F072CBYx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32FSTM32F72CBYX|
-|Name|name|STM32F072CBYx|
+|name|name|STM32F072CBYx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F072CBYx', 'kicadSymbolFootprint': 'Package_CSP:ST_WLCSP-49_Die448', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00090510.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M0 STM32F0 STM32F0x2', 'kicadSymbolki_description': 'ARM Cortex-M0 MCU, 128KB flash, 16KB RAM, 48MHz, 2-3.6V, 37 GPIO, WLCSP-49', 'kicadSymbolki_fp_filters': 'ST_WLCSP*Die448*'}]|
 ||||

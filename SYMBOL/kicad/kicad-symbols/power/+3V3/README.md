@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|+3V3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-+3V3|
 |Hex ID (short code)|hexID|SZKPOWER+3V3|
-|Name|name|+3V3|
+|name|name|+3V3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': '+3V3', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "+3V3"'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LEM_HTFS|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_HTFS|
 |Hex ID (short code)|hexID|FZKSENCURRENTLEMHTFS|
-|Name|name|Sensor_Current : LEM_HTFS|
+|name|name|Sensor_Current : LEM_HTFS|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LEM_HTFS', 'description': 'LEM HTFS x00-P current transducer (https://www.lem.com/sites/default/files/products_datasheets/htfs_200_800-p.pdf)', 'tags': 'HTFS current transducer', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/LEM_HTFS.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||

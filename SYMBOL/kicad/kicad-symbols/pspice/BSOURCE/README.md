@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BSOURCE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-pspice-BSOURCE|
 |Hex ID (short code)|hexID|SZKPSPICEBSOURCE|
-|Name|name|BSOURCE|
+|name|name|BSOURCE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'B', 'kicadSymbolValue': 'BSOURCE', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ltwiki.org/?title=B_sources_%28complete_reference%29', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Arbitrary behavioral voltage or current source'}]|
 ||||

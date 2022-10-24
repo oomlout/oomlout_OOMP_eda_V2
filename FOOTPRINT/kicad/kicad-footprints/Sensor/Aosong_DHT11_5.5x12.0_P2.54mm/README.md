@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Aosong_DHT11_5.5x12.0_P2.54mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor-Aosong_DHT11_5.5x12.0_P2.54mm|
 |Hex ID (short code)|hexID|FZKSENAOSONGDHT1155X12P254|
-|Name|name|Sensor : Aosong_DHT11_5.5x12.0_P2.54mm|
+|name|name|Sensor : Aosong_DHT11_5.5x12.0_P2.54mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Aosong_DHT11_5.5x12.0_P2.54mm', 'description': 'Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf', 'tags': 'Temperature and humidity module', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor.3dshapes/Aosong_DHT11_5.5x12.0_P2.54mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

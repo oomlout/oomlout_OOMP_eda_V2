@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLP785|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-TLP785|
 |Hex ID (short code)|hexID|SZKISOLATORTLP785|
-|Name|name|TLP785|
+|name|name|TLP785|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLP785', 'kicadSymbolFootprint': 'Package_DIP:DIP-4_W7.62mm', 'kicadSymbolDatasheet': 'https://toshiba.semicon-storage.com/info/docget.jsp?did=10569&prodName=TLP785', 'kicadSymbolki_keywords': 'NPN DC Optocoupler', 'kicadSymbolki_description': 'DC Optocoupler, Vce 80V, CTR 50-200%, DIP4', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

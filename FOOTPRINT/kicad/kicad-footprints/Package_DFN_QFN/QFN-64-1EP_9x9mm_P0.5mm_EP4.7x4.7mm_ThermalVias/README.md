@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|QFN-64-1EP_9x9mm_P0.5mm_EP4.7x4.7mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-64-1EP_9x9mm_P0.5mm_EP4.7x4.7mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNQFN641EP9X9P5EP47X47THERMALVIAS|
-|Name|name|Package_DFN_QFN : QFN-64-1EP_9x9mm_P0.5mm_EP4.7x4.7mm_ThermalVias|
+|name|name|Package_DFN_QFN : QFN-64-1EP_9x9mm_P0.5mm_EP4.7x4.7mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'QFN-64-1EP_9x9mm_P0.5mm_EP4.7x4.7mm_ThermalVias', 'description': 'QFN, 64 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/60001477A.pdf (page 1083)), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-64-1EP_9x9mm_P0.5mm_EP4.7x4.7mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-64-1EP_9x9mm_P0.5mm_EP4.7x4.7mm_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-64-1EP_9x9mm_P0.5mm_EP4.7x4.7mm_ThermalVias/kicadPcb3d_450.png

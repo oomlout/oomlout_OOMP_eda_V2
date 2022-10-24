@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm|
 |Hex ID (short code)|hexID|FZKXXSMMXCC7VT1A2PIN32X15|
-|Name|name|Crystal : Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm|
+|name|name|Crystal : Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm', 'description': 'SMD Crystal MicroCrystal CC7V-T1A/CM7V-T1A series https://www.microcrystal.com/fileadmin/Media/Products/32kHz/Datasheet/CC7V-T1A.pdf, 3.2x1.5mm^2 package', 'tags': 'SMD SMT crystal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm/kicadPcb3d_450.png

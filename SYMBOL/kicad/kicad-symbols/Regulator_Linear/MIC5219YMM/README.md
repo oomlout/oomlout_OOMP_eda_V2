@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MIC5219YMM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5219YMM|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMIC5219Y|
-|Name|name|MIC5219YMM|
+|name|name|MIC5219YMM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MIC5219YMM', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/MIC5219-500mA-Peak-Output-LDO-Regulator-DS20006021A.pdf', 'kicadSymbolki_keywords': '500mA ultra-low-noise LDO linear voltage regulator adjustable positive', 'kicadSymbolki_description': '500mA low dropout linear regulator, adjustable output, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
 ||||

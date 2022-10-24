@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC7A15T-FGG484|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Artix7-XC7A15T-FGG484|
 |Hex ID (short code)|hexID|SZKFPGAXILINXARTIX7XC7A15TFGG484|
-|Name|name|XC7A15T-FGG484|
+|name|name|XC7A15T-FGG484|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC7A15T-FGG484', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Artix 7 T 15 XC7A15T-FGG484'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|B80C2300-1500B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Bridge-B80C2300-1500B|
 |Hex ID (short code)|hexID|SZKDIODEBRIDGEB8C2315B|
-|Name|name|B80C2300-1500B|
+|name|name|B80C2300-1500B|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'B40C2300-1500B', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'B80C2300-1500B', 'kicadSymbolFootprint': 'Diode_THT:Diode_Bridge_19.0x3.5x10.0mm_P5.0mm', 'kicadSymbolDatasheet': 'https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40c2300.pdf', 'kicadSymbolki_keywords': 'rectifier acdc', 'kicadSymbolki_description': 'Silicon Bridge Rectifier, 80V Vrms, 1.5A If, pins=-A+A, SIL-package', 'kicadSymbolki_fp_filters': 'D*Bridge*19.0x3.5x10.0mm*P5.0mm*'}]|
 ||||

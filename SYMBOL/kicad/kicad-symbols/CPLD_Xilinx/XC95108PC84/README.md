@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC95108PC84|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC95108PC84|
 |Hex ID (short code)|hexID|SZKCPLDXILINXXC9518PC84|
-|Name|name|XC95108PC84|
+|name|name|XC95108PC84|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC95108PC84', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'xilinx/xc95108.pdf', 'kicadSymbolki_description': 'Xilinx CPLD, Obsolete'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_TDK_SLF6025|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_SLF6025|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLTDKSLF625|
-|Name|name|Inductor_SMD : L_TDK_SLF6025|
+|name|name|Inductor_SMD : L_TDK_SLF6025|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_TDK_SLF6025', 'description': 'Inductor, TDK, SLF6025, 6.0mmx6.0mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/document/catalog/smd/inductor_commercial_power_slf6025_en.pdf)', 'tags': 'Inductor TDK_SLF6025', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_TDK_SLF6025.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_TDK_SLF6025/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_TDK_SLF6025/kicadPcb3d_450.png

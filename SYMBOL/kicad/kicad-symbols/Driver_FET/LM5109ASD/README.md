@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM5109ASD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-LM5109ASD|
 |Hex ID (short code)|hexID|SZKDRIVERFETLM519ASD|
-|Name|name|LM5109ASD|
+|name|name|LM5109ASD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM5109ASD', 'kicadSymbolFootprint': 'Package_SON:WSON-8-1EP_4x4mm_P0.8mm_EP2.6x3mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm5109a.pdf', 'kicadSymbolki_keywords': 'Half-Bridge Gate Driver', 'kicadSymbolki_description': 'Half-Bridge Gate Driver, Output Current 1.0A, 100V, WSON-8', 'kicadSymbolki_fp_filters': 'WSON*1EP*4x4mm*P0.8mm*'}]|
 ||||

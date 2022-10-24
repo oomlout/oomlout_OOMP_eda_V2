@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74CBT1G384|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-74CBT1G384|
 |Hex ID (short code)|hexID|SZK74XGXX74CBT1G384|
-|Name|name|74CBT1G384|
+|name|name|74CBT1G384|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74CBT1G384', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf', 'kicadSymbolki_keywords': 'Single FET Bus Switch', 'kicadSymbolki_description': 'Single FET Bus Switch', 'kicadSymbolki_fp_filters': 'SOT* SC*'}]|
 ||||

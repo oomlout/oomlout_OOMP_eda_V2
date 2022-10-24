@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD623ARZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD623ARZ|
 |Hex ID (short code)|hexID|SZKAMPLIFIERINSTRUMENTATIONAD623ARZ|
-|Name|name|AD623ARZ|
+|name|name|AD623ARZ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AD623AR', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD623ARZ', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD623.pdf', 'kicadSymbolki_keywords': 'ad623 instumentation amplifier soic-8', 'kicadSymbolki_description': 'Single Supply, Rail to Rail, Instumentation Amplifier, RoHS, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC-8*'}]|
 ||||

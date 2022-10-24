@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC1865-MS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1865-MS|
 |Hex ID (short code)|hexID|SZKANALOGADCLTC1865MS|
-|Name|name|LTC1865-MS|
+|name|name|LTC1865-MS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LTC1865L-MS', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC1865-MS', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/18645fb.pdf', 'kicadSymbolki_keywords': 'sigma-delta adc 2ch', 'kicadSymbolki_description': 'Dual channel 16-bit Analog to Digital Converter, 5V supply, 150ksps, SPI interface', 'kicadSymbolki_fp_filters': 'MSOP-10*'}]|
 ||||

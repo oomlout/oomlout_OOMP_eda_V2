@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-50-3_ShortPad-NoHole_Housing|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-50-3_ShortPad-NoHole_Housing|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMTO53SHORTPADNHHOUSING|
-|Name|name|Package_TO_SOT_SMD : TO-50-3_ShortPad-NoHole_Housing|
+|name|name|Package_TO_SOT_SMD : TO-50-3_ShortPad-NoHole_Housing|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-50-3_ShortPad-NoHole_Housing', 'description': 'TO-50-3 Macro T Package Style M236', 'tags': 'TO-50-3 Macro T Package Style M236', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-50-3_ShortPad-NoHole_Housing.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-50-3_ShortPad-NoHole_Housing/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-50-3_ShortPad-NoHole_Housing/kicadPcb3d_450.png

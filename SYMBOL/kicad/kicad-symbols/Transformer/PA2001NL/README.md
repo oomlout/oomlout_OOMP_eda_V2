@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PA2001NL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-PA2001NL|
 |Hex ID (short code)|hexID|SZKTRPA21NL|
-|Name|name|PA2001NL|
+|name|name|PA2001NL|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'T', 'kicadSymbolValue': 'PA2001NL', 'kicadSymbolFootprint': 'Transformer_SMD:Pulse_PA2001NL', 'kicadSymbolDatasheet': 'https://productfinder.pulseeng.com/products/datasheets/P663.pdf', 'kicadSymbolki_keywords': 'pulse', 'kicadSymbolki_description': 'SMT Gate Drive Transformer, 1:1', 'kicadSymbolki_fp_filters': 'Pulse*PA2001NL*'}]|
 ||||

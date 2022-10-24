@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PG001M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-PG001M|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORPG1M|
-|Name|name|PG001M|
+|name|name|PG001M|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PG001M', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.allegromicro.com/~/media/Files/Sanken/Datasheets/PG001M-Datasheet.ashx', 'kicadSymbolki_keywords': 'Support IC for SLA7042M/SLA7044M', 'kicadSymbolki_description': 'Parallel to serial data converter for SLA7042M/SLA7044M', 'kicadSymbolki_fp_filters': 'DIP* PDIP*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AH1806-P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AH1806-P|
 |Hex ID (short code)|hexID|SZKSENMAGNETICAH186P|
-|Name|name|AH1806-P|
+|name|name|AH1806-P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AH1806-P', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/AH1806.pdf', 'kicadSymbolki_keywords': 'hall switch', 'kicadSymbolki_description': 'High Sensitivity Micropower Omnipolar Hall-Effect Switch, SIP-3', 'kicadSymbolki_fp_filters': 'Diodes*SIP*4.1x1.5mm*P1.27mm* Diodes*SIP*4.1x1.5mm*P2.65mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC18F2420-xSP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F2420-xSP|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC18PIC18F242XSP|
-|Name|name|PIC18F2420-xSP|
+|name|name|PIC18F2420-xSP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18F2420-xSP', 'kicadSymbolFootprint': 'Package_DIP:DIP-28_W15.24mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/39631E.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8bit CMOS Microcontroller', 'kicadSymbolki_description': 'MCU 16k Flash, 768B SRAM, 256B EEPROM, ADC, DIP-28', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NHD-0420H1Z|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-NHD-0420H1Z|
 |Hex ID (short code)|hexID|SZKDICHARACTERNHD42H1Z|
-|Name|name|NHD-0420H1Z|
+|name|name|NHD-0420H1Z|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NHD-0420H1Z', 'kicadSymbolFootprint': 'Display:NHD-0420H1Z', 'kicadSymbolDatasheet': 'http://www.newhavendisplay.com/specs/NHD-0420H1Z-FSW-GBW-33V3.pdf', 'kicadSymbolki_keywords': 'display LCD 20x4', 'kicadSymbolki_description': 'LCD 20x4 Alphanumeric 16pin Blue/White/Green Backlight, 8bit parallel, 3.3V VDD', 'kicadSymbolki_fp_filters': 'NHD*0420H1Z*'}]|
 ||||

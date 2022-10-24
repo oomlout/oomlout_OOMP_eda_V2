@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TVS0500DRV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-TVS0500DRV|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONTVS5DRV|
-|Name|name|TVS0500DRV|
+|name|name|TVS0500DRV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TVS0500DRV', 'kicadSymbolFootprint': 'Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tvs0500.pdf', 'kicadSymbolki_keywords': 'EMI, ESD, TVS protection transient', 'kicadSymbolki_description': 'Flat-Clamp Surge Protection Device. 5Vrwm, WSON-6', 'kicadSymbolki_fp_filters': 'WSON*1EP*2x2mm*P0.65mm*EP1x1.6mm*'}]|
 ||||

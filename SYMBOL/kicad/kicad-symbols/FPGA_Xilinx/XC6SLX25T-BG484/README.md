@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC6SLX25T-BG484|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC6SLX25T-BG484|
 |Hex ID (short code)|hexID|SZKFPGAXILINXXC6SLX25TBG484|
-|Name|name|XC6SLX25T-BG484|
+|name|name|XC6SLX25T-BG484|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC6SLX25T-BG484', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_description': 'SPARTAN-6  FG484'}]|
 ||||

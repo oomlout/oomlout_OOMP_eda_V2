@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SIP4_Sharp-SSR_P7.62mm_Straight|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP4_Sharp-SSR_P7.62mm_Straight|
 |Hex ID (short code)|hexID|FZKSIPSIP4SHARPSSRP762S|
-|Name|name|Package_SIP : SIP4_Sharp-SSR_P7.62mm_Straight|
+|name|name|Package_SIP : SIP4_Sharp-SSR_P7.62mm_Straight|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SIP4_Sharp-SSR_P7.62mm_Straight', 'description': 'SIP4 Footprint for SSR made by Sharp', 'tags': 'Solid State relais SSR Sharp', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/SIP4_Sharp-SSR_P7.62mm_Straight.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Straight/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Straight/kicadPcb3d_450.png

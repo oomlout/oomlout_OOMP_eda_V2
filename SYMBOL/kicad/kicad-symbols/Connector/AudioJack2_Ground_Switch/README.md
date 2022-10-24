@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AudioJack2_Ground_Switch|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-AudioJack2_Ground_Switch|
 |Hex ID (short code)|hexID|SZKCNAUDIOJ2GROUNDSWITCH|
-|Name|name|AudioJack2_Ground_Switch|
+|name|name|AudioJack2_Ground_Switch|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'AudioJack2_Ground_Switch', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'audio jack receptacle mono headphones phone TS connector', 'kicadSymbolki_description': 'Audio Jack, 2 Poles (Mono / TS), Grounded Sleeve, Switched Pole (Normalling)', 'kicadSymbolki_fp_filters': 'Jack*'}]|
 ||||

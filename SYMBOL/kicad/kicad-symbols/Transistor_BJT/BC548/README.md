@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BC548|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC548|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBC548|
-|Name|name|BC548|
+|name|name|BC548|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BC547', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC548', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/BC550-D.pdf', 'kicadSymbolki_keywords': 'NPN Transistor', 'kicadSymbolki_description': '0.1A Ic, 30V Vce, Small Signal NPN Transistor, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

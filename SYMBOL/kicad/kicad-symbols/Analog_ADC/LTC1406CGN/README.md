@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC1406CGN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1406CGN|
 |Hex ID (short code)|hexID|SZKANALOGADCLTC146CGN|
-|Name|name|LTC1406CGN|
+|name|name|LTC1406CGN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC1406CGN', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1406f.pdf', 'kicadSymbolki_keywords': 'Low Power ADC 8bit 20Msps', 'kicadSymbolki_description': 'ADC 8bit Low Power 20Msps, SSOP-24', 'kicadSymbolki_fp_filters': 'SSOP*'}]|
 ||||

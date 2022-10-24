@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF7606PBF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7606PBF|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF766PBF|
-|Name|name|IRF7606PBF|
+|name|name|IRF7606PBF|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF7606PBF', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.irf.com/product-info/datasheets/data/irf7606pbf.pdf', 'kicadSymbolki_keywords': 'HexFET Power MOSFET P-MOS', 'kicadSymbolki_description': '-3.6A Id, -30V Vds, HexFET P-MOS Power MOSFET, Ronon 0.09R, Micro8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
 ||||

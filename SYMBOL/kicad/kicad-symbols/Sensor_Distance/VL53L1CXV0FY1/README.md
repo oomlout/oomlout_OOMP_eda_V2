@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VL53L1CXV0FY1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Distance-VL53L1CXV0FY1|
 |Hex ID (short code)|hexID|SZKSENDISTANCEVL53L1CXVFY1|
-|Name|name|VL53L1CXV0FY1|
+|name|name|VL53L1CXV0FY1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'VL53L1CXV0FY1', 'kicadSymbolFootprint': 'Sensor_Distance:ST_VL53L1x', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/vl53l1x.pdf', 'kicadSymbolki_keywords': 'VL53L1x ToF', 'kicadSymbolki_description': '4m distance ranging ToF sensor', 'kicadSymbolki_fp_filters': 'ST*VL53L1x*'}]|
 ||||

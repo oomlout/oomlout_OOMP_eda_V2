@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O823-67-R6823A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O823-67-R6823A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO82367R6823A|
-|Name|name|RESE-0603-X-O823-67-R6823A|
+|name|name|RESE-0603-X-O823-67-R6823A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O823-67-R6823A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O823-67-R6823A', 'kicadSymbolDatasheet': 'oom.lt/R6823A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6823A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

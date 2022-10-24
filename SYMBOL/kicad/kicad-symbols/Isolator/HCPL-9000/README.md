@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HCPL-9000|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-HCPL-9000|
 |Hex ID (short code)|hexID|SZKISOLATORHCPL9|
-|Name|name|HCPL-9000|
+|name|name|HCPL-9000|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HCPL-9000', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://docs.broadcom.com/docs/AV02-0137EN', 'kicadSymbolki_keywords': 'digital isolator, high speed', 'kicadSymbolki_description': 'High Speed Digital Isolator, CMOS, excellent transient immunity, active-low logic output enable, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

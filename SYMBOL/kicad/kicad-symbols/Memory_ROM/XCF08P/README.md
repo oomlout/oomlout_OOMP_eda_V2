@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XCF08P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_ROM-XCF08P|
 |Hex ID (short code)|hexID|SZKMEMORYROMXCF8P|
-|Name|name|XCF08P|
+|name|name|XCF08P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XCF08P', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.xilinx.com/support/documentation/data_sheets/ds123.pdf', 'kicadSymbolki_keywords': 'PROM FLASH', 'kicadSymbolki_description': 'Platform Flash In-System PROM'}]|
 ||||

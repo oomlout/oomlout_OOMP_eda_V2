@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-1206-X-O10X-01-R12O1001-C17928|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-1206-X-O10X-01-R12O1001-C17928|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE126XO1X1R12O11C17928|
-|Name|name|RESE-1206-X-O10X-01-R12O1001-C17928|
+|name|name|RESE-1206-X-O10X-01-R12O1001-C17928|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-1206-X-O10X-01-R12O1001-C17928', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-1206-X-O10X-01-R12O1001-C17928', 'kicadSymbolDatasheet': 'oom.lt/R12O1001', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R12O1001;PARTL C-JLCC;C17928;MANUF C-XXXX;1206W4F100KT5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

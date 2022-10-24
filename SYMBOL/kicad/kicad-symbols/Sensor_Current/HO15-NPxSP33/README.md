@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HO15-NPxSP33|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-HO15-NPxSP33|
 |Hex ID (short code)|hexID|SZKSENCURRENTHO15NPXSP33|
-|Name|name|HO15-NPxSP33|
+|name|name|HO15-NPxSP33|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HO8-NPxSP33', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HO15-NPxSP33', 'kicadSymbolFootprint': 'Sensor_Current:LEM_HO8-NP', 'kicadSymbolDatasheet': 'https://www.lem.com/sites/default/files/products_datasheets/ho-np_sp33-1000_series.pdf', 'kicadSymbolki_keywords': 'current transducer', 'kicadSymbolki_description': 'Current Transducer, 15A, Unipolar, 3.3V', 'kicadSymbolki_fp_filters': 'LEM*HO8*NP*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Valve_Glimm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Valve-Valve_Glimm|
 |Hex ID (short code)|hexID|FZKVAVAGLI|
-|Name|name|Valve : Valve_Glimm|
+|name|name|Valve : Valve_Glimm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Valve_Glimm', 'description': 'Valve Glimm', 'tags': 'Valve Glimm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Valve.3dshapes/Valve_Glimm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

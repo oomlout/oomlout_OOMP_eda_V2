@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT3580xMS8E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3580xMS8E|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLT358XMS8E|
-|Name|name|LT3580xMS8E|
+|name|name|LT3580xMS8E|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT3580xMS8E', 'kicadSymbolFootprint': 'Package_SO:MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/3580fg.pdf', 'kicadSymbolki_keywords': 'boost inverting dc-dc', 'kicadSymbolki_description': 'Boost/Inverting DC/DC Converter with 2A Switch, Soft-Start, and Synchronization, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*1EP*3x3mm*P0.65mm*'}]|
 ||||

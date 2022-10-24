@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BUZ11|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BUZ11|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBUZ11|
-|Name|name|BUZ11|
+|name|name|BUZ11|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BUZ11', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'https://media.digikey.com/pdf/Data%20Sheets/Fairchild%20PDFs/BUZ11.pdf', 'kicadSymbolki_keywords': 'N-Channel Power MOSFET', 'kicadSymbolki_description': '30A Id, 50V Vds, N-Channel Power MOSFET, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XCV150_BG352|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XCV150_BG352|
 |Hex ID (short code)|hexID|SZKFPGAXILINXXCV15BG352|
-|Name|name|XCV150_BG352|
+|name|name|XCV150_BG352|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XCV150_BG352', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.xilinx.com/support/documentation/data_sheets/ds003.pdf', 'kicadSymbolki_keywords': 'field programmable gate array', 'kicadSymbolki_description': 'Virtex FPGA'}]|
 ||||

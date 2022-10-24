@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM4041LP-ADJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4041LP-ADJ|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGELM441LPADJ|
-|Name|name|LM4041LP-ADJ|
+|name|name|LM4041LP-ADJ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM4041LP-ADJ', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm4041-n.pdf', 'kicadSymbolki_keywords': 'diode device voltage reference shunt', 'kicadSymbolki_description': 'Adjustable Precision Micropower Shunt Voltage Reference, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

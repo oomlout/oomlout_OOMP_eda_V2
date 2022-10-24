@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC6993xS6-1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-LTC6993xS6-1|
 |Hex ID (short code)|hexID|SZKTIMERLTC6993XS61|
-|Name|name|LTC6993xS6-1|
+|name|name|LTC6993xS6-1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC6993xS6-1', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-6', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/69931234fc.pdf', 'kicadSymbolki_keywords': 'Timer TimerBlox monostable pulse', 'kicadSymbolki_description': 'TimerBlox Monostable Pulse Generator (One Shot), Rising-edge input, non-retriggerable, TSOT-23-6', 'kicadSymbolki_fp_filters': 'TSOT*23*'}]|
 ||||

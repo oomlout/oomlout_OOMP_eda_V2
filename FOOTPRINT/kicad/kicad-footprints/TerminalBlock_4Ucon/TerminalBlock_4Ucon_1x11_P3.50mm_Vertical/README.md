@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TerminalBlock_4Ucon_1x11_P3.50mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x11_P3.50mm_Vertical|
 |Hex ID (short code)|hexID|FZKTB4UCONTB4UCON1X11P35VERTICAL|
-|Name|name|TerminalBlock_4Ucon : TerminalBlock_4Ucon_1x11_P3.50mm_Vertical|
+|name|name|TerminalBlock_4Ucon : TerminalBlock_4Ucon_1x11_P3.50mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TerminalBlock_4Ucon_1x11_P3.50mm_Vertical', 'description': 'Terminal Block 4Ucon ItemNo. 10702, vertical (cable from top), 11 pins, pitch 3.5mm, size 39.5x8.3mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.4uconnector.com/online/object/4udrawing/10702.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon', 'tags': 'THT Terminal Block 4Ucon ItemNo. 10702 vertical pitch 3.5mm size 39.5x8.3mm^2 drill 1.3mm pad 2.6mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/TerminalBlock_4Ucon.3dshapes/TerminalBlock_4Ucon_1x11_P3.50mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

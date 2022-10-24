@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MountingHole_5.3mm_M5_ISO14580|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_5.3mm_M5_ISO14580|
 |Hex ID (short code)|hexID|FZKHOLHOL53M5ISO1458|
-|Name|name|MountingHole : MountingHole_5.3mm_M5_ISO14580|
+|name|name|MountingHole : MountingHole_5.3mm_M5_ISO14580|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_5.3mm_M5_ISO14580', 'description': 'Mounting Hole 5.3mm, no annular, M5, ISO14580', 'tags': 'mounting hole 5.3mm no annular m5 iso14580', 'attributeType': None, 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_5.3mm_M5_ISO14580/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_5.3mm_M5_ISO14580/kicadPcb3d_450.png

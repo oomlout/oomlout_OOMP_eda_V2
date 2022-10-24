@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|8259A-2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-8259A-2|
 |Hex ID (short code)|hexID|SZKINTERFACE8259A2|
-|Name|name|8259A-2|
+|name|name|8259A-2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '8259', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '8259A-2', 'kicadSymbolFootprint': 'Package_DIP:DIP-28_W15.24mm', 'kicadSymbolDatasheet': 'http://pdos.csail.mit.edu/6.828/2005/readings/hardware/8259A.pdf', 'kicadSymbolki_keywords': 'PIC', 'kicadSymbolki_description': '8259, Programmable Interrupt Controller, PDIP-28', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

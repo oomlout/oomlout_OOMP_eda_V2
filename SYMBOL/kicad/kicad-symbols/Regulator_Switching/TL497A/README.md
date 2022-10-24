@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TL497A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TL497A|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTL497A|
-|Name|name|TL497A|
+|name|name|TL497A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TL497', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TL497A', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tl497a.pdf', 'kicadSymbolki_keywords': 'buck regulator', 'kicadSymbolki_description': '500mA step up/step down switching regulator', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*7.5x9.0mm*P1.27mm* SOIC*3.9x8.7mm*P1.27mm*'}]|
 ||||

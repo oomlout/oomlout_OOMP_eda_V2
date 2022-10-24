@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AUIPS7125R|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS7125R|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTAUIPS7125R|
-|Name|name|AUIPS7125R|
+|name|name|AUIPS7125R|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AUIPS7121R', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AUIPS7125R', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-4', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/auips7125.pdf?fileId=5546d462533600a4015355a7d96a132a', 'kicadSymbolki_keywords': 'high side switch', 'kicadSymbolki_description': 'Current Sense High Side Switch, 65V, 50A, DPAK-5L', 'kicadSymbolki_fp_filters': 'TO?252*'}]|
 ||||

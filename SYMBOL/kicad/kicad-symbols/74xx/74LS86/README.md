@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS86|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS86|
 |Hex ID (short code)|hexID|SZK74XX74LS86|
-|Name|name|74LS86|
+|name|name|74LS86|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS86', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '74xx/74ls86.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL XOR2', 'kicadSymbolki_description': 'Quad 2-input XOR', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

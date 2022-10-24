@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MXM3.0|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-MXM3.0|
 |Hex ID (short code)|hexID|SZKCNMXM3|
-|Name|name|MXM3.0|
+|name|name|MXM3.0|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'MXM3.0', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'MXM connector', 'kicadSymbolki_description': 'MXM3.0 connector', 'kicadSymbolki_fp_filters': '*MM70*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCP662SQ15|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP662SQ15|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARNCP662SQ15|
-|Name|name|NCP662SQ15|
+|name|name|NCP662SQ15|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCP662SQ15', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SC-82AB', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/NCP662-D.PDF', 'kicadSymbolki_keywords': 'LDO regulator voltage', 'kicadSymbolki_description': '100-mA, 12V Max. Input, Ultralow-IQ LDO, 1.5V, SC-82AB', 'kicadSymbolki_fp_filters': 'SC?82AB*'}]|
 ||||

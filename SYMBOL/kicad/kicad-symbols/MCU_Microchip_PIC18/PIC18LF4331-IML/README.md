@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC18LF4331-IML|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF4331-IML|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC18PIC18LF4331IML|
-|Name|name|PIC18LF4331-IML|
+|name|name|PIC18LF4331-IML|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC18F4331-IML', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18LF4331-IML', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-44-1EP_8x8mm_P0.65mm_EP6.45x6.45mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/39616d.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit Microcontroller XLP', 'kicadSymbolki_description': '8K Flash, 768B SRAM, 256B EEPROM, nanoWatt XLP, ADC, PWM, QFN44', 'kicadSymbolki_fp_filters': 'QFN*1EP*8x8mm*P0.65mm*'}]|
 ||||

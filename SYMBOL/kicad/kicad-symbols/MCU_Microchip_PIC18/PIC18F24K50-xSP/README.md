@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC18F24K50-xSP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F24K50-xSP|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC18PIC18F24K5XSP|
-|Name|name|PIC18F24K50-xSP|
+|name|name|PIC18F24K50-xSP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18F24K50-xSP', 'kicadSymbolFootprint': 'Package_DIP:DIP-28_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/30000684B.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit Microcontroller XLP', 'kicadSymbolki_description': '16K Flash, 2K SRAM, 256 EEPROM, USB, nanoWatt XLP, 2.3V to 5.5V, SPDIP28', 'kicadSymbolki_fp_filters': 'SPDIP*W7.62mm* DIP*W7.62mm* PDIP*W7.62mm*'}]|
 ||||

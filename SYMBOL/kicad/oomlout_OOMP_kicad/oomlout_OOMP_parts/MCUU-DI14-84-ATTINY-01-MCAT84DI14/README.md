@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|MCUU-DI14-84-ATTINY-01-MCAT84DI14|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-MCUU-DI14-84-ATTINY-01-MCAT84DI14|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSMCUUDI1484ATTINY1MCAT84DI14|
-|Name|name|MCUU-DI14-84-ATTINY-01-MCAT84DI14|
+|name|name|MCUU-DI14-84-ATTINY-01-MCAT84DI14|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCUU-DI14-84-ATTINY-01-MCAT84DI14', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:MCUU-DI14-84-ATTINY-01-MCAT84DI14', 'kicadSymbolDatasheet': 'oom.lt/MCAT84DI14', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller tinyAVR', 'kicadSymbolki_description': 'hexID: MCAT84DI14;20MHz, 8kB Flash, 512B SRAM, 512B EEPROM, debugWIRE, DIP-14', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM675|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM675|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALLM675|
-|Name|name|LM675|
+|name|name|LM675|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM675', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm675.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Power Operational Amplifier, TO-220-5', 'kicadSymbolki_fp_filters': 'TO?220?5*StaggerOdd*'}]|
 ||||

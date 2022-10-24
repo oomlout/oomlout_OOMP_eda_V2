@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DA56-11SEKWA|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-DA56-11SEKWA|
 |Hex ID (short code)|hexID|FZKDI7SDA5611SEKWA|
-|Name|name|Display_7Segment : DA56-11SEKWA|
+|name|name|Display_7Segment : DA56-11SEKWA|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DA56-11SEKWA', 'description': 'http://www.kingbright.com/attachments/file/psearch/000/00/00/DA56-11SEKWA(Ver.9A).pdf', 'tags': 'Double digit seven segment super bright orange LED display', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/DA56-11SEKWA.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/DA56-11SEKWA/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Display_7Segment/DA56-11SEKWA/kicadPcb3d_450.png

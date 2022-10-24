@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-JSTSH-X-PI09-SM-HSH9|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI09-SM-HSH9|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI9SMHSH9|
-|Name|name|oomlout_OOMP_parts : HEAD-JSTSH-X-PI09-SM-HSH9|
+|name|name|oomlout_OOMP_parts : HEAD-JSTSH-X-PI09-SM-HSH9|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HEAD-JSTSH-X-PI09-SM-HSH9', 'description': 'hexID: HSH9; JST SH series connector, BM09B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST SH side entry', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_SH_BM09B-SRSS-TB_1x09-1MP_P1.00mm_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||

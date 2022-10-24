@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PT100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-PT100|
 |Hex ID (short code)|hexID|SZKSENTEMPERATUREPT1|
-|Name|name|PT100|
+|name|name|PT100|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TH', 'kicadSymbolValue': 'PT100', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.heraeus.com/media/media/group/doc_group/products_1/hst/sot_to/de_15/to_92_d.pdf', 'kicadSymbolki_keywords': 'platinum temperature sensor RTD', 'kicadSymbolki_description': 'PT100 platinum temperature sensor (RTD)', 'kicadSymbolki_fp_filters': 'TO?92* PIN?ARRAY* bornier* Terminal?Block* SOD70* R*1206* R*0805*'}]|
 ||||

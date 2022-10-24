@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1790-1.25|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1790-1.25|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGELT179125|
-|Name|name|LT1790-1.25|
+|name|name|LT1790-1.25|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1790-1.25', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-6', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1790fc.pdf', 'kicadSymbolki_keywords': 'voltage reference Micropower', 'kicadSymbolki_description': '1.25V Voltage Reference, Low Dropout, Micropower, TSOT-23-6', 'kicadSymbolki_fp_filters': 'TSOT?23?6*'}]|
 ||||

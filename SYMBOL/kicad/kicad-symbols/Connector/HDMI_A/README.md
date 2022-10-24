@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HDMI_A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-HDMI_A|
 |Hex ID (short code)|hexID|SZKCNHDMIA|
-|Name|name|HDMI_A|
+|name|name|HDMI_A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HDMI_A', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://en.wikipedia.org/wiki/HDMI', 'kicadSymbolki_keywords': 'hdmi conn', 'kicadSymbolki_description': 'HDMI type A connector', 'kicadSymbolki_fp_filters': 'HDMI*A*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Si5351B-B-GM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-Si5351B-B-GM|
 |Hex ID (short code)|hexID|SZKOCSSI5351BBGM|
-|Name|name|Si5351B-B-GM|
+|name|name|Si5351B-B-GM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Si5351B-B-GM', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.7x2.7mm', 'kicadSymbolDatasheet': 'https://www.silabs.com/documents/public/data-sheets/Si5351-B.pdf', 'kicadSymbolki_keywords': 'CMOS Synth Oscillator I2C VCXO', 'kicadSymbolki_description': 'I2C Programmable Any-Frequency CMOS Clock Generator + VCXO, QFN-20', 'kicadSymbolki_fp_filters': 'QFN*1EP*4x4mm*P0.5mm*'}]|
 ||||

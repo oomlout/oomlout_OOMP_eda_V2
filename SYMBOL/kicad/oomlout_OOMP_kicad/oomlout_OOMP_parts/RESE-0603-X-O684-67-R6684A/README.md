@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O684-67-R6684A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O684-67-R6684A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO68467R6684A|
-|Name|name|RESE-0603-X-O684-67-R6684A|
+|name|name|RESE-0603-X-O684-67-R6684A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O684-67-R6684A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O684-67-R6684A', 'kicadSymbolDatasheet': 'oom.lt/R6684A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6684A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

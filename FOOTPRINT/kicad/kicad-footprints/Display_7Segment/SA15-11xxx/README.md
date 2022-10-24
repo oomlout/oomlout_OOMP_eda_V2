@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SA15-11xxx|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-SA15-11xxx|
 |Hex ID (short code)|hexID|FZKDI7SSA1511XXX|
-|Name|name|Display_7Segment : SA15-11xxx|
+|name|name|Display_7Segment : SA15-11xxx|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SA15-11xxx', 'description': 'http://www.kingbrightusa.com/images/catalog/SPEC/SA15-11SRWA.pdf', 'tags': 'SA15-11xxx single digit 7 segment display 38.1mm 1.5inch', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/SA15-11xxx.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/SA15-11xxx/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Display_7Segment/SA15-11xxx/kicadPcb3d_450.png

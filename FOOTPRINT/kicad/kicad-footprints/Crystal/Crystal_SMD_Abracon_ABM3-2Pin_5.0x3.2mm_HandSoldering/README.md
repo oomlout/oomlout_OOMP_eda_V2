@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Crystal_SMD_Abracon_ABM3-2Pin_5.0x3.2mm_HandSoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_Abracon_ABM3-2Pin_5.0x3.2mm_HandSoldering|
 |Hex ID (short code)|hexID|FZKXXSMABRACONABM32PIN5X32HANDSOLDERING|
-|Name|name|Crystal : Crystal_SMD_Abracon_ABM3-2Pin_5.0x3.2mm_HandSoldering|
+|name|name|Crystal : Crystal_SMD_Abracon_ABM3-2Pin_5.0x3.2mm_HandSoldering|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_Abracon_ABM3-2Pin_5.0x3.2mm_HandSoldering', 'description': 'Abracon Miniature Ceramic Smd Crystal ABM3 http://www.abracon.com/Resonators/abm3.pdf, hand-soldering, 5.0x3.2mm^2 package', 'tags': 'SMD SMT crystal hand-soldering', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_Abracon_ABM3-2Pin_5.0x3.2mm_HandSoldering.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_Abracon_ABM3-2Pin_5.0x3.2mm_HandSoldering/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_Abracon_ABM3-2Pin_5.0x3.2mm_HandSoldering/kicadPcb3d_450.png

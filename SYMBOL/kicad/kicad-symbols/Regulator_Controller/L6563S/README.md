@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L6563S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6563S|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERL6563S|
-|Name|name|L6563S|
+|name|name|L6563S|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'L6563', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'L6563S', 'kicadSymbolFootprint': 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/l6563s.pdf', 'kicadSymbolki_keywords': 'SMPS pfc controller', 'kicadSymbolki_description': 'Enhanced Transition-Mode PFC Controller, SOIC-14', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm*'}]|
 ||||

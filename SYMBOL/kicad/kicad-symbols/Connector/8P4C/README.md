@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|8P4C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-8P4C|
 |Hex ID (short code)|hexID|SZKCN8P4C|
-|Name|name|8P4C|
+|name|name|8P4C|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': '8P4C', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': '8P4C RJ female connector', 'kicadSymbolki_description': 'RJ connector, 8P4C (8 positions 4 connected), RJ38/RJ48', 'kicadSymbolki_fp_filters': '8P4C* RJ38* RJ48*'}]|
 ||||

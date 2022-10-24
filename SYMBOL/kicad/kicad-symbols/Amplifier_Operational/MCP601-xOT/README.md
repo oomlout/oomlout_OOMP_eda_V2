@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP601-xOT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP601-xOT|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALMCP61XOT|
-|Name|name|MCP601-xOT|
+|name|name|MCP601-xOT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP6L91T-EOT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP601-xOT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/21314g.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Single 2.7V to 6.0V Single Supply CMOS Op Amps, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

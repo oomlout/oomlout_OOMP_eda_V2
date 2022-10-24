@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VTRRANDOM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VTRRANDOM|
 |Hex ID (short code)|hexID|SZKSIMULATIONSPICEVTRRANDOM|
-|Name|name|VTRRANDOM|
+|name|name|VTRRANDOM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'V', 'kicadSymbolValue': 'VTRRANDOM', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolSpice_Netlist_Enabled': 'Y', 'kicadSymbolSpice_Primitive': 'V', 'kicadSymbolSpice_Model': 'trrandom(2 10m 0 1)', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Voltage source, random noise'}]|
 ||||

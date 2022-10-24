@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VTX-214-015-106|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_ACDC-VTX-214-015-106|
 |Hex ID (short code)|hexID|SZKCONVTX2141516|
-|Name|name|VTX-214-015-106|
+|name|name|VTX-214-015-106|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'VTX-214-015-103', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'VTX-214-015-106', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_Vigortronix_VTX-214-015-1xx_THT', 'kicadSymbolDatasheet': 'http://www.vigortronix.com/15WattSMPSPCBModuleAC-DC', 'kicadSymbolki_keywords': '6V 15W AC-DC module power supply', 'kicadSymbolki_description': '6V Vigortronix 15W ACDC Converters', 'kicadSymbolki_fp_filters': 'Converter*ACDC*Vigortronix*VTX*214*015*1xx*'}]|
 ||||

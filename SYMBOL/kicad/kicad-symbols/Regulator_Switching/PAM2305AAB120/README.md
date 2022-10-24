@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PAM2305AAB120|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2305AAB120|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGPAM235AAB12|
-|Name|name|PAM2305AAB120|
+|name|name|PAM2305AAB120|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PAM2305AAB330', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PAM2305AAB120', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-5', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/PAM2305.pdf', 'kicadSymbolki_keywords': 'Voltage regulator switching buck fixed output analog', 'kicadSymbolki_description': '1A, Step-Down DC/DC-Converter, 1.2V Fixed Output Voltage, 1.5MHz, TSOT-23', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|GNDD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-GNDD|
 |Hex ID (short code)|hexID|SZKPOWERGNDD|
-|Name|name|GNDD|
+|name|name|GNDD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'GNDD', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "GNDD" , digital ground'}]|
 ||||

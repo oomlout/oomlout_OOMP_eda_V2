@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LD271|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-LED-LD271|
 |Hex ID (short code)|hexID|SZKLLD271|
-|Name|name|LD271|
+|name|name|LD271|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LD271', 'kicadSymbolFootprint': 'LED_THT:LED_D5.0mm_IRGrey', 'kicadSymbolDatasheet': 'http://www.alliedelec.com/m/d/40788c34903a719969df15f1fbea1056.pdf', 'kicadSymbolki_keywords': 'IR LED', 'kicadSymbolki_description': '940nm IR-LED, 5mm', 'kicadSymbolki_fp_filters': 'LED*5.0mm*IRGrey*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SSM2017P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-SSM2017P|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOSSM217P|
-|Name|name|SSM2017P|
+|name|name|SSM2017P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SSM2017P', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/obsolete-data-sheets/139484016SSM2017.pdf', 'kicadSymbolki_keywords': 'audio preamplifier', 'kicadSymbolki_description': 'Self-Contained Audio Preamplifier, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

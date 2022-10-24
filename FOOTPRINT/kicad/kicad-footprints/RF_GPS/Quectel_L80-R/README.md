@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Quectel_L80-R|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_GPS-Quectel_L80-R|
 |Hex ID (short code)|hexID|FZKGPSQUECTELL8R|
-|Name|name|RF_GPS : Quectel_L80-R|
+|name|name|RF_GPS : Quectel_L80-R|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Quectel_L80-R', 'description': 'Quectel L80-R GPS Module, Patch on Top, https://www.quectel.com/UploadImage/Downlad/Quectel_L80-R_Hardware_Design_V1.2.pdf', 'tags': 'quectel GPS GNSS', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_GPS.3dshapes/Quectel_L80-R.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

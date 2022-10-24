@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTV-357T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-LTV-357T|
 |Hex ID (short code)|hexID|SZKISOLATORLTV357T|
-|Name|name|LTV-357T|
+|name|name|LTV-357T|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LTV-356T', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTV-357T', 'kicadSymbolFootprint': 'Package_SO:SO-4_4.4x3.6mm_P2.54mm', 'kicadSymbolDatasheet': 'https://www.buerklin.com/medias/sys_master/download/download/h91/ha0/8892020588574.pdf', 'kicadSymbolki_keywords': 'NPN DC Optocoupler', 'kicadSymbolki_description': 'DC Optocoupler, Vce 35V, CTR 50%, SO-4', 'kicadSymbolki_fp_filters': 'SO*4.4x3.6mm*P2.54mm*'}]|
 ||||

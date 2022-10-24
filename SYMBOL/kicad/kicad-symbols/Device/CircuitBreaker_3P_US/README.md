@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CircuitBreaker_3P_US|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-CircuitBreaker_3P_US|
 |Hex ID (short code)|hexID|SZKDEVICECIRCUITBREAKER3PUS|
-|Name|name|CircuitBreaker_3P_US|
+|name|name|CircuitBreaker_3P_US|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'CB', 'kicadSymbolValue': 'CircuitBreaker_3P_US', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'CB 3P', 'kicadSymbolki_description': 'Triple pole circuit breaker, US symbol'}]|
 ||||

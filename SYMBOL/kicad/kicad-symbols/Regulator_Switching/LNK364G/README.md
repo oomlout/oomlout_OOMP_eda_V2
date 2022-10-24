@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LNK364G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK364G|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK364G|
-|Name|name|LNK364G|
+|name|name|LNK364G|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LNK362G', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LNK364G', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_SMD-8B', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/lnk362-364.pdf', 'kicadSymbolki_keywords': 'Energy Effi cient, Low Power Off-Line Switcher IC', 'kicadSymbolki_description': 'LinkSwitch-XT Family, 6W Output Power, SMD-8B', 'kicadSymbolki_fp_filters': 'PowerIntegrations?SMD?8B*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Symbol_GNU-Logo_CopperTop|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_GNU-Logo_CopperTop|
 |Hex ID (short code)|hexID|FZKSZSYGNULCTOP|
-|Name|name|Symbol : Symbol_GNU-Logo_CopperTop|
+|name|name|Symbol : Symbol_GNU-Logo_CopperTop|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Symbol_GNU-Logo_CopperTop', 'description': 'GNU-Logo, GNU-Head, GNU-Kopf, Copper Top,', 'tags': 'GNU-Logo, GNU-Head, GNU-Kopf, Copper Top,', 'attributeType': None, 'pins': {}}|
 ||||

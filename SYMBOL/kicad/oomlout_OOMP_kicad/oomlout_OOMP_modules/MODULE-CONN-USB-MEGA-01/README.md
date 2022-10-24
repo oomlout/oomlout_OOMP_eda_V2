@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|MODULE-CONN-USB-MEGA-01|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_modules-MODULE-CONN-USB-MEGA-01|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPMOSMOCONNUMEGA1|
-|Name|name|MODULE-CONN-USB-MEGA-01|
+|name|name|MODULE-CONN-USB-MEGA-01|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MODULE-CONN-USB-MEGA-01', 'kicadSymbolFootprint': 'oomlout_OOMP_modules:MODULE-CONN-USB-MEGA-01', 'kicadSymbolDatasheet': 'oom.lt/MCUMEGA'}]|
 ||||

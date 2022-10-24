@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F437ZITx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F437ZITx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F4STM32F437ZITX|
-|Name|name|STM32F437ZITx|
+|name|name|STM32F437ZITx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STM32F437ZGTx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F437ZITx', 'kicadSymbolFootprint': 'Package_QFP:LQFP-144_20x20mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00077036.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32F4 STM32F427/437', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 2048KB flash, 192KB RAM, 180MHz, 1.7-3.6V, 114 GPIO, LQFP-144', 'kicadSymbolki_fp_filters': 'LQFP*20x20mm*P0.5mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DA56-11SEKWA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-DA56-11SEKWA|
 |Hex ID (short code)|hexID|SZKDICHARACTERDA5611SEKWA|
-|Name|name|DA56-11SEKWA|
+|name|name|DA56-11SEKWA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DA56-11SEKWA', 'kicadSymbolFootprint': 'Display_7Segment:DA56-11SEKWA', 'kicadSymbolDatasheet': 'http://www.kingbright.com/attachments/file/psearch/000/00/00/DA56-11SEKWA(Ver.9A).pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'Double digit 7 segment super bright orange LED common anode', 'kicadSymbolki_fp_filters': '*DA56*11*'}]|
 ||||

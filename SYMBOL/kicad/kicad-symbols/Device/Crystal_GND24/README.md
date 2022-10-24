@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Crystal_GND24|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Crystal_GND24|
 |Hex ID (short code)|hexID|SZKDEVICEXGND24|
-|Name|name|Crystal_GND24|
+|name|name|Crystal_GND24|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Y', 'kicadSymbolValue': 'Crystal_GND24', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'quartz ceramic resonator oscillator', 'kicadSymbolki_description': 'Four pin crystal, GND on pins 2 and 4', 'kicadSymbolki_fp_filters': 'Crystal*'}]|
 ||||

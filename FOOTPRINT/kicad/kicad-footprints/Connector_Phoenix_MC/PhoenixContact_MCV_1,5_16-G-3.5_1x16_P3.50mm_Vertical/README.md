@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PhoenixContact_MCV_1,5_16-G-3.5_1x16_P3.50mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC-PhoenixContact_MCV_1,5_16-G-3.5_1x16_P3.50mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNPHOENIXMCPHOENIXCONTACTMCV1516G351X16P35VERTICAL|
-|Name|name|Connector_Phoenix_MC : PhoenixContact_MCV_1,5_16-G-3.5_1x16_P3.50mm_Vertical|
+|name|name|Connector_Phoenix_MC : PhoenixContact_MCV_1,5_16-G-3.5_1x16_P3.50mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PhoenixContact_MCV_1,5_16-G-3.5_1x16_P3.50mm_Vertical', 'description': 'Generic Phoenix Contact connector footprint for: MCV_1,5/16-G-3.5; number of pins: 16; pin pitch: 3.50mm; Vertical \|\| order number: 1843745 8A 160V', 'tags': 'phoenix_contact connector MCV_01x16_G_3.5mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MC.3dshapes/PhoenixContact_MCV_1,5_16-G-3.5_1x16_P3.50mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_16-G-3.5_1x16_P3.50mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_16-G-3.5_1x16_P3.50mm_Vertical/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-220-4_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-4_Vertical|
 |Hex ID (short code)|hexID|FZKSOTTO224VERTICAL|
-|Name|name|Package_TO_SOT_THT : TO-220-4_Vertical|
+|name|name|Package_TO_SOT_THT : TO-220-4_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-220-4_Vertical', 'description': 'TO-220-4, Vertical, RM 2.54mm', 'tags': 'TO-220-4 Vertical RM 2.54mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220-4_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-4_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-4_Vertical/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Potentiometer_Vishay_TS53YL_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Vishay_TS53YL_Vertical|
 |Hex ID (short code)|hexID|FZKPOTENTIOMETERSMPOTENTIOMETERVISHAYTS53YLVERTICAL|
-|Name|name|Potentiometer_SMD : Potentiometer_Vishay_TS53YL_Vertical|
+|name|name|Potentiometer_SMD : Potentiometer_Vishay_TS53YL_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Vishay_TS53YL_Vertical', 'description': 'Potentiometer, vertical, Vishay TS53YL, https://www.vishay.com/docs/51008/ts53.pdf', 'tags': 'Potentiometer vertical Vishay TS53YL', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_SMD.3dshapes/Potentiometer_Vishay_TS53YL_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_Vishay_TS53YL_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_Vishay_TS53YL_Vertical/kicadPcb3d_450.png

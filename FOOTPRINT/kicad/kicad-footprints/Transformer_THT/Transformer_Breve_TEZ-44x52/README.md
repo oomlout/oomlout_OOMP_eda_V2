@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_Breve_TEZ-44x52|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Breve_TEZ-44x52|
 |Hex ID (short code)|hexID|FZKTRTRBREVETEZ44X52|
-|Name|name|Transformer_THT : Transformer_Breve_TEZ-44x52|
+|name|name|Transformer_THT : Transformer_Breve_TEZ-44x52|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_Breve_TEZ-44x52', 'description': 'http://www.breve.pl/pdf/ANG/TEZ_ang.pdf', 'tags': 'TEZ PCB Transformer', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_Breve_TEZ-44x52.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

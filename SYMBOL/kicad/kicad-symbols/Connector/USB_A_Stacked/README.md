@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|USB_A_Stacked|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-USB_A_Stacked|
 |Hex ID (short code)|hexID|SZKCNUASTACKED|
-|Name|name|USB_A_Stacked|
+|name|name|USB_A_Stacked|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'USB_A_Stacked', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'connector USB', 'kicadSymbolki_description': 'USB Type A connector, stacked', 'kicadSymbolki_fp_filters': 'USB*'}]|
 ||||

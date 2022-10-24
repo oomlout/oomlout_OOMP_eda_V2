@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BUK7M6R3-40EX|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK7M6R3-40EX|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBUK7M6R34EX|
-|Name|name|BUK7M6R3-40EX|
+|name|name|BUK7M6R3-40EX|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BUK9M53-60EX', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BUK7M6R3-40EX', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:LFPAK33', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BUK7M6R3-40E.pdf', 'kicadSymbolki_keywords': 'Power MOSFET N-MOS', 'kicadSymbolki_description': '70A Id, 40V Vds, N-Channel TrenchMOS MOSFET, 6.3mOhm Ron, 28.1nC Qqd, -55 to 175 °C, LFPAK33', 'kicadSymbolki_fp_filters': 'LFPAK33*'}]|
 ||||

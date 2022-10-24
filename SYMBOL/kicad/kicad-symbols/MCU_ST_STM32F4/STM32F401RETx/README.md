@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F401RETx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F401RETx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F4STM32F41RETX|
-|Name|name|STM32F401RETx|
+|name|name|STM32F401RETx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STM32F401RDTx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F401RETx', 'kicadSymbolFootprint': 'Package_QFP:LQFP-64_10x10mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00102166.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32F4 STM32F401', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 512KB flash, 96KB RAM, 84MHz, 1.7-3.6V, 50 GPIO, LQFP-64', 'kicadSymbolki_fp_filters': 'LQFP*10x10mm*P0.5mm*'}]|
 ||||

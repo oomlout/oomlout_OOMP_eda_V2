@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Valve_ECC-83-1|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Valve-Valve_ECC-83-1|
 |Hex ID (short code)|hexID|FZKVAVAECC831|
-|Name|name|Valve : Valve_ECC-83-1|
+|name|name|Valve : Valve_ECC-83-1|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Valve_ECC-83-1', 'description': 'Valve ECC-83-1 round pins', 'tags': 'Valve ECC-83-1 round pins', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Valve.3dshapes/Valve_ECC-83-1.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

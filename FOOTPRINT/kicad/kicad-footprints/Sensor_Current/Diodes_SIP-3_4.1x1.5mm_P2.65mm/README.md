@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Diodes_SIP-3_4.1x1.5mm_P2.65mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Diodes_SIP-3_4.1x1.5mm_P2.65mm|
 |Hex ID (short code)|hexID|FZKSENCURRENTDIODESSIP341X15P265|
-|Name|name|Sensor_Current : Diodes_SIP-3_4.1x1.5mm_P2.65mm|
+|name|name|Sensor_Current : Diodes_SIP-3_4.1x1.5mm_P2.65mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Diodes_SIP-3_4.1x1.5mm_P2.65mm', 'description': 'Diodes SIP-3 Ammo Pack, 2.65mm Pitch (https://www.diodes.com/assets/Package-Files/SIP-3-Ammo-Pack.pdf)', 'tags': 'Diodes SIP-3 Ammo Pack', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/Diodes_SIP-3_4.1x1.5mm_P2.65mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

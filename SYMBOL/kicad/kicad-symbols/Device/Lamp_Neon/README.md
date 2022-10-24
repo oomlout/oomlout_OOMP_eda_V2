@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Lamp_Neon|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Lamp_Neon|
 |Hex ID (short code)|hexID|SZKDEVICELAMPNEON|
-|Name|name|Lamp_Neon|
+|name|name|Lamp_Neon|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'NE', 'kicadSymbolValue': 'Lamp_Neon', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'neon lamp', 'kicadSymbolki_description': 'Neon lamp'}]|
 ||||

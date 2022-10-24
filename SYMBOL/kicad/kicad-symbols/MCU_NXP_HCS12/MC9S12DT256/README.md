@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC9S12DT256|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_HCS12-MC9S12DT256|
 |Hex ID (short code)|hexID|SZKMCUNXPHCS12MC9S12DT256|
-|Name|name|MC9S12DT256|
+|name|name|MC9S12DT256|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC9S12DT256', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/fact-sheet/MC9S12DT256FS.pdf', 'kicadSymbolki_keywords': 'HCS12 MCU', 'kicadSymbolki_description': 'HCS12 Microcontroller'}]|
 ||||

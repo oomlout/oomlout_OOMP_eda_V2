@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|TA0970B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Filter-TA0970B|
 |Hex ID (short code)|hexID|SZKRFFILTA97B|
-|Name|name|TA0970B|
+|name|name|TA0970B|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'X', 'kicadSymbolValue': 'TA0970B', 'kicadSymbolFootprint': 'Filter:Filter_SAW-6_3.8x3.8mm', 'kicadSymbolDatasheet': 'https://www.golledge.com/media/3785/mp08167.pdf', 'kicadSymbolki_keywords': 'SAW Filter 1090 bandpass MP08167', 'kicadSymbolki_description': 'Bandpass Filter, 1090MHz, SAW filter 6-pin', 'kicadSymbolki_fp_filters': 'Filter*SAW*3.8x3.8mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AS8506C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-AS8506C|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTAS856C|
-|Name|name|AS8506C|
+|name|name|AS8506C|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AS8506C', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-40-1EP_6x6mm_P0.5mm_EP4.6x4.6mm', 'kicadSymbolDatasheet': 'http://ams.com/eng/content/download/476603/1402377/252935', 'kicadSymbolki_keywords': 'battery balance lithium charge afe', 'kicadSymbolki_description': 'Stackable cell monitor, cell balancer, 3-7 Cells, SPI Interface', 'kicadSymbolki_fp_filters': 'QFN*6x6mm*P0.5mm*'}]|
 ||||

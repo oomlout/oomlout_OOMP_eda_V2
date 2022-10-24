@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB_Mini-B_Wuerth_65100516121_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Wuerth_65100516121_Horizontal|
 |Hex ID (short code)|hexID|FZKCNUUMBWUERTH651516121HORIZONTAL|
-|Name|name|Connector_USB : USB_Mini-B_Wuerth_65100516121_Horizontal|
+|name|name|Connector_USB : USB_Mini-B_Wuerth_65100516121_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB_Mini-B_Wuerth_65100516121_Horizontal', 'description': 'Mini USB 2.0 Type B SMT Horizontal 5 Contacts (https://katalog.we-online.de/em/datasheet/65100516121.pdf)', 'tags': 'Mini USB 2.0 Type B', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Mini-B_Wuerth_65100516121_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Wuerth_65100516121_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Wuerth_65100516121_Horizontal/kicadPcb3d_450.png

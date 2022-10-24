@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Infineon_PG-TSDSO-14-22|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-TSDSO-14-22|
 |Hex ID (short code)|hexID|FZKSOINFINEONPGTSDSO1422|
-|Name|name|Package_SO : Infineon_PG-TSDSO-14-22|
+|name|name|Package_SO : Infineon_PG-TSDSO-14-22|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Infineon_PG-TSDSO-14-22', 'description': 'Infineon_PG-TSDSO-14-22', 'tags': 'Infineon TSDSO 14-22 ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Infineon_PG-TSDSO-14-22.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/Infineon_PG-TSDSO-14-22/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/Infineon_PG-TSDSO-14-22/kicadPcb3d_450.png

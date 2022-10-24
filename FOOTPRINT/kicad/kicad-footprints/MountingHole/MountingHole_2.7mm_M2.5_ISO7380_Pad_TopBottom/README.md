@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MountingHole_2.7mm_M2.5_ISO7380_Pad_TopBottom|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.7mm_M2.5_ISO7380_Pad_TopBottom|
 |Hex ID (short code)|hexID|FZKHOLHOL27M25ISO738PADTOPBOTTOM|
-|Name|name|MountingHole : MountingHole_2.7mm_M2.5_ISO7380_Pad_TopBottom|
+|name|name|MountingHole : MountingHole_2.7mm_M2.5_ISO7380_Pad_TopBottom|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_2.7mm_M2.5_ISO7380_Pad_TopBottom', 'description': 'Mounting Hole 2.7mm, M2.5, ISO7380', 'tags': 'mounting hole 2.7mm m2.5 iso7380', 'attributeType': None, 'pins': {'type': 'connect', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_2.7mm_M2.5_ISO7380_Pad_TopBottom/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_2.7mm_M2.5_ISO7380_Pad_TopBottom/kicadPcb3d_450.png

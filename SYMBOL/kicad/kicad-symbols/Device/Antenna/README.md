@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Antenna|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Antenna|
 |Hex ID (short code)|hexID|SZKDEVICEANTENNA|
-|Name|name|Antenna|
+|name|name|Antenna|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'AE', 'kicadSymbolValue': 'Antenna', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'antenna', 'kicadSymbolki_description': 'Antenna'}]|
 ||||

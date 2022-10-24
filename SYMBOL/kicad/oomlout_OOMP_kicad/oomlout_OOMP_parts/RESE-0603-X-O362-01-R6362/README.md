@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O362-01-R6362|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O362-01-R6362|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO3621R6362|
-|Name|name|RESE-0603-X-O362-01-R6362|
+|name|name|RESE-0603-X-O362-01-R6362|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O362-01-R6362', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O362-01-R6362', 'kicadSymbolDatasheet': 'oom.lt/R6362', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6362;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

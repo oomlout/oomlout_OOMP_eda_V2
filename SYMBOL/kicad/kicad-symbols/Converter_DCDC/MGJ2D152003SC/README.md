@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MGJ2D152003SC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-MGJ2D152003SC|
 |Hex ID (short code)|hexID|SZKCONMGJ2D1523SC|
-|Name|name|MGJ2D152003SC|
+|name|name|MGJ2D152003SC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MGJ2D051505SC', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MGJ2D152003SC', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_Murata_MGJ2DxxxxxxSC_THT', 'kicadSymbolDatasheet': 'https://power.murata.com/pub/data/power/ncl/kdc_mgj2.pdf', 'kicadSymbolki_keywords': 'DC/DC converter', 'kicadSymbolki_description': '5.2kVDC Isolated 2W Gate Drive, 15V Vin, +20V/-3.5V Vout', 'kicadSymbolki_fp_filters': 'Converter*DCDC*Murata*MGJ2DxxxxxxSC*'}]|
 ||||

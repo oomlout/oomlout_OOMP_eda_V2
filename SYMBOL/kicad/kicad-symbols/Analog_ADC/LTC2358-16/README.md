@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC2358-16|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2358-16|
 |Hex ID (short code)|hexID|SZKANALOGADCLTC235816|
-|Name|name|LTC2358-16|
+|name|name|LTC2358-16|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC2358-16', 'kicadSymbolFootprint': 'Package_QFP:LQFP-48_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/235816f.pdf', 'kicadSymbolki_keywords': '16bit Simultaneous Sampling ADC 8 Channels SPI buffered', 'kicadSymbolki_description': 'LTC2358 Buffered Octal, 16 bit, 200ksps/Ch Differential +-10.24V Simultaneous Sampling ADC, 30Vpp common mode range, LQFP-48', 'kicadSymbolki_fp_filters': 'LQFP?48*7x7mm*P0.5mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4071|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4071|
 |Hex ID (short code)|hexID|SZK4XXXIEEE471|
-|Name|name|4071|
+|name|name|4071|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4071', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

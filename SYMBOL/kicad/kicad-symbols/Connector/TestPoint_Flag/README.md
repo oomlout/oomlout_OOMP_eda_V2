@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TestPoint_Flag|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-TestPoint_Flag|
 |Hex ID (short code)|hexID|SZKCNTPFLAG|
-|Name|name|TestPoint_Flag|
+|name|name|TestPoint_Flag|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TP', 'kicadSymbolValue': 'TestPoint_Flag', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'test point tp', 'kicadSymbolki_description': 'test point (alternative flag-style design)', 'kicadSymbolki_fp_filters': 'Pin* Test*'}]|
 ||||

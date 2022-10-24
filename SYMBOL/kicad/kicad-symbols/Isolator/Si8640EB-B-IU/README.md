@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Si8640EB-B-IU|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-Si8640EB-B-IU|
 |Hex ID (short code)|hexID|SZKISOLATORSI864EBBIU|
-|Name|name|Si8640EB-B-IU|
+|name|name|Si8640EB-B-IU|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'Si8640BA-B-IU', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Si8640EB-B-IU', 'kicadSymbolFootprint': 'Package_SO:QSOP-16_3.9x4.9mm_P0.635mm', 'kicadSymbolDatasheet': 'https://www.silabs.com/documents/public/data-sheets/si864x-datasheet.pdf', 'kicadSymbolki_keywords': '4Ch 4In Quad Digital Isolator 150Mbps', 'kicadSymbolki_description': 'Low-Power Quad-Channel Digital Isolator, 150Mbps, 2.5-5.5V, 2.5kV isolation, Fail-Safe High, QSOP-16', 'kicadSymbolki_fp_filters': 'QSOP*3.9x4.9mm*P0.635mm*'}]|
 ||||

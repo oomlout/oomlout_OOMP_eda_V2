@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_TVS_Filled|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_TVS_Filled|
 |Hex ID (short code)|hexID|SZKDEVICEDTVSFILL|
-|Name|name|D_TVS_Filled|
+|name|name|D_TVS_Filled|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_TVS_Filled', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'diode TVS thyrector', 'kicadSymbolki_description': 'Bidirectional transient-voltage-suppression diode, filled shape', 'kicadSymbolki_fp_filters': 'TO-???* *_Diode_* *SingleDiode* D_*'}]|
 ||||

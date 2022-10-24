@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ACS758xCB-150U-PFF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS758xCB-150U-PFF|
 |Hex ID (short code)|hexID|SZKSENCURRENTACS758XCB15UPFF|
-|Name|name|ACS758xCB-150U-PFF|
+|name|name|ACS758xCB-150U-PFF|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ACS756xCB-050B-PFF', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ACS758xCB-150U-PFF', 'kicadSymbolFootprint': 'Sensor_Current:Allegro_CB_PFF', 'kicadSymbolDatasheet': 'http://www.allegromicro.com/~/media/Files/Datasheets/ACS758-Datasheet.ashx?la=en', 'kicadSymbolki_keywords': 'hall effect current monitor sensor isolated', 'kicadSymbolki_description': '150A Unidirectional Hall-Effect Current Sensor, +5.0V supply, 26.7mV/A, CB-5 PFF', 'kicadSymbolki_fp_filters': 'Allegro*CB*PFF*'}]|
 ||||

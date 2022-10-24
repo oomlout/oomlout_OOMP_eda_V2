@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LD39015M25R|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD39015M25R|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLD3915M25R|
-|Name|name|LD39015M25R|
+|name|name|LD39015M25R|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LD39015M08R', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LD39015M25R', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/ld39015.pdf', 'kicadSymbolki_keywords': '150mA LDO Regulator Fixed Positive', 'kicadSymbolki_description': '150mA low quiescent current low noise voltage regulator, Fixed Output 2.5V, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

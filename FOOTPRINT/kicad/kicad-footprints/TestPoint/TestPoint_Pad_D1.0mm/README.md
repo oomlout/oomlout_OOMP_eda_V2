@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TestPoint_Pad_D1.0mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Pad_D1.0mm|
 |Hex ID (short code)|hexID|FZKTPTPPADD1|
-|Name|name|TestPoint : TestPoint_Pad_D1.0mm|
+|name|name|TestPoint : TestPoint_Pad_D1.0mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TestPoint_Pad_D1.0mm', 'description': 'SMD pad as test Point, diameter 1.0mm', 'tags': 'test point SMD pad', 'attributeType': None, 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||

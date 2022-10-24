@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Osram_BPW82|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_BPW82|
 |Hex ID (short code)|hexID|FZKOPOSRAMBPW82|
-|Name|name|OptoDevice : Osram_BPW82|
+|name|name|OptoDevice : Osram_BPW82|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Osram_BPW82', 'description': 'PhotoDiode, BPW82, RM2.54', 'tags': 'PhotoDiode BPW82 RM2.54', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Osram_BPW82.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_BPW82/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_BPW82/kicadPcb3d_450.png

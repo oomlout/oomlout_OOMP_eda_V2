@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|B320|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-B320|
 |Hex ID (short code)|hexID|SZKDIODEB32|
-|Name|name|B320|
+|name|name|B320|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'B320', 'kicadSymbolFootprint': 'Diode_SMD:D_SMC', 'kicadSymbolDatasheet': 'http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '20V 3A Schottky Barrier Rectifier Diode, SMC', 'kicadSymbolki_fp_filters': 'D*SMC*'}]|
 ||||

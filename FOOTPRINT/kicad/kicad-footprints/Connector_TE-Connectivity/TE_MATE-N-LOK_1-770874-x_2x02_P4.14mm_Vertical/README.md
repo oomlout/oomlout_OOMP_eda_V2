@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TE_MATE-N-LOK_1-770874-x_2x02_P4.14mm_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_TE-Connectivity-TE_MATE-N-LOK_1-770874-x_2x02_P4.14mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNTECONNECTIVITYTEMATENLOK177874X2X2P414VERTICAL|
-|Name|name|Connector_TE-Connectivity : TE_MATE-N-LOK_1-770874-x_2x02_P4.14mm_Vertical|
+|name|name|Connector_TE-Connectivity : TE_MATE-N-LOK_1-770874-x_2x02_P4.14mm_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TE_MATE-N-LOK_1-770874-x_2x02_P4.14mm_Vertical', 'description': 'Molex Mini-Universal MATE-N-LOK, old mpn/engineering number: 1-770874-x, 2 Pins per row (http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=82181_SOFTSHELL_HIGH_DENSITY&DocType=CS&DocLang=EN), generated with kicad-footprint-generator', 'tags': 'connector TE MATE-N-LOK side entry', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_TE-Connectivity.3dshapes/TE_MATE-N-LOK_1-770874-x_2x02_P4.14mm_Vertical.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_MATE-N-LOK_1-770874-x_2x02_P4.14mm_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_MATE-N-LOK_1-770874-x_2x02_P4.14mm_Vertical/kicadPcb3d_450.png

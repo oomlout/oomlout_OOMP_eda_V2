@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|STC_SOP-16_3.9x9.9mm_P1.27mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-STC_SOP-16_3.9x9.9mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKSOSTCS1639X99P127|
-|Name|name|Package_SO : STC_SOP-16_3.9x9.9mm_P1.27mm|
+|name|name|Package_SO : STC_SOP-16_3.9x9.9mm_P1.27mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'STC_SOP-16_3.9x9.9mm_P1.27mm', 'description': 'STC  SOP, 16 Pin (https://www.stcmicro.com/datasheet/STC15F2K60S2-en.pdf#page=156), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'STC SOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/STC_SOP-16_3.9x9.9mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/STC_SOP-16_3.9x9.9mm_P1.27mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/STC_SOP-16_3.9x9.9mm_P1.27mm/kicadPcb3d_450.png

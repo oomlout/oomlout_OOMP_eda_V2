@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Finder_34.81|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Finder_34.81|
 |Hex ID (short code)|hexID|FZKOPFINDER3481|
-|Name|name|OptoDevice : Finder_34.81|
+|name|name|OptoDevice : Finder_34.81|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Finder_34.81', 'description': 'Relay SPST, Finder Type 34.81 (opto relays/coupler), vertical/standing form, see https://gfinder.findernet.com/public/attachments/34/EN/S34USAEN.pdf', 'tags': 'Relay SPST Finder', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Finder_34.81.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Finder_34.81/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/Finder_34.81/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EP1810|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP1810|
 |Hex ID (short code)|hexID|SZKCPLDALTERAEP181|
-|Name|name|EP1810|
+|name|name|EP1810|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EP1810', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'EPLD', 'kicadSymbolki_description': 'EPLD'}]|
 ||||

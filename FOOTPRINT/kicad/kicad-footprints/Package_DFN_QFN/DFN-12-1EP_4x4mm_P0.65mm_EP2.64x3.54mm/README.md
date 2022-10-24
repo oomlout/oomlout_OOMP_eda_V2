@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DFN-12-1EP_4x4mm_P0.65mm_EP2.64x3.54mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-12-1EP_4x4mm_P0.65mm_EP2.64x3.54mm|
 |Hex ID (short code)|hexID|FZKDFNDFN121EP4X4P65EP264X354|
-|Name|name|Package_DFN_QFN : DFN-12-1EP_4x4mm_P0.65mm_EP2.64x3.54mm|
+|name|name|Package_DFN_QFN : DFN-12-1EP_4x4mm_P0.65mm_EP2.64x3.54mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DFN-12-1EP_4x4mm_P0.65mm_EP2.64x3.54mm', 'description': 'DFN12, 4x4, 0.65P; CASE 506CE (see ON Semiconductor 506CE.PDF)', 'tags': 'DFN 0.65', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-12-1EP_4x4mm_P0.65mm_EP2.64x3.54mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/DFN-12-1EP_4x4mm_P0.65mm_EP2.64x3.54mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/DFN-12-1EP_4x4mm_P0.65mm_EP2.64x3.54mm/kicadPcb3d_450.png

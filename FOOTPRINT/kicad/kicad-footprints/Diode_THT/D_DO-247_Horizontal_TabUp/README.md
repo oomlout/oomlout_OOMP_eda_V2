@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|D_DO-247_Horizontal_TabUp|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-247_Horizontal_TabUp|
 |Hex ID (short code)|hexID|FZKDDDO247HORIZONTALTABUP|
-|Name|name|Diode_THT : D_DO-247_Horizontal_TabUp|
+|name|name|Diode_THT : D_DO-247_Horizontal_TabUp|
 |Footprint Kicad|footprintKicadDetails|{'name': 'D_DO-247_Horizontal_TabUp', 'description': 'Diode, DO-247 series, Horizontal, TabUp, P 10.9mm', 'tags': 'diode rectifier', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-247_Horizontal_TabUp.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-247_Horizontal_TabUp/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-247_Horizontal_TabUp/kicadPcb3d_450.png

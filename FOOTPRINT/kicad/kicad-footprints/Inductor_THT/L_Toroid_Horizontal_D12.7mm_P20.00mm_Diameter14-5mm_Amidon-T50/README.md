@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Toroid_Horizontal_D12.7mm_P20.00mm_Diameter14-5mm_Amidon-T50|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D12.7mm_P20.00mm_Diameter14-5mm_Amidon-T50|
 |Hex ID (short code)|hexID|FZKINLTOROIDHORIZONTALD127P2DIAMETER145AMIDONT5|
-|Name|name|Inductor_THT : L_Toroid_Horizontal_D12.7mm_P20.00mm_Diameter14-5mm_Amidon-T50|
+|name|name|Inductor_THT : L_Toroid_Horizontal_D12.7mm_P20.00mm_Diameter14-5mm_Amidon-T50|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Toroid_Horizontal_D12.7mm_P20.00mm_Diameter14-5mm_Amidon-T50', 'description': 'L_Toroid, Horizontal series, Radial, pin pitch=20.00mm, , diameter=12.7mm, Diameter14-5mm, Amidon-T50', 'tags': 'L_Toroid Horizontal series Radial pin pitch 20.00mm  diameter 12.7mm Diameter14-5mm Amidon-T50', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D12.7mm_P20.00mm_Diameter14-5mm_Amidon-T50.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Horizontal_D12.7mm_P20.00mm_Diameter14-5mm_Amidon-T50/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Horizontal_D12.7mm_P20.00mm_Diameter14-5mm_Amidon-T50/kicadPcb3d_450.png

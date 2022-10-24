@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PCA9306DC1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-PCA9306DC1|
 |Hex ID (short code)|hexID|SZKINTERFACEPCA936DC1|
-|Name|name|PCA9306DC1|
+|name|name|PCA9306DC1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PCA9306', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PCA9306DC1', 'kicadSymbolFootprint': 'Package_SO:VSSOP-8_2.3x2mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/PCA9306.pdf', 'kicadSymbolki_keywords': 'I2C SMBus', 'kicadSymbolki_description': 'Dual bidirectional I2C Bus and SMBus voltage level translator, VSSOP-8', 'kicadSymbolki_fp_filters': 'VSSOP*2.3x2mm*P0.5mm*'}]|
 ||||

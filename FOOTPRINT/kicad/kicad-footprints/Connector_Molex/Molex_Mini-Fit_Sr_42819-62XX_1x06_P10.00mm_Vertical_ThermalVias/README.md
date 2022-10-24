@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Molex_Mini-Fit_Sr_42819-62XX_1x06_P10.00mm_Vertical_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Sr_42819-62XX_1x06_P10.00mm_Vertical_ThermalVias|
 |Hex ID (short code)|hexID|FZKCNMXMXMFITSR4281962XX1X6P1VERTICALTHERMALVIAS|
-|Name|name|Connector_Molex : Molex_Mini-Fit_Sr_42819-62XX_1x06_P10.00mm_Vertical_ThermalVias|
+|name|name|Connector_Molex : Molex_Mini-Fit_Sr_42819-62XX_1x06_P10.00mm_Vertical_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Molex_Mini-Fit_Sr_42819-62XX_1x06_P10.00mm_Vertical_ThermalVias', 'description': 'Molex Mini-Fit Sr. Power Connectors, 42819-62XX, With thermal vias in pads, 6 Pins per row (http://www.molex.com/pdm_docs/sd/428192214_sd.pdf), generated with kicad-footprint-generator', 'tags': 'connector Molex Mini-Fit_Sr side entry', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Mini-Fit_Sr_42819-62XX_1x06_P10.00mm_Vertical_ThermalVias.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_42819-62XX_1x06_P10.00mm_Vertical_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_42819-62XX_1x06_P10.00mm_Vertical_ThermalVias/kicadPcb3d_450.png

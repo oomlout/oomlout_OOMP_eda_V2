@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ISIN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Simulation_SPICE-ISIN|
 |Hex ID (short code)|hexID|SZKSIMULATIONSPICEISIN|
-|Name|name|ISIN|
+|name|name|ISIN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'I', 'kicadSymbolValue': 'ISIN', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolSpice_Netlist_Enabled': 'Y', 'kicadSymbolSpice_Primitive': 'I', 'kicadSymbolSpice_Model': 'sin(0 1 1k)', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Current source, sinusoidal'}]|
 ||||

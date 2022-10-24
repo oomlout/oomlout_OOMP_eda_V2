@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Sunlord_MWSA0518_5.4x5.2mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sunlord_MWSA0518_5.4x5.2mm|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLSUNLORDMWSA51854X52|
-|Name|name|Inductor_SMD : L_Sunlord_MWSA0518_5.4x5.2mm|
+|name|name|Inductor_SMD : L_Sunlord_MWSA0518_5.4x5.2mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Sunlord_MWSA0518_5.4x5.2mm', 'description': 'Inductor, Sunlord, MWSA0518, 5.4mmx5.2mm', 'tags': 'inductor Sunlord smd', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Sunlord_MWSA0518.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Sunlord_MWSA0518_5.4x5.2mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Sunlord_MWSA0518_5.4x5.2mm/kicadPcb3d_450.png

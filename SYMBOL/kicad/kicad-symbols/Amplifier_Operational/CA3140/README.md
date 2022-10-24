@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CA3140|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-CA3140|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALCA314|
-|Name|name|CA3140|
+|name|name|CA3140|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CA3130', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CA3140', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.intersil.com/content/dam/intersil/documents/ca31/ca3140-a.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': '4.5MHz, BiMOS Operational Amplifier with MOSFET Input/Bipolar Output, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

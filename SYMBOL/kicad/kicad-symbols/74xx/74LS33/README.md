@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS33|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS33|
 |Hex ID (short code)|hexID|SZK74XX74LS33|
-|Name|name|74LS33|
+|name|name|74LS33|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS33', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS33', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL Nor2 OpenColl', 'kicadSymbolki_description': 'Quad 2-input NOR, Open collector', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

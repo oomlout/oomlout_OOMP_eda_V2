@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADT4-6T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-ADT4-6T|
 |Hex ID (short code)|hexID|SZKTRADT46T|
-|Name|name|ADT4-6T|
+|name|name|ADT4-6T|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ADT1-6T', 'kicadSymbolReference': 'TR', 'kicadSymbolValue': 'ADT4-6T', 'kicadSymbolFootprint': 'RF_Mini-Circuits:Mini-Circuits_CD637_H5.23mm', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/ADT4-6T+.pdf', 'kicadSymbolki_keywords': 'Mini-Circuits RF Transformer', 'kicadSymbolki_description': '1.5-70MHz 1:4 RF Transformer, Unbalanced to Balanced Center Tap, CD637', 'kicadSymbolki_fp_filters': 'Mini?Circuits*CD637*'}]|
 ||||

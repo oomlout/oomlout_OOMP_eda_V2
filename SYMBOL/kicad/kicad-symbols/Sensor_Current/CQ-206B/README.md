@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CQ-206B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-206B|
 |Hex ID (short code)|hexID|SZKSENCURRENTCQ26B|
-|Name|name|CQ-206B|
+|name|name|CQ-206B|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CQ-2063', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CQ-206B', 'kicadSymbolFootprint': 'Sensor_Current:AKM_CQ_7', 'kicadSymbolDatasheet': 'http://www.akm.com/akm/en/file/datasheet/CQ-206B.pdf', 'kicadSymbolki_keywords': 'hall effect current sensor', 'kicadSymbolki_description': 'High-Speed Small-Sized Current Sensor, Unidirectional, 0A to +45A, 90mV/A, CQ-7', 'kicadSymbolki_fp_filters': 'AKM*CQ*'}]|
 ||||

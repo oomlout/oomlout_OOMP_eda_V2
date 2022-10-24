@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HX06-P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-HX06-P|
 |Hex ID (short code)|hexID|SZKSENCURRENTHX6P|
-|Name|name|HX06-P|
+|name|name|HX06-P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HX06-P', 'kicadSymbolFootprint': 'Sensor_Current:LEM_HX06-P', 'kicadSymbolDatasheet': 'https://www.lem.com/sites/default/files/products_datasheets/hx%202_6-p_e%20v5.pdf', 'kicadSymbolki_keywords': 'current transducer', 'kicadSymbolki_description': 'Current Transducer, 6A, Bipolar, +/-15V', 'kicadSymbolki_fp_filters': 'LEM*HX06*P*'}]|
 ||||

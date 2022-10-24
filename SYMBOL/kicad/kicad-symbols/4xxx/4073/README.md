@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4073|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx-4073|
 |Hex ID (short code)|hexID|SZK4XXX473|
-|Name|name|4073|
+|name|name|4073|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4073', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4073bms-81bms-82bms.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'CMOS And3', 'kicadSymbolki_description': 'Triple And 3 inputs', 'kicadSymbolki_fp_filters': 'DIP?14*'}]|
 ||||

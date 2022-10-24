@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LF398_SOIC14|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog-LF398_SOIC14|
 |Hex ID (short code)|hexID|SZKANALOGLF398SOIC14|
-|Name|name|LF398_SOIC14|
+|name|name|LF398_SOIC14|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LF398_SOIC14', 'kicadSymbolFootprint': 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lf398-n.pdf', 'kicadSymbolki_keywords': 'sample hold buffer unity gain', 'kicadSymbolki_description': 'Sample And Hold Unity Gain Follower, SOIC-14', 'kicadSymbolki_fp_filters': '*SOIC*3.9x8.7mm*P1.27mm*'}]|
 ||||

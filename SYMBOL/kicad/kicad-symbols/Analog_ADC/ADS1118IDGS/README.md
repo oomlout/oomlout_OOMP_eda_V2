@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADS1118IDGS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1118IDGS|
 |Hex ID (short code)|hexID|SZKANALOGADCADS1118IDGS|
-|Name|name|ADS1118IDGS|
+|name|name|ADS1118IDGS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ADS1018IDGS', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADS1118IDGS', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ads1118.pdf', 'kicadSymbolki_keywords': '16 bit 4 channel SPI ADC', 'kicadSymbolki_description': 'Ultrasmall, Low-Power, SPI-Compatible, 16-Bit Analog-to-Digital Converter with Internal Reference and Temperature Sensor, VSSOP-10', 'kicadSymbolki_fp_filters': 'TSSOP*3x3mm*P0.5mm*'}]|
 ||||

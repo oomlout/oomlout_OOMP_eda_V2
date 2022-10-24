@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XLR4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-XLR4|
 |Hex ID (short code)|hexID|SZKCNXLR4|
-|Name|name|XLR4|
+|name|name|XLR4|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'XLR4', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'xlr connector', 'kicadSymbolki_description': 'XLR Connector, Male or Female, 4 Pins', 'kicadSymbolki_fp_filters': 'Jack*XLR*'}]|
 ||||

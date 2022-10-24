@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|WEEE-Logo_8.4x12mm_SilkScreen|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-WEEE-Logo_8.4x12mm_SilkScreen|
 |Hex ID (short code)|hexID|FZKSZWEEEL84X12SILKSCREEN|
-|Name|name|Symbol : WEEE-Logo_8.4x12mm_SilkScreen|
+|name|name|Symbol : WEEE-Logo_8.4x12mm_SilkScreen|
 |Footprint Kicad|footprintKicadDetails|{'name': 'WEEE-Logo_8.4x12mm_SilkScreen', 'description': 'Waste Electrical and Electronic Equipment Directive', 'tags': 'Logo WEEE', 'attributeType': None, 'pins': {}}|
 ||||

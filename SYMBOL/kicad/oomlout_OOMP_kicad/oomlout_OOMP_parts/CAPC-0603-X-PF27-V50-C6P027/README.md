@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0603-X-PF27-V50-C6P027|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-PF27-V50-C6P027|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XPF27V5C6P27|
-|Name|name|CAPC-0603-X-PF27-V50-C6P027|
+|name|name|CAPC-0603-X-PF27-V50-C6P027|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0603-X-PF27-V50-C6P027', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0603-X-PF27-V50-C6P027', 'kicadSymbolDatasheet': 'oom.lt/C6P027', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C6P027;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

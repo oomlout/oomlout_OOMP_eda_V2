@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED-L1T2_LUMILEDS|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED-L1T2_LUMILEDS|
 |Hex ID (short code)|hexID|FZKLSMLL1T2LUMS|
-|Name|name|LED_SMD : LED-L1T2_LUMILEDS|
+|name|name|LED_SMD : LED-L1T2_LUMILEDS|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED-L1T2_LUMILEDS', 'description': 'http://www.lumileds.com/uploads/438/DS133-pdf', 'tags': 'LUMILEDS LUXEON TX L1T2 LED', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED-L1T2_LUMILEDS.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED-L1T2_LUMILEDS/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED-L1T2_LUMILEDS/kicadPcb3d_450.png

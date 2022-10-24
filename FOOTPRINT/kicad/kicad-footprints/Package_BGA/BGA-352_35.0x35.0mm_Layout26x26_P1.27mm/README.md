@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|BGA-352_35.0x35.0mm_Layout26x26_P1.27mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-352_35.0x35.0mm_Layout26x26_P1.27mm|
 |Hex ID (short code)|hexID|FZKBGABGA35235X35LAYOUT26X26P127|
-|Name|name|Package_BGA : BGA-352_35.0x35.0mm_Layout26x26_P1.27mm|
+|name|name|Package_BGA : BGA-352_35.0x35.0mm_Layout26x26_P1.27mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'BGA-352_35.0x35.0mm_Layout26x26_P1.27mm', 'description': 'BGA-352, https://www.fujitsu.com/downloads/MICRO/fma/pdfmcu/b352p05.pdf', 'tags': 'BGA-352', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-352_35.0x35.0mm_Layout26x26_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-352_35.0x35.0mm_Layout26x26_P1.27mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-352_35.0x35.0mm_Layout26x26_P1.27mm/kicadPcb3d_450.png

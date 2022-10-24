@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLE8104E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-TLE8104E|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTTLE814E|
-|Name|name|TLE8104E|
+|name|name|TLE8104E|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'IC', 'kicadSymbolValue': 'TLE8104E', 'kicadSymbolFootprint': 'Package_SO:Infineon_PG-DSO-20-30_ThermalVias', 'kicadSymbolDatasheet': 'http://www.infineon.com/dgdl/Infineon-TLE8104E-DS-v01_04-en.pdf?fileId=db3a304318f3fe2901190401cfda7f25', 'kicadSymbolki_keywords': 'Low_Side_Switch Power', 'kicadSymbolki_description': 'Smart Quad Channel Powertrain Switch 4x3A (In=1A, Ilim=3A, Ron=320mOhm)', 'kicadSymbolki_fp_filters': '*PG?DSO*'}]|
 ||||

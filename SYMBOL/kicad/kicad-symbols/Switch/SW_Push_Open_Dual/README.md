@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_Push_Open_Dual|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_Push_Open_Dual|
 |Hex ID (short code)|hexID|SZKSWITCHSWPUSHOPENDUAL|
-|Name|name|SW_Push_Open_Dual|
+|name|name|SW_Push_Open_Dual|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_Push_Open_Dual', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'switch normally-closed pushbutton push-button', 'kicadSymbolki_description': 'Push button switch, normally closed, generic, four pins'}]|
 ||||

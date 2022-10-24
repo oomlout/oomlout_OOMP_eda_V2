@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Molex_Micro-Fit_3.0_43650-1100_1x11_P3.00mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Fit_3.0_43650-1100_1x11_P3.00mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNMXMXMFIT34365111X11P3HORIZONTAL|
-|Name|name|Connector_Molex : Molex_Micro-Fit_3.0_43650-1100_1x11_P3.00mm_Horizontal|
+|name|name|Connector_Molex : Molex_Micro-Fit_3.0_43650-1100_1x11_P3.00mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Molex_Micro-Fit_3.0_43650-1100_1x11_P3.00mm_Horizontal', 'description': 'Molex Micro-Fit 3.0 Connector System, 43650-1100 (compatible alternatives: 43650-1101, 43650-1102), 11 Pins per row (https://www.molex.com/pdm_docs/sd/436500300_sd.pdf), generated with kicad-footprint-generator', 'tags': 'connector Molex Micro-Fit_3.0 top entry', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Micro-Fit_3.0_43650-1100_1x11_P3.00mm_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Micro-Fit_3.0_43650-1100_1x11_P3.00mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Micro-Fit_3.0_43650-1100_1x11_P3.00mm_Horizontal/kicadPcb3d_450.png

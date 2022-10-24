@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|YM2149|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-YM2149|
 |Hex ID (short code)|hexID|SZKAUDIOYM2149|
-|Name|name|YM2149|
+|name|name|YM2149|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'YM2149', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://www.ym2149.com/ym2149.pdf', 'kicadSymbolki_keywords': 'audio ssg 3ch', 'kicadSymbolki_description': 'Software-Controlled Sound Generator, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

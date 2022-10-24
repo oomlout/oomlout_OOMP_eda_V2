@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega128-16A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega128-16A|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA12816A|
-|Name|name|ATmega128-16A|
+|name|name|ATmega128-16A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATmega64L-8A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega128-16A', 'kicadSymbolFootprint': 'Package_QFP:TQFP-64_14x14mm_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc2467.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR', 'kicadSymbolki_description': '16MHz, 128kB Flash, 4kB SRAM, 4kB EEPROM, JTAG, TQFP-64', 'kicadSymbolki_fp_filters': 'TQFP*14x14mm*P0.8mm*'}]|
 ||||

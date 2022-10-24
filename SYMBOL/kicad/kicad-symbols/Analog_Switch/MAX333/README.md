@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX333|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX333|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHMAX333|
-|Name|name|MAX333|
+|name|name|MAX333|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX333', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX333.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Quad SPDT CMOS Analog Switch, DIP-20/SOIC-20/SSOP-20', 'kicadSymbolki_fp_filters': 'SSOP*5.3x7.2mm*P0.65mm* SOIC*7.5x10.3mm*P1.27mm* DIP*W7.62mm*'}]|
 ||||

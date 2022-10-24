@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DE113-XX-XX|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-DE113-XX-XX|
 |Hex ID (short code)|hexID|FZKDI7SDE113XXXX|
-|Name|name|Display_7Segment : DE113-XX-XX|
+|name|name|Display_7Segment : DE113-XX-XX|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DE113-XX-XX', 'description': 'http://www.display-elektronik.de/filter/DE113-RS-20_635.pdf', 'tags': '3 1/5 digit LOW BAT + 7-Segment LCD', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/DE113-XX-XX.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/DE113-XX-XX/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Display_7Segment/DE113-XX-XX/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|KTY83|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-KTY83|
 |Hex ID (short code)|hexID|SZKSENTEMPERATUREKTY83|
-|Name|name|KTY83|
+|name|name|KTY83|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TH', 'kicadSymbolValue': 'KTY83', 'kicadSymbolFootprint': 'Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal', 'kicadSymbolDatasheet': 'http://www.nxp.com/documents/data_sheet/KTY83_SER.pdf', 'kicadSymbolki_keywords': 'silicon temperature sensors diode', 'kicadSymbolki_description': 'KTY83 series silicon temperature sensors, polarized, SOD68', 'kicadSymbolki_fp_filters': '*DO?34*SOD68*'}]|
 ||||

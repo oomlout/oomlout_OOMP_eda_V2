@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|1N53xxB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-1N53xxB|
 |Hex ID (short code)|hexID|SZKDIODE1N53XXB|
-|Name|name|1N53xxB|
+|name|name|1N53xxB|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZPYxx', 'kicadSymbolReference': 'D', 'kicadSymbolValue': '1N53xxB', 'kicadSymbolFootprint': 'Diode_THT:D_DO-201_P15.24mm_Horizontal', 'kicadSymbolDatasheet': 'https://diotec.com/tl_files/diotec/files/pdf/datasheets/1n5345b.pdf', 'kicadSymbolki_keywords': 'zener diode', 'kicadSymbolki_description': '5000mW Zener Diode, DO-201', 'kicadSymbolki_fp_filters': 'D*DO?201*'}]|
 ||||

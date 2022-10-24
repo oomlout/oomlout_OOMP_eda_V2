@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC6800|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPU_NXP_6800-MC6800|
 |Hex ID (short code)|hexID|SZKCPUNXP68MC68|
-|Name|name|MC6800|
+|name|name|MC6800|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC6800', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://pdf.datasheetcatalog.com/datasheet/motorola/MC68A00L.pdf', 'kicadSymbolki_keywords': 'MCU', 'kicadSymbolki_description': '8-Bit Microprocessing unit 1.0MHz, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

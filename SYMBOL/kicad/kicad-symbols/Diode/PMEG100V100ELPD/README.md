@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PMEG100V100ELPD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-PMEG100V100ELPD|
 |Hex ID (short code)|hexID|SZKDIODEPMEG1V1ELPD|
-|Name|name|PMEG100V100ELPD|
+|name|name|PMEG100V100ELPD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PMEG45A10EPD', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'PMEG100V100ELPD', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:Nexperia_CFP15_SOT-1289', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/PMEG100V100ELPD.pdf', 'kicadSymbolki_keywords': 'ir diode', 'kicadSymbolki_description': '100V, 10A low leakage current MEGA Schottky barrier rectifier, SOT-1289', 'kicadSymbolki_fp_filters': 'Nexperia*CFP15*SOT?1289*'}]|
 ||||

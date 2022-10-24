@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|2SB817|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SB817|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJT2SB817|
-|Name|name|2SB817|
+|name|name|2SB817|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': '2SB817', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-3PB-3_Vertical', 'kicadSymbolDatasheet': 'http://skory.gylcomp.hu/alkatresz/2SB817.pdf', 'kicadSymbolki_keywords': 'Power PNP Transistor', 'kicadSymbolki_description': '-12A Ic, -140V Vce, Silicon Power PNP Transistors, TO-3PB', 'kicadSymbolki_fp_filters': 'TO?3PB*'}]|
 ||||

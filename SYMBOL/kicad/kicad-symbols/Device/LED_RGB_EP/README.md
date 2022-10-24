@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_RGB_EP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_RGB_EP|
 |Hex ID (short code)|hexID|SZKDEVICELRGBEP|
-|Name|name|LED_RGB_EP|
+|name|name|LED_RGB_EP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_RGB_EP', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED RGB diode', 'kicadSymbolki_description': 'RGB LED, 6 pin package with exposed pad', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM78M05_TO252|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM78M05_TO252|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM78M5TO252|
-|Name|name|LM78M05_TO252|
+|name|name|LM78M05_TO252|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM78M05_TO252', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-2', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MC78M00-D.PDF', 'kicadSymbolki_keywords': 'Voltage Regulator 500mA Positive', 'kicadSymbolki_description': 'Positive 500mA 35V Linear Regulator, Fixed Output 5V, TO-252 (D-PAK)', 'kicadSymbolki_fp_filters': 'TO?252*'}]|
 ||||

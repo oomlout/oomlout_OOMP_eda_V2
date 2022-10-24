@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VPWL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VPWL|
 |Hex ID (short code)|hexID|SZKSIMULATIONSPICEVPWL|
-|Name|name|VPWL|
+|name|name|VPWL|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'V', 'kicadSymbolValue': 'VPWL', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolSpice_Netlist_Enabled': 'Y', 'kicadSymbolSpice_Primitive': 'V', 'kicadSymbolSpice_Model': 'pwl(0 -1 50n -1 51n 0 97n 1 171n -1 200n -1)', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Voltage source, piece-wise linear'}]|
 ||||

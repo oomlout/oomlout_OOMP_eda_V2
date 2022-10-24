@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRS2110S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2110S|
 |Hex ID (short code)|hexID|SZKDRIVERFETIRS211S|
-|Name|name|IRS2110S|
+|name|name|IRS2110S|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IR2010S', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IRS2110S', 'kicadSymbolFootprint': 'Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irs2110.pdf?fileId=5546d462533600a40153567660ff27b0', 'kicadSymbolki_keywords': 'Gate Driver', 'kicadSymbolki_description': 'High and Low Side Driver, 500V, 2.0/2.0A, SOIC-16W', 'kicadSymbolki_fp_filters': 'SOIC*7.5x10.3mm*P1.27mm*'}]|
 ||||

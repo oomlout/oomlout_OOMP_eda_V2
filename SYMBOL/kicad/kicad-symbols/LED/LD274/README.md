@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LD274|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-LED-LD274|
 |Hex ID (short code)|hexID|SZKLLD274|
-|Name|name|LD274|
+|name|name|LD274|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LD271', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LD274', 'kicadSymbolFootprint': 'LED_THT:LED_D5.0mm_IRGrey', 'kicadSymbolDatasheet': 'http://pdf.datasheetcatalog.com/datasheet/siemens/LD274.pdf', 'kicadSymbolki_keywords': 'IR LED', 'kicadSymbolki_description': '950nm IR-LED, 5mm', 'kicadSymbolki_fp_filters': 'LED*5.0mm*IRGrey*'}]|
 ||||

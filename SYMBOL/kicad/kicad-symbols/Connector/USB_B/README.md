@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|USB_B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-USB_B|
 |Hex ID (short code)|hexID|SZKCNUB|
-|Name|name|USB_B|
+|name|name|USB_B|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'USB_B', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'connector USB', 'kicadSymbolki_description': 'USB Type B connector', 'kicadSymbolki_fp_filters': 'USB*'}]|
 ||||

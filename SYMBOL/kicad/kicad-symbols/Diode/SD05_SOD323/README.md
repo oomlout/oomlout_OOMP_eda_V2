@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SD05_SOD323|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-SD05_SOD323|
 |Hex ID (short code)|hexID|SZKDIODESD5SOD323|
-|Name|name|SD05_SOD323|
+|name|name|SD05_SOD323|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SD05_SOD323', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-323', 'kicadSymbolDatasheet': 'https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sd_c_datasheet.pdf.pdf', 'kicadSymbolki_keywords': 'transient voltage suppressor thyrector transil', 'kicadSymbolki_description': '5V, 450W Discrete Bidirectional TVS Diode, SOD-323', 'kicadSymbolki_fp_filters': 'D?SOD?323*'}]|
 ||||

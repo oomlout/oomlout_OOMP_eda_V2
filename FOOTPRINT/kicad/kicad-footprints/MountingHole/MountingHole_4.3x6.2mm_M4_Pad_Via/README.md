@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MountingHole_4.3x6.2mm_M4_Pad_Via|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_4.3x6.2mm_M4_Pad_Via|
 |Hex ID (short code)|hexID|FZKHOLHOL43X62M4PADVIA|
-|Name|name|MountingHole : MountingHole_4.3x6.2mm_M4_Pad_Via|
+|name|name|MountingHole : MountingHole_4.3x6.2mm_M4_Pad_Via|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_4.3x6.2mm_M4_Pad_Via', 'description': 'Mounting Hole 4.3x6.2mm, M4', 'tags': 'mounting hole 4.3x6.2mm m4', 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_4.3x6.2mm_M4_Pad_Via/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_4.3x6.2mm_M4_Pad_Via/kicadPcb3d_450.png

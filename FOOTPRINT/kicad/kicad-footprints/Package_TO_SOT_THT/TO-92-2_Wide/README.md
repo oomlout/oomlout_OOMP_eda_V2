@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-92-2_Wide|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-92-2_Wide|
 |Hex ID (short code)|hexID|FZKSOTTO922WIDE|
-|Name|name|Package_TO_SOT_THT : TO-92-2_Wide|
+|name|name|Package_TO_SOT_THT : TO-92-2_Wide|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-92-2_Wide', 'description': 'TO-92 2-pin leads in-line, wide, drill 0.75mm', 'tags': 'to-92 sc-43 sc-43a sot54 PA33 diode SOD70', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92-2_Wide.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-92-2_Wide/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-92-2_Wide/kicadPcb3d_450.png

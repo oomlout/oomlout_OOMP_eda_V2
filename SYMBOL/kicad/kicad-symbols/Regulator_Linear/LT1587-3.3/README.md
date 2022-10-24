@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1587-3.3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1587-3.3|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLT158733|
-|Name|name|LT1587-3.3|
+|name|name|LT1587-3.3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LT1585-3.3', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1587-3.3', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/158457a.pdf', 'kicadSymbolki_keywords': 'Voltage Regulator 3A Positive Fixed', 'kicadSymbolki_description': 'Positive 3A 35V Low Dropout Fast Response Linear Regulator, Fixed Output 3.3V, TO-220/TO-263', 'kicadSymbolki_fp_filters': 'TO?220* TO?263*'}]|
 ||||

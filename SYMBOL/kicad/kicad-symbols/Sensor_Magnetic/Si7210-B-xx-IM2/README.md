@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Si7210-B-xx-IM2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-Si7210-B-xx-IM2|
 |Hex ID (short code)|hexID|SZKSENMAGNETICSI721BXXIM2|
-|Name|name|Si7210-B-xx-IM2|
+|name|name|Si7210-B-xx-IM2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Si7210-B-xx-IM2', 'kicadSymbolFootprint': 'Package_DFN_QFN:TDFN-8_1.4x1.6mm_P0.4mm', 'kicadSymbolDatasheet': 'https://www.silabs.com/documents/public/data-sheets/si7210-datasheet.pdf', 'kicadSymbolki_keywords': 'I2C hall effect magnetic postition temperature sensor', 'kicadSymbolki_description': 'I2C Hall Effect Magnetic Position and Temperature Sensor, TDFN-8', 'kicadSymbolki_fp_filters': 'TDFN-8*1.4x1.6mm*P0.4mm*'}]|
 ||||

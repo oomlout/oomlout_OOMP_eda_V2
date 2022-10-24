@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DFA-S11|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-DFA-S11|
 |Hex ID (short code)|hexID|SZKOCSDFAS11|
-|Name|name|DFA-S11|
+|name|name|DFA-S11|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'X', 'kicadSymbolValue': 'DFA-S11', 'kicadSymbolFootprint': 'Oscillator:Oscillator_SMD_Fordahl_DFAS11-4Pin_7.0x5.0mm', 'kicadSymbolDatasheet': 'http://www.metatech.com.hk/product/fordahl/pdf/2002%20TCXO%20Page%2043-58.pdf', 'kicadSymbolki_keywords': 'Temperature compensated Crystal Clock Oscillator', 'kicadSymbolki_description': 'Temperature compensated Crystal Clock Oscillator', 'kicadSymbolki_fp_filters': 'Oscillator*SMD*Fordahl*DFAS11*7.0x5.0mm*'}]|
 ||||

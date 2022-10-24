@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Diode_Bridge_Vishay_DFS|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Vishay_DFS|
 |Hex ID (short code)|hexID|FZKDIODESMDIODEBRIDGEVISHAYDFS|
-|Name|name|Diode_SMD : Diode_Bridge_Vishay_DFS|
+|name|name|Diode_SMD : Diode_Bridge_Vishay_DFS|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Diode_Bridge_Vishay_DFS', 'description': 'SMD diode bridge DFS, see http://www.vishay.com/docs/88854/padlayouts.pdf', 'tags': 'DFS', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/Diode_Bridge_Vishay_DFS.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Vishay_DFS/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Vishay_DFS/kicadPcb3d_450.png

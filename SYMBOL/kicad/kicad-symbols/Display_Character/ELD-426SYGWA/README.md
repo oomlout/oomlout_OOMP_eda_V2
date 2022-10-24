@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ELD-426SYGWA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-ELD-426SYGWA|
 |Hex ID (short code)|hexID|SZKDICHARACTERELD426SYGWA|
-|Name|name|ELD-426SYGWA|
+|name|name|ELD-426SYGWA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ELD-426SYGWA', 'kicadSymbolFootprint': 'Display_7Segment:ELD_426XXXX', 'kicadSymbolDatasheet': 'http://www.everlight.com/file/ProductFile/D426SYGWA-S530-E2.pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'Double 7 segment brilliant yellow green LED common anode', 'kicadSymbolki_fp_filters': '*ELD*426*'}]|
 ||||

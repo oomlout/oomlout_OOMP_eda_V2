@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Symbol_CreativeCommons_CopperTop_Type2_Small|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CreativeCommons_CopperTop_Type2_Small|
 |Hex ID (short code)|hexID|FZKSZSYCREATIVECOONSCTOPTYPE2SLL|
-|Name|name|Symbol : Symbol_CreativeCommons_CopperTop_Type2_Small|
+|name|name|Symbol : Symbol_CreativeCommons_CopperTop_Type2_Small|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Symbol_CreativeCommons_CopperTop_Type2_Small', 'description': 'Symbol, Creative Commons, CopperTop, Type 2, Small,', 'tags': 'Symbol, Creative Commons, CopperTop, Type 2, Small,', 'attributeType': None, 'pins': {}}|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS63000|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS63000|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS63|
-|Name|name|TPS63000|
+|name|name|TPS63000|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS63000', 'kicadSymbolFootprint': 'Package_SON:Texas_DRC0010J_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps63000.pdf', 'kicadSymbolki_keywords': 'Buck-Boost adjustable converter', 'kicadSymbolki_description': 'Buck-Boost Converter, 1.8-5.5V Input Voltage, 1.8A Switch Current, Adjustable 1.2-5.5V Output Voltage, VSON-10', 'kicadSymbolki_fp_filters': 'Texas*DRC0010J*'}]|
 ||||

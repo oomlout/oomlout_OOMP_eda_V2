@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STUSB4500QTR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-STUSB4500QTR|
 |Hex ID (short code)|hexID|SZKINTERFACEUSTU45QTR|
-|Name|name|STUSB4500QTR|
+|name|name|STUSB4500QTR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STUSB4500QTR', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/stusb4500.pdf', 'kicadSymbolki_keywords': 'USB PD Type C Sink', 'kicadSymbolki_description': 'Stand-alone USB PD controller (with sink Auto-run mode), QFN-24', 'kicadSymbolki_fp_filters': 'QFN*4x4mm*P0.5mm*'}]|
 ||||

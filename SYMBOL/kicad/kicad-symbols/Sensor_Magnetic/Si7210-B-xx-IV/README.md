@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Si7210-B-xx-IV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-Si7210-B-xx-IV|
 |Hex ID (short code)|hexID|SZKSENMAGNETICSI721BXXIV|
-|Name|name|Si7210-B-xx-IV|
+|name|name|Si7210-B-xx-IV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Si7210-B-xx-IV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.silabs.com/documents/public/data-sheets/si7210-datasheet.pdf', 'kicadSymbolki_keywords': 'I2C hall effect magnetic postition temperature sensor', 'kicadSymbolki_description': 'I2C Hall Effect Magnetic Position and Temperature Sensor, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT-23-5*'}]|
 ||||

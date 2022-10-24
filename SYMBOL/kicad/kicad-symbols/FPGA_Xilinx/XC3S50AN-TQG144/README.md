@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC3S50AN-TQG144|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3S50AN-TQG144|
 |Hex ID (short code)|hexID|SZKFPGAXILINXXC3S5ANTQG144|
-|Name|name|XC3S50AN-TQG144|
+|name|name|XC3S50AN-TQG144|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC3S50AN-TQG144', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_fp_filters': 'TQFP144'}]|
 ||||

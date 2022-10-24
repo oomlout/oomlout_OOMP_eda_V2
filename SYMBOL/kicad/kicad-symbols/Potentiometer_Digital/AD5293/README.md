@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD5293|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-AD5293|
 |Hex ID (short code)|hexID|SZKPOTENTIOMETERDIGITALAD5293|
-|Name|name|AD5293|
+|name|name|AD5293|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD5293', 'kicadSymbolFootprint': 'Package_SO:TSSOP-14_4.4x5mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD5293.pdf', 'kicadSymbolki_keywords': 'R POT', 'kicadSymbolki_description': 'Digital potentiometer 1024 pos (SPI), TSSOP-14', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x5mm*P0.65mm*'}]|
 ||||

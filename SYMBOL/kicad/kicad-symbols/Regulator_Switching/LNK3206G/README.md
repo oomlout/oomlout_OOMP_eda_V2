@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LNK3206G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK3206G|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK326G|
-|Name|name|LNK3206G|
+|name|name|LNK3206G|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LNK3202G', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LNK3206G', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_SMD-8C', 'kicadSymbolDatasheet': 'https://ac-dc.power.com/sites/default/files/product-docs/LinkSwitch-TN2_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Lowest Component Count, Energy-Efficient Off-Line Switcher IC', 'kicadSymbolki_description': 'LinkSwitch-TN2 Family, 360mA Output Current, SMD-8C', 'kicadSymbolki_fp_filters': 'PowerIntegrations?SMD?8C*'}]|
 ||||

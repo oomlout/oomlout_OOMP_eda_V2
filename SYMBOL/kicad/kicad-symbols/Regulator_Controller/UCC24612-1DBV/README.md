@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|UCC24612-1DBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC24612-1DBV|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERUCC246121DBV|
-|Name|name|UCC24612-1DBV|
+|name|name|UCC24612-1DBV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'UCC24612-1DBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ucc24612.pdf', 'kicadSymbolki_keywords': 'synchronous rectifier controller', 'kicadSymbolki_description': 'High Frequency Synchronous Rectifier Controller, 1MHz, Min On Time = 375ns, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

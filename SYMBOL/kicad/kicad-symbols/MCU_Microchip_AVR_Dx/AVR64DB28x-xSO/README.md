@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AVR64DB28x-xSO|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR64DB28x-xSO|
 |Hex ID (short code)|hexID|SZKMCUMCHIPAVRDXAVR64DB28XXSO|
-|Name|name|AVR64DB28x-xSO|
+|name|name|AVR64DB28x-xSO|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AVR32DB28x-xSO', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AVR64DB28x-xSO', 'kicadSymbolFootprint': 'Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://ww1.microchip.com/downloads/en/DeviceDoc/AVR64DB28-32-48-64-DataSheet-DS40002300A.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller AVR-DB', 'kicadSymbolki_description': '24MHz, 64kB Flash, 8kB SRAM, EEPROM with Op Amps and Multi-Voltage I/O, SOIC-28', 'kicadSymbolki_fp_filters': 'SOIC*7.5x17.9mm*P1.27mm*'}]|
 ||||

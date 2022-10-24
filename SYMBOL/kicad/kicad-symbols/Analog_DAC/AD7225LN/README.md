@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD7225LN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7225LN|
 |Hex ID (short code)|hexID|SZKANALOGDACAD7225LN|
-|Name|name|AD7225LN|
+|name|name|AD7225LN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AD7225KN', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD7225LN', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/static/imported-files/data_sheets/AD7225.pdf', 'kicadSymbolki_keywords': '8bit DAC 4CH', 'kicadSymbolki_description': 'Quad 8bit DAC, Separate Reference Voltage, PDIP-24', 'kicadSymbolki_fp_filters': 'DIP* PDIP*'}]|
 ||||

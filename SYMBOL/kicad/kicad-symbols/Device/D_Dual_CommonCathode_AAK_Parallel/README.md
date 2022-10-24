@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Dual_CommonCathode_AAK_Parallel|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonCathode_AAK_Parallel|
 |Hex ID (short code)|hexID|SZKDEVICEDDUALCOONCATHODEAAKPARALLEL|
-|Name|name|D_Dual_CommonCathode_AAK_Parallel|
+|name|name|D_Dual_CommonCathode_AAK_Parallel|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Dual_CommonCathode_AAK_Parallel', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Dual diode, common anode on pin 1'}]|
 ||||

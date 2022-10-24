@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1117-ADJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1117-ADJ|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLT1117ADJ|
-|Name|name|LT1117-ADJ|
+|name|name|LT1117-ADJ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1117-ADJ', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1117fd.pdf', 'kicadSymbolki_keywords': 'linear regulator ldo adjustable positive', 'kicadSymbolki_description': '800mA Low-Dropout Linear Regulator, adjustable output, SOT-223/TO-263', 'kicadSymbolki_fp_filters': 'SOT?223* TO?263*'}]|
 ||||

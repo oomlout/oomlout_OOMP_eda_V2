@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Converter_DCDC_Murata_MGJ2DxxxxxxSC_THT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Murata_MGJ2DxxxxxxSC_THT|
 |Hex ID (short code)|hexID|FZKCONCONMMGJ2DXXXXXXSCTHT|
-|Name|name|Converter_DCDC : Converter_DCDC_Murata_MGJ2DxxxxxxSC_THT|
+|name|name|Converter_DCDC : Converter_DCDC_Murata_MGJ2DxxxxxxSC_THT|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_Murata_MGJ2DxxxxxxSC_THT', 'description': 'Murata MGJ2DxxxxxxSC, 19.5x9.8x12.5mm, 5.2kVDC Isolated, 2W, SIP package style, https://power.murata.com/data/power/ncl/kdc_mgj2.pdf', 'tags': 'Murata MGJ2DxxxxxxSC', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Murata_MGJ2DxxxxxxSC_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Murata_MGJ2DxxxxxxSC_THT/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Murata_MGJ2DxxxxxxSC_THT/kicadPcb3d_450.png

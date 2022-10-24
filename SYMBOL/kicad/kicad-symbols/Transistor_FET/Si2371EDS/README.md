@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Si2371EDS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-Si2371EDS|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETSI2371EDS|
-|Name|name|Si2371EDS|
+|name|name|Si2371EDS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TP0610T', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Si2371EDS', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/63924/si2371eds.pdf', 'kicadSymbolki_keywords': 'P-Channel MOSFET', 'kicadSymbolki_description': '-3.6A Id, -30V Vds, P-Channel MOSFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

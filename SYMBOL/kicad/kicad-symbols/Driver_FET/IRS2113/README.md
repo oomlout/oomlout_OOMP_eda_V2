@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRS2113|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2113|
 |Hex ID (short code)|hexID|SZKDRIVERFETIRS2113|
-|Name|name|IRS2113|
+|name|name|IRS2113|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IR2010', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IRS2113', 'kicadSymbolFootprint': 'Package_DIP:DIP-14_W7.62mm', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irs2110.pdf?fileId=5546d462533600a40153567660ff27b0', 'kicadSymbolki_keywords': 'Gate Driver', 'kicadSymbolki_description': 'High and Low Side Driver, 600V, 2.0/2.0A, PDIP-14', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

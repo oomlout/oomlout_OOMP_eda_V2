@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L6564|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6564|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERL6564|
-|Name|name|L6564|
+|name|name|L6564|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'L6564', 'kicadSymbolFootprint': 'Package_SO:SSOP-10_3.9x4.9mm_P1.00mm', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/l6564.pdf', 'kicadSymbolki_keywords': 'SMPS pfc controller', 'kicadSymbolki_description': '10-Pin Transition-Mode PFC Controller, SSOP-10', 'kicadSymbolki_fp_filters': 'SSOP*3.9x4.9mm*P1.00mm*'}]|
 ||||

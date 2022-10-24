@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DB37_Male_MountingHoles|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DB37_Male_MountingHoles|
 |Hex ID (short code)|hexID|SZKCNDB37MALEHOLS|
-|Name|name|DB37_Male_MountingHoles|
+|name|name|DB37_Male_MountingHoles|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DB37_Male_MountingHoles', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'male D-SUB connector', 'kicadSymbolki_description': '37-pin male D-SUB connector, Mounting Hole', 'kicadSymbolki_fp_filters': 'DSUB*Male*'}]|
 ||||

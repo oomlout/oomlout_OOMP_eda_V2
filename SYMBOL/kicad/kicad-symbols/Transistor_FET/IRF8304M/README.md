@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF8304M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF8304M|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF834M|
-|Name|name|IRF8304M|
+|name|name|IRF8304M|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSB008NE2LX', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF8304M', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_MX', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irf8304mpbf.pdf?fileId=5546d462533600a40153560d20db1d5d', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '28A Id, 30V Vds, 2.2mOhm Rds, N-Channel MOSFET, DirectFET MX', 'kicadSymbolki_fp_filters': 'DirectFET*MX*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NC7SZ125M5X|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-NC7SZ125M5X|
 |Hex ID (short code)|hexID|SZK74XGXXNC7SZ125M5X|
-|Name|name|NC7SZ125M5X|
+|name|name|NC7SZ125M5X|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NC7SZ125M5X', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pdf/datasheet/nc7sz125-d.pdf', 'kicadSymbolki_keywords': 'buffer three-state', 'kicadSymbolki_description': 'TinyLogic UHS Buffer with Three-State Output, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

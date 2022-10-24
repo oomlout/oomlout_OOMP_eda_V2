@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TMP36xS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP36xS|
 |Hex ID (short code)|hexID|SZKSENTEMPERATURETMP36XS|
-|Name|name|TMP36xS|
+|name|name|TMP36xS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TMP36xS', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/TMP35_36_37.pdf', 'kicadSymbolki_keywords': 'Temperature Sensor SOIC-8', 'kicadSymbolki_description': 'Low Voltage Temperature Sensor, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC?8*3.9x4.9mm*P1.27mm*'}]|
 ||||

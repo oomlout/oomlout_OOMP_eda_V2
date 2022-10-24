@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Z3SMCxxx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-Z3SMCxxx|
 |Hex ID (short code)|hexID|SZKDIODEZ3SMCXXX|
-|Name|name|Z3SMCxxx|
+|name|name|Z3SMCxxx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZPYxx', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'Z3SMCxxx', 'kicadSymbolFootprint': 'Diode_SMD:D_SMC', 'kicadSymbolDatasheet': 'https://diotec.com/tl_files/diotec/files/pdf/datasheets/z3smc1.pdf', 'kicadSymbolki_keywords': 'zener diode', 'kicadSymbolki_description': '3000mW Zener Diode, SMC(DO-214AB)', 'kicadSymbolki_fp_filters': 'D?SMC*'}]|
 ||||

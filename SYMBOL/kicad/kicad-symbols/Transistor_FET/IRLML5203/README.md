@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRLML5203|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLML5203|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRLML523|
-|Name|name|IRLML5203|
+|name|name|IRLML5203|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TP0610T', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRLML5203', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irlml5203pbf.pdf?fileId=5546d462533600a40153566868da261d', 'kicadSymbolki_keywords': 'P-Channel HEXFET MOSFET', 'kicadSymbolki_description': '-3.0A Id, -30V Vds, 98mOhm Rds, P-Channel HEXFET Power MOSFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

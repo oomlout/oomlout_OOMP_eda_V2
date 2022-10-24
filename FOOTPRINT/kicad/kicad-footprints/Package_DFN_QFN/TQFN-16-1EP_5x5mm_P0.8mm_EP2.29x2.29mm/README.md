@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TQFN-16-1EP_5x5mm_P0.8mm_EP2.29x2.29mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-TQFN-16-1EP_5x5mm_P0.8mm_EP2.29x2.29mm|
 |Hex ID (short code)|hexID|FZKDFNTQFN161EP5X5P8EP229X229|
-|Name|name|Package_DFN_QFN : TQFN-16-1EP_5x5mm_P0.8mm_EP2.29x2.29mm|
+|name|name|Package_DFN_QFN : TQFN-16-1EP_5x5mm_P0.8mm_EP2.29x2.29mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TQFN-16-1EP_5x5mm_P0.8mm_EP2.29x2.29mm', 'description': 'TQFN, 16 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0140.PDF (T1655-4)), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'TQFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/TQFN-16-1EP_5x5mm_P0.8mm_EP2.29x2.29mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/TQFN-16-1EP_5x5mm_P0.8mm_EP2.29x2.29mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/TQFN-16-1EP_5x5mm_P0.8mm_EP2.29x2.29mm/kicadPcb3d_450.png

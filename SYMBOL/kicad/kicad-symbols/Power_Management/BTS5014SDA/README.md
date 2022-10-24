@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BTS5014SDA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-BTS5014SDA|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTBTS514SDA|
-|Name|name|BTS5014SDA|
+|name|name|BTS5014SDA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BTS50080-1TEA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BTS5014SDA', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-4', 'kicadSymbolDatasheet': 'http://www.infineon.com/dgdl/Infineon-BTS5014SDA-DS-v01_01-EN.pdf?fileId=5546d4625a888733015aa42c708e1142', 'kicadSymbolki_keywords': 'infineon power switch', 'kicadSymbolki_description': 'Smart High-Side Power Switch, PROFET, Single, 28mOhm, 6A, 20V, TO252-5', 'kicadSymbolki_fp_filters': 'TO*252*'}]|
 ||||

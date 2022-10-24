@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FOD420|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay_SolidState-FOD420|
 |Hex ID (short code)|hexID|SZKRELAYSOLIDSTATEFOD42|
-|Name|name|FOD420|
+|name|name|FOD420|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FOD420', 'kicadSymbolFootprint': 'Package_DIP:DIP-6_W7.62mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FOD4218-D.PDF', 'kicadSymbolki_keywords': 'Opto-Triac Opto Triac Random Phase', 'kicadSymbolki_description': 'Random Phase Opto-Triac, Vdrm 600V, Ift 0.75mA, Itm 300mA, DIP6', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

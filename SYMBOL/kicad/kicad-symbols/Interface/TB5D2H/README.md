@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TB5D2H|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-TB5D2H|
 |Hex ID (short code)|hexID|SZKINTERFACETB5D2H|
-|Name|name|TB5D2H|
+|name|name|TB5D2H|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TB5D1MD', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TB5D2H', 'kicadSymbolFootprint': 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tb5d2h.pdf', 'kicadSymbolki_keywords': 'differential PECL driver', 'kicadSymbolki_description': 'Quad differential PECL driver', 'kicadSymbolki_fp_filters': 'SOIC*3.9x9.9mm*P1.27*'}]|
 ||||

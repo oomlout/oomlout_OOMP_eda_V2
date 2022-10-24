@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS242|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS242|
 |Hex ID (short code)|hexID|SZK74XX74LS242|
-|Name|name|74LS242|
+|name|name|74LS242|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS242', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS242', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'bus 3state', 'kicadSymbolki_description': 'quad bus transceiver, inverting 3-state outputs', 'kicadSymbolki_fp_filters': 'DIP?12*'}]|
 ||||

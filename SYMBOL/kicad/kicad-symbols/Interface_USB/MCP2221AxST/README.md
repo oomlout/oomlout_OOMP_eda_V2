@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP2221AxST|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-MCP2221AxST|
 |Hex ID (short code)|hexID|SZKINTERFACEUMCP2221AXST|
-|Name|name|MCP2221AxST|
+|name|name|MCP2221AxST|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP2221AxST', 'kicadSymbolFootprint': 'Package_SO:TSSOP-14_4.4x5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20005565B.pdf', 'kicadSymbolki_keywords': 'USB I2C UART Converter Bridge', 'kicadSymbolki_description': 'USB to I2C/UART Protocol Converter with GPIO, TSSOP-14', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x5mm*P0.65mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM2931-ADJ_TO92|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM2931-ADJ_TO92|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM2931ADJTO92|
-|Name|name|LM2931-ADJ_TO92|
+|name|name|LM2931-ADJ_TO92|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2931-ADJ_TO92', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm2931-n.pdf', 'kicadSymbolki_keywords': 'REGULATOR LDO Adjustable', 'kicadSymbolki_description': '100mA Low drop-out regulator, Adjustable Output, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

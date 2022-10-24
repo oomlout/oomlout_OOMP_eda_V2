@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Jumper_3_Open|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Jumper-Jumper_3_Open|
 |Hex ID (short code)|hexID|SZKJJ3OPEN|
-|Name|name|Jumper_3_Open|
+|name|name|Jumper_3_Open|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'JP', 'kicadSymbolValue': 'Jumper_3_Open', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'Jumper SPDT', 'kicadSymbolki_description': 'Jumper, 3-pole, both open', 'kicadSymbolki_fp_filters': 'Jumper* TestPoint*3Pads* TestPoint*Bridge*'}]|
 ||||

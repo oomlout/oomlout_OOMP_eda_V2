@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BC337|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC337|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBC337|
-|Name|name|BC337|
+|name|name|BC337|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BC547', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC337', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'https://diotec.com/tl_files/diotec/files/pdf/datasheets/bc337.pdf', 'kicadSymbolki_keywords': 'NPN Transistor', 'kicadSymbolki_description': '0.8A Ic, 45V Vce, NPN Transistor, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

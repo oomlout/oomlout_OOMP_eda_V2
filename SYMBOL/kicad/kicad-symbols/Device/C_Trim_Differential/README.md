@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C_Trim_Differential|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-C_Trim_Differential|
 |Hex ID (short code)|hexID|SZKDEVICECTRIMDIFFERENTIAL|
-|Name|name|C_Trim_Differential|
+|name|name|C_Trim_Differential|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'C_Trim_Differential', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'trimmer capacitor', 'kicadSymbolki_description': 'Differential variable capacitor with two stators'}]|
 ||||

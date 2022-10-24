@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS74401_VQFN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS74401_VQFN|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTPS7441VQFN|
-|Name|name|TPS74401_VQFN|
+|name|name|TPS74401_VQFN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS74401_VQFN', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=tps74401&fileType=pdf', 'kicadSymbolki_keywords': 'LDO, Voltage Regulator', 'kicadSymbolki_description': '0.8 to 3.6V adjustable, 3.0-A, Ultra-LDO with Programmable Soft-Start', 'kicadSymbolki_fp_filters': 'Texas*VQFN*RGR* Texas*VQFN*RGW*'}]|
 ||||

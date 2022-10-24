@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TMR-4812|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-TMR-4812|
 |Hex ID (short code)|hexID|SZKCONTMR4812|
-|Name|name|TMR-4812|
+|name|name|TMR-4812|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TMR-0510', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TMR-4812', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_TRACO_TMR-xxxx_THT', 'kicadSymbolDatasheet': 'https://www.tracopower.com/products/tmr2.pdf', 'kicadSymbolki_keywords': 'Traco isolated isolation dc-dc converter transformer', 'kicadSymbolki_description': '165mA Regulated 2W DC/DC converter with 1.5kV isolation, 36V-75V input, 12V fixed Output Voltage, SIP-8', 'kicadSymbolki_fp_filters': 'Converter*DCDC*TRACO*TMR*xxxx*'}]|
 ||||

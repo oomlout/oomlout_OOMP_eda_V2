@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAV756S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAV756S|
 |Hex ID (short code)|hexID|SZKDIODEBAV756S|
-|Name|name|BAV756S|
+|name|name|BAV756S|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAV756S', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BAV756S_BAW56_SER.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'Diode', 'kicadSymbolki_description': 'High-speed switching diodes, dual common anode/common cathode, SOT-363', 'kicadSymbolki_fp_filters': 'SOT?363*'}]|
 ||||

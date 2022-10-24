@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MountingHole_5mm_Pad_TopOnly|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_5mm_Pad_TopOnly|
 |Hex ID (short code)|hexID|FZKHOLHOL5PADTOPONLY|
-|Name|name|MountingHole : MountingHole_5mm_Pad_TopOnly|
+|name|name|MountingHole : MountingHole_5mm_Pad_TopOnly|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_5mm_Pad_TopOnly', 'description': 'Mounting Hole 5mm', 'tags': 'mounting hole 5mm', 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_5mm_Pad_TopOnly/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_5mm_Pad_TopOnly/kicadPcb3d_450.png

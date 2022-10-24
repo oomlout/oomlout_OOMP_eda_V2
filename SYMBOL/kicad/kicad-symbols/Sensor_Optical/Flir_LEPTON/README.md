@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Flir_LEPTON|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-Flir_LEPTON|
 |Hex ID (short code)|hexID|SZKSENOPTICALFLIRLEPTON|
-|Name|name|Flir_LEPTON|
+|name|name|Flir_LEPTON|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Flir_LEPTON', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://cdn.sparkfun.com/datasheets/Sensors/Infrared/FLIR_Lepton_Data_Brief.pdf', 'kicadSymbolki_keywords': 'LWIR camera', 'kicadSymbolki_description': 'LWIR camera 8 to 14um 80x60 pixel', 'kicadSymbolki_fp_filters': '*105028*1001* *105028*2011*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|VSSOP-8_2.3x2mm_P0.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-VSSOP-8_2.3x2mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKSOVSS823X2P5|
-|Name|name|Package_SO : VSSOP-8_2.3x2mm_P0.5mm|
+|name|name|Package_SO : VSSOP-8_2.3x2mm_P0.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'VSSOP-8_2.3x2mm_P0.5mm', 'description': 'VSSOP-8 2.3x2mm Pitch 0.5mm', 'tags': 'VSSOP-8 2.3x2mm Pitch 0.5mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/VSSOP-8_2.3x2mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/VSSOP-8_2.3x2mm_P0.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/VSSOP-8_2.3x2mm_P0.5mm/kicadPcb3d_450.png

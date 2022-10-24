@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AZ1117-2.85|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-AZ1117-2.85|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARAZ1117285|
-|Name|name|AZ1117-2.85|
+|name|name|AZ1117-2.85|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AZ1117-1.2', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AZ1117-2.85', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/AZ1117.pdf', 'kicadSymbolki_keywords': 'Fixed Voltage Regulator 1A Positive LDO', 'kicadSymbolki_description': '1A 20V Fixed LDO Linear Regulator, 2.85V, SOT-89/SOT-223/TO-220/TO-252/TO-263', 'kicadSymbolki_fp_filters': 'SOT?223* SOT?89* TO?220* TO?252* TO?263*'}]|
 ||||

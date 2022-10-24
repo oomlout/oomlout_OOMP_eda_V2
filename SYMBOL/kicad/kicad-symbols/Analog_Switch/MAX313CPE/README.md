@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX313CPE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX313CPE|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHMAX313CPE|
-|Name|name|MAX313CPE|
+|name|name|MAX313CPE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DG412xJ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX313CPE', 'kicadSymbolFootprint': 'Package_DIP:DIP-16_W7.62mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX312-MAX314.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Quad SPST CMOS Analog Switches, normally OFF, 6.5Ohm Ron, DIP-16', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

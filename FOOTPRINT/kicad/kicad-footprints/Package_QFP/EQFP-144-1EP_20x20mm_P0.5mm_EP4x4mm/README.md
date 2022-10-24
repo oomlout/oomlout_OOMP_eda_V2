@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|EQFP-144-1EP_20x20mm_P0.5mm_EP4x4mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_QFP-EQFP-144-1EP_20x20mm_P0.5mm_EP4x4mm|
 |Hex ID (short code)|hexID|FZKQFPEQFP1441EP2X2P5EP4X4|
-|Name|name|Package_QFP : EQFP-144-1EP_20x20mm_P0.5mm_EP4x4mm|
+|name|name|Package_QFP : EQFP-144-1EP_20x20mm_P0.5mm_EP4x4mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'EQFP-144-1EP_20x20mm_P0.5mm_EP4x4mm', 'description': 'EQFP, 144 Pin (https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/packaging/04r00482-02.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'EQFP QFP', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/EQFP-144-1EP_20x20mm_P0.5mm_EP4x4mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/EQFP-144-1EP_20x20mm_P0.5mm_EP4x4mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_QFP/EQFP-144-1EP_20x20mm_P0.5mm_EP4x4mm/kicadPcb3d_450.png

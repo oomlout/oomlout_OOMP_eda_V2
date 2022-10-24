@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Wuerth_HCF-2013|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCF-2013|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLWUERTHHCF213|
-|Name|name|Inductor_SMD : L_Wuerth_HCF-2013|
+|name|name|Inductor_SMD : L_Wuerth_HCF-2013|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Wuerth_HCF-2013', 'description': '7443630070, http://katalog.we-online.de/pbs/datasheet/7443630070.pdf', 'tags': 'inductor shielded wuerth hcf', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_HCF-2013.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_HCF-2013/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_HCF-2013/kicadPcb3d_450.png

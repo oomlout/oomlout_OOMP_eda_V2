@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Mini-Circuits_MMM168|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_MMM168|
 |Hex ID (short code)|hexID|FZKRFMCIRCUITSM168|
-|Name|name|RF_Mini-Circuits : Mini-Circuits_MMM168|
+|name|name|RF_Mini-Circuits : Mini-Circuits_MMM168|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Mini-Circuits_MMM168', 'description': 'Footprint for Mini-Circuits case MMM168 (https://ww2.minicircuits.com/case_style/MMM168.pdf)', 'tags': 'Mini-Circuits MMM168', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_MMM168.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

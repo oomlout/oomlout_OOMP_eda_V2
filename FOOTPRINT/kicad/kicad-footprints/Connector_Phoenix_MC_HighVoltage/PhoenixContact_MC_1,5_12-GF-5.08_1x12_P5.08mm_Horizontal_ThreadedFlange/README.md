@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC_HighVoltage-PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange|
 |Hex ID (short code)|hexID|FZKCNPHOENIXMCHIGHVOLTAGEPHOENIXCONTACTMC1512GF581X12P58HORIZONTALTHREADEDFLANGE|
-|Name|name|Connector_Phoenix_MC_HighVoltage : PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange|
+|name|name|Connector_Phoenix_MC_HighVoltage : PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange', 'description': 'Generic Phoenix Contact connector footprint for: MC_1,5/12-GF-5.08; number of pins: 12; pin pitch: 5.08mm; Angled; threaded flange \|\| order number: 1847563 8A 320V', 'tags': 'phoenix_contact connector MC_01x12_GF_5.08mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MC_HighVoltage.3dshapes/PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_12-GF-5.08_1x12_P5.08mm_Horizontal_ThreadedFlange/kicadPcb3d_450.png

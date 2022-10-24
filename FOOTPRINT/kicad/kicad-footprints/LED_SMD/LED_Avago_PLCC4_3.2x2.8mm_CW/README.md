@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_Avago_PLCC4_3.2x2.8mm_CW|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Avago_PLCC4_3.2x2.8mm_CW|
 |Hex ID (short code)|hexID|FZKLSMLAVAGOPLCC432X28CW|
-|Name|name|LED_SMD : LED_Avago_PLCC4_3.2x2.8mm_CW|
+|name|name|LED_SMD : LED_Avago_PLCC4_3.2x2.8mm_CW|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_Avago_PLCC4_3.2x2.8mm_CW', 'description': 'https://docs.broadcom.com/docs/AV02-4186EN', 'tags': 'LED Avago PLCC-4 ASMB-MTB0-0A3A2', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Avago_PLCC4_3.2x2.8mm_CW.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC4_3.2x2.8mm_CW/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC4_3.2x2.8mm_CW/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4020|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx-4020|
 |Hex ID (short code)|hexID|SZK4XXX42|
-|Name|name|4020|
+|name|name|4020|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4020', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4020bms-24bms-40bms.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'CMOS CNT CNT14', 'kicadSymbolki_description': 'Binary counter 14 stages (asynchronous)', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

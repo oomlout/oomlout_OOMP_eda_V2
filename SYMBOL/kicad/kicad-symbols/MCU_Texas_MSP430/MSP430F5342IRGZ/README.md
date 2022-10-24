@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MSP430F5342IRGZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F5342IRGZ|
 |Hex ID (short code)|hexID|SZKMCUTEXASMSP43MSP43F5342IRGZ|
-|Name|name|MSP430F5342IRGZ|
+|name|name|MSP430F5342IRGZ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MSP430F5340IRGZ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MSP430F5342IRGZ', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PVQFN-N48_EP5.15x5.15mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/msp430f5342.pdf', 'kicadSymbolki_keywords': 'TI MSP430 16-bit mixed signal microcontroller', 'kicadSymbolki_description': '128kB Flash, 10kB RAM, QFN-48', 'kicadSymbolki_fp_filters': 'Texas*S?PVQFN*'}]|
 ||||

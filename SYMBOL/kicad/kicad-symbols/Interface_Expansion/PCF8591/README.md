@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PCF8591|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCF8591|
 |Hex ID (short code)|hexID|SZKINTERFACEEXPANSIONPCF8591|
-|Name|name|PCF8591|
+|name|name|PCF8591|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PCF8591', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.nxp.com/documents/data_sheet/PCF8591.pdf', 'kicadSymbolki_keywords': 'I2C ADC DAC', 'kicadSymbolki_description': '4ch ADC, 1 DAC, I2C Bus Interface, DIP/SOIC-16', 'kicadSymbolki_fp_filters': 'DIP* PDIP* SO* SOIC*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TMS320LF2406PZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-DSP_Texas-TMS320LF2406PZ|
 |Hex ID (short code)|hexID|SZKDSPTEXASTMS32LF246PZ|
-|Name|name|TMS320LF2406PZ|
+|name|name|TMS320LF2406PZ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TMS320LF2406PZ', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tms320lf2406.pdf', 'kicadSymbolki_keywords': '16BIT DSP TMS320 Obsolete', 'kicadSymbolki_description': '16bit DSP Controller 32Kx16B Flash 2.5Kx16B RAM, Obsolete NRND, PQFP-100', 'kicadSymbolki_fp_filters': 'PQFP-100*'}]|
 ||||

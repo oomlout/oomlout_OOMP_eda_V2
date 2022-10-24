@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Axial_L26.7mm_D12.1mm_P35.00mm_Horizontal_Vishay_IHA-103|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L26.7mm_D12.1mm_P35.00mm_Horizontal_Vishay_IHA-103|
 |Hex ID (short code)|hexID|FZKINLAXIALL267D121P35HORIZONTALVISHAYIHA13|
-|Name|name|Inductor_THT : L_Axial_L26.7mm_D12.1mm_P35.00mm_Horizontal_Vishay_IHA-103|
+|name|name|Inductor_THT : L_Axial_L26.7mm_D12.1mm_P35.00mm_Horizontal_Vishay_IHA-103|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Axial_L26.7mm_D12.1mm_P35.00mm_Horizontal_Vishay_IHA-103', 'description': 'Inductor, Axial series, Axial, Horizontal, pin pitch=35mm, , length*diameter=26.67*12.07mm^2, Vishay, IHA-103, http://www.vishay.com/docs/34014/iha.pdf', 'tags': 'Inductor Axial series Axial Horizontal pin pitch 35mm  length 26.67mm diameter 12.07mm Vishay IHA-103', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L26.7mm_D12.1mm_P35.00mm_Horizontal_Vishay_IHA-103.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L26.7mm_D12.1mm_P35.00mm_Horizontal_Vishay_IHA-103/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L26.7mm_D12.1mm_P35.00mm_Horizontal_Vishay_IHA-103/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|G6KU-2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-G6KU-2|
 |Hex ID (short code)|hexID|SZKRELAYG6KU2|
-|Name|name|G6KU-2|
+|name|name|G6KU-2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'G6KU-2', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf', 'kicadSymbolki_keywords': 'Miniature Relay Dual Pole DPDT Omron', 'kicadSymbolki_description': 'Miniature 2-pole relay, Single-winding Latching', 'kicadSymbolki_fp_filters': 'Relay*DPDT*Omron*G6K?2*Y*'}]|
 ||||

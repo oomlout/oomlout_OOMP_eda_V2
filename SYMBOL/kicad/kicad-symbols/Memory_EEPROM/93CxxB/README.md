@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|93CxxB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_EEPROM-93CxxB|
 |Hex ID (short code)|hexID|SZKMEMORYEEPROM93CXXB|
-|Name|name|93CxxB|
+|name|name|93CxxB|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '93CxxA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '93CxxB', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20001749K.pdf', 'kicadSymbolki_keywords': 'EEPROM memory Microwire', 'kicadSymbolki_description': 'Serial EEPROM, 93 Series, 5.0V, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x4.9mm*'}]|
 ||||

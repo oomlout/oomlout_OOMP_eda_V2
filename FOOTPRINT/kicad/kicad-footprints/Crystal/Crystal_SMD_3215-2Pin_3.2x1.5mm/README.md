@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Crystal_SMD_3215-2Pin_3.2x1.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_3215-2Pin_3.2x1.5mm|
 |Hex ID (short code)|hexID|FZKXXSM32152PIN32X15|
-|Name|name|Crystal : Crystal_SMD_3215-2Pin_3.2x1.5mm|
+|name|name|Crystal : Crystal_SMD_3215-2Pin_3.2x1.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_3215-2Pin_3.2x1.5mm', 'description': 'SMD Crystal FC-135 https://support.epson.biz/td/api/doc_check.php?dl=brief_FC-135R_en.pdf', 'tags': 'SMD SMT Crystal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_3215-2Pin_3.2x1.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_3215-2Pin_3.2x1.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_3215-2Pin_3.2x1.5mm/kicadPcb3d_450.png

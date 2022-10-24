@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC10F322-IP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F322-IP|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC1PIC1F322IP|
-|Name|name|PIC10F322-IP|
+|name|name|PIC10F322-IP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC10F320-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC10F322-IP', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41585A.pdf', 'kicadSymbolki_keywords': 'FLASH 8-Bit CMOS Microcontroller', 'kicadSymbolki_description': '512W Flash, 64B SRAM, PDIP8', 'kicadSymbolki_fp_filters': 'DIP*8*W7.62mm*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Converter_ACDC_MeanWell_IRM-02-xx_THT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_MeanWell_IRM-02-xx_THT|
 |Hex ID (short code)|hexID|FZKCONCONMEANWELLIRM2XXTHT|
-|Name|name|Converter_ACDC : Converter_ACDC_MeanWell_IRM-02-xx_THT|
+|name|name|Converter_ACDC : Converter_ACDC_MeanWell_IRM-02-xx_THT|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Converter_ACDC_MeanWell_IRM-02-xx_THT', 'description': 'ACDC-Converter, 2W, Meanwell, IRM-02, THT, https://www.meanwell.co.uk/media/productPDF/IRM-02-spec.pdf', 'tags': 'ACDC-Converter 2W THT', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_ACDC.3dshapes/Converter_ACDC_MeanWell_IRM-02-xx_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_MeanWell_IRM-02-xx_THT/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_MeanWell_IRM-02-xx_THT/kicadPcb3d_450.png

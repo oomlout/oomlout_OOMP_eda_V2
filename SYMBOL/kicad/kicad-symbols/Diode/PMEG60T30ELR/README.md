@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PMEG60T30ELR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-PMEG60T30ELR|
 |Hex ID (short code)|hexID|SZKDIODEPMEG6T3ELR|
-|Name|name|PMEG60T30ELR|
+|name|name|PMEG60T30ELR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PMEG40T10ER', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'PMEG60T30ELR', 'kicadSymbolFootprint': 'Diode_SMD:Nexperia_CFP3_SOD-123W', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/PMEG60T30ELR.pdf', 'kicadSymbolki_keywords': 'ir diode', 'kicadSymbolki_description': '60V, 3A low leakage current Trench MEGA Schottky barrier rectifier, SOD-123W', 'kicadSymbolki_fp_filters': 'Nexperia*CFP3*SOD?123W*'}]|
 ||||

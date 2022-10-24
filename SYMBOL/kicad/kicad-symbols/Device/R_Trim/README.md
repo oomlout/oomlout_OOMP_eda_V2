@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|R_Trim|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-R_Trim|
 |Hex ID (short code)|hexID|SZKDEVICERTRIM|
-|Name|name|R_Trim|
+|name|name|R_Trim|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'R_Trim', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'R res resistor variable potentiometer trimmer', 'kicadSymbolki_description': 'Trimmable resistor (preset resistor)', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

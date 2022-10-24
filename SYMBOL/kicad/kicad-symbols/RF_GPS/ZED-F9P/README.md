@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|ZED-F9P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_GPS-ZED-F9P|
 |Hex ID (short code)|hexID|SZKGPSZEDF9P|
-|Name|name|ZED-F9P|
+|name|name|ZED-F9P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ZED-F9P', 'kicadSymbolFootprint': 'RF_GPS:ublox_ZED', 'kicadSymbolDatasheet': 'https://www.u-blox.com/sites/default/files/ZED-F9P_DataSheet_%28UBX-17051259%29.pdf', 'kicadSymbolki_keywords': 'u-blox GNSS multi-band RTK', 'kicadSymbolki_description': 'GNSS Module ZED F9, VCC 2.7V to 3.6V, LGA-54', 'kicadSymbolki_fp_filters': 'ublox*ZED*'}]|
 ||||

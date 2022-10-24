@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|USB_Micro-B_Wuerth_614105150721_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Wuerth_614105150721_Vertical|
 |Hex ID (short code)|hexID|FZKCNUUMBWUERTH6141515721VERTICAL|
-|Name|name|Connector_USB : USB_Micro-B_Wuerth_614105150721_Vertical|
+|name|name|Connector_USB : USB_Micro-B_Wuerth_614105150721_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'USB_Micro-B_Wuerth_614105150721_Vertical', 'description': 'USB Micro-B receptacle, through-hole, vertical, http://katalog.we-online.de/em/datasheet/614105150721.pdf', 'tags': 'usb micro receptacle vertical', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_Wuerth_614105150721_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-B_Wuerth_614105150721_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-B_Wuerth_614105150721_Vertical/kicadPcb3d_450.png

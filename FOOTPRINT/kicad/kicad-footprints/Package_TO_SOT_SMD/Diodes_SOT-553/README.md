@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Diodes_SOT-553|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Diodes_SOT-553|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMDIODESSOT553|
-|Name|name|Package_TO_SOT_SMD : Diodes_SOT-553|
+|name|name|Package_TO_SOT_SMD : Diodes_SOT-553|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Diodes_SOT-553', 'description': 'Diodes SOT-553, https://www.diodes.com/assets/Package-Files/SOT553.pdf', 'tags': 'SOT-553', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Diodes_SOT-553.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Diodes_SOT-553/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Diodes_SOT-553/kicadPcb3d_450.png

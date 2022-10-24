@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Microsemi_FlashPro-JTAG-10|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Microsemi_FlashPro-JTAG-10|
 |Hex ID (short code)|hexID|SZKCNMSEMIFLASHPROJTAG1|
-|Name|name|Microsemi_FlashPro-JTAG-10|
+|name|name|Microsemi_FlashPro-JTAG-10|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Microsemi_FlashPro-JTAG-10', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.microsemi.com/document-portal/doc_view/129973-lpf-ac386-an', 'kicadSymbolki_keywords': 'JTAG IDC10 Male Connector', 'kicadSymbolki_description': 'ACTEL FLASH PRO 3/4, JTAG, IDC10 Male Connector', 'kicadSymbolki_fp_filters': 'IDC?Header*2x05* Pin?Header*2x05*'}]|
 ||||

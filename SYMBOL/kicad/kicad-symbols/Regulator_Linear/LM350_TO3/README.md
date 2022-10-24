@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM350_TO3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM350_TO3|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM35TO3|
-|Name|name|LM350_TO3|
+|name|name|LM350_TO3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM317_TO3', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM350_TO3', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-3', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm350a.pdf', 'kicadSymbolki_keywords': 'Adjustable Voltage Regulator 3A Positive', 'kicadSymbolki_description': '3A 33V Adjustable Linear Regulator, TO-3', 'kicadSymbolki_fp_filters': 'TO?3*'}]|
 ||||

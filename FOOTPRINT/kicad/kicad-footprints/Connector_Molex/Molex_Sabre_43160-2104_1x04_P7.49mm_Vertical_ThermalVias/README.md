@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Molex_Sabre_43160-2104_1x04_P7.49mm_Vertical_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Sabre_43160-2104_1x04_P7.49mm_Vertical_ThermalVias|
 |Hex ID (short code)|hexID|FZKCNMXMXSABRE43162141X4P749VERTICALTHERMALVIAS|
-|Name|name|Connector_Molex : Molex_Sabre_43160-2104_1x04_P7.49mm_Vertical_ThermalVias|
+|name|name|Connector_Molex : Molex_Sabre_43160-2104_1x04_P7.49mm_Vertical_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Molex_Sabre_43160-2104_1x04_P7.49mm_Vertical_ThermalVias', 'description': 'Molex Sabre Power Connector, 43160-2104, With thermal vias in pads, 4 Pins per row (http://www.molex.com/pdm_docs/sd/431602102_sd.pdf), generated with kicad-footprint-generator', 'tags': 'connector Molex Sabre side entry', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Sabre_43160-2104_1x04_P7.49mm_Vertical_ThermalVias.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_43160-2104_1x04_P7.49mm_Vertical_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_43160-2104_1x04_P7.49mm_Vertical_ThermalVias/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRFI4212H|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFI4212H|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRFI4212H|
-|Name|name|IRFI4212H|
+|name|name|IRFI4212H|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IRFI4019H', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRFI4212H', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220F-5_P3.4x2.06mm_StaggerEven_Lead1.86mm_Vertical', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irfi4212h-117p.pdf?fileId=5546d462533600a401535623fc841f7a', 'kicadSymbolki_keywords': 'Dual N-Channel MOSFET Half-Bridge', 'kicadSymbolki_description': '11A Id, 100V Vds, 58mOhm Rds, Dual Half Bridge N-Channel MOSFET, TO-220-5', 'kicadSymbolki_fp_filters': 'TO?220F*P3.4x2.06mm*StaggerEven*Lead1.86mm*'}]|
 ||||

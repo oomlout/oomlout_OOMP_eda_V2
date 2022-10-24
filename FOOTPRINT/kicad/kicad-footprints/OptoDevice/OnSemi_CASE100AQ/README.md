@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|OnSemi_CASE100AQ|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-OnSemi_CASE100AQ|
 |Hex ID (short code)|hexID|FZKOPONSEMICASE1AQ|
-|Name|name|OptoDevice : OnSemi_CASE100AQ|
+|name|name|OptoDevice : OnSemi_CASE100AQ|
 |Footprint Kicad|footprintKicadDetails|{'name': 'OnSemi_CASE100AQ', 'description': 'OnSemi CASE 100AQ for QRE1113, see https://www.onsemi.com/pub/Collateral/QRE1113-D.PDF', 'tags': 'reflective opto couple photo coupler', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/OnSemi_CASE100AQ.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/OnSemi_CASE100AQ/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/OnSemi_CASE100AQ/kicadPcb3d_450.png

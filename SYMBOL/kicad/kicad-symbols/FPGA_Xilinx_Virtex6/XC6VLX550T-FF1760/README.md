@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC6VLX550T-FF1760|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VLX550T-FF1760|
 |Hex ID (short code)|hexID|SZKFPGAXILINXVIRTEX6XC6VLX55TFF176|
-|Name|name|XC6VLX550T-FF1760|
+|name|name|XC6VLX550T-FF1760|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC6VLX550T-FF1760', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Virtex 6 LXT 550 XC6VLX550T-FF1760'}]|
 ||||

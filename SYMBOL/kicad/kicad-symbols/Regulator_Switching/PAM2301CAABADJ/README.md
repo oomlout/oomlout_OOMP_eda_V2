@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PAM2301CAABADJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2301CAABADJ|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGPAM231CAABADJ|
-|Name|name|PAM2301CAABADJ|
+|name|name|PAM2301CAABADJ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PAM2301CAABADJ', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-5', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/products_inactive_data/PAM2301.pdf', 'kicadSymbolki_keywords': 'Voltage regulator switching buck fixed output analog', 'kicadSymbolki_description': '800mA, Step-Down DC/DC-Converter, Adjustable Output Voltage, 1.5MHz, TSOT-23-5', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
 ||||

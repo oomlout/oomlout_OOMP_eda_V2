@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_SPST|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_SPST|
 |Hex ID (short code)|hexID|SZKSWITCHSWSPST|
-|Name|name|SW_SPST|
+|name|name|SW_SPST|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_SPST', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'switch lever', 'kicadSymbolki_description': 'Single Pole Single Throw (SPST) switch'}]|
 ||||

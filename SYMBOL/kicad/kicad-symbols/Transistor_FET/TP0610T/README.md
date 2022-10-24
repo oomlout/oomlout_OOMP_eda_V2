@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TP0610T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-TP0610T|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETTP61T|
-|Name|name|TP0610T|
+|name|name|TP0610T|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'TP0610T', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/70209/70209.pdf', 'kicadSymbolki_keywords': 'P-Channel MOSFET', 'kicadSymbolki_description': '-0.18A Id, -60V Vds, P-Channel MOSFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

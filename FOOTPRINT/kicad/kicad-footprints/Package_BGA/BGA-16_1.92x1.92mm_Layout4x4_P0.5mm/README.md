@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|BGA-16_1.92x1.92mm_Layout4x4_P0.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-16_1.92x1.92mm_Layout4x4_P0.5mm|
 |Hex ID (short code)|hexID|FZKBGABGA16192X192LAYOUT4X4P5|
-|Name|name|Package_BGA : BGA-16_1.92x1.92mm_Layout4x4_P0.5mm|
+|name|name|Package_BGA : BGA-16_1.92x1.92mm_Layout4x4_P0.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'BGA-16_1.92x1.92mm_Layout4x4_P0.5mm', 'description': 'BGA-16, http://www.st.com/content/ccc/resource/technical/document/datasheet/group2/bc/cd/62/9e/8f/30/47/69/CD00151267/files/CD00151267.pdf/jcr:content/translations/en.CD00151267.pdf', 'tags': 'BGA-16', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-16_1.92x1.92mm_Layout4x4_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-16_1.92x1.92mm_Layout4x4_P0.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-16_1.92x1.92mm_Layout4x4_P0.5mm/kicadPcb3d_450.png

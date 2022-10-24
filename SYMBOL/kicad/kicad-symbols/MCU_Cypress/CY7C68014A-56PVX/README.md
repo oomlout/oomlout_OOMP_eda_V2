@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CY7C68014A-56PVX|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY7C68014A-56PVX|
 |Hex ID (short code)|hexID|SZKMCUCYPRESSCY7C6814A56PVX|
-|Name|name|CY7C68014A-56PVX|
+|name|name|CY7C68014A-56PVX|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CY7C68013A-56PVX', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CY7C68014A-56PVX', 'kicadSymbolFootprint': 'Package_SO:SSOP-56_7.5x18.5mm_P0.635mm', 'kicadSymbolDatasheet': 'http://www.cypress.com/file/138911/download', 'kicadSymbolki_keywords': 'FX2LP 8-bit USB MCU', 'kicadSymbolki_description': 'CYPRESS FX2LP USB Microcontroller, 48MHz 8051, 16KB RAM, USB 2.0, I2C, SSOP-56', 'kicadSymbolki_fp_filters': 'SSOP*7.5x18.5mm*P0.635mm*'}]|
 ||||

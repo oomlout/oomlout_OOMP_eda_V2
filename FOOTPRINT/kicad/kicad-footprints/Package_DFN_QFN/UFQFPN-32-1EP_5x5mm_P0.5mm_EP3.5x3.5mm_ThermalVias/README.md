@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|UFQFPN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-UFQFPN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNUFQFPN321EP5X5P5EP35X35THERMALVIAS|
-|Name|name|Package_DFN_QFN : UFQFPN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm_ThermalVias|
+|name|name|Package_DFN_QFN : UFQFPN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'UFQFPN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm_ThermalVias', 'description': 'UFQFPN, 32 Pin (https://www.st.com/resource/en/datasheet/stm32g071k8.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'UFQFPN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/UFQFPN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UFQFPN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UFQFPN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm_ThermalVias/kicadPcb3d_450.png

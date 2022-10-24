@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Crystal|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Crystal|
 |Hex ID (short code)|hexID|SZKDEVICEX|
-|Name|name|Crystal|
+|name|name|Crystal|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Y', 'kicadSymbolValue': 'Crystal', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'quartz ceramic resonator oscillator', 'kicadSymbolki_description': 'Two pin crystal', 'kicadSymbolki_fp_filters': 'Crystal*'}]|
 ||||

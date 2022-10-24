@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DirectFET_MB|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_MB|
 |Hex ID (short code)|hexID|FZKDFETDIRECTFETMB|
-|Name|name|Package_DirectFET : DirectFET_MB|
+|name|name|Package_DirectFET : DirectFET_MB|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DirectFET_MB', 'description': 'DirectFET MB https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=36', 'tags': 'DirectFET MB MOSFET Infineon', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DirectFET.3dshapes/DirectFET_MB.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DirectFET/DirectFET_MB/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DirectFET/DirectFET_MB/kicadPcb3d_450.png

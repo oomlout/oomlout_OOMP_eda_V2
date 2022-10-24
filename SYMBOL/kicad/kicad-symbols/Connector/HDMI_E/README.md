@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HDMI_E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-HDMI_E|
 |Hex ID (short code)|hexID|SZKCNHDMIE|
-|Name|name|HDMI_E|
+|name|name|HDMI_E|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HDMI_E', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.hdmi.org/manufacturer/specification.aspx', 'kicadSymbolki_keywords': 'hdmi conn', 'kicadSymbolki_description': 'HDMI type E connector', 'kicadSymbolki_fp_filters': 'HDMI*E*'}]|
 ||||

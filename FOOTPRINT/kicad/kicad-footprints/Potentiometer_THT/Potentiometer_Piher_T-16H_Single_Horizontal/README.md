@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Potentiometer_Piher_T-16H_Single_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_T-16H_Single_Horizontal|
 |Hex ID (short code)|hexID|FZKPPOTENTIOMETERPIHERT16HSINGLEHORIZONTAL|
-|Name|name|Potentiometer_THT : Potentiometer_Piher_T-16H_Single_Horizontal|
+|name|name|Potentiometer_THT : Potentiometer_Piher_T-16H_Single_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Piher_T-16H_Single_Horizontal', 'description': 'Potentiometer, horizontal, Piher T-16H Single, http://www.piher-nacesa.com/pdf/22-T16v03.pdf', 'tags': 'Potentiometer horizontal Piher T-16H Single', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Piher_T-16H_Single_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Piher_T-16H_Single_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Piher_T-16H_Single_Horizontal/kicadPcb3d_450.png

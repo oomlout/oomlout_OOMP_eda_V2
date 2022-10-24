@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PinSocket_1x38_P1.27mm_Vertical_SMD_Pin1Left|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.27mm-PinSocket_1x38_P1.27mm_Vertical_SMD_Pin1Left|
 |Hex ID (short code)|hexID|FZKCNPINSO127PINSO1X38P127VERTICALSMPIN1LEFT|
-|Name|name|Connector_PinSocket_1.27mm : PinSocket_1x38_P1.27mm_Vertical_SMD_Pin1Left|
+|name|name|Connector_PinSocket_1.27mm : PinSocket_1x38_P1.27mm_Vertical_SMD_Pin1Left|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PinSocket_1x38_P1.27mm_Vertical_SMD_Pin1Left', 'description': 'surface-mounted straight socket strip, 1x38, 1.27mm pitch, single row, style 1 (pin 1 left) (https://gct.co/pdfjs/web/viewer.html?file=/Files/Drawings/BD075.pdf&t=1511594726925), script generated', 'tags': 'Surface mounted socket strip SMD 1x38 1.27mm single row style1 pin1 left', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PinSocket_1.27mm.3dshapes/PinSocket_1x38_P1.27mm_Vertical_SMD_Pin1Left.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_1x38_P1.27mm_Vertical_SMD_Pin1Left/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_1x38_P1.27mm_Vertical_SMD_Pin1Left/kicadPcb3d_450.png

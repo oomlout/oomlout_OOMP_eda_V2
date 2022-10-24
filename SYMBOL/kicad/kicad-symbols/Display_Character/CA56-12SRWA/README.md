@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CA56-12SRWA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12SRWA|
 |Hex ID (short code)|hexID|SZKDICHARACTERCA5612SRWA|
-|Name|name|CA56-12SRWA|
+|name|name|CA56-12SRWA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CA56-12SRWA', 'kicadSymbolFootprint': 'Display_7Segment:CA56-12SRWA', 'kicadSymbolDatasheet': 'http://www.kingbrightusa.com/images/catalog/SPEC/CA56-12SRWA.pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': '4 digit 7 segment super bright red LED, common anode', 'kicadSymbolki_fp_filters': '*CA56*12SRWA*'}]|
 ||||

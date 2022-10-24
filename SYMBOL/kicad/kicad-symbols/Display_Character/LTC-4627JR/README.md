@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC-4627JR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-LTC-4627JR|
 |Hex ID (short code)|hexID|SZKDICHARACTERLTC4627JR|
-|Name|name|LTC-4627JR|
+|name|name|LTC-4627JR|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LTC-4627JG', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC-4627JR', 'kicadSymbolFootprint': 'Display_7Segment:LTC-4627Jx', 'kicadSymbolDatasheet': 'http://optoelectronics.liteon.com/upload/download/DS30-2000-185/LTC-4627JR.pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': '4 digit 7 segment super red, common anode', 'kicadSymbolki_fp_filters': 'LTC?4627J*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Converter_DCDC_RECOM_RPA60-xxxxSFW|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_RECOM_RPA60-xxxxSFW|
 |Hex ID (short code)|hexID|FZKCONCONRECOMRPA6XXXXSFW|
-|Name|name|Converter_DCDC : Converter_DCDC_RECOM_RPA60-xxxxSFW|
+|name|name|Converter_DCDC : Converter_DCDC_RECOM_RPA60-xxxxSFW|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_RECOM_RPA60-xxxxSFW', 'description': 'RPA60-FW 60W Isolated DC to DC Converters', 'tags': 'DCDC Regulator Single', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_RECOM_RPA60-xxxxSFW.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_RECOM_RPA60-xxxxSFW/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_RECOM_RPA60-xxxxSFW/kicadPcb3d_450.png

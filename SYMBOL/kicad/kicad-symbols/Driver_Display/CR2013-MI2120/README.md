@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CR2013-MI2120|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Display-CR2013-MI2120|
 |Hex ID (short code)|hexID|SZKDRIVERDICR213MI212|
-|Name|name|CR2013-MI2120|
+|name|name|CR2013-MI2120|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CR2013-MI2120', 'kicadSymbolFootprint': 'Display:CR2013-MI2120', 'kicadSymbolDatasheet': 'http://pan.baidu.com/s/11Y990', 'kicadSymbolki_keywords': 'driver display', 'kicadSymbolki_description': 'ILI9341 controller, SPI TFT LCD Display, 9-pin breakout PCB, 4-pin SD card interface, 5V/3.3V', 'kicadSymbolki_fp_filters': '*CR2013*MI2120*'}]|
 ||||

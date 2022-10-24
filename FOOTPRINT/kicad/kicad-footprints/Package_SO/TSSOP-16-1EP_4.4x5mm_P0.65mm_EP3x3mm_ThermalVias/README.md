@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKSOTSS161EP44X5P65EP3X3THERMALVIAS|
-|Name|name|Package_SO : TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm_ThermalVias|
+|name|name|Package_SO : TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm_ThermalVias', 'description': 'TSSOP, 16 Pin (Allegro A4954 https://www.allegromicro.com/-/media/Files/Datasheets/A4954-Datasheet.ashx), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'TSSOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm_ThermalVias/kicadPcb3d_450.png

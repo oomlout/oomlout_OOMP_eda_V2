@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HO15-NSM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-HO15-NSM|
 |Hex ID (short code)|hexID|SZKSENCURRENTHO15NSM|
-|Name|name|HO15-NSM|
+|name|name|HO15-NSM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HO8-NSM', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HO15-NSM', 'kicadSymbolFootprint': 'Sensor_Current:LEM_HO8-NSM', 'kicadSymbolDatasheet': 'https://www.lem.com/sites/default/files/products_datasheets/ho-nsm-0000_series.pdf', 'kicadSymbolki_keywords': 'current transducer', 'kicadSymbolki_description': 'Current Transducer, 15A, Unipolar, 5V', 'kicadSymbolki_fp_filters': 'LEM*HO8*NSM*'}]|
 ||||

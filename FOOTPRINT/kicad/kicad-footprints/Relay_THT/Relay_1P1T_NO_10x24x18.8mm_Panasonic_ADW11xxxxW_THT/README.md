@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT|
 |Hex ID (short code)|hexID|FZKRELRELAY1P1TNO1X24X188PANASONICADW11XXXXWTHT|
-|Name|name|Relay_THT : Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT|
+|name|name|Relay_THT : Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT', 'description': 'Panasonic Relay SPST 10mm 24mm, https://www.panasonic-electric-works.com/pew/es/downloads/ds_dw_hl_en.pdf', 'tags': 'Panasonic Relay SPST', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT/kicadPcb3d_450.png

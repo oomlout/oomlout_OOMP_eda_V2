@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS54308|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54308|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS5438|
-|Name|name|TPS54308|
+|name|name|TPS54308|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS54302', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS54308', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps54308.pdf', 'kicadSymbolki_keywords': 'switching buck converter power-supply voltage regulator emi spread spectrum FCCM', 'kicadSymbolki_description': '3A, 4.5 to 28V Input, EMI Friendly integrated switch synchronous step-down regulator, continuous-conduction, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

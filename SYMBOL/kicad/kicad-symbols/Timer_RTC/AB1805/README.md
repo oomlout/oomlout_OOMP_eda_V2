@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AB1805|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer_RTC-AB1805|
 |Hex ID (short code)|hexID|SZKTIMERRTCAB185|
-|Name|name|AB1805|
+|name|name|AB1805|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AB1805', 'kicadSymbolFootprint': 'Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.8x1.8mm', 'kicadSymbolDatasheet': 'https://abracon.com/Precisiontiming/AB18X5-RTC.pdf', 'kicadSymbolki_keywords': 'rtc', 'kicadSymbolki_description': 'Real-Time Clock, I2C Interface, 4 GPO, QFN-16', 'kicadSymbolki_fp_filters': 'VQFN*1EP*3x3mm*P0.5mm*'}]|
 ||||

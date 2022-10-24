@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BC414B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC414B|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBC414B|
-|Name|name|BC414B|
+|name|name|BC414B|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BC413', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC414B', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://www.cdil.com/datasheets/bc413_14_b_c.pdf', 'kicadSymbolki_keywords': 'NPN Transistor', 'kicadSymbolki_description': '0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

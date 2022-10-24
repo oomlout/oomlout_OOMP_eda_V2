@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-220F-4_Horizontal_TabDown|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220F-4_Horizontal_TabDown|
 |Hex ID (short code)|hexID|FZKSOTTO22F4HORIZONTALTABDOWN|
-|Name|name|Package_TO_SOT_THT : TO-220F-4_Horizontal_TabDown|
+|name|name|Package_TO_SOT_THT : TO-220F-4_Horizontal_TabDown|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-220F-4_Horizontal_TabDown', 'description': 'TO-220F-4, Horizontal, RM 2.54mm, see https://www.njr.com/semicon/PDF/package/TO-220F-4_E.pdf', 'tags': 'TO-220F-4 Horizontal RM 2.54mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220F-4_Horizontal_TabDown.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220F-4_Horizontal_TabDown/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220F-4_Horizontal_TabDown/kicadPcb3d_450.png

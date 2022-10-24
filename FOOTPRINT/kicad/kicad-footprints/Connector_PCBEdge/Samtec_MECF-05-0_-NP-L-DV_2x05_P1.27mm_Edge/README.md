@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Samtec_MECF-05-0_-NP-L-DV_2x05_P1.27mm_Edge|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-05-0_-NP-L-DV_2x05_P1.27mm_Edge|
 |Hex ID (short code)|hexID|FZKCNPCBEDGESAMTECMECF5NPLDV2X5P127EDGE|
-|Name|name|Connector_PCBEdge : Samtec_MECF-05-0_-NP-L-DV_2x05_P1.27mm_Edge|
+|name|name|Connector_PCBEdge : Samtec_MECF-05-0_-NP-L-DV_2x05_P1.27mm_Edge|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Samtec_MECF-05-0_-NP-L-DV_2x05_P1.27mm_Edge', 'description': 'Highspeed card edge connector for PCBs with 05 contacts (not polarized)', 'tags': 'conn samtec card-edge high-speed', 'attributeType': None, 'pins': {'type': 'connect', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-05-0_-NP-L-DV_2x05_P1.27mm_Edge/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-05-0_-NP-L-DV_2x05_P1.27mm_Edge/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM2936-5.0|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM2936-5.0|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM29365|
-|Name|name|LM2936-5.0|
+|name|name|LM2936-5.0|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM2936-3.0', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2936-5.0', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm2936.pdf', 'kicadSymbolki_keywords': 'linear regulator ldo fixed positive', 'kicadSymbolki_description': '50mA Ultra-Low Quiescent Current LDO Voltage Regulator, 5.0V fixed output, TO-252/SOT-223', 'kicadSymbolki_fp_filters': 'TO?252* SOT?223*'}]|
 ||||

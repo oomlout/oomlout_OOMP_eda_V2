@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BSC123N10LSG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC123N10LSG|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBSC123N1LSG|
-|Name|name|BSC123N10LSG|
+|name|name|BSC123N10LSG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CSD17578Q5A', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BSC123N10LSG', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TDSON-8-1', 'kicadSymbolDatasheet': 'http://www.infineon.com/dgdl/Infineon-BSC123N10LS-DS-v02_08-en.pdf?fileId=db3a30431b3e89eb011b4626974b7df5', 'kicadSymbolki_keywords': 'OptiMOS Power MOSFET N-MOS', 'kicadSymbolki_description': '71A Id, 100V Vds, OptiMOS N-Channel Power MOSFET, 12.3mOhm Ron, Qg (typ) 51.0nC, PG-TDSON-8', 'kicadSymbolki_fp_filters': 'TDSON*'}]|
 ||||

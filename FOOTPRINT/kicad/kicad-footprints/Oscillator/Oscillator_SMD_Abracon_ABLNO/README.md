@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Oscillator_SMD_Abracon_ABLNO|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Abracon_ABLNO|
 |Hex ID (short code)|hexID|FZKOCSOCSSMABRACONABLNO|
-|Name|name|Oscillator : Oscillator_SMD_Abracon_ABLNO|
+|name|name|Oscillator : Oscillator_SMD_Abracon_ABLNO|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Oscillator_SMD_Abracon_ABLNO', 'description': 'https://abracon.com/Precisiontiming/ABLNO.pdf', 'tags': 'VCXO XO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_Abracon_ABLNO.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Abracon_ABLNO/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Abracon_ABLNO/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SLA704XM|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SIP-SLA704XM|
 |Hex ID (short code)|hexID|FZKSIPSLA74XM|
-|Name|name|Package_SIP : SLA704XM|
+|name|name|Package_SIP : SLA704XM|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SLA704XM', 'description': 'SIP SLA704XM (http://www.sumzi.com/upload/files/2007/07/2007073114282034189.PDF)', 'tags': 'SIP', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/SLA704XM.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SLA704XM/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SIP/SLA704XM/kicadPcb3d_450.png

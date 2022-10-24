@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MKL28Z512VLL7|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL28Z512VLL7|
 |Hex ID (short code)|hexID|SZKMCUNXPKINETISMKL28Z512VLL7|
-|Name|name|MKL28Z512VLL7|
+|name|name|MKL28Z512VLL7|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MKL28Z512VLL7', 'kicadSymbolFootprint': 'Package_QFP:LQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/docs/en/data-sheet/MKL28Z512Vxx7.pdf', 'kicadSymbolki_keywords': 'Kinetis KL28 ARM Cortex M0+', 'kicadSymbolki_description': 'Kinetis KL28 series, 72...96-MHz/32-bit ARM Cortex-M0+, 512 kB flash, 128 kB SRAM, USB FS Device (xtal-less), LQFP-100', 'kicadSymbolki_fp_filters': 'LQFP*14x14mm*P0.5mm*'}]|
 ||||

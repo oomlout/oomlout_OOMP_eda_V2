@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PLCC-68_SMD-Socket|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-68_SMD-Socket|
 |Hex ID (short code)|hexID|FZKLCCPLCC68SMSO|
-|Name|name|Package_LCC : PLCC-68_SMD-Socket|
+|name|name|Package_LCC : PLCC-68_SMD-Socket|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PLCC-68_SMD-Socket', 'description': 'PLCC, 68 pins, surface mount', 'tags': 'plcc smt', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LCC.3dshapes/PLCC-68_SMD-Socket.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-68_SMD-Socket/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-68_SMD-Socket/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AVR64DB48x-xPT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR64DB48x-xPT|
 |Hex ID (short code)|hexID|SZKMCUMCHIPAVRDXAVR64DB48XXPT|
-|Name|name|AVR64DB48x-xPT|
+|name|name|AVR64DB48x-xPT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AVR32DB48x-xPT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AVR64DB48x-xPT', 'kicadSymbolFootprint': 'Package_QFP:TQFP-48_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'https://ww1.microchip.com/downloads/en/DeviceDoc/AVR64DB28-32-48-64-DataSheet-DS40002300A.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller AVR-DB', 'kicadSymbolki_description': '24MHz, 64kB Flash, 8kB SRAM, EEPROM with Op Amps and Multi-Voltage I/O, TQFP-48', 'kicadSymbolki_fp_filters': 'TQFP*7x7mm*P0.5mm*'}]|
 ||||

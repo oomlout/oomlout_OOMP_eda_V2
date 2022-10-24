@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CRE1S0305S3C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-CRE1S0305S3C|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGCRE1S35S3C|
-|Name|name|CRE1S0305S3C|
+|name|name|CRE1S0305S3C|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CRE1S0505S3C', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CRE1S0305S3C', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_Murata_CRE1xxxxxx3C_THT', 'kicadSymbolDatasheet': 'http://power.murata.com/datasheet?/data/power/ncl/kdc_cre1.pdf', 'kicadSymbolki_keywords': 'Murata isolated isolation dc-dc converter transformer', 'kicadSymbolki_description': '3.3V to 5V 200mA, Isolated 2W Single-Output DC-DC Converter Modules with 3kV isolation, SIP-4', 'kicadSymbolki_fp_filters': 'Converter*DCDC*Murata*CRE1xxxxxx3C*'}]|
 ||||

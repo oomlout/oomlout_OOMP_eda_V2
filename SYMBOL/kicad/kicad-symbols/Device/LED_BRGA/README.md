@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_BRGA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_BRGA|
 |Hex ID (short code)|hexID|SZKDEVICELBRGA|
-|Name|name|LED_BRGA|
+|name|name|LED_BRGA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_BRGA', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED RGB diode', 'kicadSymbolki_description': 'RGB LED, blue/red/green/anode', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

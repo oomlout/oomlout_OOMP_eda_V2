@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-W04-X-O473-01-R4473|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O473-01-R4473|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESEW4XO4731R4473|
-|Name|name|RESE-W04-X-O473-01-R4473|
+|name|name|RESE-W04-X-O473-01-R4473|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-W04-X-O473-01-R4473', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-W04-X-O473-01-R4473', 'kicadSymbolDatasheet': 'oom.lt/R4473', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R4473;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

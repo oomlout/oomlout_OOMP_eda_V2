@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD5272BCP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-AD5272BCP|
 |Hex ID (short code)|hexID|SZKPOTENTIOMETERDIGITALAD5272BCP|
-|Name|name|AD5272BCP|
+|name|name|AD5272BCP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD5272BCP', 'kicadSymbolFootprint': 'Package_CSP:LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD5272_5274.pdf', 'kicadSymbolki_keywords': 'digital potentiometer', 'kicadSymbolki_description': 'Digital potentiometer, 1024 position, 1% Resistor Tolerance, I2C interface, LFCSP-10', 'kicadSymbolki_fp_filters': 'LFCSP*1EP*3x3mm*P0.5mm*'}]|
 ||||

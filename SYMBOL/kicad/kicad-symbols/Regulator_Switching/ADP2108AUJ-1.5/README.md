@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADP2108AUJ-1.5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2108AUJ-1.5|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGADP218AUJ15|
-|Name|name|ADP2108AUJ-1.5|
+|name|name|ADP2108AUJ-1.5|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ADP2108AUJ-1.0', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADP2108AUJ-1.5', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-5', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADP2108.pdf', 'kicadSymbolki_keywords': 'Voltage regulator switching buck fixed output analog', 'kicadSymbolki_description': '3MHz switching bucK regulator, 600mA 1.5V output voltage,', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
 ||||

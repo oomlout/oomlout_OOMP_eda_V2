@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|INA105KP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Difference-INA105KP|
 |Hex ID (short code)|hexID|SZKAMPLIFIERDIFFERENCEINA15KP|
-|Name|name|INA105KP|
+|name|name|INA105KP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AD8276', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'INA105KP', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/ina105.pdf', 'kicadSymbolki_keywords': 'difference amplifier', 'kicadSymbolki_description': 'Low Power, Wide Supply Range, Low Cost Unity-Gain Difference Amplifier, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

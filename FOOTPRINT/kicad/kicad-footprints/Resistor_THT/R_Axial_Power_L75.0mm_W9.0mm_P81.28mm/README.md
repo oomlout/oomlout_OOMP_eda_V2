@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|R_Axial_Power_L75.0mm_W9.0mm_P81.28mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L75.0mm_W9.0mm_P81.28mm|
 |Hex ID (short code)|hexID|FZKRRAXIALPOWERL75W9P8128|
-|Name|name|Resistor_THT : R_Axial_Power_L75.0mm_W9.0mm_P81.28mm|
+|name|name|Resistor_THT : R_Axial_Power_L75.0mm_W9.0mm_P81.28mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'R_Axial_Power_L75.0mm_W9.0mm_P81.28mm', 'description': 'Resistor, Axial_Power series, Box, pin pitch=81.28mm, 17W, length*width*height=75*9*9mm^3, http://cdn-reichelt.de/documents/datenblatt/B400/5WAXIAL_9WAXIAL_11WAXIAL_17WAXIAL%23YAG.pdf', 'tags': 'Resistor Axial_Power series Box pin pitch 81.28mm 17W length 75mm width 9mm height 9mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_Power_L75.0mm_W9.0mm_P81.28mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Power_L75.0mm_W9.0mm_P81.28mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_Power_L75.0mm_W9.0mm_P81.28mm/kicadPcb3d_450.png

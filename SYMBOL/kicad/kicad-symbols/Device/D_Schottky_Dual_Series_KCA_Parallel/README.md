@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Schottky_Dual_Series_KCA_Parallel|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_Series_KCA_Parallel|
 |Hex ID (short code)|hexID|SZKDEVICEDSCHOTTKYDUALSERIESKCAPARALLEL|
-|Name|name|D_Schottky_Dual_Series_KCA_Parallel|
+|name|name|D_Schottky_Dual_Series_KCA_Parallel|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Schottky_Dual_Series_KCA_Parallel', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Dual Schottky diode, cathode/center/anode'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MountingHole_4mm_Pad_TopBottom|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_4mm_Pad_TopBottom|
 |Hex ID (short code)|hexID|FZKHOLHOL4PADTOPBOTTOM|
-|Name|name|MountingHole : MountingHole_4mm_Pad_TopBottom|
+|name|name|MountingHole : MountingHole_4mm_Pad_TopBottom|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_4mm_Pad_TopBottom', 'description': 'Mounting Hole 4mm', 'tags': 'mounting hole 4mm', 'attributeType': None, 'pins': {'type': 'connect', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_4mm_Pad_TopBottom/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_4mm_Pad_TopBottom/kicadPcb3d_450.png

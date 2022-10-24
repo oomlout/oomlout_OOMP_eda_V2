@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC6102xMS8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Current-LTC6102xMS8|
 |Hex ID (short code)|hexID|SZKAMPLIFIERCURRENTLTC612XMS8|
-|Name|name|LTC6102xMS8|
+|name|name|LTC6102xMS8|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC6102xMS8', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/6102fe.pdf', 'kicadSymbolki_keywords': 'current sense amplifier', 'kicadSymbolki_description': 'Precision Zero Drift Current Sense Amplifier, 60V, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
 ||||

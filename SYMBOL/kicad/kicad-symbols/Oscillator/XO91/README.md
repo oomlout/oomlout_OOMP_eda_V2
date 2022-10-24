@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XO91|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-XO91|
 |Hex ID (short code)|hexID|SZKOCSXO91|
-|Name|name|XO91|
+|name|name|XO91|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'X', 'kicadSymbolValue': 'XO91', 'kicadSymbolFootprint': 'Oscillator:Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm', 'kicadSymbolDatasheet': 'http://cdn-reichelt.de/documents/datenblatt/B400/XO91.pdf', 'kicadSymbolki_keywords': 'Crystal Clock Oscillator', 'kicadSymbolki_description': 'HCMOS Clock Oscillator', 'kicadSymbolki_fp_filters': 'Oscillator*SMD*EuroQuartz*XO91*7.0x5.0mm*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|OnSemi_UDFN-8_1.2x1.8mm_P0.4mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_UDFN-8_1.2x1.8mm_P0.4mm|
 |Hex ID (short code)|hexID|FZKDFNONSEMIUDFN812X18P4|
-|Name|name|Package_DFN_QFN : OnSemi_UDFN-8_1.2x1.8mm_P0.4mm|
+|name|name|Package_DFN_QFN : OnSemi_UDFN-8_1.2x1.8mm_P0.4mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'OnSemi_UDFN-8_1.2x1.8mm_P0.4mm', 'description': '8-Lead Plastic Dual Flat, No Lead Package, 1.2x1.8x1.55 mm Body [UDFN] (See http://www.onsemi.com/pub/Collateral/NLSV2T244-D.PDF)', 'tags': 'dfn udfn dual flat', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/OnSemi_UDFN-8_1.2x1.8mm_P0.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/OnSemi_UDFN-8_1.2x1.8mm_P0.4mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/OnSemi_UDFN-8_1.2x1.8mm_P0.4mm/kicadPcb3d_450.png

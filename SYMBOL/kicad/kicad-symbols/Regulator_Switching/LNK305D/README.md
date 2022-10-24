@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LNK305D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK305D|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK35D|
-|Name|name|LNK305D|
+|name|name|LNK305D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LNK302D', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LNK305D', 'kicadSymbolFootprint': 'Package_SO:PowerIntegrations_SO-8B', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/lnk302_304-306.pdf', 'kicadSymbolki_keywords': 'Lowest Component Count, Energy-Efficient Off-Line Switcher IC', 'kicadSymbolki_description': 'LinkSwitch-TN Family, 280mA Output Current, SO-8C', 'kicadSymbolki_fp_filters': 'PowerIntegrations?SO?8B*'}]|
 ||||

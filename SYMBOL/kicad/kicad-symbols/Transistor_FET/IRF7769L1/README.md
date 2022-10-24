@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF7769L1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7769L1|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF7769L1|
-|Name|name|IRF7769L1|
+|name|name|IRF7769L1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IRF7739L1', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF7769L1', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_L8', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-IRF7769L1-DS-v02_00-EN.pdf?fileId=5546d462533600a4015356079bd91cb4', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '88A Id, 100V Vds, 3.5mOhm Rds, N-Channel MOSFET, DirectFET L8', 'kicadSymbolki_fp_filters': 'DirectFET*L8*'}]|
 ||||

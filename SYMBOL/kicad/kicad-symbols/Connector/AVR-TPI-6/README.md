@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AVR-TPI-6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-AVR-TPI-6|
 |Hex ID (short code)|hexID|SZKCNAVRTPI6|
-|Name|name|AVR-TPI-6|
+|name|name|AVR-TPI-6|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'AVR-TPI-6', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'AVR TPI Connector', 'kicadSymbolki_description': 'Atmel 6-pin TPI connector', 'kicadSymbolki_fp_filters': 'IDC?Header*2x03* Pin?Header*2x03*'}]|
 ||||

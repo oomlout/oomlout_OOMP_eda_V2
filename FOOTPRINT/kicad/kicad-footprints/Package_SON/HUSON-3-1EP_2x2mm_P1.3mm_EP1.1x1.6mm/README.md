@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm|
 |Hex ID (short code)|hexID|FZKSONHUSON31EP2X2P13EP11X16|
-|Name|name|Package_SON : HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm|
+|name|name|Package_SON : HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm', 'description': 'HUSON, 3 Pin, SOT1061 (Ref: https://assets.nexperia.com/documents/data-sheet/PMEG2020CPA.pdf)', 'tags': 'huson nolead SOT1061', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SON/HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm/kicadPcb3d_450.png

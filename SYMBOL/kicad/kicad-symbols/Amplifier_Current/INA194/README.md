@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|INA194|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA194|
 |Hex ID (short code)|hexID|SZKAMPLIFIERCURRENTINA194|
-|Name|name|INA194|
+|name|name|INA194|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'INA193', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'INA194', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ina193.pdf', 'kicadSymbolki_keywords': 'current sense shunt monitor', 'kicadSymbolki_description': 'Current Shunt Monitor −16V to +80V Common-Mode Range, 50V/V, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

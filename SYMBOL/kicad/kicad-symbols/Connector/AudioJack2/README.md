@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AudioJack2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-AudioJack2|
 |Hex ID (short code)|hexID|SZKCNAUDIOJ2|
-|Name|name|AudioJack2|
+|name|name|AudioJack2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'AudioJack2', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'audio jack receptacle mono phone headphone TS connector', 'kicadSymbolki_description': 'Audio Jack, 2 Poles (Mono / TS)', 'kicadSymbolki_fp_filters': 'Jack*'}]|
 ||||

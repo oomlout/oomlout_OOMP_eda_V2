@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF7324|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7324|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF7324|
-|Name|name|IRF7324|
+|name|name|IRF7324|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF7324', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.infineon.com/dgdl/irf7324pbf.pdf?fileId=5546d462533600a4015355f5f0861b4b', 'kicadSymbolki_keywords': 'Dual HEXFET P-Channel MOSFET', 'kicadSymbolki_description': '9A Id, -20V Vds, Dual HEXFET P-Channel MOSFET, SO-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LPC1113FHN33-202|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1113FHN33-202|
 |Hex ID (short code)|hexID|SZKMCUNXPLPCLPC1113FHN3322|
-|Name|name|LPC1113FHN33-202|
+|name|name|LPC1113FHN33-202|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LPC1111FHN33-101', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LPC1113FHN33-202', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-32-1EP_7x7mm_P0.65mm_EP4.7x4.7mm_ThermalVias', 'kicadSymbolDatasheet': 'https://www.nxp.com/documents/data_sheet/LPC111X.pdf', 'kicadSymbolki_keywords': 'ARM, 32-bit, Cortex-M0, M0, NXP, microcontroller', 'kicadSymbolki_description': '32-bit ARM Cortex-M0 microcontroller, 24KB flash, 4KB SRAM, power profile', 'kicadSymbolki_fp_filters': '*QFN*7x7mm*P0.65mm*'}]|
 ||||

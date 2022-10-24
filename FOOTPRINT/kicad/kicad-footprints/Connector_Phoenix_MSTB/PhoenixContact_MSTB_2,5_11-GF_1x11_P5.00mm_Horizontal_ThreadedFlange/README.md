@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PhoenixContact_MSTB_2,5_11-GF_1x11_P5.00mm_Horizontal_ThreadedFlange|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MSTB-PhoenixContact_MSTB_2,5_11-GF_1x11_P5.00mm_Horizontal_ThreadedFlange|
 |Hex ID (short code)|hexID|FZKCNPHOENIXMSTBPHOENIXCONTACTMSTB2511GF1X11P5HORIZONTALTHREADEDFLANGE|
-|Name|name|Connector_Phoenix_MSTB : PhoenixContact_MSTB_2,5_11-GF_1x11_P5.00mm_Horizontal_ThreadedFlange|
+|name|name|Connector_Phoenix_MSTB : PhoenixContact_MSTB_2,5_11-GF_1x11_P5.00mm_Horizontal_ThreadedFlange|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PhoenixContact_MSTB_2,5_11-GF_1x11_P5.00mm_Horizontal_ThreadedFlange', 'description': 'Generic Phoenix Contact connector footprint for: MSTB_2,5/11-GF; number of pins: 11; pin pitch: 5.00mm; Angled; threaded flange \|\| order number: 1776786 12A \|\| order number: 1924062 16A (HC)', 'tags': 'phoenix_contact connector MSTB_01x11_GF_5.00mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MSTB.3dshapes/PhoenixContact_MSTB_2,5_11-GF_1x11_P5.00mm_Horizontal_ThreadedFlange.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTB_2,5_11-GF_1x11_P5.00mm_Horizontal_ThreadedFlange/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTB_2,5_11-GF_1x11_P5.00mm_Horizontal_ThreadedFlange/kicadPcb3d_450.png

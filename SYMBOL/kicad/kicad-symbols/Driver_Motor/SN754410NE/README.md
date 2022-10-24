@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SN754410NE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-SN754410NE|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORSN75441NE|
-|Name|name|SN754410NE|
+|name|name|SN754410NE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SN754410NE', 'kicadSymbolFootprint': 'Package_DIP:DIP-16_W7.62mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/sn754410.pdf', 'kicadSymbolki_keywords': 'h-bridge motor driver', 'kicadSymbolki_description': 'Quadruple Half-H Driver, DIP-16', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

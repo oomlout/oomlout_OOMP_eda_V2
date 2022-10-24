@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM3880|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Supervisor-LM3880|
 |Hex ID (short code)|hexID|SZKPOWERSUPERVISORLM388|
-|Name|name|LM3880|
+|name|name|LM3880|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM3880', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm3880.pdf', 'kicadSymbolki_keywords': 'Power Sequencer', 'kicadSymbolki_description': 'Simple Power Sequencer, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

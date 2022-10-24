@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VIPer26HN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-VIPer26HN|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGVIPER26HN|
-|Name|name|VIPer26HN|
+|name|name|VIPer26HN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'VIPer26LN', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'VIPer26HN', 'kicadSymbolFootprint': 'Package_DIP:DIP-8-N6_W7.62mm', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/viper26.pdf', 'kicadSymbolki_keywords': 'SMPS Controller with MOSFET', 'kicadSymbolki_description': '800V, 10-20W, 115kHz, SMPS Controller, DIP-7', 'kicadSymbolki_fp_filters': 'DIP*N6*W7.62mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MBL108S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Bridge-MBL108S|
 |Hex ID (short code)|hexID|SZKDIODEBRIDGEMBL18S|
-|Name|name|MBL108S|
+|name|name|MBL108S|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MBL104S', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'MBL108S', 'kicadSymbolFootprint': 'Diode_SMD:Diode_Bridge_Vishay_MBLS', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/89959/mbl104s.pdf', 'kicadSymbolki_keywords': 'rectifier acdc', 'kicadSymbolki_description': 'Miniature Glass Passivated Single-Phase Surface Mount Bridge Rectifiers, 560V Vrms, 1.0A If, MBLS SMD package', 'kicadSymbolki_fp_filters': 'Diode*Bridge*Vishay*MBLS*'}]|
 ||||

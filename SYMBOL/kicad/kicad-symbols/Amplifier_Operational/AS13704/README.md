@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AS13704|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AS13704|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALAS1374|
-|Name|name|AS13704|
+|name|name|AS13704|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AS13704', 'kicadSymbolFootprint': 'Package_SO:SSOP-24_3.9x8.7mm_P0.635mm', 'kicadSymbolDatasheet': 'http://www.alfarzpp.lv/eng/sc/AS13704.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'operational transconductance amplifier OTA', 'kicadSymbolki_description': 'Quad Operational Transconductance Amplifiers (OTA), with linearizing diodes, SSOP24', 'kicadSymbolki_fp_filters': 'SSOP*3.9x8.7mm*P0.635mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LEMO2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-LEMO2|
 |Hex ID (short code)|hexID|SZKCNLEMO2|
-|Name|name|LEMO2|
+|name|name|LEMO2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'LEMO2', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'LEMO connector', 'kicadSymbolki_description': '2-pin LEMO connector'}]|
 ||||

@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|Particle_P1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Module-Particle_P1|
 |Hex ID (short code)|hexID|SZKRFMOPARTICLEP1|
-|Name|name|Particle_P1|
+|name|name|Particle_P1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Particle_P1', 'kicadSymbolFootprint': 'RF_Module:Particle_P1', 'kicadSymbolDatasheet': 'https://docs.particle.io/datasheets/p1-datasheet/', 'kicadSymbolki_keywords': 'Wi-Fi module', 'kicadSymbolki_description': 'Wi-Fi module, 1MB flash, 128KB RAM', 'kicadSymbolki_fp_filters': 'Particle*P1*'}]|
 ||||

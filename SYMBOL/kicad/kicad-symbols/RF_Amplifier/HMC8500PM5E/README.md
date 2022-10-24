@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HMC8500PM5E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Amplifier-HMC8500PM5E|
 |Hex ID (short code)|hexID|SZKRFAMPLIFIERHMC85PM5E|
-|Name|name|HMC8500PM5E|
+|name|name|HMC8500PM5E|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HMC1099PM5E', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HMC8500PM5E', 'kicadSymbolFootprint': 'Package_CSP:LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/HMC8500PM5E.pdf', 'kicadSymbolki_keywords': 'RF Amplifier', 'kicadSymbolki_description': '10 W (40 dBm), 0.01 GHz to 2.8 GHz, GaN Power Amplifier, LFCSP-32', 'kicadSymbolki_fp_filters': 'LFCSP*1EP*5x5mm*P0.5mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ISO7763FDBQ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-ISO7763FDBQ|
 |Hex ID (short code)|hexID|SZKISOLATORISO7763FDBQ|
-|Name|name|ISO7763FDBQ|
+|name|name|ISO7763FDBQ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ISO7763DBQ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ISO7763FDBQ', 'kicadSymbolFootprint': 'Package_SO:SSOP-16_3.9x4.9mm_P0.635mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/iso7763.pdf?ts=1596905577895', 'kicadSymbolki_keywords': '6 channel digital isolator', 'kicadSymbolki_description': 'Default low, High-speed, robust EMC, reinforced, six-channel, digital, isolator, SSOP-16', 'kicadSymbolki_fp_filters': 'SSOP*3.9x4.9mm*P0.635mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RV_Disc_D7mm_W3.5mm_P5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Varistor-RV_Disc_D7mm_W3.5mm_P5mm|
 |Hex ID (short code)|hexID|FZKVRVDISCD7W35P5|
-|Name|name|Varistor : RV_Disc_D7mm_W3.5mm_P5mm|
+|name|name|Varistor : RV_Disc_D7mm_W3.5mm_P5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RV_Disc_D7mm_W3.5mm_P5mm', 'description': 'Varistor, diameter 7mm, width 3.5mm, pitch 5mm', 'tags': 'varistor SIOV', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Varistor.3dshapes/RV_Disc_D7mm_W3.5mm_P5mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

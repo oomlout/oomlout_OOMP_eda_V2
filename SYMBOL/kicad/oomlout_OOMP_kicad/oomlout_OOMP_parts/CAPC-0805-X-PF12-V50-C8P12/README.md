@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0805-X-PF12-V50-C8P12|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-PF12-V50-C8P12|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XPF12V5C8P12|
-|Name|name|CAPC-0805-X-PF12-V50-C8P12|
+|name|name|CAPC-0805-X-PF12-V50-C8P12|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0805-X-PF12-V50-C8P12', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0805-X-PF12-V50-C8P12', 'kicadSymbolDatasheet': 'oom.lt/C8P12', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C8P12;PARTL C-JLCC;C1792;MANUF C-XXXX;0805CG120J500NT;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

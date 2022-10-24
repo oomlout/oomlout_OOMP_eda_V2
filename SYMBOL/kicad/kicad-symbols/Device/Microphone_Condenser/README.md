@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Microphone_Condenser|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Microphone_Condenser|
 |Hex ID (short code)|hexID|SZKDEVICEMPHONECONDENSER|
-|Name|name|Microphone_Condenser|
+|name|name|Microphone_Condenser|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'MK', 'kicadSymbolValue': 'Microphone_Condenser', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'capacitance condenser microphone', 'kicadSymbolki_description': 'Condenser microphone'}]|
 ||||

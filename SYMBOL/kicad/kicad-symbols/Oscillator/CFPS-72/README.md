@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CFPS-72|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-CFPS-72|
 |Hex ID (short code)|hexID|SZKOCSCFPS72|
-|Name|name|CFPS-72|
+|name|name|CFPS-72|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'X', 'kicadSymbolValue': 'CFPS-72', 'kicadSymbolFootprint': 'Oscillator:Oscillator_SMD_IQD_IQXO70-4Pin_7.5x5.0mm', 'kicadSymbolDatasheet': 'https://www.iqdfrequencyproducts.com/products/details/cfps-72-14-01.pdf', 'kicadSymbolki_keywords': 'XO', 'kicadSymbolki_description': '500kHz-100MHz 5V Crystal Oscillator, IQD CFPS-72', 'kicadSymbolki_fp_filters': 'Oscillator*SMD*IQD*IQXO70*7.5x5.0mm*'}]|
 ||||

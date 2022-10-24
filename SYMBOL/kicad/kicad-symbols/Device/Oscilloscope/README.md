@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Oscilloscope|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Oscilloscope|
 |Hex ID (short code)|hexID|SZKDEVICEOSCILLOSCOPE|
-|Name|name|Oscilloscope|
+|name|name|Oscilloscope|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'MES', 'kicadSymbolValue': 'Oscilloscope', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'oscilloscope', 'kicadSymbolki_description': 'Oscilloscope'}]|
 ||||

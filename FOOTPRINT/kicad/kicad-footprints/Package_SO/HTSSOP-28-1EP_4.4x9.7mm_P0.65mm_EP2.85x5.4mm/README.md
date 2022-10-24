@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm|
 |Hex ID (short code)|hexID|FZKSOHTSS281EP44X97P65EP285X54|
-|Name|name|Package_SO : HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm|
+|name|name|Package_SO : HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm', 'description': 'HTSSOP, 28 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0108.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'HTSSOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm/kicadPcb3d_450.png

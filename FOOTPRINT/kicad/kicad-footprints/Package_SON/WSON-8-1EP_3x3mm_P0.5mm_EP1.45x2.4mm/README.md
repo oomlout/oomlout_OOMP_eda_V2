@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm|
 |Hex ID (short code)|hexID|FZKSONWSON81EP3X3P5EP145X24|
-|Name|name|Package_SON : WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm|
+|name|name|Package_SON : WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm', 'description': 'WSON, 8 Pin (https://www.ti.com/lit/ds/symlink/ina333.pdf#page=30), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'WSON NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm/kicadPcb3d_450.png

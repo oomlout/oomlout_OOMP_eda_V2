@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS18|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS18|
 |Hex ID (short code)|hexID|SZK74XXIEEE74LS18|
-|Name|name|74LS18|
+|name|name|74LS18|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '7413', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS18', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

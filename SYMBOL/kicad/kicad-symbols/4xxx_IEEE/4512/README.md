@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4512|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4512|
 |Hex ID (short code)|hexID|SZK4XXXIEEE4512|
-|Name|name|4512|
+|name|name|4512|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4512', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

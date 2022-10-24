@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|KSWHA-1-20|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Switch-KSWHA-1-20|
 |Hex ID (short code)|hexID|SZKRFSWITCHKSWHA12|
-|Name|name|KSWHA-1-20|
+|name|name|KSWHA-1-20|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'KSWHA-1-20', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/KSWHA-1-20+.pdf', 'kicadSymbolki_keywords': 'RF SPST switch', 'kicadSymbolki_description': 'SPST DC-2.0GHz absorbative switch, 50 Ohm, XX112', 'kicadSymbolki_fp_filters': 'Mini?Circuits*XX112* SOP*1EP*4.57x4.57mm*P1.27mm*'}]|
 ||||

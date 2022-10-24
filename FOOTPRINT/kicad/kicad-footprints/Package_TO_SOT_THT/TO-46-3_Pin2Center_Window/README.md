@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-46-3_Pin2Center_Window|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-46-3_Pin2Center_Window|
 |Hex ID (short code)|hexID|FZKSOTTO463PIN2CENTERWINDOW|
-|Name|name|Package_TO_SOT_THT : TO-46-3_Pin2Center_Window|
+|name|name|Package_TO_SOT_THT : TO-46-3_Pin2Center_Window|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-46-3_Pin2Center_Window', 'description': 'TO-46-3, Pin2 at center of package, Thorlabs photodiodes, https://www.thorlabs.de/drawings/374b6862eb3b5a04-9360B5F6-5056-2306-D912111C06C3F830/FDGA05-SpecSheet.pdf', 'tags': 'TO-46-3 Thorlabs', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-46-3_Pin2Center_Window.wrl', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-46-3_Pin2Center_Window/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-46-3_Pin2Center_Window/kicadPcb3d_450.png

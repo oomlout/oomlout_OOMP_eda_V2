@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP6001U|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6001U|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALMCP61U|
-|Name|name|MCP6001U|
+|name|name|MCP6001U|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LMV321', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP6001U', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': '1MHz, Low-Power Op Amp, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23* *SC*70*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD8496|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-AD8496|
 |Hex ID (short code)|hexID|SZKSENTEMPERATUREAD8496|
-|Name|name|AD8496|
+|name|name|AD8496|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AD8494', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD8496', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ad8494_8495_8496_8497.pdf', 'kicadSymbolki_keywords': 'Thermocouple Amp', 'kicadSymbolki_description': 'Precision Thermocouple Amplifiers with Cold Junction Compensation, J-Type Thermocouple, 25 to 100C, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*8*'}]|
 ||||

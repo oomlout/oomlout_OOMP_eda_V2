@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOP-16_4.4x10.4mm_P1.27mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SOP-16_4.4x10.4mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKSOS1644X14P127|
-|Name|name|Package_SO : SOP-16_4.4x10.4mm_P1.27mm|
+|name|name|Package_SO : SOP-16_4.4x10.4mm_P1.27mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOP-16_4.4x10.4mm_P1.27mm', 'description': '16-Lead Plastic Small Outline http://www.vishay.com/docs/49633/sg2098.pdf', 'tags': 'SOP 1.27', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOP-16_4.4x10.4mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOP-16_4.4x10.4mm_P1.27mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/SOP-16_4.4x10.4mm_P1.27mm/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ISD2575E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-ISD2575E|
 |Hex ID (short code)|hexID|SZKAUDIOISD2575E|
-|Name|name|ISD2575E|
+|name|name|ISD2575E|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ISD2560E', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ISD2575E', 'kicadSymbolFootprint': 'Package_SO:TSOP-I-28_11.8x8mm_P0.55mm', 'kicadSymbolDatasheet': 'https://datasheetspdf.com/pdf-file/700027/Winbond/ISD2560/1', 'kicadSymbolki_keywords': 'isd2575', 'kicadSymbolki_description': 'Single-Chip Voice Record/Playback Device 75-Second Duration, TSOP-I-28', 'kicadSymbolki_fp_filters': 'TSOP*11.8x8mm*P0.55mm*'}]|
 ||||

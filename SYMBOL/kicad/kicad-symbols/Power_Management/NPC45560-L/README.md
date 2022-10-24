@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NPC45560-L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-NPC45560-L|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTNPC4556L|
-|Name|name|NPC45560-L|
+|name|name|NPC45560-L|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NPC45560-H', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NPC45560-L', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-12-1EP_3x3mm_P0.5mm_EP2.05x2.86mm', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/NCP45560-D.PDF', 'kicadSymbolki_keywords': 'load switch', 'kicadSymbolki_description': 'Controlled load switch with low Ron, DFN-12', 'kicadSymbolki_fp_filters': '*DFN*12*'}]|
 ||||

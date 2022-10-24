@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TR60_FC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-TR60_FC|
 |Hex ID (short code)|hexID|SZKTRTR6FC|
-|Name|name|TR60_FC|
+|name|name|TR60_FC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TR', 'kicadSymbolValue': 'TR60_FC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

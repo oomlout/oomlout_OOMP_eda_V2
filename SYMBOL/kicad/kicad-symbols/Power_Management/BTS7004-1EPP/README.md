@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BTS7004-1EPP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-BTS7004-1EPP|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTBTS741EPP|
-|Name|name|BTS7004-1EPP|
+|name|name|BTS7004-1EPP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BTS7004-1EPP', 'kicadSymbolFootprint': 'Package_SO:Infineon_PG-TSDSO-14-22', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-BTS7004-1EPP-DS-v01_00-EN.pdf?fileId=5546d4626102d35a016147550a725555', 'kicadSymbolki_keywords': 'BTS7004', 'kicadSymbolki_description': 'Smart High-Side Power Switch, PROFET, One Channel, 12V, 15A, Rds(on) 4.4mΩ, PG-TSDSO-14-22', 'kicadSymbolki_fp_filters': 'Infineon*TSDSO*22*'}]|
 ||||

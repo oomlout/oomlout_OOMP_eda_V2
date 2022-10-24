@@ -1,0 +1,3 @@
+CSV Line for;SYMBOL-kicad-kicad-symbols-74xx_IEEE-74S140;74S140
+OOMP Type;OOMP Size;OOMP Color;OOMP Description;OOMP Index;Full OOMP ID;Hex ID (short code);name;description;code;collection;gitRepo;gitName;eagleBoard;eagleSchem;kicadBoard;kicadSchem;Part Number (Manufacturer);Part Number (Distributor);Part Number (OPL);Footprint Kicad;Footprint Kicad;Symbol Kicad;Symbol Kicad Details;OOMP Parts List;
+"SYMBOL";"kicad";"kicad-symbols";"74xx_IEEE";"74S140";"SYMBOL-kicad-kicad-symbols-74xx_IEEE-74S140";"SZK74XXIEEE74S14";"74S140";;;;;;;;;;;;;;;;"[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74S140', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]";;

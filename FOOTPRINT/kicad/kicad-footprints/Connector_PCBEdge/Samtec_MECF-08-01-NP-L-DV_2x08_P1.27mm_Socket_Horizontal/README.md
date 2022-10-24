@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Samtec_MECF-08-01-NP-L-DV_2x08_P1.27mm_Socket_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-08-01-NP-L-DV_2x08_P1.27mm_Socket_Horizontal|
 |Hex ID (short code)|hexID|FZKCNPCBEDGESAMTECMECF81NPLDV2X8P127SOHORIZONTAL|
-|Name|name|Connector_PCBEdge : Samtec_MECF-08-01-NP-L-DV_2x08_P1.27mm_Socket_Horizontal|
+|name|name|Connector_PCBEdge : Samtec_MECF-08-01-NP-L-DV_2x08_P1.27mm_Socket_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Samtec_MECF-08-01-NP-L-DV_2x08_P1.27mm_Socket_Horizontal', 'description': 'Highspeed card edge connector for 1.6mm PCBs with 08 contacts (not polarized)', 'tags': 'conn samtec card-edge high-speed', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PCBEdge.3dshapes/Samtec_MECF-08-01-NP-L-DV_2x08_P1.27mm_Socket_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-08-01-NP-L-DV_2x08_P1.27mm_Socket_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-08-01-NP-L-DV_2x08_P1.27mm_Socket_Horizontal/kicadPcb3d_450.png

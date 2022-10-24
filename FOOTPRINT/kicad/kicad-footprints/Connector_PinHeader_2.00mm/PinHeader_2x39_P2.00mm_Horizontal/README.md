@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PinHeader_2x39_P2.00mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.00mm-PinHeader_2x39_P2.00mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNPINHEADER2PINHEADER2X39P2HORIZONTAL|
-|Name|name|Connector_PinHeader_2.00mm : PinHeader_2x39_P2.00mm_Horizontal|
+|name|name|Connector_PinHeader_2.00mm : PinHeader_2x39_P2.00mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PinHeader_2x39_P2.00mm_Horizontal', 'description': 'Through hole angled pin header, 2x39, 2.00mm pitch, 4.2mm pin length, double rows', 'tags': 'Through hole angled pin header THT 2x39 2.00mm double row', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.00mm.3dshapes/PinHeader_2x39_P2.00mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.00mm/PinHeader_2x39_P2.00mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.00mm/PinHeader_2x39_P2.00mm_Horizontal/kicadPcb3d_450.png

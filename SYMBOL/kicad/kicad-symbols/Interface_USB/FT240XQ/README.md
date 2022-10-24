@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FT240XQ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-FT240XQ|
 |Hex ID (short code)|hexID|SZKINTERFACEUFT24XQ|
-|Name|name|FT240XQ|
+|name|name|FT240XQ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FT240XQ', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm', 'kicadSymbolDatasheet': 'https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT240X.pdf', 'kicadSymbolki_keywords': 'FTDI USB FIFO interface converter', 'kicadSymbolki_description': 'Full Speed USB to 8-Bit FIFO, QFN-24', 'kicadSymbolki_fp_filters': 'QFN*4x4mm*P0.5mm*'}]|
 ||||

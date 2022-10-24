@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SIP9_Housing|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP9_Housing|
 |Hex ID (short code)|hexID|FZKSIPSIP9HOUSING|
-|Name|name|Package_SIP : SIP9_Housing|
+|name|name|Package_SIP : SIP9_Housing|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SIP9_Housing', 'description': 'SIP9', 'tags': 'SIP9', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/SIP9_Housing.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP9_Housing/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP9_Housing/kicadPcb3d_450.png

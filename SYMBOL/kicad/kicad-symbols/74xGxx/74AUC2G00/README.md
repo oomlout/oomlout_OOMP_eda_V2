@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74AUC2G00|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-74AUC2G00|
 |Hex ID (short code)|hexID|SZK74XGXX74AUC2G|
-|Name|name|74AUC2G00|
+|name|name|74AUC2G00|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LVC2G00', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AUC2G00', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf', 'kicadSymbolki_keywords': 'Dual Gate NAND LVC CMOS', 'kicadSymbolki_description': 'Dual NAND Gate, Low-Voltage CMOS', 'kicadSymbolki_fp_filters': 'SSOP* VSSOP*'}]|
 ||||

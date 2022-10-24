@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TestPoint_THTPad_D4.0mm_Drill2.0mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_THTPad_D4.0mm_Drill2.0mm|
 |Hex ID (short code)|hexID|FZKTPTPTHTPADD4DRILL2|
-|Name|name|TestPoint : TestPoint_THTPad_D4.0mm_Drill2.0mm|
+|name|name|TestPoint : TestPoint_THTPad_D4.0mm_Drill2.0mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TestPoint_THTPad_D4.0mm_Drill2.0mm', 'description': 'THT pad as test Point, diameter 4.0mm, hole diameter 2.0mm', 'tags': 'test point THT pad', 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PowerIntegrations_eSOP-12B|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-PowerIntegrations_eSOP-12B|
 |Hex ID (short code)|hexID|FZKSOPOWERINTEGRATIONSES12B|
-|Name|name|Package_SO : PowerIntegrations_eSOP-12B|
+|name|name|Package_SO : PowerIntegrations_eSOP-12B|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PowerIntegrations_eSOP-12B', 'description': 'eSOP-12B SMT Flat Package with Heatsink Tab, see https://ac-dc.power.com/sites/default/files/product-docs/topswitch-jx_family_datasheet.pdf', 'tags': 'Power Integrations K Package', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/PowerIntegrations_eSOP-12B.wrl', 'pins': {'type': 'smd', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/PowerIntegrations_eSOP-12B/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/PowerIntegrations_eSOP-12B/kicadPcb3d_450.png

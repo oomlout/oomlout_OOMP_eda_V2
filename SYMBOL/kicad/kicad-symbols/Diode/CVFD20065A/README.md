@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CVFD20065A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-CVFD20065A|
 |Hex ID (short code)|hexID|SZKDIODECVFD265A|
-|Name|name|CVFD20065A|
+|name|name|CVFD20065A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MBR735', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'CVFD20065A', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-2_Vertical', 'kicadSymbolDatasheet': 'https://www.wolfspeed.com/media/downloads/89/CVFD20065A.pdf', 'kicadSymbolki_keywords': 'sic diode', 'kicadSymbolki_description': '650V, 20A, SiC Schottky Diode, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

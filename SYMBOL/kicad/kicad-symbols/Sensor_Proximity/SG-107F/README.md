@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SG-107F|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Proximity-SG-107F|
 |Hex ID (short code)|hexID|SZKSENPROXIMITYSG17F|
-|Name|name|SG-107F|
+|name|name|SG-107F|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SG-105F', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SG-107F', 'kicadSymbolFootprint': 'OptoDevice:Kodenshi_SG105F', 'kicadSymbolDatasheet': 'https://www.pacer.co.uk/Assets/User/1055-SG-107F.pdf', 'kicadSymbolki_keywords': 'Reflective Optical Sensor Opto', 'kicadSymbolki_description': 'Subminiature Reflective Optical Sensor, DIP-lie THT-package', 'kicadSymbolki_fp_filters': 'Kodenshi*SG105F*'}]|
 ||||

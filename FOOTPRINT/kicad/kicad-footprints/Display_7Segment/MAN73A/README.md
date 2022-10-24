@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MAN73A|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-MAN73A|
 |Hex ID (short code)|hexID|FZKDI7SMAN73A|
-|Name|name|Display_7Segment : MAN73A|
+|name|name|Display_7Segment : MAN73A|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MAN73A', 'description': 'https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php', 'tags': 'Overflow +- 1 red LED', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/MAN73A.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/MAN73A/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Display_7Segment/MAN73A/kicadPcb3d_450.png

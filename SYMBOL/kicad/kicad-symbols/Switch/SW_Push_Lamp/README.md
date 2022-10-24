@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_Push_Lamp|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_Push_Lamp|
 |Hex ID (short code)|hexID|SZKSWITCHSWPUSHLAMP|
-|Name|name|SW_Push_Lamp|
+|name|name|SW_Push_Lamp|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_Push_Lamp', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'switch normally-open pushbutton push-button Lamp', 'kicadSymbolki_description': 'Push button switch with Signal Lamp, generic'}]|
 ||||

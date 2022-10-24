@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DRV8308|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8308|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORDRV838|
-|Name|name|DRV8308|
+|name|name|DRV8308|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DRV8308', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PVQFN-N40_EP3.52x2.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/drv8308.pdf', 'kicadSymbolki_keywords': 'bldc mosfet-driver hall-sensor', 'kicadSymbolki_description': 'Brushless DC motor controller, closed loop, hall sensor inputs, current limiting, SPI interface', 'kicadSymbolki_fp_filters': 'Texas*S*PVQFN*N40*3.52x2.62mm*'}]|
 ||||

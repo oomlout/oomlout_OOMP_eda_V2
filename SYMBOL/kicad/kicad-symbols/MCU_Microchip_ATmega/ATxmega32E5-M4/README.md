@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATxmega32E5-M4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega32E5-M4|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATXMEGA32E5M4|
-|Name|name|ATxmega32E5-M4|
+|name|name|ATxmega32E5-M4|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATxmega8E5-M4', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATxmega32E5-M4', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-32-1EP_4x4mm_P0.4mm_EP2.9x2.9mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8153-8-and-16-bit-AVR-Microcontroller-XMEGA-E-ATxmega8E5-ATxmega16E5-ATxmega32E5_Datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8/16bit Microcontroller XMegaAVR', 'kicadSymbolki_description': '32MHz, 32kB Flash, 4kB Boot, 4kB SRAM, 1kB EEPROM, QFN-32', 'kicadSymbolki_fp_filters': 'QFN*1EP*4x4mm*P0.4mm*'}]|
 ||||

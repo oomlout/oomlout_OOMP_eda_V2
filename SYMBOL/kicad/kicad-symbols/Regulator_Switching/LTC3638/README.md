@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC3638|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3638|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLTC3638|
-|Name|name|LTC3638|
+|name|name|LTC3638|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC3638', 'kicadSymbolFootprint': 'Package_SO:Linear_MSOP-12-16-1EP_3x4mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/3638fa.pdf', 'kicadSymbolki_keywords': 'buck dc-dc switcher switching', 'kicadSymbolki_description': '250mA High efficiency 140V step-down converter, MSOP-16(12)', 'kicadSymbolki_fp_filters': 'Linear*MSOP*12*16*EP*3x4mm*P0.5mm*'}]|
 ||||

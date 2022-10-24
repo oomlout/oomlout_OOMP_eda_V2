@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|DIP-6_W7.62mm_SMDSocket_SmallPads|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-6_W7.62mm_SMDSocket_SmallPads|
 |Hex ID (short code)|hexID|FZKDIPDIP6W762SMSOSLLPADS|
-|Name|name|Package_DIP : DIP-6_W7.62mm_SMDSocket_SmallPads|
+|name|name|Package_DIP : DIP-6_W7.62mm_SMDSocket_SmallPads|
 |Footprint Kicad|footprintKicadDetails|{'name': 'DIP-6_W7.62mm_SMDSocket_SmallPads', 'description': '6-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), SMDSocket, SmallPads', 'tags': 'THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-6_W7.62mm_SMDSocket.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-6_W7.62mm_SMDSocket_SmallPads/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-6_W7.62mm_SMDSocket_SmallPads/kicadPcb3d_450.png

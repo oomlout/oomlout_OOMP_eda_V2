@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ECL82|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Valve-ECL82|
 |Hex ID (short code)|hexID|SZKVAECL82|
-|Name|name|ECL82|
+|name|name|ECL82|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ECL82', 'kicadSymbolFootprint': 'Valve:Valve_Noval_P', 'kicadSymbolDatasheet': 'http://www.r-type.org/pdfs/ecl82.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'triode pentode valve', 'kicadSymbolki_description': 'triode pentode', 'kicadSymbolki_fp_filters': 'Valve*Noval*P*'}]|
 ||||

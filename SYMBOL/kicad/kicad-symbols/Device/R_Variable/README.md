@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|R_Variable|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-R_Variable|
 |Hex ID (short code)|hexID|SZKDEVICERVARIABLE|
-|Name|name|R_Variable|
+|name|name|R_Variable|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'R_Variable', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'R res resistor variable potentiometer rheostat', 'kicadSymbolki_description': 'Variable resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

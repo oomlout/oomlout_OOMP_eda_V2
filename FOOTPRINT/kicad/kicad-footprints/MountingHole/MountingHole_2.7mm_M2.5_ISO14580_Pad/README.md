@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|MountingHole_2.7mm_M2.5_ISO14580_Pad|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.7mm_M2.5_ISO14580_Pad|
 |Hex ID (short code)|hexID|FZKHOLHOL27M25ISO1458PAD|
-|Name|name|MountingHole : MountingHole_2.7mm_M2.5_ISO14580_Pad|
+|name|name|MountingHole : MountingHole_2.7mm_M2.5_ISO14580_Pad|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_2.7mm_M2.5_ISO14580_Pad', 'description': 'Mounting Hole 2.7mm, M2.5, ISO14580', 'tags': 'mounting hole 2.7mm m2.5 iso14580', 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_2.7mm_M2.5_ISO14580_Pad/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/MountingHole/MountingHole_2.7mm_M2.5_ISO14580_Pad/kicadPcb3d_450.png

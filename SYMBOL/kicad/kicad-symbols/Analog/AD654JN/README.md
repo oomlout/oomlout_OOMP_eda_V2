@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD654JN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog-AD654JN|
 |Hex ID (short code)|hexID|SZKANALOGAD654JN|
-|Name|name|AD654JN|
+|name|name|AD654JN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD654JN', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD654.pdf', 'kicadSymbolki_keywords': 'v-to-f v-f', 'kicadSymbolki_description': 'Low Cost Monolithic Voltage-to-Frequency Converter, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

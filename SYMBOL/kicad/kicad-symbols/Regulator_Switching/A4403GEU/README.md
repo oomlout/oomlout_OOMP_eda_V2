@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|A4403GEU|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-A4403GEU|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGA443GEU|
-|Name|name|A4403GEU|
+|name|name|A4403GEU|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'A4403GEU', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm', 'kicadSymbolDatasheet': 'https://www.allegromicro.com/~/media/Files/Datasheets/A4403-Datasheet.ashx', 'kicadSymbolki_keywords': 'buck regulator adjustable', 'kicadSymbolki_description': 'Valley current mode buck converter, 46V, 3A, up to 2MHz, QFN-16', 'kicadSymbolki_fp_filters': 'QFN*1EP*4x4mm*P0.65mm*EP2.7x2.7mm*'}]|
 ||||

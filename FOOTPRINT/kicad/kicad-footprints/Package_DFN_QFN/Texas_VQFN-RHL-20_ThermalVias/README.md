@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Texas_VQFN-RHL-20_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_VQFN-RHL-20_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNTEXASVQFNRHL2THERMALVIAS|
-|Name|name|Package_DFN_QFN : Texas_VQFN-RHL-20_ThermalVias|
+|name|name|Package_DFN_QFN : Texas_VQFN-RHL-20_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Texas_VQFN-RHL-20_ThermalVias', 'description': 'http://www.ti.com/lit/ds/symlink/bq51050b.pdf', 'tags': 'RHL0020A', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_VQFN-RHL-20_ThermalVias.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_VQFN-RHL-20_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_VQFN-RHL-20_ThermalVias/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OSHW-Logo2_7.3x6mm_Copper|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo2_7.3x6mm_Copper|
 |Hex ID (short code)|hexID|FZKSZOSHWL273X6C|
-|Name|name|Symbol : OSHW-Logo2_7.3x6mm_Copper|
+|name|name|Symbol : OSHW-Logo2_7.3x6mm_Copper|
 |Footprint Kicad|footprintKicadDetails|{'name': 'OSHW-Logo2_7.3x6mm_Copper', 'description': 'Open Source Hardware Symbol', 'tags': 'Logo Symbol OSHW', 'attributeType': None, 'pins': {}}|
 ||||

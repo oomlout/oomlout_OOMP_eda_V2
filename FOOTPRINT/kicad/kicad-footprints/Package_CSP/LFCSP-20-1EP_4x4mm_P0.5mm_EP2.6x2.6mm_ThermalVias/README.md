@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LFCSP-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKCSPLFCSP21EP4X4P5EP26X26THERMALVIAS|
-|Name|name|Package_CSP : LFCSP-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias|
+|name|name|Package_CSP : LFCSP-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LFCSP-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias', 'description': 'LFCSP, 20 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-20/CP_20_8.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'LFCSP NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias/kicadPcb3d_450.png

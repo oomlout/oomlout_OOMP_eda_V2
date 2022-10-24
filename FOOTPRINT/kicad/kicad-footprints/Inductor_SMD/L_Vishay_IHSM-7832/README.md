@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Vishay_IHSM-7832|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHSM-7832|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLVISHAYIHSM7832|
-|Name|name|Inductor_SMD : L_Vishay_IHSM-7832|
+|name|name|Inductor_SMD : L_Vishay_IHSM-7832|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Vishay_IHSM-7832', 'description': 'Inductor, Vishay, Vishay_IHSM-7832, http://www.vishay.com/docs/34021/ihsm7832.pdf, 19.8mmx8.1mm', 'tags': 'inductor vishay icsm smd', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Vishay_IHSM-7832.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Vishay_IHSM-7832/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Vishay_IHSM-7832/kicadPcb3d_450.png

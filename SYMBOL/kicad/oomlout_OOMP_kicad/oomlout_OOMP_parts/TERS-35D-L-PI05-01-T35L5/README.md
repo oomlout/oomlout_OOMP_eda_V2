@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|TERS-35D-L-PI05-01-T35L5|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-L-PI05-01-T35L5|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSTERS35DLPI51T35L5|
-|Name|name|TERS-35D-L-PI05-01-T35L5|
+|name|name|TERS-35D-L-PI05-01-T35L5|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'TERS-35D-L-PI05-01-T35L5', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:TERS-35D-L-PI05-01-T35L5', 'kicadSymbolDatasheet': 'oom.lt/T35L5', 'kicadSymbolki_keywords': 'screw terminal', 'kicadSymbolki_description': 'hexID: T35L5;Generic screw terminal, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'TerminalBlock*:*'}]|
 ||||

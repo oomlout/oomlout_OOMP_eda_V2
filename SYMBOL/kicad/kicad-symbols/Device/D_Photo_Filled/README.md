@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Photo_Filled|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Photo_Filled|
 |Hex ID (short code)|hexID|SZKDEVICEDPHOTOFILL|
-|Name|name|D_Photo_Filled|
+|name|name|D_Photo_Filled|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Photo_Filled', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'photodiode diode opto', 'kicadSymbolki_description': 'Photodiode, filled shape'}]|
 ||||

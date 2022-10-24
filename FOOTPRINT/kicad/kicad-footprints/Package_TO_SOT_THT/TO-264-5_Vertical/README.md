@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-264-5_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-264-5_Vertical|
 |Hex ID (short code)|hexID|FZKSOTTO2645VERTICAL|
-|Name|name|Package_TO_SOT_THT : TO-264-5_Vertical|
+|name|name|Package_TO_SOT_THT : TO-264-5_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-264-5_Vertical', 'description': 'TO-264-5, Vertical, RM 3.81mm, see https://www.onsemi.com/pub/Collateral/NJL3281D-D.PDF', 'tags': 'TO-264-5 Vertical RM 3.81mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-264-5_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-264-5_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-264-5_Vertical/kicadPcb3d_450.png

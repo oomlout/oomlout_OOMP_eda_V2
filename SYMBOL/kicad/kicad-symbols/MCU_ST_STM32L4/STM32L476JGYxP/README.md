@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32L476JGYxP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L476JGYxP|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32L4STM32L476JGYXP|
-|Name|name|STM32L476JGYxP|
+|name|name|STM32L476JGYxP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32L476JGYxP', 'kicadSymbolFootprint': 'Package_CSP:ST_WLCSP-72_Die415', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00108832.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32L4 STM32L4x6', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 1024KB flash, 128KB RAM, 80MHz, 1.71-3.6V, 55 GPIO, WLCSP-72', 'kicadSymbolki_fp_filters': 'ST_WLCSP*Die415*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP120-xxxHxTO|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP120-xxxHxTO|
 |Hex ID (short code)|hexID|SZKPOWERSUPERVISORMCP12XXXHXTO|
-|Name|name|MCP120-xxxHxTO|
+|name|name|MCP120-xxxHxTO|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP120-xxxHxTO', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/11184d.pdf', 'kicadSymbolki_keywords': 'supervisory circuit', 'kicadSymbolki_description': 'Microcontroller supervisory circuit, TO-92', 'kicadSymbolki_fp_filters': 'TO*92*Inline*'}]|
 ||||

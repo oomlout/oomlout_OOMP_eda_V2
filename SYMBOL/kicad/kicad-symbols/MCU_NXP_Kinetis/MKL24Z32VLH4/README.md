@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MKL24Z32VLH4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL24Z32VLH4|
 |Hex ID (short code)|hexID|SZKMCUNXPKINETISMKL24Z32VLH4|
-|Name|name|MKL24Z32VLH4|
+|name|name|MKL24Z32VLH4|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MKL24Z64VLH4', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MKL24Z32VLH4', 'kicadSymbolFootprint': 'Package_QFP:LQFP-64_10x10mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/docs/en/data-sheet/KL24P80M48SF0.pdf', 'kicadSymbolki_keywords': 'Kinetis KL24 ARM Cortex M0+', 'kicadSymbolki_description': 'Kinetis KL24 series, 48-MHz/32-bit ARM Cortex-M0+, 32 kB flash, 4 kB SRAM, USB FS Device/OTG, LQFP-64', 'kicadSymbolki_fp_filters': 'LQFP*10x10mm*P0.5mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SolderJumper_3_Bridged12|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Jumper-SolderJumper_3_Bridged12|
 |Hex ID (short code)|hexID|SZKJSOLDERJ3BRIDGED12|
-|Name|name|SolderJumper_3_Bridged12|
+|name|name|SolderJumper_3_Bridged12|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'JP', 'kicadSymbolValue': 'SolderJumper_3_Bridged12', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'Solder Jumper SPDT', 'kicadSymbolki_description': '3-pole Solder Jumper, pins 1+2 closed/bridged', 'kicadSymbolki_fp_filters': 'SolderJumper*Bridged12*'}]|
 ||||

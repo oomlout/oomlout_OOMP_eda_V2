@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SiS443DN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-SiS443DN|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETSIS443DN|
-|Name|name|SiS443DN|
+|name|name|SiS443DN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SiS415DNT', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'SiS443DN', 'kicadSymbolFootprint': 'Package_SO:Vishay_PowerPAK_1212-8_Single', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/63253/sis443dn.pdf', 'kicadSymbolki_keywords': 'P-Channel MOSFET', 'kicadSymbolki_description': '-35A Id, -40V Vds, P-Channel MOSFET, PowerPAK 1212-8 Single', 'kicadSymbolki_fp_filters': 'Vishay*PowerPAK*1212*Single*'}]|
 ||||

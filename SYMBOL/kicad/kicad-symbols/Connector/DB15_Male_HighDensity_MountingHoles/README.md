@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DB15_Male_HighDensity_MountingHoles|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DB15_Male_HighDensity_MountingHoles|
 |Hex ID (short code)|hexID|SZKCNDB15MALEHIGHDENSITYHOLS|
-|Name|name|DB15_Male_HighDensity_MountingHoles|
+|name|name|DB15_Male_HighDensity_MountingHoles|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DB15_Male_HighDensity_MountingHoles', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'connector male D-SUB VGA', 'kicadSymbolki_description': '15-pin male D-SUB connector, High density (3 columns), Triple Row, Generic, VGA-connector, Mounting Hole', 'kicadSymbolki_fp_filters': 'DSUB*Male*'}]|
 ||||

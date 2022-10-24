@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TG111-MSC13LF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-TG111-MSC13LF|
 |Hex ID (short code)|hexID|SZKTRTG111MSC13LF|
-|Name|name|TG111-MSC13LF|
+|name|name|TG111-MSC13LF|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TR', 'kicadSymbolValue': 'TG111-MSC13LF', 'kicadSymbolFootprint': 'Transformer_SMD:Transformer_Ethernet_HALO_TG111-MSC13', 'kicadSymbolDatasheet': 'https://www.haloelectronics.com/pdf/discrete-genesus.pdf', 'kicadSymbolki_keywords': 'Single Port Gigabit Ethernet Transformer', 'kicadSymbolki_description': 'Single Port Gigabit Ethernet Transformers', 'kicadSymbolki_fp_filters': 'Transformer*Ethernet*HALO*TG111*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LGA-8_3x5mm_P1.25mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-8_3x5mm_P1.25mm|
 |Hex ID (short code)|hexID|FZKLGALGA83X5P125|
-|Name|name|Package_LGA : LGA-8_3x5mm_P1.25mm|
+|name|name|Package_LGA : LGA-8_3x5mm_P1.25mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LGA-8_3x5mm_P1.25mm', 'description': 'LGA-8', 'tags': 'lga land grid array', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/LGA-8_3x5mm_P1.25mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-8_3x5mm_P1.25mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-8_3x5mm_P1.25mm/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATX-24|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-ATX-24|
 |Hex ID (short code)|hexID|SZKCNATX24|
-|Name|name|ATX-24|
+|name|name|ATX-24|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'ATX-24', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.intel.com/content/dam/www/public/us/en/documents/guides/power-supply-design-guide-june.pdf#page=33', 'kicadSymbolki_keywords': 'ATX PSU', 'kicadSymbolki_description': 'ATX Power supply 24pins', 'kicadSymbolki_fp_filters': '*Mini?Fit*2x12*Vertical* *Mini?Fit*2x12*Horizontal*'}]|
 ||||

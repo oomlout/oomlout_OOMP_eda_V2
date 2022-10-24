@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DSP96002|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-DSP_Freescale-DSP96002|
 |Hex ID (short code)|hexID|SZKDSPFREESCALEDSP962|
-|Name|name|DSP96002|
+|name|name|DSP96002|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DSP96002', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://cache.freescale.com/files/dsp/doc/inactive/DSP96002.pdf', 'kicadSymbolki_keywords': 'DSP 32bit Dual Port Processor', 'kicadSymbolki_description': '32-bit General Purpose Floating-point DSP, Dual Port, PGA-223', 'kicadSymbolki_fp_filters': 'PGA-223*'}]|
 ||||

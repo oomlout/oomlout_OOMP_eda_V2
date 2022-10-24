@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|QFN-28-1EP_5x6mm_P0.5mm_EP3.65x4.65mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-28-1EP_5x6mm_P0.5mm_EP3.65x4.65mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNQFN281EP5X6P5EP365X465THERMALVIAS|
-|Name|name|Package_DFN_QFN : QFN-28-1EP_5x6mm_P0.5mm_EP3.65x4.65mm_ThermalVias|
+|name|name|Package_DFN_QFN : QFN-28-1EP_5x6mm_P0.5mm_EP3.65x4.65mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'QFN-28-1EP_5x6mm_P0.5mm_EP3.65x4.65mm_ThermalVias', 'description': 'QFN, 28 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/05081932_0_UHE28.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-28-1EP_5x6mm_P0.5mm_EP3.65x4.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'custom'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-28-1EP_5x6mm_P0.5mm_EP3.65x4.65mm_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-28-1EP_5x6mm_P0.5mm_EP3.65x4.65mm_ThermalVias/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ICM-20948|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Motion-ICM-20948|
 |Hex ID (short code)|hexID|SZKSENMOTIONICM2948|
-|Name|name|ICM-20948|
+|name|name|ICM-20948|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ICM-20948', 'kicadSymbolFootprint': 'Sensor_Motion:InvenSense_QFN-24_3x3mm_P0.4mm', 'kicadSymbolDatasheet': 'http://www.invensense.com/wp-content/uploads/2016/06/DS-000189-ICM-20948-v1.3.pdf', 'kicadSymbolki_keywords': 'mems magnetometer', 'kicadSymbolki_description': 'InvenSense 9-Axis Motion Sensor, Accelerometer, Gyroscope, Compass, I2C/SPI, QFN-24', 'kicadSymbolki_fp_filters': 'InvenSense?QFN*3x3mm*P0.4mm*'}]|
 ||||

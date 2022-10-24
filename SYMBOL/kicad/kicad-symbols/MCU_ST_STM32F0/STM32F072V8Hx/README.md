@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F072V8Hx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F072V8Hx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32FSTM32F72V8HX|
-|Name|name|STM32F072V8Hx|
+|name|name|STM32F072V8Hx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F072V8Hx', 'kicadSymbolFootprint': 'Package_BGA:UFBGA-100_7x7mm_Layout12x12_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00090510.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M0 STM32F0 STM32F0x2', 'kicadSymbolki_description': 'ARM Cortex-M0 MCU, 64KB flash, 16KB RAM, 48MHz, 2-3.6V, 87 GPIO, UFBGA-100', 'kicadSymbolki_fp_filters': 'UFBGA*7x7mm*Layout12x12*P0.5mm*'}]|
 ||||

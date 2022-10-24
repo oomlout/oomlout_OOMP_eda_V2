@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DRV5033FAxLPG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-DRV5033FAxLPG|
 |Hex ID (short code)|hexID|SZKSENMAGNETICDRV533FAXLPG|
-|Name|name|DRV5033FAxLPG|
+|name|name|DRV5033FAxLPG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DRV5055A1xLPGxQ1', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DRV5033FAxLPG', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/drv5033.pdf', 'kicadSymbolki_keywords': 'Digital Omnipolar Switch Hall Effect Sensor', 'kicadSymbolki_description': '±3.5 / ±2 mT, 20-kHz, 2-38V, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

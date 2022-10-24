@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_NF_ETAL_P2781_HandSoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P2781_HandSoldering|
 |Hex ID (short code)|hexID|FZKTRSMTRNFETALP2781HANDSOLDERING|
-|Name|name|Transformer_SMD : Transformer_NF_ETAL_P2781_HandSoldering|
+|name|name|Transformer_SMD : Transformer_NF_ETAL_P2781_HandSoldering|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_NF_ETAL_P2781_HandSoldering', 'description': 'NF-Transformer, ETAL, P2781, SMD, Handsoldering', 'tags': 'NF-Transformer ETAL P2781 SMD Handsoldering ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_NF_ETAL_P2781_HandSoldering.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

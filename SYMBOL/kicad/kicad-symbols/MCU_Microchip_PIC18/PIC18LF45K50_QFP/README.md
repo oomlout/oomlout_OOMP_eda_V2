@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC18LF45K50_QFP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF45K50_QFP|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC18PIC18LF45K5QFP|
-|Name|name|PIC18LF45K50_QFP|
+|name|name|PIC18LF45K50_QFP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC18F45K50_QFP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18LF45K50_QFP', 'kicadSymbolFootprint': 'Package_QFP:TQFP-44_10x10mm_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/30000684B.pdf', 'kicadSymbolki_keywords': 'microcontroller Flash EEPROM SPI I2C USB UART USART ADC TQFP', 'kicadSymbolki_description': '32K Flash, 2K RAM, 256B EEPROM, Microchip PIC18F series enhanced flash microcontroller with USB and nanoWatt XLP Technology in TQFP-44 package', 'kicadSymbolki_fp_filters': 'TQFP*10x10mm*P0.8mm*'}]|
 ||||

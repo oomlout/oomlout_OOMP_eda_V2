@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD390JD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-AD390JD|
 |Hex ID (short code)|hexID|SZKANALOGDACAD39JD|
-|Name|name|AD390JD|
+|name|name|AD390JD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD390JD', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/static/imported-files/data_sheets/AD390MIL.pdf', 'kicadSymbolki_keywords': '4ch DAC 12bit', 'kicadSymbolki_description': 'Quad 12bit DAC, 4LSB Gain Error, DH-28'}]|
 ||||

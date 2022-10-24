@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_TemperatureDependent_Filled|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_TemperatureDependent_Filled|
 |Hex ID (short code)|hexID|SZKDEVICEDTEMPERATUREDEPENDENTFILL|
-|Name|name|D_TemperatureDependent_Filled|
+|name|name|D_TemperatureDependent_Filled|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_TemperatureDependent_Filled', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'temperature sensor diode', 'kicadSymbolki_description': 'Temperature dependent diode, filled shape', 'kicadSymbolki_fp_filters': 'TO-???* *_Diode_* *SingleDiode* D_*'}]|
 ||||

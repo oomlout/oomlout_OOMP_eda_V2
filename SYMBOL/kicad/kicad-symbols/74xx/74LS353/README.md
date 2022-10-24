@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS353|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS353|
 |Hex ID (short code)|hexID|SZK74XX74LS353|
-|Name|name|74LS353|
+|name|name|74LS353|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS353', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS353', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL MUX MUX2', 'kicadSymbolki_description': 'Dual 4 to 1 line Multiplexer, inverter', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

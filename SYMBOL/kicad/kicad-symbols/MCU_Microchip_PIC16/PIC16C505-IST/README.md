@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16C505-IST|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16C505-IST|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16C55IST|
-|Name|name|PIC16C505-IST|
+|name|name|PIC16C505-IST|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC16F505-IST', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16C505-IST', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41236E.pdf', 'kicadSymbolki_keywords': 'ROM-Based 8bit Microcontroller', 'kicadSymbolki_description': 'PIC16C505, 1024W ROM, 72B SRAM, TSSOP14', 'kicadSymbolki_fp_filters': 'TSSOP*'}]|
 ||||

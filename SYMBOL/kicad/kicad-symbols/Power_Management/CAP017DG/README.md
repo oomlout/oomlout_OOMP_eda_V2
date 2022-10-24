@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CAP017DG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-CAP017DG|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTCAP17DG|
-|Name|name|CAP017DG|
+|name|name|CAP017DG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CAP002DG', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CAP017DG', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://ac-dc.power.com/sites/default/files/product-docs/capzero_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Automatic Capacitor Discarger', 'kicadSymbolki_description': 'CapZero Automatic Capacitor Discarger, 1000V, <=2.5uF, 300kOhm, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

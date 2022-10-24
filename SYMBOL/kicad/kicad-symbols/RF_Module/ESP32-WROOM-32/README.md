@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|ESP32-WROOM-32|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Module-ESP32-WROOM-32|
 |Hex ID (short code)|hexID|SZKRFMOESP32WROOM32|
-|Name|name|ESP32-WROOM-32|
+|name|name|ESP32-WROOM-32|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ESP32-WROOM-32', 'kicadSymbolFootprint': 'RF_Module:ESP32-WROOM-32', 'kicadSymbolDatasheet': 'https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf', 'kicadSymbolki_keywords': 'RF Radio BT ESP ESP32 Espressif onboard PCB antenna', 'kicadSymbolki_description': 'RF Module, ESP32-D0WDQ6 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD', 'kicadSymbolki_fp_filters': 'ESP32?WROOM?32*'}]|
 ||||

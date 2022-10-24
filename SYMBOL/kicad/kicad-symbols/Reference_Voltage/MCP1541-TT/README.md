@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP1541-TT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1541-TT|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGEMCP1541TT|
-|Name|name|MCP1541-TT|
+|name|name|MCP1541-TT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP1525-TT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP1541-TT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/21653b.pdf', 'kicadSymbolki_keywords': 'Voltage Reference 4.096V', 'kicadSymbolki_description': '4.096V Voltage Reference, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

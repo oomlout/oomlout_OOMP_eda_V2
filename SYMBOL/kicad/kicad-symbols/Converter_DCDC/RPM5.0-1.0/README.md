@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RPM5.0-1.0|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-RPM5.0-1.0|
 |Hex ID (short code)|hexID|SZKCONRPM51|
-|Name|name|RPM5.0-1.0|
+|name|name|RPM5.0-1.0|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'RPM5.0-6.0', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'RPM5.0-1.0', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_RECOM_RPMx.x-x.0', 'kicadSymbolDatasheet': 'https://www.recom-power.com/pdf/Innoline/RPM-1.0.pdf', 'kicadSymbolki_keywords': 'Recom dc-dc converter', 'kicadSymbolki_description': '1A non-isolated switching regulator power module, 3-17V input voltage, 5.0V output voltage, DOSA', 'kicadSymbolki_fp_filters': 'Converter*DCDC*RECOM*RPM*'}]|
 ||||

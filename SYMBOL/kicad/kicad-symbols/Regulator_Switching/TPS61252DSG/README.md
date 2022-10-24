@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS61252DSG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61252DSG|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS61252DSG|
-|Name|name|TPS61252DSG|
+|name|name|TPS61252DSG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS61252DSG', 'kicadSymbolFootprint': 'Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps61252.pdf', 'kicadSymbolki_keywords': 'boost converter switching', 'kicadSymbolki_description': 'Tiny 1.5-A Boost Converter With Adjustable Input Current Limit, 2.3-6.0V Vin, 3.0-6.5V Vout, WSON-8', 'kicadSymbolki_fp_filters': 'WSON*1EP*2x2mm*P0.5mm*'}]|
 ||||

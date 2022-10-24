@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|INA253|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA253|
 |Hex ID (short code)|hexID|SZKAMPLIFIERCURRENTINA253|
-|Name|name|INA253|
+|name|name|INA253|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'INA253', 'kicadSymbolFootprint': 'Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ina253.pdf', 'kicadSymbolki_keywords': 'shunt current amplifier bidirectional', 'kicadSymbolki_description': 'High Voltage, Bidirectional, Zero-Drift, Current-ShuntMonitor With Integrated, 2-mΩ, Precision, Low Inductive Shunt Resistor, TSSOP-20', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x6.5mm*P0.65mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC7K325T-FBG900|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Kintex7-XC7K325T-FBG900|
 |Hex ID (short code)|hexID|SZKFPGAXILINXKINTEX7XC7K325TFBG9|
-|Name|name|XC7K325T-FBG900|
+|name|name|XC7K325T-FBG900|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC7K325T-FBG900', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Kintex 7 T 325 XC7K325T-FBG900'}]|
 ||||

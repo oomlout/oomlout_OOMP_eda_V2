@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_DIP_x12|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_DIP_x12|
 |Hex ID (short code)|hexID|SZKSWITCHSWDIPX12|
-|Name|name|SW_DIP_x12|
+|name|name|SW_DIP_x12|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_DIP_x12', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'dip switch', 'kicadSymbolki_description': '12x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol', 'kicadSymbolki_fp_filters': 'SW?DIP?x12*'}]|
 ||||

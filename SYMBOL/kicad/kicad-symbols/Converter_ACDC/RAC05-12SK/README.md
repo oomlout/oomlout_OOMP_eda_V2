@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RAC05-12SK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC05-12SK|
 |Hex ID (short code)|hexID|SZKCONRAC512SK|
-|Name|name|RAC05-12SK|
+|name|name|RAC05-12SK|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'RAC05-3.3SK', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'RAC05-12SK', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_RECOM_RAC05-xxSK_THT', 'kicadSymbolDatasheet': 'https://www.recom-power.com/pdf/Powerline-AC-DC/RAC05-K.pdf', 'kicadSymbolki_keywords': 'ac dc power supply', 'kicadSymbolki_description': '5W Single Output EMC Class B 12V 416mA', 'kicadSymbolki_fp_filters': 'Converter*ACDC*RECOM*RAC05*SK*'}]|
 ||||

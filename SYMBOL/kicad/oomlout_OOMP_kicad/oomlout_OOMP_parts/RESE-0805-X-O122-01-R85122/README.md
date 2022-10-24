@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O122-01-R85122|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O122-01-R85122|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO1221R85122|
-|Name|name|RESE-0805-X-O122-01-R85122|
+|name|name|RESE-0805-X-O122-01-R85122|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O122-01-R85122', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O122-01-R85122', 'kicadSymbolDatasheet': 'oom.lt/R85122', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R85122;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

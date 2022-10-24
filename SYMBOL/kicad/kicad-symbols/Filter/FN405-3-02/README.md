@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FN405-3-02|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Filter-FN405-3-02|
 |Hex ID (short code)|hexID|SZKFILFN4532|
-|Name|name|FN405-3-02|
+|name|name|FN405-3-02|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'FN405-0.5-02', 'kicadSymbolReference': 'FL', 'kicadSymbolValue': 'FN405-3-02', 'kicadSymbolFootprint': 'Filter:Filter_Schaffner_FN405', 'kicadSymbolDatasheet': 'https://www.schaffner.com/de/produkte/download/product/datasheet/fn-405-pcb-mounting-filter/', 'kicadSymbolki_keywords': 'EMI', 'kicadSymbolki_description': '3A, 250VAC, 50/60Hz line filter', 'kicadSymbolki_fp_filters': 'Filter*Schaffner*FN405*'}]|
 ||||

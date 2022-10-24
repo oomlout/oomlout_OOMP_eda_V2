@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O15X-01-R4215X|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O15X-01-R4215X|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO15X1R4215X|
-|Name|name|RESE-0402-X-O15X-01-R4215X|
+|name|name|RESE-0402-X-O15X-01-R4215X|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O15X-01-R4215X', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O15X-01-R4215X', 'kicadSymbolDatasheet': 'oom.lt/R4215X', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R4215X;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

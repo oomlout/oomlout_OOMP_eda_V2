@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STK672-080-E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-STK672-080-E|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORSTK6728E|
-|Name|name|STK672-080-E|
+|name|name|STK672-080-E|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STK672-080-E', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/EN6507-D.PDF', 'kicadSymbolki_keywords': 'Stepper driver', 'kicadSymbolki_description': 'Stepper motor driver with microstepping controller, 2.8A', 'kicadSymbolki_fp_filters': 'STK672-080-E'}]|
 ||||

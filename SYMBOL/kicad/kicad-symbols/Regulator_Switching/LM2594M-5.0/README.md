@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM2594M-5.0|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2594M-5.0|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM2594M5|
-|Name|name|LM2594M-5.0|
+|name|name|LM2594M-5.0|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM2594M-3.3', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2594M-5.0', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm2594.pdf', 'kicadSymbolki_keywords': 'buck converter regulator step-down voltage simple switcher fixed', 'kicadSymbolki_description': '5.0V, 0.5A SIMPLE SWITCHER® Step-Down Voltage Regulator, Maximum VIN 45V, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*'}]|
 ||||

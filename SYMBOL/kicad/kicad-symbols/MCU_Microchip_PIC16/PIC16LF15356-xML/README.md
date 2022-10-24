@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16LF15356-xML|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16LF15356-xML|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16LF15356XML|
-|Name|name|PIC16LF15356-xML|
+|name|name|PIC16LF15356-xML|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC16F15356-xML', 'kicadSymbolReference': 'U?', 'kicadSymbolValue': 'PIC16LF15356-xML', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/PIC16LF15356-75-76-85-86-Data%20Sheet-40001866B.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller Low Power', 'kicadSymbolki_description': '16KW FLASH, 2048B SRAM, QFN-28(6x6mm)', 'kicadSymbolki_fp_filters': 'QFN*6x6mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BSC082N10LSG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC082N10LSG|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBSC82N1LSG|
-|Name|name|BSC082N10LSG|
+|name|name|BSC082N10LSG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CSD17578Q5A', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BSC082N10LSG', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TDSON-8-1', 'kicadSymbolDatasheet': 'http://www.infineon.com/dgdl/Infineon-BSC082N10LS-DS-v01_07-en.pdf?fileId=db3a3043163797a6011647faad240719', 'kicadSymbolki_keywords': 'OptiMOS Power MOSFET N-MOS', 'kicadSymbolki_description': '100A Id, 100V Vds, OptiMOS N-Channel Power MOSFET, 8.2mOhm Ron, Qg (typ) 78.0nC, PG-TDSON-8', 'kicadSymbolki_fp_filters': 'TDSON*'}]|
 ||||

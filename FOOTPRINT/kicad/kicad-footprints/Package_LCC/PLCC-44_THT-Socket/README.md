@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|PLCC-44_THT-Socket|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-44_THT-Socket|
 |Hex ID (short code)|hexID|FZKLCCPLCC44THTSO|
-|Name|name|Package_LCC : PLCC-44_THT-Socket|
+|name|name|Package_LCC : PLCC-44_THT-Socket|
 |Footprint Kicad|footprintKicadDetails|{'name': 'PLCC-44_THT-Socket', 'description': 'PLCC, 44 pins, through hole', 'tags': 'plcc leaded', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LCC.3dshapes/PLCC-44_THT-Socket.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-44_THT-Socket/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-44_THT-Socket/kicadPcb3d_450.png

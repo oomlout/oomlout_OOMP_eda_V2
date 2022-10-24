@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|GD75232DW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-GD75232DW|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTGD75232DW|
-|Name|name|GD75232DW|
+|name|name|GD75232DW|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'GD65232DW', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'GD75232DW', 'kicadSymbolFootprint': 'Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/gd75232.pdf', 'kicadSymbolki_keywords': 'RS232 UART Driver Receiver Interface', 'kicadSymbolki_description': 'Multiple RS-232 Driver and Receiver, SOIC-20', 'kicadSymbolki_fp_filters': 'SOIC*7.5x12.8mm*P1.27mm*'}]|
 ||||

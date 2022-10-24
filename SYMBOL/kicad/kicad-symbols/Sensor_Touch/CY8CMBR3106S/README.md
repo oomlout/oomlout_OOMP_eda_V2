@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CY8CMBR3106S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Touch-CY8CMBR3106S|
 |Hex ID (short code)|hexID|SZKSENTOUCHCY8CMBR316S|
-|Name|name|CY8CMBR3106S|
+|name|name|CY8CMBR3106S|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CY8CMBR3106S', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm', 'kicadSymbolDatasheet': 'http://www.cypress.com/?docID=49119', 'kicadSymbolki_keywords': 'Touch Sensor 16ch Slider', 'kicadSymbolki_description': 'CapSense Controller, 16 Sensors w/ Slider, QFN-24+EP', 'kicadSymbolki_fp_filters': 'QFN*1EP*4x4mm*P0.5mm*'}]|
 ||||

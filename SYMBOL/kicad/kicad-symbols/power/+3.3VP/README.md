@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|+3.3VP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-+3.3VP|
 |Hex ID (short code)|hexID|SZKPOWER+33VP|
-|Name|name|+3.3VP|
+|name|name|+3.3VP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': '+3.3VP', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "+3.3VP"'}]|
 ||||

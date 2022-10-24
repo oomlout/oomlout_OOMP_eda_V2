@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|8088_Max_Mode|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Intel-8088_Max_Mode|
 |Hex ID (short code)|hexID|SZKMCUINTEL888MAXMODE|
-|Name|name|8088_Max_Mode|
+|name|name|8088_Max_Mode|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '8088_Max_Mode', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://datasheets.chipdb.org/Intel/x86/808x/datashts/8088/231456-006.pdf', 'kicadSymbolki_keywords': 'MPRO', 'kicadSymbolki_description': '8088 (maximum mode), 8-Bit HMOS Microprocessor, PDIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74HC04|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74HC04|
 |Hex ID (short code)|hexID|SZK74XX74HC4|
-|Name|name|74HC04|
+|name|name|74HC04|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LS04', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74HC04', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf', 'kicadSymbolki_keywords': 'HCMOS not inv', 'kicadSymbolki_description': 'Hex Inverter', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SSOP?14* TSSOP?14*'}]|
 ||||

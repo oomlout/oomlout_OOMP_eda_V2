@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRS2505L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-IRS2505L|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERIRS255L|
-|Name|name|IRS2505L|
+|name|name|IRS2505L|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IRS2505L', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irs2505lpbf.pdf?fileId=5546d462533600a40153567ad42c2819', 'kicadSymbolki_keywords': 'pfc controller crcm dcm', 'kicadSymbolki_description': 'Boost PFC and SMPS Control IC, Critical Conduction Mode, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Texas_S-PWSON-N10_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PWSON-N10_ThermalVias|
 |Hex ID (short code)|hexID|FZKSONTEXASSPWSONN1THERMALVIAS|
-|Name|name|Package_SON : Texas_S-PWSON-N10_ThermalVias|
+|name|name|Package_SON : Texas_S-PWSON-N10_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Texas_S-PWSON-N10_ThermalVias', 'description': '3x3mm Body, 0.5mm Pitch, S-PWSON-N10, DSC, http://www.ti.com/lit/ds/symlink/tps63060.pdf', 'tags': '0.5 S-PWSON-N10 DSC', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Texas_S-PWSON-N10.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/Texas_S-PWSON-N10_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SON/Texas_S-PWSON-N10_ThermalVias/kicadPcb3d_450.png

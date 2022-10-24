@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|HDSP-7507|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-HDSP-7507|
 |Hex ID (short code)|hexID|FZKDI7SHDSP757|
-|Name|name|Display_7Segment : HDSP-7507|
+|name|name|Display_7Segment : HDSP-7507|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HDSP-7507', 'description': '+-1 overflow 7 segment high efficiency red, https://docs.broadcom.com/docs/AV02-2553EN', 'tags': '+-1 overflow 7 segment high efficiency red', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/HDSP-7507.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/HDSP-7507/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Display_7Segment/HDSP-7507/kicadPcb3d_450.png

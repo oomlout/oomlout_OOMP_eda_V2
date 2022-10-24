@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Texas_DSC0010J|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_DSC0010J|
 |Hex ID (short code)|hexID|FZKSONTEXASDSC1J|
-|Name|name|Package_SON : Texas_DSC0010J|
+|name|name|Package_SON : Texas_DSC0010J|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Texas_DSC0010J', 'description': '3x3mm Body, 0.5mm Pitch, DSC0010J, WSON, http://www.ti.com/lit/ds/symlink/tps61201.pdf', 'tags': '0.5 DSC0010J WSON', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Texas_S-DSC0010J.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/Texas_DSC0010J/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SON/Texas_DSC0010J/kicadPcb3d_450.png

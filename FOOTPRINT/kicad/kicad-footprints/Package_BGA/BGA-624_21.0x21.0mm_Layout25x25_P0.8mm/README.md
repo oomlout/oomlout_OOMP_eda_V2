@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|BGA-624_21.0x21.0mm_Layout25x25_P0.8mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-624_21.0x21.0mm_Layout25x25_P0.8mm|
 |Hex ID (short code)|hexID|FZKBGABGA62421X21LAYOUT25X25P8|
-|Name|name|Package_BGA : BGA-624_21.0x21.0mm_Layout25x25_P0.8mm|
+|name|name|Package_BGA : BGA-624_21.0x21.0mm_Layout25x25_P0.8mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'BGA-624_21.0x21.0mm_Layout25x25_P0.8mm', 'description': 'BGA-624, 25x25 grid, 21x21mm package, pitch 0.8mm; https://www.nxp.com/docs/en/package-information/SOT1529-1.pdf', 'tags': 'BGA 624 0.8', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-624_21.0x21.0mm_Layout25x25_P0.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-624_21.0x21.0mm_Layout25x25_P0.8mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_BGA/BGA-624_21.0x21.0mm_Layout25x25_P0.8mm/kicadPcb3d_450.png

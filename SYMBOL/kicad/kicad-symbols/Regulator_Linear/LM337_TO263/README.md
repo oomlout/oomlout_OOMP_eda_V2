@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM337_TO263|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM337_TO263|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM337TO263|
-|Name|name|LM337_TO263|
+|name|name|LM337_TO263|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM337_TO263', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-2', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/LM337-D.PDF', 'kicadSymbolki_keywords': 'Adjustable Voltage Regulator 1A Negative', 'kicadSymbolki_description': 'Negative 1A 35V Adjustable Linear Regulator, TO-263(D2-PAK)', 'kicadSymbolki_fp_filters': 'TO?263*'}]|
 ||||

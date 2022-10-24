@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VoltageDivider_CenterPin3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-VoltageDivider_CenterPin3|
 |Hex ID (short code)|hexID|SZKDEVICEVOLTAGEDIVIDERCENTERPIN3|
-|Name|name|VoltageDivider_CenterPin3|
+|name|name|VoltageDivider_CenterPin3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'RN', 'kicadSymbolValue': 'VoltageDivider_CenterPin3', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'R network voltage divider', 'kicadSymbolki_description': 'Voltage divider, center on pin 3', 'kicadSymbolki_fp_filters': 'R?Array?SIP* SOT?23'}]|
 ||||

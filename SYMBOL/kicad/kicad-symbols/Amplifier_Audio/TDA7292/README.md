@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TDA7292|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7292|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOTDA7292|
-|Name|name|TDA7292|
+|name|name|TDA7292|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TDA7265', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDA7292', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-11_P3.4x5.08mm_StaggerOdd_Lead4.85mm_Vertical', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/tda7292.pdf', 'kicadSymbolki_keywords': 'audio amplifier 2ch', 'kicadSymbolki_description': '40W + 40W stereo amplifier with mute and standby, TO-220-11', 'kicadSymbolki_fp_filters': 'TO?220*StaggerOdd*'}]|
 ||||

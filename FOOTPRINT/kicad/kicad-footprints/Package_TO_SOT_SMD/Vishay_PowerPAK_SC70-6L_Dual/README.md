@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Vishay_PowerPAK_SC70-6L_Dual|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Vishay_PowerPAK_SC70-6L_Dual|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMVISHAYPOWERPAKSC76LDUAL|
-|Name|name|Package_TO_SOT_SMD : Vishay_PowerPAK_SC70-6L_Dual|
+|name|name|Package_TO_SOT_SMD : Vishay_PowerPAK_SC70-6L_Dual|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Vishay_PowerPAK_SC70-6L_Dual', 'description': 'Vishay PowerPAK SC70 dual transistor package http://www.vishay.com/docs/70487/70487.pdf', 'tags': 'powerpak sc70 sc-70 dual', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Vishay_PowerPAK_SC70-6L_Dual.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Dual/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Dual/kicadPcb3d_450.png

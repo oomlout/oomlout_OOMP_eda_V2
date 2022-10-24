@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|R_Cat16-8|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Cat16-8|
 |Hex ID (short code)|hexID|FZKRESISTORSMRCAT168|
-|Name|name|Resistor_SMD : R_Cat16-8|
+|name|name|Resistor_SMD : R_Cat16-8|
 |Footprint Kicad|footprintKicadDetails|{'name': 'R_Cat16-8', 'description': 'SMT resistor net, Bourns CAT16 series, 8 way', 'tags': 'SMT resistor net Bourns CAT16 series 8 way', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Cat16-8.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Cat16-8/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Cat16-8/kicadPcb3d_450.png

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Heatsink_AAVID_TV5G_TO220_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_AAVID_TV5G_TO220_Horizontal|
 |Hex ID (short code)|hexID|FZKHHAAVIDTV5GTO22HORIZONTAL|
-|Name|name|Heatsink : Heatsink_AAVID_TV5G_TO220_Horizontal|
+|name|name|Heatsink : Heatsink_AAVID_TV5G_TO220_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Heatsink_AAVID_TV5G_TO220_Horizontal', 'description': 'Heatsink TV5G TO-220 Horizontal, https://www.shopaavid.com/Product/TV-5G', 'tags': 'Heatsink TV5G TO-220 Horizontal ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_AAVID_TV5G_TO220_Horizontal.wrl', 'pins': {}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_TV5G_TO220_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_TV5G_TO220_Horizontal/kicadPcb3d_450.png

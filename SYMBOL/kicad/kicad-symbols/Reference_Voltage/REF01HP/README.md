@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|REF01HP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF01HP|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGEREF1HP|
-|Name|name|REF01HP|
+|name|name|REF01HP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'REF02AP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'REF01HP', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/REF01_02_03.pdf', 'kicadSymbolki_keywords': 'Precision Voltage Reference 10V', 'kicadSymbolki_description': '10V ±50mV Precision Voltage Reference, PDIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

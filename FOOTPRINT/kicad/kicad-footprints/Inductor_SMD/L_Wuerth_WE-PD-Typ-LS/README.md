@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Wuerth_WE-PD-Typ-LS|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-PD-Typ-LS|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLWUERTHWEPDTYPLS|
-|Name|name|Inductor_SMD : L_Wuerth_WE-PD-Typ-LS|
+|name|name|Inductor_SMD : L_Wuerth_WE-PD-Typ-LS|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Wuerth_WE-PD-Typ-LS', 'description': 'Shielded Power Inductor, Wuerth Elektronik, WE-PD, SMD, Typ LS, https://katalog.we-online.com/pbs/datasheet/7447715906.pdf', 'tags': 'Choke Shielded Power Inductor WE-PD TypLS Wuerth', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_WE-PD-Typ-LS.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_WE-PD-Typ-LS/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_WE-PD-Typ-LS/kicadPcb3d_450.png

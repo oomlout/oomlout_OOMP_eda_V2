@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MIC2290|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-MIC2290|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGMIC229|
-|Name|name|MIC2290|
+|name|name|MIC2290|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MIC2290', 'kicadSymbolFootprint': 'Package_DFN_QFN:Micrel_MLF-8-1EP_2x2mm_P0.5mm_EP0.8x1.3mm_ThermalVias', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/mic2290.pdf', 'kicadSymbolki_keywords': 'boost switching voltage converter regulator', 'kicadSymbolki_description': '1.2 Mhz PWM Boost Regulator with Internal Schotty Diode, MLF-8', 'kicadSymbolki_fp_filters': 'Micrel*MLF*8*2x2mm*'}]|
 ||||

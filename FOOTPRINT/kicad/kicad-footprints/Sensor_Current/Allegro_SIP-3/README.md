@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Allegro_SIP-3|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_SIP-3|
 |Hex ID (short code)|hexID|FZKSENCURRENTALLEGROSIP3|
-|Name|name|Sensor_Current : Allegro_SIP-3|
+|name|name|Sensor_Current : Allegro_SIP-3|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Allegro_SIP-3', 'description': 'Allegro Microsystems SIP-3, 1.27mm Pitch (http://www.allegromicro.com/~/media/Files/Datasheets/A1369-Datasheet.ashx)', 'tags': 'Allegro SIP-3', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/Allegro_SIP-3.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

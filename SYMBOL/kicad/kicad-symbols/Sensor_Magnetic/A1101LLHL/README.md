@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|A1101LLHL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-A1101LLHL|
 |Hex ID (short code)|hexID|SZKSENMAGNETICA111LLHL|
-|Name|name|A1101LLHL|
+|name|name|A1101LLHL|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'A1101ELHL', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'A1101LLHL', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23W', 'kicadSymbolDatasheet': 'https://www.allegromicro.com/-/media/files/datasheets/a110x-datasheet.ashx', 'kicadSymbolki_keywords': 'hall switch', 'kicadSymbolki_description': 'Hall effect switch, unipolar, Bop=100G, Brp=45G, -40C to +125C, SOT-23W', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

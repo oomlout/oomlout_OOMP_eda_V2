@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|JoyWarrior24A10L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_HID-JoyWarrior24A10L|
 |Hex ID (short code)|hexID|SZKINTERFACEHIDJOYWARRIOR24A1L|
-|Name|name|JoyWarrior24A10L|
+|name|name|JoyWarrior24A10L|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'JoyWarrior24A10L', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://codemercs.com/downloads/joywarrior/JW_Datasheet.pdf', 'kicadSymbolki_keywords': 'joystick controller, 10bit, 3 axis', 'kicadSymbolki_description': 'JoyWarrior 10bit, 3 axis, joystick controller, DIP-24/SOIC-24', 'kicadSymbolki_fp_filters': 'SOIC*7.5x15.4mm*P1.27mm* DIP*7.62mm*'}]|
 ||||

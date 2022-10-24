@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-I01-L-PI06-01-H06L|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-L-PI06-01-H06L|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1LPI61H6L|
-|Name|name|HEAD-I01-L-PI06-01-H06L|
+|name|name|HEAD-I01-L-PI06-01-H06L|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HEAD-I01-L-PI06-01-H06L', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:HEAD-I01-L-PI06-01-H06L', 'kicadSymbolDatasheet': 'oom.lt/H06L', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'hexID: H06L;Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_1x??_*'}]|
 ||||

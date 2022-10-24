@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Wago_734-168_1x08_P3.50mm_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Wago-Wago_734-168_1x08_P3.50mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNWAGOWAGO7341681X8P35HORIZONTAL|
-|Name|name|Connector_Wago : Wago_734-168_1x08_P3.50mm_Horizontal|
+|name|name|Connector_Wago : Wago_734-168_1x08_P3.50mm_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Wago_734-168_1x08_P3.50mm_Horizontal', 'description': 'Molex 734 Male header (for PCBs); Angled solder pin 1 x 1 mm, 734-168 , 8 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator', 'tags': 'connector Wago  top entry', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Wago.3dshapes/Wago_734-168_1x08_P3.50mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Wago/Wago_734-168_1x08_P3.50mm_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Wago/Wago_734-168_1x08_P3.50mm_Horizontal/kicadPcb3d_450.png

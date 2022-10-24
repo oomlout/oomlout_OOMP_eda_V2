@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|GALI-39|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Amplifier-GALI-39|
 |Hex ID (short code)|hexID|SZKRFAMPLIFIERGALI39|
-|Name|name|GALI-39|
+|name|name|GALI-39|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SPF5189Z', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'GALI-39', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-89-3', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/GALI-39+.pdf', 'kicadSymbolki_keywords': 'RF amplifier', 'kicadSymbolki_description': 'DC-7000MHz +19.7dB Low Noise Amplifier, SOT-89', 'kicadSymbolki_fp_filters': 'SOT?89*'}]|
 ||||

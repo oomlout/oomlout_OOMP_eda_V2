@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PGA4311|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-PGA4311|
 |Hex ID (short code)|hexID|SZKAUDIOPGA4311|
-|Name|name|PGA4311|
+|name|name|PGA4311|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PGA4311', 'kicadSymbolFootprint': 'Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/pga4311.pdf', 'kicadSymbolki_keywords': 'audio volume control 4ch spi', 'kicadSymbolki_description': '4-Channel Audio Volume Control, SPI Interface, +31.5dB to -95.5dB, SOIC-28W', 'kicadSymbolki_fp_filters': 'SOIC*7.5x17.9mm*P1.27mm*'}]|
 ||||

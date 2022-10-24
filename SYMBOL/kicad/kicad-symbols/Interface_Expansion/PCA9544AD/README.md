@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PCA9544AD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9544AD|
 |Hex ID (short code)|hexID|SZKINTERFACEEXPANSIONPCA9544AD|
-|Name|name|PCA9544AD|
+|name|name|PCA9544AD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PCA9544AD', 'kicadSymbolFootprint': 'Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/documents/data_sheet/PCA9544A.pdf', 'kicadSymbolki_keywords': 'i2c multiplexer', 'kicadSymbolki_description': '4-channel I2C-bus multiplexer with interrupt logic, SOIC-20', 'kicadSymbolki_fp_filters': 'SOIC*7.5x12.8mm*P1.27mm*'}]|
 ||||

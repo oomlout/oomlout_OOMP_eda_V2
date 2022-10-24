@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AT42QT1040-M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Touch-AT42QT1040-M|
 |Hex ID (short code)|hexID|SZKSENTOUCHAT42QT14M|
-|Name|name|AT42QT1040-M|
+|name|name|AT42QT1040-M|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AT42QT1040-M', 'kicadSymbolFootprint': 'Package_DFN_QFN:VQFN-20-1EP_3x3mm_P0.45mm_EP1.55x1.55mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-9524-AT42-QTouch-BSW-AT42QT1040_Datasheet.pdf', 'kicadSymbolki_keywords': 'Touch QTouch Sensor Key', 'kicadSymbolki_description': 'Four-key Touch Sensor IC, VQFN-20', 'kicadSymbolki_fp_filters': 'VQFN*1EP*3x3mm*P0.45mm*'}]|
 ||||

@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|ESP-07|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Module-ESP-07|
 |Hex ID (short code)|hexID|SZKRFMOESP7|
-|Name|name|ESP-07|
+|name|name|ESP-07|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ESP-07', 'kicadSymbolFootprint': 'RF_Module:ESP-07', 'kicadSymbolDatasheet': 'http://wiki.ai-thinker.com/_media/esp8266/esp8266_series_modules_user_manual_v1.1.pdf', 'kicadSymbolki_keywords': '802.11 Wi-Fi', 'kicadSymbolki_description': '802.11 b/g/n Wi-Fi Module', 'kicadSymbolki_fp_filters': 'ESP?07*'}]|
 ||||

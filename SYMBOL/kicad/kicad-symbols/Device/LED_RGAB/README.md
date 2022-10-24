@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_RGAB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_RGAB|
 |Hex ID (short code)|hexID|SZKDEVICELRGAB|
-|Name|name|LED_RGAB|
+|name|name|LED_RGAB|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_RGAB', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED RGB diode', 'kicadSymbolki_description': 'RGB LED, red/green/anode/blue', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
 ||||

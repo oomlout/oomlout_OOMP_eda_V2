@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L4984D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-L4984D|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERL4984D|
-|Name|name|L4984D|
+|name|name|L4984D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'L4984D', 'kicadSymbolFootprint': 'Package_SO:SSOP-10_3.9x4.9mm_P1.00mm', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/l4984d.pdf', 'kicadSymbolki_keywords': 'SMPS pfc controller', 'kicadSymbolki_description': 'CCM PFC Controller, SSOP-10', 'kicadSymbolki_fp_filters': 'SSOP*3.9x4.9mm*P1.00mm*'}]|
 ||||

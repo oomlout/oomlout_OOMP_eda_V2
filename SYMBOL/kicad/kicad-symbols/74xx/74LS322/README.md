@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS322|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS322|
 |Hex ID (short code)|hexID|SZK74XX74LS322|
-|Name|name|74LS322|
+|name|name|74LS322|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS322', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS322', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'register', 'kicadSymbolki_description': '8-bit shift register, sign extend, 3-state outputs', 'kicadSymbolki_fp_filters': 'DIP?20*'}]|
 ||||

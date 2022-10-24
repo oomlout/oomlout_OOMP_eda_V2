@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BC327|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC327|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBC327|
-|Name|name|BC327|
+|name|name|BC327|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BC557', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC327', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/BC327-D.PDF', 'kicadSymbolki_keywords': 'PNP Transistor', 'kicadSymbolki_description': '0.8A Ic, 45V Vce, PNP Transistor, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

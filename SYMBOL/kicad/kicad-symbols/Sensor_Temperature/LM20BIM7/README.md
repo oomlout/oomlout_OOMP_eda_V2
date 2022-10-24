@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM20BIM7|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LM20BIM7|
 |Hex ID (short code)|hexID|SZKSENTEMPERATURELM2BIM7|
-|Name|name|LM20BIM7|
+|name|name|LM20BIM7|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM20BIM7', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-353_SC-70-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm20.pdf', 'kicadSymbolki_keywords': 'temperature sensor thermistor', 'kicadSymbolki_description': 'Precision Temperature Sensor, Accuracy at 30°C ±1.5°C to ±4°C Maximum, SC70', 'kicadSymbolki_fp_filters': 'SOT?353*'}]|
 ||||

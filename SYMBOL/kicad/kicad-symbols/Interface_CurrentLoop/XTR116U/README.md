@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XTR116U|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CurrentLoop-XTR116U|
 |Hex ID (short code)|hexID|SZKINTERFACECURRENTLOOPXTR116U|
-|Name|name|XTR116U|
+|name|name|XTR116U|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'XTR115U', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XTR116U', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/xtr115.pdf', 'kicadSymbolki_keywords': '4-20mA Current Loop Transmitter', 'kicadSymbolki_description': '4-20mA Current Loop Transmitter, VREF 4.096V, SO-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

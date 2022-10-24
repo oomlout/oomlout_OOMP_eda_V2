@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AVR32DB32x-xRXB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR32DB32x-xRXB|
 |Hex ID (short code)|hexID|SZKMCUMCHIPAVRDXAVR32DB32XXRXB|
-|Name|name|AVR32DB32x-xRXB|
+|name|name|AVR32DB32x-xRXB|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AVR32DB32x-xRXB', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm', 'kicadSymbolDatasheet': 'https://ww1.microchip.com/downloads/en/DeviceDoc/AVR32DB28-32-48-DataSheet-DS40002301A.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller AVR-DB', 'kicadSymbolki_description': '24MHz, 32kB Flash, 4kB SRAM, EEPROM with Op Amps and Multi-Voltage I/O, VQFN-32', 'kicadSymbolki_fp_filters': 'QFN*1EP*5x5mm*P0.5mm*EP3.1x3.1mm*'}]|
 ||||

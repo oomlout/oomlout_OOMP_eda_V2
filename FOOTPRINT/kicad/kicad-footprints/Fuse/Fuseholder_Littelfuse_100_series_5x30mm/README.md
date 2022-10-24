@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Fuseholder_Littelfuse_100_series_5x30mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Littelfuse_100_series_5x30mm|
 |Hex ID (short code)|hexID|FZKFUFUHOLDERLITTELFU1SERIES5X3|
-|Name|name|Fuse : Fuseholder_Littelfuse_100_series_5x30mm|
+|name|name|Fuse : Fuseholder_Littelfuse_100_series_5x30mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Fuseholder_Littelfuse_100_series_5x30mm', 'description': 'Littelfuse clips, https://www.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_100_445_030_520_datasheet.pdf.pdf', 'tags': 'Fuseholder clips', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Littelfuse_100_series_5x30mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Littelfuse_100_series_5x30mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Littelfuse_100_series_5x30mm/kicadPcb3d_450.png

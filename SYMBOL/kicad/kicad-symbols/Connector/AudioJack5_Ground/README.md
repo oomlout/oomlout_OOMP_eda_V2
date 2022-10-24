@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AudioJack5_Ground|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-AudioJack5_Ground|
 |Hex ID (short code)|hexID|SZKCNAUDIOJ5GROUND|
-|Name|name|AudioJack5_Ground|
+|name|name|AudioJack5_Ground|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'AudioJack5_Ground', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'audio jack receptacle stereo headphones TRRRS connector', 'kicadSymbolki_description': 'Audio Jack, 5 Poles (TRRRS), Grounded Sleeve', 'kicadSymbolki_fp_filters': 'Jack*'}]|
 ||||

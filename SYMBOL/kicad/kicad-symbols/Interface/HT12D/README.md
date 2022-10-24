@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HT12D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-HT12D|
 |Hex ID (short code)|hexID|SZKINTERFACEHT12D|
-|Name|name|HT12D|
+|name|name|HT12D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HT12D', 'kicadSymbolFootprint': 'Package_SO:SOP-20_7.5x12.8mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.holtek.com/documents/10179/116711/2_12dv120.pdf', 'kicadSymbolki_keywords': 'Serial Decoder', 'kicadSymbolki_description': '2^12 serial decoder, SOP-20', 'kicadSymbolki_fp_filters': 'SOP*7.5x12.8mm*P1.27mm*'}]|
 ||||

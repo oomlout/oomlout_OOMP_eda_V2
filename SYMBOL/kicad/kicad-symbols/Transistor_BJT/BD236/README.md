@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BD236|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD236|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBD236|
-|Name|name|BD236|
+|name|name|BD236|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BD140', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BD236', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-126-3_Vertical', 'kicadSymbolDatasheet': 'http://www.electronica-pt.com/datasheets/bd/BD234.pdf', 'kicadSymbolki_keywords': 'Low Voltage Transistor', 'kicadSymbolki_description': '60V Vce, 2A, Low Voltage Transistor, TO-126', 'kicadSymbolki_fp_filters': 'TO?126*'}]|
 ||||

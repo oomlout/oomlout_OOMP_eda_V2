@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Bourns-SRN1060|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRN1060|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLBOURNSSRN16|
-|Name|name|Inductor_SMD : L_Bourns-SRN1060|
+|name|name|Inductor_SMD : L_Bourns-SRN1060|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Bourns-SRN1060', 'description': 'Bourns SRN1060 series SMD inductor https://www.bourns.com/docs/Product-Datasheets/SRN1060.pdf', 'tags': 'Bourns SRN1060 SMD inductor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns-SRN1060.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns-SRN1060/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Bourns-SRN1060/kicadPcb3d_450.png

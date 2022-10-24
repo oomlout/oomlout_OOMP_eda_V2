@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_D3.0mm_IRGrey|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_IRGrey|
 |Hex ID (short code)|hexID|FZKLLD3IRGREY|
-|Name|name|LED_THT : LED_D3.0mm_IRGrey|
+|name|name|LED_THT : LED_D3.0mm_IRGrey|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_D3.0mm_IRGrey', 'description': 'IR-LED, diameter 3.0mm, 2 pins, color: grey', 'tags': 'IR infrared LED diameter 3.0mm 2 pins grey', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_IRGrey.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D3.0mm_IRGrey/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_THT/LED_D3.0mm_IRGrey/kicadPcb3d_450.png

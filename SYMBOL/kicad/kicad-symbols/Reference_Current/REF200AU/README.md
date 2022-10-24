@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|REF200AU|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Current-REF200AU|
 |Hex ID (short code)|hexID|SZKREFERENCECURRENTREF2AU|
-|Name|name|REF200AU|
+|name|name|REF200AU|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'REF200AU', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'www.ti.com/lit/ds/symlink/ref200.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'Current Source/Sink 100μA', 'kicadSymbolki_description': '2x100μA Current Sources/Sinks with Current Mirror, SO-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

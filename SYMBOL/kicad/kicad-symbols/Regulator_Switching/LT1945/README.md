@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1945|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1945|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLT1945|
-|Name|name|LT1945|
+|name|name|LT1945|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1945', 'kicadSymbolFootprint': 'Package_SO:MSOP-10_3x3mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1945fa.pdf', 'kicadSymbolki_keywords': 'switched voltage converter regulator inverter double shutdown  positive negative', 'kicadSymbolki_description': 'Dual Micropower DC/DC Converter with Positive and Negative Outputs, MSOP-10', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.5mm*'}]|
 ||||

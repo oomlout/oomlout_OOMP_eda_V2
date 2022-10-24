@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ITR8307|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Proximity-ITR8307|
 |Hex ID (short code)|hexID|SZKSENPROXIMITYITR837|
-|Name|name|ITR8307|
+|name|name|ITR8307|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ITR8307', 'kicadSymbolFootprint': 'OptoDevice:Everlight_ITR8307', 'kicadSymbolDatasheet': 'http://www.everlight.com/file/ProductFile/ITR8307.pdf', 'kicadSymbolki_keywords': 'Reflective Optical Sensor Opto', 'kicadSymbolki_description': 'Subminiature Reflective Optical Sensor, SMD-package with PCB-cutout', 'kicadSymbolki_fp_filters': 'Everlight*ITR8307*'}]|
 ||||

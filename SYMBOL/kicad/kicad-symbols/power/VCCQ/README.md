@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VCCQ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-VCCQ|
 |Hex ID (short code)|hexID|SZKPOWERVCCQ|
-|Name|name|VCCQ|
+|name|name|VCCQ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'VCCQ', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "VCCQ"'}]|
 ||||

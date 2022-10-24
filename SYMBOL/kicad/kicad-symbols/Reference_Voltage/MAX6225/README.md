@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX6225|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-MAX6225|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGEMAX6225|
-|Name|name|MAX6225|
+|name|name|MAX6225|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX6350', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX6225', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/MAX6225-MAX6250.pdf', 'kicadSymbolki_keywords': 'precision voltage reference', 'kicadSymbolki_description': '1ppm/°C Low-Noise Precision +2.5V Voltage Reference, SO-8/DIP-8', 'kicadSymbolki_fp_filters': 'SOIC*P1.27mm* DIP*W7.62mm*'}]|
 ||||

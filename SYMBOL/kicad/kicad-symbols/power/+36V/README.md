@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|+36V|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-+36V|
 |Hex ID (short code)|hexID|SZKPOWER+36V|
-|Name|name|+36V|
+|name|name|+36V|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': '+36V', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "+36V"'}]|
 ||||

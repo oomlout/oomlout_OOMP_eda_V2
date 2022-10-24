@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Potentiometer_Omeg_PC16BU_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Omeg_PC16BU_Vertical|
 |Hex ID (short code)|hexID|FZKPPOTENTIOMETEROMEGPC16BUVERTICAL|
-|Name|name|Potentiometer_THT : Potentiometer_Omeg_PC16BU_Vertical|
+|name|name|Potentiometer_THT : Potentiometer_Omeg_PC16BU_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Omeg_PC16BU_Vertical', 'description': 'Potentiometer, vertical, Omeg PC16BU, http://www.omeg.co.uk/pc6bubrc.htm', 'tags': 'Potentiometer vertical Omeg PC16BU', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Omeg_PC16BU_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Omeg_PC16BU_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Omeg_PC16BU_Vertical/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC7336|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC7336|
 |Hex ID (short code)|hexID|SZKCPLDXILINXXC7336|
-|Name|name|XC7336|
+|name|name|XC7336|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC7336', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_description': 'Xilinx CPLD, Obsolete'}]|
 ||||

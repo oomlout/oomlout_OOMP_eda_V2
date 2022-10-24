@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4001|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx-4001|
 |Hex ID (short code)|hexID|SZK4XXX41|
-|Name|name|4001|
+|name|name|4001|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4001', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4000bms-01bms-02bms-25bms.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'CMOS Nor2', 'kicadSymbolki_description': 'Quad Nor 2 inputs', 'kicadSymbolki_fp_filters': 'DIP?14*'}]|
 ||||

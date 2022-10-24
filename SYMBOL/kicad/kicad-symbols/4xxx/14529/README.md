@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|14529|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx-14529|
 |Hex ID (short code)|hexID|SZK4XXX14529|
-|Name|name|14529|
+|name|name|14529|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '14529', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.alldatasheet.com/datasheet-pdf/pdf/97272/HITACHI/HD14529B.html', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'CMOS MUX MUX4', 'kicadSymbolki_description': 'Dual 4 to 1 Multiplexer', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

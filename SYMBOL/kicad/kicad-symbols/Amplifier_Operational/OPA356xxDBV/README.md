@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA356xxDBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA356xxDBV|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA356XXDBV|
-|Name|name|OPA356xxDBV|
+|name|name|OPA356xxDBV|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP6L91T-EOT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA356xxDBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/opa356.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Single High Speed CMOS Operational Amplifier, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

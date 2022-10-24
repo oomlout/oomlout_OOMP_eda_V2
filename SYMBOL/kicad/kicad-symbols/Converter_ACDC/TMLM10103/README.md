@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TMLM10103|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_ACDC-TMLM10103|
 |Hex ID (short code)|hexID|SZKCONTMLM113|
-|Name|name|TMLM10103|
+|name|name|TMLM10103|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'TMLM10103', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_TRACO_TMLM-10-20_THT', 'kicadSymbolDatasheet': 'https://www.tracopower.com/products/tmlm.pdf', 'kicadSymbolki_keywords': 'Traco Power 10W AC-DC module power supply', 'kicadSymbolki_description': '3.3V 2500mA AC/DC low noise power module', 'kicadSymbolki_fp_filters': 'Converter*ACDC*TRACO*TMLM*10*'}]|
 ||||

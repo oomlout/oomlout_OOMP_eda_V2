@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Schottky_Dual_CommonCathode_AKA_Parallel|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_CommonCathode_AKA_Parallel|
 |Hex ID (short code)|hexID|SZKDEVICEDSCHOTTKYDUALCOONCATHODEAKAPARALLEL|
-|Name|name|D_Schottky_Dual_CommonCathode_AKA_Parallel|
+|name|name|D_Schottky_Dual_CommonCathode_AKA_Parallel|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Schottky_Dual_CommonCathode_AKA_Parallel', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Dual Schottky diode, common anode on pin 1'}]|
 ||||

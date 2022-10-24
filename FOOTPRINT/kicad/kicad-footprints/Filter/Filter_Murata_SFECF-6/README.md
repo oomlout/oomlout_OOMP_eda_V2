@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Filter_Murata_SFECF-6|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Murata_SFECF-6|
 |Hex ID (short code)|hexID|FZKFILFILMSFECF6|
-|Name|name|Filter : Filter_Murata_SFECF-6|
+|name|name|Filter : Filter_Murata_SFECF-6|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Filter_Murata_SFECF-6', 'description': 'SMD Type 10.7MHz Ceramic Filter https://www.murata.com/en-us/products/filter/cerafil/sfecf', 'tags': '10.7MHz smd ceramic', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_Murata_SFECF-6.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Filter/Filter_Murata_SFECF-6/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Filter/Filter_Murata_SFECF-6/kicadPcb3d_450.png

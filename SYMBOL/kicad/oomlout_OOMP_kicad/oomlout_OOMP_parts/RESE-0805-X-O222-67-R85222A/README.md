@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O222-67-R85222A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O222-67-R85222A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO22267R85222A|
-|Name|name|RESE-0805-X-O222-67-R85222A|
+|name|name|RESE-0805-X-O222-67-R85222A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O222-67-R85222A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O222-67-R85222A', 'kicadSymbolDatasheet': 'oom.lt/R85222A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R85222A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

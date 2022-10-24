@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|JW2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-JW2|
 |Hex ID (short code)|hexID|SZKRELAYJW2|
-|Name|name|JW2|
+|name|name|JW2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'RL', 'kicadSymbolValue': 'JW2', 'kicadSymbolFootprint': 'Relay_THT:Relay_DPDT_Panasonic_JW2', 'kicadSymbolDatasheet': 'http://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_jw.pdf?via=ok', 'kicadSymbolki_keywords': 'Panasonic Relay Dual Pole', 'kicadSymbolki_description': 'General Purpose Relay DPDT (2 Form C) Through Hole, Panasonic JW series', 'kicadSymbolki_fp_filters': 'Relay*DPDT*Panasonic*JW2*'}]|
 ||||

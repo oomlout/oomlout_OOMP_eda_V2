@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|WQFN-14-1EP_2.5x2.5mm_P0.5mm_EP1.45x1.45mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WQFN-14-1EP_2.5x2.5mm_P0.5mm_EP1.45x1.45mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNWQFN141EP25X25P5EP145X145THERMALVIAS|
-|Name|name|Package_DFN_QFN : WQFN-14-1EP_2.5x2.5mm_P0.5mm_EP1.45x1.45mm_ThermalVias|
+|name|name|Package_DFN_QFN : WQFN-14-1EP_2.5x2.5mm_P0.5mm_EP1.45x1.45mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'WQFN-14-1EP_2.5x2.5mm_P0.5mm_EP1.45x1.45mm_ThermalVias', 'description': 'WQFN, 14 Pin (https://www.onsemi.com/pub/Collateral/FUSB302B-D.PDF#page=32), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'WQFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/WQFN-14-1EP_2.5x2.5mm_P0.5mm_EP1.45x1.45mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/WQFN-14-1EP_2.5x2.5mm_P0.5mm_EP1.45x1.45mm_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/WQFN-14-1EP_2.5x2.5mm_P0.5mm_EP1.45x1.45mm_ThermalVias/kicadPcb3d_450.png

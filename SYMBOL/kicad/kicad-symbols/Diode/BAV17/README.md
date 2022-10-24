@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAV17|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAV17|
 |Hex ID (short code)|hexID|SZKDIODEBAV17|
-|Name|name|BAV17|
+|name|name|BAV17|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N4001', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAV17', 'kicadSymbolFootprint': 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/85543/bav17.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '20V 0.25A Small Signal Switching Diode, High Voltage, DO-35', 'kicadSymbolki_fp_filters': 'D*DO?35*'}]|
 ||||

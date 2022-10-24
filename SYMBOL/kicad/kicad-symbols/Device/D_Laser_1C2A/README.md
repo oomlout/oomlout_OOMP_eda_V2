@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Laser_1C2A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Laser_1C2A|
 |Hex ID (short code)|hexID|SZKDEVICEDLASER1C2A|
-|Name|name|D_Laser_1C2A|
+|name|name|D_Laser_1C2A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'LD', 'kicadSymbolValue': 'D_Laser_1C2A', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'opto laserdiode', 'kicadSymbolki_description': 'Laser diode, cathode on pin 1, anode on pin 2', 'kicadSymbolki_fp_filters': '*LaserDiode*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Mini-Circuits_TTT167|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_TTT167|
 |Hex ID (short code)|hexID|FZKRFMCIRCUITSTTT167|
-|Name|name|RF_Mini-Circuits : Mini-Circuits_TTT167|
+|name|name|RF_Mini-Circuits : Mini-Circuits_TTT167|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Mini-Circuits_TTT167', 'description': 'Footprint for Mini-Circuits case TTT167 (https://ww2.minicircuits.com/case_style/TTT167.pdf)', 'tags': 'Mini-Circuits TTT167', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_TTT167.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

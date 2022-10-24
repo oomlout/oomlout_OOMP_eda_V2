@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TDA8702|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Video-TDA8702|
 |Hex ID (short code)|hexID|SZKVIDEOTDA872|
-|Name|name|TDA8702|
+|name|name|TDA8702|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDA8702', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'philips/tda8702.pdf', 'kicadSymbolki_keywords': 'DAC CNA VIDEO', 'kicadSymbolki_description': '8bit Video DAC (32 MHz), DIP-16', 'kicadSymbolki_fp_filters': 'DIP* PDIP* SO* SOIC*'}]|
 ||||

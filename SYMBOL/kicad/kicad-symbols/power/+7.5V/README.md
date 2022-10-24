@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|+7.5V|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-+7.5V|
 |Hex ID (short code)|hexID|SZKPOWER+75V|
-|Name|name|+7.5V|
+|name|name|+7.5V|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': '+7.5V', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "+7.5V"'}]|
 ||||

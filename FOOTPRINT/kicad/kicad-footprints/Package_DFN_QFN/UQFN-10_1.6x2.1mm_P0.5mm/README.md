@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|UQFN-10_1.6x2.1mm_P0.5mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-UQFN-10_1.6x2.1mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKDFNUQFN116X21P5|
-|Name|name|Package_DFN_QFN : UQFN-10_1.6x2.1mm_P0.5mm|
+|name|name|Package_DFN_QFN : UQFN-10_1.6x2.1mm_P0.5mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'UQFN-10_1.6x2.1mm_P0.5mm', 'description': 'UQFN, 10 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/00001725D.pdf (Page 12)), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'UQFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/UQFN-10_1.6x2.1mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UQFN-10_1.6x2.1mm_P0.5mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UQFN-10_1.6x2.1mm_P0.5mm/kicadPcb3d_450.png

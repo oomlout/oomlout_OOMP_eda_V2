@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATX-20|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-ATX-20|
 |Hex ID (short code)|hexID|SZKCNATX2|
-|Name|name|ATX-20|
+|name|name|ATX-20|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'ATX-20', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://web.aub.edu.lb/pub/docs/atx_201.pdf#page=20', 'kicadSymbolki_keywords': 'ATX PSU', 'kicadSymbolki_description': 'ATX Power supply 20pins', 'kicadSymbolki_fp_filters': '*Mini?Fit*2x10*Vertical* *Mini?Fit*2x10*Horizontal*'}]|
 ||||

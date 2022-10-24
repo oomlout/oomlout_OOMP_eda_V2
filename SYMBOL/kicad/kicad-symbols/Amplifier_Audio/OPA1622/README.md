@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA1622|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-OPA1622|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOOPA1622|
-|Name|name|OPA1622|
+|name|name|OPA1622|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA1622', 'kicadSymbolFootprint': 'Package_SON:Texas_S-PVSON-N10', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/opa1622.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'dual opamp audio', 'kicadSymbolki_description': 'High-Fidelity, Bipolar-Input, Audio Operational Amplifier, VSON-10', 'kicadSymbolki_fp_filters': 'Texas*PVSON*'}]|
 ||||

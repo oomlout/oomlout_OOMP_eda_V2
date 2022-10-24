@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FSDH321L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSDH321L|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGFSDH321L|
-|Name|name|FSDH321L|
+|name|name|FSDH321L|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FSDH321L', 'kicadSymbolFootprint': 'Package_DIP:Fairchild_LSOP-8', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FSDH321JP-D.pdf', 'kicadSymbolki_keywords': 'SMPS Controller with MOSFET 17W AC-DC', 'kicadSymbolki_description': '17W SMPS Controller, 100kHz, AC-DC, SMD-8', 'kicadSymbolki_fp_filters': 'Fairchild*LSOP*'}]|
 ||||

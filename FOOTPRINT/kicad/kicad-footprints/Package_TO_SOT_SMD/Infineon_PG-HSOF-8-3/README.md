@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Infineon_PG-HSOF-8-3|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Infineon_PG-HSOF-8-3|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMINFINEONPGHSOF83|
-|Name|name|Package_TO_SOT_SMD : Infineon_PG-HSOF-8-3|
+|name|name|Package_TO_SOT_SMD : Infineon_PG-HSOF-8-3|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Infineon_PG-HSOF-8-3', 'description': 'HSOF-8-3 power MOSFET (http://www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-3/)', 'tags': 'mosfet hsof', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Infineon_PG-HSOF-8-3.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Infineon_PG-HSOF-8-3/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Infineon_PG-HSOF-8-3/kicadPcb3d_450.png

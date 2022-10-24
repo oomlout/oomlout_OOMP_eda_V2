@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS40|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS40|
 |Hex ID (short code)|hexID|SZK74XX74LS4|
-|Name|name|74LS40|
+|name|name|74LS40|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LS20', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS40', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS40', 'kicadSymbolki_keywords': 'TTL Nand4', 'kicadSymbolki_description': 'Dual 4-input NAND', 'kicadSymbolki_fp_filters': 'DIP?12*'}]|
 ||||

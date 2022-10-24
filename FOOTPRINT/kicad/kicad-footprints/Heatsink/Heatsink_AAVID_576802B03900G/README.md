@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Heatsink_AAVID_576802B03900G|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_AAVID_576802B03900G|
 |Hex ID (short code)|hexID|FZKHHAAVID57682B39G|
-|Name|name|Heatsink : Heatsink_AAVID_576802B03900G|
+|name|name|Heatsink : Heatsink_AAVID_576802B03900G|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Heatsink_AAVID_576802B03900G', 'description': 'Heatsink, 14.48x12.7x19.05mm, TO-220/ TO-262, https://www.boydcorp.com/aavid-datasheets/Board-Level-Cooling-Plug-In-5768.pdf', 'tags': 'heatsink', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_AAVID_576802B03900G.wrl', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_576802B03900G/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_576802B03900G/kicadPcb3d_450.png

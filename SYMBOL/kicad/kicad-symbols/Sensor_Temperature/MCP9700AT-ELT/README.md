@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP9700AT-ELT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9700AT-ELT|
 |Hex ID (short code)|hexID|SZKSENTEMPERATUREMCP97ATELT|
-|Name|name|MCP9700AT-ELT|
+|name|name|MCP9700AT-ELT|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP9700AT-ELT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-353_SC-70-5', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20001942G.pdf', 'kicadSymbolki_keywords': 'temperature sensor thermistor', 'kicadSymbolki_description': 'Low power, analog thermistor temperature sensor, ±2C accuracy, -40C to +125C, in SC-70-5', 'kicadSymbolki_fp_filters': 'SC-70-5*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MPU-9250|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Motion-MPU-9250|
 |Hex ID (short code)|hexID|SZKSENMOTIONMPU925|
-|Name|name|MPU-9250|
+|name|name|MPU-9250|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MPU-9250', 'kicadSymbolFootprint': 'Sensor_Motion:InvenSense_QFN-24_3x3mm_P0.4mm', 'kicadSymbolDatasheet': 'https://store.invensense.com/datasheets/invensense/MPU9250REV1.0.pdf', 'kicadSymbolki_keywords': 'mems magnetometer', 'kicadSymbolki_description': 'InvenSense 9-Axis Motion Sensor, Accelerometer, Gyroscope, Compass, I2C/SPI', 'kicadSymbolki_fp_filters': '*QFN*3x3mm*P0.4mm*'}]|
 ||||

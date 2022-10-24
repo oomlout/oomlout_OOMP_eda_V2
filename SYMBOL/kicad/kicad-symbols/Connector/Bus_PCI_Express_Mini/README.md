@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Bus_PCI_Express_Mini|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Bus_PCI_Express_Mini|
 |Hex ID (short code)|hexID|SZKCNBUSPCIEXPRESSM|
-|Name|name|Bus_PCI_Express_Mini|
+|name|name|Bus_PCI_Express_Mini|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Bus_PCI_Express_Mini', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'mini pcie', 'kicadSymbolki_description': 'Mini-PCI Express bus connector', 'kicadSymbolki_fp_filters': '*PCI*Express*Mini*'}]|
 ||||

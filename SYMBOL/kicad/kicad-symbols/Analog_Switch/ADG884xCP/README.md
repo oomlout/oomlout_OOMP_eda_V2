@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADG884xCP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG884xCP|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHADG884XCP|
-|Name|name|ADG884xCP|
+|name|name|ADG884xCP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADG884xCP', 'kicadSymbolFootprint': 'Package_CSP:LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADG884.pdf', 'kicadSymbolki_keywords': 'analog switch', 'kicadSymbolki_description': '0.5Ω CMOS, Dual 2:1 MUX/SPDT Audio Switch, LFCSP-WD-10', 'kicadSymbolki_fp_filters': 'LFCSP*1EP*3x3mm*P0.5mm*'}]|
 ||||

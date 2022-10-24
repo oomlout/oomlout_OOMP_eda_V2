@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TEA1708T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-TEA1708T|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTTEA178T|
-|Name|name|TEA1708T|
+|name|name|TEA1708T|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TEA1708T', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/TEA1708T.pdf', 'kicadSymbolki_keywords': 'X capacitor discharge', 'kicadSymbolki_description': 'GreenChip X capacitor discharge IC, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

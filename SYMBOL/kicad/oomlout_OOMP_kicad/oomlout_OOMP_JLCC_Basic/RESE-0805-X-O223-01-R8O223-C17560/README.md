@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O223-01-R8O223-C17560|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O223-01-R8O223-C17560|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE85XO2231R8O223C1756|
-|Name|name|RESE-0805-X-O223-01-R8O223-C17560|
+|name|name|RESE-0805-X-O223-01-R8O223-C17560|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O223-01-R8O223-C17560', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O223-01-R8O223-C17560', 'kicadSymbolDatasheet': 'oom.lt/R8O223', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R8O223;PARTL C-JLCC;C17560;MANUF C-XXXX;0805W8F2202T5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

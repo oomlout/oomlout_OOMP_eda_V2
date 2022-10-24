@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOIC-8_5.23x5.23mm_P1.27mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-8_5.23x5.23mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKSOSOIC8523X523P127|
-|Name|name|Package_SO : SOIC-8_5.23x5.23mm_P1.27mm|
+|name|name|Package_SO : SOIC-8_5.23x5.23mm_P1.27mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOIC-8_5.23x5.23mm_P1.27mm', 'description': 'SOIC, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf#page=68), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'SOIC SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_5.23x5.23mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-8_5.23x5.23mm_P1.27mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-8_5.23x5.23mm_P1.27mm/kicadPcb3d_450.png

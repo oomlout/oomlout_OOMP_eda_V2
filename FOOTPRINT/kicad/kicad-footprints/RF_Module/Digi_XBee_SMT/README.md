@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Digi_XBee_SMT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-Digi_XBee_SMT|
 |Hex ID (short code)|hexID|FZKRFMODIGIXBEES|
-|Name|name|RF_Module : Digi_XBee_SMT|
+|name|name|RF_Module : Digi_XBee_SMT|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Digi_XBee_SMT', 'description': 'http://www.digi.com/resources/documentation/digidocs/pdfs/90002126.pdf http://ftp1.digi.com/support/documentation/90001020_F.pdf', 'tags': 'Digi XBee SMT RF', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/Digi_XBee_SMT.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLV62084ADSGx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TLV62084ADSGx|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTLV6284ADSGX|
-|Name|name|TLV62084ADSGx|
+|name|name|TLV62084ADSGx|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TLV62080DSGx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV62084ADSGx', 'kicadSymbolFootprint': 'Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tlv62080.pdf', 'kicadSymbolki_keywords': 'Synchronous Buck', 'kicadSymbolki_description': 'High-efficiency Step-down Converter', 'kicadSymbolki_fp_filters': '*WSON?8?1EP*2x2mm*P0.5mm*'}]|
 ||||

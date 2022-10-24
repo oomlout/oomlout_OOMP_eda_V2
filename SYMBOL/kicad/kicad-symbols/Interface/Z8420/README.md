@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Z8420|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-Z8420|
 |Hex ID (short code)|hexID|SZKINTERFACEZ842|
-|Name|name|Z8420|
+|name|name|Z8420|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Z8420', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'https://www.zilog.com/appnotes_download.php?FromPage=DirectLink&dn=PS0180&ft=Product%20Specification%20(Data%20Sheet)%20%20&f=YUhSMGNEb3ZMM2QzZHk1NmFXeHZaeTVqYjIwdlpHOWpjeTk2T0RBdmNITXdNVGd3TG5Ca1pnPT0=', 'kicadSymbolki_keywords': 'Z80 PIO parallel', 'kicadSymbolki_description': 'Parallel I/O, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

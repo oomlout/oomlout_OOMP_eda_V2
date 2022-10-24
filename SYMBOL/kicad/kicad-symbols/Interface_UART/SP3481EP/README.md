@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SP3481EP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-SP3481EP|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTSP3481EP|
-|Name|name|SP3481EP|
+|name|name|SP3481EP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SP3481CP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SP3481EP', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.icbase.com/pdf/SPX/SPX00480106.pdf', 'kicadSymbolki_keywords': 'Low Power Half-Duplex RS-485 Transceiver 10Mbps', 'kicadSymbolki_description': 'Industrial 3.3V Low Power Half-Duplex RS-485 Transceiver 10Mbps, DIP8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

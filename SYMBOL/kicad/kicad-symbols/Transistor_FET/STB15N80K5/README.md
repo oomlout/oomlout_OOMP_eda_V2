@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STB15N80K5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-STB15N80K5|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETSTB15N8K5|
-|Name|name|STB15N80K5|
+|name|name|STB15N80K5|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'STB15N80K5', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-2', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/stb15n80k5.pdf', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '14A Id, 800V Vds, N-Channel MOSFET, 375mOhm Ron, D2PAK', 'kicadSymbolki_fp_filters': 'TO?263*'}]|
 ||||

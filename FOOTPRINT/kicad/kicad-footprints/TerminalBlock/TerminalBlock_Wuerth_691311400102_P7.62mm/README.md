@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TerminalBlock_Wuerth_691311400102_P7.62mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TerminalBlock-TerminalBlock_Wuerth_691311400102_P7.62mm|
 |Hex ID (short code)|hexID|FZKTBTBWUERTH691311412P762|
-|Name|name|TerminalBlock : TerminalBlock_Wuerth_691311400102_P7.62mm|
+|name|name|TerminalBlock : TerminalBlock_Wuerth_691311400102_P7.62mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TerminalBlock_Wuerth_691311400102_P7.62mm', 'description': 'https://katalog.we-online.de/em/datasheet/6913114001xx.pdf', 'tags': 'Wuerth WR-TBL Series 3114 terminal block pitch 7.62mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_Wuerth_691311400102_P7.62mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

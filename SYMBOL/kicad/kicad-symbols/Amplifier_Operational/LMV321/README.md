@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LMV321|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMV321|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALLMV321|
-|Name|name|LMV321|
+|name|name|LMV321|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LMV321', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lmv324.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Low-Voltage Rail-to-Rail Output Operational Amplifiers, SOT-23-5/SC-70-5', 'kicadSymbolki_fp_filters': 'SOT?23* *SC*70*'}]|
 ||||

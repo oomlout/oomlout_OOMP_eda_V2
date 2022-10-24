@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BQ78350DBT-R1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-BQ78350DBT-R1|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTBQ7835DBTR1|
-|Name|name|BQ78350DBT-R1|
+|name|name|BQ78350DBT-R1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BQ78350DBT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BQ78350DBT-R1', 'kicadSymbolFootprint': 'Package_SO:TSSOP-30_4.4x7.8mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/bq78350-r1.pdf', 'kicadSymbolki_keywords': 'battery, management, Li-Ion, gauge, controller', 'kicadSymbolki_description': 'Lithium battery fuel gauge, battery management controller for BQ769x0, TSSOP-30', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x7.8mm*P0.5mm*'}]|
 ||||

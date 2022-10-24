@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD7949BCP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7949BCP|
 |Hex ID (short code)|hexID|SZKANALOGADCAD7949BCP|
-|Name|name|AD7949BCP|
+|name|name|AD7949BCP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD7949BCP', 'kicadSymbolFootprint': 'Package_CSP:LFCSP-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD7949.pdf', 'kicadSymbolki_keywords': 'ADC, SPI', 'kicadSymbolki_description': '14-Bit, 8-Channel, 250 kSPS PulSAR ADC, LFSCP-20', 'kicadSymbolki_fp_filters': 'LFCSP*1EP*4x4mm*P0.5mm*'}]|
 ||||

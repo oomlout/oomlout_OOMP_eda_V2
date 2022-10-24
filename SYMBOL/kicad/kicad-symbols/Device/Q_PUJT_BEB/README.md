@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Q_PUJT_BEB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Q_PUJT_BEB|
 |Hex ID (short code)|hexID|SZKDEVICEQPUJTBEB|
-|Name|name|Q_PUJT_BEB|
+|name|name|Q_PUJT_BEB|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Q_PUJT_BEB', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'transistor UJT', 'kicadSymbolki_description': 'P-Type unijunction transistor'}]|
 ||||

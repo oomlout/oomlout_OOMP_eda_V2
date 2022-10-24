@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BTS40K2-1EJC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-BTS40K2-1EJC|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTBTS4K21EJC|
-|Name|name|BTS40K2-1EJC|
+|name|name|BTS40K2-1EJC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BTS40K2-1EJC', 'kicadSymbolFootprint': 'Package_SO:Infineon_PG-DSO-8-43', 'kicadSymbolDatasheet': 'http://www.infineon.com/dgdl/Infineon-BTS40K2-1EJC-DS-v01_00-EN.pdf?fileId=5546d462518ffd85015254ee4e601f99', 'kicadSymbolki_keywords': 'infineon power switch', 'kicadSymbolki_description': 'Smart High-Side Power Switch, PROFET, Single, 200mOhm, 1.5A, 36V, DSO-8', 'kicadSymbolki_fp_filters': 'Infineon*PG*DSO*43*'}]|
 ||||

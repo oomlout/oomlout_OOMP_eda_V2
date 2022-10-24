@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP1700-5002E_SOT23|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1700-5002E_SOT23|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMCP1752ESOT23|
-|Name|name|MCP1700-5002E_SOT23|
+|name|name|MCP1700-5002E_SOT23|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP1700-3002E_SOT23', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP1700-5002E_SOT23', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20001826D.pdf', 'kicadSymbolki_keywords': 'regulator linear ldo', 'kicadSymbolki_description': '250mA Low Quiscent Current LDO, 5.0V output, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

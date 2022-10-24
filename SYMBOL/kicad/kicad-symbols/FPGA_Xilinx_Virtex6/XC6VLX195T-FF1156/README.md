@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC6VLX195T-FF1156|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VLX195T-FF1156|
 |Hex ID (short code)|hexID|SZKFPGAXILINXVIRTEX6XC6VLX195TFF1156|
-|Name|name|XC6VLX195T-FF1156|
+|name|name|XC6VLX195T-FF1156|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC6VLX195T-FF1156', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Virtex 6 LXT 195 XC6VLX195T-FF1156'}]|
 ||||

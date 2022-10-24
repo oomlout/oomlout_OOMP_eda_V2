@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DB25_Female_MountingHoles|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DB25_Female_MountingHoles|
 |Hex ID (short code)|hexID|SZKCNDB25FEMALEHOLS|
-|Name|name|DB25_Female_MountingHoles|
+|name|name|DB25_Female_MountingHoles|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DB25_Female_MountingHoles', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'female D-SUB connector', 'kicadSymbolki_description': '25-pin female D-SUB connector, Mounting Hole', 'kicadSymbolki_fp_filters': 'DSUB*Female*'}]|
 ||||

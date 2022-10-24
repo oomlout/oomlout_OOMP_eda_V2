@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC4364CMS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-LTC4364CMS|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTLTC4364CMS|
-|Name|name|LTC4364CMS|
+|name|name|LTC4364CMS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC4364CMS', 'kicadSymbolFootprint': 'Package_SO:MSOP-16_3x4mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/436412f.pdf', 'kicadSymbolki_keywords': 'ideal-diode or-ing reverse-protection undervoltage overvoltage surge-stopper', 'kicadSymbolki_description': 'Surge stopper with ideal diode, UV and OV protection, -40V to +80V operation, MSOP-16 package, 0°C to +40°C', 'kicadSymbolki_fp_filters': 'MSOP*3x4mm*P0.5mm*'}]|
 ||||

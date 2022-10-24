@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-I01-X-PI2X04-01-H2X4|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X04-01-H2X4|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI2X41H2X4|
-|Name|name|oomlout_OOMP_parts : HEAD-I01-X-PI2X04-01-H2X4|
+|name|name|oomlout_OOMP_parts : HEAD-I01-X-PI2X04-01-H2X4|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HEAD-I01-X-PI2X04-01-H2X4', 'description': 'hexID: H2X4; Through hole straight pin header, 2x04, 2.54mm pitch, double rows', 'tags': 'Through hole pin header THT 2x04 2.54mm double row', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x04_P2.54mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

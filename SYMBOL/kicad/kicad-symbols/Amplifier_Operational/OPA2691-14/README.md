@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA2691-14|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2691-14|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA269114|
-|Name|name|OPA2691-14|
+|name|name|OPA2691-14|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA2691-14', 'kicadSymbolFootprint': 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/sbos224d/sbos224d.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'dual current feedback opamp', 'kicadSymbolki_description': 'Dual Wideband, Current-Feedback Operational Amplifier With Disable, SOIC-14', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|APA102|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-LED-APA102|
 |Hex ID (short code)|hexID|SZKLAPA12|
-|Name|name|APA102|
+|name|name|APA102|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'APA102', 'kicadSymbolFootprint': 'LED_SMD:LED_RGB_5050-6', 'kicadSymbolDatasheet': 'http://www.led-color.com/upload/201506/APA102%20LED.pdf', 'kicadSymbolki_keywords': 'RGB LED addressable 8bit pwm 5bit greyscale', 'kicadSymbolki_description': 'RGB LED with integrated controller', 'kicadSymbolki_fp_filters': 'LED*RGB*5050*'}]|
 ||||

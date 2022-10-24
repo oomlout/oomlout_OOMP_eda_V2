@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_DPST|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_DPST|
 |Hex ID (short code)|hexID|SZKSWITCHSWDPST|
-|Name|name|SW_DPST|
+|name|name|SW_DPST|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_DPST', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'switch dual double-pole single-throw OFF-ON', 'kicadSymbolki_description': 'Double Pole Single Throw (DPST) Switch'}]|
 ||||

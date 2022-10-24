@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOT-143_Handsoldering|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-143_Handsoldering|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT143HANDSOLDERING|
-|Name|name|Package_TO_SOT_SMD : SOT-143_Handsoldering|
+|name|name|Package_TO_SOT_SMD : SOT-143_Handsoldering|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOT-143_Handsoldering', 'description': 'SOT-143 Handsoldering https://www.nxp.com/docs/en/package-information/SOT143B.pdf', 'tags': 'SOT-143 Handsoldering', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-143.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-143_Handsoldering/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-143_Handsoldering/kicadPcb3d_450.png

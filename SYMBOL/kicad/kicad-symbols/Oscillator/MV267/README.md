@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MV267|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-MV267|
 |Hex ID (short code)|hexID|SZKOCSMV267|
-|Name|name|MV267|
+|name|name|MV267|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MV267', 'kicadSymbolFootprint': 'Oscillator:Oscillator_OCXO_Morion_MV267', 'kicadSymbolDatasheet': 'http://www.morion.com.ru/catalog_pdf/MV267.pdf', 'kicadSymbolki_keywords': 'OCXO', 'kicadSymbolki_description': '5/10 MHz Low Phase-Noise Precision OCXO, Morion MV267', 'kicadSymbolki_fp_filters': 'Oscillator*OCXO*Morion*MV267*'}]|
 ||||

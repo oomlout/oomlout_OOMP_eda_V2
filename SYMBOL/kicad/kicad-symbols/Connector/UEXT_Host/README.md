@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|UEXT_Host|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-UEXT_Host|
 |Hex ID (short code)|hexID|SZKCNUEXTHOST|
-|Name|name|UEXT_Host|
+|name|name|UEXT_Host|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'UEXT_Host', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.olimex.com/Products/Modules/UEXT/resources/UEXT_rev_B.pdf', 'kicadSymbolki_keywords': 'UEXT, SPI, UART, I2C', 'kicadSymbolki_description': 'Universal EXTension (UEXT) is a connector layout which includes power and three serial buses: Asynchronous, I2C, and SPI', 'kicadSymbolki_fp_filters': '*Connector*:2x05*'}]|
 ||||

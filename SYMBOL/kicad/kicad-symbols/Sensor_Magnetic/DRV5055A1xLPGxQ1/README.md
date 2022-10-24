@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DRV5055A1xLPGxQ1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-DRV5055A1xLPGxQ1|
 |Hex ID (short code)|hexID|SZKSENMAGNETICDRV555A1XLPGXQ1|
-|Name|name|DRV5055A1xLPGxQ1|
+|name|name|DRV5055A1xLPGxQ1|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DRV5055A1xLPGxQ1', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/drv5055-q1.pdf', 'kicadSymbolki_keywords': 'Automotive Ratiometric Linear Hall Effect Sensor AEC-Q100', 'kicadSymbolki_description': '100 mV/mT,±21-mT, 20-kHz, 3.3/5V, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

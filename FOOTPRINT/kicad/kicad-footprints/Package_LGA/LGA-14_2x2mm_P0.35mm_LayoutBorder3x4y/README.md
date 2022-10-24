@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LGA-14_2x2mm_P0.35mm_LayoutBorder3x4y|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-14_2x2mm_P0.35mm_LayoutBorder3x4y|
 |Hex ID (short code)|hexID|FZKLGALGA142X2P35LAYOUTBORDER3X4Y|
-|Name|name|Package_LGA : LGA-14_2x2mm_P0.35mm_LayoutBorder3x4y|
+|name|name|Package_LGA : LGA-14_2x2mm_P0.35mm_LayoutBorder3x4y|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LGA-14_2x2mm_P0.35mm_LayoutBorder3x4y', 'description': 'LGA, 14 Pin (http://www.st.com/resource/en/datasheet/lis2dh.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'LGA NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/LGA-14_2x2mm_P0.35mm_LayoutBorder3x4y.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-14_2x2mm_P0.35mm_LayoutBorder3x4y/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-14_2x2mm_P0.35mm_LayoutBorder3x4y/kicadPcb3d_450.png

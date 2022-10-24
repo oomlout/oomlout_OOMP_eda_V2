@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Symbol_CC-Attribution_CopperTop_Big|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CC-Attribution_CopperTop_Big|
 |Hex ID (short code)|hexID|FZKSZSYCCATTRIBUTIONCTOPBIG|
-|Name|name|Symbol : Symbol_CC-Attribution_CopperTop_Big|
+|name|name|Symbol : Symbol_CC-Attribution_CopperTop_Big|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Symbol_CC-Attribution_CopperTop_Big', 'description': 'Symbol, CC-Attribution, Copper Top, Big,', 'tags': 'Symbol, CC-Attribution, Copper Top, Big,', 'attributeType': None, 'pins': {}}|
 ||||

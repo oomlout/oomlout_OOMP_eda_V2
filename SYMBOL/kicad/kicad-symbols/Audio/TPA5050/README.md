@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPA5050|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-TPA5050|
 |Hex ID (short code)|hexID|SZKAUDIOTPA55|
-|Name|name|TPA5050|
+|name|name|TPA5050|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPA5050', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PVQFN-N16_EP2.7x2.7mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tpa5050.pdf', 'kicadSymbolki_keywords': 'audio delay', 'kicadSymbolki_description': 'Stereo Digital Audio Lip-Sync Delay Processor With I2C Control, QFN-16', 'kicadSymbolki_fp_filters': 'Texas?S?PVQFN?N*'}]|
 ||||

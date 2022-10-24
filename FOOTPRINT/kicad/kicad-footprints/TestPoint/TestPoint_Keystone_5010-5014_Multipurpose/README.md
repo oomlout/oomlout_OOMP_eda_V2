@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TestPoint_Keystone_5010-5014_Multipurpose|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Keystone_5010-5014_Multipurpose|
 |Hex ID (short code)|hexID|FZKTPTPKEYSTONE51514MULTIPURPOSE|
-|Name|name|TestPoint : TestPoint_Keystone_5010-5014_Multipurpose|
+|name|name|TestPoint : TestPoint_Keystone_5010-5014_Multipurpose|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TestPoint_Keystone_5010-5014_Multipurpose', 'description': 'Keystone Miniature THM Test Point 5010-5014, http://www.keyelco.com/product-pdf.cfm?p=1319', 'tags': 'Through Hole Mount Test Points', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Keystone_5010-5014_Multipurpose.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

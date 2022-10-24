@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RB154|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Bridge-RB154|
 |Hex ID (short code)|hexID|SZKDIODEBRIDGERB154|
-|Name|name|RB154|
+|name|name|RB154|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'B40R', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'RB154', 'kicadSymbolFootprint': 'Diode_THT:Diode_Bridge_Round_D9.0mm', 'kicadSymbolDatasheet': 'https://www.rectron.com/public/product_datasheets/rb151-rb157.pdf', 'kicadSymbolki_keywords': 'rectifier acdc', 'kicadSymbolki_description': 'Single-Phase Bridge Rectifier, 280V Vrms, 1.5A If, WOG-like package', 'kicadSymbolki_fp_filters': 'D*Bridge*Round*D9.0mm*'}]|
 ||||

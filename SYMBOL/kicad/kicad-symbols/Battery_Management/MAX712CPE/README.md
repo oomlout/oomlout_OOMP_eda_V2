@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX712CPE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-MAX712CPE|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTMAX712CPE|
-|Name|name|MAX712CPE|
+|name|name|MAX712CPE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX712CPE', 'kicadSymbolFootprint': 'Package_DIP:DIP-16_W7.62mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX712-MAX713.pdf', 'kicadSymbolki_keywords': 'Fast-charge Nickel Metal Hydride (NiMH) from a DC source, 0 to +70 Degree Celsius, PDIP-16', 'kicadSymbolki_description': 'Fast-charge Nickel Metal Hydride (NiMH) from a DC source, 0 to +70 Degree Celsius, PDIP-16', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_CurrentSense_8.4x7.2mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_CurrentSense_8.4x7.2mm|
 |Hex ID (short code)|hexID|FZKTRSMTRCURRENTSENSE84X72|
-|Name|name|Transformer_SMD : Transformer_CurrentSense_8.4x7.2mm|
+|name|name|Transformer_SMD : Transformer_CurrentSense_8.4x7.2mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_CurrentSense_8.4x7.2mm', 'description': 'Transformer current sense SMD 8.4x7.2mm', 'tags': 'Transformer current sense SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_CurrentSense_8.4x7.2mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

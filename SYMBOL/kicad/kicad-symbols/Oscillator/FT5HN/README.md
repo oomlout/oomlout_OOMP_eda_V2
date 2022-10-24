@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FT5HN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-FT5HN|
 |Hex ID (short code)|hexID|SZKOCSFT5HN|
-|Name|name|FT5HN|
+|name|name|FT5HN|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FT5HN', 'kicadSymbolFootprint': 'Oscillator:Oscillator_SMD_Fox_FT5H_5.0x3.2mm', 'kicadSymbolDatasheet': 'https://foxonline.com/wp-content/uploads/pdfs/T5HN_T5HV.pdf', 'kicadSymbolki_keywords': 'TXCO', 'kicadSymbolki_description': 'HCMOS temperature compensated oscillator', 'kicadSymbolki_fp_filters': 'Oscillator*SMD*Fox*FT5H*5.0x3.2mm*'}]|
 ||||

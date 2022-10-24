@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F628-xxISO|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F628-xxISO|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F628XXISO|
-|Name|name|PIC16F628-xxISO|
+|name|name|PIC16F628-xxISO|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC16F627-xxISO', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F628-xxISO', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/40300c.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller', 'kicadSymbolki_description': '2048W Flash, 224B SRAM, 128B EEPROM, SO18', 'kicadSymbolki_fp_filters': 'SO*'}]|
 ||||

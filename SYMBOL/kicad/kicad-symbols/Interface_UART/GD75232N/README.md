@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|GD75232N|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-GD75232N|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTGD75232N|
-|Name|name|GD75232N|
+|name|name|GD75232N|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'GD75232N', 'kicadSymbolFootprint': 'Package_DIP:DIP-20_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/gd75232.pdf', 'kicadSymbolki_keywords': 'RS232 UART Driver Receiver Interface', 'kicadSymbolki_description': 'Multiple RS-232 Driver and Receiver, DIP-20', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

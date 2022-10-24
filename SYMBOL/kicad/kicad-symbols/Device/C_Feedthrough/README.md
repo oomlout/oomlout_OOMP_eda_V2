@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C_Feedthrough|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-C_Feedthrough|
 |Hex ID (short code)|hexID|SZKDEVICECFEEDTHROUGH|
-|Name|name|C_Feedthrough|
+|name|name|C_Feedthrough|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'C_Feedthrough', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'EMI filter feedthrough capacitor', 'kicadSymbolki_description': 'Feedthrough capacitor'}]|
 ||||

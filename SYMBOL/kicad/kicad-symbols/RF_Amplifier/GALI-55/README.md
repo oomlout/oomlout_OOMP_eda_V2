@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|GALI-55|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Amplifier-GALI-55|
 |Hex ID (short code)|hexID|SZKRFAMPLIFIERGALI55|
-|Name|name|GALI-55|
+|name|name|GALI-55|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SPF5189Z', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'GALI-55', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-89-3', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/GALI-55+.pdf', 'kicadSymbolki_keywords': 'RF amplifier', 'kicadSymbolki_description': 'DC-4000MHz +18.5dB Gain Block, SOT-89', 'kicadSymbolki_fp_filters': 'SOT?89*'}]|
 ||||

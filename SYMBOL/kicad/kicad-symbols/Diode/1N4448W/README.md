@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|1N4448W|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-1N4448W|
 |Hex ID (short code)|hexID|SZKDIODE1N4448W|
-|Name|name|1N4448W|
+|name|name|1N4448W|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N4001', 'kicadSymbolReference': 'D', 'kicadSymbolValue': '1N4448W', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-123', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/85722/1n4448w.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '100V 0.15A High-speed standard diode, SOD-123', 'kicadSymbolki_fp_filters': 'D*SOD?123*'}]|
 ||||

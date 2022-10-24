@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Thermocouple_Alt|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Thermocouple_Alt|
 |Hex ID (short code)|hexID|SZKDEVICETHERMOCOUPLEALT|
-|Name|name|Thermocouple_Alt|
+|name|name|Thermocouple_Alt|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TC', 'kicadSymbolValue': 'Thermocouple_Alt', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'thermocouple temperature sensor cold junction', 'kicadSymbolki_description': 'Thermocouple with connector block', 'kicadSymbolki_fp_filters': 'PIN?ARRAY* bornier* *Terminal?Block* Thermo*Couple*'}]|
 ||||

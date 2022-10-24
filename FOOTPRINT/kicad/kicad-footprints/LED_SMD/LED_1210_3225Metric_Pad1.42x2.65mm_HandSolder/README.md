@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder|
 |Hex ID (short code)|hexID|FZKLSML1213225METRICPAD142X265HANDSOLDER|
-|Name|name|LED_SMD : LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder|
+|name|name|LED_SMD : LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder', 'description': 'LED SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator', 'tags': 'LED handsolder', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1210_3225Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder/kicadPcb3d_450.png

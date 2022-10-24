@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC4412xS6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-LTC4412xS6|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTLTC4412XS6|
-|Name|name|LTC4412xS6|
+|name|name|LTC4412xS6|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC4412xS6', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-6', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/4412fb.pdf', 'kicadSymbolki_keywords': 'ideal-diode or-ing', 'kicadSymbolki_description': 'Low Loss PowerPath Controller, TSOT-23-6', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
 ||||

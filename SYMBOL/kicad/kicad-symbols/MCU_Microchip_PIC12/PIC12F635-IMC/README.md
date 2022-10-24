@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC12F635-IMC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F635-IMC|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC12PIC12F635IMC|
-|Name|name|PIC12F635-IMC|
+|name|name|PIC12F635-IMC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC12F635-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC12F635-IMC', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41232D.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller', 'kicadSymbolki_description': 'PIC12F635, 1024W Flash, 64B SRAM, 128B EEPROM, DFN8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TE_MS5525DSO-DBxxxyS|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Pressure-TE_MS5525DSO-DBxxxyS|
 |Hex ID (short code)|hexID|FZKSENPRESSURETEMS5525DSODBXXXYS|
-|Name|name|Sensor_Pressure : TE_MS5525DSO-DBxxxyS|
+|name|name|Sensor_Pressure : TE_MS5525DSO-DBxxxyS|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TE_MS5525DSO-DBxxxyS', 'description': 'Pressure Sensor, Dual-Barbed, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5525DSO&DocType=DS&DocLang=English', 'tags': 'Pressure DualBarbed', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Pressure.3dshapes/TE_MS5525DSO-DBxxxyS.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||

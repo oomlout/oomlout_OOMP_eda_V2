@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Potentiometer_Bourns_TC33X_Vertical|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_TC33X_Vertical|
 |Hex ID (short code)|hexID|FZKPOTENTIOMETERSMPOTENTIOMETERBOURNSTC33XVERTICAL|
-|Name|name|Potentiometer_SMD : Potentiometer_Bourns_TC33X_Vertical|
+|name|name|Potentiometer_SMD : Potentiometer_Bourns_TC33X_Vertical|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Bourns_TC33X_Vertical', 'description': 'Potentiometer, Bourns, TC33X, Vertical, https://www.bourns.com/pdfs/TC33.pdf', 'tags': 'Potentiometer Bourns TC33X Vertical', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_SMD.3dshapes/Potentiometer_Bourns_TC33X_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_Bourns_TC33X_Vertical/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_Bourns_TC33X_Vertical/kicadPcb3d_450.png

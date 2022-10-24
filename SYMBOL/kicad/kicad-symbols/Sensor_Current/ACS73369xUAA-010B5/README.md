@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ACS73369xUAA-010B5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS73369xUAA-010B5|
 |Hex ID (short code)|hexID|SZKSENCURRENTACS73369XUAA1B5|
-|Name|name|ACS73369xUAA-010B5|
+|name|name|ACS73369xUAA-010B5|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'A1369xUA-10', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ACS73369xUAA-010B5', 'kicadSymbolFootprint': 'Sensor_Current:Allegro_SIP-3', 'kicadSymbolDatasheet': 'http://www.allegromicro.com/~/media/Files/Datasheets/ACS73369-Datasheet.ashx?la=en', 'kicadSymbolki_keywords': 'hall effect current monitor sensor isolated', 'kicadSymbolki_description': 'Programmable Linear Hall Effect Sensor, +9 to +13.5mV/G, SIP-3', 'kicadSymbolki_fp_filters': 'Allegro*SIP*'}]|
 ||||

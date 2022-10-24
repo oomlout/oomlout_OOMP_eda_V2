@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|R_Shunt_Ohmite_LVK12|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Ohmite_LVK12|
 |Hex ID (short code)|hexID|FZKRESISTORSMRSHUNTOHMITELVK12|
-|Name|name|Resistor_SMD : R_Shunt_Ohmite_LVK12|
+|name|name|Resistor_SMD : R_Shunt_Ohmite_LVK12|
 |Footprint Kicad|footprintKicadDetails|{'name': 'R_Shunt_Ohmite_LVK12', 'description': '4 contact shunt resistor', 'tags': 'shunt resistor 4 contacts', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Shunt_Ohmite_LVK12.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Ohmite_LVK12/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Ohmite_LVK12/kicadPcb3d_450.png

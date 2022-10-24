@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DB37_Female|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DB37_Female|
 |Hex ID (short code)|hexID|SZKCNDB37FEMALE|
-|Name|name|DB37_Female|
+|name|name|DB37_Female|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DB37_Female', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'female D-SUB connector', 'kicadSymbolki_description': '37-pin female D-SUB connector', 'kicadSymbolki_fp_filters': 'DSUB*Female*'}]|
 ||||

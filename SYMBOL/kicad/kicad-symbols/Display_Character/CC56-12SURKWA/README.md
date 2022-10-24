@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CC56-12SURKWA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-CC56-12SURKWA|
 |Hex ID (short code)|hexID|SZKDICHARACTERCC5612SURKWA|
-|Name|name|CC56-12SURKWA|
+|name|name|CC56-12SURKWA|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CC56-12SURKWA', 'kicadSymbolFootprint': 'Display_7Segment:CA56-12SURKWA', 'kicadSymbolDatasheet': 'http://www.kingbright.com/attachments/file/psearch/000/00/00/CC56-12SURKWA(Ver.7A).pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': '4 digit 7 segment hyper red LED, common cathode', 'kicadSymbolki_fp_filters': '*CA56*12SURKWA*'}]|
 ||||

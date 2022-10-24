@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Osram_DIL2_4.3x4.65mm_P5.08mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_DIL2_4.3x4.65mm_P5.08mm|
 |Hex ID (short code)|hexID|FZKOPOSRAMDIL243X465P58|
-|Name|name|OptoDevice : Osram_DIL2_4.3x4.65mm_P5.08mm|
+|name|name|OptoDevice : Osram_DIL2_4.3x4.65mm_P5.08mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Osram_DIL2_4.3x4.65mm_P5.08mm', 'description': 'PhotoDiode, plastic DIL, 4.3x4.65mm², RM5.08', 'tags': 'PhotoDiode plastic DIL RM5.08', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Osram_DIL2_4.3x4.65mm_P5.08mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_DIL2_4.3x4.65mm_P5.08mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_DIL2_4.3x4.65mm_P5.08mm/kicadPcb3d_450.png

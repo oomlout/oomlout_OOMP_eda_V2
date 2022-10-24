@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Texas_NDQ|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Texas_NDQ|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMTEXASNDQ|
-|Name|name|Package_TO_SOT_SMD : Texas_NDQ|
+|name|name|Package_TO_SOT_SMD : Texas_NDQ|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Texas_NDQ', 'description': 'Texas Instruments, NDQ, 5 pin (https://www.ti.com/lit/ml/mmsf022/mmsf022.pdf)', 'tags': 'ti pfm dap', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Texas_NDQ.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Texas_NDQ/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Texas_NDQ/kicadPcb3d_450.png

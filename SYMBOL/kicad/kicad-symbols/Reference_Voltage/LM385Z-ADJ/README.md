@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM385Z-ADJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM385Z-ADJ|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGELM385ZADJ|
-|Name|name|LM385Z-ADJ|
+|name|name|LM385Z-ADJ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM285Z-ADJ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM385Z-ADJ', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm185-adj.pdf', 'kicadSymbolki_keywords': 'diode device voltage reference', 'kicadSymbolki_description': 'Adjustable Micropower Voltage Reference Diodes, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_CHK_EI42-5VA_Neutral|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_EI42-5VA_Neutral|
 |Hex ID (short code)|hexID|FZKTRTRCHKEI425VANEUTRAL|
-|Name|name|Transformer_THT : Transformer_CHK_EI42-5VA_Neutral|
+|name|name|Transformer_THT : Transformer_CHK_EI42-5VA_Neutral|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_CHK_EI42-5VA_Neutral', 'description': 'Trafo, Printtrafo, CHK, EI42, 5VA, neutral,', 'tags': 'Trafo Printtrafo CHK EI42 5VA neutral ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_CHK_EI42-5VA_Neutral.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

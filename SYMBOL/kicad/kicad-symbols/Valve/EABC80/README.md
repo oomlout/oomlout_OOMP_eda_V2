@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EABC80|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Valve-EABC80|
 |Hex ID (short code)|hexID|SZKVAEABC8|
-|Name|name|EABC80|
+|name|name|EABC80|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EABC80', 'kicadSymbolFootprint': 'Valve:Valve_Noval_P', 'kicadSymbolDatasheet': 'https://frank.pocnet.net/sheets/082/e/EABC80.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'diode triode valve', 'kicadSymbolki_description': 'triple diode triode', 'kicadSymbolki_fp_filters': 'VALVE*NOVAL*P*'}]|
 ||||

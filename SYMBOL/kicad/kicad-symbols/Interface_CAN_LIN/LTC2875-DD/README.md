@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC2875-DD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-LTC2875-DD|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINLTC2875DD|
-|Name|name|LTC2875-DD|
+|name|name|LTC2875-DD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC2875-DD', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.5mm_EP1.66x2.38mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/2875f.pdf', 'kicadSymbolki_keywords': 'High-Speed CAN Transceiver', 'kicadSymbolki_description': 'High-Speed CAN Transceiver, 4Mbps, 3.3V or 5V supply, DFN-8', 'kicadSymbolki_fp_filters': 'DFN*1EP*3x3mm*P0.5mm*'}]|
 ||||

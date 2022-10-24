@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VEE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-VEE|
 |Hex ID (short code)|hexID|SZKPOWERVEE|
-|Name|name|VEE|
+|name|name|VEE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'VEE', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "VEE"'}]|
 ||||

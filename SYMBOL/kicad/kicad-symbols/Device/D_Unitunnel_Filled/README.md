@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Unitunnel_Filled|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Unitunnel_Filled|
 |Hex ID (short code)|hexID|SZKDEVICEDUNITUNNELFILL|
-|Name|name|D_Unitunnel_Filled|
+|name|name|D_Unitunnel_Filled|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Unitunnel_Filled', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'unitunnel diode', 'kicadSymbolki_description': 'Unitunnel diode, filled shape', 'kicadSymbolki_fp_filters': 'TO-???* *_Diode_* *SingleDiode* D_*'}]|
 ||||

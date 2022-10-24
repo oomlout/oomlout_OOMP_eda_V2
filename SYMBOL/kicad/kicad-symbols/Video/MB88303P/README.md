@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MB88303P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Video-MB88303P|
 |Hex ID (short code)|hexID|SZKVIDEOMB8833P|
-|Name|name|MB88303P|
+|name|name|MB88303P|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MB88303P', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

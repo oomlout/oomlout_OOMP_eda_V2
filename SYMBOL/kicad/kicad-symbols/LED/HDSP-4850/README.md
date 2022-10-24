@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HDSP-4850|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-LED-HDSP-4850|
 |Hex ID (short code)|hexID|SZKLHDSP485|
-|Name|name|HDSP-4850|
+|name|name|HDSP-4850|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'BAR', 'kicadSymbolValue': 'HDSP-4850', 'kicadSymbolFootprint': 'Display:HDSP-4850', 'kicadSymbolDatasheet': 'https://docs.broadcom.com/docs/AV02-1798EN', 'kicadSymbolki_keywords': 'display LED array', 'kicadSymbolki_description': '10-element LED arrays, Green', 'kicadSymbolki_fp_filters': 'HDSP?48*'}]|
 ||||

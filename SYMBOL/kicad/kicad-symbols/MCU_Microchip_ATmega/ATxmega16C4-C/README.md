@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATxmega16C4-C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega16C4-C|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATXMEGA16C4C|
-|Name|name|ATxmega16C4-C|
+|name|name|ATxmega16C4-C|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATxmega16C4-C', 'kicadSymbolFootprint': 'Package_BGA:VFBGA-49_5.0x5.0mm_Layout7x7_P0.65mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8493-8-and-32-bit-AVR-XMEGA-Microcontrollers-ATxmega16C4-ATxmega32C4_Datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8/16bit Microcontroller XMegaAVR', 'kicadSymbolki_description': '32MHz, 16kB Flash, 4kB Boot, 2kB SRAM, 1kB EEPROM, JTAG, VFBGA-49', 'kicadSymbolki_fp_filters': 'VFBGA*5.0x5.0mm*Layout7x7*P0.65mm*'}]|
 ||||

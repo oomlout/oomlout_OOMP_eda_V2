@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STTH212S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-STTH212S|
 |Hex ID (short code)|hexID|SZKDIODESTTH212S|
-|Name|name|STTH212S|
+|name|name|STTH212S|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'STTH212S', 'kicadSymbolFootprint': 'Diode_SMD:D_SMC', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/stth212.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '1200V 2A High Voltage Ultrafast Diode, SMC', 'kicadSymbolki_fp_filters': 'D?SMC*'}]|
 ||||

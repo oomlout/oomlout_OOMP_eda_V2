@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|OOBB-05-04|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oobbOutlines-OOBB-05-04|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOBBOUTLINESOOBB54|
-|Name|name|oobbOutlines : OOBB-05-04|
+|name|name|oobbOutlines : OOBB-05-04|
 |Footprint Kicad|footprintKicadDetails|{'name': 'OOBB-05-04', 'tags': None, 'attributeType': None, 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||

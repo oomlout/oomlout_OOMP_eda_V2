@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ublox_MAX|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_MAX|
 |Hex ID (short code)|hexID|FZKGPSUBLOXMAX|
-|Name|name|RF_GPS : ublox_MAX|
+|name|name|RF_GPS : ublox_MAX|
 |Footprint Kicad|footprintKicadDetails|{'name': 'ublox_MAX', 'description': 'ublox MAX 6/7/8, (https://www.u-blox.com/sites/default/files/MAX-8-M8-FW3_HardwareIntegrationManual_%28UBX-15030059%29.pdf)', 'tags': 'GPS ublox MAX 6/7/8', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_GPS.3dshapes/ublox_MAX.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||

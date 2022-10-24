@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AS3935|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor-AS3935|
 |Hex ID (short code)|hexID|SZKSENAS3935|
-|Name|name|AS3935|
+|name|name|AS3935|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AS3935', 'kicadSymbolFootprint': 'Package_DFN_QFN:MLPQ-16-1EP_4x4mm_P0.65mm_EP2.8x2.8mm', 'kicadSymbolDatasheet': 'https://www.embeddedadventures.com/datasheets/AS3935_Datasheet_EN_v2.pdf', 'kicadSymbolki_keywords': 'lightning sensor', 'kicadSymbolki_description': 'Programmable fully integrated Lightning Sensor IC', 'kicadSymbolki_fp_filters': '*MLPQ*16*1EP*4x4mm*P0.65mm*'}]|
 ||||

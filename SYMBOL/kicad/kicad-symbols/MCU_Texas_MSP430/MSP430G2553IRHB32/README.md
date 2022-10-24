@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MSP430G2553IRHB32|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2553IRHB32|
 |Hex ID (short code)|hexID|SZKMCUTEXASMSP43MSP43G2553IRHB32|
-|Name|name|MSP430G2553IRHB32|
+|name|name|MSP430G2553IRHB32|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MSP430G2153IRHB32', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MSP430G2553IRHB32', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PVQFN-N32_EP3.45x3.45mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/msp430g2553.pdf', 'kicadSymbolki_keywords': 'TI MSP430 16-bit mixed signal microcontroller', 'kicadSymbolki_description': '16kB Flash, 512B RAM, QFN-32', 'kicadSymbolki_fp_filters': 'Texas*S?PVQFN*'}]|
 ||||

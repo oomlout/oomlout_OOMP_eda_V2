@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|G6E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-G6E|
 |Hex ID (short code)|hexID|SZKRELAYG6E|
-|Name|name|G6E|
+|name|name|G6E|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'G6E', 'kicadSymbolFootprint': 'Relay_THT:Relay_SPDT_Omron_G6E', 'kicadSymbolDatasheet': 'https://www.omron.com/ecb/products/pdf/en-g6e.pdf', 'kicadSymbolki_keywords': 'Single Pole Relay SPDT', 'kicadSymbolki_description': 'Omron Subminiature Sensitive SPDT Signal Switching Relay, Single-Side Stable', 'kicadSymbolki_fp_filters': 'Relay*SPDT*Omron*G6E*'}]|
 ||||

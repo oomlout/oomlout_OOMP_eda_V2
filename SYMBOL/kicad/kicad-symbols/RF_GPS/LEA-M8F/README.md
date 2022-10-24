@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|LEA-M8F|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_GPS-LEA-M8F|
 |Hex ID (short code)|hexID|SZKGPSLEAM8F|
-|Name|name|LEA-M8F|
+|name|name|LEA-M8F|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LEA-M8F', 'kicadSymbolFootprint': 'RF_GPS:ublox_LEA', 'kicadSymbolDatasheet': 'https://www.u-blox.com/sites/default/files/products/documents/LEA-M8F_DataSheet_%28UBX-14001772%29.pdf', 'kicadSymbolki_keywords': 'ublox GPS GNSS module', 'kicadSymbolki_description': 'GNSS Module LEA M8, VCC 3V to 3.6V', 'kicadSymbolki_fp_filters': 'ublox*LEA*'}]|
 ||||

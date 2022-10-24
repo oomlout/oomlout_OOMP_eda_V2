@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VBUS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-VBUS|
 |Hex ID (short code)|hexID|SZKPOWERVBUS|
-|Name|name|VBUS|
+|name|name|VBUS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'VBUS', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "VBUS"'}]|
 ||||

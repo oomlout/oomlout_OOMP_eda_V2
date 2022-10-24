@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_Myrra_74040_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Myrra_74040_Horizontal|
 |Hex ID (short code)|hexID|FZKTRTRMYRRA744HORIZONTAL|
-|Name|name|Transformer_THT : Transformer_Myrra_74040_Horizontal|
+|name|name|Transformer_THT : Transformer_Myrra_74040_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_Myrra_74040_Horizontal', 'description': 'Transformer, Transformator, ETD29, 13 Pin, Horizontal, Myrra-74040,', 'tags': 'Transformer Transformator ETD29 13 Pin Horizontal Myrra-74040 ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_Myrra_74040_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

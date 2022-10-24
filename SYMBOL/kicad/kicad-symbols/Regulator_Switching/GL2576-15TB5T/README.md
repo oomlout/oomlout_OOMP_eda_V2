@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|GL2576-15TB5T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-GL2576-15TB5T|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGGL257615TB5T|
-|Name|name|GL2576-15TB5T|
+|name|name|GL2576-15TB5T|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM2576HVT-12', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'GL2576-15TB5T', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-5_Vertical', 'kicadSymbolDatasheet': 'http://www.dianyuan.com/bbs/u/54/437861181916300.pdf', 'kicadSymbolki_keywords': '15V 3A 52KHz Buck DC/DC', 'kicadSymbolki_description': '15V 3A, 52KHz Step Down Converter, TO220-5', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

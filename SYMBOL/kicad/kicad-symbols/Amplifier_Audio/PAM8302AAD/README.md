@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PAM8302AAD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-PAM8302AAD|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOPAM832AAD|
-|Name|name|PAM8302AAD|
+|name|name|PAM8302AAD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PAM8302AAD', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/PAM8302A.pdf', 'kicadSymbolki_keywords': 'audio amplifier class d', 'kicadSymbolki_description': '2.5W Filterless Class-D Mono Audio Amplifier, SOIC-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm* SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

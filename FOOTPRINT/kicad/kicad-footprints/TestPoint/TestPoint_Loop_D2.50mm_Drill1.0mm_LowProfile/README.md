@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile|
 |Hex ID (short code)|hexID|FZKTPTPLOOPD25DRILL1LOWPROFILE|
-|Name|name|TestPoint : TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile|
+|name|name|TestPoint : TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile', 'description': 'low profile wire loop as test point, loop diameter 2.5mm, hole diameter 1.0mm', 'tags': 'test point wire loop bead', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||

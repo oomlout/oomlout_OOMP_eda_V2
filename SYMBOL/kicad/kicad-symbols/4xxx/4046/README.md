@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4046|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx-4046|
 |Hex ID (short code)|hexID|SZK4XXX446|
-|Name|name|4046|
+|name|name|4046|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4046', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/HEF4046B.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'CMOS PLL', 'kicadSymbolki_description': 'Phase Comp & VCO', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
 ||||

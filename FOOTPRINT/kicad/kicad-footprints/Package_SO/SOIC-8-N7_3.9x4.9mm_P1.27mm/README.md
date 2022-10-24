@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SOIC-8-N7_3.9x4.9mm_P1.27mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-8-N7_3.9x4.9mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKSOSOIC8N739X49P127|
-|Name|name|Package_SO : SOIC-8-N7_3.9x4.9mm_P1.27mm|
+|name|name|Package_SO : SOIC-8-N7_3.9x4.9mm_P1.27mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SOIC-8-N7_3.9x4.9mm_P1.27mm', 'description': '8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC], pin 7 removed (Microchip Packaging Specification 00000049BS.pdf, http://www.onsemi.com/pub/Collateral/NCP1207B.PDF)', 'tags': 'SOIC 1.27', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8-N7_3.9x4.9mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-8-N7_3.9x4.9mm_P1.27mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-8-N7_3.9x4.9mm_P1.27mm/kicadPcb3d_450.png

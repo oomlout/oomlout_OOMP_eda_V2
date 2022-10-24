@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|27C080|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_EPROM-27C080|
 |Hex ID (short code)|hexID|SZKMEMORYEPROM27C8|
-|Name|name|27C080|
+|name|name|27C080|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '27C080', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/doc0360.pdf', 'kicadSymbolki_keywords': 'OTP EPROM 8MiBit', 'kicadSymbolki_description': 'OTP EPROM 8 MiBit (1 Mi x 8)', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm* PLCC*'}]|
 ||||

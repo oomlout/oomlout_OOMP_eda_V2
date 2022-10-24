@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FrequencyCounter|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-FrequencyCounter|
 |Hex ID (short code)|hexID|SZKDEVICEFREQUENCYCOUNTER|
-|Name|name|FrequencyCounter|
+|name|name|FrequencyCounter|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'MES', 'kicadSymbolValue': 'FrequencyCounter', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'frequency counter', 'kicadSymbolki_description': 'Frequency counter'}]|
 ||||

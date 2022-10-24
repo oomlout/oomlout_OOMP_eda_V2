@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCF5213-LQFP100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_ColdFire-MCF5213-LQFP100|
 |Hex ID (short code)|hexID|SZKMCUNXPCOLDFIREMCF5213LQFP1|
-|Name|name|MCF5213-LQFP100|
+|name|name|MCF5213-LQFP100|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCF5213-LQFP100', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'COLDFIRE', 'kicadSymbolki_description': 'Coldfire with SRAM and Flash Eprom - LQFP100 package'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BSS84|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BSS84|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBSS84|
-|Name|name|BSS84|
+|name|name|BSS84|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TP0610T', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BSS84', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://assets.nexperia.com/documents/data-sheet/BSS84.pdf', 'kicadSymbolki_keywords': 'P-Channel MOSFET', 'kicadSymbolki_description': '-0.13A Id, -50V Vds, P-Channel MOSFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

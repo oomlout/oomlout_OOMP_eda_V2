@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BD435|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD435|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBD435|
-|Name|name|BD435|
+|name|name|BD435|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BD433', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BD435', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-126-3_Vertical', 'kicadSymbolDatasheet': 'http://www.cdil.com/datasheets/bd433_42.pdf', 'kicadSymbolki_keywords': 'Power NPN Transistor', 'kicadSymbolki_description': '4A Ic, 32V Vce, Power NPN Transistor, TO-126', 'kicadSymbolki_fp_filters': 'TO?126*'}]|
 ||||

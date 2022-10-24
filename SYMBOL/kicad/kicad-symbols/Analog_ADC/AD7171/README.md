@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD7171|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7171|
 |Hex ID (short code)|hexID|SZKANALOGADCAD7171|
-|Name|name|AD7171|
+|name|name|AD7171|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD7171', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.55x2.48mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD7171.pdf', 'kicadSymbolki_keywords': 'sigma delta adc spi 1ch', 'kicadSymbolki_description': 'Single channel Analog to Digital Converter, 16-bit, differential input, 125Hz, SPI interface', 'kicadSymbolki_fp_filters': 'DFN*1EP*3x3mm*P0.5mm*EP1.55x2.48mm*'}]|
 ||||

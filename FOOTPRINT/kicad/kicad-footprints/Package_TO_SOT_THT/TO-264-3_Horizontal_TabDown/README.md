@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-264-3_Horizontal_TabDown|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-264-3_Horizontal_TabDown|
 |Hex ID (short code)|hexID|FZKSOTTO2643HORIZONTALTABDOWN|
-|Name|name|Package_TO_SOT_THT : TO-264-3_Horizontal_TabDown|
+|name|name|Package_TO_SOT_THT : TO-264-3_Horizontal_TabDown|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-264-3_Horizontal_TabDown', 'description': 'TO-264-3, Horizontal, RM 5.45mm, see https://www.fairchildsemi.com/package-drawings/TO/TO264A03.pdf', 'tags': 'TO-264-3 Horizontal RM 5.45mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-264-3_Horizontal_TabDown.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'oval'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-264-3_Horizontal_TabDown/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-264-3_Horizontal_TabDown/kicadPcb3d_450.png

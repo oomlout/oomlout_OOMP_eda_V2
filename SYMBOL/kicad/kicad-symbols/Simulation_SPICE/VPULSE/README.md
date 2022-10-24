@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VPULSE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VPULSE|
 |Hex ID (short code)|hexID|SZKSIMULATIONSPICEVPULSE|
-|Name|name|VPULSE|
+|name|name|VPULSE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'V', 'kicadSymbolValue': 'VPULSE', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolSpice_Netlist_Enabled': 'Y', 'kicadSymbolSpice_Primitive': 'V', 'kicadSymbolSpice_Model': 'pulse(0 1 2n 2n 2n 50n 100n)', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Voltage source, pulse'}]|
 ||||

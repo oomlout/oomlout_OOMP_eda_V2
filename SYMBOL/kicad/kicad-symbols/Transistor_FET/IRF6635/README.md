@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF6635|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6635|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF6635|
-|Name|name|IRF6635|
+|name|name|IRF6635|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSB008NE2LX', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF6635', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_MX', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irf6635pbf.pdf?fileId=5546d462533600a4015355e8e7ab1a3d', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '32A Id, 30V Vds, 1.8mOhm Rds, N-Channel MOSFET, DirectFET MX', 'kicadSymbolki_fp_filters': 'DirectFET*MX*'}]|
 ||||

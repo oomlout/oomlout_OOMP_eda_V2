@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX15062B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX15062B|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGMAX1562B|
-|Name|name|MAX15062B|
+|name|name|MAX15062B|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX15062A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX15062B', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8_2x2mm_P0.5mm', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/MAX15062.pdf', 'kicadSymbolki_keywords': 'step-down dc-dc switching regulator', 'kicadSymbolki_description': '60V, 300mA, synchronous step-down dc-dc converter, 5.0V fixed output voltage, DFN-8', 'kicadSymbolki_fp_filters': 'DFN*2x2mm*P0.5mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DB37_Male|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DB37_Male|
 |Hex ID (short code)|hexID|SZKCNDB37MALE|
-|Name|name|DB37_Male|
+|name|name|DB37_Male|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DB37_Male', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'male D-SUB connector', 'kicadSymbolki_description': '37-pin male D-SUB connector', 'kicadSymbolki_fp_filters': 'DSUB*Male*'}]|
 ||||

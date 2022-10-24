@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm|
 |Hex ID (short code)|hexID|FZKLSMLWS2812PLCC65X5P16|
-|Name|name|LED_SMD : LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm|
+|name|name|LED_SMD : LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm', 'description': 'https://cdn-shop.adafruit.com/datasheets/WS2812.pdf', 'tags': 'LED RGB NeoPixel', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm/kicadPcb3d_450.png

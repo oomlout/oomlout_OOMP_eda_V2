@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|TO-263-2_TabPin1|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-263-2_TabPin1|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMTO2632TABPIN1|
-|Name|name|Package_TO_SOT_SMD : TO-263-2_TabPin1|
+|name|name|Package_TO_SOT_SMD : TO-263-2_TabPin1|
 |Footprint Kicad|footprintKicadDetails|{'name': 'TO-263-2_TabPin1', 'description': 'TO-263 / D2PAK / DDPAK SMD package, tab to pin 1, https://www.wolfspeed.com/media/downloads/137/C3D06060G.pdf', 'tags': 'D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404 diode', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-263-2.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-263-2_TabPin1/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-263-2_TabPin1/kicadPcb3d_450.png

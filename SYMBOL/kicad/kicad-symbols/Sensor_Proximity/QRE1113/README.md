@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|QRE1113|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Proximity-QRE1113|
 |Hex ID (short code)|hexID|SZKSENPROXIMITYQRE1113|
-|Name|name|QRE1113|
+|name|name|QRE1113|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'QRE1113', 'kicadSymbolFootprint': 'OptoDevice:OnSemi_CASE100AQ', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/QRE1113-D.PDF', 'kicadSymbolki_keywords': 'Reflective Optical Sensor Opto reflex coupler', 'kicadSymbolki_description': 'Miniature Reflective Optical Object Sensor, DIP-like THT-package', 'kicadSymbolki_fp_filters': 'OnSemi*CASE100AQ*'}]|
 ||||

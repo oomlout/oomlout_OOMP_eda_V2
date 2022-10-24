@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MQ-6|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor-MQ-6|
 |Hex ID (short code)|hexID|FZKSENMQ6|
-|Name|name|Sensor : MQ-6|
+|name|name|Sensor : MQ-6|
 |Footprint Kicad|footprintKicadDetails|{'name': 'MQ-6', 'description': 'Gas Sensor, 6 pin, https://www.winsen-sensor.com/d/files/semiconductor/mq-6.pdf', 'tags': 'gas sensor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor.3dshapes/MQ-6.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||

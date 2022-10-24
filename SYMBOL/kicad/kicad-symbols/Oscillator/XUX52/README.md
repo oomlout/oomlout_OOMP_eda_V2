@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XUX52|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-XUX52|
 |Hex ID (short code)|hexID|SZKOCSXUX52|
-|Name|name|XUX52|
+|name|name|XUX52|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'XUX51', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XUX52', 'kicadSymbolFootprint': 'Oscillator:Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.idt.com/document/dst/xu-family-datasheet', 'kicadSymbolki_keywords': 'OTP XHCMOS 2.5V VCXO', 'kicadSymbolki_description': 'Low phase noise, quartz-based PLL oscillator, 0.016-1500 MHz, complementary output', 'kicadSymbolki_fp_filters': 'Oscillator*JS6*'}]|
 ||||

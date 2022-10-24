@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MPXHZ6115A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Pressure-MPXHZ6115A|
 |Hex ID (short code)|hexID|SZKSENPRESSUREMPXHZ6115A|
-|Name|name|MPXHZ6115A|
+|name|name|MPXHZ6115A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MPXA6115A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MPXHZ6115A', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.nxp.com/files/sensors/doc/data_sheet/MPXA6115A.pdf', 'kicadSymbolki_keywords': 'absolute pressure sensor', 'kicadSymbolki_description': 'Absolute pressure sensor, 15 to 115kPa, analog output, integrated signal conditioning, temperature compensated, media resistant gel, SSO package'}]|
 ||||

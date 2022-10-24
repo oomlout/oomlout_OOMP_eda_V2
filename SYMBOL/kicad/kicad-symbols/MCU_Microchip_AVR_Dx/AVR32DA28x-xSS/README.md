@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AVR32DA28x-xSS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR32DA28x-xSS|
 |Hex ID (short code)|hexID|SZKMCUMCHIPAVRDXAVR32DA28XXSS|
-|Name|name|AVR32DA28x-xSS|
+|name|name|AVR32DA28x-xSS|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AVR32DA28x-xSO', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AVR32DA28x-xSS', 'kicadSymbolFootprint': 'Package_SO:SSOP-28_5.3x10.2mm_P0.65mm', 'kicadSymbolDatasheet': 'https://ww1.microchip.com/downloads/en/DeviceDoc/AVR32DA28-32-48-Data-Sheet-40002228B.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller AVR-DA', 'kicadSymbolki_description': '24MHz, 32kB Flash, 4kB SRAM, EEPROM with Touch Sensing, SSOP-28', 'kicadSymbolki_fp_filters': 'SSOP*5.3x10.2mm*P0.65mm*'}]|
 ||||

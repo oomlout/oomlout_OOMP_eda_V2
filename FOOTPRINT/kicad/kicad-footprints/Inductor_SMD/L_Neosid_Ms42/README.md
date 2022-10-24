@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Neosid_Ms42|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Ms42|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLNEOSIDMS42|
-|Name|name|Inductor_SMD : L_Neosid_Ms42|
+|name|name|Inductor_SMD : L_Neosid_Ms42|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Neosid_Ms42', 'description': 'Neosid, Inductor, SMs42, Fixed inductor, SMD, magneticaly shielded, https://neosid.de/import-data/product-pdf/neoFestind_Ms42.pdf', 'tags': 'Neosid Inductor SMs42 Fixed inductor SMD magneticaly shielded', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Neosid_Ms42.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_Ms42/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Neosid_Ms42/kicadPcb3d_450.png

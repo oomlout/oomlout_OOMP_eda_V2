@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SN75176AD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-SN75176AD|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTSN75176AD|
-|Name|name|SN75176AD|
+|name|name|SN75176AD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SN75LBC176D', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SN75176AD', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/sn75176a.pdf', 'kicadSymbolki_keywords': 'Differential bus transceiver', 'kicadSymbolki_description': 'Differential RS-422/RS-485 bus transceiver, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

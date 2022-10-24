@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP3423|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3423|
 |Hex ID (short code)|hexID|SZKANALOGADCMCP3423|
-|Name|name|MCP3423|
+|name|name|MCP3423|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP3423', 'kicadSymbolFootprint': 'Package_SO:MSOP-10_3x3mm_P0.5mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/22088c.pdf', 'kicadSymbolki_keywords': '18-Bit ADC I2C IIC I²C Delta-Sigma-ADC Delta-Sigma-ADC Reference 2ch', 'kicadSymbolki_description': '2-Channel, 18-Bit, Delta-Sigma AD-Converter, I²C Interface, Reference, MSOP', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.5mm*'}]|
 ||||

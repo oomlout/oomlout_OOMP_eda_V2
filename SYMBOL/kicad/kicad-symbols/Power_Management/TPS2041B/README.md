@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS2041B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-TPS2041B|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTTPS241B|
-|Name|name|TPS2041B|
+|name|name|TPS2041B|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS2041B', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps2041.pdf', 'kicadSymbolki_keywords': '1-chanel power-distribution USB', 'kicadSymbolki_description': 'Single power-distribution switcher', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

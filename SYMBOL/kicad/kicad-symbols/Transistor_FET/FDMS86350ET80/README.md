@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FDMS86350ET80|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS86350ET80|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETFDMS8635ET8|
-|Name|name|FDMS86350ET80|
+|name|name|FDMS86350ET80|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CSD17578Q5A', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FDMS86350ET80', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TDSON-8-1', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FDMS86350ET80-D.pdf', 'kicadSymbolki_keywords': 'powertrench MOSFET fairchild', 'kicadSymbolki_description': '25A Id, 80V Vds, N-Channel PowerTrench MOSFET, 2.4mOhm Ron, 155nC Qgmax, -55 to 175 °C, 5x6mm SON8', 'kicadSymbolki_fp_filters': 'TDSON*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAT48ZFILM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAT48ZFILM|
 |Hex ID (short code)|hexID|SZKDIODEBAT48ZFILM|
-|Name|name|BAT48ZFILM|
+|name|name|BAT48ZFILM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAT48ZFILM', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-123', 'kicadSymbolDatasheet': 'www.st.com/resource/en/datasheet/bat48.pdf', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '40V 0.35A Small Signal Schottky Diode, SOD-123', 'kicadSymbolki_fp_filters': 'D*SOD?123*'}]|
 ||||

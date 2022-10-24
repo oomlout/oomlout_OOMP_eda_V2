@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SILxx-1Cxx-51x|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-SILxx-1Cxx-51x|
 |Hex ID (short code)|hexID|SZKRELAYSILXX1CXX51X|
-|Name|name|SILxx-1Cxx-51x|
+|name|name|SILxx-1Cxx-51x|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'SILxx-1Cxx-51x', 'kicadSymbolFootprint': 'Relay_THT:Relay_SPDT_StandexMeder_SIL_Form1C', 'kicadSymbolDatasheet': 'https://standexelectronics.com/wp-content/uploads/datasheet_reed_relay_SIL.pdf', 'kicadSymbolki_keywords': 'Single Pole Reed Relay SPDT', 'kicadSymbolki_description': 'Standex Meder SIL reed relay, SPDT', 'kicadSymbolki_fp_filters': 'Relay*SPDT*StandexMeder*SIL*Form1C*'}]|
 ||||

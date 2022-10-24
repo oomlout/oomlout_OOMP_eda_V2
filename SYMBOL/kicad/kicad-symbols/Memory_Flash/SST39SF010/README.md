@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SST39SF010|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_Flash-SST39SF010|
 |Hex ID (short code)|hexID|SZKMEMORYFLASHSST39SF1|
-|Name|name|SST39SF010|
+|name|name|SST39SF010|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SST39SF010', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/25022B.pdf', 'kicadSymbolki_keywords': '128k flash rom', 'kicadSymbolki_description': 'Silicon Storage Technology (SSF) 128k x 8 Flash ROM'}]|
 ||||

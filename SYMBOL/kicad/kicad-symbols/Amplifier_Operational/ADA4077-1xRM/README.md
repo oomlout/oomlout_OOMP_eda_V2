@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADA4077-1xRM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4077-1xRM|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALADA4771XRM|
-|Name|name|ADA4077-1xRM|
+|name|name|ADA4077-1xRM|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP6L91RT-EMS', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADA4077-1xRM', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4077-1_4077-2_4077-4.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': '4MHz, 7nV/sqrtHz, Low Offset and Drift, High Precision Amplifier, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
 ||||

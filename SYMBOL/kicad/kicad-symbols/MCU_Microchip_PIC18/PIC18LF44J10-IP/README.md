@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC18LF44J10-IP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF44J10-IP|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC18PIC18LF44J1IP|
-|Name|name|PIC18LF44J10-IP|
+|name|name|PIC18LF44J10-IP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC18F44J10-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18LF44J10-IP', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/39682E.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit Microcontroller', 'kicadSymbolki_description': '16K Flash, 1K SRAM, ADC, DIP40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm* PDIP*W15.24mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|KT2520K-T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-KT2520K-T|
 |Hex ID (short code)|hexID|SZKOCSKT252KT|
-|Name|name|KT2520K-T|
+|name|name|KT2520K-T|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'KT2520K-T', 'kicadSymbolFootprint': 'Oscillator:Oscillator_SMD_Kyocera_2520-6Pin_2.5x2.0mm', 'kicadSymbolDatasheet': 'https://global.kyocera.com/prdct/electro/product/pdf/kt2520_e.pdf', 'kicadSymbolki_keywords': 'tcxo', 'kicadSymbolki_description': '10-60MHz Temperature Compensated Crystal Oscillator, Kyocera 2520', 'kicadSymbolki_fp_filters': 'Oscillator*SMD*Kyocera*2.5x2.0mm*'}]|
 ||||

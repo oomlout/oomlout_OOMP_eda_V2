@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SANYOU_SRD_Form_A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-SANYOU_SRD_Form_A|
 |Hex ID (short code)|hexID|SZKRELAYSANYOUSRDFORMA|
-|Name|name|SANYOU_SRD_Form_A|
+|name|name|SANYOU_SRD_Form_A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'SANYOU_SRD_Form_A', 'kicadSymbolFootprint': 'Relay_THT:Relay_SPST_SANYOU_SRD_Series_Form_A', 'kicadSymbolDatasheet': 'http://www.sanyourelay.ca/public/products/pdf/SRD.pdf', 'kicadSymbolki_keywords': 'Single Pole Relay SPST', 'kicadSymbolki_description': 'Sanyo SRD relay, Single Pole Miniature Power Relay, Closing Contact', 'kicadSymbolki_fp_filters': 'Relay*SPST*SANYOU*SRD*Series*Form*A*'}]|
 ||||

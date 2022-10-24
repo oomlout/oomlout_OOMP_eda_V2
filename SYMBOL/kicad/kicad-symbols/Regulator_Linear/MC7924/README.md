@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC7924|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC7924|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMC7924|
-|Name|name|MC7924|
+|name|name|MC7924|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'L7905', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC7924', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/MC7900-D.PDF', 'kicadSymbolki_keywords': 'Voltage Regulator 1.5A Negative', 'kicadSymbolki_description': 'Negative 1A 40V Linear Regulator, Fixed Output -24V, TO-220/TO-263', 'kicadSymbolki_fp_filters': 'TO?220* TO?263*'}]|
 ||||

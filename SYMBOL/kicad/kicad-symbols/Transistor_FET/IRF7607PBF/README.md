@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF7607PBF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7607PBF|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF767PBF|
-|Name|name|IRF7607PBF|
+|name|name|IRF7607PBF|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF7607PBF', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.irf.com/product-info/datasheets/data/irf7607pbf.pdf', 'kicadSymbolki_keywords': 'HexFET Power MOSFET N-MOS', 'kicadSymbolki_description': '5.2A Id, 20V Vds, HexFET N-MOS Power MOSFET, Ronon 0.03R, Micro8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
 ||||

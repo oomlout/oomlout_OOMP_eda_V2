@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM329xZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM329xZ|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGELM329XZ|
-|Name|name|LM329xZ|
+|name|name|LM329xZ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM329xZ', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/129329fd.pdf', 'kicadSymbolki_keywords': 'diode device voltage reference shunt', 'kicadSymbolki_description': '6.9V Precision Voltage Reference, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

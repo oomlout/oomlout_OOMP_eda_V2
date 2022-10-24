@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|1EDN7550B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-1EDN7550B|
 |Hex ID (short code)|hexID|SZKDRIVERFET1EDN755B|
-|Name|name|1EDN7550B|
+|name|name|1EDN7550B|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '1EDN7550B', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-1EDN7550B-DS-v02_00-EN.pdf?fileId=5546d46262b31d2e01635d9799ef264f', 'kicadSymbolki_keywords': 'Driver, Dual MOSFET', 'kicadSymbolki_description': 'Single-Channel EiceDRIVER With True Differential Inputs, 4V UVLO, +4/-8A, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

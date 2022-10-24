@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA1641|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA1641|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA1641|
-|Name|name|OPA1641|
+|name|name|OPA1641|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA1641', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/opa1641.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': ' JFET input, ultralow distortion, low-noise operational amplifier, SOIC-8/VSSOP-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* VSSOP*3.0x3.0mm*P0.65mm*'}]|
 ||||

@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|ST_WLCSP-66_Die411|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-66_Die411|
 |Hex ID (short code)|hexID|FZKCSPSTWLCSP66DIE411|
-|Name|name|Package_CSP : ST_WLCSP-66_Die411|
+|name|name|Package_CSP : ST_WLCSP-66_Die411|
 |Footprint Kicad|footprintKicadDetails|{'name': 'ST_WLCSP-66_Die411', 'description': 'WLCSP-66, 9x9 raster, 3.639x3.971mm package, pitch 0.4mm; see section 7.2 of http://www.st.com/resource/en/datasheet/stm32f207vg.pdf', 'tags': 'BGA 66 0.4', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/ST_WLCSP-66_Die411.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/ST_WLCSP-66_Die411/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_CSP/ST_WLCSP-66_Die411/kicadPcb3d_450.png

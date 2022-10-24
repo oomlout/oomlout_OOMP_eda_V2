@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|Converter_DCDC_Cincon_EC6Cxx_Dual-Triple_THT|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Cincon_EC6Cxx_Dual-Triple_THT|
 |Hex ID (short code)|hexID|FZKCONCONCINCONEC6CXXDUALTRIPLETHT|
-|Name|name|Converter_DCDC : Converter_DCDC_Cincon_EC6Cxx_Dual-Triple_THT|
+|name|name|Converter_DCDC : Converter_DCDC_Cincon_EC6Cxx_Dual-Triple_THT|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_Cincon_EC6Cxx_Dual-Triple_THT', 'description': 'DCDC-Converter, CINCON, EC6Cxx, dual or tripple output, http://www.cincon.com/upload/media/data%20sheets/Data%20Sheet%20(DC)/C%20CASE/SPEC-EC6C-V12.pdf', 'tags': 'DCDC-Converter CINCON EC6Cxx dual or tripple output', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Cincon_EC6Cxx_Dual-Triple_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Cincon_EC6Cxx_Dual-Triple_THT/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_Cincon_EC6Cxx_Dual-Triple_THT/kicadPcb3d_450.png

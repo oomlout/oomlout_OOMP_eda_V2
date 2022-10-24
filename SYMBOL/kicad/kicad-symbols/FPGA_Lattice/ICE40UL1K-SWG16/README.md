@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ICE40UL1K-SWG16|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Lattice-ICE40UL1K-SWG16|
 |Hex ID (short code)|hexID|SZKFPGALATTICEICE4UL1KSWG16|
-|Name|name|ICE40UL1K-SWG16|
+|name|name|ICE40UL1K-SWG16|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ICE40UL1K-SWG16', 'kicadSymbolFootprint': 'Package_CSP:WLCSP-16_1.409x1.409mm_P0.35mm', 'kicadSymbolDatasheet': 'https://www.latticesemi.com/view_document?document_id=50945', 'kicadSymbolki_keywords': 'FPGA programmable logic', 'kicadSymbolki_description': 'iCE40 UltraPlus FPGA, 1.2V, WLCSP-16', 'kicadSymbolki_fp_filters': 'WLCSP*1.409x1.409mm*P0.35mm*'}]|
 ||||

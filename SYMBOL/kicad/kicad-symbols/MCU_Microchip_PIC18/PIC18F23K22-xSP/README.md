@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC18F23K22-xSP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F23K22-xSP|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC18PIC18F23K22XSP|
-|Name|name|PIC18F23K22-xSP|
+|name|name|PIC18F23K22-xSP|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18F23K22-xSP', 'kicadSymbolFootprint': 'Package_DIP:DIP-28_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/40001412G.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit Microcontroller XLP', 'kicadSymbolki_description': '8K Flash, 512B SRAM, 256B EEPROM, nanoWatt XLP, 2.3V to 5.5V, SPDIP28', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

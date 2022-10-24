@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|40106|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx-40106|
 |Hex ID (short code)|hexID|SZK4XXX416|
-|Name|name|40106|
+|name|name|40106|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '40106', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/HEF40106B.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'CMOS', 'kicadSymbolki_description': 'Hex Schmitt trigger inverter', 'kicadSymbolki_fp_filters': 'DIP?14*'}]|
 ||||

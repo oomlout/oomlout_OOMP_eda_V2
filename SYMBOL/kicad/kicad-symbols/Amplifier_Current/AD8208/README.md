@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD8208|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8208|
 |Hex ID (short code)|hexID|SZKAMPLIFIERCURRENTAD828|
-|Name|name|AD8208|
+|name|name|AD8208|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AD8202', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD8208', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD8208.pdf', 'kicadSymbolki_keywords': 'highside HS current sense amplifier linear buffered monitor preamp', 'kicadSymbolki_description': '45V High Voltage, Precision Difference Amplifier, 10V/V x 2V/V adjustable gain, bandwidth 70kHz, Vcc=5V, unidirectional, SOIC-8/MSOP-8', 'kicadSymbolki_fp_filters': 'SOIC*P1.27mm* MSOP*P0.65mm*'}]|
 ||||

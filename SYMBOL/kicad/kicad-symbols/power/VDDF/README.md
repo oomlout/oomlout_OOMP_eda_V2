@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VDDF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-VDDF|
 |Hex ID (short code)|hexID|SZKPOWERVDDF|
-|Name|name|VDDF|
+|name|name|VDDF|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'VDDF', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "VDDF"'}]|
 ||||

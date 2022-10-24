@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0603-X-UF47D-V16-C6U47D16-C19666|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-UF47D-V16-C6U47D16-C19666|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XUF47DV16C6U47D16C19666|
-|Name|name|CAPC-0603-X-UF47D-V16-C6U47D16-C19666|
+|name|name|CAPC-0603-X-UF47D-V16-C6U47D16-C19666|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0603-X-UF47D-V16-C6U47D16-C19666', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0603-X-UF47D-V16-C6U47D16-C19666', 'kicadSymbolDatasheet': 'oom.lt/C6U47D16', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C6U47D16;PARTL C-JLCC;C19666;MANUF C-XXXX;CL10A475KO8NNNC;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

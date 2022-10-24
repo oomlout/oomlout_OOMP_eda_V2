@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DB4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-DB4|
 |Hex ID (short code)|hexID|SZKDIODEDB4|
-|Name|name|DB4|
+|name|name|DB4|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DB3', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'DB4', 'kicadSymbolFootprint': 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal', 'kicadSymbolDatasheet': 'http://cdn-reichelt.de/documents/datenblatt/A100/DB%203%23st.pdf', 'kicadSymbolki_keywords': 'AC diode DIAC', 'kicadSymbolki_description': '34V 2A Bidirectional trigger diode, DO-35', 'kicadSymbolki_fp_filters': 'D*DO?35*'}]|
 ||||

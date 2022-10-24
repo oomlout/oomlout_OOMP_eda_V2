@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|LairdTech_28C0236-0JW-10|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Ferrite_THT-LairdTech_28C0236-0JW-10|
 |Hex ID (short code)|hexID|FZKFLAIRDTECH28C236JW1|
-|Name|name|Ferrite_THT : LairdTech_28C0236-0JW-10|
+|name|name|Ferrite_THT : LairdTech_28C0236-0JW-10|
 |Footprint Kicad|footprintKicadDetails|{'name': 'LairdTech_28C0236-0JW-10', 'description': 'Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters', 'tags': 'Ferrite vertical LairdTech 28C0236-0JW-10', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Ferrite_THT.3dshapes/LairdTech_28C0236-0JW-10.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Ferrite_THT/LairdTech_28C0236-0JW-10/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Ferrite_THT/LairdTech_28C0236-0JW-10/kicadPcb3d_450.png

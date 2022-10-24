@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|BUTA-12-X-LEDS-01-B12L|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-12-X-LEDS-01-B12L|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSBUTA12XLS1B12L|
-|Name|name|BUTA-12-X-LEDS-01-B12L|
+|name|name|BUTA-12-X-LEDS-01-B12L|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'BUTA-12-X-LEDS-01-B12L', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:BUTA-12-X-LEDS-01-B12L', 'kicadSymbolDatasheet': 'oom.lt/B12L', 'kicadSymbolki_keywords': 'switch normally-open pushbutton push-button', 'kicadSymbolki_description': 'hexID: B12L;Push button switch, generic, two pins'}]|
 ||||

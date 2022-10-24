@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DTD113Z|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTD113Z|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTDTD113Z|
-|Name|name|DTD113Z|
+|name|name|DTD113Z|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DTD113Z', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'ROHM Digital NPN Transistor', 'kicadSymbolki_description': 'Digital NPN Transistor, 1k/10k, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23* SC?59*'}]|
 ||||

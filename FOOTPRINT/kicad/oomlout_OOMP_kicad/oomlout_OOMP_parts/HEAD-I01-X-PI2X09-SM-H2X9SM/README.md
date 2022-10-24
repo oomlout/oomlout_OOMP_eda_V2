@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-I01-X-PI2X09-SM-H2X9SM|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X09-SM-H2X9SM|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI2X9SMH2X9SM|
-|Name|name|oomlout_OOMP_parts : HEAD-I01-X-PI2X09-SM-H2X9SM|
+|name|name|oomlout_OOMP_parts : HEAD-I01-X-PI2X09-SM-H2X9SM|
 |Footprint Kicad|footprintKicadDetails|{'name': 'HEAD-I01-X-PI2X09-SM-H2X9SM', 'description': 'hexID: H2X9SM; surface-mounted straight pin header, 2x09, 2.54mm pitch, double rows', 'tags': 'Surface mounted pin header SMD 2x09 2.54mm double row', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x09_P2.54mm_Vertical_SMD.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

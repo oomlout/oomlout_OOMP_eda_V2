@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TDA7264|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7264|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOTDA7264|
-|Name|name|TDA7264|
+|name|name|TDA7264|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDA7264', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-8_Vertical', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/tda7264.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'audio amplifier 2ch', 'kicadSymbolki_description': '25W + 25W stereo amplifier with mute and standby, TO-220-8', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
 ||||

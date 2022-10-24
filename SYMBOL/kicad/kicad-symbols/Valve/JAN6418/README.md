@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|JAN6418|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Valve-JAN6418|
 |Hex ID (short code)|hexID|SZKVAJAN6418|
-|Name|name|JAN6418|
+|name|name|JAN6418|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CK6418', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'JAN6418', 'kicadSymbolFootprint': 'Valve:Valve_Mini_Pentode_Linear', 'kicadSymbolDatasheet': 'https://frank.pocnet.net/sheets/127/6/6418.pdf', 'kicadSymbolki_keywords': 'subminiature pentode valve', 'kicadSymbolki_description': 'Subminiature Pentode', 'kicadSymbolki_fp_filters': 'VALVE*MINI*PENTODE*LINEAR*'}]|
 ||||

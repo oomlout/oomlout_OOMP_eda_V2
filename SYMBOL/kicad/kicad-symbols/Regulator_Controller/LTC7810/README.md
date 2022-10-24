@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC7810|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-LTC7810|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERLTC781|
-|Name|name|LTC7810|
+|name|name|LTC7810|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC7810', 'kicadSymbolFootprint': 'Package_QFP:LQFP-48-1EP_7x7mm_P0.5mm_EP3.6x3.6mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/LTC7810.pdf', 'kicadSymbolki_keywords': 'switching buck converter regulator dual-output', 'kicadSymbolki_description': '150V dual 2-phase synchronous step-down DC/DC controller, LQPF-48', 'kicadSymbolki_fp_filters': 'LQFP?48?1EP*7x7mm*P0.5mm*EP3.6x3.6mm*'}]|
 ||||

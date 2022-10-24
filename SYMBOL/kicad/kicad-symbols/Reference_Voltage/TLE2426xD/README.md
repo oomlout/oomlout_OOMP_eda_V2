@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLE2426xD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-TLE2426xD|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGETLE2426XD|
-|Name|name|TLE2426xD|
+|name|name|TLE2426xD|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLE2426xD', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tle2426.pdf', 'kicadSymbolki_keywords': 'Rail splitter precision virtual ground', 'kicadSymbolki_description': 'Precision virtual ground, noise reduction pin, 4V to 40V input, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
 ||||

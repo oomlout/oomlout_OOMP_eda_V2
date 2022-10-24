@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|RJ45_Amphenol_54602-x08_Horizontal|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Amphenol_54602-x08_Horizontal|
 |Hex ID (short code)|hexID|FZKCNRJRJ45AMPHENOL5462X8HORIZONTAL|
-|Name|name|Connector_RJ : RJ45_Amphenol_54602-x08_Horizontal|
+|name|name|Connector_RJ : RJ45_Amphenol_54602-x08_Horizontal|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RJ45_Amphenol_54602-x08_Horizontal', 'description': '8 Pol Shallow Latch Connector, Modjack, RJ45 (https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0102.pdf)', 'tags': 'RJ45', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Amphenol_54602-x08_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Amphenol_54602-x08_Horizontal/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Amphenol_54602-x08_Horizontal/kicadPcb3d_450.png

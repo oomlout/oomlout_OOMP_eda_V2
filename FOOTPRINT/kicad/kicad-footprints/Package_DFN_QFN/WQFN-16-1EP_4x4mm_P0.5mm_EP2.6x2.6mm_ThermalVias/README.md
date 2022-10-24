@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|WQFN-16-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WQFN-16-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNWQFN161EP4X4P5EP26X26THERMALVIAS|
-|Name|name|Package_DFN_QFN : WQFN-16-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias|
+|name|name|Package_DFN_QFN : WQFN-16-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias|
 |Footprint Kicad|footprintKicadDetails|{'name': 'WQFN-16-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias', 'description': 'WQFN, 16 Pin (http://www.ti.com/lit/ds/symlink/ldc1312.pdf#page=59), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'WQFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/WQFN-16-1EP_4x4mm_P0.5mm_EP2.6x2.6mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/WQFN-16-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/WQFN-16-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias/kicadPcb3d_450.png

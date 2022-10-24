@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|ONSemi_QSE15x|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-ONSemi_QSE15x|
 |Hex ID (short code)|hexID|FZKOPONSEMIQSE15X|
-|Name|name|OptoDevice : ONSemi_QSE15x|
+|name|name|OptoDevice : ONSemi_QSE15x|
 |Footprint Kicad|footprintKicadDetails|{'name': 'ONSemi_QSE15x', 'description': '3 Lead Plastic Package', 'tags': 'ONSemi QSE158 QSE159', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/ONSemi_QSE15x.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/ONSemi_QSE15x/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/ONSemi_QSE15x/kicadPcb3d_450.png

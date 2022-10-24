@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|L_Wuerth_HCI-1890|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCI-1890|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLWUERTHHCI189|
-|Name|name|Inductor_SMD : L_Wuerth_HCI-1890|
+|name|name|Inductor_SMD : L_Wuerth_HCI-1890|
 |Footprint Kicad|footprintKicadDetails|{'name': 'L_Wuerth_HCI-1890', 'description': 'Inductor, Wuerth Elektronik, Wuerth_HCI-1890, 18.2mmx18.2mm', 'tags': 'inductor Wuerth hci smd', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_HCI-1890.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_HCI-1890/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Wuerth_HCI-1890/kicadPcb3d_450.png

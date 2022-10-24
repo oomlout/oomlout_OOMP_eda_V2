@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC68HC812A4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_HC12-MC68HC812A4|
 |Hex ID (short code)|hexID|SZKMCUNXPHC12MC68HC812A4|
-|Name|name|MC68HC812A4|
+|name|name|MC68HC812A4|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC68HC812A4', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': '68HC12 Microcontroller', 'kicadSymbolki_description': 'HC12 Microcontroller 112 pins'}]|
 ||||

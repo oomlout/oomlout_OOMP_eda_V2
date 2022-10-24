@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAS19|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAS19|
 |Hex ID (short code)|hexID|SZKDIODEBAS19|
-|Name|name|BAS19|
+|name|name|BAS19|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BAS16W', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAS19', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/Ds12004.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '120V, 0.4A, High-speed Switching Diode, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

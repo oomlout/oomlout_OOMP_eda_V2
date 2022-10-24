@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|SC-82AA|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SC-82AA|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSC82AA|
-|Name|name|Package_TO_SOT_SMD : SC-82AA|
+|name|name|Package_TO_SOT_SMD : SC-82AA|
 |Footprint Kicad|footprintKicadDetails|{'name': 'SC-82AA', 'description': 'SC-82AA', 'tags': 'SC-82AA', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SC-82AA.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SC-82AA/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SC-82AA/kicadPcb3d_450.png

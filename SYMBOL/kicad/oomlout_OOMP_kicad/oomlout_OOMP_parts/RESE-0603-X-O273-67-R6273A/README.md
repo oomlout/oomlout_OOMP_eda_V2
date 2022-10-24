@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O273-67-R6273A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O273-67-R6273A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO27367R6273A|
-|Name|name|RESE-0603-X-O273-67-R6273A|
+|name|name|RESE-0603-X-O273-67-R6273A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O273-67-R6273A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O273-67-R6273A', 'kicadSymbolDatasheet': 'oom.lt/R6273A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6273A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

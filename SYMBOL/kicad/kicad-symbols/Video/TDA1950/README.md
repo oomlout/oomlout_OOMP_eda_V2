@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TDA1950|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Video-TDA1950|
 |Hex ID (short code)|hexID|SZKVIDEOTDA195|
-|Name|name|TDA1950|
+|name|name|TDA1950|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDA1950', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
 ||||

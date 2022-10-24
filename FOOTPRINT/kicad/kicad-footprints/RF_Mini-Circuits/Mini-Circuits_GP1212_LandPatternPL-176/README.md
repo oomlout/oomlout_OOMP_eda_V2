@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Mini-Circuits_GP1212_LandPatternPL-176|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_GP1212_LandPatternPL-176|
 |Hex ID (short code)|hexID|FZKRFMCIRCUITSGP1212LANDPATTERNPL176|
-|Name|name|RF_Mini-Circuits : Mini-Circuits_GP1212_LandPatternPL-176|
+|name|name|RF_Mini-Circuits : Mini-Circuits_GP1212_LandPatternPL-176|
 |Footprint Kicad|footprintKicadDetails|{'name': 'Mini-Circuits_GP1212_LandPatternPL-176', 'description': 'Footprint for Mini-Circuits case GP1212 (https://ww2.minicircuits.com/case_style/GP731.pdf) following land pattern PL-176, including GND vias (https://www.minicircuits.com/pcb/98-pl176.pdf)', 'tags': 'mini-circuits PL-176', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_GP1212.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAW76|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAW76|
 |Hex ID (short code)|hexID|SZKDIODEBAW76|
-|Name|name|BAW76|
+|name|name|BAW76|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N4001', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAW76', 'kicadSymbolFootprint': 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/85551/baw76.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '50V 0.3A Small Signal Fast Switching Diode, DO-35', 'kicadSymbolki_fp_filters': 'D*DO?35*'}]|
 ||||

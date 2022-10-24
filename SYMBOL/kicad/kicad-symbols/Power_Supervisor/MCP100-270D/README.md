@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP100-270D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP100-270D|
 |Hex ID (short code)|hexID|SZKPOWERSUPERVISORMCP127D|
-|Name|name|MCP100-270D|
+|name|name|MCP100-270D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP100-270D', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/11187f.pdf', 'kicadSymbolki_keywords': 'supervisor reset push-pull', 'kicadSymbolki_description': 'Microcontroller reset monitor, 2.70V threshold, active low output', 'kicadSymbolki_fp_filters': 'SOT?23* TO?92*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|A1366xKTTN-10|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-A1366xKTTN-10|
 |Hex ID (short code)|hexID|SZKSENCURRENTA1366XKTTN1|
-|Name|name|A1366xKTTN-10|
+|name|name|A1366xKTTN-10|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'A1363xKTTN-1', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'A1366xKTTN-10', 'kicadSymbolFootprint': 'Sensor_Current:Allegro_SIP-4', 'kicadSymbolDatasheet': 'http://www.allegromicro.com/~/media/Files/Datasheets/A1366-Datasheet.ashx?la=en', 'kicadSymbolki_keywords': 'hall effect current monitor sensor isolated', 'kicadSymbolki_description': 'Programmable Linear Hall Effect Sensor, +10mV/G, SIP-4', 'kicadSymbolki_fp_filters': 'Allegro*SIP*'}]|
 ||||

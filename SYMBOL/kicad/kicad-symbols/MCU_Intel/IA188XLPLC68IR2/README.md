@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IA188XLPLC68IR2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Intel-IA188XLPLC68IR2|
 |Hex ID (short code)|hexID|SZKMCUINTELIA188XLPLC68IR2|
-|Name|name|IA188XLPLC68IR2|
+|name|name|IA188XLPLC68IR2|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '80C188', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IA188XLPLC68IR2', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.innovasic.com/upload/products/Innovasic_IA186XL_IA188XL_Data_Sheet_20110706_2.pdf', 'kicadSymbolki_keywords': 'MPRO', 'kicadSymbolki_description': 'MCU Replacement for Intel 80C188XL', 'kicadSymbolki_fp_filters': 'PLCC* PGA*Layout11x11*P2.54mm* LCC*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|REF01EZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF01EZ|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGEREF1EZ|
-|Name|name|REF01EZ|
+|name|name|REF01EZ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'REF02AP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'REF01EZ', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/REF01_02_03.pdf', 'kicadSymbolki_keywords': 'Precision Voltage Reference 10V', 'kicadSymbolki_description': '10V ±30mV Precision Voltage Reference, CERDIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
 ||||

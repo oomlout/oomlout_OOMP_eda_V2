@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O204-67-R6204A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O204-67-R6204A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO2467R624A|
-|Name|name|RESE-0603-X-O204-67-R6204A|
+|name|name|RESE-0603-X-O204-67-R6204A|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O204-67-R6204A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O204-67-R6204A', 'kicadSymbolDatasheet': 'oom.lt/R6204A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6204A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

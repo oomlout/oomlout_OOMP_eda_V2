@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0805-X-NF70-V50-C8N70|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-NF70-V50-C8N70|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XNF7V5C8N7|
-|Name|name|CAPC-0805-X-NF70-V50-C8N70|
+|name|name|CAPC-0805-X-NF70-V50-C8N70|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0805-X-NF70-V50-C8N70', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0805-X-NF70-V50-C8N70', 'kicadSymbolDatasheet': 'oom.lt/C8N70', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C8N70;PARTL C-JLCC;C13967;MANUF C-XXXX;CL21B474KBFNNNE;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
 ||||

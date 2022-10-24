@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|RJ45_Amphenol_RJHSE5380|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Amphenol_RJHSE5380|
 |Hex ID (short code)|hexID|FZKCNRJRJ45AMPHENOLRJHSE538|
-|Name|name|Connector_RJ : RJ45_Amphenol_RJHSE5380|
+|name|name|Connector_RJ : RJ45_Amphenol_RJHSE5380|
 |Footprint Kicad|footprintKicadDetails|{'name': 'RJ45_Amphenol_RJHSE5380', 'description': 'Shielded, https://www.amphenolcanada.com/ProductSearch/drawings/AC/RJHSE538X.pdf', 'tags': 'RJ45 8p8c ethernet cat5', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Amphenol_RJHSE5380.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Amphenol_RJHSE5380/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Amphenol_RJHSE5380/kicadPcb3d_450.png

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|2SA1015|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SA1015|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJT2SA115|
-|Name|name|2SA1015|
+|name|name|2SA1015|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': '2SA1015', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://www.datasheetcatalog.org/datasheet/toshiba/905.pdf', 'kicadSymbolki_keywords': 'Low Noise Audio PNP Transistor', 'kicadSymbolki_description': '-0.15A Ic, -50V Vce, Low Noise Audio PNP Transistor, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
 ||||

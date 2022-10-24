@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|82C54_PLCC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-82C54_PLCC|
 |Hex ID (short code)|hexID|SZKTIMER82C54PLCC|
-|Name|name|82C54_PLCC|
+|name|name|82C54_PLCC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '82C54_PLCC', 'kicadSymbolFootprint': 'Package_LCC:PLCC-28', 'kicadSymbolDatasheet': 'http://download.intel.com/design/archives/periphrl/docs/23124406.pdf', 'kicadSymbolki_keywords': 'Timer Counter', 'kicadSymbolki_description': 'CHMOS Programmable Interval Timer, PLCC-28', 'kicadSymbolki_fp_filters': '*PLCC?28*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|QM6015D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-QM6015D|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETQM615D|
-|Name|name|QM6015D|
+|name|name|QM6015D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'QM6015D', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-2', 'kicadSymbolDatasheet': 'http://www.jaolen.com/images/pdf/QM6015D.pdf', 'kicadSymbolki_keywords': 'P-Channel MOSFET', 'kicadSymbolki_description': '-35A Id, -60V Vds, P-Channel Power MOSFET, 25mOhm Ron, 25.0nC Qg (typ), TO252', 'kicadSymbolki_fp_filters': 'TO?252*'}]|
 ||||

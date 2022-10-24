@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F1939-IML|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1939-IML|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F1939IML|
-|Name|name|PIC16F1939-IML|
+|name|name|PIC16F1939-IML|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC16F1934-IML', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F1939-IML', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41364E.pdf', 'kicadSymbolki_description': 'PIC16F193XLF193X - Flash-Based, 8-Bit CMOS Microcontrollers, QFN-44', 'kicadSymbolki_fp_filters': 'MLF*'}]|
 ||||

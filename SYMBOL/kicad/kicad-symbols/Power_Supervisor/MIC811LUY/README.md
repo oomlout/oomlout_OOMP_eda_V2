@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MIC811LUY|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Supervisor-MIC811LUY|
 |Hex ID (short code)|hexID|SZKPOWERSUPERVISORMIC811LUY|
-|Name|name|MIC811LUY|
+|name|name|MIC811LUY|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MIC811LUY', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-143', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/mic811.pdf', 'kicadSymbolki_keywords': 'Supervisor Reset', 'kicadSymbolki_description': 'Power supply supervisor, Manual reset, Threshold 4.63V, SOT-143', 'kicadSymbolki_fp_filters': 'SOT*143*'}]|
 ||||

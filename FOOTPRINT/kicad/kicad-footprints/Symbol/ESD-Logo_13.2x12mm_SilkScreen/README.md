@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ESD-Logo_13.2x12mm_SilkScreen|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-ESD-Logo_13.2x12mm_SilkScreen|
 |Hex ID (short code)|hexID|FZKSZESDL132X12SILKSCREEN|
-|Name|name|Symbol : ESD-Logo_13.2x12mm_SilkScreen|
+|name|name|Symbol : ESD-Logo_13.2x12mm_SilkScreen|
 |Footprint Kicad|footprintKicadDetails|{'name': 'ESD-Logo_13.2x12mm_SilkScreen', 'description': 'Electrostatic discharge Logo', 'tags': 'Logo ESD', 'attributeType': None, 'pins': {}}|
 ||||

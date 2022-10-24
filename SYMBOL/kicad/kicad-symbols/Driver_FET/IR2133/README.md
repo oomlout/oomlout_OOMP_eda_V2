@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IR2133|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-IR2133|
 |Hex ID (short code)|hexID|SZKDRIVERFETIR2133|
-|Name|name|IR2133|
+|name|name|IR2133|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IR2133', 'kicadSymbolFootprint': 'Package_DIP:DIP-28_W15.24mm', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-IR2x33-IR2x35-DataSheet-v01_00-EN.pdf?fileId=5546d462533600a4015355c890ba169f', 'kicadSymbolki_keywords': '3 Phase Gate Driver', 'kicadSymbolki_description': '600V, Vout 10-20V, PDIP-28', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AAT1217IGU-3.3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-AAT1217IGU-3.3|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGAAT1217IGU33|
-|Name|name|AAT1217IGU-3.3|
+|name|name|AAT1217IGU-3.3|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AAT1217IGU-3.3', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.skyworksinc.com/uploads/documents/AAT1217_202050B.pdf', 'kicadSymbolki_keywords': 'regulator step-up', 'kicadSymbolki_description': '600mA, 3.3V, 1.2MHz, Micropower Synchronous Step-Up Converter, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

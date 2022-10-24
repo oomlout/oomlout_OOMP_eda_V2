@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74AHC1G14|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-74AHC1G14|
 |Hex ID (short code)|hexID|SZK74XGXX74AHC1G14|
-|Name|name|74AHC1G14|
+|name|name|74AHC1G14|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LVC1G14', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AHC1G14', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/sn74lvc1g14.pdf', 'kicadSymbolki_keywords': 'Single Gate NOT Schmitt LVC CMOS', 'kicadSymbolki_description': 'Single Schmitt NOT Gate, Low-Voltage CMOS', 'kicadSymbolki_fp_filters': 'SOT* SG-*'}]|
 ||||

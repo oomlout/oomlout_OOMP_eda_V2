@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L_Iron_Coupled_Small_1243|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-L_Iron_Coupled_Small_1243|
 |Hex ID (short code)|hexID|SZKDEVICELIRONCOUPLSLL1243|
-|Name|name|L_Iron_Coupled_Small_1243|
+|name|name|L_Iron_Coupled_Small_1243|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'L', 'kicadSymbolValue': 'L_Iron_Coupled_Small_1243', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'inductor choke coil reactor magnetic coupled', 'kicadSymbolki_description': 'Coupled inductor with iron core, small symbol', 'kicadSymbolki_fp_filters': 'Choke_* *Coil* Inductor_* L_*'}]|
 ||||

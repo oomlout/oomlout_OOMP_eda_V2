@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CA3300|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-CA3300|
 |Hex ID (short code)|hexID|SZKANALOGADCCA33|
-|Name|name|CA3300|
+|name|name|CA3300|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CA3300', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'ADC CAN', 'kicadSymbolki_description': 'Convertisseur A->D 6 bits rapide'}]|
 ||||

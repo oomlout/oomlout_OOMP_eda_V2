@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS56339DDC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS56339DDC|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS56339DDC|
-|Name|name|TPS56339DDC|
+|name|name|TPS56339DDC|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS56339DDC', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/tps56339.pdf', 'kicadSymbolki_keywords': 'step-down dcdc voltage regulator', 'kicadSymbolki_description': '4.5V to 24V Input, 3-A Output Synchronous Buck Converter, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|INA333xxDRG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-INA333xxDRG|
 |Hex ID (short code)|hexID|SZKAMPLIFIERINSTRUMENTATIONINA333XXDRG|
-|Name|name|INA333xxDRG|
+|name|name|INA333xxDRG|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'INA333xxDRG', 'kicadSymbolFootprint': 'Package_SON:WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/ina333.pdf', 'kicadSymbolki_keywords': 'instrumentation opamp amplifier', 'kicadSymbolki_description': 'Zero Drift, Micropower Instrumentation Amplifier G = 1 + 100kOhm/Rg, WSON-8', 'kicadSymbolki_fp_filters': 'WSON*3x3mm*P0.5mm*'}]|
 ||||

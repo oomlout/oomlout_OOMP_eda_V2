@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP2050-500-EMQ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2050-500-EMQ|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINMCP255EMQ|
-|Name|name|MCP2050-500-EMQ|
+|name|name|MCP2050-500-EMQ|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP2050-330-EMQ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP2050-500-EMQ', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-20-1EP_5x5mm_P0.65mm_EP3.35x3.35mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/22299B.pdf', 'kicadSymbolki_keywords': 'LIN transceiver regulator', 'kicadSymbolki_description': 'LIN Transceiver with Voltage Regulator, 5V, QFN-20', 'kicadSymbolki_fp_filters': 'QFN*1EP*5x5mm*P0.65mm*'}]|
 ||||

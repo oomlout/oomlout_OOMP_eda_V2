@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O036D-01-R6036D|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O036D-01-R6036D|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO36D1R636D|
-|Name|name|RESE-0603-X-O036D-01-R6036D|
+|name|name|RESE-0603-X-O036D-01-R6036D|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O036D-01-R6036D', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O036D-01-R6036D', 'kicadSymbolDatasheet': 'oom.lt/R6036D', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6036D;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

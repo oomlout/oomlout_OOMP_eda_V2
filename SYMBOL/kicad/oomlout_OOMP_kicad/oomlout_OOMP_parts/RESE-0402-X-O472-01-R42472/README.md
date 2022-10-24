@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O472-01-R42472|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O472-01-R42472|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO4721R42472|
-|Name|name|RESE-0402-X-O472-01-R42472|
+|name|name|RESE-0402-X-O472-01-R42472|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O472-01-R42472', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O472-01-R42472', 'kicadSymbolDatasheet': 'oom.lt/R42472', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R42472;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
 ||||

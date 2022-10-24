@@ -29,10 +29,10 @@
 |OOMP Index|oompIndex|KCSC02-107|
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-KCSC02-107|
 |Hex ID (short code)|hexID|FZKDI7SKCSC217|
-|Name|name|Display_7Segment : KCSC02-107|
+|name|name|Display_7Segment : KCSC02-107|
 |Footprint Kicad|footprintKicadDetails|{'name': 'KCSC02-107', 'description': 'http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSC02-107(Ver.9A).pdf', 'tags': 'Single digit 7 segement super bright yellow LED', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/KCSC02-107.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
 ||||
 
 
 
-[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display_7Segment/KCSC02-107/kicadPcb3d_450.png
+[im]: FOOTPRINT/kicad/kicad-footprints/Display_7Segment/KCSC02-107/kicadPcb3d_450.png

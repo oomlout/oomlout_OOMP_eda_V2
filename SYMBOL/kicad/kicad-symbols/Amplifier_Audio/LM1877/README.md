@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM1877|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM1877|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOLM1877|
-|Name|name|LM1877|
+|name|name|LM1877|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM1877', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm1877.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'audio amplifier 2ch', 'kicadSymbolki_description': 'Dual Audio Power Amplifier, PDIP-14/SOIC-14', 'kicadSymbolki_fp_filters': 'SOIC*7.5x9mm*P1.27mm* DIP*W7.62mm*'}]|
 ||||

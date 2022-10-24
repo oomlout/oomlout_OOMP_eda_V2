@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|R_Photo|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-R_Photo|
 |Hex ID (short code)|hexID|SZKDEVICERPHOTO|
-|Name|name|R_Photo|
+|name|name|R_Photo|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'R_Photo', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'resistor variable light sensitive opto LDR', 'kicadSymbolki_description': 'Photoresistor', 'kicadSymbolki_fp_filters': '*LDR* R?LDR*'}]|
 ||||

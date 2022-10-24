@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPA6132A2RTE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TPA6132A2RTE|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOTPA6132A2RTE|
-|Name|name|TPA6132A2RTE|
+|name|name|TPA6132A2RTE|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPA6132A2RTE', 'kicadSymbolFootprint': 'Package_DFN_QFN:WQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm_ThermalVias', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/tpa6132a2.pdf', 'kicadSymbolki_keywords': 'DirectPath audio amplifier Stereo', 'kicadSymbolki_description': '25mW, Stereo, DirectPath Audio Amplifier, WQFN-16', 'kicadSymbolki_fp_filters': 'WQFN*1EP*3x3mm*P0.5mm*'}]|
 ||||

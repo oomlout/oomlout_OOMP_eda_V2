@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CPC1017N|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay_SolidState-CPC1017N|
 |Hex ID (short code)|hexID|SZKRELAYSOLIDSTATECPC117N|
-|Name|name|CPC1017N|
+|name|name|CPC1017N|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CPC1017N', 'kicadSymbolFootprint': 'Package_SO:SOP-4_3.8x4.1mm_P2.54mm', 'kicadSymbolDatasheet': 'http://www.ixysic.com/home/pdfs.nsf/www/CPC1017N.pdf/$file/CPC1017N.pdf', 'kicadSymbolki_keywords': 'MOSFET Output Photorelay 1-Form-A', 'kicadSymbolki_description': 'Form A, Solid State Relay (Photo MOSFET) 60V, 0.1A, 16Ohm, SO-4', 'kicadSymbolki_fp_filters': 'SOP*3.8x4.1mm*P2.54mm*'}]|
 ||||

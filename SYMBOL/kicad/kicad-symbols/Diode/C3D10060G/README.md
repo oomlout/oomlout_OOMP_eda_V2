@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C3D10060G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-C3D10060G|
 |Hex ID (short code)|hexID|SZKDIODEC3D16G|
-|Name|name|C3D10060G|
+|name|name|C3D10060G|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'C3D06060G', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'C3D10060G', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-2_TabPin1', 'kicadSymbolDatasheet': 'https://www.wolfspeed.com/media/downloads/143/C3D10060G.pdf', 'kicadSymbolki_keywords': 'sic diode', 'kicadSymbolki_description': '600V, 10A, SiC Schottky Diode, TO-263', 'kicadSymbolki_fp_filters': 'TO?263*TabPin1*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADTL1-15-75|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-ADTL1-15-75|
 |Hex ID (short code)|hexID|SZKTRADTL11575|
-|Name|name|ADTL1-15-75|
+|name|name|ADTL1-15-75|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TR', 'kicadSymbolValue': 'ADTL1-15-75', 'kicadSymbolFootprint': 'RF_Mini-Circuits:Mini-Circuits_CD542_H2.84mm', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/ADTL1-15-75+.pdf', 'kicadSymbolki_keywords': 'Mini-Circuits RF Transformer', 'kicadSymbolki_description': '10-1500MHz 1:1 RF Transformer, Balanced Transmission Line, CD542', 'kicadSymbolki_fp_filters': 'Mini?Circuits*CD542*'}]|
 ||||

@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM1875|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM1875|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOLM1875|
-|Name|name|LM1875|
+|name|name|LM1875|
 |Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM1875', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm1875.pdf', 'kicadSymbolki_keywords': 'audio amplifier', 'kicadSymbolki_description': '20W Audio Power Amplifier, TO-220-5', 'kicadSymbolki_fp_filters': 'TO?220*StaggerOdd*'}]|
 ||||
