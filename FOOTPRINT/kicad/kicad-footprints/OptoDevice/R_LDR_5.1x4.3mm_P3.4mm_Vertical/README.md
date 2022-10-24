@@ -1,0 +1,38 @@
+
+
+
+  
+![][im]
+# FZKOPRLDR51X43P34VERTICAL > OptoDevice : R_LDR_5.1x4.3mm_P3.4mm_Vertical
+
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_5.1x4.3mm_P3.4mm_Vertical
+- Hex ID: FZKOPRLDR51X43P34VERTICAL
+- Name: OptoDevice : R_LDR_5.1x4.3mm_P3.4mm_Vertical
+- Description: OptoDevice : R_LDR_5.1x4.3mm_P3.4mm_Vertical
+- Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_5.1x4.3mm_P3.4mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_5.1x4.3mm_P3.4mm_Vertical)
+- Short Link: [http://oom.lt/FZKOPRLDR51X43P34VERTICAL](http://oom.lt/FZKOPRLDR51X43P34VERTICAL)
+  
+
+|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/R_LDR_5.1x4.3mm_P3.4mm_Vertical/image.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/R_LDR_5.1x4.3mm_P3.4mm_Vertical/kicadPcb3dFront.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/R_LDR_5.1x4.3mm_P3.4mm_Vertical/kicadPcb3dBack.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/R_LDR_5.1x4.3mm_P3.4mm_Vertical/kicadPcb3d.png|
+| :---: | :---: | :---: | :---: |
+|||||
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-footprints|
+|OOMP Description|oompDesc|OptoDevice|
+|OOMP Index|oompIndex|R_LDR_5.1x4.3mm_P3.4mm_Vertical|
+|Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_5.1x4.3mm_P3.4mm_Vertical|
+|Hex ID (short code)|hexID|FZKOPRLDR51X43P34VERTICAL|
+|Name|name|OptoDevice : R_LDR_5.1x4.3mm_P3.4mm_Vertical|
+|Footprint Kicad|footprintKicadDetails|{'name': 'R_LDR_5.1x4.3mm_P3.4mm_Vertical', 'description': 'Resistor, LDR 5.1x3.4mm, see http://yourduino.com/docs/Photoresistor-5516-datasheet.pdf', 'tags': 'Resistor LDR5.1x3.4mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/R_LDR_5.1x4.3mm_P3.4mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+||||
+
+
+
+[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/R_LDR_5.1x4.3mm_P3.4mm_Vertical/kicadPcb3d_450.png

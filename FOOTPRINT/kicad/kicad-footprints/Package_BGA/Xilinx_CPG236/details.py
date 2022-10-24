@@ -1,0 +1,31 @@
+
+######  Auto translated oomp file
+
+def load(newPart):
+    oType = "FOOTPRINT"
+    oSize = "kicad"
+    oColor = "kicad-footprints"
+    oDesc = "Package_BGA"
+    oIndex = "Xilinx_CPG236"
+    hexID = "FZKBGAXILINXCPG236"
+
+    newPart['oompType'].append(oType)
+    newPart['oompSize'].append(oSize)
+    newPart['oompColor'].append(oColor)
+    newPart['oompDesc'].append(oDesc)
+    newPart['oompIndex'].append(oIndex)
+    oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
+    newPart['oompID'].append(oompID)
+
+    newPart['footprintKicadDetails'].append({'name': 'Xilinx_CPG236', 'description': 'Artix-7 BGA, 19x19 grid, 10x10mm package, 0.5mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=266, NSMD pad definition Appendix A', 'tags': 'BGA 238 0.5 CP236 CPG236', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_CPG236.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}})
+    newPart['name'].append('Package_BGA : Xilinx_CPG236')
+
+
+    ######  Common
+    newPart['hexID'].append(hexID)
+
+    ######  Housekeeping
+    #OOMPtags.addTags(newPart,oompId)
+
+    return newPart
+

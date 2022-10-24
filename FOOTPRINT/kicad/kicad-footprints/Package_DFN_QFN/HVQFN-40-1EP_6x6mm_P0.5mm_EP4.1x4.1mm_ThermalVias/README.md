@@ -1,0 +1,38 @@
+
+
+
+  
+![][im]
+# FZKDFNHVQFN41EP6X6P5EP41X41THERMALVIAS > Package_DFN_QFN : HVQFN-40-1EP_6x6mm_P0.5mm_EP4.1x4.1mm_ThermalVias
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-HVQFN-40-1EP_6x6mm_P0.5mm_EP4.1x4.1mm_ThermalVias
+- Hex ID: FZKDFNHVQFN41EP6X6P5EP41X41THERMALVIAS
+- Name: Package_DFN_QFN : HVQFN-40-1EP_6x6mm_P0.5mm_EP4.1x4.1mm_ThermalVias
+- Description: Package_DFN_QFN : HVQFN-40-1EP_6x6mm_P0.5mm_EP4.1x4.1mm_ThermalVias
+- Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-HVQFN-40-1EP_6x6mm_P0.5mm_EP4.1x4.1mm_ThermalVias](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-HVQFN-40-1EP_6x6mm_P0.5mm_EP4.1x4.1mm_ThermalVias)
+- Short Link: [http://oom.lt/FZKDFNHVQFN41EP6X6P5EP41X41THERMALVIAS](http://oom.lt/FZKDFNHVQFN41EP6X6P5EP41X41THERMALVIAS)
+  
+
+|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/HVQFN-40-1EP_6x6mm_P0.5mm_EP4.1x4.1mm_ThermalVias/image.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/HVQFN-40-1EP_6x6mm_P0.5mm_EP4.1x4.1mm_ThermalVias/kicadPcb3dFront.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/HVQFN-40-1EP_6x6mm_P0.5mm_EP4.1x4.1mm_ThermalVias/kicadPcb3dBack.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/HVQFN-40-1EP_6x6mm_P0.5mm_EP4.1x4.1mm_ThermalVias/kicadPcb3d.png|
+| :---: | :---: | :---: | :---: |
+|||||
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-footprints|
+|OOMP Description|oompDesc|Package_DFN_QFN|
+|OOMP Index|oompIndex|HVQFN-40-1EP_6x6mm_P0.5mm_EP4.1x4.1mm_ThermalVias|
+|Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-HVQFN-40-1EP_6x6mm_P0.5mm_EP4.1x4.1mm_ThermalVias|
+|Hex ID (short code)|hexID|FZKDFNHVQFN41EP6X6P5EP41X41THERMALVIAS|
+|Name|name|Package_DFN_QFN : HVQFN-40-1EP_6x6mm_P0.5mm_EP4.1x4.1mm_ThermalVias|
+|Footprint Kicad|footprintKicadDetails|{'name': 'HVQFN-40-1EP_6x6mm_P0.5mm_EP4.1x4.1mm_ThermalVias', 'description': 'HVQFN, 40 Pin (https://www.nxp.com/docs/en/package-information/SOT618-1.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'HVQFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/HVQFN-40-1EP_6x6mm_P0.5mm_EP4.1x4.1mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+||||
+
+
+
+[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/HVQFN-40-1EP_6x6mm_P0.5mm_EP4.1x4.1mm_ThermalVias/kicadPcb3d_450.png

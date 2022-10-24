@@ -1,0 +1,38 @@
+
+
+
+  
+![][im]
+# FZKOPHAMAMATSUC1288 > OptoDevice : Hamamatsu_C12880
+
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Hamamatsu_C12880
+- Hex ID: FZKOPHAMAMATSUC1288
+- Name: OptoDevice : Hamamatsu_C12880
+- Description: OptoDevice : Hamamatsu_C12880
+- Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Hamamatsu_C12880](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-OptoDevice-Hamamatsu_C12880)
+- Short Link: [http://oom.lt/FZKOPHAMAMATSUC1288](http://oom.lt/FZKOPHAMAMATSUC1288)
+  
+
+|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Hamamatsu_C12880/image.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Hamamatsu_C12880/kicadPcb3dFront.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Hamamatsu_C12880/kicadPcb3dBack.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Hamamatsu_C12880/kicadPcb3d.png|
+| :---: | :---: | :---: | :---: |
+|||||
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-footprints|
+|OOMP Description|oompDesc|OptoDevice|
+|OOMP Index|oompIndex|Hamamatsu_C12880|
+|Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Hamamatsu_C12880|
+|Hex ID (short code)|hexID|FZKOPHAMAMATSUC1288|
+|Name|name|OptoDevice : Hamamatsu_C12880|
+|Footprint Kicad|footprintKicadDetails|{'name': 'Hamamatsu_C12880', 'description': 'Hamamatsu spectrometer, see http://www.hamamatsu.com/resources/pdf/ssd/c12880ma_kacc1226e.pdf', 'tags': 'opto spectrometer Hamamatsu', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Hamamatsu_C12880.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+||||
+
+
+
+[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Hamamatsu_C12880/kicadPcb3d_450.png
