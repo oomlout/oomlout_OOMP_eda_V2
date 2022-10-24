@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# FZKVRVDISCD12W46P75 > Varistor : RV_Disc_D12mm_W4.6mm_P7.5mm
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Varistor-RV_Disc_D12mm_W4.6mm_P7.5mm
+- Hex ID: FZKVRVDISCD12W46P75
+- Name: Varistor : RV_Disc_D12mm_W4.6mm_P7.5mm
+- Description: Varistor : RV_Disc_D12mm_W4.6mm_P7.5mm
+- Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Varistor-RV_Disc_D12mm_W4.6mm_P7.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Varistor-RV_Disc_D12mm_W4.6mm_P7.5mm)
+- Short Link: [http://oom.lt/FZKVRVDISCD12W46P75](http://oom.lt/FZKVRVDISCD12W46P75)
+  
+
+|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D12mm_W4.6mm_P7.5mm/image.png||||
+| :---: | :---: | :---: | :---: |
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-footprints|
+|OOMP Description|oompDesc|Varistor|
+|OOMP Index|oompIndex|RV_Disc_D12mm_W4.6mm_P7.5mm|
+|Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Varistor-RV_Disc_D12mm_W4.6mm_P7.5mm|
+|Hex ID (short code)|hexID|FZKVRVDISCD12W46P75|
+|Name|name|Varistor : RV_Disc_D12mm_W4.6mm_P7.5mm|
+|Footprint Kicad|footprintKicadDetails|{'name': 'RV_Disc_D12mm_W4.6mm_P7.5mm', 'description': 'Varistor, diameter 12mm, width 4.6mm, pitch 7.5mm', 'tags': 'varistor SIOV', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Varistor.3dshapes/RV_Disc_D12mm_W4.6mm_P7.5mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+||||
