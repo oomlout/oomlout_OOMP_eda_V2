@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# FZKTBRNDTBRND252831X9P5VERTICAL > TerminalBlock_RND : TerminalBlock_RND_205-00283_1x09_P5.00mm_Vertical
+
+- ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_RND-TerminalBlock_RND_205-00283_1x09_P5.00mm_Vertical
+- Hex ID: FZKTBRNDTBRND252831X9P5VERTICAL
+- Name: TerminalBlock_RND : TerminalBlock_RND_205-00283_1x09_P5.00mm_Vertical
+- Description: TerminalBlock_RND : TerminalBlock_RND_205-00283_1x09_P5.00mm_Vertical
+- Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_RND-TerminalBlock_RND_205-00283_1x09_P5.00mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_RND-TerminalBlock_RND_205-00283_1x09_P5.00mm_Vertical)
+- Short Link: [http://oom.lt/FZKTBRNDTBRND252831X9P5VERTICAL](http://oom.lt/FZKTBRNDTBRND252831X9P5VERTICAL)
+  
+
+|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_RND/TerminalBlock_RND_205-00283_1x09_P5.00mm_Vertical/image.png||||
+| :---: | :---: | :---: | :---: |
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-footprints|
+|OOMP Description|oompDesc|TerminalBlock_RND|
+|OOMP Index|oompIndex|TerminalBlock_RND_205-00283_1x09_P5.00mm_Vertical|
+|Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TerminalBlock_RND-TerminalBlock_RND_205-00283_1x09_P5.00mm_Vertical|
+|Hex ID (short code)|hexID|FZKTBRNDTBRND252831X9P5VERTICAL|
+|Name|name|TerminalBlock_RND : TerminalBlock_RND_205-00283_1x09_P5.00mm_Vertical|
+|Footprint Kicad|footprintKicadDetails|{'name': 'TerminalBlock_RND_205-00283_1x09_P5.00mm_Vertical', 'description': 'terminal block RND 205-00085, vertical (cable from top), 9 pins, pitch 5mm, size 45x10mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00276_DB_EN.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND', 'tags': 'THT terminal block RND 205-00085 vertical pitch 5mm size 45x10mm^2 drill 1.3mm pad 2.5mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00283_1x09_P5.00mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+||||

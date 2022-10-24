@@ -1,0 +1,31 @@
+
+######  Auto translated oomp file
+
+def load(newPart):
+    oType = "FOOTPRINT"
+    oSize = "kicad"
+    oColor = "kicad-footprints"
+    oDesc = "Transformer_SMD"
+    oIndex = "Pulse_PA2006NL"
+    hexID = "FZKTRSMPULSEPA26NL"
+
+    newPart['oompType'].append(oType)
+    newPart['oompSize'].append(oSize)
+    newPart['oompColor'].append(oColor)
+    newPart['oompDesc'].append(oDesc)
+    newPart['oompIndex'].append(oIndex)
+    oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
+    newPart['oompID'].append(oompID)
+
+    newPart['footprintKicadDetails'].append({'name': 'Pulse_PA2006NL', 'description': 'SMT Gate Drive Transformer, 1:1, 11.8x8.8x4.0mm (https://productfinder.pulseeng.com/products/datasheets/P663.pdf)', 'tags': 'pulse pa2006nl pa0186nl', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Pulse_PA2006NL.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}})
+    newPart['name'].append('Transformer_SMD : Pulse_PA2006NL')
+
+
+    ######  Common
+    newPart['hexID'].append(hexID)
+
+    ######  Housekeeping
+    #OOMPtags.addTags(newPart,oompId)
+
+    return newPart
+

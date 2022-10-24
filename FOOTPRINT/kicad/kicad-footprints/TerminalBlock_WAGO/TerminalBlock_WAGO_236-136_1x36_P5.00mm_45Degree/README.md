@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# FZKTBWAGOTBWAGO2361361X36P545DEGREE > TerminalBlock_WAGO : TerminalBlock_WAGO_236-136_1x36_P5.00mm_45Degree
+
+- ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_WAGO-TerminalBlock_WAGO_236-136_1x36_P5.00mm_45Degree
+- Hex ID: FZKTBWAGOTBWAGO2361361X36P545DEGREE
+- Name: TerminalBlock_WAGO : TerminalBlock_WAGO_236-136_1x36_P5.00mm_45Degree
+- Description: TerminalBlock_WAGO : TerminalBlock_WAGO_236-136_1x36_P5.00mm_45Degree
+- Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_WAGO-TerminalBlock_WAGO_236-136_1x36_P5.00mm_45Degree](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_WAGO-TerminalBlock_WAGO_236-136_1x36_P5.00mm_45Degree)
+- Short Link: [http://oom.lt/FZKTBWAGOTBWAGO2361361X36P545DEGREE](http://oom.lt/FZKTBWAGOTBWAGO2361361X36P545DEGREE)
+  
+
+|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_236-136_1x36_P5.00mm_45Degree/image.png||||
+| :---: | :---: | :---: | :---: |
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-footprints|
+|OOMP Description|oompDesc|TerminalBlock_WAGO|
+|OOMP Index|oompIndex|TerminalBlock_WAGO_236-136_1x36_P5.00mm_45Degree|
+|Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TerminalBlock_WAGO-TerminalBlock_WAGO_236-136_1x36_P5.00mm_45Degree|
+|Hex ID (short code)|hexID|FZKTBWAGOTBWAGO2361361X36P545DEGREE|
+|Name|name|TerminalBlock_WAGO : TerminalBlock_WAGO_236-136_1x36_P5.00mm_45Degree|
+|Footprint Kicad|footprintKicadDetails|{'name': 'TerminalBlock_WAGO_236-136_1x36_P5.00mm_45Degree', 'description': 'Terminal Block WAGO 236-136, 45Degree (cable under 45degree), 36 pins, pitch 5mm, size 182x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO', 'tags': 'THT Terminal Block WAGO 236-136 45Degree pitch 5mm size 182x14mm^2 drill 1.15mm pad 3mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/TerminalBlock_WAGO.3dshapes/TerminalBlock_WAGO_236-136_1x36_P5.00mm_45Degree.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+||||
