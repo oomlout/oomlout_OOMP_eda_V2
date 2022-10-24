@@ -1,0 +1,38 @@
+
+
+
+  
+![][im]
+# FZKSIPSIP4SHARPSSRP762ANGLNOHOLE > Package_SIP : SIP4_Sharp-SSR_P7.62mm_Angled_NoHole
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP4_Sharp-SSR_P7.62mm_Angled_NoHole
+- Hex ID: FZKSIPSIP4SHARPSSRP762ANGLNOHOLE
+- Name: Package_SIP : SIP4_Sharp-SSR_P7.62mm_Angled_NoHole
+- Description: Package_SIP : SIP4_Sharp-SSR_P7.62mm_Angled_NoHole
+- Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP4_Sharp-SSR_P7.62mm_Angled_NoHole](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP4_Sharp-SSR_P7.62mm_Angled_NoHole)
+- Short Link: [http://oom.lt/FZKSIPSIP4SHARPSSRP762ANGLNOHOLE](http://oom.lt/FZKSIPSIP4SHARPSSRP762ANGLNOHOLE)
+  
+
+|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Angled_NoHole/image.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Angled_NoHole/kicadPcb3dFront.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Angled_NoHole/kicadPcb3dBack.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Angled_NoHole/kicadPcb3d.png|
+| :---: | :---: | :---: | :---: |
+|||||
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-footprints|
+|OOMP Description|oompDesc|Package_SIP|
+|OOMP Index|oompIndex|SIP4_Sharp-SSR_P7.62mm_Angled_NoHole|
+|Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP4_Sharp-SSR_P7.62mm_Angled_NoHole|
+|Hex ID (short code)|hexID|FZKSIPSIP4SHARPSSRP762ANGLNOHOLE|
+|Name|name|Package_SIP : SIP4_Sharp-SSR_P7.62mm_Angled_NoHole|
+|Footprint Kicad|footprintKicadDetails|{'name': 'SIP4_Sharp-SSR_P7.62mm_Angled_NoHole', 'description': 'SIP4 Footprint for SSR made by Sharp', 'tags': 'Solid State relais SSR Sharp', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/SIP4_Sharp-SSR_P7.62mm_Angled.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+||||
+
+
+
+[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Angled_NoHole/kicadPcb3d_450.png

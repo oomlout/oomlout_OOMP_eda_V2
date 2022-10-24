@@ -1,0 +1,38 @@
+
+
+
+  
+![][im]
+# FZKSOTTO184LENS > Package_TO_SOT_THT : TO-18-4_Lens
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-18-4_Lens
+- Hex ID: FZKSOTTO184LENS
+- Name: Package_TO_SOT_THT : TO-18-4_Lens
+- Description: Package_TO_SOT_THT : TO-18-4_Lens
+- Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-18-4_Lens](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-18-4_Lens)
+- Short Link: [http://oom.lt/FZKSOTTO184LENS](http://oom.lt/FZKSOTTO184LENS)
+  
+
+|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-18-4_Lens/image.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-18-4_Lens/kicadPcb3dFront.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-18-4_Lens/kicadPcb3dBack.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-18-4_Lens/kicadPcb3d.png|
+| :---: | :---: | :---: | :---: |
+|||||
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-footprints|
+|OOMP Description|oompDesc|Package_TO_SOT_THT|
+|OOMP Index|oompIndex|TO-18-4_Lens|
+|Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-18-4_Lens|
+|Hex ID (short code)|hexID|FZKSOTTO184LENS|
+|Name|name|Package_TO_SOT_THT : TO-18-4_Lens|
+|Footprint Kicad|footprintKicadDetails|{'name': 'TO-18-4_Lens', 'description': 'TO-18-4_Lens, Lens', 'tags': 'TO-18-4_Lens Lens', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-18-4_Lens.wrl', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
+||||
+
+
+
+[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-18-4_Lens/kicadPcb3d_450.png

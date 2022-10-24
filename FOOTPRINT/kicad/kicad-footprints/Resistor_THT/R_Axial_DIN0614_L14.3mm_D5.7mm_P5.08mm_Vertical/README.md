@@ -1,0 +1,38 @@
+
+
+
+  
+![][im]
+# FZKRRAXIALDIN614L143D57P58VERTICAL > Resistor_THT : R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical
+- Hex ID: FZKRRAXIALDIN614L143D57P58VERTICAL
+- Name: Resistor_THT : R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical
+- Description: Resistor_THT : R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical
+- Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical)
+- Short Link: [http://oom.lt/FZKRRAXIALDIN614L143D57P58VERTICAL](http://oom.lt/FZKRRAXIALDIN614L143D57P58VERTICAL)
+  
+
+|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical/image.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical/kicadPcb3dFront.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical/kicadPcb3dBack.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical/kicadPcb3d.png|
+| :---: | :---: | :---: | :---: |
+|||||
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-footprints|
+|OOMP Description|oompDesc|Resistor_THT|
+|OOMP Index|oompIndex|R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical|
+|Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical|
+|Hex ID (short code)|hexID|FZKRRAXIALDIN614L143D57P58VERTICAL|
+|Name|name|Resistor_THT : R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical|
+|Footprint Kicad|footprintKicadDetails|{'name': 'R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical', 'description': 'Resistor, Axial_DIN0614 series, Axial, Vertical, pin pitch=5.08mm, 1.5W, length*diameter=14.3*5.7mm^2', 'tags': 'Resistor Axial_DIN0614 series Axial Vertical pin pitch 5.08mm 1.5W length 14.3mm diameter 5.7mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+||||
+
+
+
+[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical/kicadPcb3d_450.png

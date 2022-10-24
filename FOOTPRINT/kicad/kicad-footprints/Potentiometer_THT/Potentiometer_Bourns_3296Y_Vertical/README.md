@@ -1,0 +1,38 @@
+
+
+
+  
+![][im]
+# FZKPPOTENTIOMETERBOURNS3296YVERTICAL > Potentiometer_THT : Potentiometer_Bourns_3296Y_Vertical
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_3296Y_Vertical
+- Hex ID: FZKPPOTENTIOMETERBOURNS3296YVERTICAL
+- Name: Potentiometer_THT : Potentiometer_Bourns_3296Y_Vertical
+- Description: Potentiometer_THT : Potentiometer_Bourns_3296Y_Vertical
+- Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_3296Y_Vertical](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_3296Y_Vertical)
+- Short Link: [http://oom.lt/FZKPPOTENTIOMETERBOURNS3296YVERTICAL](http://oom.lt/FZKPPOTENTIOMETERBOURNS3296YVERTICAL)
+  
+
+|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Bourns_3296Y_Vertical/image.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Bourns_3296Y_Vertical/kicadPcb3dFront.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Bourns_3296Y_Vertical/kicadPcb3dBack.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Bourns_3296Y_Vertical/kicadPcb3d.png|
+| :---: | :---: | :---: | :---: |
+|||||
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-footprints|
+|OOMP Description|oompDesc|Potentiometer_THT|
+|OOMP Index|oompIndex|Potentiometer_Bourns_3296Y_Vertical|
+|Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_3296Y_Vertical|
+|Hex ID (short code)|hexID|FZKPPOTENTIOMETERBOURNS3296YVERTICAL|
+|Name|name|Potentiometer_THT : Potentiometer_Bourns_3296Y_Vertical|
+|Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Bourns_3296Y_Vertical', 'description': 'Potentiometer, vertical, Bourns 3296Y, https://www.bourns.com/pdfs/3296.pdf', 'tags': 'Potentiometer vertical Bourns 3296Y', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3296Y_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+||||
+
+
+
+[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Bourns_3296Y_Vertical/kicadPcb3d_450.png

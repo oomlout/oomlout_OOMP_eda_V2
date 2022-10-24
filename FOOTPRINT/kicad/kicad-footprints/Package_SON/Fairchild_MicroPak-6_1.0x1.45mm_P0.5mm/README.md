@@ -1,0 +1,38 @@
+
+
+
+  
+![][im]
+# FZKSONFAIRCHILDMPAK61X145P5 > Package_SON : Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm
+- Hex ID: FZKSONFAIRCHILDMPAK61X145P5
+- Name: Package_SON : Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm
+- Description: Package_SON : Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm
+- Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_SON-Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm)
+- Short Link: [http://oom.lt/FZKSONFAIRCHILDMPAK61X145P5](http://oom.lt/FZKSONFAIRCHILDMPAK61X145P5)
+  
+
+|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm/image.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm/kicadPcb3dFront.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm/kicadPcb3dBack.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm/kicadPcb3d.png|
+| :---: | :---: | :---: | :---: |
+|||||
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-footprints|
+|OOMP Description|oompDesc|Package_SON|
+|OOMP Index|oompIndex|Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm|
+|Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm|
+|Hex ID (short code)|hexID|FZKSONFAIRCHILDMPAK61X145P5|
+|Name|name|Package_SON : Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm|
+|Footprint Kicad|footprintKicadDetails|{'name': 'Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm', 'description': 'Fairchild-specific MicroPak-6 1.0x1.45mm Pitch 0.5mm https://www.nxp.com/docs/en/application-note/AN10343.pdff', 'tags': 'Fairchild-specific MicroPak-6 1.0x1.45mm Pitch 0.5mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+||||
+
+
+
+[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm/kicadPcb3d_450.png

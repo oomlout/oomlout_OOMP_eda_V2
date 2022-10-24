@@ -1,0 +1,38 @@
+
+
+
+  
+![][im]
+# FZKRELRELAYSPSTPANASONICJW1FORMA > Relay_THT : Relay_SPST_Panasonic_JW1_FormA
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_Panasonic_JW1_FormA
+- Hex ID: FZKRELRELAYSPSTPANASONICJW1FORMA
+- Name: Relay_THT : Relay_SPST_Panasonic_JW1_FormA
+- Description: Relay_THT : Relay_SPST_Panasonic_JW1_FormA
+- Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_Panasonic_JW1_FormA](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_Panasonic_JW1_FormA)
+- Short Link: [http://oom.lt/FZKRELRELAYSPSTPANASONICJW1FORMA](http://oom.lt/FZKRELRELAYSPSTPANASONICJW1FORMA)
+  
+
+|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Panasonic_JW1_FormA/image.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Panasonic_JW1_FormA/kicadPcb3dFront.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Panasonic_JW1_FormA/kicadPcb3dBack.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Panasonic_JW1_FormA/kicadPcb3d.png|
+| :---: | :---: | :---: | :---: |
+|||||
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-footprints|
+|OOMP Description|oompDesc|Relay_THT|
+|OOMP Index|oompIndex|Relay_SPST_Panasonic_JW1_FormA|
+|Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_Panasonic_JW1_FormA|
+|Hex ID (short code)|hexID|FZKRELRELAYSPSTPANASONICJW1FORMA|
+|Name|name|Relay_THT : Relay_SPST_Panasonic_JW1_FormA|
+|Footprint Kicad|footprintKicadDetails|{'name': 'Relay_SPST_Panasonic_JW1_FormA', 'description': 'Panasonic Relay SPST, http://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_jw.pdf?via=ok', 'tags': 'Panasonic Relay SPST', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPST_Panasonic_JW1_FormA.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+||||
+
+
+
+[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Panasonic_JW1_FormA/kicadPcb3d_450.png

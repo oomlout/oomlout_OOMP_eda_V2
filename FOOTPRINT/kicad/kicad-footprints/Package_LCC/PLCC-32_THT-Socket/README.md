@@ -1,0 +1,38 @@
+
+
+
+  
+![][im]
+# FZKLCCPLCC32THTSO > Package_LCC : PLCC-32_THT-Socket
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-32_THT-Socket
+- Hex ID: FZKLCCPLCC32THTSO
+- Name: Package_LCC : PLCC-32_THT-Socket
+- Description: Package_LCC : PLCC-32_THT-Socket
+- Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-32_THT-Socket](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-32_THT-Socket)
+- Short Link: [http://oom.lt/FZKLCCPLCC32THTSO](http://oom.lt/FZKLCCPLCC32THTSO)
+  
+
+|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-32_THT-Socket/image.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-32_THT-Socket/kicadPcb3dFront.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-32_THT-Socket/kicadPcb3dBack.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-32_THT-Socket/kicadPcb3d.png|
+| :---: | :---: | :---: | :---: |
+|||||
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-footprints|
+|OOMP Description|oompDesc|Package_LCC|
+|OOMP Index|oompIndex|PLCC-32_THT-Socket|
+|Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-32_THT-Socket|
+|Hex ID (short code)|hexID|FZKLCCPLCC32THTSO|
+|Name|name|Package_LCC : PLCC-32_THT-Socket|
+|Footprint Kicad|footprintKicadDetails|{'name': 'PLCC-32_THT-Socket', 'description': 'PLCC, 32 pins, through hole, http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0981_CO.pdf', 'tags': 'plcc leaded', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LCC.3dshapes/PLCC-32_THT-Socket.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+||||
+
+
+
+[im]: oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LCC/PLCC-32_THT-Socket/kicadPcb3d_450.png
