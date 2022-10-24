@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# FZKRFMCIRCUITSGP731LANDPATTERNPL176 > RF_Mini-Circuits : Mini-Circuits_GP731_LandPatternPL-176
+
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_GP731_LandPatternPL-176
+- Hex ID: FZKRFMCIRCUITSGP731LANDPATTERNPL176
+- Name: RF_Mini-Circuits : Mini-Circuits_GP731_LandPatternPL-176
+- Description: RF_Mini-Circuits : Mini-Circuits_GP731_LandPatternPL-176
+- Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_GP731_LandPatternPL-176](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_GP731_LandPatternPL-176)
+- Short Link: [http://oom.lt/FZKRFMCIRCUITSGP731LANDPATTERNPL176](http://oom.lt/FZKRFMCIRCUITSGP731LANDPATTERNPL176)
+  
+
+|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_GP731_LandPatternPL-176/image.png||||
+| :---: | :---: | :---: | :---: |
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-footprints|
+|OOMP Description|oompDesc|RF_Mini-Circuits|
+|OOMP Index|oompIndex|Mini-Circuits_GP731_LandPatternPL-176|
+|Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_GP731_LandPatternPL-176|
+|Hex ID (short code)|hexID|FZKRFMCIRCUITSGP731LANDPATTERNPL176|
+|Name|name|RF_Mini-Circuits : Mini-Circuits_GP731_LandPatternPL-176|
+|Footprint Kicad|footprintKicadDetails|{'name': 'Mini-Circuits_GP731_LandPatternPL-176', 'description': 'Footprint for Mini-Circuits case GP731 (https://ww2.minicircuits.com/case_style/GP731.pdf) following land pattern PL-176, including GND vias (https://www.minicircuits.com/pcb/98-pl176.pdf)', 'tags': 'mini-circuits PL-176', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_GP731.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+||||

@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# FZKRFMCIRCUITSHZ1198 > RF_Mini-Circuits : Mini-Circuits_HZ1198
+
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_HZ1198
+- Hex ID: FZKRFMCIRCUITSHZ1198
+- Name: RF_Mini-Circuits : Mini-Circuits_HZ1198
+- Description: RF_Mini-Circuits : Mini-Circuits_HZ1198
+- Long Link: [http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_HZ1198](http://oom.lt/FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_HZ1198)
+- Short Link: [http://oom.lt/FZKRFMCIRCUITSHZ1198](http://oom.lt/FZKRFMCIRCUITSHZ1198)
+  
+
+|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_HZ1198/image.png||||
+| :---: | :---: | :---: | :---: |
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|FOOTPRINT|
+|OOMP Size|oompSize|kicad|
+|OOMP Color|oompColor|kicad-footprints|
+|OOMP Description|oompDesc|RF_Mini-Circuits|
+|OOMP Index|oompIndex|Mini-Circuits_HZ1198|
+|Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_HZ1198|
+|Hex ID (short code)|hexID|FZKRFMCIRCUITSHZ1198|
+|Name|name|RF_Mini-Circuits : Mini-Circuits_HZ1198|
+|Footprint Kicad|footprintKicadDetails|{'name': 'Mini-Circuits_HZ1198', 'description': 'Footprint for Mini-Circuits case HZ1198 (https://ww2.minicircuits.com/case_style/HZ1198.pdf)', 'tags': 'Mini-Circuits HZ1198', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_HZ1198.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+||||
