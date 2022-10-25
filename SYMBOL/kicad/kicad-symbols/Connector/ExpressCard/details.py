@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'ExpressCard', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://web.archive.org/web/20180809060653/http://www.usb.org/developers/expresscard/EC_specifications/ExpressCard_2_0_FINAL.pdf', 'kicadSymbolki_keywords': 'expresscard pci express', 'kicadSymbolki_description': 'ExpressCard connector', 'kicadSymbolki_fp_filters': 'ExpressCard*'}])
-    newPart['name'].append('ExpressCard')
+    newPart['name'].append('Connector : ExpressCard')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

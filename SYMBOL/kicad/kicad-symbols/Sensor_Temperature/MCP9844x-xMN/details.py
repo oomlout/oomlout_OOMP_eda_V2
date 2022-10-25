@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP9844x-xMN', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.36x1.46mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20005192B.pdf', 'kicadSymbolki_keywords': 'I2C TWI', 'kicadSymbolki_description': '±1°C Accurate, 1.8V Digital Temperature Sensor, I²C, DFN-8', 'kicadSymbolki_fp_filters': 'DFN*3x2mm*P0.5mm*'}])
-    newPart['name'].append('MCP9844x-xMN')
+    newPart['name'].append('Sensor_Temperature : MCP9844x-xMN')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

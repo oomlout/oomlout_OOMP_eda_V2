@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'LM1117-ADJ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV1117-ADJ', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tlv1117.pdf', 'kicadSymbolki_keywords': 'linear regulator ldo adjustable positive', 'kicadSymbolki_description': '800mA Low-Dropout Linear Regulator, adjustable output, TO-220/TO-252/TO-263/SOT-223', 'kicadSymbolki_fp_filters': 'SOT?223* TO?263* TO?252* TO?220*'}])
-    newPart['name'].append('TLV1117-ADJ')
+    newPart['name'].append('Regulator_Linear : TLV1117-ADJ')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

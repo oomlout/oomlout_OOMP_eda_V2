@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'ECC81', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ECC83', 'kicadSymbolFootprint': 'Valve:Valve_Noval_P', 'kicadSymbolDatasheet': 'http://www.r-type.org/pdfs/ecc83.pdf', 'kicadSymbolki_keywords': 'triode valve', 'kicadSymbolki_description': 'double triode', 'kicadSymbolki_fp_filters': 'VALVE*NOVAL*P*'}])
-    newPart['name'].append('ECC83')
+    newPart['name'].append('Valve : ECC83')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

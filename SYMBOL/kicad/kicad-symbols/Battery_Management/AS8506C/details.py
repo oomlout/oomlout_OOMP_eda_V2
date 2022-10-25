@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AS8506C', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-40-1EP_6x6mm_P0.5mm_EP4.6x4.6mm', 'kicadSymbolDatasheet': 'http://ams.com/eng/content/download/476603/1402377/252935', 'kicadSymbolki_keywords': 'battery balance lithium charge afe', 'kicadSymbolki_description': 'Stackable cell monitor, cell balancer, 3-7 Cells, SPI Interface', 'kicadSymbolki_fp_filters': 'QFN*6x6mm*P0.5mm*'}])
-    newPart['name'].append('AS8506C')
+    newPart['name'].append('Battery_Management : AS8506C')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

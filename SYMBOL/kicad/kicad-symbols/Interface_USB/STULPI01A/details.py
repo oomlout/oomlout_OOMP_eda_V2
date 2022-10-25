@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STULPI01A', 'kicadSymbolFootprint': 'Package_BGA:ST_uTFBGA-36_3.6x3.6mm_Layout6x6_P0.5mm', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/stulpi01a.pdf', 'kicadSymbolki_keywords': 'USB OTG HS PHY ULPI Interface', 'kicadSymbolki_description': 'High-speed USB On-The-Go ULPI transceiver', 'kicadSymbolki_fp_filters': 'ST*uTFBGA*3.6x3.6mm*Layout6x6*P0.5mm*'}])
-    newPart['name'].append('STULPI01A')
+    newPart['name'].append('Interface_USB : STULPI01A')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

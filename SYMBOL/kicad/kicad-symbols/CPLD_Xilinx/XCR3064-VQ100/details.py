@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'XCR3064XL-VQ100', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XCR3064-VQ100', 'kicadSymbolFootprint': 'Package_QFP:LQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.xilinx.com/support/documentation/data_sheets/ds017.pdf', 'kicadSymbolki_keywords': 'CPLD', 'kicadSymbolki_description': 'Xilinx CoolRunner 64-Macrocell CPLD, 3.3V, VQFP-100, Obsolete', 'kicadSymbolki_fp_filters': 'LQFP*14x14mm*P0.5*'}])
-    newPart['name'].append('XCR3064-VQ100')
+    newPart['name'].append('CPLD_Xilinx : XCR3064-VQ100')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

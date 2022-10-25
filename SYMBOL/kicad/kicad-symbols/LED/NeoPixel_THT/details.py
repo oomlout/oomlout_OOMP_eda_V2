@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'NeoPixel_THT', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.adafruit.com/product/1938', 'kicadSymbolki_keywords': 'RGB LED NeoPixel addressable', 'kicadSymbolki_description': 'RGB LED with integrated controller, 5mm/8mm LED package', 'kicadSymbolki_fp_filters': 'LED*D5.0mm* LED*D8.0mm*'}])
-    newPart['name'].append('NeoPixel_THT')
+    newPart['name'].append('LED : NeoPixel_THT')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

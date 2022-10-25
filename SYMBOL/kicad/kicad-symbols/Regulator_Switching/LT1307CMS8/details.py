@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1307CMS8', 'kicadSymbolFootprint': 'Package_SO:MSOP-10_3x3mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1307fa.pdf', 'kicadSymbolki_keywords': 'Micropower PWM DC/DC Converter', 'kicadSymbolki_description': 'Single Cell Micropower 600kHz PWM DC/DC Converter, 50µA Quiescent Current, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.5mm*'}])
-    newPart['name'].append('LT1307CMS8')
+    newPart['name'].append('Regulator_Switching : LT1307CMS8')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

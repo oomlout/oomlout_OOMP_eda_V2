@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM399', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:Analog_TO-46-4_ThermalShield', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/199399fc.pdf', 'kicadSymbolki_keywords': 'Zener diode device voltage reference', 'kicadSymbolki_description': 'Precision Reference, 6.95V, Buried Zener Diode with Thermal Shielding Can, TO-46-4', 'kicadSymbolki_fp_filters': 'Analog*TO?46*'}])
-    newPart['name'].append('LM399')
+    newPart['name'].append('Reference_Voltage : LM399')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

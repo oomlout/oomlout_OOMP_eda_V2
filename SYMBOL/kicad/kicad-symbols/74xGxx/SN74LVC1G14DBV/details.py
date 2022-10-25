@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SN74LVC1G14DBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/sn74lvc1g14.pdf', 'kicadSymbolki_keywords': 'Inverter Schmitt Trigger', 'kicadSymbolki_description': 'Single Schmitt-Trigger Inverter, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}])
-    newPart['name'].append('SN74LVC1G14DBV')
+    newPart['name'].append('74xGxx : SN74LVC1G14DBV')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

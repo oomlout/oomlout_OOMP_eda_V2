@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DHT11', 'kicadSymbolFootprint': 'Sensor:Aosong_DHT11_5.5x12.0_P2.54mm', 'kicadSymbolDatasheet': 'http://akizukidenshi.com/download/ds/aosong/DHT11.pdf', 'kicadSymbolki_keywords': 'Digital temperature humidity sensor', 'kicadSymbolki_description': 'Temperature and humidity module', 'kicadSymbolki_fp_filters': 'Aosong*DHT11*5.5x12.0*P2.54mm*'}])
-    newPart['name'].append('DHT11')
+    newPart['name'].append('Sensor : DHT11')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'MR20H40', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MR25H40', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.everspin.com/file/217/download', 'kicadSymbolki_keywords': 'MRAM SPI EEPROM 3.3V', 'kicadSymbolki_description': '4Mb MRAM memory with SPI interface, DFN-8', 'kicadSymbolki_fp_filters': 'DFN*6x5mm*P1.27mm*'}])
-    newPart['name'].append('MR25H40')
+    newPart['name'].append('Memory_NVRAM : MR25H40')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

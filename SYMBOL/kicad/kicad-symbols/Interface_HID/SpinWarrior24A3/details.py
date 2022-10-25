@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SpinWarrior24A3', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.codemercs.com/downloads/spinwarrior/SW_Datasheet.pdf', 'kicadSymbolki_keywords': '16bit, absolute position, USB, rotary encoder', 'kicadSymbolki_description': 'SpinWarrior, 3 16bit absolute position rotary encoders, 6 digital inputs, DIP-24/SOIC-24', 'kicadSymbolki_fp_filters': 'DIP*7.62mm* SOIC*7.5x15.4mm*P1.27mm*'}])
-    newPart['name'].append('SpinWarrior24A3')
+    newPart['name'].append('Interface_HID : SpinWarrior24A3')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'ADW11', 'kicadSymbolFootprint': 'Relay_THT:Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT', 'kicadSymbolDatasheet': 'https://www.panasonic-electric-works.com/pew/es/downloads/ds_dw_hl_en.pdf', 'kicadSymbolki_keywords': 'SPST 1P1T', 'kicadSymbolki_description': 'Panasonic, 8A/16A, Small Polarized Latching Power Relays, Single coil, 1 Form A', 'kicadSymbolki_fp_filters': 'Relay*1P1T*NO*Panasonic*ADW11xxxxW*'}])
-    newPart['name'].append('ADW11')
+    newPart['name'].append('Relay : ADW11')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

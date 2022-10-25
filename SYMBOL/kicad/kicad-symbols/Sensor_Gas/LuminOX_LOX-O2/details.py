@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LuminOX_LOX-O2', 'kicadSymbolFootprint': 'Sensor:LuminOX_LOX-O2', 'kicadSymbolDatasheet': 'https://sstsensing.com/wp-content/uploads/2021/08/DS0030rev15_LuminOx.pdf', 'kicadSymbolki_keywords': 'O2 sensor', 'kicadSymbolki_description': 'SST LuminOX Luminescence-based O2 sensor', 'kicadSymbolki_fp_filters': 'LuminOX?LOX?O2*'}])
-    newPart['name'].append('LuminOX_LOX-O2')
+    newPart['name'].append('Sensor_Gas : LuminOX_LOX-O2')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

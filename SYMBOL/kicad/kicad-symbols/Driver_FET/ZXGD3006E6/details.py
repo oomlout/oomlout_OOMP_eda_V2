@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ZXGD3006E6', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/ZXGD3006E6.pdf', 'kicadSymbolki_keywords': 'mosfet igbt driver buffer', 'kicadSymbolki_description': '40V 10A gate driver, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}])
-    newPart['name'].append('ZXGD3006E6')
+    newPart['name'].append('Driver_FET : ZXGD3006E6')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

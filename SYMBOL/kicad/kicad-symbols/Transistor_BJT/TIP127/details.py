@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'TIP125', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'TIP127', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/TIP120-D.PDF', 'kicadSymbolki_keywords': 'Darlington Power PNP Transistor', 'kicadSymbolki_description': '5A Ic, 100V Vce, Silicon Darlington Power PNP Transistor, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}])
-    newPart['name'].append('TIP127')
+    newPart['name'].append('Transistor_BJT : TIP127')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

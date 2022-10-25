@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'G2RL-2-DC5', 'kicadSymbolReference': 'RL', 'kicadSymbolValue': 'G2RL-24-DC5', 'kicadSymbolFootprint': 'Relay_THT:Relay_DPDT_Omron_G2RL', 'kicadSymbolDatasheet': 'https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf', 'kicadSymbolki_keywords': 'Omron Relay Dual Pole', 'kicadSymbolki_description': 'General Purpose Relay DPDT (2 Form C) Through Hole, Omron G2RL series, sealed, 5V coil', 'kicadSymbolki_fp_filters': 'Relay*DPDT*Omron*G2RL*'}])
-    newPart['name'].append('G2RL-24-DC5')
+    newPart['name'].append('Relay : G2RL-24-DC5')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

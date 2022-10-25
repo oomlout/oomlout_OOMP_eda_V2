@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ZXCT1009T8', 'kicadSymbolFootprint': 'Package_SO:Zetex_SM8', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/ZXCT1009.pdf', 'kicadSymbolki_keywords': 'High side current monitor shunt', 'kicadSymbolki_description': 'High-Side Current Monitor, SM8', 'kicadSymbolki_fp_filters': 'Zetex*SM8*'}])
-    newPart['name'].append('ZXCT1009T8')
+    newPart['name'].append('Amplifier_Current : ZXCT1009T8')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

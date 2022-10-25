@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX1113', 'kicadSymbolFootprint': 'Package_SO:QSOP-16_3.9x4.9mm_P0.635mm', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/MAX1112-MAX1113.pdf', 'kicadSymbolki_keywords': 'MAXIM ADC 5V 8-Bit SPI QSPI MICROWIRE', 'kicadSymbolki_description': '4-Channel Single-Ended or 2-Channel Differential 8-Bit ADC, QSOP-16', 'kicadSymbolki_fp_filters': 'QSOP*3.9x4.9mm*P0.635mm*'}])
-    newPart['name'].append('MAX1113')
+    newPart['name'].append('Analog_ADC : MAX1113')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

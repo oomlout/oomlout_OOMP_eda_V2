@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'RXM-GPS-RM', 'kicadSymbolFootprint': 'RF_GPS:Linx_RXM-GPS', 'kicadSymbolDatasheet': 'https://linxtechnologies.com/wp/wp-content/uploads/rxm-gps-rm.pdf', 'kicadSymbolki_keywords': 'gps low-power', 'kicadSymbolki_description': 'Module GPS Low Power, 14mA tracking, 22 channels', 'kicadSymbolki_fp_filters': 'Linx*RXM?GPS*'}])
-    newPart['name'].append('RXM-GPS-RM')
+    newPart['name'].append('RF_GPS : RXM-GPS-RM')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

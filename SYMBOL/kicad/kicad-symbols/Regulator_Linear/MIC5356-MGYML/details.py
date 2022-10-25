@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'MIC5356-MMYML', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MIC5356-MGYML', 'kicadSymbolFootprint': 'Package_DFN_QFN:MLF-8-1EP_3x3mm_P0.65mm_EP1.55x2.3mm_ThermalVias', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/mic5355_6.pdf', 'kicadSymbolki_keywords': 'Dual LDO 500mA DFN-8', 'kicadSymbolki_description': 'Dual 500mA μCap Low Dropout Micropower Linear Regulator, 2.8V/1.8V, DFN-8', 'kicadSymbolki_fp_filters': 'MLF*3x3mm*P0.65mm*EP1.55x2.3mm*'}])
-    newPart['name'].append('MIC5356-MGYML')
+    newPart['name'].append('Regulator_Linear : MIC5356-MGYML')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

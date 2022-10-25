@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TR', 'kicadSymbolValue': 'TG111-MSC13LF', 'kicadSymbolFootprint': 'Transformer_SMD:Transformer_Ethernet_HALO_TG111-MSC13', 'kicadSymbolDatasheet': 'https://www.haloelectronics.com/pdf/discrete-genesus.pdf', 'kicadSymbolki_keywords': 'Single Port Gigabit Ethernet Transformer', 'kicadSymbolki_description': 'Single Port Gigabit Ethernet Transformers', 'kicadSymbolki_fp_filters': 'Transformer*Ethernet*HALO*TG111*'}])
-    newPart['name'].append('TG111-MSC13LF')
+    newPart['name'].append('Transformer : TG111-MSC13LF')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA818xDRG', 'kicadSymbolFootprint': 'Package_SON:WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/opa818.pdf', 'kicadSymbolki_keywords': 'opamp VFA', 'kicadSymbolki_description': ' 2.7 GHz, High-Voltage, FET-Input, Low Noise, Operational Amplifier, WSON-8', 'kicadSymbolki_fp_filters': 'WSON*1EP*3x3mm*EP1.45x2.4mm*'}])
-    newPart['name'].append('OPA818xDRG')
+    newPart['name'].append('Amplifier_Operational : OPA818xDRG')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

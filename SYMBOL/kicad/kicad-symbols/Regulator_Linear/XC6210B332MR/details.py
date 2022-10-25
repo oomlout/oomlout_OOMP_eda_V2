@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'XC6220B331MR', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC6210B332MR', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.torexsemi.com/file/xc6210/XC6210.pdf', 'kicadSymbolki_keywords': 'LDO Voltage Regulator 700mA', 'kicadSymbolki_description': '700mA, Low Drop-out Voltage Regulator, Fixed Output 3.3V, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}])
-    newPart['name'].append('XC6210B332MR')
+    newPart['name'].append('Regulator_Linear : XC6210B332MR')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'LT1790-1.25', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1790-2.048', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-6', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1790fc.pdf', 'kicadSymbolki_keywords': 'voltage reference Micropower', 'kicadSymbolki_description': '2.048V Voltage Reference, Low Dropout, Micropower, TSOT-23-6', 'kicadSymbolki_fp_filters': 'TSOT?23?6*'}])
-    newPart['name'].append('LT1790-2.048')
+    newPart['name'].append('Reference_Voltage : LT1790-2.048')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

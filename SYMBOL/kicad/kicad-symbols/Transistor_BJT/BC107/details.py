@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC107', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-18-3', 'kicadSymbolDatasheet': 'http://www.b-kainka.de/Daten/Transistor/BC108.pdf', 'kicadSymbolki_keywords': 'NPN low noise transistor', 'kicadSymbolki_description': '0.1A Ic, 50V Vce, Low Noise General Purpose NPN Transistor, TO-18', 'kicadSymbolki_fp_filters': 'TO?18*'}])
-    newPart['name'].append('BC107')
+    newPart['name'].append('Transistor_BJT : BC107')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

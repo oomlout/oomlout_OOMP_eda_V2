@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'BUZ11', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'VNP10N07', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/vnp10n07.pdf', 'kicadSymbolki_keywords': 'N-Channel Power MOSFET OMNIFET', 'kicadSymbolki_description': '10A Id, 70V Vds, N-Channel Power MOSFET, fully autoprotected, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}])
-    newPart['name'].append('VNP10N07')
+    newPart['name'].append('Transistor_FET : VNP10N07')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

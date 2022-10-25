@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'A', 'kicadSymbolValue': 'Pololu_Breakout_DRV8825', 'kicadSymbolFootprint': 'Module:Pololu_Breakout-16_15.2x20.3mm', 'kicadSymbolDatasheet': 'https://www.pololu.com/product/2982', 'kicadSymbolki_keywords': 'Pololu Breakout Board Stepper Driver DRV8825', 'kicadSymbolki_description': 'Pololu Breakout Board, Stepper Driver DRV8825', 'kicadSymbolki_fp_filters': 'Pololu*Breakout*15.2x20.3mm*'}])
-    newPart['name'].append('Pololu_Breakout_DRV8825')
+    newPart['name'].append('Driver_Motor : Pololu_Breakout_DRV8825')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

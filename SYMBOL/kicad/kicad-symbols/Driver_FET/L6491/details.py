@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'L6491', 'kicadSymbolFootprint': 'Package_SO:SO-14_3.9x8.65mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/l6491.pdf', 'kicadSymbolki_keywords': 'fet driver', 'kicadSymbolki_description': 'High voltage high and low-side 4 A gate driver, SO-14', 'kicadSymbolki_fp_filters': 'SO*3.9x8.65mm*P1.27mm*'}])
-    newPart['name'].append('L6491')
+    newPart['name'].append('Driver_FET : L6491')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

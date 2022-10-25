@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NSL-32', 'kicadSymbolFootprint': 'OptoDevice:Luna_NSL-32', 'kicadSymbolDatasheet': 'http://lunainc.com/wp-content/uploads/2016/06/NSL-32.pdf', 'kicadSymbolki_keywords': 'optocoupler', 'kicadSymbolki_description': 'Optocoupler, LED Input, Photocell Output', 'kicadSymbolki_fp_filters': 'Luna*NSL?32*'}])
-    newPart['name'].append('NSL-32')
+    newPart['name'].append('Isolator : NSL-32')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'PTN78060W_EUW-7', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PTN78060H_EUW-7', 'kicadSymbolFootprint': 'Module:Texas_EUW_R-PDSS-T7_THT', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/ptn78060w.pdf', 'kicadSymbolki_keywords': 'texas dc-dc converter step down buck', 'kicadSymbolki_description': '3A non-isolated switching regulator power module, 7-36V input voltage, 11.85-22V output voltage, EUW-7', 'kicadSymbolki_fp_filters': 'Texas*EUW*R?PDSS?T7*'}])
-    newPart['name'].append('PTN78060H_EUW-7')
+    newPart['name'].append('Converter_DCDC : PTN78060H_EUW-7')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

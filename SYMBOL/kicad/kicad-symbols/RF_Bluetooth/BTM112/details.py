@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BTM112', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.sparkfun.com/datasheets/Wireless/Bluetooth/BTM112_wATcommands.pdf', 'kicadSymbolki_keywords': 'Bluetooth BT SPP Module', 'kicadSymbolki_description': 'Bluetooth SPP Module, UART, Class 2'}])
-    newPart['name'].append('BTM112')
+    newPart['name'].append('RF_Bluetooth : BTM112')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATSAMR21G18-MR210UA_NoRFPads', 'kicadSymbolFootprint': 'RF_Module:Atmel_ATSAMR21G18-MR210UA_NoRFPads', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/atmel-42475-atsamr21g18-mr210ua_datasheet.pdf', 'kicadSymbolki_keywords': 'Wireless Zigbee 802.15.4 ATSAMR21G18 AT45DB041E TECC508A', 'kicadSymbolki_description': 'RF Module, ATSAMR21, Zigbee 802.15.4, external antenna, SMD', 'kicadSymbolki_fp_filters': 'Atmel*ATSAMR21G18*MR210UA*NoRFPads*'}])
-    newPart['name'].append('ATSAMR21G18-MR210UA_NoRFPads')
+    newPart['name'].append('RF_Module : ATSAMR21G18-MR210UA_NoRFPads')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

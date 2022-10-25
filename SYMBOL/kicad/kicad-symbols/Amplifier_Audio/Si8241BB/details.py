@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Si8241BB', 'kicadSymbolFootprint': 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.silabs.com/documents/public/data-sheets/Si824x.pdf', 'kicadSymbolki_keywords': 'class d gate driver', 'kicadSymbolki_description': 'Class D Audio Driver With Precision Dead-Time Generator, 8V UVLO, +/-750V, +0.5/-0.5A, SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*3.9x9.9*P1.27mm*'}])
-    newPart['name'].append('Si8241BB')
+    newPart['name'].append('Amplifier_Audio : Si8241BB')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

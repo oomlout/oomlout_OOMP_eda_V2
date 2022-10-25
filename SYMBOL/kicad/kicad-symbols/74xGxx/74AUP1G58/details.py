@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': '74LVC1G58', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AUP1G58', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf', 'kicadSymbolki_keywords': 'Configurable Single Gate LVC CMOS', 'kicadSymbolki_description': '74LAUP1G58, Configurable Multi-Function Single Gate, Low-Voltage CMOS', 'kicadSymbolki_fp_filters': 'SOT* SC*'}])
-    newPart['name'].append('74AUP1G58')
+    newPart['name'].append('74xGxx : 74AUP1G58')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

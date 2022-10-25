@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Z80CPU', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'www.zilog.com/manage_directlink.php?filepath=docs/z80/um0080', 'kicadSymbolki_keywords': 'Z80 CPU uP', 'kicadSymbolki_description': '8-bit General Purpose Microprocessor, DIP-40', 'kicadSymbolki_fp_filters': 'DIP* PDIP*'}])
-    newPart['name'].append('Z80CPU')
+    newPart['name'].append('CPU : Z80CPU')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

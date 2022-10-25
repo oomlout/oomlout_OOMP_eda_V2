@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM337_SOT223', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223-3_TabPin2', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm337-n.pdf', 'kicadSymbolki_keywords': 'Adjustable Voltage Regulator 1A Negative', 'kicadSymbolki_description': 'Negative 1A 35V Adjustable Linear Regulator, SOT-223', 'kicadSymbolki_fp_filters': 'SOT?223*'}])
-    newPart['name'].append('LM337_SOT223')
+    newPart['name'].append('Regulator_Linear : LM337_SOT223')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

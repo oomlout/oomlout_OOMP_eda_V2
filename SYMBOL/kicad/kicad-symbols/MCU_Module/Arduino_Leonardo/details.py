@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'A', 'kicadSymbolValue': 'Arduino_Leonardo', 'kicadSymbolFootprint': 'Module:Arduino_UNO_R3', 'kicadSymbolDatasheet': 'https://www.arduino.cc/en/Main/ArduinoBoardLeonardo', 'kicadSymbolki_keywords': 'Arduino LEONARDO Microcontroller Module Atmel AVR USB', 'kicadSymbolki_description': 'Arduino LEONARDO Microcontroller Module', 'kicadSymbolki_fp_filters': 'Arduino*UNO*R3*'}])
-    newPart['name'].append('Arduino_Leonardo')
+    newPart['name'].append('MCU_Module : Arduino_Leonardo')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

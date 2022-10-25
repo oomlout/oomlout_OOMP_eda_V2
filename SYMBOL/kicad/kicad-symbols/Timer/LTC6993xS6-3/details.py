@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'LTC6993xS6-1', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC6993xS6-3', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-6', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/69931234fc.pdf', 'kicadSymbolki_keywords': 'Timer TimerBlox monostable pulse', 'kicadSymbolki_description': 'TimerBlox Monostable Pulse Generator (One Shot), Falling-edge input, non-retriggerable, TSOT-23-6', 'kicadSymbolki_fp_filters': 'TSOT*23*'}])
-    newPart['name'].append('LTC6993xS6-3')
+    newPart['name'].append('Timer : LTC6993xS6-3')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

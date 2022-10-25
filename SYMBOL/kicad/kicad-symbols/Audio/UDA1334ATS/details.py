@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'UDA1334ATS', 'kicadSymbolFootprint': 'Package_SO:SSOP-16_4.4x5.2mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/docs/en/data-sheet/UDA1334ATS.pdf', 'kicadSymbolki_keywords': 'audio dac 2ch 24bit 96kHz', 'kicadSymbolki_description': 'Low Power Audio DAC with PLL, SSOP-16', 'kicadSymbolki_fp_filters': 'SSOP*4.4x5.2mm*P0.65mm*'}])
-    newPart['name'].append('UDA1334ATS')
+    newPart['name'].append('Audio : UDA1334ATS')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

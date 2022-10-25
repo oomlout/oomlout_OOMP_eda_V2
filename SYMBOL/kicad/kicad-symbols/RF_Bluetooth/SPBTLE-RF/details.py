@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SPBTLE-RF', 'kicadSymbolFootprint': 'RF_Module:ST_SPBTLE', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/spbtle-rf.pdf', 'kicadSymbolki_keywords': 'BLE bluetooth module low-power', 'kicadSymbolki_description': 'Very Low Power network processor module for BLE v4.1, Hub capabilities', 'kicadSymbolki_fp_filters': 'ST*SPBTLE*'}])
-    newPart['name'].append('SPBTLE-RF')
+    newPart['name'].append('RF_Bluetooth : SPBTLE-RF')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

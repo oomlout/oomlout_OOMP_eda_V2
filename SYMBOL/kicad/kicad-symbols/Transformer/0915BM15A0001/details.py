@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': '0896BM15A0001', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '0915BM15A0001', 'kicadSymbolFootprint': 'RF_Converter:Balun_Johanson_0896BM15A0001', 'kicadSymbolDatasheet': 'https://www.johansontechnology.com/datasheets/0915BM15A0001/0915BM15A0001.pdf', 'kicadSymbolki_keywords': 'balun rf transformer', 'kicadSymbolki_description': '902-928MHz 1:1 RF Transformer, Unbalanced to Balanced, with integrated DC blocking capacitor', 'kicadSymbolki_fp_filters': 'Balun*Johanson*0896BM15A0001*'}])
-    newPart['name'].append('0915BM15A0001')
+    newPart['name'].append('Transformer : 0915BM15A0001')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

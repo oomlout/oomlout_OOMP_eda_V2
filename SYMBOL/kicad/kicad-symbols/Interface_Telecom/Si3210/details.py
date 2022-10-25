@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Si3210', 'kicadSymbolFootprint': 'Package_SO:TSSOP-38_4.4x9.7mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.mouser.com/ds/2/368/si3210-38974.pdf', 'kicadSymbolki_keywords': 'ProSLIC slic', 'kicadSymbolki_description': 'ProSLIC Programmable cmos slic/codec with ringing/battery voltage generation', 'kicadSymbolki_fp_filters': 'TSSOP*'}])
-    newPart['name'].append('Si3210')
+    newPart['name'].append('Interface_Telecom : Si3210')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

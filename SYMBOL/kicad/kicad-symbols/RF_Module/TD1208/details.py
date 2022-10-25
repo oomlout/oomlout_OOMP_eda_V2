@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TD1208', 'kicadSymbolFootprint': 'RF_Module:TD1208', 'kicadSymbolDatasheet': 'https://github.com/Telecom-Design/Documentation_TD_RF_Module/blob/master/TD1208%20Datasheet.pdf', 'kicadSymbolki_keywords': 'IOT SIGFOX', 'kicadSymbolki_description': 'High-Performance, Low-Current SIGFOX™ Gateway', 'kicadSymbolki_fp_filters': 'TD1208*'}])
-    newPart['name'].append('TD1208')
+    newPart['name'].append('RF_Module : TD1208')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'Y14x-1C-xxDS', 'kicadSymbolFootprint': 'Relay_THT:Relay_SPDT_HsinDa_Y14', 'kicadSymbolDatasheet': 'http://www.hsinda.com.cn/en/imgdown.asp?FileName=UploadFiles/201431310240386.pdf', 'kicadSymbolki_keywords': 'Relay SPDT', 'kicadSymbolki_description': 'Hsin Da Y14-series relay, Single Pole Dual Throw', 'kicadSymbolki_fp_filters': 'Relay*Y14*'}])
-    newPart['name'].append('Y14x-1C-xxDS')
+    newPart['name'].append('Relay : Y14x-1C-xxDS')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NHD-C0220BIZ', 'kicadSymbolFootprint': 'Display:NHD-C0220BiZ', 'kicadSymbolDatasheet': 'http://www.newhavendisplay.com/specs/NHD-C0220BiZ-FSW-FBW-3V3M.pdf', 'kicadSymbolki_keywords': 'display LCD 20x2', 'kicadSymbolki_description': 'LCD 20x2 Alphanumeric 10pin Blue/White/Green Backlight, i2c, 3.3V VDD', 'kicadSymbolki_fp_filters': 'NHD*C0220BiZ*'}])
-    newPart['name'].append('NHD-C0220BIZ')
+    newPart['name'].append('Display_Character : NHD-C0220BIZ')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

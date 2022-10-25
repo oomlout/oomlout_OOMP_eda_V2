@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '628128_DIP32_SSOP32', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.futurlec.com/Datasheet/Memory/628128.pdf', 'kicadSymbolki_keywords': 'RAM SRAM CMOS MEMORY', 'kicadSymbolki_description': '128K x 8 High-Speed CMOS Static RAM, 55/70ns, DIP-32/SSOP-32', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm* SSOP*11.305x20.495mm*P1.27mm*'}])
-    newPart['name'].append('628128_DIP32_SSOP32')
+    newPart['name'].append('Memory_RAM : 628128_DIP32_SSOP32')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FMB2227A', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SuperSOT-6', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/FMB2227A-D.PDF', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'NPN/PNP Transistor', 'kicadSymbolki_description': '500mA IC, 30V Vce, Dual NPN/PNP Transistors, SuperSOT-6', 'kicadSymbolki_fp_filters': 'SuperSOT*'}])
-    newPart['name'].append('FMB2227A')
+    newPart['name'].append('Transistor_BJT : FMB2227A')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'FN405-0.5-02', 'kicadSymbolReference': 'FL', 'kicadSymbolValue': 'FN405-3-02', 'kicadSymbolFootprint': 'Filter:Filter_Schaffner_FN405', 'kicadSymbolDatasheet': 'https://www.schaffner.com/de/produkte/download/product/datasheet/fn-405-pcb-mounting-filter/', 'kicadSymbolki_keywords': 'EMI', 'kicadSymbolki_description': '3A, 250VAC, 50/60Hz line filter', 'kicadSymbolki_fp_filters': 'Filter*Schaffner*FN405*'}])
-    newPart['name'].append('FN405-3-02')
+    newPart['name'].append('Filter : FN405-3-02')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

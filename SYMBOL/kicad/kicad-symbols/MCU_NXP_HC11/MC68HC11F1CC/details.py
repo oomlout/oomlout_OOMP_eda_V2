@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC68HC11F1CC', 'kicadSymbolFootprint': 'Package_LCC:PLCC-68', 'kicadSymbolDatasheet': 'http://cache.freescale.com/files/microcontrollers/doc/data_sheet/MC68HC11F1.pdf', 'kicadSymbolki_keywords': 'HC11 MCU Microcontroller', 'kicadSymbolki_description': 'ROMless, 1K RAM, 512B EEPROM, PLCC-68', 'kicadSymbolki_fp_filters': 'PLCC*'}])
-    newPart['name'].append('MC68HC11F1CC')
+    newPart['name'].append('MCU_NXP_HC11 : MC68HC11F1CC')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

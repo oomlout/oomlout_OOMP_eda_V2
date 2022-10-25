@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'T', 'kicadSymbolValue': 'LL1587', 'kicadSymbolFootprint': 'Transformer_THT:Transformer_Microphone_Lundahl_LL1587', 'kicadSymbolDatasheet': 'http://www.lundahl.se/wp-content/uploads/datasheets/1587.pdf', 'kicadSymbolki_keywords': 'microphone transformer', 'kicadSymbolki_description': 'Lundahl Transformers, Microphone Transformer', 'kicadSymbolki_fp_filters': 'Transformer*Microphone*Lundahl*LL1587*'}])
-    newPart['name'].append('LL1587')
+    newPart['name'].append('Transformer : LL1587')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'IRF40DM229', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF7483M', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_MF', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irf7483mpbf.pdf?fileId=5546d462533600a4015355ff98011c32', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '135A Id, 40V Vds, 2.3mOhm Rds, N-Channel MOSFET, DirectFET MF', 'kicadSymbolki_fp_filters': 'DirectFET*MF*'}])
-    newPart['name'].append('IRF7483M')
+    newPart['name'].append('Transistor_FET : IRF7483M')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'CD4541BE', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NLV14541BD', 'kicadSymbolFootprint': 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pdf/datasheet/mc14541b-d.pdf', 'kicadSymbolki_keywords': 'cmos', 'kicadSymbolki_description': '18V, Programmable Timer, AEC Q100, SOIC-14', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm*'}])
-    newPart['name'].append('NLV14541BD')
+    newPart['name'].append('Timer : NLV14541BD')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

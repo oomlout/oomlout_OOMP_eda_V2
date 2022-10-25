@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPOS6UL_NANO', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.opossom.com/_downloads/opos6ul_nano/datasheet_opos6ul_nano.pdf', 'kicadSymbolki_keywords': 'opos6ul compute module', 'kicadSymbolki_description': 'NXP i.MX6ULL/i.MX6UL, 256 or 512 MB RAM, industrial SoM computer, M.2M (NGFF)', 'kicadSymbolki_fp_filters': '*M.2*'}])
-    newPart['name'].append('OPOS6UL_NANO')
+    newPart['name'].append('MCU_Module : OPOS6UL_NANO')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

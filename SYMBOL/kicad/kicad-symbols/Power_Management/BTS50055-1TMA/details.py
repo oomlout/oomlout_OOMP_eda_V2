@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BTS50055-1TMA', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-7_TabPin4', 'kicadSymbolDatasheet': 'http://www.infineon.com/dgdl/Infineon-BTS50055-1TMA-DS-v01_00-EN.pdf?fileId=5546d4625a888733015aa9b00de935ed', 'kicadSymbolki_keywords': 'BTS50055 PROFET', 'kicadSymbolki_description': 'Smart High-Side Power Switch, PROFET, Single, 6mOhm, 70A, 34V, TO220-7', 'kicadSymbolki_fp_filters': 'TO*263*TabPin4*'}])
-    newPart['name'].append('BTS50055-1TMA')
+    newPart['name'].append('Power_Management : BTS50055-1TMA')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

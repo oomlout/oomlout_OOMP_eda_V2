@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BD9781HFP', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:Rohm_HRP7', 'kicadSymbolDatasheet': 'http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/switching_regulator/bd9778f-e.pdf', 'kicadSymbolki_keywords': 'DC-DC Step-Down Switching Regulator', 'kicadSymbolki_description': '35V 4A, Flexible Step-Down Switching Regulator, HRP7', 'kicadSymbolki_fp_filters': 'Rohm*HRP7*'}])
-    newPart['name'].append('BD9781HFP')
+    newPart['name'].append('Regulator_Switching : BD9781HFP')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

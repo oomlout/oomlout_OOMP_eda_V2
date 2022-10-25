@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'LP2951-3.0_DIP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LP2951-5.0_DIP', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lp2951.pdf', 'kicadSymbolki_keywords': 'Micropower Voltage Regulators with Shutdown', 'kicadSymbolki_description': 'Micropower Voltage Regulators with Shutdown, 100mA, Fixed Output 5.0V, LDO, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}])
-    newPart['name'].append('LP2951-5.0_DIP')
+    newPart['name'].append('Regulator_Linear : LP2951-5.0_DIP')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

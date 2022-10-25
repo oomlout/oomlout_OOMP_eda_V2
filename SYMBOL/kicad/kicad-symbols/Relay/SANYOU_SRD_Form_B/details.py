@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'SANYOU_SRD_Form_B', 'kicadSymbolFootprint': 'Relay_THT:Relay_SPST_SANYOU_SRD_Series_Form_B', 'kicadSymbolDatasheet': 'http://www.sanyourelay.ca/public/products/pdf/SRD.pdf', 'kicadSymbolki_keywords': 'Single Pole Relay SPST', 'kicadSymbolki_description': 'Sanyo SRD relay, Single Pole Miniature Power Relay, Opening Contact', 'kicadSymbolki_fp_filters': 'Relay*SPST*SANYOU*SRD*Series*Form*B*'}])
-    newPart['name'].append('SANYOU_SRD_Form_B')
+    newPart['name'].append('Relay : SANYOU_SRD_Form_B')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

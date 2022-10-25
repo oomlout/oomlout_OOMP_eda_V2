@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'BC160', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC161', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-39-3', 'kicadSymbolDatasheet': 'http://www.farnell.com/datasheets/1697389.pdf', 'kicadSymbolki_keywords': 'power PNP Transistor', 'kicadSymbolki_description': '1A Ic, 60V Vce, Power PNP Transistor, TO-39', 'kicadSymbolki_fp_filters': 'TO?39*'}])
-    newPart['name'].append('BC161')
+    newPart['name'].append('Transistor_BJT : BC161')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

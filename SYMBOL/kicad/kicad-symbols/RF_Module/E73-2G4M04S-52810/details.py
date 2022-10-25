@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'E73-2G4M04S-52832', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'E73-2G4M04S-52810', 'kicadSymbolFootprint': 'RF_Module:E73-2G4M04S', 'kicadSymbolDatasheet': 'http://www.cdebyte.com/en/downpdf.aspx?id=243', 'kicadSymbolki_keywords': 'BLE5, BLE, nRF52810', 'kicadSymbolki_description': 'nRF52810 BLE5 Module', 'kicadSymbolki_fp_filters': 'E73*2G4M04S*'}])
-    newPart['name'].append('E73-2G4M04S-52810')
+    newPart['name'].append('RF_Module : E73-2G4M04S-52810')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

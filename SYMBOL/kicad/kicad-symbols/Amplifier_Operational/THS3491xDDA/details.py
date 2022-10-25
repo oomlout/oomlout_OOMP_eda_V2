@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'THS3491xDDA', 'kicadSymbolFootprint': 'Package_SO:Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ths3491.pdf', 'kicadSymbolki_keywords': 'opamp single current feedback wideband', 'kicadSymbolki_description': '900-MHz, 500-mA High-Power Output Current Feedback Operational Amplifier, SOIC-8', 'kicadSymbolki_fp_filters': 'Texas*R*PDSO*G8*EP*'}])
-    newPart['name'].append('THS3491xDDA')
+    newPart['name'].append('Amplifier_Operational : THS3491xDDA')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': '74LS623', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS645', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}])
-    newPart['name'].append('74LS645')
+    newPart['name'].append('74xx_IEEE : 74LS645')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

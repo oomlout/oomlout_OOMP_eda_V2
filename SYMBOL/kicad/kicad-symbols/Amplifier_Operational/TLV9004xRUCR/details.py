@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV9004xRUCR', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PX2QFN-14', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tlv9004.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'quad opamp', 'kicadSymbolki_description': 'Low-Power, Quad-Operational Amplifiers, Texas S-PX2QFN-14', 'kicadSymbolki_fp_filters': 'Texas*S*PX2QFN*'}])
-    newPart['name'].append('TLV9004xRUCR')
+    newPart['name'].append('Amplifier_Operational : TLV9004xRUCR')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

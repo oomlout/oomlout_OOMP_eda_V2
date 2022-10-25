@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'PIC16F1508-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F1508-ISS', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41609A.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller XLP', 'kicadSymbolki_description': 'PIC16F1508, 4096W FLASH, 256B SRAM, SSOP-20', 'kicadSymbolki_fp_filters': 'DIP* PDIP* SO* SSOP*'}])
-    newPart['name'].append('PIC16F1508-ISS')
+    newPart['name'].append('MCU_Microchip_PIC16 : PIC16F1508-ISS')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

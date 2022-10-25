@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'ADAU1450', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADAU1452', 'kicadSymbolFootprint': 'Package_CSP:LFCSP-72-1EP_10x10mm_P0.5mm_EP5.3x5.3mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADAU1452_1451_1450.pdf', 'kicadSymbolki_keywords': 'sigmadsp audio', 'kicadSymbolki_description': 'SigmaDSP SigmaDSP Digital Audio Processor, 294.912 MHz, 40kword Data RAM, I2C/SPI, S/PDIF I/O, 16-Channel ASRC, LFCSP-72', 'kicadSymbolki_fp_filters': 'LFCSP*1EP*10x10mm*P0.5mm*'}])
-    newPart['name'].append('ADAU1452')
+    newPart['name'].append('DSP_AnalogDevices : ADAU1452')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TUSB322I', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_X2QFN-12_1.6x1.6mm_P0.4mm', 'kicadSymbolDatasheet': 'www.ti.com/lit/ds/symlink/tusb322i.pdf', 'kicadSymbolki_keywords': 'USB VCONN PD CC', 'kicadSymbolki_description': 'USB Type-C Configuration Channel Logic and Port Control with VCONN, X2QFN-12', 'kicadSymbolki_fp_filters': 'Texas?X2QFN*1.6x1.6mm*P0.4mm*'}])
-    newPart['name'].append('TUSB322I')
+    newPart['name'].append('Interface_USB : TUSB322I')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

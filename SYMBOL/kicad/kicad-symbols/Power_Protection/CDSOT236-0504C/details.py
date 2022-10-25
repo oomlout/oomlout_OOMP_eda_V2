@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'SRV05-4', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CDSOT236-0504C', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'https://www.bourns.com/docs/product-datasheets/cdsot236-0504c.pdf', 'kicadSymbolki_keywords': 'ESD protection diodes', 'kicadSymbolki_description': 'Low capacitance ESD diode / steering Diode Array, SOT23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}])
-    newPart['name'].append('CDSOT236-0504C')
+    newPart['name'].append('Power_Protection : CDSOT236-0504C')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

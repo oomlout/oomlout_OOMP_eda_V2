@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'ABS2', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'DF01S1', 'kicadSymbolFootprint': 'Diode_SMD:Diode_Bridge_OnSemi_SDIP-4L', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pdf/datasheet/df10s1-d.pdf', 'kicadSymbolki_keywords': 'rectifier acdc', 'kicadSymbolki_description': 'Bridge Rectifier, 70V Vrms, 1.0A If, SMDIP-4', 'kicadSymbolki_fp_filters': 'Diode*Bridge*OnSemi*SDIP*4L*'}])
-    newPart['name'].append('DF01S1')
+    newPart['name'].append('Diode_Bridge : DF01S1')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

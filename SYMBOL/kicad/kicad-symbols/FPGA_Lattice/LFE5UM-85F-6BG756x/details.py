@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'LFE5UM5G-85F-8BG756x', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LFE5UM-85F-6BG756x', 'kicadSymbolFootprint': 'Package_BGA:Lattice_caBGA-756_27.0x27.0mm_Layout32x32_P0.8mm', 'kicadSymbolDatasheet': 'https://www.latticesemi.com/view_document?document_id=50461', 'kicadSymbolki_keywords': 'FPGA programmable logic', 'kicadSymbolki_description': 'ECP5 FPGA, 84K LUTs, 1.2V, 3.2Gbps SERDES, BGA-756', 'kicadSymbolki_fp_filters': 'Lattice*caBGA*27.0x27.0mm*Layout32x32*P0.8mm*'}])
-    newPart['name'].append('LFE5UM-85F-6BG756x')
+    newPart['name'].append('FPGA_Lattice : LFE5UM-85F-6BG756x')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

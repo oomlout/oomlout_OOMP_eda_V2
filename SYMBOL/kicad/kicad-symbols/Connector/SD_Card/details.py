@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'SD_Card', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://portal.fciconnect.com/Comergent//fci/drawing/10067847.pdf', 'kicadSymbolki_keywords': 'connector SD', 'kicadSymbolki_description': 'SD Card Reader', 'kicadSymbolki_fp_filters': 'SD*'}])
-    newPart['name'].append('SD_Card')
+    newPart['name'].append('Connector : SD_Card')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

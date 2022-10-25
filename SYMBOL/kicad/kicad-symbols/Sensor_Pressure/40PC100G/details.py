@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': '40PC015G', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '40PC100G', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.honeywellscportal.com//index.php?ci_id=138832', 'kicadSymbolki_keywords': 'gage gauge pressure sensor', 'kicadSymbolki_description': 'Gauge pressure sensor, 0 to 100PSI, 5V supply, 0.2% accuracy, integrated signal conditioning, excellent media compatibility'}])
-    newPart['name'].append('40PC100G')
+    newPart['name'].append('Sensor_Pressure : 40PC100G')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

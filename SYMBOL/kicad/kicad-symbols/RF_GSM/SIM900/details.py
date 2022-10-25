@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SIM900', 'kicadSymbolFootprint': 'RF_GSM:SIMCom_SIM900', 'kicadSymbolDatasheet': 'http://simcom.ee/documents/SIM900/SIM900_Hardware%20Design_V2.05.pdf', 'kicadSymbolki_keywords': 'GSM GPRS Quad-Band SMS FAX', 'kicadSymbolki_description': 'GSM Quad-Band Communication Module, GPRS, Audio Engine, AT Command Set', 'kicadSymbolki_fp_filters': 'SIMCom*SIM900*'}])
-    newPart['name'].append('SIM900')
+    newPart['name'].append('RF_GSM : SIM900')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

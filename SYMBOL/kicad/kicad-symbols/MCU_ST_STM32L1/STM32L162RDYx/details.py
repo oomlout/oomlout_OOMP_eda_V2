@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32L162RDYx', 'kicadSymbolFootprint': 'Package_CSP:ST_WLCSP-64_Die436', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00039232.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M3 STM32L1 STM32L162', 'kicadSymbolki_description': 'ARM Cortex-M3 MCU, 384KB flash, 48KB RAM, 32MHz, 1.65-3.6V, 51 GPIO, WLCSP-64', 'kicadSymbolki_fp_filters': 'ST_WLCSP*Die436*'}])
-    newPart['name'].append('STM32L162RDYx')
+    newPart['name'].append('MCU_ST_STM32L1 : STM32L162RDYx')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

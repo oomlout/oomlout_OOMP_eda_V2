@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'WeMos_D1_mini', 'kicadSymbolFootprint': 'Module:WEMOS_D1_mini_light', 'kicadSymbolDatasheet': 'https://wiki.wemos.cc/products:d1:d1_mini#documentation', 'kicadSymbolki_keywords': 'ESP8266 WiFi microcontroller ESP8266EX', 'kicadSymbolki_description': '32-bit microcontroller module with WiFi', 'kicadSymbolki_fp_filters': 'WEMOS*D1*mini*'}])
-    newPart['name'].append('WeMos_D1_mini')
+    newPart['name'].append('MCU_Module : WeMos_D1_mini')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

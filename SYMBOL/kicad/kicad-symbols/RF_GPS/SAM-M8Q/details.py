@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SAM-M8Q', 'kicadSymbolFootprint': 'RF_GPS:ublox_SAM-M8Q', 'kicadSymbolDatasheet': 'https://www.u-blox.com/sites/default/files/SAM-M8Q_DataSheet_%28UBX-16012619%29.pdf', 'kicadSymbolki_keywords': 'gps module with antenna', 'kicadSymbolki_description': 'GPS ublox M8 variant', 'kicadSymbolki_fp_filters': 'ublox*SAM?M8Q*'}])
-    newPart['name'].append('SAM-M8Q')
+    newPart['name'].append('RF_GPS : SAM-M8Q')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

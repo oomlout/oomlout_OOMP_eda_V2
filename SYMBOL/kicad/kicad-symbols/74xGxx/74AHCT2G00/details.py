@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': '74LVC2G00', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AHCT2G00', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT2G00.pdf', 'kicadSymbolki_keywords': 'Dual Gate NAND LVC CMOS', 'kicadSymbolki_description': 'Dual NAND Gate, TTL input High-speed Si-gate CMOS', 'kicadSymbolki_fp_filters': 'SSOP* VSSOP*'}])
-    newPart['name'].append('74AHCT2G00')
+    newPart['name'].append('74xGxx : 74AHCT2G00')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

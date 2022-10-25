@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'REF3012', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'REF3025', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ref3033.pdf', 'kicadSymbolki_keywords': 'voltage reference', 'kicadSymbolki_description': '2.500V 50-ppm/°C Max, 50-μA, CMOS Voltage Reference, SOT-23-3', 'kicadSymbolki_fp_filters': 'SOT?23*'}])
-    newPart['name'].append('REF3025')
+    newPart['name'].append('Reference_Voltage : REF3025')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

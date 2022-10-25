@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LP2987-5.0_SOIC8_VSSOP8', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lp2987.pdf', 'kicadSymbolki_keywords': 'Linear LDO Regulator 200mA 5V', 'kicadSymbolki_description': '200mA Linear LDO Regulator, MicroPower, Fixed Output 5.0V, SO8/MSOP8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm* SOIC*3.9x4.9mm*P1.27mm*'}])
-    newPart['name'].append('LP2987-5.0_SOIC8_VSSOP8')
+    newPart['name'].append('Regulator_Linear : LP2987-5.0_SOIC8_VSSOP8')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'G6HU-2', 'kicadSymbolFootprint': 'Relay_THT:Relay_DPDT_Omron_G6H-2', 'kicadSymbolDatasheet': 'http://cdn-reichelt.de/documents/datenblatt/C300/G6H%23OMR.pdf', 'kicadSymbolki_keywords': 'relay monostable', 'kicadSymbolki_description': 'Omron Ultracompact, Ultrasensitive DPDT Relay, Single-winding Latching', 'kicadSymbolki_fp_filters': 'Relay*Omron*G6H?2*'}])
-    newPart['name'].append('G6HU-2')
+    newPart['name'].append('Relay : G6HU-2')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

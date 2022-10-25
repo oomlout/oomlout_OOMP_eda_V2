@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BL652', 'kicadSymbolFootprint': 'RF_Module:Laird_BL652', 'kicadSymbolDatasheet': 'http://cdn.lairdtech.com/home/brandworld/files/Datasheet%20-%20BL652.pdf', 'kicadSymbolki_keywords': 'Bluetooth Nordic nRF52', 'kicadSymbolki_description': 'Bluetooth module', 'kicadSymbolki_fp_filters': 'Laird*BL652*'}])
-    newPart['name'].append('BL652')
+    newPart['name'].append('RF_Bluetooth : BL652')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

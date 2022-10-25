@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Conn_ARM_JTAG_SWD_10', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://infocenter.arm.com/help/topic/com.arm.doc.ddi0314h/DDI0314H_coresight_components_trm.pdf', 'kicadSymbolki_keywords': 'Cortex Debug Connector ARM SWD JTAG', 'kicadSymbolki_description': 'Cortex Debug Connector, standard ARM Cortex-M SWD and JTAG interface', 'kicadSymbolki_fp_filters': 'PinHeader?2x05?P1.27mm*'}])
-    newPart['name'].append('Conn_ARM_JTAG_SWD_10')
+    newPart['name'].append('Connector : Conn_ARM_JTAG_SWD_10')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'SN75240', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SN65240', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/sn65220.pdf', 'kicadSymbolki_keywords': 'USB suppressor', 'kicadSymbolki_description': 'USB port transient suppressors', 'kicadSymbolki_fp_filters': 'DIP*7.62mm* TSSOP*4.4x3mm*0.65mm*'}])
-    newPart['name'].append('SN65240')
+    newPart['name'].append('Power_Protection : SN65240')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

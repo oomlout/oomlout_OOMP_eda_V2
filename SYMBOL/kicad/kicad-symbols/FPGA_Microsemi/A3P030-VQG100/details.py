@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'A3P030-VQG100', 'kicadSymbolFootprint': 'Package_QFP:VQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.microsemi.com/document-portal/doc_download/130704-proasic3-flash-family-fpgas-datasheet', 'kicadSymbolki_keywords': 'ProASIC3 ACTEL FLASH', 'kicadSymbolki_description': 'Actel ProASIC3 Flash Family FPGAs, 256 MCLB, 100pin QFP100', 'kicadSymbolki_fp_filters': '*QFP*14x14mm*P0.5mm*'}])
-    newPart['name'].append('A3P030-VQG100')
+    newPart['name'].append('FPGA_Microsemi : A3P030-VQG100')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

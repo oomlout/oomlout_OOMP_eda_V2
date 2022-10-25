@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'Fujitsu_FTR-F1C', 'kicadSymbolFootprint': 'Relay_THT:Relay_DPDT_Fujitsu_FTR-F1C', 'kicadSymbolDatasheet': 'https://www.fujitsu.com/downloads/MICRO/fcai/relays/ftr-f1.pdf', 'kicadSymbolki_keywords': 'double pole double throw relay', 'kicadSymbolki_description': 'Fujitsu Low Profile Power Relay', 'kicadSymbolki_fp_filters': '*Relay*DPDT*Fujitsu*FTR*F1C*'}])
-    newPart['name'].append('Fujitsu_FTR-F1C')
+    newPart['name'].append('Relay : Fujitsu_FTR-F1C')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

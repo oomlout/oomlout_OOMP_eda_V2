@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Omega2S', 'kicadSymbolFootprint': 'Module:Onion_Omega2S', 'kicadSymbolDatasheet': 'https://github.com/OnionIoT/Omega2/raw/master/Documents/Omega2S%20Datasheet.pdf', 'kicadSymbolki_keywords': 'onion omega module', 'kicadSymbolki_description': 'Iot Computer Module by Onion, 64MB RAM, 16MB FLASH', 'kicadSymbolki_fp_filters': 'Onion*Omega2S*'}])
-    newPart['name'].append('Omega2S')
+    newPart['name'].append('MCU_Module : Omega2S')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

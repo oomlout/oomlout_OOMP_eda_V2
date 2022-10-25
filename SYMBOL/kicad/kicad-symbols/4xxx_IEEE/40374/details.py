@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '40374', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.digchip.com/datasheets/download_datasheet.php?id=369790&part-number=HEF40374BDB', 'kicadSymbolki_keywords': 'CMOS BUFFER 3State', 'kicadSymbolki_description': '8-bit D-flip-flop with 3-State outputs'}])
-    newPart['name'].append('40374')
+    newPart['name'].append('4xxx_IEEE : 40374')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

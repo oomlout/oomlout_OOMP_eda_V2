@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LDK130-ADJ_DFN6', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-6_1.3x1.2mm_P0.4mm', 'kicadSymbolDatasheet': 'http://www.st.com/content/ccc/resource/technical/document/datasheet/29/10/f7/87/2f/66/47/f4/DM00076097.pdf/files/DM00076097.pdf/jcr:content/translations/en.DM00076097.pdf', 'kicadSymbolki_keywords': 'linear regulator ldo adjustable positive low noise low quienscent current', 'kicadSymbolki_description': '300mA low dropout linear regulator, low quiescent current very, low noise, shutdown pin, adjustable positive output, DFN-6', 'kicadSymbolki_fp_filters': 'DFN*1.3x1.2mm*P0.4mm*'}])
-    newPart['name'].append('LDK130-ADJ_DFN6')
+    newPart['name'].append('Regulator_Linear : LDK130-ADJ_DFN6')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'LM2576HVT-12', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'GL2576-5.0TB5T', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-5_Vertical', 'kicadSymbolDatasheet': 'http://www.dianyuan.com/bbs/u/54/437861181916300.pdf', 'kicadSymbolki_keywords': '5V 3A 52KHz Buck DC/DC', 'kicadSymbolki_description': '5V 3A, 52KHz Step Down Converter, TO220-5', 'kicadSymbolki_fp_filters': 'TO?220*'}])
-    newPart['name'].append('GL2576-5.0TB5T')
+    newPart['name'].append('Regulator_Switching : GL2576-5.0TB5T')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

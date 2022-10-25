@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NLSV2T244MU', 'kicadSymbolFootprint': 'Package_DFN_QFN:OnSemi_UDFN-8_1.2x1.8mm_P0.4mm', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/NLSV2T244-D.PDF', 'kicadSymbolki_keywords': 'Level-Shifter CMOS-TTL-Translation', 'kicadSymbolki_description': 'Dual-Bit Dual-Supply Non-Inverting Level Translator, Output Enable, UDFN-8', 'kicadSymbolki_fp_filters': 'OnSemi*UDFN*1.2x1.8mm*P0.4mm*'}])
-    newPart['name'].append('NLSV2T244MU')
+    newPart['name'].append('Logic_LevelTranslator : NLSV2T244MU')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

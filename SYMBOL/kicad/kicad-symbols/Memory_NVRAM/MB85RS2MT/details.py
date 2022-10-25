@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'MB85RS16', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MB85RS2MT', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/MB85RS16-DS501-00014-6v0-E.pdf', 'kicadSymbolki_keywords': 'FRAM SPI 3.3V', 'kicadSymbolki_description': 'FRAM memory with SPI interface, SOIC-8 SON-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x5.05mm*P1.27mm* *SON*2x3mm*P0.50mm*'}])
-    newPart['name'].append('MB85RS2MT')
+    newPart['name'].append('Memory_NVRAM : MB85RS2MT')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'F', 'kicadSymbolValue': 'Polyfuse_Small', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'resettable fuse PTC PPTC polyfuse polyswitch', 'kicadSymbolki_description': 'Resettable fuse, polymeric positive temperature coefficient, small symbol', 'kicadSymbolki_fp_filters': '*polyfuse* *PTC*'}])
-    newPart['name'].append('Polyfuse_Small')
+    newPart['name'].append('Device : Polyfuse_Small')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

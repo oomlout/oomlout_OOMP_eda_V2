@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTM4637xV', 'kicadSymbolFootprint': 'Package_LGA:Linear_LGA-133_15.0x15.0mm_Layout12x12_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/4637fc.pdf', 'kicadSymbolki_keywords': 'uModule DCDC', 'kicadSymbolki_description': '20A DC/DC µModule Step-Down Regulator, LGA-133', 'kicadSymbolki_fp_filters': 'Linear*LGA*15.0x15.0mm*Layout12x12*P1.27mm*'}])
-    newPart['name'].append('LTM4637xV')
+    newPart['name'].append('Regulator_Switching : LTM4637xV')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPD2E2U06', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-543', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tpd2e2u06.pdf', 'kicadSymbolki_keywords': 'ESD-Protection', 'kicadSymbolki_description': 'Dual-Channel High-Speed ESD Protection', 'kicadSymbolki_fp_filters': 'SOT?543*'}])
-    newPart['name'].append('TPD2E2U06')
+    newPart['name'].append('Power_Protection : TPD2E2U06')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

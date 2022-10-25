@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'ICE40HX8K-BG121', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ICE40HX4K-BG121', 'kicadSymbolFootprint': 'Package_BGA:BGA-121_9.0x9.0mm_Layout11x11_P0.8mm_Ball0.4mm_Pad0.35mm_NSMD', 'kicadSymbolDatasheet': 'http://www.latticesemi.com/Products/FPGAandCPLD/iCE40', 'kicadSymbolki_keywords': 'FPGA programmable logic', 'kicadSymbolki_description': 'iCE40 HX FPGA, 3520 LUTs, 1.2V, BGA-121', 'kicadSymbolki_fp_filters': 'BGA*9.0x9.0mm*Layout11x11*P0.8mm*Ball0.4mm*'}])
-    newPart['name'].append('ICE40HX4K-BG121')
+    newPart['name'].append('FPGA_Lattice : ICE40HX4K-BG121')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

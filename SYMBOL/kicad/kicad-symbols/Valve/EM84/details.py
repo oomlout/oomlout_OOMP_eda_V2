@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EM84', 'kicadSymbolFootprint': 'Valve:Valve_Noval_P', 'kicadSymbolDatasheet': 'http://www.r-type.org/pdfs/em84.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'indicator tube valve magic eye', 'kicadSymbolki_description': 'indicator tube "magic eye"', 'kicadSymbolki_fp_filters': 'VALVE*NOVAL*P*'}])
-    newPart['name'].append('EM84')
+    newPart['name'].append('Valve : EM84')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

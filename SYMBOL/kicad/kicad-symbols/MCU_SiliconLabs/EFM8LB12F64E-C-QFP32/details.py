@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'EFM8LB12F32E-C-QFP32', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EFM8LB12F64E-C-QFP32', 'kicadSymbolFootprint': 'Package_QFP:LQFP-32_7x7mm_P0.8mm', 'kicadSymbolDatasheet': 'https://www.silabs.com/documents/public/data-sheets/efm8lb1-datasheet.pdf', 'kicadSymbolki_keywords': '8051 microcontroller', 'kicadSymbolki_description': '8051-compatible microcontroller, 72 MHz, 2.2 to 3.6V, 64K flash, 2304B RAM, -40 to +105 C, QFP-32', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.8mm*'}])
-    newPart['name'].append('EFM8LB12F64E-C-QFP32')
+    newPart['name'].append('MCU_SiliconLabs : EFM8LB12F64E-C-QFP32')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

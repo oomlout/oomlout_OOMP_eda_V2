@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'A', 'kicadSymbolValue': 'Adafruit_HUZZAH_ESP8266_breakout', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.adafruit.com/product/2471', 'kicadSymbolki_keywords': 'ESP8266 WiFi microcontroller', 'kicadSymbolki_description': '32-bit microcontroller module with WiFi', 'kicadSymbolki_fp_filters': 'Adafruit*HUZZAH*ESP8266*breakout* Adafruit*HUZZAH*ESP8266*breakout*WithMountingHoles*'}])
-    newPart['name'].append('Adafruit_HUZZAH_ESP8266_breakout')
+    newPart['name'].append('MCU_Module : Adafruit_HUZZAH_ESP8266_breakout')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

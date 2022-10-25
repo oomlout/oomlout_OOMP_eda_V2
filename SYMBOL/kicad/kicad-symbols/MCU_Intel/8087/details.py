@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '8087', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://datasheets.chipdb.org/Intel/x86/808x/datashts/8087/205835-007.pdf', 'kicadSymbolki_keywords': 'FPU', 'kicadSymbolki_description': 'Math Coprocessor for Intel 8086/8088/80186/80188 microprocessors, PDIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}])
-    newPart['name'].append('8087')
+    newPart['name'].append('MCU_Intel : 8087')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

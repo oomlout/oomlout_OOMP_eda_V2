@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'LT1761-5', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1761-1.5', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-5', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1761sff.pdf', 'kicadSymbolki_keywords': 'POWER LDO REGULATOR POSITIVE', 'kicadSymbolki_description': 'MICROPOWER Low Noise 1.5V 100mA LDO regulator, TSOT-23-5', 'kicadSymbolki_fp_filters': 'TSOT?23*'}])
-    newPart['name'].append('LT1761-1.5')
+    newPart['name'].append('Regulator_Linear : LT1761-1.5')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

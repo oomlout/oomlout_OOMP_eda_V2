@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SFH2701', 'kicadSymbolFootprint': 'LED_SMD:LED_1206_3216Metric_Castellated', 'kicadSymbolDatasheet': 'http://www.osram-os.com/Graphics/XPic6/00201111_0.pdf/SFH%202701.pdf', 'kicadSymbolki_keywords': 'opto photodiode', 'kicadSymbolki_description': 'High Speed PIN Photodiode, SMD package', 'kicadSymbolki_fp_filters': 'LED*1206*'}])
-    newPart['name'].append('SFH2701')
+    newPart['name'].append('Sensor_Optical : SFH2701')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

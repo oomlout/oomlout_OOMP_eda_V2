@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'AP2204R-1.5', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AP2204R-5.0', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-89-3', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/AP2204.pdf', 'kicadSymbolki_keywords': 'linear regulator ldo fixed positive', 'kicadSymbolki_description': '150mA low dropout linear regulator, wide input voltage range, 5.0V fixed positive output, SOT-89-3 package', 'kicadSymbolki_fp_filters': 'SOT?89*'}])
-    newPart['name'].append('AP2204R-5.0')
+    newPart['name'].append('Regulator_Linear : AP2204R-5.0')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

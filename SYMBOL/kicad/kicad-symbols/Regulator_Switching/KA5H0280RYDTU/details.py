@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'KA5M0265RYDTU', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'KA5H0280RYDTU', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:ONSemi_TO-220F-4L_Forming', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/KA5L0265R-D.PDF', 'kicadSymbolki_keywords': 'SMPS Controller AC-DC', 'kicadSymbolki_description': '100kHz SMPS Controller, AC-DC, TO-220F-4L(Forming)', 'kicadSymbolki_fp_filters': '*TO*220*4*'}])
-    newPart['name'].append('KA5H0280RYDTU')
+    newPart['name'].append('Regulator_Switching : KA5H0280RYDTU')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

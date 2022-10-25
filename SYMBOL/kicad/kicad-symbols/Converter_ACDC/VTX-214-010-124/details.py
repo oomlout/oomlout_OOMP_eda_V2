@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'VTX-214-010-103', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'VTX-214-010-124', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT', 'kicadSymbolDatasheet': 'http://www.vigortronix.com/10WattACDCPCBPowerModule.aspx', 'kicadSymbolki_keywords': '24V 10W AC-DC module power supply', 'kicadSymbolki_description': '24V Vigortronix 10W ACDC Converters', 'kicadSymbolki_fp_filters': 'Converter*ACDC*Vigortronix*VTX*214*010*xxx*'}])
-    newPart['name'].append('VTX-214-010-124')
+    newPart['name'].append('Converter_ACDC : VTX-214-010-124')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

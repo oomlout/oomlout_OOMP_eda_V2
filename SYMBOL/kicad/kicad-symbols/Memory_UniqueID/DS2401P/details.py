@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DS2401P', 'kicadSymbolFootprint': 'Package_SO_J-Lead:TSOC-6_3.76x3.94mm_P1.27mm', 'kicadSymbolDatasheet': 'http://pdfserv.maximintegrated.com/en/ds/DS2401.pdf', 'kicadSymbolki_keywords': 'OneWire 1-Wire 1Wire Maxim Dallas ID', 'kicadSymbolki_description': 'Silicon Serial Number, TSOC-6', 'kicadSymbolki_fp_filters': 'TSOC*'}])
-    newPart['name'].append('DS2401P')
+    newPart['name'].append('Memory_UniqueID : DS2401P')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

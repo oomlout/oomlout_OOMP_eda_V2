@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'FAN7888', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FAN7388', 'kicadSymbolFootprint': 'Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FAN7388-D.pdf', 'kicadSymbolki_keywords': '3 Phase Gate Driver', 'kicadSymbolki_description': '3 Half-Bridge Gate-Drive IC, 600V operation, Output Current 350/650mA, SOIC-20', 'kicadSymbolki_fp_filters': 'SOIC*7.5x12.8*P1.27mm*'}])
-    newPart['name'].append('FAN7388')
+    newPart['name'].append('Driver_FET : FAN7388')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

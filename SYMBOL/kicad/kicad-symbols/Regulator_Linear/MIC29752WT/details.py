@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MIC29752WT', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-247-5_Vertical', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/20005685a.pdf', 'kicadSymbolki_keywords': '7.5A LDO linear voltage regulator adjustable positive', 'kicadSymbolki_description': '7.5A low dropout linear regulator, adjustable output, TO-247', 'kicadSymbolki_fp_filters': 'TO*247*'}])
-    newPart['name'].append('MIC29752WT')
+    newPart['name'].append('Regulator_Linear : MIC29752WT')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Si571', 'kicadSymbolFootprint': 'Oscillator:Oscillator_SMD_SI570_SI571_Standard', 'kicadSymbolDatasheet': 'http://www.silabs.com/Support%20Documents/TechnicalDocs/si570.pdf', 'kicadSymbolki_keywords': '10 MHZ TO 1.4 GHZ I2C PROGRAMMABLE XO/VCXO', 'kicadSymbolki_description': '10 MHZ TO 1.4 GHZ I2C PROGRAMMABLE XO/VCXO', 'kicadSymbolki_fp_filters': 'Oscillator*SI570*SI571*'}])
-    newPart['name'].append('Si571')
+    newPart['name'].append('Oscillator : Si571')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'PIC32MX210F016D-IPT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC32MX270F256D-IPT', 'kicadSymbolFootprint': 'Package_QFP:TQFP-44_10x10mm_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/60001168F.pdf', 'kicadSymbolki_keywords': 'Microchip PIC32 Microcontroller MIPS', 'kicadSymbolki_description': '32-bit Microcontrollers (256KB Flash and 64KB SRAM TQFP-44) with Audio and Graphics Interfaces, USB, and Advanced Analog', 'kicadSymbolki_fp_filters': 'TQFP*10x10mm*P0.8mm*'}])
-    newPart['name'].append('PIC32MX270F256D-IPT')
+    newPart['name'].append('MCU_Microchip_PIC32 : PIC32MX270F256D-IPT')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

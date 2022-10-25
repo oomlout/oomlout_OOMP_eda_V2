@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'BDW93', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BDW93B', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/BDW93C-D.pdf', 'kicadSymbolki_keywords': 'Darlington NPN Transistor', 'kicadSymbolki_description': '12A Ic, 80V Vce, Power Darlington NPN Transistor, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}])
-    newPart['name'].append('BDW93B')
+    newPart['name'].append('Transistor_BJT : BDW93B')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

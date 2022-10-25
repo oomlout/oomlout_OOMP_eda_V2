@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'AD8422ARMZ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD8236ARMZ', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD8236.pdf', 'kicadSymbolki_keywords': 'ad8236 instumentation amplifier msop-8', 'kicadSymbolki_description': 'Micropower Instumentation Amplifier with Zero Crossover Distortion, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP-8*'}])
-    newPart['name'].append('AD8236ARMZ')
+    newPart['name'].append('Amplifier_Instrumentation : AD8236ARMZ')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

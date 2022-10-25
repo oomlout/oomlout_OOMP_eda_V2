@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'D168K', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'D1X8K-14BL', 'kicadSymbolFootprint': 'Display_7Segment:D1X8K', 'kicadSymbolDatasheet': 'https://ia800903.us.archive.org/24/items/CTKD1x8K/Cromatek%20D168K.pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'One digit 7 segment ultra bright blue LED, low current, common cathode', 'kicadSymbolki_fp_filters': 'D1X8K*'}])
-    newPart['name'].append('D1X8K-14BL')
+    newPart['name'].append('Display_Character : D1X8K-14BL')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

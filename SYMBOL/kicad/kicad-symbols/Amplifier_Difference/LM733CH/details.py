@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM733CH', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-5-10', 'kicadSymbolDatasheet': 'http://www.soemtron.org/downloads/disposals/lm733cn.pdf', 'kicadSymbolki_keywords': 'single differential video opamp', 'kicadSymbolki_description': 'Single Differential Amplifier, TO-5-10', 'kicadSymbolki_fp_filters': 'TO?5*'}])
-    newPart['name'].append('LM733CH')
+    newPart['name'].append('Amplifier_Difference : LM733CH')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

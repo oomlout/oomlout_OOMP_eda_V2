@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TP', 'kicadSymbolValue': 'CoaxialSwitch_Testpoint', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': ' Coaxial Switch RF testpoint', 'kicadSymbolki_description': 'Subminiature Coaxial Switch testpoint', 'kicadSymbolki_fp_filters': 'CoaxialSwitch*'}])
-    newPart['name'].append('CoaxialSwitch_Testpoint')
+    newPart['name'].append('Connector : CoaxialSwitch_Testpoint')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

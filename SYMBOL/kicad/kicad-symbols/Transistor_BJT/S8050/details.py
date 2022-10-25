@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'S8050', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://www.unisonic.com.tw/datasheet/S8050.pdf', 'kicadSymbolki_keywords': 'S8050 NPN Low Voltage High Current Transistor', 'kicadSymbolki_description': '0.7A Ic, 20V Vce, Low Voltage High Current NPN Transistor, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}])
-    newPart['name'].append('S8050')
+    newPart['name'].append('Transistor_BJT : S8050')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

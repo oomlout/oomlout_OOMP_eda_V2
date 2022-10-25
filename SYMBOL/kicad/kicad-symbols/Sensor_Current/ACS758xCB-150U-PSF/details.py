@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'ACS758xCB-100B-PSF', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ACS758xCB-150U-PSF', 'kicadSymbolFootprint': 'Sensor_Current:Allegro_CB_PSF', 'kicadSymbolDatasheet': 'http://www.allegromicro.com/~/media/Files/Datasheets/ACS758-Datasheet.ashx?la=en', 'kicadSymbolki_keywords': 'hall effect current monitor sensor isolated', 'kicadSymbolki_description': '150A Unidirectional Hall-Effect Current Sensor, +5.0V supply, 26.7mV/A, CB-5 PSF', 'kicadSymbolki_fp_filters': 'Allegro*CB*PSF*'}])
-    newPart['name'].append('ACS758xCB-150U-PSF')
+    newPart['name'].append('Sensor_Current : ACS758xCB-150U-PSF')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

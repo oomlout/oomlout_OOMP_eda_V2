@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LVC1GU04DRL', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-553', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/sn74lvc1gu04.pdf', 'kicadSymbolki_keywords': 'inverter cmos', 'kicadSymbolki_description': 'Single Inverter Gate, SOT-553', 'kicadSymbolki_fp_filters': 'SOT*553*'}])
-    newPart['name'].append('74LVC1GU04DRL')
+    newPart['name'].append('74xGxx : 74LVC1GU04DRL')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

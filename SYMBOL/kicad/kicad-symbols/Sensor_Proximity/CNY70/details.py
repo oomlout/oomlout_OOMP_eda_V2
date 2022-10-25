@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CNY70', 'kicadSymbolFootprint': 'OptoDevice:Vishay_CNY70', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/83751/cny70.pdf', 'kicadSymbolki_keywords': 'Reflective Optical Sensor Opto', 'kicadSymbolki_description': 'Reflective Optical Sensor with Transistor Output', 'kicadSymbolki_fp_filters': 'Vishay*CNY70*'}])
-    newPart['name'].append('CNY70')
+    newPart['name'].append('Sensor_Proximity : CNY70')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

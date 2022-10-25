@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADF4351', 'kicadSymbolFootprint': 'Package_CSP:LFCSP-32-1EP_5x5mm_P0.5mm_EP3.25x3.25mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADF4351.pdf', 'kicadSymbolki_keywords': 'fractional-N PLL', 'kicadSymbolki_description': '35-4400MHz fractional-N PLL, LFCSP-32', 'kicadSymbolki_fp_filters': 'LFCSP*32*1EP*5x5mm*P0.5mm*EP3.25x3.25mm*'}])
-    newPart['name'].append('ADF4351')
+    newPart['name'].append('Timer_PLL : ADF4351')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

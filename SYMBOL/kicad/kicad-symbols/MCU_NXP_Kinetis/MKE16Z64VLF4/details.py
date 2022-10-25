@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MKE16Z64VLF4', 'kicadSymbolFootprint': 'Package_QFP:LQFP-48_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/KE1xZP48M48SF0.pdf', 'kicadSymbolki_keywords': 'Kinetis KE16 ARM Cortex M0+', 'kicadSymbolki_description': 'Kinetis KE1xZ series, 48-MHz/32-bit ARM Cortex-M0+, 64 kB flash, 8 kB RAM, Mainstream, Touch (TSI) and CAN control, LQFP-48', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.5mm*'}])
-    newPart['name'].append('MKE16Z64VLF4')
+    newPart['name'].append('MCU_NXP_Kinetis : MKE16Z64VLF4')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

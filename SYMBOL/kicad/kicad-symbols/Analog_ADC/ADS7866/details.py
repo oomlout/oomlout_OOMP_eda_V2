@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADS7866', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ads7866.pdf', 'kicadSymbolki_keywords': 'ADC', 'kicadSymbolki_description': 'Single Channel 12-bit ADC,  100-200ksps, SPI, micro-power, SOT-23-6', 'kicadSymbolki_fp_filters': '*SOT?23?6*'}])
-    newPart['name'].append('ADS7866')
+    newPart['name'].append('Analog_ADC : ADS7866')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MUN12AD03-SH', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_Cyntec_MUN12AD03-SH', 'kicadSymbolDatasheet': 'http://www.cyntec.com/upfile/products/download/Cyntec%20MUN12AD03-SH_Datasheet.pdf', 'kicadSymbolki_keywords': 'DC/DC Switching Regulator Power Module 3A Cyntec MUN12AD03', 'kicadSymbolki_description': 'DC/DC Switching Regulator, Power Module, 3A, Cyntec MUN12AD03', 'kicadSymbolki_fp_filters': 'Converter?DCDC?Cyntec?MUN12AD03?SH*'}])
-    newPart['name'].append('MUN12AD03-SH')
+    newPart['name'].append('Regulator_Switching : MUN12AD03-SH')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

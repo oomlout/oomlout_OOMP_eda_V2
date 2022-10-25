@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CXD3400N', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'videocxd3400n.pdf', 'kicadSymbolki_keywords': 'CCD Clock Driver', 'kicadSymbolki_description': '6-channel Vertical Clock Driver for CCD Image Sensor, SSOP-20', 'kicadSymbolki_fp_filters': 'SSOP*'}])
-    newPart['name'].append('CXD3400N')
+    newPart['name'].append('Video : CXD3400N')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

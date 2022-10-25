@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'CSD16301Q2', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'CSD17313Q2', 'kicadSymbolFootprint': 'Package_SON:Texas_DQK', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/csd17313q2.pdf', 'kicadSymbolki_keywords': 'NexFET Power MOSFET N-MOS', 'kicadSymbolki_description': '5A Id, 30V Vds, NexFET N-Channel Power MOSFET, 24mOhm Ron, SON-6', 'kicadSymbolki_fp_filters': 'Texas*DQK*'}])
-    newPart['name'].append('CSD17313Q2')
+    newPart['name'].append('Transistor_FET : CSD17313Q2')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX16050xTI', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-28-1EP_4x4mm_P0.4mm_EP2.6x2.6mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX16050-MAX16051.pdf', 'kicadSymbolki_keywords': 'power sequencing', 'kicadSymbolki_description': '5 Voltage Monitor/Sequencer with Reverse-Sequencing Capability, QFN-28', 'kicadSymbolki_fp_filters': 'QFN*1EP*4x4mm*P0.4mm*'}])
-    newPart['name'].append('MAX16050xTI')
+    newPart['name'].append('Power_Supervisor : MAX16050xTI')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

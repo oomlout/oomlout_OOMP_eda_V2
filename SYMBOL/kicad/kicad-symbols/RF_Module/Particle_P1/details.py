@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Particle_P1', 'kicadSymbolFootprint': 'RF_Module:Particle_P1', 'kicadSymbolDatasheet': 'https://docs.particle.io/datasheets/p1-datasheet/', 'kicadSymbolki_keywords': 'Wi-Fi module', 'kicadSymbolki_description': 'Wi-Fi module, 1MB flash, 128KB RAM', 'kicadSymbolki_fp_filters': 'Particle*P1*'}])
-    newPart['name'].append('Particle_P1')
+    newPart['name'].append('RF_Module : Particle_P1')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

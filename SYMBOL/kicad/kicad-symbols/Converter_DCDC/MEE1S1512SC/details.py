@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'MEE1S0303SC', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'MEE1S1512SC', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_Murata_MEE1SxxxxSC_THT', 'kicadSymbolDatasheet': 'https://power.murata.com/pub/data/power/ncl/kdc_mee1.pdf', 'kicadSymbolki_keywords': 'murata DC/DC isolated converter', 'kicadSymbolki_description': '1W, 1000 VDC isolated DC/DC converter, 15V input, 12V output, SIP', 'kicadSymbolki_fp_filters': 'Converter*DCDC*Murata*MEE1SxxxxSC*THT*'}])
-    newPart['name'].append('MEE1S1512SC')
+    newPart['name'].append('Converter_DCDC : MEE1S1512SC')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

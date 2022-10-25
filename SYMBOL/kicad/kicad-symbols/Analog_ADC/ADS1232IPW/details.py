@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADS1232IPW', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ads1232.pdf', 'kicadSymbolki_keywords': 'ADC 24bit Sensors Dual Channel', 'kicadSymbolki_description': 'Single Bridge 24bit ADC for Sensors, TSSOP-24', 'kicadSymbolki_fp_filters': 'TSSOP*'}])
-    newPart['name'].append('ADS1232IPW')
+    newPart['name'].append('Analog_ADC : ADS1232IPW')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

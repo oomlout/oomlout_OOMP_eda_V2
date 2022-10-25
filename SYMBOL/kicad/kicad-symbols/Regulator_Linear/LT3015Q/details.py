@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT3015Q', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-5_TabPin3', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/3015fb.pdf', 'kicadSymbolki_keywords': 'low noise voltage regulator', 'kicadSymbolki_description': '1.5A, Adjustable, Low Noise, Negative Voltage Regulator, TO-263-5', 'kicadSymbolki_fp_filters': 'TO*263*'}])
-    newPart['name'].append('LT3015Q')
+    newPart['name'].append('Regulator_Linear : LT3015Q')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

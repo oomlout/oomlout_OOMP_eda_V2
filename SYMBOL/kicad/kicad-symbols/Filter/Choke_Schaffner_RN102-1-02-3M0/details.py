@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'Choke_Schaffner_RN102-0.3-02-22M', 'kicadSymbolReference': 'FL', 'kicadSymbolValue': 'Choke_Schaffner_RN102-1-02-3M0', 'kicadSymbolFootprint': 'Inductor_THT:Choke_Schaffner_RN102-04-14.0x14.0mm', 'kicadSymbolDatasheet': 'https://www.schaffner.com/products/download/product/datasheet/rn-series-common-mode-chokes-new/', 'kicadSymbolki_keywords': 'common-mode common mode choke powerline power line filter', 'kicadSymbolki_description': 'Common mode choke, 1A, 300VAC, 3mH, 210mohm, RN-102', 'kicadSymbolki_fp_filters': 'Choke*Schaffner*RN102*'}])
-    newPart['name'].append('Choke_Schaffner_RN102-1-02-3M0')
+    newPart['name'].append('Filter : Choke_Schaffner_RN102-1-02-3M0')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

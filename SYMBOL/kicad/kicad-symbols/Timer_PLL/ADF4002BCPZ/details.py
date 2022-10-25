@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADF4002BCPZ', 'kicadSymbolFootprint': 'Package_CSP:LFCSP-20-1EP_4x4mm_P0.5mm_EP2.1x2.1mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADF4002.pdf', 'kicadSymbolki_keywords': 'Analog Devices PFD', 'kicadSymbolki_description': '400MHz Bandwidth Frequency Synthesizer, LFCSP-20', 'kicadSymbolki_fp_filters': 'LFCSP*4x4mm*P0.5mm*EP2.1x2.1mm*'}])
-    newPart['name'].append('ADF4002BCPZ')
+    newPart['name'].append('Timer_PLL : ADF4002BCPZ')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

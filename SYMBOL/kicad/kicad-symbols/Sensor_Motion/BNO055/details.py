@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BNO055', 'kicadSymbolFootprint': 'Package_LGA:LGA-28_5.2x3.8mm_P0.5mm', 'kicadSymbolDatasheet': 'https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST_BNO055_DS000_14.pdf', 'kicadSymbolki_keywords': 'IMU, Sensor Fusion, I2C, UART', 'kicadSymbolki_description': 'Intelligent 9-axis absolute orientation sensor, LGA-28', 'kicadSymbolki_fp_filters': 'LGA*5.2x3.8mm*P0.5mm*'}])
-    newPart['name'].append('BNO055')
+    newPart['name'].append('Sensor_Motion : BNO055')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

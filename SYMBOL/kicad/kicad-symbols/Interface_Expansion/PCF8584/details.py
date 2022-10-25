@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PCF8584', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.nxp.com/documents/data_sheet/PCF8584.pdf', 'kicadSymbolki_keywords': 'I2C Bus', 'kicadSymbolki_description': 'I2C Bus Controller, DIP/SOIC-20', 'kicadSymbolki_fp_filters': 'DIP* PDIP* SO* SOIC*'}])
-    newPart['name'].append('PCF8584')
+    newPart['name'].append('Interface_Expansion : PCF8584')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

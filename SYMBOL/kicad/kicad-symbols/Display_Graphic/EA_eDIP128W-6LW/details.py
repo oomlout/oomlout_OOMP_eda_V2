@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'EA_eDIP128B-6LW', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EA_eDIP128W-6LW', 'kicadSymbolFootprint': 'Display:EA-eDIP128B-XXX', 'kicadSymbolDatasheet': 'http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip128-6e.pdf', 'kicadSymbolki_keywords': 'display LCD graphic', 'kicadSymbolki_description': 'LCD-graphical display with LED backlight positive mode FSTN, 3.3V - 5V VDD, RS-232. I2C or SPI', 'kicadSymbolki_fp_filters': '*EA*eDIP128B*'}])
-    newPart['name'].append('EA_eDIP128W-6LW')
+    newPart['name'].append('Display_Graphic : EA_eDIP128W-6LW')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

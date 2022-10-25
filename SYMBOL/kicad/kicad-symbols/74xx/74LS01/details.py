@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS01', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.nteinc.com/specs/7400to7499/pdf/nte74LS01.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL nand 2-input open collector', 'kicadSymbolki_description': 'quad 2-input NAND gate, open collector outputs NRND', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}])
-    newPart['name'].append('74LS01')
+    newPart['name'].append('74xx : 74LS01')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

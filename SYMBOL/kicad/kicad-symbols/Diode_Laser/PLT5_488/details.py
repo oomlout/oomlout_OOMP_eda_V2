@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'LD', 'kicadSymbolValue': 'PLT5_488', 'kicadSymbolFootprint': 'OptoDevice:LaserDiode_TO56-3', 'kicadSymbolDatasheet': 'http://www.osram-os.com/Graphics/XPic6/00206440_0.pdf/PLT5%20488.pdf', 'kicadSymbolki_keywords': 'opto laserdiode', 'kicadSymbolki_description': 'Cyan Laser Diode (488nm), TO-56', 'kicadSymbolki_fp_filters': 'LaserDiode*TO56*'}])
-    newPart['name'].append('PLT5_488')
+    newPart['name'].append('Diode_Laser : PLT5_488')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

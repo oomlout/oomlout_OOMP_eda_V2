@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX3284E', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX3280E-MAX3284E.pdf', 'kicadSymbolki_keywords': 'RS-485 RS-422 True Fail-Safe Receivers 1/4 unit load receiver', 'kicadSymbolki_description': '±15kV ESD-Protected 52Mbps, 3V to 5.5V RS-485/RS-422 True Fail-Safe Receivers, SOT23', 'kicadSymbolki_fp_filters': 'SOT?23*'}])
-    newPart['name'].append('MAX3284E')
+    newPart['name'].append('Interface_UART : MAX3284E')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

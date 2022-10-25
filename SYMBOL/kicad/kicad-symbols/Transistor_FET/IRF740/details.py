@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'BUZ11', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF740', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/91054/91054.pdf', 'kicadSymbolki_keywords': 'N Channel', 'kicadSymbolki_description': '10A Id, 400V Vds, N-Channel Power MOSFET, 500mOhm Rds, TO-220AB', 'kicadSymbolki_fp_filters': 'TO?220*'}])
-    newPart['name'].append('IRF740')
+    newPart['name'].append('Transistor_FET : IRF740')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

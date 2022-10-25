@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'JTE0624D03', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'JTE0624D05', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_XP_POWER_JTExxxxDxx_THT', 'kicadSymbolDatasheet': 'https://www.xppower.com/Portals/0/pdfs/SF_JTE06.pdf', 'kicadSymbolki_keywords': 'XP_POWER isolated DC/DC Converter module', 'kicadSymbolki_description': 'XP Power 6W Isolated DC/DC Converter Module, Dual Output Voltage ±5V, 9-36V Input Voltage', 'kicadSymbolki_fp_filters': '*XP?POWER*JTExxxxDxx*'}])
-    newPart['name'].append('JTE0624D05')
+    newPart['name'].append('Converter_DCDC : JTE0624D05')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

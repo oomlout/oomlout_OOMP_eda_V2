@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'VS-6ESU06', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-277A', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/94987/vs-6esu06hm3.pdf', 'kicadSymbolki_keywords': 'diode fred', 'kicadSymbolki_description': '600V 6.0A Ultrafast Rectifier, TO-277A', 'kicadSymbolki_fp_filters': 'TO?277A*'}])
-    newPart['name'].append('VS-6ESU06')
+    newPart['name'].append('Diode : VS-6ESU06')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'R-78B1.2-2.0', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'R-78B2.5-2.0', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_RECOM_R-78B-2.0_THT', 'kicadSymbolDatasheet': 'https://www.recom-power.com/pdf/Innoline/R-78Bxx-2.0.pdf', 'kicadSymbolki_keywords': 'dc-dc recom Step-Down DC/DC-Regulator', 'kicadSymbolki_description': '2A Step-Down DC/DC-Regulator, 4.75-32V input, 2.5V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3', 'kicadSymbolki_fp_filters': 'Converter*DCDC*RECOM*R*78B*2.0*'}])
-    newPart['name'].append('R-78B2.5-2.0')
+    newPart['name'].append('Regulator_Switching : R-78B2.5-2.0')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

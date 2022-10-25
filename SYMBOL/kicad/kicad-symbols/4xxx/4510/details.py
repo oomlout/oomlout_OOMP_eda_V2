@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4510', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://pdf.datasheetcatalog.com/datasheets/150/109581_DS.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'CMOS CNT CNT4', 'kicadSymbolki_description': '4 bits programmable counter', 'kicadSymbolki_fp_filters': 'DIP?16*'}])
-    newPart['name'].append('4510')
+    newPart['name'].append('4xxx : 4510')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

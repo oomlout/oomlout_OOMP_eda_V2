@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'ACPL-C790', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ACPL-C79B', 'kicadSymbolFootprint': 'Package_SO:SSO-8_6.8x5.9mm_P1.27mm_Clearance8mm', 'kicadSymbolDatasheet': 'http://docs.avagotech.com/docs/AV02-2460EN', 'kicadSymbolki_keywords': 'Isolation Amplifer', 'kicadSymbolki_description': 'Precision Isolation Amplifer, ±0.5% Gain Tolerance, Bandwidth 200kHz, SSO-8', 'kicadSymbolki_fp_filters': 'SSO*6.8x5.9mm*P1.27mm*Clearance8mm*'}])
-    newPart['name'].append('ACPL-C79B')
+    newPart['name'].append('Isolator_Analog : ACPL-C79B')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

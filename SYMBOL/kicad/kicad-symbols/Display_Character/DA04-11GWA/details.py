@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'DA04-11CGKWA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DA04-11GWA', 'kicadSymbolFootprint': 'Display_7Segment:DA04-11CGKWA', 'kicadSymbolDatasheet': 'http://www.kingbrightusa.com/images/catalog/SPEC/DA04-11GWA.pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'Double 7 segment green LED common anode', 'kicadSymbolki_fp_filters': '*DA04*11*'}])
-    newPart['name'].append('DA04-11GWA')
+    newPart['name'].append('Display_Character : DA04-11GWA')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

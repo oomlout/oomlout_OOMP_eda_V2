@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'PIC18F96J60-IPT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18F96J65-IPT', 'kicadSymbolFootprint': 'Package_QFP:TQFP-100_12x12mm_P0.4mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/39762f.pdf', 'kicadSymbolki_keywords': 'Flash Based 8-Bit Microcontroller Ethernet Controller PHY', 'kicadSymbolki_description': '96K Flash, 3.7K SRAM, Ethernet Controller with PHY, 8K Buffer, TQFP100', 'kicadSymbolki_fp_filters': 'TQFP*12x12mm*P0.4mm* TQFP*14x14mm*P0.5mm*'}])
-    newPart['name'].append('PIC18F96J65-IPT')
+    newPart['name'].append('MCU_Microchip_PIC18 : PIC18F96J65-IPT')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'AD8603', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA188xxDBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/opa188.pdf', 'kicadSymbolki_keywords': 'single opamp zero-drift', 'kicadSymbolki_description': 'Zero-Drift, Precision, Low-Noise, Rail-to-Rail Output, 36-V Operational Amplifier, TSOT-23-5', 'kicadSymbolki_fp_filters': 'TSOT*23*'}])
-    newPart['name'].append('OPA188xxDBV')
+    newPart['name'].append('Amplifier_Operational : OPA188xxDBV')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

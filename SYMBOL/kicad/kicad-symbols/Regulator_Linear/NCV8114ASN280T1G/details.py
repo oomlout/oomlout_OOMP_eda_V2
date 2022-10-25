@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'NCV8114ASN120T1G', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCV8114ASN280T1G', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-5', 'kicadSymbolDatasheet': 'https://ru.mouser.com/datasheet/2/308/NCV8114-D-1107616.pdf', 'kicadSymbolki_keywords': 'linear regulator ldo fixed positive', 'kicadSymbolki_description': '300mA, Low Noise, Linear Regulator with output active discharge function, 1.7-5.5V input voltage range, 2.8V fixed positive output, TSOT-23-5', 'kicadSymbolki_fp_filters': 'TSOT?23*'}])
-    newPart['name'].append('NCV8114ASN280T1G')
+    newPart['name'].append('Regulator_Linear : NCV8114ASN280T1G')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

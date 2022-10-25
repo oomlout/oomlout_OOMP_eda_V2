@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX17261xxTD', 'kicadSymbolFootprint': 'Package_DFN_QFN:TDFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX17261.pdf', 'kicadSymbolki_keywords': 'Charge pump, battery', 'kicadSymbolki_description': '5.1μA Multi-Cell Fuel Gauge with ModelGauge m5 EZ, TDFN-14', 'kicadSymbolki_fp_filters': 'TDFN*1EP*3x3mm*P0.4mm*'}])
-    newPart['name'].append('MAX17261xxTD')
+    newPart['name'].append('Battery_Management : MAX17261xxTD')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

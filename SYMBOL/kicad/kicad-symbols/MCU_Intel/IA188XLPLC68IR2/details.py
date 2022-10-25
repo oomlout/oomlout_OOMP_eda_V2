@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': '80C188', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IA188XLPLC68IR2', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.innovasic.com/upload/products/Innovasic_IA186XL_IA188XL_Data_Sheet_20110706_2.pdf', 'kicadSymbolki_keywords': 'MPRO', 'kicadSymbolki_description': 'MCU Replacement for Intel 80C188XL', 'kicadSymbolki_fp_filters': 'PLCC* PGA*Layout11x11*P2.54mm* LCC*'}])
-    newPart['name'].append('IA188XLPLC68IR2')
+    newPart['name'].append('MCU_Intel : IA188XLPLC68IR2')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

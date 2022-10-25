@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IGLD60R070D1', 'kicadSymbolFootprint': 'Package_SON:Infineon_PG-LSON-8-1', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-IGLD60R070D1-DataSheet-v02_00-EN.pdf?fileId=5546d46265f064ff016685f03f056511', 'kicadSymbolki_keywords': 'N-Channel GaN MOSFET', 'kicadSymbolki_description': '15A Id, 600V Vds, 70mOhm, N-Channel GaN MOSFET, LSON-8', 'kicadSymbolki_fp_filters': 'Infineon*PG*LSON*1*'}])
-    newPart['name'].append('IGLD60R070D1')
+    newPart['name'].append('Transistor_FET : IGLD60R070D1')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'LMR16006YQ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LMR16006YQ3', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lmr16006y-q1.pdf', 'kicadSymbolki_keywords': 'simple-switcher buck step-down voltage-regulator', 'kicadSymbolki_description': 'Simple Switcher Buck Regulator, Vin=4-40V, Iout=600mA, Fixed 3.3V output voltage, SOT-23-6 package', 'kicadSymbolki_fp_filters': 'SOT?23*'}])
-    newPart['name'].append('LMR16006YQ3')
+    newPart['name'].append('Regulator_Switching : LMR16006YQ3')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

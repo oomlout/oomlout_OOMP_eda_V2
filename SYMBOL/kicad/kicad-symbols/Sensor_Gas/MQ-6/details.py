@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MQ-6', 'kicadSymbolFootprint': 'Sensor:MQ-6', 'kicadSymbolDatasheet': 'https://www.winsen-sensor.com/d/files/semiconductor/mq-6.pdf', 'kicadSymbolki_keywords': 'flammable gas sensor LPG', 'kicadSymbolki_description': 'Semiconductor Sensor for Flammable Gas', 'kicadSymbolki_fp_filters': '*MQ*6*'}])
-    newPart['name'].append('MQ-6')
+    newPart['name'].append('Sensor_Gas : MQ-6')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

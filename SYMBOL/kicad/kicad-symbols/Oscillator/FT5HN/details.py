@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FT5HN', 'kicadSymbolFootprint': 'Oscillator:Oscillator_SMD_Fox_FT5H_5.0x3.2mm', 'kicadSymbolDatasheet': 'https://foxonline.com/wp-content/uploads/pdfs/T5HN_T5HV.pdf', 'kicadSymbolki_keywords': 'TXCO', 'kicadSymbolki_description': 'HCMOS temperature compensated oscillator', 'kicadSymbolki_fp_filters': 'Oscillator*SMD*Fox*FT5H*5.0x3.2mm*'}])
-    newPart['name'].append('FT5HN')
+    newPart['name'].append('Oscillator : FT5HN')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

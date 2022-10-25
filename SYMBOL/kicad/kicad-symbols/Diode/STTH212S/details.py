@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'STTH212S', 'kicadSymbolFootprint': 'Diode_SMD:D_SMC', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/stth212.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '1200V 2A High Voltage Ultrafast Diode, SMC', 'kicadSymbolki_fp_filters': 'D?SMC*'}])
-    newPart['name'].append('STTH212S')
+    newPart['name'].append('Diode : STTH212S')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

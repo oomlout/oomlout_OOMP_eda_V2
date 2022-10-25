@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BD00FC0WFP', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-4', 'kicadSymbolDatasheet': 'https://fscdn.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/bdxxfc0wefj-e.pdf', 'kicadSymbolki_keywords': 'linear regulator variable positive over voltage protection thermal shutdown', 'kicadSymbolki_description': '1A, variable LDO regulator with OVP & TSP, with enable, TO-252', 'kicadSymbolki_fp_filters': 'TO?252*'}])
-    newPart['name'].append('BD00FC0WFP')
+    newPart['name'].append('Regulator_Linear : BD00FC0WFP')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HX15-NP', 'kicadSymbolFootprint': 'Sensor_Current:LEM_HX15-NP', 'kicadSymbolDatasheet': 'https://www.lem.com/sites/default/files/products_datasheets/hx%205_15-np_e%20v10.pdf', 'kicadSymbolki_keywords': 'current transducer', 'kicadSymbolki_description': 'Current Transducer, 15A, Bipolar, +/-15V', 'kicadSymbolki_fp_filters': 'LEM*HX15*NP*'}])
-    newPart['name'].append('HX15-NP')
+    newPart['name'].append('Sensor_Current : HX15-NP')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

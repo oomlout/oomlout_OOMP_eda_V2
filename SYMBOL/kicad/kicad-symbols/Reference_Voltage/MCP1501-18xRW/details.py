@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'MCP1501-10xRW', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP1501-18xRW', 'kicadSymbolFootprint': 'Package_DFN_QFN:WDFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.2mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20005474E.pdf', 'kicadSymbolki_keywords': 'precision buffered voltage reference 1.8V', 'kicadSymbolki_description': '1.8V, 0.1%, 20mA, Precision Voltage Reference, WDFN-8', 'kicadSymbolki_fp_filters': 'WDFN*1EP*2x2mm*P0.5mm*'}])
-    newPart['name'].append('MCP1501-18xRW')
+    newPart['name'].append('Reference_Voltage : MCP1501-18xRW')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

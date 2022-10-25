@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP45HV51-MQ', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-20-1EP_5x5mm_P0.65mm_EP3.35x3.35mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20005304A.pdf', 'kicadSymbolki_keywords': 'I2C Potentiometer pot digital', 'kicadSymbolki_description': '7/8-bit single +36V (+/-18V) digital pot, I2C serial interface, volatile memory, QFN-20', 'kicadSymbolki_fp_filters': 'QFN*5x5mm*P0.65mm*'}])
-    newPart['name'].append('MCP45HV51-MQ')
+    newPart['name'].append('Potentiometer_Digital : MCP45HV51-MQ')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

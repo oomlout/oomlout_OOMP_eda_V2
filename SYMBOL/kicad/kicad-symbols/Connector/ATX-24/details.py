@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'ATX-24', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.intel.com/content/dam/www/public/us/en/documents/guides/power-supply-design-guide-june.pdf#page=33', 'kicadSymbolki_keywords': 'ATX PSU', 'kicadSymbolki_description': 'ATX Power supply 24pins', 'kicadSymbolki_fp_filters': '*Mini?Fit*2x12*Vertical* *Mini?Fit*2x12*Horizontal*'}])
-    newPart['name'].append('ATX-24')
+    newPart['name'].append('Connector : ATX-24')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

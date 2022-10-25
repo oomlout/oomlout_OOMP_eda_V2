@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'CY8C4245AZI-M445', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CY8C4246AZI-M475', 'kicadSymbolFootprint': 'Package_QFP:TQFP-64_10x10mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.cypress.com/file/139956/download', 'kicadSymbolki_keywords': 'Cypress Microcontroller Arm IDAC', 'kicadSymbolki_description': 'PSoC 4200M series, 48MHz CPU, 64KB Flash, 8KB SRAM, 64-TQFP', 'kicadSymbolki_fp_filters': 'TQFP*10x10mm*P0.5mm*'}])
-    newPart['name'].append('CY8C4246AZI-M475')
+    newPart['name'].append('MCU_Cypress : CY8C4246AZI-M475')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

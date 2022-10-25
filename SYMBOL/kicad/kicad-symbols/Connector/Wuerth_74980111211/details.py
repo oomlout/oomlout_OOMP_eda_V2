@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Wuerth_74980111211', 'kicadSymbolFootprint': 'Connector_RJ:RJ45_Wuerth_74980111211_Horizontal', 'kicadSymbolDatasheet': 'https://www.we-online.de/katalog/datasheet/74980111211.pdf', 'kicadSymbolki_keywords': 'lan jack transformer smt', 'kicadSymbolki_description': 'LAN Transformer Jack, RJ45, 10/100 BaseT', 'kicadSymbolki_fp_filters': 'RJ45*Wuerth*74980111211*'}])
-    newPart['name'].append('Wuerth_74980111211')
+    newPart['name'].append('Connector : Wuerth_74980111211')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

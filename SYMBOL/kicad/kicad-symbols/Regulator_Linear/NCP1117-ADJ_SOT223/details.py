@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'AP1117-ADJ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCP1117-ADJ_SOT223', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223-3_TabPin2', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF', 'kicadSymbolki_keywords': 'REGULATOR LDO 12V', 'kicadSymbolki_description': '1A Low drop-out regulator, Adjustable Output 1.25 - 18.8V, SOT-223', 'kicadSymbolki_fp_filters': 'SOT?223*TabPin2*'}])
-    newPart['name'].append('NCP1117-ADJ_SOT223')
+    newPart['name'].append('Regulator_Linear : NCP1117-ADJ_SOT223')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'B40C5000-3x00A', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'B80C3x00-2200A', 'kicadSymbolFootprint': 'Diode_THT:Diode_Bridge_32.0x5.6x17.0mm_P10.0mm_P7.5mm', 'kicadSymbolDatasheet': 'https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40c3700', 'kicadSymbolki_keywords': 'rectifier acdc', 'kicadSymbolki_description': 'Silicon Bridge Rectifier, 80V Vrms, 2.2A If, pins=-AA+, SIL-package', 'kicadSymbolki_fp_filters': 'D*Bridge*32.0x5.6x17.0mm*P10.0mm*P7.5mm*'}])
-    newPart['name'].append('B80C3x00-2200A')
+    newPart['name'].append('Diode_Bridge : B80C3x00-2200A')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

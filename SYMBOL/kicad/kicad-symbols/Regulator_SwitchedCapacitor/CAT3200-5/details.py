@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CAT3200-5', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pdf/datasheet/cat3200-d.pdf', 'kicadSymbolki_keywords': 'switched capacitor charge pump', 'kicadSymbolki_description': 'Low Noise Regulated Charge Pump DC-DC Converter, 5 V, 100 mA, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}])
-    newPart['name'].append('CAT3200-5')
+    newPart['name'].append('Regulator_SwitchedCapacitor : CAT3200-5')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

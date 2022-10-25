@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TSL2550T', 'kicadSymbolFootprint': 'OptoDevice:AMS_TSL2550_SMD', 'kicadSymbolDatasheet': 'http://ams.com/eng/content/download/250130/975613/142977', 'kicadSymbolki_keywords': 'opto ambient light sensor', 'kicadSymbolki_description': 'Ambient Light Sensor with SMbus Interface, T-4 interface SMD', 'kicadSymbolki_fp_filters': 'AMS*TSL2550*SMD*'}])
-    newPart['name'].append('TSL2550T')
+    newPart['name'].append('Sensor_Optical : TSL2550T')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

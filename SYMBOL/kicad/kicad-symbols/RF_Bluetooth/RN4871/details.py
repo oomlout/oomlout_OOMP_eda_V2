@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'RN4871', 'kicadSymbolFootprint': 'RF_Module:Microchip_RN4871', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/50002489A.pdf', 'kicadSymbolki_keywords': 'Bluetooth Low Energy 4.2 Module', 'kicadSymbolki_description': 'Bluetooth Low Energy 4.2 Module', 'kicadSymbolki_fp_filters': 'RF*Module:Microchip*RN4871*'}])
-    newPart['name'].append('RN4871')
+    newPart['name'].append('RF_Bluetooth : RN4871')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

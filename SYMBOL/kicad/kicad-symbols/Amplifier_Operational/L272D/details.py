@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'L272D', 'kicadSymbolFootprint': 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'www.st.com/resource/en/datasheet/l272.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'dual power opamp', 'kicadSymbolki_description': 'Dual Power Operation Amplifier, SOIC-16', 'kicadSymbolki_fp_filters': '*SOIC*3.9x9.9mm*P1.27mm*'}])
-    newPart['name'].append('L272D')
+    newPart['name'].append('Amplifier_Operational : L272D')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

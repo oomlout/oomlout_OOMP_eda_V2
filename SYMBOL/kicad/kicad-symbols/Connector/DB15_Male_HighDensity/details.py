@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DB15_Male_HighDensity', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'connector male VGA D-SUB', 'kicadSymbolki_description': '15-pin male D-SUB connector, High density (3 columns), Triple Row, Generic, VGA-connector', 'kicadSymbolki_fp_filters': 'DSUB*Male*'}])
-    newPart['name'].append('DB15_Male_HighDensity')
+    newPart['name'].append('Connector : DB15_Male_HighDensity')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDA7052A', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.nxp.com/docs/en/data-sheet/TDA7052A_AT.pdf', 'kicadSymbolki_keywords': 'audio amplifier', 'kicadSymbolki_description': '1W BTL mono audio amplifier with DC volume control, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*7.5x9mm*P1.27mm* DIP*W7.62mm*'}])
-    newPart['name'].append('TDA7052A')
+    newPart['name'].append('Amplifier_Audio : TDA7052A')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

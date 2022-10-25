@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'LM73', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM73-1', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm73.pdf', 'kicadSymbolki_keywords': 'digital temperature sensor', 'kicadSymbolki_description': '11 to 14 Bit digital temperature sensor with 2 wire interface, SOT23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}])
-    newPart['name'].append('LM73-1')
+    newPart['name'].append('Sensor_Temperature : LM73-1')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MPU-6050', 'kicadSymbolFootprint': 'Sensor_Motion:InvenSense_QFN-24_4x4mm_P0.5mm', 'kicadSymbolDatasheet': 'https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf', 'kicadSymbolki_keywords': 'mems', 'kicadSymbolki_description': 'InvenSense 6-Axis Motion Sensor, Gyroscope, Accelerometer, I2C', 'kicadSymbolki_fp_filters': '*QFN*4x4mm*P0.5mm*'}])
-    newPart['name'].append('MPU-6050')
+    newPart['name'].append('Sensor_Motion : MPU-6050')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

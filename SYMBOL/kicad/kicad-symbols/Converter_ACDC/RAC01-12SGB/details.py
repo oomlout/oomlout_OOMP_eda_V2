@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'RAC01-xxSGB', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'RAC01-12SGB', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_RECOM_RAC01-xxSGB_THT', 'kicadSymbolDatasheet': 'https://www.recom-power.com/pdf/Powerline-AC-DC/RAC01-GB.pdf', 'kicadSymbolki_keywords': 'ac dc power supply', 'kicadSymbolki_description': '1 Watt Single Output EMC Class B AC/DC 12V 83mA power supply with regulated and short-circuit-proof isolated DC outputs and low standby power consumption.', 'kicadSymbolki_fp_filters': 'Converter*ACDC*RECOM*RAC01*SGB*THT*'}])
-    newPart['name'].append('RAC01-12SGB')
+    newPart['name'].append('Converter_ACDC : RAC01-12SGB')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC24FJ256DA210-xBG', 'kicadSymbolFootprint': 'Package_BGA:XBGA-121_10x10mm_Layout11x11_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/39969b.pdf', 'kicadSymbolki_keywords': 'Flash-Based 16-Bit Microcontroller', 'kicadSymbolki_description': '256K Flash, 96KB SRAM, Graphic controller, USB, BGA-121', 'kicadSymbolki_fp_filters': 'XBGA*10x10mm*Layout11x11*P0.8mm*'}])
-    newPart['name'].append('PIC24FJ256DA210-xBG')
+    newPart['name'].append('MCU_Microchip_PIC24 : PIC24FJ256DA210-xBG')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

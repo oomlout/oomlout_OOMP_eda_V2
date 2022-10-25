@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PocketBeagle', 'kicadSymbolFootprint': 'Module:BeagleBoard_PocketBeagle', 'kicadSymbolDatasheet': 'https://github.com/beagleboard/pocketbeagle/wiki/System-Reference-Manual', 'kicadSymbolki_keywords': 'beagleboard pocketbeagle', 'kicadSymbolki_description': 'Singleboard computer with ARM Cortex-A8 1GHz, 512MB RAM', 'kicadSymbolki_fp_filters': 'BeagleBoard*PocketBeagle*'}])
-    newPart['name'].append('PocketBeagle')
+    newPart['name'].append('MCU_Module : PocketBeagle')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

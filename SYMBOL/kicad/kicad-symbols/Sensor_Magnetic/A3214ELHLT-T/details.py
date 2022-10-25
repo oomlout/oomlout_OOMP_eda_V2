@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'A1301KLHLT-T', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'A3214ELHLT-T', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23W', 'kicadSymbolDatasheet': 'http://www.allegromicro.com/~/media/Files/Datasheets/A3213-4-Datasheet.ashx', 'kicadSymbolki_keywords': 'hall switch', 'kicadSymbolki_description': 'Linear Hall Effect Sensor, SOT-23W', 'kicadSymbolki_fp_filters': 'SOT?23W*'}])
-    newPart['name'].append('A3214ELHLT-T')
+    newPart['name'].append('Sensor_Magnetic : A3214ELHLT-T')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

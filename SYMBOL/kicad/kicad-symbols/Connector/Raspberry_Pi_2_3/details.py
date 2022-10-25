@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Raspberry_Pi_2_3', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.raspberrypi.org/documentation/hardware/raspberrypi/schematics/rpi_SCH_3bplus_1p0_reduced.pdf', 'kicadSymbolki_keywords': 'raspberrypi gpio', 'kicadSymbolki_description': 'expansion header for Raspberry Pi 2 & 3', 'kicadSymbolki_fp_filters': 'PinHeader*2x20*P2.54mm*Vertical* PinSocket*2x20*P2.54mm*Vertical*'}])
-    newPart['name'].append('Raspberry_Pi_2_3')
+    newPart['name'].append('Connector : Raspberry_Pi_2_3')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

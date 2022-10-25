@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CBTL02043A', 'kicadSymbolFootprint': 'Package_DFN_QFN:WQFN-20-1EP_2.5x4.5mm_P0.5mm_EP1x2.9mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/CBTL02043A_CBTL02043B.pdf', 'kicadSymbolki_keywords': 'Multiplexer Demultiplexer Switch Hi-Speed', 'kicadSymbolki_description': '3.3 V, 2 differential channel, 2:1 MUX/deMUX switch, 10 Gbps, WQFN-20', 'kicadSymbolki_fp_filters': 'WQFN*1EP*2.5x4.5mm*P0.5mm*'}])
-    newPart['name'].append('CBTL02043A')
+    newPart['name'].append('Analog_Switch : CBTL02043A')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

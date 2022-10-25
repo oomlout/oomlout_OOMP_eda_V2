@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CMWX1ZZABZ-078', 'kicadSymbolFootprint': 'RF_Module:CMWX1ZZABZ', 'kicadSymbolDatasheet': 'https://wireless.murata.com/RFM/data/type_abz.pdf', 'kicadSymbolki_keywords': 'iot lora sigfox', 'kicadSymbolki_description': 'LoRa/SigFox Module, STM32L082 MCU, Murata CMWX1ZZABZ', 'kicadSymbolki_fp_filters': 'CMWX1ZZABZ*'}])
-    newPart['name'].append('CMWX1ZZABZ-078')
+    newPart['name'].append('RF_Module : CMWX1ZZABZ-078')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

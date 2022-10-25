@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IS485', 'kicadSymbolFootprint': 'OptoDevice:Sharp_IS485', 'kicadSymbolDatasheet': 'https://media.digikey.com/pdf/Data%20Sheets/Sharp%20PDFs/is485,486_e.pdf', 'kicadSymbolki_keywords': 'opto receiver amplifier light detector OPIC', 'kicadSymbolki_description': 'Built-in Amplifier Type OPIC Light Detector', 'kicadSymbolki_fp_filters': 'Sharp*IS485*'}])
-    newPart['name'].append('IS485')
+    newPart['name'].append('Interface_Optical : IS485')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

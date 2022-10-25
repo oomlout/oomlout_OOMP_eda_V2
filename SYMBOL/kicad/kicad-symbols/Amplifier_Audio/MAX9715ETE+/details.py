@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX9715ETE+', 'kicadSymbolFootprint': 'Package_DFN_QFN:TQFN-16-1EP_5x5mm_P0.8mm_EP3.1x3.1mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX9715.pdf', 'kicadSymbolki_keywords': 'Class-D Stereo', 'kicadSymbolki_description': '2.8W, Low-EMI, Stereo, Filterless Class D Audio Amplifier, TQFN-16', 'kicadSymbolki_fp_filters': 'TQFN*1EP*5x5mm*P0.8mm*'}])
-    newPart['name'].append('MAX9715ETE+')
+    newPart['name'].append('Amplifier_Audio : MAX9715ETE+')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

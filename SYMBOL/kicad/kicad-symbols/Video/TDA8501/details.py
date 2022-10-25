@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDA8501', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/TDA8501.pdf', 'kicadSymbolki_keywords': 'Video Encoder', 'kicadSymbolki_description': 'PAL/NTSC Encoder, RGB or Y/Y-R/Y-B Inputs, DIP/SOIC-20', 'kicadSymbolki_fp_filters': 'DIP* PDIP* SOIC*'}])
-    newPart['name'].append('TDA8501')
+    newPart['name'].append('Video : TDA8501')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

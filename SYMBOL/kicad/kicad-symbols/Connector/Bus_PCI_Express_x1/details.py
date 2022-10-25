@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Bus_PCI_Express_x1', 'kicadSymbolFootprint': 'Connector_PCBEdge:BUS_PCIexpress_x1', 'kicadSymbolDatasheet': 'http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=63', 'kicadSymbolki_keywords': 'pcie', 'kicadSymbolki_description': 'PCI Express bus connector x1', 'kicadSymbolki_fp_filters': '*PCIexpress*'}])
-    newPart['name'].append('Bus_PCI_Express_x1')
+    newPart['name'].append('Connector : Bus_PCI_Express_x1')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

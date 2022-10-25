@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM319H', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-100-10', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm319-n.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'cmp open collector', 'kicadSymbolki_description': 'High Speed Dual Comparator, TO-100-10', 'kicadSymbolki_fp_filters': 'TO?100*'}])
-    newPart['name'].append('LM319H')
+    newPart['name'].append('Comparator : LM319H')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

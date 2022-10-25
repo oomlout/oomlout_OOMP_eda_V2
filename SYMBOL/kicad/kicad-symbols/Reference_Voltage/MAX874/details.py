@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX874', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://pdfserv.maximintegrated.com/en/ds/MAX872-MAX874.pdf', 'kicadSymbolki_keywords': 'Low-Dropout Precision Voltage Reference', 'kicadSymbolki_description': '10µA Low-Dropout Precision Voltage Reference, SO-8/DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*'}])
-    newPart['name'].append('MAX874')
+    newPart['name'].append('Reference_Voltage : MAX874')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

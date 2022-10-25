@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'RT9361AxE', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'RT9361BxE', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'https://www.richtek.com/assets/product_file/RT9361A=RT9361B/DS9361AB-14.pdf', 'kicadSymbolki_keywords': 'Switched capacitor boost', 'kicadSymbolki_description': 'Switched capacitor boost, Fixed 4.5V output, 150mA, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}])
-    newPart['name'].append('RT9361BxE')
+    newPart['name'].append('Regulator_SwitchedCapacitor : RT9361BxE')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'Rohm_UMN1N', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'Panasonic_MA5J002E', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-353_SC-70-5', 'kicadSymbolDatasheet': 'http://www.semicon.panasonic.co.jp/ds4/MA5J002E_BED_discon.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Quad Ultra high Speed Switching Diode Array Com K', 'kicadSymbolki_fp_filters': 'SOT?353*'}])
-    newPart['name'].append('Panasonic_MA5J002E')
+    newPart['name'].append('Diode : Panasonic_MA5J002E')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

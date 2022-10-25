@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'TPS2500DRC', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS2501DRC', 'kicadSymbolFootprint': 'Package_SON:Texas_S-PVSON-N10', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps2500.pdf', 'kicadSymbolki_keywords': 'USB switch boost', 'kicadSymbolki_description': 'Integrated USB power Switch with Boost Converter, Constant Frequency, Texas S-PVSON-10', 'kicadSymbolki_fp_filters': 'Texas*S*PVSON*N10*'}])
-    newPart['name'].append('TPS2501DRC')
+    newPart['name'].append('Interface_USB : TPS2501DRC')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

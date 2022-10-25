@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'LTC4054ES5-4.2', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC4054XES5-4.2', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-5', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/405442xf.pdf', 'kicadSymbolki_keywords': 'Constant-current constant-voltage linear charger single cell lithium-ion battery', 'kicadSymbolki_description': 'Constant-current/constant-voltage linear charger for single cell lithium-ion batteries no Trickle Charge, 4.5V to 6.5V VDD, -40 to +85 degree Celsius, TSOT-23-5', 'kicadSymbolki_fp_filters': 'TSOT?23*'}])
-    newPart['name'].append('LTC4054XES5-4.2')
+    newPart['name'].append('Battery_Management : LTC4054XES5-4.2')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

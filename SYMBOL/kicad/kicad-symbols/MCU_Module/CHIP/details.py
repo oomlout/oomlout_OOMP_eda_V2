@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CHIP', 'kicadSymbolFootprint': 'Module:MODULE_NEXTTHINGCO_CHIP', 'kicadSymbolDatasheet': 'https://github.com/NextThingCo/CHIP-Hardware/tree/master/CHIP%5Bv1_0%5D', 'kicadSymbolki_keywords': 'nextthingco chip module', 'kicadSymbolki_description': 'NextThingCo C.H.I.P. Module', 'kicadSymbolki_fp_filters': 'MODULE*NEXTTHINGCO*CHIP*'}])
-    newPart['name'].append('CHIP')
+    newPart['name'].append('MCU_Module : CHIP')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

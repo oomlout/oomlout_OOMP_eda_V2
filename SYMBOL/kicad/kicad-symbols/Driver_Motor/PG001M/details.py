@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PG001M', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.allegromicro.com/~/media/Files/Sanken/Datasheets/PG001M-Datasheet.ashx', 'kicadSymbolki_keywords': 'Support IC for SLA7042M/SLA7044M', 'kicadSymbolki_description': 'Parallel to serial data converter for SLA7042M/SLA7044M', 'kicadSymbolki_fp_filters': 'DIP* PDIP*'}])
-    newPart['name'].append('PG001M')
+    newPart['name'].append('Driver_Motor : PG001M')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

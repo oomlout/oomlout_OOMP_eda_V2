@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'ISO7760DW', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ISO7760FDW', 'kicadSymbolFootprint': 'Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/iso7763.pdf?ts=1596905577895', 'kicadSymbolki_keywords': '6 channel digital isolator', 'kicadSymbolki_description': 'Default low, High-speed, robust EMC, reinforced, six-channel, digital, isolator, SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*7.5x10.3mm*P1.27mm*'}])
-    newPart['name'].append('ISO7760FDW')
+    newPart['name'].append('Isolator : ISO7760FDW')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

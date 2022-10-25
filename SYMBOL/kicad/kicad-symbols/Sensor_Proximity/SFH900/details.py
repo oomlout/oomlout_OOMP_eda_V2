@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SFH900', 'kicadSymbolFootprint': 'OptoDevice:Siemens_SFH900', 'kicadSymbolDatasheet': 'https://www.batronix.com/pdf/sfh900.pdf', 'kicadSymbolki_keywords': 'Reflective Optical Sensor Opto', 'kicadSymbolki_description': 'Miniature Light Reflection Switches', 'kicadSymbolki_fp_filters': 'Siemens*SFH900*'}])
-    newPart['name'].append('SFH900')
+    newPart['name'].append('Sensor_Proximity : SFH900')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

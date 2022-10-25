@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'TPS61090', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS61092', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PVQFN-N16_EP2.7x2.7mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps61090.pdf', 'kicadSymbolki_keywords': 'Fixed 5V 2A battery boost converter', 'kicadSymbolki_description': '2A Step-Up DC-DC Converter for Batteries, Isw up to 2500mA, 5V Output Voltage, QFN-16', 'kicadSymbolki_fp_filters': 'Texas*S?PVQFN?N*'}])
-    newPart['name'].append('TPS61092')
+    newPart['name'].append('Regulator_Switching : TPS61092')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

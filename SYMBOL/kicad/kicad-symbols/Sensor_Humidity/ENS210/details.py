@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ENS210', 'kicadSymbolFootprint': 'Package_DFN_QFN:AMS_QFN-4-1EP_2x2mm_P0.95mm_EP0.7x1.6mm', 'kicadSymbolDatasheet': 'http://ams.com/eng/Products/Environmental-Sensors/Relative-Humidity-and-Temperature-Sensors/ENS210', 'kicadSymbolki_keywords': 'relative humidity temperature i2c pre-calibrated', 'kicadSymbolki_description': 'Relative Humidity and Temperature Sensor with I2C Interface', 'kicadSymbolki_fp_filters': 'AMS?QFN*EP*2x2mm*P0.95mm*'}])
-    newPart['name'].append('ENS210')
+    newPart['name'].append('Sensor_Humidity : ENS210')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

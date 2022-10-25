@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'TLV76750DRVx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV76728DRVx', 'kicadSymbolFootprint': 'Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias', 'kicadSymbolDatasheet': 'www.ti.com/lit/gpn/TLV767', 'kicadSymbolki_keywords': '1A Precision Linear Voltage Regulator', 'kicadSymbolki_description': '1A Precision Linear Voltage Regulator, with enable pin, Fixed Output 2.8V, WSON6', 'kicadSymbolki_fp_filters': 'WSON*1EP*2x2mm*P0.65*'}])
-    newPart['name'].append('TLV76728DRVx')
+    newPart['name'].append('Regulator_Linear : TLV76728DRVx')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

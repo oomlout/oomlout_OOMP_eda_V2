@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_Cree_XHP50_12V', 'kicadSymbolFootprint': 'LED_SMD:LED_Cree-XHP50_12V', 'kicadSymbolDatasheet': 'http://www.cree.com/%7E/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/ds%20XHP50.pdf', 'kicadSymbolki_keywords': 'led diode', 'kicadSymbolki_description': 'XLamp® XHP50 LED, 12V footprint (all 4 LEDs in series)', 'kicadSymbolki_fp_filters': 'LED?Cree?XHP50?12V*'}])
-    newPart['name'].append('LED_Cree_XHP50_12V')
+    newPart['name'].append('LED : LED_Cree_XHP50_12V')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BQ2501x', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_VQFN-RHL-20_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/bq25010.pdf', 'kicadSymbolki_keywords': 'Li-ion buck', 'kicadSymbolki_description': '500mA Li-Ion Charger w/Integrated 150mA Synchronous Buck Converter, QFN-14', 'kicadSymbolki_fp_filters': 'Texas?VQFN?RHL*'}])
-    newPart['name'].append('BQ2501x')
+    newPart['name'].append('Battery_Management : BQ2501x')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

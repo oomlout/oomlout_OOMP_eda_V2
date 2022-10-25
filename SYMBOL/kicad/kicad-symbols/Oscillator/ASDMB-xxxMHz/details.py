@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ASDMB-xxxMHz', 'kicadSymbolFootprint': 'Oscillator:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm', 'kicadSymbolDatasheet': 'https://abracon.com/Oscillators/ASDMB.pdf', 'kicadSymbolki_keywords': '1.8-3.3V SMD Ultra Miniature Crystal Clock Oscillator', 'kicadSymbolki_description': '1.8-3.3V SMD Ultra Miniature Crystal Clock Oscillator, Abracon', 'kicadSymbolki_fp_filters': 'Oscillator*SMD*Abracon*ASDMB*2.5x2.0mm*'}])
-    newPart['name'].append('ASDMB-xxxMHz')
+    newPart['name'].append('Oscillator : ASDMB-xxxMHz')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

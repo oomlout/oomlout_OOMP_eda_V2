@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'TLP290', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ACPL-214-500E', 'kicadSymbolFootprint': 'Package_SO:SOP-4_4.4x2.6mm_P1.27mm', 'kicadSymbolDatasheet': 'https://docs.broadcom.com/doc/AV02-0469EN', 'kicadSymbolki_keywords': 'npn ac dc ac-dc acdc phototransistor optocoupler optoisolator', 'kicadSymbolki_description': 'AC/DC Phototransistor Optocoupler, Vce 80V, CTR 20-400%, SOP-4', 'kicadSymbolki_fp_filters': 'SOP*4*4.4x2.6mm*P1.27mm*'}])
-    newPart['name'].append('ACPL-214-500E')
+    newPart['name'].append('Isolator : ACPL-214-500E')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

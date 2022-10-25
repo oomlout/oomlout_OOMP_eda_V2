@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SC4503TSK', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-5', 'kicadSymbolDatasheet': 'https://www.semtech.com/uploads/documents/sc4503.pdf', 'kicadSymbolki_keywords': '1.9A 1.3MHz Step-Up DC/DC', 'kicadSymbolki_description': '1.9A, 1.3MHz Step-Up DC/DC Converter, 2.5V-20V output voltage, TSOT23', 'kicadSymbolki_fp_filters': 'TSOT*23*'}])
-    newPart['name'].append('SC4503TSK')
+    newPart['name'].append('Regulator_Switching : SC4503TSK')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

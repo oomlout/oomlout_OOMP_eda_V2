@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'INA333xxDRG', 'kicadSymbolFootprint': 'Package_SON:WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/ina333.pdf', 'kicadSymbolki_keywords': 'instrumentation opamp amplifier', 'kicadSymbolki_description': 'Zero Drift, Micropower Instrumentation Amplifier G = 1 + 100kOhm/Rg, WSON-8', 'kicadSymbolki_fp_filters': 'WSON*3x3mm*P0.5mm*'}])
-    newPart['name'].append('INA333xxDRG')
+    newPart['name'].append('Amplifier_Instrumentation : INA333xxDRG')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

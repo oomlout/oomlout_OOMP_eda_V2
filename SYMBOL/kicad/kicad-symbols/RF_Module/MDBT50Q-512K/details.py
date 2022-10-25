@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MDBT50Q-512K', 'kicadSymbolFootprint': 'RF_Module:Raytac_MDBT50Q', 'kicadSymbolDatasheet': 'https://www.raytac.com/download/index.php?index_id=46', 'kicadSymbolki_keywords': 'MCU, ARM, BLE, ANT, 2.4GHz, 802.15.4 MDBT50Q', 'kicadSymbolki_description': 'Multiprotocol BLE/ANT/2.4 GHz/802.15.4 Cortex-M4F SoC, nRF52833 module', 'kicadSymbolki_fp_filters': 'Raytac?MDBT50Q*'}])
-    newPart['name'].append('MDBT50Q-512K')
+    newPart['name'].append('RF_Module : MDBT50Q-512K')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

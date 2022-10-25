@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'FL', 'kicadSymbolValue': '0850BM14E0016', 'kicadSymbolFootprint': 'RF_Converter:Balun_Johanson_1.6x0.8mm', 'kicadSymbolDatasheet': 'https://www.johansontechnology.com/datasheets/0850BM14E0016/0850BM14E0016.pdf', 'kicadSymbolki_keywords': 'Sub-GHz Balun', 'kicadSymbolki_description': 'Sub-GHz Impedance Matched Balun + LPF integrated Passive', 'kicadSymbolki_fp_filters': 'Balun*Johanson*1.6x0.8mm*'}])
-    newPart['name'].append('0850BM14E0016')
+    newPart['name'].append('Filter : 0850BM14E0016')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

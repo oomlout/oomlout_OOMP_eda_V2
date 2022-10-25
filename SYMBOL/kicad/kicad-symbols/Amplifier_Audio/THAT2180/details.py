@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'THAT2180', 'kicadSymbolFootprint': 'Package_SIP:SIP-8_19x3mm_P2.54mm', 'kicadSymbolDatasheet': 'http://www.thatcorp.com/datashts/THAT_2180-Series_Datasheet.pdf', 'kicadSymbolki_keywords': 'audio vca', 'kicadSymbolki_description': 'Blackmer Pre-Trimmed IC Voltage Controlled Amplifiers, SIP-8', 'kicadSymbolki_fp_filters': 'SIP*19x3mm*P2.54mm*'}])
-    newPart['name'].append('THAT2180')
+    newPart['name'].append('Amplifier_Audio : THAT2180')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

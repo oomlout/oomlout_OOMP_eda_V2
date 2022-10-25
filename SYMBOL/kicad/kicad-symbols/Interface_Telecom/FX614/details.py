@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FX614', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.cmlmicro.com/wp-content/uploads/2017/06/FX614_ds.pdf', 'kicadSymbolki_keywords': 'Bell Modem', 'kicadSymbolki_description': 'Bell 202 Compatible Modem, DIP-16/SO-16', 'kicadSymbolki_fp_filters': 'DIP* PDIP* SO*'}])
-    newPart['name'].append('FX614')
+    newPart['name'].append('Interface_Telecom : FX614')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

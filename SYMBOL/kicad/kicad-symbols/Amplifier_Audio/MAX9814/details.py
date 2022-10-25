@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX9814', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX9814.pdf', 'kicadSymbolki_keywords': 'audio microphone amplifier', 'kicadSymbolki_description': 'Microphone Amplifier with AGC and Low-Noise Microphone Bias, TDFN-14', 'kicadSymbolki_fp_filters': '*DFN*EP*3x3mm*P0.4mm*'}])
-    newPart['name'].append('MAX9814')
+    newPart['name'].append('Amplifier_Audio : MAX9814')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4009', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.sycelectronica.com.ar/semiconductores/CD4009.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'CMOS INV BUFFER high sink, VCC and VDD sep. VDD>VI>VCC!', 'kicadSymbolki_description': 'Hex Buffer Inverter', 'kicadSymbolki_fp_filters': 'DIP?16*'}])
-    newPart['name'].append('4009')
+    newPart['name'].append('4xxx : 4009')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

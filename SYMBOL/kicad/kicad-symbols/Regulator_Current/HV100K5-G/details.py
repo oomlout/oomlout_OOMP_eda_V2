@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HV100K5-G', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223-3_TabPin2', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/hv100%20b060513.pdf', 'kicadSymbolki_keywords': 'Hot-Swap Current Limiter', 'kicadSymbolki_description': 'Hot-Swap Current Limiter Controller, SOT223', 'kicadSymbolki_fp_filters': 'SOT?223*TabPin2*'}])
-    newPart['name'].append('HV100K5-G')
+    newPart['name'].append('Regulator_Current : HV100K5-G')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

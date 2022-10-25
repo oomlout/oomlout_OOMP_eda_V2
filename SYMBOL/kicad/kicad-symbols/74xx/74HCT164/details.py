@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': '74HC164', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74HCT164', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/74HC_HCT164.pdf', 'kicadSymbolki_keywords': '8-bit shift register', 'kicadSymbolki_description': '8-bit serial-in parallel-out shift register', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7*P1.27mm* ?SSOP*P0.65mm* DIP*W7.62mm*'}])
-    newPart['name'].append('74HCT164')
+    newPart['name'].append('74xx : 74HCT164')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

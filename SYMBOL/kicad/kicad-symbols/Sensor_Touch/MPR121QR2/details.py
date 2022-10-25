@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MPR121QR2', 'kicadSymbolFootprint': 'Package_DFN_QFN:UQFN-20_3x3mm_P0.4mm', 'kicadSymbolDatasheet': 'https://resurgentsemi.com/wp-content/uploads/2018/09/MPR121_rev5-Resurgent.pdf?d453f8&d453f8', 'kicadSymbolki_keywords': 'Touch Sensor 12ch', 'kicadSymbolki_description': '12ch Touch Sensor controller, UQFN-20', 'kicadSymbolki_fp_filters': 'UQFN*3x3mm*P0.4mm*'}])
-    newPart['name'].append('MPR121QR2')
+    newPart['name'].append('Sensor_Touch : MPR121QR2')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

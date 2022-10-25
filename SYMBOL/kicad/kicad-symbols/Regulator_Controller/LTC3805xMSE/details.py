@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC3805xMSE', 'kicadSymbolFootprint': 'Package_SO:MSOP-10-1EP_3x3mm_P0.5mm_EP1.68x1.88mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/3805fg.pdf', 'kicadSymbolki_keywords': 'flyback dc-dc switcher switching', 'kicadSymbolki_description': 'Adjustable Frequency current Mode Flyback DC/DC controller, MSOP-10', 'kicadSymbolki_fp_filters': 'MSOP*10*3x3mm*P0.5mm*'}])
-    newPart['name'].append('LTC3805xMSE')
+    newPart['name'].append('Regulator_Controller : LTC3805xMSE')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

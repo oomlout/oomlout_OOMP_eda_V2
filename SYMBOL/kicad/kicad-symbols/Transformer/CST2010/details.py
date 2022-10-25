@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'T', 'kicadSymbolValue': 'CST2010', 'kicadSymbolFootprint': 'Transformer_SMD:Transformer_Coilcraft_CST2010', 'kicadSymbolDatasheet': 'https://www.coilcraft.com/pdfs/cst2010.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'current sense transformer', 'kicadSymbolki_description': 'Coilcraft Current Sense Transformer, SMD, 40A, 1:20 to 1:200', 'kicadSymbolki_fp_filters': 'Transformer*Coilcraft*CST2010*'}])
-    newPart['name'].append('CST2010')
+    newPart['name'].append('Transformer : CST2010')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

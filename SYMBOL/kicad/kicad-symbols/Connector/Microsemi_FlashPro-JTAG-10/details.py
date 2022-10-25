@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Microsemi_FlashPro-JTAG-10', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.microsemi.com/document-portal/doc_view/129973-lpf-ac386-an', 'kicadSymbolki_keywords': 'JTAG IDC10 Male Connector', 'kicadSymbolki_description': 'ACTEL FLASH PRO 3/4, JTAG, IDC10 Male Connector', 'kicadSymbolki_fp_filters': 'IDC?Header*2x05* Pin?Header*2x05*'}])
-    newPart['name'].append('Microsemi_FlashPro-JTAG-10')
+    newPart['name'].append('Connector : Microsemi_FlashPro-JTAG-10')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

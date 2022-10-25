@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'Fan_Tacho', 'kicadSymbolReference': 'M', 'kicadSymbolValue': 'Fan_PC_Chassis', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.hardwarecanucks.com/forum/attachments/new-builds/16287d1330775095-help-chassis-power-fan-connectors-motherboard-asus_p8z68.jpg', 'kicadSymbolki_keywords': 'Fan Motor tacho', 'kicadSymbolki_description': 'PC chassis fan, tacho output, 3-pin connector', 'kicadSymbolki_fp_filters': 'FanPinHeader*P2.54mm*Vertical* PinHeader*P2.54mm*Vertical* TerminalBlock*'}])
-    newPart['name'].append('Fan_PC_Chassis')
+    newPart['name'].append('Motor : Fan_PC_Chassis')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MM002', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.nemeus.fr/resources/uploads/2015/04/MM002-xx-EU_datasheet_v0.11.pdf', 'kicadSymbolki_keywords': 'IOT LoRa SIGFOX', 'kicadSymbolki_description': 'NEMEUS Modem dual-mode LoRa/SIGFOX'}])
-    newPart['name'].append('MM002')
+    newPart['name'].append('RF_Module : MM002')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

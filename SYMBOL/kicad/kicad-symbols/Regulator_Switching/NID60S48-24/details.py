@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'NID60S24-05', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NID60S48-24', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_MeanWell_NID60_THT', 'kicadSymbolDatasheet': 'http://www.meanwell.com/78ddf876-a86c-4a52-8a41-4ee24dd9913d', 'kicadSymbolki_keywords': 'Step-Down Converter Module DC/DC', 'kicadSymbolki_description': '2.5A/60W Step Down Converter Module, fixed 24V Output Voltage, 250kHz, 30-53V Input Voltage', 'kicadSymbolki_fp_filters': 'Converter*DCDC*MeanWell*NID60*'}])
-    newPart['name'].append('NID60S48-24')
+    newPart['name'].append('Regulator_Switching : NID60S48-24')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

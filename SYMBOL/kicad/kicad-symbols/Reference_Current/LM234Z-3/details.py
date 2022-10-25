@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'LM334Z', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM234Z-3', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm134.pdf', 'kicadSymbolki_keywords': 'Adjustable Current Source 10mA', 'kicadSymbolki_description': '1μA to 10mA 3-Terminal Adjustable Current Source, TO-92', 'kicadSymbolki_fp_filters': 'TO*92*Inline*'}])
-    newPart['name'].append('LM234Z-3')
+    newPart['name'].append('Reference_Current : LM234Z-3')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

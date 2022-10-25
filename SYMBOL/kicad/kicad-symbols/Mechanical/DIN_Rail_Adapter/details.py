@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'DRA', 'kicadSymbolValue': 'DIN_Rail_Adapter', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'Mounting holes, DIN rail adapter', 'kicadSymbolki_description': 'DIN Rail adapter universal, mounting holes without connection', 'kicadSymbolki_fp_filters': 'DINRailAdapter?3xM3* DINRailAdapter?2xM3*'}])
-    newPart['name'].append('DIN_Rail_Adapter')
+    newPart['name'].append('Mechanical : DIN_Rail_Adapter')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

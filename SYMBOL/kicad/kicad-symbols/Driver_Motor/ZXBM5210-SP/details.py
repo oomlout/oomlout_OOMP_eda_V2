@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ZXBM5210-SP', 'kicadSymbolFootprint': 'Package_SO:Diodes_SO-8EP', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/ZXBM5210.pdf', 'kicadSymbolki_keywords': 'H-bridge, motor driver, PWM, single coil', 'kicadSymbolki_description': 'Reversible DC motor drive with speed control, 3-18V, 0.85A, SOIC-8EP', 'kicadSymbolki_fp_filters': 'Diodes*SO*EP*'}])
-    newPart['name'].append('ZXBM5210-SP')
+    newPart['name'].append('Driver_Motor : ZXBM5210-SP')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

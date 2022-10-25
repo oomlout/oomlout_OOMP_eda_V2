@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADE-6', 'kicadSymbolFootprint': 'RF_Mini-Circuits:Mini-Circuits_CD542_LandPatternPL-052', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/ADE-6.pdf', 'kicadSymbolki_keywords': 'mixer rf', 'kicadSymbolki_description': 'Mixer, +7 dBm LO, 0.05 to 250 MHz, CD542', 'kicadSymbolki_fp_filters': 'Mini?Circuits*CD542*'}])
-    newPart['name'].append('ADE-6')
+    newPart['name'].append('RF_Mixer : ADE-6')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

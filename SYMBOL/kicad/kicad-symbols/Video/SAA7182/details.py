@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SAA7182', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://rcl-radio.ru/wp-content/uploads/2014/11/SAA7182.pdf', 'kicadSymbolki_keywords': 'Video Encoder', 'kicadSymbolki_description': 'Digital Video Encoder, Obsolete'}])
-    newPart['name'].append('SAA7182')
+    newPart['name'].append('Video : SAA7182')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

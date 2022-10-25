@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AV9173', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ibselectronics.com/ibsstore/datasheet/Others/AV9173-01CN08.pdf', 'kicadSymbolki_keywords': 'video pll', 'kicadSymbolki_description': 'Video Genlock PLL'}])
-    newPart['name'].append('AV9173')
+    newPart['name'].append('Video : AV9173')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

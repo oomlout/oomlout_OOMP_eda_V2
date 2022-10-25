@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'A', 'kicadSymbolValue': 'Adafruit_Feather_M0_Basic_Proto', 'kicadSymbolFootprint': 'Module:Adafruit_Feather', 'kicadSymbolDatasheet': 'https://cdn-learn.adafruit.com/downloads/pdf/adafruit-feather-m0-basic-proto.pdf', 'kicadSymbolki_keywords': 'Adafruit feather microcontroller module USB M0 SAMD21', 'kicadSymbolki_description': 'Microcontroller module with SAMD21 Cortex-M0 MCU', 'kicadSymbolki_fp_filters': 'Adafruit*Feather*'}])
-    newPart['name'].append('Adafruit_Feather_M0_Basic_Proto')
+    newPart['name'].append('MCU_Module : Adafruit_Feather_M0_Basic_Proto')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

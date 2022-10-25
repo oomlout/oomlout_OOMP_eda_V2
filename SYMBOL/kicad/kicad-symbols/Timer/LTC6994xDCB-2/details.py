@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'LTC6994xDCB-1', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC6994xDCB-2', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-6-1EP_3x2mm_P0.5mm_EP1.65x1.35mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/699412fb.pdf', 'kicadSymbolki_keywords': 'TimerBlox debouncer noise discriminator', 'kicadSymbolki_description': 'TimerBlox Debouncer, Programmable, Noise Discriminator, Rising and Falling Edges, DFN-6', 'kicadSymbolki_fp_filters': 'DFN*1EP*3x2mm*P0.5mm*'}])
-    newPart['name'].append('LTC6994xDCB-2')
+    newPart['name'].append('Timer : LTC6994xDCB-2')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

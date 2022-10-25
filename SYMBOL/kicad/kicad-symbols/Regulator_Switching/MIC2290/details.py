@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MIC2290', 'kicadSymbolFootprint': 'Package_DFN_QFN:Micrel_MLF-8-1EP_2x2mm_P0.5mm_EP0.8x1.3mm_ThermalVias', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/mic2290.pdf', 'kicadSymbolki_keywords': 'boost switching voltage converter regulator', 'kicadSymbolki_description': '1.2 Mhz PWM Boost Regulator with Internal Schotty Diode, MLF-8', 'kicadSymbolki_fp_filters': 'Micrel*MLF*8*2x2mm*'}])
-    newPart['name'].append('MIC2290')
+    newPart['name'].append('Regulator_Switching : MIC2290')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

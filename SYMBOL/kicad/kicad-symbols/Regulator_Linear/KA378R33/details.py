@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'KA378R05', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'KA378R33', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-4_Vertical', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/KA378R33-D.pdf', 'kicadSymbolki_keywords': 'Voltage Regulator 3A Positive LDO Disable Pin', 'kicadSymbolki_description': 'Positive 3A 35V Linear Regulator with Disable Pin, LDO, Fixed Output 3.3V, TO-220F-4L', 'kicadSymbolki_fp_filters': 'TO?220*'}])
-    newPart['name'].append('KA378R33')
+    newPart['name'].append('Regulator_Linear : KA378R33')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

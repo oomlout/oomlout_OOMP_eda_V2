@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'FL', 'kicadSymbolValue': 'BNX025', 'kicadSymbolFootprint': 'Filter:Filter_Murata_BNX025', 'kicadSymbolDatasheet': 'https://www.murata.com/en-us/products/productdetail.aspx?cate=luNoiseSupprFilteBlockType&partno=BNX025H01%23', 'kicadSymbolki_keywords': 'EMI Filter SMD Murata', 'kicadSymbolki_description': 'EMI Filter SMD, Murata BNX025', 'kicadSymbolki_fp_filters': 'Filter*Murata*BNX025*'}])
-    newPart['name'].append('BNX025')
+    newPart['name'].append('Filter : BNX025')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

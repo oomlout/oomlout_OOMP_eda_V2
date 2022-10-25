@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'RBPF-246', 'kicadSymbolFootprint': 'RF_Mini-Circuits:Mini-Circuits_CK605_LandPatternPL-012', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/RBPF-246+.pdf', 'kicadSymbolki_keywords': 'Bandpass Filter', 'kicadSymbolki_description': 'Bandpass Filter, 236 to 265 MHz, 50 Ohm, Mini-Circuits CK605', 'kicadSymbolki_fp_filters': 'Mini?Circuits*CK605*'}])
-    newPart['name'].append('RBPF-246')
+    newPart['name'].append('RF_Filter : RBPF-246')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

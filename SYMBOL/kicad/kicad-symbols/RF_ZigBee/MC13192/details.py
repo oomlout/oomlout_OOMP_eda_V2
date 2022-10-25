@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC13192', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.nxp.com/products/no-longer-manufactured/2.4-ghz-low-power-transceiver-for-802.15.4:MC13192', 'kicadSymbolki_keywords': 'ZIGBEE', 'kicadSymbolki_description': '2.4 GHz, Low Power Transceiver for 802.15.4 (Zigbee controller)'}])
-    newPart['name'].append('MC13192')
+    newPart['name'].append('RF_ZigBee : MC13192')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

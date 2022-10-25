@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Mini-DIN-3', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.assmann-wsw.com/fileadmin/catalogue/10_MiniDIN_rev4-0.pdf', 'kicadSymbolki_keywords': 'Mini-DIN', 'kicadSymbolki_description': '3-pin Mini-DIN connector', 'kicadSymbolki_fp_filters': 'MINI?DIN*'}])
-    newPart['name'].append('Mini-DIN-3')
+    newPart['name'].append('Connector : Mini-DIN-3')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

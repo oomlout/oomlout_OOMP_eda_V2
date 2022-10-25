@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'MAX6350', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX6325', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/MAX6325-MAX6350.pdf', 'kicadSymbolki_keywords': 'precision voltage reference', 'kicadSymbolki_description': '0.5ppm/°C Low-Noise +2.5V Voltage Reference, SO-8/DIP-8', 'kicadSymbolki_fp_filters': 'SOIC*P1.27mm* DIP*W7.62mm*'}])
-    newPart['name'].append('MAX6325')
+    newPart['name'].append('Reference_Voltage : MAX6325')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

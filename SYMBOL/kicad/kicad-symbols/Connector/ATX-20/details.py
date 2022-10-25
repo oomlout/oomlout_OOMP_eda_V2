@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'ATX-20', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://web.aub.edu.lb/pub/docs/atx_201.pdf#page=20', 'kicadSymbolki_keywords': 'ATX PSU', 'kicadSymbolki_description': 'ATX Power supply 20pins', 'kicadSymbolki_fp_filters': '*Mini?Fit*2x10*Vertical* *Mini?Fit*2x10*Horizontal*'}])
-    newPart['name'].append('ATX-20')
+    newPart['name'].append('Connector : ATX-20')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

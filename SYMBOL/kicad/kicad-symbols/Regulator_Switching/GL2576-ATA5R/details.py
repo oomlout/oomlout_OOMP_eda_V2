@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'LM2576HVS-12', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'GL2576-ATA5R', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-5_TabPin3', 'kicadSymbolDatasheet': 'http://www.dianyuan.com/bbs/u/54/437861181916300.pdf', 'kicadSymbolki_keywords': 'Adjustable 3A 52KHz Buck DC/DC', 'kicadSymbolki_description': 'Adjustable 3A, 52KHz Step Down Converter, TO263-5 (D2-PAK)', 'kicadSymbolki_fp_filters': 'TO?263*'}])
-    newPart['name'].append('GL2576-ATA5R')
+    newPart['name'].append('Regulator_Switching : GL2576-ATA5R')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'AUIPS7111S', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AUIR3320S', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-4', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/auir3320s.pdf?fileId=5546d462533600a4015355a867d01356', 'kicadSymbolki_keywords': 'high side switch', 'kicadSymbolki_description': 'Low EMI Current Sense High Side Switch, 26V, 55A, D2PAK-5L', 'kicadSymbolki_fp_filters': 'TO?263*'}])
-    newPart['name'].append('AUIR3320S')
+    newPart['name'].append('Power_Management : AUIR3320S')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

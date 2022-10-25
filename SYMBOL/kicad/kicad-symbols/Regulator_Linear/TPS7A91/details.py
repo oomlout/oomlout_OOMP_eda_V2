@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS7A91', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PDSO-N10_EP1.2x2mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps7a91.pdf', 'kicadSymbolki_keywords': 'LDO voltage regulator', 'kicadSymbolki_description': '1A, High-Accuracy, Low-Noise LDO Voltage Regulator, Texas S-PDSO-N10', 'kicadSymbolki_fp_filters': 'Texas*S*PDSO*'}])
-    newPart['name'].append('TPS7A91')
+    newPart['name'].append('Regulator_Linear : TPS7A91')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

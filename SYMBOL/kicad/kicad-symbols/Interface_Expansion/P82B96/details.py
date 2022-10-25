@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'P82B96', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.nxp.com/documents/data_sheet/P82B96.pdf', 'kicadSymbolki_keywords': 'I2C Bus Buffer', 'kicadSymbolki_description': 'Dual I2C Bus Buffer, DIP8/SO8/TSSOP8', 'kicadSymbolki_fp_filters': 'DIP* PDIP* SOIC* SO* TSSOP*'}])
-    newPart['name'].append('P82B96')
+    newPart['name'].append('Interface_Expansion : P82B96')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

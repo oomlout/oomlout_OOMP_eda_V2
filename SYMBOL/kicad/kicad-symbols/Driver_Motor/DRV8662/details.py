@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DRV8662', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PVQFN-N20_EP2.7x2.7mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/drv8662.pdf', 'kicadSymbolki_keywords': 'piezo driver boost', 'kicadSymbolki_description': 'Piezo Haptic Driver with Integrated Boost Converter', 'kicadSymbolki_fp_filters': 'Texas*S*PVQFN*EP2.7x2.7mm*ThermalVias*'}])
-    newPart['name'].append('DRV8662')
+    newPart['name'].append('Driver_Motor : DRV8662')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

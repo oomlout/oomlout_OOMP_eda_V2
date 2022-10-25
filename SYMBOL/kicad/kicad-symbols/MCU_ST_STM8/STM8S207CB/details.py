@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'STM8S208CB', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM8S207CB', 'kicadSymbolFootprint': 'Package_QFP:LQFP-48_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/stm8s208cb.pdf', 'kicadSymbolki_keywords': 'STM8 Microcontroller Performance Line', 'kicadSymbolki_description': '24MHz, 128K Flash, 2K EEPROM, 10-bit ADC, 2 UARTs, SPI, I²C, LQFP-48', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.5mm*'}])
-    newPart['name'].append('STM8S207CB')
+    newPart['name'].append('MCU_ST_STM8 : STM8S207CB')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM5175RHF', 'kicadSymbolFootprint': 'Package_DFN_QFN:VQFN-28-1EP_4x5mm_P0.5mm_EP2.55x3.55mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm5175.pdf', 'kicadSymbolki_keywords': 'Buck Boost step-up step-down', 'kicadSymbolki_description': '42-V wide Vin synchronous 4-switch Buck-Boost controller, QFN-28 package', 'kicadSymbolki_fp_filters': 'VQFN*4x5mm*P0.5*'}])
-    newPart['name'].append('LM5175RHF')
+    newPart['name'].append('Regulator_Switching : LM5175RHF')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

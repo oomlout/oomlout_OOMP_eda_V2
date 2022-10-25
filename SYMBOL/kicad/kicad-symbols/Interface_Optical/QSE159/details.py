@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'QSE159', 'kicadSymbolFootprint': 'OptoDevice:ONSemi_QSE15x', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/QSE159-D.pdf', 'kicadSymbolki_keywords': 'opto IR', 'kicadSymbolki_description': 'Plastic Silicon Photosensor', 'kicadSymbolki_fp_filters': '*QSE15*'}])
-    newPart['name'].append('QSE159')
+    newPart['name'].append('Interface_Optical : QSE159')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

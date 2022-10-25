@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'A', 'kicadSymbolValue': 'Adafruit_Feather_32u4_BluefruitLE', 'kicadSymbolFootprint': 'Module:Adafruit_Feather', 'kicadSymbolDatasheet': 'https://cdn-learn.adafruit.com/downloads/pdf/adafruit-feather-32u4-bluefruit-le.pdf', 'kicadSymbolki_keywords': 'Adafruit feather microcontroller module USB AVR ATmega32U4  Bluetooth BLE', 'kicadSymbolki_description': 'Microcontroller module with ATmega32u4 MCU and bluetooth', 'kicadSymbolki_fp_filters': 'Adafruit*Feather*'}])
-    newPart['name'].append('Adafruit_Feather_32u4_BluefruitLE')
+    newPart['name'].append('MCU_Module : Adafruit_Feather_32u4_BluefruitLE')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

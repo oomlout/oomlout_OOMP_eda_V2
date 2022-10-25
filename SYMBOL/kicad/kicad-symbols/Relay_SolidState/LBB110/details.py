@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'TLP222A-2', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LBB110', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ixysic.com/home/pdfs.nsf/www/LBB110.pdf/$file/LBB110.pdf', 'kicadSymbolki_keywords': 'Dual MOSFET Output Photorelay 1-Form-B', 'kicadSymbolki_description': 'Dual Single-Pole, Normally Closed OptoMOS® Relay, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}])
-    newPart['name'].append('LBB110')
+    newPart['name'].append('Relay_SolidState : LBB110')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

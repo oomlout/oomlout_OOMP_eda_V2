@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'ZPYxx', 'kicadSymbolReference': 'D', 'kicadSymbolValue': '1N53xxB', 'kicadSymbolFootprint': 'Diode_THT:D_DO-201_P15.24mm_Horizontal', 'kicadSymbolDatasheet': 'https://diotec.com/tl_files/diotec/files/pdf/datasheets/1n5345b.pdf', 'kicadSymbolki_keywords': 'zener diode', 'kicadSymbolki_description': '5000mW Zener Diode, DO-201', 'kicadSymbolki_fp_filters': 'D*DO?201*'}])
-    newPart['name'].append('1N53xxB')
+    newPart['name'].append('Diode : 1N53xxB')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

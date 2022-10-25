@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM16255K', 'kicadSymbolFootprint': 'Display:LM16255', 'kicadSymbolDatasheet': 'http://pdf.datasheetcatalog.com/datasheet/Sharp/mXvtrzw.pdf', 'kicadSymbolki_keywords': 'display LCD dot-matrix', 'kicadSymbolki_description': '2 Lines, 12 character reflective LCD', 'kicadSymbolki_fp_filters': '*LM16255*'}])
-    newPart['name'].append('LM16255K')
+    newPart['name'].append('Display_Character : LM16255K')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

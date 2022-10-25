@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MSP430F5227IYFF', 'kicadSymbolFootprint': 'Package_BGA:Texas_DSBGA-64_3.415x3.535mm_Layout8x8_P0.4mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/msp430f5227.pdf', 'kicadSymbolki_keywords': 'TI MSP430 16-bit mixed signal microcontroller', 'kicadSymbolki_description': '64kB Flash, 8kB RAM, BGA-64', 'kicadSymbolki_fp_filters': 'Texas*DSBGA*3.415x3.535mm*Layout8x8*P0.4mm*'}])
-    newPart['name'].append('MSP430F5227IYFF')
+    newPart['name'].append('MCU_Texas_MSP430 : MSP430F5227IYFF')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

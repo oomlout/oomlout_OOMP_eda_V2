@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'MGJ3T05150505MC', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MGJ3T12150505MC', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_Murata_MGJ3', 'kicadSymbolDatasheet': 'https://power.murata.com/datasheet?/data/power/ncl/kdc_mgj3.pdf', 'kicadSymbolki_keywords': 'DC/DC converter', 'kicadSymbolki_description': '5.2kVDC Isolated 3W Gate Drive, 9-18V Vin, +15V/-5V or +15V/-10V or +20V/-5V Vout', 'kicadSymbolki_fp_filters': 'Converter*DCDC*Murata*MGJ3*'}])
-    newPart['name'].append('MGJ3T12150505MC')
+    newPart['name'].append('Converter_DCDC : MGJ3T12150505MC')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

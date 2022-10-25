@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BUF602xDBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/buf602.pdf', 'kicadSymbolki_keywords': 'buffer amplifier', 'kicadSymbolki_description': 'High-Speed, 1000 MHz, Closed-Loop Buffer, SOT23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}])
-    newPart['name'].append('BUF602xDBV')
+    newPart['name'].append('Amplifier_Buffer : BUF602xDBV')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'RT314A03', 'kicadSymbolFootprint': 'Relay_THT:Relay_SPDT_Schrack-RT1-16A-FormC_RM5mm', 'kicadSymbolDatasheet': 'https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=RT1_bistable&DocType=DS&DocLang=English', 'kicadSymbolki_keywords': 'TE SPDT 1P2T CO bistable DC', 'kicadSymbolki_description': 'Schrack RT1 relay, bistable single pole dual throw, single DC coil, 3V', 'kicadSymbolki_fp_filters': 'Relay*SPDT*Schrack*RT1*16A*FormC*RM5mm*'}])
-    newPart['name'].append('RT314A03')
+    newPart['name'].append('Relay : RT314A03')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

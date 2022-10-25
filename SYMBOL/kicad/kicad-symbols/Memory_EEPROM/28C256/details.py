@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '28C256', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc0006.pdf', 'kicadSymbolki_keywords': 'Parallel EEPROM 256Kb', 'kicadSymbolki_description': 'Paged Parallel EEPROM 256Kb (32K x 8), DIP-28/SOIC-28', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm* SOIC*7.5x17.9mm*P1.27mm*'}])
-    newPart['name'].append('28C256')
+    newPart['name'].append('Memory_EEPROM : 28C256')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'BPW21', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BPX61', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-5-2_Window', 'kicadSymbolDatasheet': 'http://www.osram-os.com/Graphics/XPic3/00101650_0.pdf', 'kicadSymbolki_keywords': 'photodiode opto', 'kicadSymbolki_description': 'Silicon Photodiode for the visible spectral range', 'kicadSymbolki_fp_filters': 'TO?5*Window*'}])
-    newPart['name'].append('BPX61')
+    newPart['name'].append('Sensor_Optical : BPX61')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

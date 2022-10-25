@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'SFH482', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SFH480', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-18-2_Window', 'kicadSymbolDatasheet': 'http://www.osram-os.com/Graphics/XPic1/00083613_0.pdf', 'kicadSymbolki_keywords': 'IR LED Opto', 'kicadSymbolki_description': 'GaAlAs Infrared LED (880 nm), TO-18 package', 'kicadSymbolki_fp_filters': 'TO?18*Window*'}])
-    newPart['name'].append('SFH480')
+    newPart['name'].append('LED : SFH480')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

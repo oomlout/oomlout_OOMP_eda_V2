@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'MIC845H', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MIC845L', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-353_SC-70-5', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/mic845.pdf', 'kicadSymbolki_keywords': 'single cmp', 'kicadSymbolki_description': 'Micro-Power Comparator / Battery Monitor, Active-Low Push-Pull Output, SC-70-5', 'kicadSymbolki_fp_filters': '*SC?70*'}])
-    newPart['name'].append('MIC845L')
+    newPart['name'].append('Comparator : MIC845L')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

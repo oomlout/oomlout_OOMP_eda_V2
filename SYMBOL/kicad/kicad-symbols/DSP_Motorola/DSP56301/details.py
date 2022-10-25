@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DSP56301', 'kicadSymbolFootprint': 'Package_QFP:PQFP-208_28x28mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/DSP56301DS.pdf', 'kicadSymbolki_keywords': 'DSP PCI', 'kicadSymbolki_description': '24-Bit Digital Signal Processor with PCI bus interface', 'kicadSymbolki_fp_filters': 'PQFP*28x28mm*P0.5mm*'}])
-    newPart['name'].append('DSP56301')
+    newPart['name'].append('DSP_Motorola : DSP56301')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

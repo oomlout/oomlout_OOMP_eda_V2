@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP4017-xxxxLT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/22147a.pdf', 'kicadSymbolki_keywords': 'TWI pot rheostat', 'kicadSymbolki_description': 'Low-Cost 128-Step Volatile I2C Digital Potentiometer, SC-70-6', 'kicadSymbolki_fp_filters': '*SC?70*'}])
-    newPart['name'].append('MCP4017-xxxxLT')
+    newPart['name'].append('Potentiometer_Digital : MCP4017-xxxxLT')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

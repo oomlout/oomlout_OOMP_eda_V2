@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_MEC_5G', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.apem.com/int/index.php?controller=attachment&id_attachment=488', 'kicadSymbolki_keywords': 'switch normally-open pushbutton push-button', 'kicadSymbolki_description': 'MEC 5G single pole normally-open tactile switch', 'kicadSymbolki_fp_filters': 'SW*MEC*5G*'}])
-    newPart['name'].append('SW_MEC_5G')
+    newPart['name'].append('Switch : SW_MEC_5G')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

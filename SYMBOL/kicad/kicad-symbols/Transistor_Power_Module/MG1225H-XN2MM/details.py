@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'FS75R07N2E4', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MG1225H-XN2MM', 'kicadSymbolFootprint': 'Transistor_Power_Module:Littelfuse_Package_H_XN2MM', 'kicadSymbolDatasheet': 'https://www.littelfuse.com/~/media/electronics/datasheets/power_semiconductors/littelfuse_power_semiconductor_igbt_module_mg1225h_xn2mm_datasheet.pdf.pdf', 'kicadSymbolki_keywords': 'IGBT Power Module Trench Field Stop Technology', 'kicadSymbolki_description': '25A, 1200V, 147W x 6 , 3-phase, Freewheeling Diode, 5k NTC, Package-H (XN2MM)', 'kicadSymbolki_fp_filters': 'Littelfuse*Package*H*XN2MM*'}])
-    newPart['name'].append('MG1225H-XN2MM')
+    newPart['name'].append('Transistor_Power_Module : MG1225H-XN2MM')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

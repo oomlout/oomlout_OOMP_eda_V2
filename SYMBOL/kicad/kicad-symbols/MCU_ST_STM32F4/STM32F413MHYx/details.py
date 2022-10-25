@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'STM32F413MGYx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F413MHYx', 'kicadSymbolFootprint': 'Package_CSP:ST_WLCSP-81_Die463', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00282249.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32F4 STM32F413/423', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 1536KB flash, 320KB RAM, 100MHz, 1.7-3.6V, 60 GPIO, WLCSP-81', 'kicadSymbolki_fp_filters': 'ST_WLCSP*Die463*'}])
-    newPart['name'].append('STM32F413MHYx')
+    newPart['name'].append('MCU_ST_STM32F4 : STM32F413MHYx')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

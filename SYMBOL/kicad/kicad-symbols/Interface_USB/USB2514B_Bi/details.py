@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'USB2514B_Bi', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-36-1EP_6x6mm_P0.5mm_EP3.7x3.7mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/00001692C.pdf', 'kicadSymbolki_keywords': 'USB2.0 Hi-Speed-USB-Hub Hub-Controller', 'kicadSymbolki_description': 'USB 2.0 Hi-Speed Hub Controller', 'kicadSymbolki_fp_filters': 'QFN*6x6mm*P0.5mm*'}])
-    newPart['name'].append('USB2514B_Bi')
+    newPart['name'].append('Interface_USB : USB2514B_Bi')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

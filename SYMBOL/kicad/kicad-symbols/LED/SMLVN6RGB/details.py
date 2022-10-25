@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SMLVN6RGB', 'kicadSymbolFootprint': 'LED_SMD:LED_ROHM_SMLVN6', 'kicadSymbolDatasheet': 'https://www.rohm.com/datasheet/SMLVN6RGB1U', 'kicadSymbolki_keywords': 'LED RGB Diode', 'kicadSymbolki_description': 'High Brightness Tri-Color LED, RGB, 3.5x2.8mm', 'kicadSymbolki_fp_filters': 'LED*ROHM*SMLVN6*'}])
-    newPart['name'].append('SMLVN6RGB')
+    newPart['name'].append('LED : SMLVN6RGB')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

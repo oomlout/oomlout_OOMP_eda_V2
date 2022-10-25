@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'UMS05-1A80-75L', 'kicadSymbolFootprint': 'Relay_THT:Relay_StandexMeder_UMS', 'kicadSymbolDatasheet': 'https://standexelectronics.com/de/produkte/ums-reed-relais/', 'kicadSymbolki_keywords': 'Single Pole Reed Relay SPST', 'kicadSymbolki_description': 'Standex Meder UMS reed relay, SPST, Closing Contact', 'kicadSymbolki_fp_filters': 'Relay*StandexMeder*UMS*'}])
-    newPart['name'].append('UMS05-1A80-75L')
+    newPart['name'].append('Relay : UMS05-1A80-75L')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

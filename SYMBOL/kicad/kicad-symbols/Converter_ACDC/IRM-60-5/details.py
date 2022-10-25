@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'IRM-60-5', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_MeanWell_IRM-60-xx_THT', 'kicadSymbolDatasheet': 'http://www.meanwellusa.com/productPdf.aspx?i=687', 'kicadSymbolki_keywords': 'Miniature Module-type Power Supply MeanWell', 'kicadSymbolki_description': '5V, 10A, 50W, Isolated, AC-DC, IRM60', 'kicadSymbolki_fp_filters': 'Converter*ACDC*MeanWell*IRM*60*THT*'}])
-    newPart['name'].append('IRM-60-5')
+    newPart['name'].append('Converter_ACDC : IRM-60-5')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC68000FN', 'kicadSymbolFootprint': 'Package_LCC:PLCC-68', 'kicadSymbolDatasheet': 'http://www.nxp.com/files/32bit/doc/ref_manual/MC68000UM.pdf', 'kicadSymbolki_keywords': 'MPRO', 'kicadSymbolki_description': 'Microprocessor, 16-bit bus', 'kicadSymbolki_fp_filters': 'PLCC*'}])
-    newPart['name'].append('MC68000FN')
+    newPart['name'].append('CPU_NXP_68000 : MC68000FN')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

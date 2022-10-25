@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX1615xUK', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX1615-MAX1616.pdf', 'kicadSymbolki_keywords': 'Linear Voltage Regulator', 'kicadSymbolki_description': 'High Voltage, Low Power Linear Regulator for Notebook PCs - 3.3V or 5V Fixed', 'kicadSymbolki_fp_filters': 'SOT?23?5*'}])
-    newPart['name'].append('MAX1615xUK')
+    newPart['name'].append('Regulator_Linear : MAX1615xUK')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

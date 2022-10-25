@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SPF5189Z', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-89-3', 'kicadSymbolDatasheet': 'www.qorvo.com/products/d/da001910', 'kicadSymbolki_keywords': 'RF GAIN BLOCK', 'kicadSymbolki_description': '50MHz to 4000MHz, GaAs pHEMT low noise MMIC amplifier, SOT-89', 'kicadSymbolki_fp_filters': 'SOT?89*'}])
-    newPart['name'].append('SPF5189Z')
+    newPart['name'].append('RF_Amplifier : SPF5189Z')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

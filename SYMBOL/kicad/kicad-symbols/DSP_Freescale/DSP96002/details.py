@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DSP96002', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://cache.freescale.com/files/dsp/doc/inactive/DSP96002.pdf', 'kicadSymbolki_keywords': 'DSP 32bit Dual Port Processor', 'kicadSymbolki_description': '32-bit General Purpose Floating-point DSP, Dual Port, PGA-223', 'kicadSymbolki_fp_filters': 'PGA-223*'}])
-    newPart['name'].append('DSP96002')
+    newPart['name'].append('DSP_Freescale : DSP96002')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

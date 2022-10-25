@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'LM2990SX-5.0', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2990SX-12', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm2990.pdf', 'kicadSymbolki_keywords': 'Negative voltage regulator', 'kicadSymbolki_description': 'Three termianl low-dropout 1A negative voltage regulator, Input -6V to -26V, Out -12V', 'kicadSymbolki_fp_filters': 'TO?263*TabPin2* TO?220*'}])
-    newPart['name'].append('LM2990SX-12')
+    newPart['name'].append('Regulator_Linear : LM2990SX-12')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

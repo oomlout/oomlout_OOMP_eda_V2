@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MMC5633NJL', 'kicadSymbolFootprint': 'Package_BGA:WLP-4_0.86x0.86mm_P0.4mm', 'kicadSymbolDatasheet': 'http://www.memsic.com/uploadfiles/2020/08/20200827165106864.pdf', 'kicadSymbolki_keywords': 'I2C I3C magnetic 3-axis sensor magnetometer AMR magnetoresistance', 'kicadSymbolki_description': '3-axis AMR Magnetometer, 30 G, I2C & I3C  Interface, 2mG RMS, WLP-4', 'kicadSymbolki_fp_filters': 'WLP*0.86x0.86mm?P0.4mm*'}])
-    newPart['name'].append('MMC5633NJL')
+    newPart['name'].append('Sensor_Magnetic : MMC5633NJL')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

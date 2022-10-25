@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'LTSR6-NP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTSR25-NP', 'kicadSymbolFootprint': 'Sensor_Current:LEM_LTSR-NP', 'kicadSymbolDatasheet': 'https://www.lem.com/sites/default/files/products_datasheets/ltsr_25-np.pdf', 'kicadSymbolki_keywords': 'current transducer', 'kicadSymbolki_description': 'Current Transducer, Unipolar, 25A, 5V supply, DC, AC, pulsed', 'kicadSymbolki_fp_filters': 'LEM*LTSR*NP*'}])
-    newPart['name'].append('LTSR25-NP')
+    newPart['name'].append('Sensor_Current : LTSR25-NP')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

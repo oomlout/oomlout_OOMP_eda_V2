@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'CDP1802ACE', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CDP1802BCE', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://www.cosmacelf.com/publications/data-sheets/cdp1802.pdf', 'kicadSymbolki_keywords': 'CPU Processor', 'kicadSymbolki_description': '8-bit, General Purpose, 5V, 5 MHz, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}])
-    newPart['name'].append('CDP1802BCE')
+    newPart['name'].append('CPU : CDP1802BCE')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

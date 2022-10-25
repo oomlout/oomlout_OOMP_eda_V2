@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'XC7VH580T-FLG1155', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC7VH580T-HCG1155', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Virtex 7 HT 580 XC7VH580T-FLG1155'}])
-    newPart['name'].append('XC7VH580T-HCG1155')
+    newPart['name'].append('FPGA_Xilinx_Virtex7 : XC7VH580T-HCG1155')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCP133AMX100TCG', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/NCP133-D.PDF', 'kicadSymbolki_keywords': 'Single Output LDO', 'kicadSymbolki_description': '500  mA  VLDO  equipped  with  NMOS  pass transistor  and  a  separate  bias  supply  voltage', 'kicadSymbolki_fp_filters': 'DFN?6?1EP*1.2x1.2mm*P0.4mm*'}])
-    newPart['name'].append('NCP133AMX100TCG')
+    newPart['name'].append('Regulator_Linear : NCP133AMX100TCG')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

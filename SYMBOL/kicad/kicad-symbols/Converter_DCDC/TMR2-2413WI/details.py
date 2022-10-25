@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'TMR2-2410WI', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TMR2-2413WI', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_TRACO_TMR-2xxxxWI_THT', 'kicadSymbolDatasheet': 'https://www.tracopower.com/products/tmr2wi.pdf', 'kicadSymbolki_keywords': 'Traco isolated isolation dc-dc converter transformer', 'kicadSymbolki_description': '135mA Regulated 2W DC/DC converter with 1.5kV isolation, 9V-36V input, 15V fixed Output Voltage, SIP-9', 'kicadSymbolki_fp_filters': 'Converter*DCDC*TRACO*TMR*2xxxxWI*'}])
-    newPart['name'].append('TMR2-2413WI')
+    newPart['name'].append('Converter_DCDC : TMR2-2413WI')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

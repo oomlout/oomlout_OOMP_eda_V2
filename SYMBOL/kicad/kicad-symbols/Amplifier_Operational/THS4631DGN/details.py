@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'THS4631DDA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'THS4631DGN', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'www.ti.com/lit/ds/symlink/ths4631.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Single High-voltage, High Slew Rate, Wideband, FET-input Operational Amplifier, MSOP-8', 'kicadSymbolki_fp_filters': 'SOIC*1EP*3.9x4.9mm*P1.27mm* MSOP*1EP*3x3mm*P0.65mm*'}])
-    newPart['name'].append('THS4631DGN')
+    newPart['name'].append('Amplifier_Operational : THS4631DGN')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

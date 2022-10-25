@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PE29101', 'kicadSymbolFootprint': 'Package_CSP:pSemi_CSP-16_1.64x2.04mm_P0.4mm', 'kicadSymbolDatasheet': 'http://www.psemi.com/pdf/datasheets/pe29101ds.pdf', 'kicadSymbolki_keywords': 'GaN Gate Driver', 'kicadSymbolki_description': 'UltraCMOS High-Speed FET Driver, 40 MHz, Output Current 2.0A/4.0A, 80V, Half Bridge, Low Side Output, CSP-16', 'kicadSymbolki_fp_filters': 'pSemi*CSP*1.64x2.04mm*P0.4mm*'}])
-    newPart['name'].append('PE29101')
+    newPart['name'].append('Driver_FET : PE29101')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

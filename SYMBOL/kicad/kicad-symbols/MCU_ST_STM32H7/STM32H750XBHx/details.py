@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'STM32H753XIHx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32H750XBHx', 'kicadSymbolFootprint': 'Package_BGA:TFBGA-265_14x14mm_Layout17x17_P0.8mm', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/stm32h750ib.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M7 STM32H7', 'kicadSymbolki_description': 'ARM Cortex-M7 MCU, 128KB flash, 864KB RAM, 480MHz, 1.7-3.6V, 168 GPIO, TFBGA-240', 'kicadSymbolki_fp_filters': 'TFBGA*14x14mm*Layout17x17*P0.8mm*'}])
-    newPart['name'].append('STM32H750XBHx')
+    newPart['name'].append('MCU_ST_STM32H7 : STM32H750XBHx')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

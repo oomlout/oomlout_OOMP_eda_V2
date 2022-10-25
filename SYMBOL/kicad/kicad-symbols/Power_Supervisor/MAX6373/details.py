@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'MAX6369', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX6373', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-8', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX6369-MAX6374.pdf', 'kicadSymbolki_keywords': 'watchdog supervisor', 'kicadSymbolki_description': 'Precision Pin-Selectable Watchdog Timer, 200us to 60s, SOT-23-8', 'kicadSymbolki_fp_filters': 'SOT?23*'}])
-    newPart['name'].append('MAX6373')
+    newPart['name'].append('Power_Supervisor : MAX6373')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

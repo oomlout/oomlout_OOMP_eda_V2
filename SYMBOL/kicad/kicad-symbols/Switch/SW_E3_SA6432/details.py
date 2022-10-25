@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'SW_E3_SA3216', 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_E3_SA6432', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.e3-keys.com/files/SA%20Technical%20Datasheet%20v2.0.pdf', 'kicadSymbolki_keywords': 'switch normally-open pushbutton push-button LCD', 'kicadSymbolki_description': 'Push button switch with LCD screen', 'kicadSymbolki_fp_filters': 'SW?PUSH?LCD?E3?SAxxxx*'}])
-    newPart['name'].append('SW_E3_SA6432')
+    newPart['name'].append('Switch : SW_E3_SA6432')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

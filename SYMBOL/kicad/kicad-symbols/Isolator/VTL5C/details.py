@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'VTL5C', 'kicadSymbolFootprint': 'OptoDevice:PerkinElmer_VTL5C', 'kicadSymbolDatasheet': 'http://www.qsl.net/wa1ion/vactrol/vactrol.pdf', 'kicadSymbolki_keywords': 'vactrol', 'kicadSymbolki_description': 'Low Cost Axial Vactrols', 'kicadSymbolki_fp_filters': 'PerkinElmer*VTL5C*'}])
-    newPart['name'].append('VTL5C')
+    newPart['name'].append('Isolator : VTL5C')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'MAX5436', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX5438', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX5436-MAX5439.pdf', 'kicadSymbolki_keywords': 'digital potentiometer resistor variable', 'kicadSymbolki_description': 'Low-Drift Digital Potentiometer'}])
-    newPart['name'].append('MAX5438')
+    newPart['name'].append('Potentiometer_Digital : MAX5438')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

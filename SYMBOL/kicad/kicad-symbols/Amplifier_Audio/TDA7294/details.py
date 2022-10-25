@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': 'TDA7293', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDA7294', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-15_P2.54x2.54mm_StaggerOdd_Lead4.58mm_Vertical', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/tda7294.pdf', 'kicadSymbolki_keywords': 'audio amplifier', 'kicadSymbolki_description': '100V - 100W DMOS Audio Amplifier with Mute/St-by, TO-220-15', 'kicadSymbolki_fp_filters': 'TO?220*StaggerOdd*'}])
-    newPart['name'].append('TDA7294')
+    newPart['name'].append('Amplifier_Audio : TDA7294')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

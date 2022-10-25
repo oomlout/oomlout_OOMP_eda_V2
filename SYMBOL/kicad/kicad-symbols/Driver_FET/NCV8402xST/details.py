@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "kicad-symbols"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'NCV8402xST', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/NCV8402-D.PDF', 'kicadSymbolki_keywords': 'MOSFET ESD Overcurrent', 'kicadSymbolki_description': 'Self-Protected Low Side Driver with Temperature and Current Limit, SOT−223', 'kicadSymbolki_fp_filters': 'SOT?223*'}])
-    newPart['name'].append('NCV8402xST')
+    newPart['name'].append('Driver_FET : NCV8402xST')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 
