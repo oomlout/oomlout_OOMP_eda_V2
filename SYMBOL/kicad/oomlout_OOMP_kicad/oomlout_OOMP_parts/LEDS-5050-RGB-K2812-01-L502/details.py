@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "oomlout_OOMP_kicad"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LEDS-5050-RGB-K2812-01-L502', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:LEDS-5050-RGB-K2812-01-L502', 'kicadSymbolDatasheet': 'oom.lt/L502', 'kicadSymbolki_keywords': 'LED diode', 'kicadSymbolki_description': 'hexID: L502;Light emitting diode', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}])
-    newPart['name'].append('LEDS-5050-RGB-K2812-01-L502')
+    newPart['name'].append('oomlout_OOMP_parts : LEDS-5050-RGB-K2812-01-L502')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

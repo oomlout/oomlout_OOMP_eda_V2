@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "oomlout_OOMP_kicad"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HEAD-JSTSH-X-PI18-RS-HSHR18', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:HEAD-JSTSH-X-PI18-RS-HSHR18', 'kicadSymbolDatasheet': 'oom.lt/HSHR18', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'hexID: HSHR18;Generic connector, single row, 01x18, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_1x??_*'}])
-    newPart['name'].append('HEAD-JSTSH-X-PI18-RS-HSHR18')
+    newPart['name'].append('oomlout_OOMP_parts : HEAD-JSTSH-X-PI18-RS-HSHR18')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

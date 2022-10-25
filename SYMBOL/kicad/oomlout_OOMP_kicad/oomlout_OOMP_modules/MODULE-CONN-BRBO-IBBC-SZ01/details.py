@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "oomlout_OOMP_kicad"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MODULE-CONN-BRBO-IBBC-SZ01', 'kicadSymbolFootprint': 'oomlout_OOMP_modules:MODULE-CONN-BRBO-IBBC-SZ01', 'kicadSymbolDatasheet': 'oom.lt/MCBI1'}])
-    newPart['name'].append('MODULE-CONN-BRBO-IBBC-SZ01')
+    newPart['name'].append('oomlout_OOMP_modules : MODULE-CONN-BRBO-IBBC-SZ01')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

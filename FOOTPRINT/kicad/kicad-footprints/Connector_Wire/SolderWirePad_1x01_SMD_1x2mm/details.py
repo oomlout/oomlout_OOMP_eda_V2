@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "FOOTPRINT"
     oSize = "kicad"
     oColor = "kicad-footprints"
@@ -17,15 +17,12 @@ def load(newPart):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['footprintKicadDetails'].append({'name': 'SolderWirePad_1x01_SMD_1x2mm', 'description': 'Wire Pad, Square, SMD Pad,  5mm x 10mm,', 'tags': 'MesurementPoint Square SMDPad 5mmx10mm ', 'attributeType': None, 'pins': {'type': 'smd', 'shape': 'roundrect'}})
+    newPart['footprintKicadDetails'].append({'name': 'SolderWirePad_1x01_SMD_1x2mm', 'description': 'Wire Pad, Square, SMD Pad,  1mm x 2mm,', 'tags': 'MesurementPoint Square SMDPad 1mmx2mm ', 'attributeType': None, 'pins': {'type': 'smd', 'shape': 'roundrect'}})
     newPart['name'].append('Connector_Wire : SolderWirePad_1x01_SMD_1x2mm')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

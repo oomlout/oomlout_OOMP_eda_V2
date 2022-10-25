@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "oomlout_OOMP_kicad"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'MOSN-T252-X-K4184-01-MN2524184A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:MOSN-T252-X-K4184-01-MN2524184A', 'kicadSymbolDatasheet': 'oom.lt/MN2524184A', 'kicadSymbolki_keywords': 'transistor NMOS N-MOS N-MOSFET', 'kicadSymbolki_description': 'hexID: MN2524184A;N-MOSFET transistor, gate/drain/source'}])
-    newPart['name'].append('MOSN-T252-X-K4184-01-MN2524184A')
+    newPart['name'].append('oomlout_OOMP_parts : MOSN-T252-X-K4184-01-MN2524184A')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

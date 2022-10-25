@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "oomlout_OOMP_kicad"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0603-X-UF1-V50-C6U1-C15849', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0603-X-UF1-V50-C6U1-C15849', 'kicadSymbolDatasheet': 'oom.lt/C6U1', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C6U1;PARTL C-JLCC;C15849;MANUF C-XXXX;CL10A105KB8NNNC;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}])
-    newPart['name'].append('CAPC-0603-X-UF1-V50-C6U1-C15849')
+    newPart['name'].append('oomlout_OOMP_JLCC_Basic : CAPC-0603-X-UF1-V50-C6U1-C15849')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "oomlout_OOMP_kicad"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCUU-SC14-84-ATTINY-01-MCAT84SC14', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:MCUU-SC14-84-ATTINY-01-MCAT84SC14', 'kicadSymbolDatasheet': 'oom.lt/MCAT84SC14', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller tinyAVR', 'kicadSymbolki_description': 'hexID: MCAT84SC14;12MHz, 2kB Flash, 128B SRAM, No EEPROM, SOIC-14', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm*'}])
-    newPart['name'].append('MCUU-SC14-84-ATTINY-01-MCAT84SC14')
+    newPart['name'].append('oomlout_OOMP_parts : MCUU-SC14-84-ATTINY-01-MCAT84SC14')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

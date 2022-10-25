@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "oomlout_OOMP_kicad"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O621-01-R6O621-C23220', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O621-01-R6O621-C23220', 'kicadSymbolDatasheet': 'oom.lt/R6O621', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6O621;PARTL C-JLCC;C23220;MANUF C-XXXX;0603WAF6200T5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}])
-    newPart['name'].append('RESE-0603-X-O621-01-R6O621-C23220')
+    newPart['name'].append('oomlout_OOMP_JLCC_Basic : RESE-0603-X-O621-01-R6O621-C23220')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "oomlout_OOMP_kicad"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'BUTA-4628-X-STAN-01-BT4628', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:BUTA-4628-X-STAN-01-BT4628', 'kicadSymbolDatasheet': 'oom.lt/BT4628', 'kicadSymbolki_keywords': 'switch normally-open pushbutton push-button', 'kicadSymbolki_description': 'hexID: BT4628;Push button switch, generic, two pins'}])
-    newPart['name'].append('BUTA-4628-X-STAN-01-BT4628')
+    newPart['name'].append('oomlout_OOMP_parts : BUTA-4628-X-STAN-01-BT4628')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

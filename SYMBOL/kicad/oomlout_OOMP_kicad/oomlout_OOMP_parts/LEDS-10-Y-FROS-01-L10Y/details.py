@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "oomlout_OOMP_kicad"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LEDS-10-Y-FROS-01-L10Y', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:LEDS-10-Y-FROS-01-L10Y', 'kicadSymbolDatasheet': 'oom.lt/L10Y', 'kicadSymbolki_keywords': 'LED diode', 'kicadSymbolki_description': 'hexID: L10Y;Light emitting diode', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}])
-    newPart['name'].append('LEDS-10-Y-FROS-01-L10Y')
+    newPart['name'].append('oomlout_OOMP_parts : LEDS-10-Y-FROS-01-L10Y')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

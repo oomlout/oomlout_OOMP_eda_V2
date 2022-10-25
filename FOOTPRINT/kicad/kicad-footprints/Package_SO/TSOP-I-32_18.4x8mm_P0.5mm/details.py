@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "FOOTPRINT"
     oSize = "kicad"
     oColor = "kicad-footprints"
@@ -17,15 +17,12 @@ def load(newPart):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['footprintKicadDetails'].append({'name': 'TSOP-I-32_18.4x8mm_P0.5mm', 'description': 'TSOP I, 32 pins, 18.4x8mm body (https://www.micron.com/~/media/documents/products/technical-note/nor-flash/tn1225_land_pad_design.pdf, http://www.fujitsu.com/downloads/MICRO/fma/pdfmcu/f32pm25.pdf)', 'tags': 'TSOP I 32', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSOP-I-32_18.4x8mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}})
+    newPart['footprintKicadDetails'].append({'name': 'TSOP-I-32_18.4x8mm_P0.5mm', 'description': 'TSOP-I, 32 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d variation BD), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'TSOP-I SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSOP-I-32_18.4x8mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}})
     newPart['name'].append('Package_SO : TSOP-I-32_18.4x8mm_P0.5mm')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

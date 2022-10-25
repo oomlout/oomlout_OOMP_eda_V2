@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "oomlout_OOMP_kicad"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'TERS-05-G-PI02-01-ST502G', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:TERS-05-G-PI02-01-ST502G', 'kicadSymbolDatasheet': 'oom.lt/ST502G', 'kicadSymbolki_keywords': 'screw terminal', 'kicadSymbolki_description': 'hexID: ST502G;Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'TerminalBlock*:*'}])
-    newPart['name'].append('TERS-05-G-PI02-01-ST502G')
+    newPart['name'].append('oomlout_OOMP_parts : TERS-05-G-PI02-01-ST502G')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "SYMBOL"
     oSize = "kicad"
     oColor = "oomlout_OOMP_kicad"
@@ -18,14 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicadDetails'].append([{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'TRNN-SO23-X-KS8050-01-TNS248050', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:TRNN-SO23-X-KS8050-01-TNS248050', 'kicadSymbolDatasheet': 'oom.lt/TNS248050', 'kicadSymbolki_keywords': 'transistor NPN', 'kicadSymbolki_description': 'hexID: TNS248050;NPN transistor, base/emitter/collector'}])
-    newPart['name'].append('TRNN-SO23-X-KS8050-01-TNS248050')
+    newPart['name'].append('oomlout_OOMP_parts : TRNN-SO23-X-KS8050-01-TNS248050')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 
